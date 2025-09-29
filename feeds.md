@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 10:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 11:01:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/29/russian-attacks-keep-pushing-the-limits-of-nato-countries?traffic_source=rss" target="_blank">Russian attacks keep “pushing the limits” of NATO countries</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 10:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Michigan-church-shooting-gty-bh-250928_1759088631092_hpMain_4x3t_384.jpg" alt="Investigators probe for motive in Michigan LDS church shooting, fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/investigators-probe-motive-michigan-church-shooting-fire/story?id=126030281" target="_blank">Investigators probe for motive in Michigan LDS church shooting, fire</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-29 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5556800/moldova-pro-eu-party-wins-elections-russia" target="_blank">Moldova&#x27;s pro-EU party wins clear parliamentary majority, defeating pro-Russian groups</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-29 09:41</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +102,20 @@
                 <span class="time">2025-09-29 07:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5556772/latin-superstar-bad-bunny-will-headline-the-2026-super-bowl-halftime-show" target="_blank">Latin superstar Bad Bunny will headline the 2026 Super Bowl halftime show</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-29 06:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/afghanistans-bagram-airbase-why-is-trump-desperate-to-take-it-back?traffic_source=rss" target="_blank">Afghanistan’s Bagram airbase: Why is Trump desperate to take it back?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 06:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/" target="_blank">Former Microsoft execs launch AI agents to end Excel-led finance</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d6d0a8376170d0ad19620f/master/pass/Tile_May2024.0787-gear.jpg" alt="Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +161,29 @@
                 <span class="time">2025-09-28 22:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot" target="_blank">Apple&amp;#8217;s &amp;#8216;Veritas&amp;#8217; chatbot is reportedly an employee-only test of Siri&amp;#8217;s AI upgrades</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-28 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/llms-evolution-ai-infrastructure/en/headerimage/llms-evolution-ai-infrastructure-header-1758096401785.jpg" alt="Article: Disaggregation in Large Language Models: The Next Evolution in AI Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/llms-evolution-ai-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Disaggregation in Large Language Models: The Next Evolution in AI Infrastructure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-29 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%215OcN%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F127ea4d8-e096-4f97-88be-4668d03b8fc8_100x100.png" alt="MIT LOBSTgER" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/mit-lobstger-2015" target="_blank">MIT LOBSTgER</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,30 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/09/dora-state-of-ai-in-dev-2025/en/headerimage/generatedHeaderImage-1759101451477.jpg" alt="DORA Report Finds AI Is an Amplifier in Software Development, but Trust Remains Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/dora-state-of-ai-in-dev-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DORA Report Finds AI Is an Amplifier in Software Development, but Trust Remains Low</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-29 08:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/" target="_blank">Queueing to publish in AI and CS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-29 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/apollo-client-4-released/en/headerimage/header-1758999901400.jpg" alt="Apollo GraphQL Client 4.0 Released with Leaner Bundles and Strengthened TypeScript Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/apollo-client-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apollo GraphQL Client 4.0 Released with Leaner Bundles and Strengthened TypeScript Safety</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-29 07:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/2025-Q3-Linux-Hardware-Recap" target="_blank">Ryzen AI Max+ With Framework Desktop, File-System Tests &amp; EPYC 4005 Dominated Q3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-29 08:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
