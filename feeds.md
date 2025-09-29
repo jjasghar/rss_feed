@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 01:29:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 02:28:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +53,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">At least four dead and several injured in shooting at Mormon church in Michigan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-29 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759105783018_f_mo_la_michigan_fatal_count_250928_1920x1080-l2poc7.jpg" alt="Number of dead rises as officials find more bodies in church" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/michigan-officials-found-additional-bodies-raising-fatal-victim-count-to-four-248553029523" target="_blank">Number of dead rises as officials find more bodies in church</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-29 00:29</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5556028/stowaway-american-airlines-flight-charlotte" target="_blank">Stowaway found dead in landing gear of American Airlines flight in Charlotte</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-28 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759094532628_nbc_spec_2dead_michshoot_250928_1920x1080-rn7e7g.jpg" alt="Michigan church shooting leaves 2 people dead, 8 injured" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/michigan-church-shooting-leaves-at-least-2-dead-multiple-injured-248543813638" target="_blank">Michigan church shooting leaves 2 people dead, 8 injured</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-28 21:22</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jesus_oviedoriquelme_084/mlzc25-05-analisis-exploratorio-de-datos-eda-el-arte-de-descubrir-historias-ocultas-4f7" target="_blank">MLZC25-05. Análisis Exploratorio de Datos (EDA): El Arte de Descubrir Historias Ocultas</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 02:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/kernel-6.17-newspaper-graphic.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Kernel 6.17 Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-DKMS-Announcement" target="_blank">Bcachefs Announces First-Tier Arch &amp; NixOS Support, Post-Experimental Release EOY</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-28 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbsrze706jv16iesz9npu.png" alt="Building a Serverless Dungeon Master Agent on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/building-a-serverless-dungeon-master-agent-on-aws-3j7k" target="_blank">Building a Serverless Dungeon Master Agent on AWS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 18:52</span>
             </div>
         </div>
 </div>
@@ -281,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5667.png" alt="Peer Pressurization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5667" target="_blank">Peer Pressurization</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-29 00:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1758680304-20250928.png" alt="Saturday Morning Breakfast Cereal - Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -294,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
