@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 11:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-29 12:02:42 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss" target="_blank">I have decided to stay in Gaza City as Israel seeks to wipe it out</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 11:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,29 @@
                 <span class="time">2025-09-29 08:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/29/perus-gen-z-rallies-against-president-boluarte?traffic_source=rss" target="_blank">Peru’s Gen Z rallies against President Boluarte</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 07:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/29/instagram-is-testing-a-reels-first-ui-in-india-and-south-korea/" target="_blank">Instagram is testing a Reels-first UI in India and South Korea</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/2024Ford_Mustang-GTD_RoadToTheRing_28-500x500-1758919610.jpg" alt="ZR1, GTD, and America’s new Nurburgring war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/" target="_blank">ZR1, GTD, and America’s new Nurburgring war</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-29 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +157,20 @@
                 <span class="time">2025-09-29 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/" target="_blank">The AI services transformation may be harder than VCs think</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-29 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/28/oura-ceo-talks-potential-ipo-and-nonnegotiable-data-privacy/" target="_blank">Oura CEO talks potential IPO and ‘nonnegotiable’ data privacy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-28 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/" target="_blank">What if I don&#x27;t want videos of my hobby time available to the world?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-29 11:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/llms-evolution-ai-infrastructure/en/headerimage/llms-evolution-ai-infrastructure-header-1758096401785.jpg" alt="Article: Disaggregation in Large Language Models: The Next Evolution in AI Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,13 +216,18 @@
                 <span class="time">2025-09-29 08:02</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/2025-Q3-Linux-Hardware-Recap" target="_blank">Ryzen AI Max+ With Framework Desktop, File-System Tests &amp; EPYC 4005 Dominated Q3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-29 08:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/abusing-notions-ai-agent-for-data-theft.html" target="_blank">Abusing Notion’s AI Agent for Data Theft</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-29 11:07</span>
             </div>
         </div>
 </div>
@@ -225,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Aeropress-Premium.jpg?fit=1080%2C922&amp;quality=60&amp;ssl=1" alt="If you ever wanted a fancy Aeropress, the borosilicate Premium edition is it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/29/if-you-ever-wanted-a-fancy-aeropress-the-borosilicate-premium-edition-is-it.html" target="_blank">If you ever wanted a fancy Aeropress, the borosilicate Premium edition is it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-29 11:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Microsoft-365.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Bring your big ideas to life with Microsoft 365&#x27;s powerful apps and secure storage — now $30 off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +289,6 @@
                 <span class="time">2025-09-28 15:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Western-Digital-Elements-Portable-USB-3.0-External-Hard-Drive.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Don&#x27;t trust the cloud! Store your precious memories on this portable USB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/28/dont-trust-the-cloud-store-your-precious-memories-on-this-portable-usb.html" target="_blank">Don&#x27;t trust the cloud! Store your precious memories on this portable USB</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
