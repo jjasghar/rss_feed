@@ -1,42 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 08:02:13 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-29 09:01:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 08:02 UTC</div>
+    <div class="newspaper-date">Monday, September 29, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss" target="_blank">Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 08:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +105,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed in shooting and arson attack at Mormon church in Michigan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-29 03:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/michiganone_1759105816705_hpMain_4x3t_384.jpg" alt="Gunman in Michigan LDS church shooting was a veteran of the Iraq War" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/gunman-michigan-lds-church-shooting-veteran-iraq-war/story?id=126025402" target="_blank">Gunman in Michigan LDS church shooting was a veteran of the Iraq War</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-29 03:24</span>
             </div>
         </div>
 </div>
@@ -174,9 +175,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yorgie7/react-synthetic-events-explained-complete-guide-for-developers-3o2j" target="_blank">React Synthetic Events Explained: Complete Guide for Developers ⚡</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-top-9-silent-hill-games-5b1o" target="_blank">IGN: Top 9 Silent Hill Games</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-29 08:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/dora-state-of-ai-in-dev-2025/en/headerimage/generatedHeaderImage-1759101451477.jpg" alt="DORA Report Finds AI Is an Amplifier in Software Development, but Trust Remains Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/dora-state-of-ai-in-dev-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DORA Report Finds AI Is an Amplifier in Software Development, but Trust Remains Low</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-29 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/" target="_blank">Queueing to publish in AI and CS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-29 07:50</span>
             </div>
         </div>
 <div class="story">
@@ -195,33 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Rust-Linux-6.18" target="_blank">A Lot Of Rust Code Lining Up For The Linux 6.18 Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-29 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu9twiru1c7un8ocq7osi.png" alt="From UI to XI: Designing eXperiential Interfaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dct_technology/from-ui-to-xi-designing-experiential-interfaces-5g2" target="_blank">From UI to XI: Designing eXperiential Interfaces</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 04:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-KVM-CET-Virt" target="_blank">Linux 6.18 Preps KVM x86 CET Virtualization For AMD &amp; Intel CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-29 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclwr42rk2ibxdcae0rpy.png" alt="AWS Agent built with Strand Agent framework and deployed to Bedrock Agentcore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hung____/aws-agent-built-with-strand-agent-framework-and-deployed-to-bedrock-agentcore-3h24" target="_blank">AWS Agent built with Strand Agent framework and deployed to Bedrock Agentcore</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 03:53</span>
             </div>
         </div>
 </div>
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
