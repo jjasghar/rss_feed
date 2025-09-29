@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 03:16:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 04:02:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 03:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +54,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/29/cruel-joke-how-indian-h-1b-dreams-are-crash-landing-after-trump-fee-hike?traffic_source=rss" target="_blank">‘Cruel joke’: How Indian H-1B dreams are crash landing after Trump fee hike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 03:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/china-and-north-korea-agree-to-resist-hegemony-foreign-ministry-says?traffic_source=rss" target="_blank">China and North Korea agree to resist ‘hegemony’, Foreign Ministry says</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-29 02:55</span>
@@ -65,6 +75,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">At least four dead and several injured in shooting at Mormon church in Michigan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-29 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/michigan-church-shooting-hd-bh-250928_1759077051681_hpMain_4x3t_384.jpg" alt="4 dead, 8 injured in Michigan church shooting and fire set by gunman: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-michigan-church-police/story?id=126015196" target="_blank">4 dead, 8 injured in Michigan church shooting and fire set by gunman: Police</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-29 01:15</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +104,20 @@
                 <span class="time">2025-09-28 23:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759101359727_wnn_abr_deadly_michigan_shooting_250928_1920x1080-nnx2rn.jpg" alt="2 dead, 8 injured in deadly Michigan church attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/2-dead-8-injured-in-deadly-michigan-church-attack-248545349682" target="_blank">2 dead, 8 injured in deadly Michigan church attack</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-28 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/28/whats-the-fallout-from-the-latest-un-sanctions-on-iran?traffic_source=rss" target="_blank">What’s the fallout from the latest UN sanctions on Iran?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/" target="_blank">The AI services transformation may be harder than VCs think</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 01:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +163,20 @@
                 <span class="time">2025-09-28 18:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/" target="_blank">TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-28 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclwr42rk2ibxdcae0rpy.png" alt="AWS Agent built with Strand Agent framework and deployed to Bedrock Agentcore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hung____/aws-agent-built-with-strand-agent-framework-and-deployed-to-bedrock-agentcore-3h24" target="_blank">AWS Agent built with Strand Agent framework and deployed to Bedrock Agentcore</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 03:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7wbjdpbwhi0h494r4eb1.png" alt="📊 Analyzing Manufacturing Downtime: Insights From My Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,20 +222,20 @@
                 <span class="time">2025-09-28 21:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://demian.ferrei.ro/snake/" target="_blank">Play snake in the URL address bar</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-28 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Microsoft-365.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Bring your big ideas to life with Microsoft 365&#x27;s powerful apps and secure storage — now $30 off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/28/bring-your-big-ideas-to-life-with-microsoft-365s-powerful-apps-and-secure-storage-now-30-off.html" target="_blank">Bring your big ideas to life with Microsoft 365&#x27;s powerful apps and secure storage — now $30 off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-28 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/silent-hill-f-hed-1280x853.jpg" alt="Konami Believes in ‘Silent Hill f’ So Much, It’s Becoming a Novel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +281,6 @@
                 <span class="time">2025-09-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/007-goldeneye-1280x853.jpg" alt="‘GoldenEye’ is Coming Back to Theaters Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/goldeneye-is-coming-back-to-theaters-next-week-2000664731" target="_blank">‘GoldenEye’ is Coming Back to Theaters Next Week</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-28 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 03:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
