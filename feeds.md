@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 02:28:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 03:16:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 02:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 03:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/china-and-north-korea-agree-to-resist-hegemony-foreign-ministry-says?traffic_source=rss" target="_blank">China and North Korea agree to resist ‘hegemony’, Foreign Ministry says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 02:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/b72b1700-9c95-11f0-928c-71dbb8619e94.jpg" alt="At least four dead and several injured in shooting at Mormon church in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/28/whats-the-fallout-from-the-latest-un-sanctions-on-iran?traffic_source=rss" target="_blank">What’s the fallout from the latest UN sanctions on Iran?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-28 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5556028/stowaway-american-airlines-flight-charlotte" target="_blank">Stowaway found dead in landing gear of American Airlines flight in Charlotte</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-28 21:48</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7wbjdpbwhi0h494r4eb1.png" alt="📊 Analyzing Manufacturing Downtime: Insights From My Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/koinpoin/analyzing-manufacturing-downtime-insights-from-my-dashboard-160c" target="_blank">📊 Analyzing Manufacturing Downtime: Insights From My Dashboard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 03:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://demian.ferrei.ro/snake/" target="_blank">Play snake in the URL address bar</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-28 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-DKMS-Announcement" target="_blank">Bcachefs Announces First-Tier Arch &amp; NixOS Support, Post-Experimental Release EOY</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-28 20:00</span>
             </div>
         </div>
 </div>
@@ -306,7 +309,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:28 UTC
+        🔄 Last Updated: 03:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
