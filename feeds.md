@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 17:01:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-29 18:02:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/29/nurse-shot-in-the-head-while-working-at-gazas-nasser-hospital?traffic_source=rss" target="_blank">Nurse shot in the head while working at Gaza’s Nasser Hospital</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5554330/cristela-alonzo-upper-classy" target="_blank">Comic Cristela Alonzo grew up in fear of border patrol. ICE has &#x27;brought it all back&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-29 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759165766047_now_brk_doctor_michigan_250929_1920x1080-asqaqf.jpg" alt="Michigan doctor gives update on victims of church shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/michigan-doctor-gives-update-on-victims-of-church-shooting-248653382000" target="_blank">Michigan doctor gives update on victims of church shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-29 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1108/live/f4cd3df0-9d3e-11f0-973f-51ea2fc41b54.jpg" alt="Trump considering supplying Ukraine with long-range missiles, Vance says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly6r1mg34yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump considering supplying Ukraine with long-range missiles, Vance says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-29 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/29/pro-palestinian-protester-interrupts-uk-finance-ministers-speech?traffic_source=rss" target="_blank">Pro-Palestinian protester interrupts UK finance minister’s speech</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-29 14:44</span>
@@ -66,47 +100,47 @@
                 <span class="time">2025-09-29 13:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/why-did-india-refuse-to-accept-the-asia-cup-trophy-after-beating-pakistan?traffic_source=rss" target="_blank">Why did India refuse to accept the Asia Cup trophy after beating Pakistan?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 12:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss" target="_blank">I have decided to stay in Gaza City as Israel seeks to wipe it out</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5556831/portland-memphis-national-guard-trump-troops" target="_blank">3 things to know about Trump&#x27;s plan to send troops to Portland and Memphis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-29 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff07/live/5a5e1710-9d22-11f0-928c-71dbb8619e94.jpg" alt="Delay online GP booking system or risk patient safety, doctors&#x27; union warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqje8dljz7eo?at_medium=RSS&at_campaign=rss" target="_blank">Delay online GP booking system or risk patient safety, doctors&#x27; union warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/29/vibe-coding-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/" target="_blank">Vibe coding Anything nabs a $100M valuation, after hitting $2M ARR in its first two weeks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Avio_reuseable_upper_stage_demonstration_mission_concept-500x500.jpg" alt="ESA will pay an Italian company nearly $50 million to design a mini-Starship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/esa-will-pay-an-italian-company-nearly-50-million-to-design-a-mini-starship/" target="_blank">ESA will pay an Italian company nearly $50 million to design a mini-Starship</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-29 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dac0877f012698434567ee/master/pass/Lenovo's%20Latest%20Gaming%20Laptop%20Is%20$200%20Off%20Right%20Now.png" alt="Lenovo&#x27;s Latest Gaming Laptop Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lenovo-legion-7i-gen-10-deal/" target="_blank">Lenovo&#x27;s Latest Gaming Laptop Is $200 Off Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-29 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy" target="_blank">Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-29 17:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,47 +159,29 @@
                 <span class="time">2025-09-29 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/eaoldlogo4-500x500-1759154177.png" alt="It’s official: EA is selling to private equity in $55 billion deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/its-official-ea-is-selling-to-private-equity-in-55-billion-deal/" target="_blank">It’s official: EA is selling to private equity in $55 billion deal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-29 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/668456d96ab7c38573065b54/master/pass/USB%20plugs-GettyImages-1599458879-TarikVision%20(cropped).jpg" alt="Everything You Need to Know About USB Ports and Speeds (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/usb-ports-speeds-generations-and-thunderbolt-explained/" target="_blank">Everything You Need to Know About USB Ports and Speeds (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder" target="_blank">Ford’s CEO isn’t impressed with Apple CarPlay Ultra</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/aifirms-500x500.jpg" alt="Big AI firms pump money into world models as LLM advances slow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/09/big-ai-firms-pump-money-into-world-models-as-llm-advances-slow/" target="_blank">Big AI firms pump money into world models as LLM advances slow</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-29 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663487&w=600" alt="How to Integrate AI APIs Into Your Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/integrate-ai-apis-into-your-projects" target="_blank">How to Integrate AI APIs Into Your Projects</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-29 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/fortifying-security-ubuntu-azure-metadata-security-protocol-msp" target="_blank">Fortifying security for Ubuntu on Azure with Metadata Security Protocol (MSP)</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-29 17:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663453&w=600" alt="Phantom Liquidity: Why Microsecond Trades Break the Dev Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +218,6 @@
                 <span class="time">2025-09-29 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/29/making-your-code-base-better-will-make-your-code-coverage-worse/" target="_blank">Making your code base better will make your code coverage worse</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/instagram-notification-ranking/en/headerimage/generatedHeaderImage-1758738378943.jpg" alt="Instagram Improves Engagement by Reducing Notification Fatigue with New Ranking Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/instagram-notification-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Instagram Improves Engagement by Reducing Notification Fatigue with New Ranking Framework</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-29 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/TRUMPterm.jpg" alt="Cool-Looking Terminator Game Suffers Another Delay Due To Trump’s Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/terminator-2d-no-fate-delayed-again-trump-tariffs-retro-november-release-date-2000629932" target="_blank">Cool-Looking Terminator Game Suffers Another Delay Due To Trump’s Tariffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-29 17:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/bf666.jpg" alt="New Battlefield 6 Trailer Is A Direct Attack Against Call Of Duty" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +291,20 @@
                 <span class="time">2025-09-29 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/zootopia-2-final-trailer-disney-1280x853.jpg" alt="In the Final Trailer for ‘Zootopia 2’, Teamwork Makes the Dream Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zootopia-2-final-trailer-key-huy-quan-2000664942" target="_blank">In the Final Trailer for ‘Zootopia 2’, Teamwork Makes the Dream Work</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-29 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/29/hades-ii-fan-art" target="_blank">Hades II Fan Art</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-29 17:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1758852831-20250929.png" alt="Saturday Morning Breakfast Cereal - Gaze" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -330,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
