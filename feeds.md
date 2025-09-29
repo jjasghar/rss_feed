@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 16:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 17:01:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +111,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/" target="_blank">Brave updates its AI-powered search with a detailed answers feature</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/29/trumps-energy-department-forbids-staff-from-saying-climate-change-or-green/" target="_blank">Trump’s Energy Department forbids staff from saying ‘climate change’ or ‘green’</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-29 15:00</span>
@@ -150,20 +161,20 @@
                 <span class="time">2025-09-29 13:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d88bfb1d819925304abb29/master/pass/Lunar%20Solo%20Tent%2003%20SOURCE%20Scott%20Gilbertson.jpg" alt="This Is Why You Should Try Ultralight Backpacking (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-ultralight-backpacking/" target="_blank">This Is Why You Should Try Ultralight Backpacking (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-29 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663453&w=600" alt="Phantom Liquidity: Why Microsecond Trades Break the Dev Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/phantom-liquidity-microsecond-trades-dev-simulator" target="_blank">Phantom Liquidity: Why Microsecond Trades Break the Dev Simulator</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-29 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663449&w=600" alt="Error Budgets 2.0 Agentic AI for SLO-Apprehensive Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="time">2025-09-29 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn02m09lmirq3abq75nbl.jpg" alt="8 AI Developer Tools for Faster &amp; Smarter Development 👨‍💻🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/madza/8-ai-developer-tools-for-faster-smarter-development-gpo" target="_blank">8 AI Developer Tools for Faster &amp; Smarter Development 👨‍💻🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/bf666.jpg" alt="New Battlefield 6 Trailer Is A Direct Attack Against Call Of Duty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-battlefield-6-trailer-direct-attack-against-call-of-duty-celeb-trailer-skins-ea-2000629910" target="_blank">New Battlefield 6 Trailer Is A Direct Attack Against Call Of Duty</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-29 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2021/06/b99ec51091260bd3fcc9586891cc4514-1024x575.jpg" alt="Electronic Arts Is Going Private in a $55 Billion Jared Kushner–Saudi Takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/electronic-arts-is-going-private-in-a-55-billion-jared-kushner-saudi-takeover-2000665009" target="_blank">Electronic Arts Is Going Private in a $55 Billion Jared Kushner–Saudi Takeover</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-29 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/ally-ebay-main.jpg" alt="Scalpers Are Already Trying To Flip The Xbox Ally X For Twice The Price And It’s Not Even Sold Out Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/zootopia-2-final-trailer-key-huy-quan-2000664942" target="_blank">In the Final Trailer for ‘Zootopia 2’, Teamwork Makes the Dream Work</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/hurricane-milton-1280x853.jpg" alt="Giz Asks: Do We Really Need a Category 6 for Hurricanes?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/giz-asks-do-we-really-need-a-category-6-for-hurricanes-2000664420" target="_blank">Giz Asks: Do We Really Need a Category 6 for Hurricanes?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K649GJ4VVE65V8BZDEQYDAGH/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Steal a Brainrot&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-steal-a-brainrot?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Steal a Brainrot&#x27;?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-29 13:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
