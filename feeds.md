@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 19:01:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-29 20:02:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/29/indias-asian-cup-win-over-pakistan-reignites-political-tensions?traffic_source=rss" target="_blank">India’s Asian Cup win over Pakistan reignites political tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-15-gty-gmh-250929_1759171014921_hpMain_4x3t_384.jpg" alt="Trump admin live updates: White House releases Trump&#x27;s plan to end the war in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Trump admin live updates: White House releases Trump&#x27;s plan to end the war in Gaza</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-29 19:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5554330/cristela-alonzo-upper-classy" target="_blank">Comic Cristela Alonzo grew up in fear of border patrol. ICE has &#x27;brought it all back&#x27;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-29 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759165766047_now_brk_doctor_michigan_250929_1920x1080-asqaqf.jpg" alt="Michigan doctor gives update on victims of church shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/michigan-doctor-gives-update-on-victims-of-church-shooting-248653382000" target="_blank">Michigan doctor gives update on victims of church shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-29 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7be6/live/74a4bbf0-9d46-11f0-b741-177e3e2c2fc7.jpg" alt="Reeves warns of harder choices to come as she hints at tax rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy041perldwo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves warns of harder choices to come as she hints at tax rises</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 16:38</span>
             </div>
         </div>
 </div>
@@ -171,9 +170,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-48c9" target="_blank">CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668668&w=600" alt="5 Manual Testing Techniques Every Tester Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/manual-testing-techniques" target="_blank">5 Manual Testing Techniques Every Tester Should Know</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5" target="_blank">even Pop!_OS now uses Rust for its desktop environment</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-29 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://davepeck.org/2025/09/22/introducing-tdom-html-templating-with-python-t-strings/" target="_blank">Introducing tdom: HTML templating with t‑strings</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-29 18:01</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +218,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/fortifying-security-ubuntu-azure-metadata-security-protocol-msp" target="_blank">Fortifying security for Ubuntu on Azure with Metadata Security Protocol (MSP)</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-09-29 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-January-2026" target="_blank">Wine 11.0 On Track For January Release With NTSYNC &amp; New WoW64 Mode</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-29 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663453&w=600" alt="Phantom Liquidity: Why Microsecond Trades Break the Dev Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/phantom-liquidity-microsecond-trades-dev-simulator" target="_blank">Phantom Liquidity: Why Microsecond Trades Break the Dev Simulator</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663449&w=600" alt="Error Budgets 2.0 Agentic AI for SLO-Apprehensive Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-ai-error-budgets-slo-deployments" target="_blank">Error Budgets 2.0 Agentic AI for SLO-Apprehensive Deployments</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-29 15:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
