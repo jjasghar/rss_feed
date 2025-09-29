@@ -1,40 +1,46 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 04:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 05:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +56,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8487/live/643d5b50-9ce2-11f0-92db-77261a15b9d2.jpg" alt="Four killed in shooting and arson attack at Mormon church in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed in shooting and arson attack at Mormon church in Michigan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-29 03:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +110,29 @@
                 <span class="time">2025-09-29 00:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/russia-ukraine-war-list-of-key-events-day-1313?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,313</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 23:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/" target="_blank">Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 04:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d2a239bcb92585aca0810e/master/pass/micropl%C3%A1sticos%20huesos%20fracturas%20665240441.jpg" alt="Microplastics Could Be Weakening Your Bones, Research Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/" target="_blank">Microplastics Could Be Weakening Your Bones, Research Suggests</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-29 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +169,29 @@
                 <span class="time">2025-09-28 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world" target="_blank">Larry Ellison’s quest to run the world</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-28 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/" target="_blank">The billion-dollar infrastructure deals powering the AI boom</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-28 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu9twiru1c7un8ocq7osi.png" alt="From UI to XI: Designing eXperiential Interfaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dct_technology/from-ui-to-xi-designing-experiential-interfaces-5g2" target="_blank">From UI to XI: Designing eXperiential Interfaces</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 04:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-KVM-CET-Virt" target="_blank">Linux 6.18 Preps KVM x86 CET Virtualization For AMD &amp; Intel CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-29 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclwr42rk2ibxdcae0rpy.png" alt="AWS Agent built with Strand Agent framework and deployed to Bedrock Agentcore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +226,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-kernel-6-17-new-features" target="_blank">Linux Kernel 6.17 Released, This is What’s New</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-28 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Released" target="_blank">Linux 6.17 Released: Intel Panther Lake Xe3 Graphics Ready, New Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-28 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bob_packer_7c9018a4d1a1f1/how-to-choose-the-right-technology-stack-for-mini-casino-game-development-1lb2" target="_blank">How to Choose The Right Technology Stack for Mini Casino Game Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 21:39</span>
             </div>
         </div>
 </div>
@@ -309,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
