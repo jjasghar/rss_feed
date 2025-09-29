@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 14:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 15:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/29/pro-palestinian-protester-interrupts-uk-finance-ministers-speech?traffic_source=rss" target="_blank">Pro-Palestinian protester interrupts UK finance minister’s speech</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5556831/portland-memphis-national-guard-trump-troops" target="_blank">3 things to know about Trump&#x27;s plan to send troops to Portland and Memphis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-29 11:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff07/live/5a5e1710-9d22-11f0-928c-71dbb8619e94.jpg" alt="Delay online GP booking system or risk patient safety, doctors&#x27; union warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -86,29 +100,38 @@
                 <span class="time">2025-09-29 11:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24bb/live/c92eae90-9d11-11f0-a8fe-677b0b0b2d56.jpg" alt="Trump to push new peace plan in talks with Netanyahu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgr092lnyyo?at_medium=RSS&at_campaign=rss" target="_blank">Trump to push new peace plan in talks with Netanyahu</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759144672844_tdy_news_7a_vespa_michigan_shooting_250929_1920x1080-582w01.jpg" alt="Police Identify Suspect in Deadly Michigan Church Attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/michigan-church-shooting-leaves-at-least-4-dead-8-injured-248604229974" target="_blank">Police Identify Suspect in Deadly Michigan Church Attack</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-29 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/29/trumps-energy-department-forbids-staff-from-saying-climate-change-or-green/" target="_blank">Trump’s Energy Department forbids staff from saying ‘climate change’ or ‘green’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/eaoldlogo4-500x500-1759154177.png" alt="It’s official: EA is selling to private equity in $55 billion deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/its-official-ea-is-selling-to-private-equity-in-55-billion-deal/" target="_blank">It’s official: EA is selling to private equity in $55 billion deal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-29 14:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/668456d96ab7c38573065b54/master/pass/USB%20plugs-GettyImages-1599458879-TarikVision%20(cropped).jpg" alt="Everything You Need to Know About USB Ports and Speeds (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/usb-ports-speeds-generations-and-thunderbolt-explained/" target="_blank">Everything You Need to Know About USB Ports and Speeds (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-29 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,38 +159,29 @@
                 <span class="time">2025-09-29 13:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/" target="_blank">The startup behind open source tool Polars raises $21M from Accel</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-29 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass" target="_blank">Get a look at the OnePlus 15 from every angle</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/29/instagram-is-testing-a-reels-first-ui-in-india-and-south-korea/" target="_blank">Instagram is testing a Reels-first UI in India and South Korea</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-29 11:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663449&w=600" alt="Error Budgets 2.0 Agentic AI for SLO-Apprehensive Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-ai-error-budgets-slo-deployments" target="_blank">Error Budgets 2.0 Agentic AI for SLO-Apprehensive Deployments</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-29 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/" target="_blank">CodeQL zero to hero part 5: Debugging queries</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-29 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663224&w=600" alt="Why CI and CD Should Be Treated as Separate Disciplines (Not CI/CD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,28 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Blender-5.0-Vulkan-Intel-Fail" target="_blank">Blender 5.0 Vulkan Render Tests Passing On AMD &amp; NVIDIA But Failing For Intel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-29 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/net-maui-rc1/en/headerimage/header-1758997006843.jpg" alt=".NET MAUI RC1 Brings Diagnostics and Experimental Android CoreCLR Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/net-maui-rc1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET MAUI RC1 Brings Diagnostics and Experimental Android CoreCLR Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/" target="_blank">What if I don&#x27;t want videos of my hobby time available to the world?</a></span>
+                <span class="title"><a href="https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b" target="_blank">Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-09-29 11:28</span>
+                <span class="time">2025-09-29 13:25</span>
             </div>
         </div>
 </div>
@@ -241,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/PUZZLE-MAIN.jpg" alt="Silent Hill f Has One Of The Best And Creepiest Puzzles Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/silent-hill-f-scarecrow-puzzle-field-hinako-2000629866" target="_blank">Silent Hill f Has One Of The Best And Creepiest Puzzles Of The Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-29 14:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/zootopia-2-final-trailer-disney-1280x853.jpg" alt="In the Final Trailer for ‘Zootopia 2’, Teamwork Makes the Dream Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +291,6 @@
                 <span class="time">2025-09-29 12:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Aeropress-Premium.jpg?fit=1080%2C922&amp;quality=60&amp;ssl=1" alt="If you ever wanted a fancy Aeropress, the borosilicate Premium edition is it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/29/if-you-ever-wanted-a-fancy-aeropress-the-borosilicate-premium-edition-is-it.html" target="_blank">If you ever wanted a fancy Aeropress, the borosilicate Premium edition is it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-29 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
