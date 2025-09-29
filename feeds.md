@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 15:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-29 16:01:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -192,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/29/making-your-code-base-better-will-make-your-code-coverage-worse/" target="_blank">Making your code base better will make your code coverage worse</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/instagram-notification-ranking/en/headerimage/generatedHeaderImage-1758738378943.jpg" alt="Instagram Improves Engagement by Reducing Notification Fatigue with New Ranking Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/madza/8-ai-developer-tools-for-faster-smarter-development-gpo" target="_blank">8 AI Developer Tools for Faster &amp; Smarter Development 👨‍💻🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-29 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b" target="_blank">Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-29 13:25</span>
             </div>
         </div>
 </div>
@@ -237,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/ally-ebay-main.jpg" alt="Scalpers Are Already Trying To Flip The Xbox Ally X For Twice The Price And It’s Not Even Sold Out Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-rog-ally-x-price-ebay-asus-microsoft-2000629892" target="_blank">Scalpers Are Already Trying To Flip The Xbox Ally X For Twice The Price And It’s Not Even Sold Out Yet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-29 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/image-40-e1759160244801.png?fit=600%2C488&amp;quality=55&amp;ssl=1" alt="US media outlets ignore shooter&#x27;s pro-Trump imagery in favor of &quot;snapped neighbor&quot; narratives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/29/us-media-outlets-ignore-shooters-pro-trump-imagery-in-favor-of-snapped-neighbor-narratives.html" target="_blank">US media outlets ignore shooter&#x27;s pro-Trump imagery in favor of &quot;snapped neighbor&quot; narratives</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-29 15:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/PUZZLE-MAIN.jpg" alt="Silent Hill f Has One Of The Best And Creepiest Puzzles Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +291,20 @@
                 <span class="time">2025-09-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6A08B613D8D100CWBV0DPQ7/hero-image.png" alt="This Blink Wired Floodlight Camera Is 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/blink-wired-floodlight-camera-1080p-video-deal?utm_medium=RSS" target="_blank">This Blink Wired Floodlight Camera Is 50% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-29 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/ea-nextgenerationconsoles-1920x1-1.jpg" alt="EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-sale-saudi-arabia-madden-pif-jared-kushner-2000629829" target="_blank">EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-29 12:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758852831-20250929.png" alt="Saturday Morning Breakfast Cereal - Gaze" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gaze" target="_blank">Saturday Morning Breakfast Cereal - Gaze</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-29 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -314,22 +323,13 @@
                 <span class="time">2025-09-29 00:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758680304-20250928.png" alt="Saturday Morning Breakfast Cereal - Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/trust-3" target="_blank">Saturday Morning Breakfast Cereal - Trust</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-28 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
