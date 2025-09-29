@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 18:02:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-29 19:01:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +52,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5518143/famo-lesotho-music-gangs" target="_blank">Lesotho&#x27;s Famo music: from shepherd songs to gang wars</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-29 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/29/nurse-shot-in-the-head-while-working-at-gazas-nasser-hospital?traffic_source=rss" target="_blank">Nurse shot in the head while working at Gaza’s Nasser Hospital</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-29 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump, Netanyahu hold joint news conference: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump, Netanyahu hold joint news conference: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-29 17:45</span>
             </div>
         </div>
 <div class="story">
@@ -74,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1108/live/f4cd3df0-9d3e-11f0-973f-51ea2fc41b54.jpg" alt="Trump considering supplying Ukraine with long-range missiles, Vance says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7be6/live/74a4bbf0-9d46-11f0-b741-177e3e2c2fc7.jpg" alt="Reeves warns of harder choices to come as she hints at tax rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly6r1mg34yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump considering supplying Ukraine with long-range missiles, Vance says</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy041perldwo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves warns of harder choices to come as she hints at tax rises</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/29/pro-palestinian-protester-interrupts-uk-finance-ministers-speech?traffic_source=rss" target="_blank">Pro-Palestinian protester interrupts UK finance minister’s speech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/pro-palestine-activist-interrupts-uk-minister-speech-at-labour-conference?traffic_source=rss" target="_blank">Pro-Palestine activist interrupts UK minister speech at Labour conference</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 13:01</span>
+                <span class="time">2025-09-29 16:38</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5" target="_blank">even Pop!_OS now uses Rust for its desktop environment</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 18:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663487&w=600" alt="How to Integrate AI APIs Into Your Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -183,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-January-2026" target="_blank">Wine 11.0 On Track For January Release With NTSYNC &amp; New WoW64 Mode</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-29 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663453&w=600" alt="Phantom Liquidity: Why Microsecond Trades Break the Dev Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://dzone.com/articles/agentic-ai-error-budgets-slo-deployments" target="_blank">Error Budgets 2.0 Agentic AI for SLO-Apprehensive Deployments</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/" target="_blank">CodeQL zero to hero part 5: Debugging queries</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18663224&w=600" alt="Why CI and CD Should Be Treated as Separate Disciplines (Not CI/CD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ci-and-cd-not-cicd" target="_blank">Why CI and CD Should Be Treated as Separate Disciplines (Not CI/CD)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-29 14:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="Delivery cyclist easily escapes the brownshirts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/29/delivery-cyclist-easily-escapes-the-brownshirts.html" target="_blank">Delivery cyclist easily escapes the brownshirts</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-29 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/TRUMPterm.jpg" alt="Cool-Looking Terminator Game Suffers Another Delay Due To Trump’s Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/29/us-media-outlets-ignore-shooters-pro-trump-imagery-in-favor-of-snapped-neighbor-narratives.html" target="_blank">US media outlets ignore shooter&#x27;s pro-Trump imagery in favor of &quot;snapped neighbor&quot; narratives</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-29 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/PUZZLE-MAIN.jpg" alt="Silent Hill f Has One Of The Best And Creepiest Puzzles Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silent-hill-f-scarecrow-puzzle-field-hinako-2000629866" target="_blank">Silent Hill f Has One Of The Best And Creepiest Puzzles Of The Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-29 14:48</span>
             </div>
         </div>
 </div>
@@ -337,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
