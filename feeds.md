@@ -1,46 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 05:01:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-29 06:02:29 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 37 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg" alt="Pro-EU party in Moldova set to win vote mired in claims of Russian interference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss" target="_blank">Pro-EU party in Moldova set to win vote mired in claims of Russian interference</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-29 05:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8487/live/643d5b50-9ce2-11f0-92db-77261a15b9d2.jpg" alt="Four killed in shooting and arson attack at Mormon church in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,15 +93,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-michigan-church-police/story?id=126015196" target="_blank">4 dead, 8 injured in Michigan church shooting and fire set by gunman: Police</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-29 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759105783018_f_mo_la_michigan_fatal_count_250928_1920x1080-l2poc7.jpg" alt="Number of dead rises as officials find more bodies in church" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/michigan-officials-found-additional-bodies-raising-fatal-victim-count-to-four-248553029523" target="_blank">Number of dead rises as officials find more bodies in church</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-29 00:29</span>
             </div>
         </div>
 </div>
@@ -220,12 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/kernel-6.17-newspaper-graphic.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Kernel 6.17 Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-kernel-6-17-new-features" target="_blank">Linux Kernel 6.17 Released, This is What’s New</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-28 22:15</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://f-droid.org/2025/09/29/google-developer-registration-decree.html" target="_blank">F-Droid and Google&#x27;s Developer Registration Decree</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-29 02:10</span>
             </div>
         </div>
 </div>
@@ -315,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
