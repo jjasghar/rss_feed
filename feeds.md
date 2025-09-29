@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 09:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-29 10:01:52 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Michigan-church-shooting-gty-bh-250928_1759088631092_hpMain_4x3t_384.jpg" alt="Investigators probe for motive in Michigan LDS church shooting, fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/investigators-probe-motive-michigan-church-shooting-fire/story?id=126030281" target="_blank">Investigators probe for motive in Michigan LDS church shooting, fire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-29 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg" alt="Moldova&#x27;s pro-EU party wins vote mired in claims of Russian interference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss" target="_blank">Moldova&#x27;s pro-EU party wins vote mired in claims of Russian interference</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-29 08:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +102,20 @@
                 <span class="time">2025-09-29 06:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg" alt="Pro-EU party in Moldova set to win vote mired in claims of Russian interference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss" target="_blank">Pro-EU party in Moldova set to win vote mired in claims of Russian interference</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8487/live/643d5b50-9ce2-11f0-92db-77261a15b9d2.jpg" alt="Four killed in shooting and arson attack at Mormon church in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed in shooting and arson attack at Mormon church in Michigan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 03:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d6d0a8376170d0ad19620f/master/pass/Tile_May2024.0787-gear.jpg" alt="Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/" target="_blank">Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-29 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +161,20 @@
                 <span class="time">2025-09-28 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/" target="_blank">DJI loses lawsuit over classification as Chinese military company</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-28 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/u11d/ssg-isr-ssr-csr-which-strategy-should-i-use-in-my-nextjs-e-commerce-platform-4kjh" target="_blank">SSG, ISR, SSR, CSR: which strategy should I use in my Next.js e-commerce platform?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 09:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/apollo-client-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apollo GraphQL Client 4.0 Released with Leaner Bundles and Strengthened TypeScript Safety</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-29 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Linux-6.18" target="_blank">A Lot Of Rust Code Lining Up For The Linux 6.18 Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-29 06:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
