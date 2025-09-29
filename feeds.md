@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 12:02:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 13:09:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +57,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/why-did-india-refuse-to-accept-the-asia-cup-trophy-after-beating-pakistan?traffic_source=rss" target="_blank">Why did India refuse to accept the Asia Cup trophy after beating Pakistan?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 12:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss" target="_blank">I have decided to stay in Gaza City as Israel seeks to wipe it out</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-29 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24bb/live/c92eae90-9d11-11f0-a8fe-677b0b0b2d56.jpg" alt="Trump to push new peace plan in talks with Netanyahu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgr092lnyyo?at_medium=RSS&at_campaign=rss" target="_blank">Trump to push new peace plan in talks with Netanyahu</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-29 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759144672844_tdy_news_7a_vespa_michigan_shooting_250929_1920x1080-582w01.jpg" alt="Police Identify Suspect in Deadly Michigan Church Attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/michigan-church-shooting-leaves-at-least-4-dead-8-injured-248604229974" target="_blank">Police Identify Suspect in Deadly Michigan Church Attack</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-29 11:17</span>
             </div>
         </div>
 <div class="story">
@@ -71,33 +107,6 @@
                 <span class="time">2025-09-29 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5556800/moldova-pro-eu-party-wins-elections-russia" target="_blank">Moldova&#x27;s pro-EU party wins clear parliamentary majority, defeating pro-Russian groups</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-29 09:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg" alt="Moldova&#x27;s pro-EU party wins vote mired in claims of Russian interference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss" target="_blank">Moldova&#x27;s pro-EU party wins vote mired in claims of Russian interference</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 08:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss" target="_blank">Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 08:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,9 +116,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/" target="_blank">The startup behind open source tool Polars raises $21M from Accel</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass" target="_blank">Get a look at the OnePlus 15 from every angle</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/29/instagram-is-testing-a-reels-first-ui-in-india-and-south-korea/" target="_blank">Instagram is testing a Reels-first UI in India and South Korea</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-29 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/2024Ford_Mustang-GTD_RoadToTheRing_28-500x500-1758919610.jpg" alt="ZR1, GTD, and America’s new Nürburgring war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/" target="_blank">ZR1, GTD, and America’s new Nürburgring war</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-29 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -130,38 +166,20 @@
                 <span class="time">2025-09-29 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d6d0a8376170d0ad19620f/master/pass/Tile_May2024.0787-gear.jpg" alt="Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/" target="_blank">Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-29 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/" target="_blank">Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-29 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d2a239bcb92585aca0810e/master/pass/micropl%C3%A1sticos%20huesos%20fracturas%20665240441.jpg" alt="Microplastics Could Be Weakening Your Bones, Research Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/" target="_blank">Microplastics Could Be Weakening Your Bones, Research Suggests</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-29 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/net-maui-rc1/en/headerimage/header-1758997006843.jpg" alt=".NET MAUI RC1 Brings Diagnostics and Experimental Android CoreCLR Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/net-maui-rc1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET MAUI RC1 Brings Diagnostics and Experimental Android CoreCLR Support</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-29 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +225,6 @@
                 <span class="time">2025-09-29 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-top-9-silent-hill-games-5b1o" target="_blank">IGN: Top 9 Silent Hill Games</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 08:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +244,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/hurricane-milton-1280x853.jpg" alt="Giz Asks: Do We Really Need a Category 6 for Hurricanes?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/giz-asks-do-we-really-need-a-category-6-for-hurricanes-2000664420" target="_blank">Giz Asks: Do We Really Need a Category 6 for Hurricanes?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6A08B613D8D100CWBV0DPQ7/hero-image.png" alt="This Blink Wired Floodlight Camera Is 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/blink-wired-floodlight-camera-1080p-video-deal?utm_medium=RSS" target="_blank">This Blink Wired Floodlight Camera Is 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-29 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/ea-nextgenerationconsoles-1920x1-1.jpg" alt="EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-sale-saudi-arabia-madden-pif-jared-kushner-2000629829" target="_blank">EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-29 12:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Aeropress-Premium.jpg?fit=1080%2C922&amp;quality=60&amp;ssl=1" alt="If you ever wanted a fancy Aeropress, the borosilicate Premium edition is it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/konami-believes-in-silent-hill-f-so-much-its-becoming-a-novel-2000664819" target="_blank">Konami Believes in ‘Silent Hill f’ So Much, It’s Becoming a Novel</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-28 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/stranger-things-duffers-1280x853.jpg" alt="The ‘Stranger Things’ Brothers Tease Their Paramount Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-stranger-things-brothers-tease-their-paramount-plans-2000664734" target="_blank">The ‘Stranger Things’ Brothers Tease Their Paramount Plans</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-28 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Peacemaker-John-Cena-DC-Studios-1280x853.jpg" alt="‘Fortnite’ Ditches ‘Peacemaker’ Emote After the Show’s Big Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fornite-ditches-peacemaker-emote-after-the-shows-big-reveal-2000664740" target="_blank">‘Fortnite’ Ditches ‘Peacemaker’ Emote After the Show’s Big Reveal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-28 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/lego-box-two-pack.jpg" alt="This Huge Box of 1,600 LEGO Bricks Is Selling at a Record Low Price, Black Friday Has Come Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-huge-box-of-1600-lego-bricks-is-selling-at-a-record-low-price-black-friday-has-come-early-2000629661" target="_blank">This Huge Box of 1,600 LEGO Bricks Is Selling at a Record Low Price, Black Friday Has Come Early</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-28 15:08</span>
             </div>
         </div>
 </div>
@@ -326,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
