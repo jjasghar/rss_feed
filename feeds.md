@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 11:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-30 12:02:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/capitol-2-gty-gmh-250929_1759169305756_hpMain_4x3t_384.jpg" alt="What could a potential government shutdown mean for the economy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/government-shutdown-hurt-economy-experts-explain/story?id=126038221" target="_blank">What could a potential government shutdown mean for the economy?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-30 11:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/30/video-shows-bomb-blast-at-pakistan-paramilitary-hq?traffic_source=rss" target="_blank">Video shows bomb blast at Pakistan paramilitary HQ</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759230989551_tdy_news_7a_nobles_government_shutdown_250930_1920x1080-4j3ual.jpg" alt="Government Appears Poised to Shut Down: What to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-mocks-dems-with-ai-video-as-shutdowns-looms-248723525505" target="_blank">Government Appears Poised to Shut Down: What to Know</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-30 11:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +99,29 @@
                 <span class="time">2025-09-30 09:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/capitol-2-gty-gmh-250929_1759169305756_hpMain_4x3t_384.jpg" alt="Would a government shutdown hurt the economy? Experts explain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/government-shutdown-hurt-economy-experts-explain/story?id=126038221" target="_blank">Would a government shutdown hurt the economy? Experts explain</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-30 09:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss" target="_blank">What is Israel’s endgame in Africa?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 08:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/30/nx-s1-5557866/indonesia-school-building-collapse" target="_blank">Rescuers run oxygen to survivors in Indonesia school building collapse</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-30 07:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/787281/ev-tax-credit-sales-lease-trump-climate" target="_blank">The EV tax credit is dead — here’s what happens next</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/30/hinge-is-taking-a-fairer-approach-to-account-banning/" target="_blank">Hinge is taking a fairer approach to account banning</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-30 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68daef6c9ae835e9a068a521/master/pass/The%20Best%20Over-the-Counter%20Sleep%20Aids_.png" alt="The Best Over-the-Counter Sleep Aids (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +158,29 @@
                 <span class="time">2025-09-30 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dad8667f012698434567f0/master/pass/Review-%20Logitech%20MX%20Master%204.png" alt="Logitech MX Master 4 Review: Productivity Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/logitech-mx-master-4/" target="_blank">Logitech MX Master 4 Review: Productivity Pro</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-30 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Samsung Promo Code | October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsung-promo-codes/" target="_blank">30% Off Samsung Promo Code | October 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-30 05:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rob_d_2c0d55e14e7037f2/kotlin-virtual-threads-without-the-magic-abcoroutines-for-kotlin-4fig" target="_blank">Kotlin Virtual Threads Without the Magic: ABCoroutines for Kotlin</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/pulumi-neo/en/headerimage/generatedHeaderImage-1759188403083.jpg" alt="Pulumi Launches Neo: An Agentic AI Platform Engineer for Multi-Cloud Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/pulumi-neo/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pulumi Launches Neo: An Agentic AI Platform Engineer for Multi-Cloud Infrastructure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-30 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi0sfybor4yci57g2dni7.png" alt="Automating Data Quality Checks: A Practical Guide Using Dagster and Great Expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +217,6 @@
                 <span class="time">2025-09-30 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ryansouthgate.com/goodbye-disqus/" target="_blank">Disqus Turned My Blog into an Ad Farm – So I Killed It</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-30 08:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-rudolph-the-red-nosed-reindeer-official-launch-trailer-h3e" target="_blank">IGN: Rudolph The Red-Nosed Reindeer - Official Launch Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,9 +226,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/abusing-notions-ai-agent-for-data-theft.html" target="_blank">Abusing Notion’s AI Agent for Data Theft</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/details-of-a-scam.html" target="_blank">Details of a Scam</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-29 11:07</span>
+                <span class="time">2025-09-30 11:06</span>
             </div>
         </div>
 </div>
@@ -238,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/accidental-astronomy-main-artist-impression-pulsar-psr-b1257-12-1280x853.jpg" alt="10 Wild Things Astronomers Discovered While Chasing Something Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/10-wild-things-astronomers-discovered-while-chasing-something-else-2000665180" target="_blank">10 Wild Things Astronomers Discovered While Chasing Something Else</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-30 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Prince-of-Persia.jpg?fit=1080%2C604&amp;quality=60&amp;ssl=1" alt="Jordan Mechner&#x27;s favorite version of Prince of Persia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +287,6 @@
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/kindle-bundle-deals-october-prime-day-2025?utm_medium=RSS" target="_blank">These Kindle Bundles Are Already on Sale for October Prime Day</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-29 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/One-Battle-After-Another-DiCaprio-Del-Toro-1280x853.jpg" alt="Leonardo DiCaprio on the Surprising ‘Star Wars’ Influences in His New Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/leonardo-dicaprio-star-wars-one-battle-after-another-2000665211" target="_blank">Leonardo DiCaprio on the Surprising ‘Star Wars’ Influences in His New Film</a></span>
-                <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-29 21:00</span>
             </div>
         </div>
@@ -338,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
