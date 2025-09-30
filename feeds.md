@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 14:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-30 15:01:44 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/30/g-s1-91267/dallas-ice-facility-second-detainee-died" target="_blank">Second detainee dies after shooting at Dallas ICE facility</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-30 14:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss" target="_blank">Palestinians in Gaza react to Trump plan on ending Israel’s war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 14:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5c/live/da0ef1d0-9dfb-11f0-a82d-4d2348b593b6.jpg" alt="For Netanyahu, avoiding a peace deal may now be worse than agreeing one" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +105,38 @@
                 <span class="time">2025-09-30 13:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/9/30/why-does-misinformation-spread-faster-than-truth?traffic_source=rss" target="_blank">Why does misinformation spread faster than truth?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/30/g-s1-91258/the-un-mission-appeals-to-the-taliban-to-restore-internet-access-in-afghanistan" target="_blank">The UN mission appeals to the Taliban to restore internet access in Afghanistan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-30 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa" target="_blank">Amazon reveals its new Echo Dot Max smart speaker</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-30 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/2025-austin-wec-rv-02103_6cfb2c76-1dac-47f8-b1b6-ba3c4fe7e1fc-500x500.jpg" alt="Behind the scenes with the most beautiful car in racing: The Ferrari 499P" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/behind-the-scenes-with-the-most-beautiful-car-in-racing-the-ferrari-499p/" target="_blank">Behind the scenes with the most beautiful car in racing: The Ferrari 499P</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-30 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dadd3697be5d5144c2e61a/master/pass/Blink%E2%80%99s%20Arc%20Accessory%20Lets%20You%20Merge%20Two%20Security%20Cameras%20for%20a%20180-Degree%20View.png" alt="The Blink Arc Can Merge Two Security Cameras for a 180-Degree View" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-blink-arc-mini-2k/" target="_blank">The Blink Arc Can Merge Two Security Cameras for a 180-Degree View</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-30 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/muskai-500x500.jpg" alt="Burnout and Elon Musk’s politics spark exodus from senior xAI, Tesla staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,38 +164,29 @@
                 <span class="time">2025-09-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/" target="_blank">DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/787281/ev-tax-credit-sales-lease-trump-climate" target="_blank">The EV tax credit is dead — here’s what happens next</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/30/hinge-is-taking-a-fairer-approach-to-account-banning/" target="_blank">Hinge is taking a fairer approach to account banning</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-30 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-HFS-Linux-6.18" target="_blank">Apple HFS/HFS+ File-System Drivers See More Fixes With Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-30 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/30/turning-investments-into-impact-stack-overflow-for-teams-2025-7/" target="_blank">Turning investments into impact: Stack Overflow for Teams 2025.7</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-30 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +223,6 @@
                 <span class="time">2025-09-30 10:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/deepmind-gemini-robotics/en/headerimage/generatedHeaderImage-1759161107126.jpg" alt="DeepMind Release Gemini Robotics-ER 1.5 for Embodied Reasoning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/deepmind-gemini-robotics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DeepMind Release Gemini Robotics-ER 1.5 for Embodied Reasoning</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-30 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/i-built-a-15kmonth-lifestyle-blog-using-github-actions-webhooks-serverless-functions-3fkb" target="_blank">I Built a $15K/Month Lifestyle Blog Using GitHub Actions, Webhooks &amp; Serverless Functions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/10/7bfff71f25a1db278914b6e5c33a7ed8.jpg" alt="Just Cause Devs Announce UK Studio Closure And Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/just-cause-devs-announce-uk-studio-closing-and-layoffs-contraband-xbox-2000630245" target="_blank">Just Cause Devs Announce UK Studio Closure And Layoffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-30 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Shrimp-e1759241280968.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="Attack of the Killer Shrimp Part II: radioactive boogalo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/30/attack-of-the-killer-shrimp-part-ii-radioactive-boogalo.html" target="_blank">Attack of the Killer Shrimp Part II: radioactive boogalo</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-30 14:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6C2MB7B1KMHRSCBV44BFBEQ/hero-image.jpg" alt="How to Build the Right Smart Home Security System From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/10-wild-things-astronomers-discovered-while-chasing-something-else-2000665180" target="_blank">10 Wild Things Astronomers Discovered While Chasing Something Else</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Prince-of-Persia.jpg?fit=1080%2C604&amp;quality=60&amp;ssl=1" alt="Jordan Mechner&#x27;s favorite version of Prince of Persia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/29/jordan-mechners-favorite-version-of-prince-of-persia.html" target="_blank">Jordan Mechner&#x27;s favorite version of Prince of Persia</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-29 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/star-trek-the-last-starship-idw-uss-sagan-1280x853.jpg" alt="‘The Last Starship’ Picks Up on Two of the Biggest Missed Opportunities in Modern ‘Star Trek’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-the-last-starship-spoilers-burn-jurati-kirk-2000665210" target="_blank">‘The Last Starship’ Picks Up on Two of the Biggest Missed Opportunities in Modern ‘Star Trek’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-29 22:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
