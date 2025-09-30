@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 18:02:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-30 19:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/30/former-drc-president-joseph-kabila-sentenced-to-death-in-absentia" target="_blank">Former DRC president Joseph Kabila sentenced to death in absentia</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-30 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/30/nx-s1-5557934/pasta-listeria-outbreak-walmart-trader-joes" target="_blank">Pasta meals from Trader Joe&#x27;s and Walmart may be linked to a deadly listeria outbreak</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-30 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759251187563_now_brk_trump_shutdown_irreversible_250930_1920x1080-0il6bu.jpg" alt="Trump suggests he could make &#x27;irreversible&#x27; cuts if the government shuts down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-suggests-he-could-make-irreversible-cuts-if-the-government-shuts-down-248748101925" target="_blank">Trump suggests he could make &#x27;irreversible&#x27; cuts if the government shuts down</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-30 16:53</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +101,20 @@
                 <span class="time">2025-09-30 16:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/30/liberals-are-catalysts-to-catastrophe-again?traffic_source=rss" target="_blank">Liberals are catalysts to catastrophe, again</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759244235548_now_mnn_trump_speech_wrap_250930_1920x1080-oe3gwm.jpg" alt="Trump and Hegseth lay out military policy plans in remarks to meeting of generals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-and-hegseth-lay-out-military-policy-plans-in-remarks-to-meeting-of-generals-248740421534" target="_blank">Trump and Hegseth lay out military policy plans in remarks to meeting of generals</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-30 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68dc0f06c39f3e48235a90a5/master/pass/Save%20over%20$170%20on%20the%20Apple%20Watch%20Series%2010.png" alt="The Apple Watch Series 10 Is $170 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-watch-series-10-deal-1025/" target="_blank">The Apple Watch Series 10 Is $170 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-30 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,38 @@
                 <span class="time">2025-09-30 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/" target="_blank">Why you can’t miss the aerospace content at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="Behind the Scenes: How We Judge DEV Challenge Submissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2" target="_blank">Behind the Scenes: How We Judge DEV Challenge Submissions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-30 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://leontrolski.github.io/postgres-as-queue.html" target="_blank">Postgres as queue</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-30 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668761&w=600" alt="Caching Mechanisms Using Spring Boot With Redis or AWS ElastiCache" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/caching-spring-boot-redis-elasticache" target="_blank">Caching Mechanisms Using Spring Boot With Redis or AWS ElastiCache</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-30 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/perplexity-search-api/en/headerimage/generatedHeaderImage-1759251910866.jpg" alt="Perplexity Launches Search API to Power Next-Gen AI Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,39 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/6c9320e9-8a64-4d0c-84a6-c96bd1602549_1060x862.png" alt="Inside Google’s Engineering Culture: the Tech Stack (Part 2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/google-part-2" target="_blank">Inside Google’s Engineering Culture: the Tech Stack (Part 2)</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-09-30 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668732&w=600" alt="Building GitOps Pipelines With Helm on OpenShift: Lessons From the Trenches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/gitops-pipelines-helm-openshift-lessons" target="_blank">Building GitOps Pipelines With Helm on OpenShift: Lessons From the Trenches</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.kagi.com/kagi-news" target="_blank">Kagi News</a></span>
+                <span class="title"><a href="https://arxiv.org/abs/2509.22906" target="_blank">A $196 fine-tuned 7B model outperforms OpenAI o3 on document extraction</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-09-30 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-achieves-iso-27001-certification" target="_blank">Canonical achieves ISO 27001 certification</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-30 15:05</span>
+                <span class="time">2025-09-30 16:31</span>
             </div>
         </div>
 </div>
@@ -234,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Threads-of-Time.jpg" alt="This 2.5D Love Letter To Chrono Trigger And Other JRPG Classics Couldn’t Look Any More Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/threads-time-trailer-chrono-trigger-jrpg-sea-stars-2000630296" target="_blank">This 2.5D Love Letter To Chrono Trigger And Other JRPG Classics Couldn’t Look Any More Perfect</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-30 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6BRAQZV311FSYVNM8D86EXM/hero-image.png" alt="What People Are Getting Wrong this Week: Are MedBeds Real?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/are-medbeds-real?utm_medium=RSS" target="_blank">What People Are Getting Wrong this Week: Are MedBeds Real?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-30 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-YouTube-Reading-Rainbow.jpg?fit=1080%2C675&amp;quality=60&amp;ssl=1" alt="Mychal the Librarian is hosting a Reading Rainbow reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/30/mychal-the-librarian-is-hosting-a-reading-rainbow-reboot.html" target="_blank">Mychal the Librarian is hosting a Reading Rainbow reboot</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-30 17:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4AJ9SA1YWJ6N5FNMBQ8VZEQ/hero-image.jpg" alt="Adobe Premiere Is Now Available on the iPhone, but Has Some Privacy Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/30/attack-of-the-killer-shrimp-part-ii-radioactive-boogalo.html" target="_blank">Attack of the Killer Shrimp Part II: radioactive boogalo</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-30 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6C2MB7B1KMHRSCBV44BFBEQ/hero-image.jpg" alt="How to Build the Right Smart Home Security System From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-build-a-smart-security-system?utm_medium=RSS" target="_blank">How to Build the Right Smart Home Security System From Scratch</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-30 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/main-4.jpg" alt="The Very Finest Cosplay Fits From New York’s Anime NYC 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188" target="_blank">The Very Finest Cosplay Fits From New York’s Anime NYC 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4ZP6JBCPPRFSTW9KQ03SPA2/hero-image.jpg" alt="Your Smart Home Might Not Be As Secure As You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/smart-home-security-issues?utm_medium=RSS" target="_blank">Your Smart Home Might Not Be As Secure As You Think</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-30 12:45</span>
             </div>
         </div>
 </div>
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
