@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 09:02:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-30 10:02:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/30/g-s1-91244/5-takeaways-from-the-u-s-ceasefire-proposal-for-israel-and-hamas" target="_blank">5 takeaways from the U.S. ceasefire proposal for Israel and Hamas</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-30 09:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffeb/live/546bf270-9dd9-11f0-9f23-2534d63ace40.jpg" alt="Three dead, dozens trapped after Indonesian school collapses on students" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4y0zpvp8go?at_medium=RSS&at_campaign=rss" target="_blank">Three dead, dozens trapped after Indonesian school collapses on students</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-30 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/capitol-2-gty-gmh-250929_1759169305756_hpMain_4x3t_384.jpg" alt="Would a government shutdown hurt the economy? Experts explain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/government-shutdown-hurt-economy-experts-explain/story?id=126038221" target="_blank">Would a government shutdown hurt the economy? Experts explain</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-30 09:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +101,20 @@
                 <span class="time">2025-09-30 05:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf8/live/0b64c870-9dae-11f0-b741-177e3e2c2fc7.jpg" alt="Leaders in Middle East and Europe welcome Trump&#x27;s Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss" target="_blank">Leaders in Middle East and Europe welcome Trump&#x27;s Gaza peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-30 04:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension?traffic_source=rss" target="_blank">YouTube to pay $24.5m to settle lawsuit over Trump’s account suspension</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/30/have-trump-and-netanyahu-really-agreed-on-a-gaza-peace-plan-key-takeaways?traffic_source=rss" target="_blank">Have Trump and Netanyahu really agreed on a Gaza peace plan? Key takeaways</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 02:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/venus-flytrap-500x500.jpg" alt="Scientists unlock secret to Venus flytrap’s hair-trigger response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/scientists-unlock-secret-to-venus-flytraps-hair-trigger-response/" target="_blank">Scientists unlock secret to Venus flytrap’s hair-trigger response</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-30 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +160,6 @@
                 <span class="time">2025-09-30 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/" target="_blank">Notion Capital raises $130M growth fund to tackle Europe’s follow-on gap</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-30 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/i-built-a-15kmonth-lifestyle-blog-using-github-actions-webhooks-serverless-functions-3fkb" target="_blank">I Built a $15K/Month Lifestyle Blog Using GitHub Actions, Webhooks &amp; Serverless Functions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-30 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devto_with_yog/mastering-nestjs-a-modern-approach-to-building-scalable-nodejs-applications-l6n" target="_blank">Mastering NestJS: A Modern Approach to Building Scalable Node.js Applications</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-30 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ryansouthgate.com/goodbye-disqus/" target="_blank">Disqus Turned My Blog into an Ad Farm – So I Killed It</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-30 08:36</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/nuqs-debounce-schema/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nuqs Adds Debounce, Standard Schema Integration and Key Isolation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-30 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Q3-2025-Linux-News" target="_blank">Intel Linux Setbacks, Linux Kernel Drama &amp; Other Q3 Highlights</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-30 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8pzm52llyk17nmfdcad.png" alt="Sky Agent: A Universal Interface for Multi-Cloud Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dinindu_suriyamudali_e604/sky-agent-a-universal-interface-for-multi-cloud-operations-mi5" target="_blank">Sky Agent: A Universal Interface for Multi-Cloud Operations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 06:42</span>
             </div>
         </div>
 </div>
@@ -340,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
