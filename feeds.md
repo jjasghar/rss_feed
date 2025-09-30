@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 02:25:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-30 03:12:40 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 02:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 03:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/30/have-trump-and-netanyahu-really-agreed-on-a-gaza-peace-plan-key-takeaways?traffic_source=rss" target="_blank">Have Trump and Netanyahu really agreed on a Gaza peace plan? Key takeaways</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d8/live/a87f62e0-9d5f-11f0-928c-71dbb8619e94.png" alt="Starmer to say Britain &#x27;at a fork in the road&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn4w37x524wo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to say Britain &#x27;at a fork in the road&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-30 02:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24db/live/d493b3f0-9d8b-11f0-b741-177e3e2c2fc7.jpg" alt="Trump and Netanyahu agree new Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,20 @@
                 <span class="time">2025-09-29 23:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759186916595_nn_nobles_shutdown_092925_1920x1080-welgnb.jpg" alt="High-stakes White House meeting as government shutdown deadline looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/high-stakes-white-house-meeting-as-government-shutdown-deadline-looms-248683589714" target="_blank">High-stakes White House meeting as government shutdown deadline looms</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-29 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/repub-1-ap-gmh-250929_1759179668490_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Vance says &#x27;we&#x27;re headed to a shutdown&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Trump admin live updates: Vance says &#x27;we&#x27;re headed to a shutdown&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-29 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025" target="_blank">Here are 55 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-29 23:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-500x500-1756146144.jpg" alt="Trump obtains another settlement as YouTube agrees to pay $24.5 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +160,20 @@
                 <span class="time">2025-09-29 21:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/" target="_blank">DeepSeek: Everything you need to know about the AI chatbot app</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-29 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn652ziuuyjktcmx78j60.gif" alt="Stop Your UMAP From Moving: The Pipeline Randomness You&#x27;re Missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/afujihara/stop-your-umap-from-moving-the-pipeline-randomness-youre-missing-gje" target="_blank">Stop Your UMAP From Moving: The Pipeline Randomness You&#x27;re Missing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-30 02:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/tiling-shell-adds-gnome-49-support-new-keyboard-switching-options" target="_blank">GNOME 49 Support, New Keyboard Options Added to Tiling Shell</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-29 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/google-stax-ai-evaluation/en/headerimage/google-stax-ai-evaluation-1759177492574.jpeg" alt="Google Stax Aims to Make AI Model Evaluation Accessible for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/google-stax-ai-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Stax Aims to Make AI Model Evaluation Accessible for Developers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-29 21:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:25 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
