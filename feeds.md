@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 13:09:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-30 14:01:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5c/live/da0ef1d0-9dfb-11f0-a82d-4d2348b593b6.jpg" alt="For Netanyahu, avoiding a peace deal may now be worse than agreeing one" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0jq63edv21o?at_medium=RSS&at_campaign=rss" target="_blank">For Netanyahu, avoiding a peace deal may now be worse than agreeing one</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-30 13:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Pres. Trump addresses military leaders in Virginia: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pres. Trump addresses military leaders in Virginia: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-30 13:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/30/key-takeaways-from-us-president-trumps-gaza-peace?traffic_source=rss" target="_blank">Key takeaways from US President Trump’s ‘Gaza peace plan’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 13:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/quantico-3-gty-gmh-250930_1759235211369_hpMain_4x3t_384.jpg" alt="Hegseth rails against &#x27;woke,&#x27; lays out standards in speech to top generals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +94,20 @@
                 <span class="time">2025-09-30 12:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/capitol-2-gty-gmh-250929_1759169305756_hpMain_4x3t_384.jpg" alt="What could a potential government shutdown mean for the economy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/government-shutdown-hurt-economy-experts-explain/story?id=126038221" target="_blank">What could a potential government shutdown mean for the economy?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-30 11:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/30/video-shows-bomb-blast-at-pakistan-paramilitary-hq?traffic_source=rss" target="_blank">Video shows bomb blast at Pakistan paramilitary HQ</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759230989551_tdy_news_7a_nobles_government_shutdown_250930_1920x1080-4j3ual.jpg" alt="Government Appears Poised to Shut Down: What to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-mocks-dems-with-ai-video-as-shutdowns-looms-248723525505" target="_blank">Government Appears Poised to Shut Down: What to Know</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-30 11:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/muskai-500x500.jpg" alt="Burnout and Elon Musk’s politics spark exodus from senior xAI, Tesla staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/burnout-and-elon-musks-politics-spark-exodus-from-senior-xai-tesla-staff/" target="_blank">Burnout and Elon Musk’s politics spark exodus from senior xAI, Tesla staff</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-30 13:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Ars-Technica-Subaru-Crosstrek-Hybrid-500x500.jpg" alt="The most efficient Crosstrek ever? Subaru’s hybrid gets a bit rugged." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +151,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/30/hinge-is-taking-a-fairer-approach-to-account-banning/" target="_blank">Hinge is taking a fairer approach to account banning</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68daef6c9ae835e9a068a521/master/pass/The%20Best%20Over-the-Counter%20Sleep%20Aids_.png" alt="The Best Over-the-Counter Sleep Aids (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-over-the-counter-sleep-aid/" target="_blank">The Best Over-the-Counter Sleep Aids (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-30 10:33</span>
             </div>
         </div>
 </div>
@@ -234,6 +232,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6C2MB7B1KMHRSCBV44BFBEQ/hero-image.jpg" alt="How to Build the Right Smart Home Security System From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-build-a-smart-security-system?utm_medium=RSS" target="_blank">How to Build the Right Smart Home Security System From Scratch</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-30 13:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/main-4.jpg" alt="The Very Finest Cosplay Fits From New York’s Anime NYC 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -275,15 +282,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/star-trek-the-last-starship-spoilers-burn-jurati-kirk-2000665210" target="_blank">‘The Last Starship’ Picks Up on Two of the Biggest Missed Opportunities in Modern ‘Star Trek’</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-29 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GV6XCVB5M518V5YYGBC7C/hero-image.jpg" alt="Fall Means Darker Morning and Evening Runs, and You Should Be Prepared" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-safely-exercise-in-the-dark?utm_medium=RSS" target="_blank">Fall Means Darker Morning and Evening Runs, and You Should Be Prepared</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-29 22:00</span>
             </div>
         </div>
@@ -333,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
