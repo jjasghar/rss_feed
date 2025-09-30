@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 20:02:07 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-30 21:01:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/prebunking-500x500.jpg" alt="Research roundup: Six cool stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/research-roundup-six-cool-stories-we-almost-missed/" target="_blank">Research roundup: Six cool stories we almost missed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-30 20:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/master/pass/EARLY%20PRIME%20DAY%20DEALS_A.jpg" alt="40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +156,29 @@
                 <span class="time">2025-09-30 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a7cf30e524b9c62e762847/master/pass/The%20Best%20White-Noise%20Machines%20for%20a%20Blissful%20Night%E2%80%99s%20Sleep.png" alt="11 Best White Noise Machines (2025): Lectrofan, Snooz, Hatch, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-white-noise-machine/" target="_blank">11 Best White Noise Machines (2025): Lectrofan, Snooz, Hatch, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-30 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8hrxlhxsjb5m2s1gesl.png" alt="Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cloudinary/clara-denari-and-the-mysterious-transformations-a-new-way-to-explore-cloudinary-57od" target="_blank">Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-30 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-openSIL-Phoenix" target="_blank">AMD Publishes Open-Source openSIL Code For Phoenix SoCs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-30 20:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +215,6 @@
                 <span class="time">2025-09-30 18:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://leontrolski.github.io/postgres-as-queue.html" target="_blank">Postgres as queue</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-30 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668761&w=600" alt="Caching Mechanisms Using Spring Boot With Redis or AWS ElastiCache" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/caching-spring-boot-redis-elasticache" target="_blank">Caching Mechanisms Using Spring Boot With Redis or AWS ElastiCache</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-30 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Sinister_still3-2-1280x853.jpg" alt="How Found Footage Helped Blumhouse Build Its Horror Empire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-found-footage-helped-blumhouse-build-its-horror-empire-2000663380" target="_blank">How Found Footage Helped Blumhouse Build Its Horror Empire</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-30 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="U.S. citizen arrested twice at Alabama construction site with no probable cause" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/30/u-s-citizen-arrested-twice-at-alabama-construction-site-with-no-probable-cause.html" target="_blank">U.S. citizen arrested twice at Alabama construction site with no probable cause</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-30 20:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/fix.jpg" alt="Here’s What Matthew Perry, Justin Timberlake, Carmen Electra, and 50 Other Celebs Thought Of The PS2 In 2002" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +288,6 @@
                 <span class="time">2025-09-30 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4AJ9SA1YWJ6N5FNMBQ8VZEQ/hero-image.jpg" alt="Adobe Premiere Is Now Available on the iPhone, but Has Some Privacy Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/adobe-premiere-iphone-privacy-concerns?utm_medium=RSS" target="_blank">Adobe Premiere Is Now Available on the iPhone, but Has Some Privacy Concerns</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/10/7bfff71f25a1db278914b6e5c33a7ed8.jpg" alt="Just Cause Devs Announce UK Studio Closure And Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/just-cause-devs-announce-uk-studio-closing-and-layoffs-contraband-xbox-2000630245" target="_blank">Just Cause Devs Announce UK Studio Closure And Layoffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-30 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,22 +320,13 @@
                 <span class="time">2025-09-30 00:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/29/the-measure-of-man" target="_blank">The Measure Of Man</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-29 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
