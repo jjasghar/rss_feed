@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 12:02:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-30 13:09:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/quantico-3-gty-gmh-250930_1759235211369_hpMain_4x3t_384.jpg" alt="Hegseth rails against &#x27;woke,&#x27; lays out standards in speech to top generals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/pentagons-mystery-meeting-top-ranking-generals/story?id=126055917" target="_blank">Hegseth rails against &#x27;woke,&#x27; lays out standards in speech to top generals</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-30 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/9/30/why-does-misinformation-spread-faster-than-truth?traffic_source=rss" target="_blank">Why does misinformation spread faster than truth?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/30/g-s1-91258/the-un-mission-appeals-to-the-taliban-to-restore-internet-access-in-afghanistan" target="_blank">The UN mission appeals to the Taliban to restore internet access in Afghanistan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-30 12:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/capitol-2-gty-gmh-250929_1759169305756_hpMain_4x3t_384.jpg" alt="What could a potential government shutdown mean for the economy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,38 +96,38 @@
                 <span class="time">2025-09-30 11:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/unmute/2025/9/30/aje-onl-unm-demetre-daskalakis-300925?traffic_source=rss" target="_blank">Former US vaccine chief says RFK Jr is a ‘chaos agent’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/30/g-s1-91244/5-takeaways-from-the-u-s-ceasefire-proposal-for-israel-and-hamas" target="_blank">5 takeaways from the U.S. ceasefire proposal for Israel and Hamas</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-30 09:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffeb/live/546bf270-9dd9-11f0-9f23-2534d63ace40.jpg" alt="Three dead, dozens trapped after Indonesian school collapses on students" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4y0zpvp8go?at_medium=RSS&at_campaign=rss" target="_blank">Three dead, dozens trapped after Indonesian school collapses on students</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-30 09:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Ars-Technica-Subaru-Crosstrek-Hybrid-500x500.jpg" alt="The most efficient Crosstrek ever? Subaru’s hybrid gets a bit rugged." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/the-most-efficient-crosstrek-ever-subarus-hybrid-gets-a-bit-rugged/" target="_blank">The most efficient Crosstrek ever? Subaru’s hybrid gets a bit rugged.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/787815/google-ai-ransomware-drive-detect" target="_blank">Google Drive adds AI to detect ransomware before it spreads</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/" target="_blank">DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +155,20 @@
                 <span class="time">2025-09-30 10:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/venus-flytrap-500x500.jpg" alt="Scientists unlock secret to Venus flytrap’s hair-trigger response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/09/scientists-unlock-secret-to-venus-flytraps-hair-trigger-response/" target="_blank">Scientists unlock secret to Venus flytrap’s hair-trigger response</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-30 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost" target="_blank">Opera launches its AI browser, but you&amp;#8217;ll have to pay to try it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-30 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/" target="_blank">Opera launches its AI-centric Neon browser</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-30 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Transitional" target="_blank">Linux&#x27;s New &quot;Transitional&quot; Feature A Long Overdue Improvement For Kernel Configurations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-30 12:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="time">2025-09-30 09:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devto_with_yog/mastering-nestjs-a-modern-approach-to-building-scalable-nodejs-applications-l6n" target="_blank">Mastering NestJS: A Modern Approach to Building Scalable Node.js Applications</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 08:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/main-4.jpg" alt="The Very Finest Cosplay Fits From New York’s Anime NYC 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188" target="_blank">The Very Finest Cosplay Fits From New York’s Anime NYC 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4ZP6JBCPPRFSTW9KQ03SPA2/hero-image.jpg" alt="Your Smart Home Might Not Be As Secure As You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/smart-home-security-issues?utm_medium=RSS" target="_blank">Your Smart Home Might Not Be As Secure As You Think</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-30 12:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/accidental-astronomy-main-artist-impression-pulsar-psr-b1257-12-1280x853.jpg" alt="10 Wild Things Astronomers Discovered While Chasing Something Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/how-to-safely-exercise-in-the-dark?utm_medium=RSS" target="_blank">Fall Means Darker Morning and Evening Runs, and You Should Be Prepared</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-29 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/dollarsteam.jpg" alt="Steam’s Massive Fall Sale Is Live And Here Are The Best Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-fall-autumn-sale-2025-best-biggest-cheapest-deals-games-pc-steamdeck-2000629959" target="_blank">Steam’s Massive Fall Sale Is Live And Here Are The Best Deals</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-29 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6BH9M9K26Y5ZF3QZQCJY2JA/hero-image.png" alt="These Kindle Bundles Are Already on Sale for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/kindle-bundle-deals-october-prime-day-2025?utm_medium=RSS" target="_blank">These Kindle Bundles Are Already on Sale for October Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-29 21:00</span>
             </div>
         </div>
 </div>
@@ -337,7 +334,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:02 UTC
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
