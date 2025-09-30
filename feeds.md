@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 21:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-30 22:01:52 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/30/ukraines-zelenskyy-says-situation-critical-at-zaporizhzhia-nuclear-plant?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy says situation ‘critical’ at Zaporizhzhia nuclear plant</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 21:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,20 @@
                 <span class="time">2025-09-30 16:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8728/live/ea872ce0-9e13-11f0-b741-177e3e2c2fc7.jpg" alt="Farage doesn&#x27;t believe in Britain, Starmer tells Labour conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c749vy43l74o?at_medium=RSS&at_campaign=rss" target="_blank">Farage doesn&#x27;t believe in Britain, Starmer tells Labour conference</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-30 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/" target="_blank">A breach every month raises doubts about South Korea’s digital defenses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-30 21:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/prebunking-500x500.jpg" alt="Research roundup: Six cool stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation" target="_blank">Imgur is blocking users in the UK</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-30 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta" target="_blank">Microsoft’s Windows 11 2025 update is available now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-30 17:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/KPop-Demon-Hunters-plane-logo-Netflix-1280x853.jpg" alt="The Moment the ‘KPop Demon Hunters’ Crew Knew They Had a Hit in ‘Golden’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-golden-bts-netflix-interview-2000665757" target="_blank">The Moment the ‘KPop Demon Hunters’ Crew Knew They Had a Hit in ‘Golden’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-30 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/dealsuhd.jpg" alt="Amazon Is Selling A Bunch Of 4K UHD Movies For $15 Each Or Less" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-4k-uhd-big-sale-cheap-movies-15-each-prime-day-deal-october-2000630342" target="_blank">Amazon Is Selling A Bunch Of 4K UHD Movies For $15 Each Or Less</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-30 21:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Sinister_still3-2-1280x853.jpg" alt="How Found Footage Helped Blumhouse Build Its Horror Empire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -244,48 +263,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Threets.-Photo-_3Ca-href_3D_22https-en.wikipedia.or_.jpg?fit=1080%2C793&amp;quality=60&amp;ssl=1" alt="Reading Rainbow returns with a new host" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/30/reading-rainbow-returns-with-a-new-host.html" target="_blank">Reading Rainbow returns with a new host</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-30 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6E2W1DQRB00K1476EPQ74V2/hero-image.jpg" alt="Six New WhatsApp Features You Can Try Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-just-announced-six-new-features-coming-to-whatsapp?utm_medium=RSS" target="_blank">Six New WhatsApp Features You Can Try Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-30 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="U.S. citizen arrested twice at Alabama construction site with no probable cause" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/09/30/u-s-citizen-arrested-twice-at-alabama-construction-site-with-no-probable-cause.html" target="_blank">U.S. citizen arrested twice at Alabama construction site with no probable cause</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-30 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/fix.jpg" alt="Here’s What Matthew Perry, Justin Timberlake, Carmen Electra, and 50 Other Celebs Thought Of The PS2 In 2002" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/matthew-perry-justin-timberlake-carmen-electra-50-celebs-ps2-2002-sony-2000630325" target="_blank">Here’s What Matthew Perry, Justin Timberlake, Carmen Electra, and 50 Other Celebs Thought Of The PS2 In 2002</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-30 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Threads-of-Time.jpg" alt="This 2.5D Love Letter To Chrono Trigger And Other JRPG Classics Couldn’t Look Any More Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/threads-time-trailer-chrono-trigger-jrpg-sea-stars-2000630296" target="_blank">This 2.5D Love Letter To Chrono Trigger And Other JRPG Classics Couldn’t Look Any More Perfect</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-30 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6BRAQZV311FSYVNM8D86EXM/hero-image.png" alt="What People Are Getting Wrong this Week: Are MedBeds Real?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/are-medbeds-real?utm_medium=RSS" target="_blank">What People Are Getting Wrong this Week: Are MedBeds Real?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-30 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-YouTube-Reading-Rainbow.jpg?fit=1080%2C675&amp;quality=60&amp;ssl=1" alt="Mychal the Librarian is hosting a Reading Rainbow reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/30/mychal-the-librarian-is-hosting-a-reading-rainbow-reboot.html" target="_blank">Mychal the Librarian is hosting a Reading Rainbow reboot</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-30 17:13</span>
             </div>
         </div>
 </div>
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
