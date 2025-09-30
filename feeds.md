@@ -1,26 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 23:01:51 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-30 00:04:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 18 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/trumps-gaza-peace-plan-welcomed-by-arab-and-islamic-countries-the-west?traffic_source=rss" target="_blank">Trump’s Gaza peace plan welcomed by Arab and Islamic countries, the West</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759184491126_now_hallie_hill_shutdown_meeting_250929_1920x1080-pfg6iq.jpg" alt="Trump, Hill leaders meet with no breakthrough to prevent government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-hill-leaders-meet-with-no-breakthrough-to-prevent-government-shutdown-248686149626" target="_blank">Trump, Hill leaders meet with no breakthrough to prevent government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-29 22:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c4/live/f082f700-9d73-11f0-92db-77261a15b9d2.jpg" alt="Trump and Netanyahu agree new US peace plan for Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,29 +99,20 @@
                 <span class="time">2025-09-29 19:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759173200315_nbc_spec_netanyahu_easyway_250929_1920x1080-ciltha.jpg" alt="Netanyahu says ending conflict in Gaza can be done &#x27;the easy way&#x27; or &#x27;the hard way&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/netanyahu-says-ending-conflict-in-gaza-can-be-done-the-easy-way-or-the-hard-way-248665669765" target="_blank">Netanyahu says ending conflict in Gaza can be done &#x27;the easy way&#x27; or &#x27;the hard way&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-29 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5518143/famo-lesotho-music-gangs" target="_blank">Lesotho&#x27;s Famo music: from shepherd songs to gang wars</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-29 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-500x500-1756146144.jpg" alt="Trump obtains another settlement as YouTube agrees to pay $24.5 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/youtube-pays-24-5m-to-settle-trump-lawsuit-over-january-2021-suspension/" target="_blank">Trump obtains another settlement as YouTube agrees to pay $24.5 million</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-29 23:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/firefly_explosion-500x500.jpg" alt="Another setback for Firefly Aerospace’s beleaguered rocket program" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,20 +158,20 @@
                 <span class="time">2025-09-29 20:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dac48ba7af37b4cec18a3b/master/pass/Model-Behavior-OpenAI-Sora-2-Business%20(0-00-12-22).jpg" alt="OpenAI Is Preparing to Launch a Social App for AI-Generated Videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/" target="_blank">OpenAI Is Preparing to Launch a Social App for AI-Generated Videos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-29 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Removed-Linux-6.18" target="_blank">Linus Torvalds Removes The Bcachefs Code From The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-29 23:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/tiling-shell-gnome-shell-extension.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49 Support, New Keyboard Options Added to Tiling Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/tiling-shell-adds-gnome-49-support-new-keyboard-switching-options" target="_blank">GNOME 49 Support, New Keyboard Options Added to Tiling Shell</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-29 21:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/google-stax-ai-evaluation/en/headerimage/google-stax-ai-evaluation-1759177492574.jpeg" alt="Google Stax Aims to Make AI Model Evaluation Accessible for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -188,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-specialized-archives-defaultdict-counter-and-ordereddict-mah" target="_blank">The Specialized Archives: defaultdict, Counter, and OrderedDict</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-29 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Old-Microcode-Linux-6.18" target="_blank">Linux 6.18 Updating The Baseline For Marking Intel CPU Microcode As Outdated</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-29 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-48c9" target="_blank">CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 20:00</span>
             </div>
         </div>
 </div>
@@ -227,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Prince-of-Persia.jpg?fit=1080%2C604&amp;quality=60&amp;ssl=1" alt="Jordan Mechner&#x27;s favorite version of Prince of Persia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/29/jordan-mechners-favorite-version-of-prince-of-persia.html" target="_blank">Jordan Mechner&#x27;s favorite version of Prince of Persia</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-29 22:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/star-trek-the-last-starship-idw-uss-sagan-1280x853.jpg" alt="‘The Last Starship’ Picks Up on Two of the Biggest Missed Opportunities in Modern ‘Star Trek’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/29/no-goggles-just-your-eyes-watch-3d-illusions-that-feel-like-magic.html" target="_blank">No goggles. Just your eyes. Watch 3D illusions that feel like magic</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-29 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Deals We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Deals We’ve Found, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-29 20:20</span>
             </div>
         </div>
 </div>
@@ -336,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
