@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 17:01:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-30 18:02:40 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +46,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/30/nx-s1-5557934/pasta-listeria-outbreak-walmart-trader-joes" target="_blank">Pasta meals from Trader Joe&#x27;s and Walmart may be linked to a deadly listeria outbreak</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-30 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss" target="_blank">As tariffs hit, Americans grapple with rising bills and multiple jobs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-30 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8728/live/ea872ce0-9e13-11f0-b741-177e3e2c2fc7.jpg" alt="Farage doesn&#x27;t believe in Britain, Starmer tells Labour conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c749vy43l74o?at_medium=RSS&at_campaign=rss" target="_blank">Farage doesn&#x27;t believe in Britain, Starmer tells Labour conference</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-30 16:16</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +97,6 @@
                 <span class="time">2025-09-30 14:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/30/g-s1-91267/dallas-ice-facility-second-detainee-died" target="_blank">Second detainee dies after shooting at Dallas ICE facility</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-30 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss" target="_blank">Palestinians in Gaza react to Trump plan on ending Israel’s war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 14:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,9 +106,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation" target="_blank">Imgur is blocking users in the UK</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-30 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta" target="_blank">Microsoft’s Windows 11 2025 update is available now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a7cf30e524b9c62e762847/master/pass/The%20Best%20White-Noise%20Machines%20for%20a%20Blissful%20Night%E2%80%99s%20Sleep.png" alt="11 Best White Noise Machines (2025): Lectrofan, Snooz, Hatch, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-white-noise-machine/" target="_blank">11 Best White Noise Machines (2025): Lectrofan, Snooz, Hatch, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-30 16:58</span>
             </div>
         </div>
 <div class="story">
@@ -144,29 +156,20 @@
                 <span class="time">2025-09-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa" target="_blank">Amazon reveals its new Echo Dot Max smart speaker</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-30 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/2025-austin-wec-rv-02103_6cfb2c76-1dac-47f8-b1b6-ba3c4fe7e1fc-500x500.jpg" alt="Behind the scenes with the most beautiful car in racing: The Ferrari 499P" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/09/behind-the-scenes-with-the-most-beautiful-car-in-racing-the-ferrari-499p/" target="_blank">Behind the scenes with the most beautiful car in racing: The Ferrari 499P</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-30 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/perplexity-search-api/en/headerimage/generatedHeaderImage-1759251910866.jpg" alt="Perplexity Launches Search API to Power Next-Gen AI Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/perplexity-search-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Perplexity Launches Search API to Power Next-Gen AI Applications</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-30 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-achieves-iso-27001-certification" target="_blank">Canonical achieves ISO 27001 certification</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-09-30 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617197&w=600" alt="Experts Say This Is the Best LLM for Front-End Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/best-llm-for-front-end-tasks" target="_blank">Experts Say This Is the Best LLM for Front-End Tasks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-30 15:00</span>
             </div>
         </div>
 </div>
@@ -326,22 +320,13 @@
                 <span class="time">2025-09-29 20:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/29/hades-ii-fan-art" target="_blank">Hades II Fan Art</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-29 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
