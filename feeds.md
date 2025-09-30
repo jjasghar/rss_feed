@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 04:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-30 05:02:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf8/live/0b64c870-9dae-11f0-b741-177e3e2c2fc7.jpg" alt="Leaders in Middle East and Europe welcome Trump&#x27;s Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss" target="_blank">Leaders in Middle East and Europe welcome Trump&#x27;s Gaza peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-30 04:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension?traffic_source=rss" target="_blank">YouTube to pay $24.5m to settle lawsuit over Trump’s account suspension</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 03:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +97,20 @@
                 <span class="time">2025-09-30 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement" target="_blank">YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-29 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/trumps-gaza-peace-plan-welcomed-by-arab-and-islamic-countries-the-west?traffic_source=rss" target="_blank">Trump’s Gaza peace plan welcomed by Arab and Islamic countries, the West</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Groupon Promo Codes: 50% Off in October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/groupon-promo-code/" target="_blank">Groupon Promo Codes: 50% Off in October 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-30 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +156,29 @@
                 <span class="time">2025-09-29 21:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-177052632-500x500-1759175762.jpg" alt="Sports piracy site Streameast returns after US government let domain expire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/sports-piracy-site-streameast-returns-after-us-government-let-domain-expire/" target="_blank">Sports piracy site Streameast returns after US government let domain expire</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-29 21:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/30/as-your-ai-gets-smarter-so-must-your-api/" target="_blank">As your AI gets smarter, so must your API</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-30 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-EDAC" target="_blank">Intel, AMD &amp; Arm All Have Notable EDAC Driver Additions For Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-30 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Removed-Linux-6.18" target="_blank">Linus Torvalds Removes The Bcachefs Code From The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-29 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVK-Vulkan-Red-Hat-NDA-Docs" target="_blank">NVIDIA Has Been Supplying NDA&#x27;ed Docs To Red Hat For Helping NVK Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-29 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fdtpbmdey6rxr7vuzli.png" alt="A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eric_kahindi_cfbfda3bd0f7/a-beginners-guide-to-big-data-analytics-with-apache-spark-and-pyspark-49f3" target="_blank">A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 21:51</span>
             </div>
         </div>
 </div>
@@ -343,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
