@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 19:01:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-30 20:02:07 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/30/trumps-gaza-peace-plan-has-20-points-but-few-details?traffic_source=rss" target="_blank">Trump’s Gaza peace plan has 20 points but few details</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 19:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,29 @@
                 <span class="time">2025-09-30 16:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/30/g-s1-91091/trump-bombing-drug-boats-terror" target="_blank">With &#x27;drug boat&#x27; strikes, Trump leans into war on terror tactic against cartels</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-30 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/master/pass/EARLY%20PRIME%20DAY%20DEALS_A.jpg" alt="40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-30 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale" target="_blank">Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-30 18:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68dc0f06c39f3e48235a90a5/master/pass/Save%20over%20$170%20on%20the%20Apple%20Watch%20Series%2010.png" alt="The Apple Watch Series 10 Is $170 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +158,38 @@
                 <span class="time">2025-09-30 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/30/chatgpt-everything-to-know-about-the-ai-chatbot/" target="_blank">ChatGPT: Everything you need to know about the AI-powered chatbot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-30 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-500x500-1750706554.jpeg" alt="iOS 26.0.1, macOS 26.0.1 updates fix install bugs, new phone problems, and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/ios-26-0-1-macos-26-0-1-updates-fix-install-bugs-new-phone-problems-and-more/" target="_blank">iOS 26.0.1, macOS 26.0.1 updates fix install bugs, new phone problems, and more</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-30 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/glabory/como-construi-aulalens-en-24h-y-gane-un-macbook-en-el-proceso-5li" target="_blank">Cómo construí AulaLens en 24h y gané un MacBook en el proceso</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-30 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/imgur-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Imgur is No Longer Available to Users in the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/imgur-not-accessible-in-uk-ico" target="_blank">Imgur is No Longer Available to Users in the UK</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-30 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18667347&w=600" alt="From 0.68 to 10 Requests/Second: Optimizing LLM Serving With vLLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/optimizing-llm-serving-with-vllm" target="_blank">From 0.68 to 10 Requests/Second: Optimizing LLM Serving With vLLM</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-30 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="Behind the Scenes: How We Judge DEV Challenge Submissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +217,6 @@
                 <span class="time">2025-09-30 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/perplexity-search-api/en/headerimage/generatedHeaderImage-1759251910866.jpg" alt="Perplexity Launches Search API to Power Next-Gen AI Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/perplexity-search-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Perplexity Launches Search API to Power Next-Gen AI Applications</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-30 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tinysharp_8b688d65139fe42/how-i-built-a-free-image-optimization-api-with-wordpress-plugin-integration-1g98" target="_blank">How I Built a Free Image Optimization API (with WordPress Plugin Integration)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2509.22906" target="_blank">A $196 fine-tuned 7B model outperforms OpenAI o3 on document extraction</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-30 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/fix.jpg" alt="Here’s What Matthew Perry, Justin Timberlake, Carmen Electra, and 50 Other Celebs Thought Of The PS2 In 2002" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/matthew-perry-justin-timberlake-carmen-electra-50-celebs-ps2-2002-sony-2000630325" target="_blank">Here’s What Matthew Perry, Justin Timberlake, Carmen Electra, and 50 Other Celebs Thought Of The PS2 In 2002</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-30 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Threads-of-Time.jpg" alt="This 2.5D Love Letter To Chrono Trigger And Other JRPG Classics Couldn’t Look Any More Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +290,20 @@
                 <span class="time">2025-09-30 14:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Shrimp-e1759241280968.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="Attack of the Killer Shrimp Part II: radioactive boogalo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/30/attack-of-the-killer-shrimp-part-ii-radioactive-boogalo.html" target="_blank">Attack of the Killer Shrimp Part II: radioactive boogalo</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-30 14:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/owl-and-seagull/" target="_blank">Owl and Seagull</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-09-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1758852911-20250930.png" alt="Saturday Morning Breakfast Cereal - Unified" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -329,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
