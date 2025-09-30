@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 08:02:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-30 09:02:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 08:02 UTC</div>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss" target="_blank">What is Israel’s endgame in Africa?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 08:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/30/nx-s1-5557866/indonesia-school-building-collapse" target="_blank">Rescuers run oxygen to survivors in Indonesia school building collapse</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-30 07:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c3/live/e83192d0-9dc0-11f0-997d-ad00b4a7a51e.jpg" alt="New online NHS hospital service by 2027, PM to promise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +103,38 @@
                 <span class="time">2025-09-30 02:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d8/live/a87f62e0-9d5f-11f0-928c-71dbb8619e94.png" alt="Starmer to say Britain &#x27;at a fork in the road&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn4w37x524wo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to say Britain &#x27;at a fork in the road&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-30 02:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24db/live/d493b3f0-9d8b-11f0-b741-177e3e2c2fc7.jpg" alt="Trump and Netanyahu agree new Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Netanyahu agree new Gaza peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-30 00:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost" target="_blank">Opera launches its AI browser, but you&amp;#8217;ll have to pay to try it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-30 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/" target="_blank">Opera launches its AI-centric Neon browser</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-30 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dad8667f012698434567f0/master/pass/Review-%20Logitech%20MX%20Master%204.png" alt="Logitech MX Master 4 Review: Productivity Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/logitech-mx-master-4/" target="_blank">Logitech MX Master 4 Review: Productivity Pro</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-30 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Samsung Promo Code | October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +162,20 @@
                 <span class="time">2025-09-30 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025" target="_blank">Here are 55 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-29 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-500x500-1756146144.jpg" alt="Trump obtains another settlement as YouTube agrees to pay $24.5 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/youtube-pays-24-5m-to-settle-trump-lawsuit-over-january-2021-suspension/" target="_blank">Trump obtains another settlement as YouTube agrees to pay $24.5 million</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-29 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/firefly_explosion-500x500.jpg" alt="Another setback for Firefly Aerospace’s beleaguered rocket program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/after-another-fiery-setback-it-seems-fireflys-alpha-rocket-is-still-in-beta/" target="_blank">Another setback for Firefly Aerospace’s beleaguered rocket program</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-29 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devto_with_yog/mastering-nestjs-a-modern-approach-to-building-scalable-nodejs-applications-l6n" target="_blank">Mastering NestJS: A Modern Approach to Building Scalable Node.js Applications</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-30 08:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/nuqs-debounce-schema/en/headerimage/generatedHeaderImage-1759069372527.jpg" alt="Nuqs Adds Debounce, Standard Schema Integration and Key Isolation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/nuqs-debounce-schema/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nuqs Adds Debounce, Standard Schema Integration and Key Isolation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-30 07:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/dinindu_suriyamudali_e604/sky-agent-a-universal-interface-for-multi-cloud-operations-mi5" target="_blank">Sky Agent: A Universal Interface for Multi-Cloud Operations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-30 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-EDAC" target="_blank">Intel, AMD &amp; Arm All Have Notable EDAC Driver Additions For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-30 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/myfunny/why-i-built-a-simple-decision-making-tool-5b8a" target="_blank">Why I Built a Simple Decision-Making Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 03:34</span>
             </div>
         </div>
 </div>
@@ -336,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
