@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 01:29:05 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-09-30 02:25:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24db/live/d493b3f0-9d8b-11f0-b741-177e3e2c2fc7.jpg" alt="Trump and Netanyahu agree new Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Netanyahu agree new Gaza peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-30 00:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss" target="_blank">LIVE: Israel kills 39 in Gaza as Hamas reviews Trump’s proposal to end war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement" target="_blank">YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-29 23:16</span>
             </div>
         </div>
 <div class="story">
@@ -74,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759184491126_now_hallie_hill_shutdown_meeting_250929_1920x1080-pfg6iq.jpg" alt="Trump, Hill leaders meet with no breakthrough to prevent government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/repub-1-ap-gmh-250929_1759179668490_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Vance says &#x27;we&#x27;re headed to a shutdown&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-hill-leaders-meet-with-no-breakthrough-to-prevent-government-shutdown-248686149626" target="_blank">Trump, Hill leaders meet with no breakthrough to prevent government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-29 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c4/live/f082f700-9d73-11f0-92db-77261a15b9d2.jpg" alt="Trump and Netanyahu agree new US peace plan for Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Netanyahu agree new US peace plan for Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5534446/hurricane-helene-tennessee-river-clean-up" target="_blank">A year after Helene, a group of raft guides embarks on a river clean-up mission</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-29 20:28</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Trump admin live updates: Vance says &#x27;we&#x27;re headed to a shutdown&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-29 22:28</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2ea9" target="_blank">Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-30 02:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Removed-Linux-6.18" target="_blank">Linus Torvalds Removes The Bcachefs Code From The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/google-stax-ai-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Stax Aims to Make AI Model Evaluation Accessible for Developers</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-29 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-specialized-archives-defaultdict-counter-and-ordereddict-mah" target="_blank">The Specialized Archives: defaultdict, Counter, and OrderedDict</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 20:48</span>
             </div>
         </div>
 </div>
@@ -346,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
