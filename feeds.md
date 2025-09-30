@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 00:04:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-30 01:29:05 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,8 +50,26 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss" target="_blank">LIVE: Israel kills 39 in Gaza as Hamas reviews Trump’s proposal to end war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/trumps-gaza-peace-plan-welcomed-by-arab-and-islamic-countries-the-west?traffic_source=rss" target="_blank">Trump’s Gaza peace plan welcomed by Arab and Islamic countries, the West</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759186916595_nn_nobles_shutdown_092925_1920x1080-welgnb.jpg" alt="High-stakes White House meeting as government shutdown deadline looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/high-stakes-white-house-meeting-as-government-shutdown-deadline-looms-248683589714" target="_blank">High-stakes White House meeting as government shutdown deadline looms</a></span>
+                <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-29 23:02</span>
             </div>
         </div>
@@ -79,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5534446/hurricane-helene-tennessee-river-clean-up" target="_blank">A year after Helene, a group of raft guides embarks on a river clean-up mission</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-29 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/29/indias-asian-cup-win-over-pakistan-reignites-political-tensions?traffic_source=rss" target="_blank">India’s Asian Cup win over Pakistan reignites political tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-15-gty-gmh-250929_1759171014921_hpMain_4x3t_384.jpg" alt="Trump admin live updates: White House releases Trump&#x27;s plan to end the war in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Trump admin live updates: White House releases Trump&#x27;s plan to end the war in Gaza</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-29 19:34</span>
             </div>
         </div>
 </div>
@@ -255,6 +256,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GV6XCVB5M518V5YYGBC7C/hero-image.jpg" alt="Fall Means Darker Morning and Evening Runs, and You Should Be Prepared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-safely-exercise-in-the-dark?utm_medium=RSS" target="_blank">Fall Means Darker Morning and Evening Runs, and You Should Be Prepared</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-29 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/dollarsteam.jpg" alt="Steam’s Massive Fall Sale Is Live And Here Are The Best Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -281,20 +291,20 @@
                 <span class="time">2025-09-29 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/3Ca-href3D22https-commons.wikimedia.org-wiki-File-1.jpg?fit=1080%2C722&amp;quality=60&amp;ssl=1" alt="No goggles. Just your eyes. Watch 3D illusions that feel like magic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/29/no-goggles-just-your-eyes-watch-3d-illusions-that-feel-like-magic.html" target="_blank">No goggles. Just your eyes. Watch 3D illusions that feel like magic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-29 20:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5668.png" alt="Questionable Methodology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5668" target="_blank">Questionable Methodology</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-30 00:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -331,22 +341,13 @@
                 <span class="time">2025-09-29 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5667.png" alt="Peer Pressurization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5667" target="_blank">Peer Pressurization</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-29 00:22</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
