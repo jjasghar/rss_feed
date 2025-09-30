@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 22:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-30 23:01:43 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/30/ukraines-zelenskyy-says-situation-critical-at-zaporizhzhia-nuclear-plant?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy says situation ‘critical’ at Zaporizhzhia nuclear plant</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-30 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-palestinians-gaza-smoke_7037039.jpg?20250930120330" alt="Trump gives Hamas peace deal deadline - as key allies urge it to accept" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-gives-hamas-peace-deal-deadline-as-key-allies-including-qatar-urge-it-to-accept-13441912" target="_blank">Trump gives Hamas peace deal deadline - as key allies urge it to accept</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-30 20:56</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +94,6 @@
                 <span class="time">2025-09-30 16:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss" target="_blank">As tariffs hit, Americans grapple with rising bills and multiple jobs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -125,6 +121,15 @@
             <img src="https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/master/pass/EARLY%20PRIME%20DAY%20DEALS_A.jpg" alt="40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025-1/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-30 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/master/pass/EARLY%20PRIME%20DAY%20DEALS_A.jpg" alt="40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-30 19:55</span>
@@ -146,15 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/apple-watch-series-10-deal-1025/" target="_blank">The Apple Watch Series 10 Is $170 Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-30 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation" target="_blank">Imgur is blocking users in the UK</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-30 17:40</span>
             </div>
         </div>
 </div>
@@ -236,6 +232,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/jared-leto-tron-ares-1280x853.jpg" alt="Jared Leto’s Weird-Ass ‘Tron: Ares’ Set Behavior Was Maybe His Least Weird-Ass Set Behavior" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jared-leto-tron-ares-method-acting-disney-2000665912" target="_blank">Jared Leto’s Weird-Ass ‘Tron: Ares’ Set Behavior Was Maybe His Least Weird-Ass Set Behavior</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-30 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/KPop-Demon-Hunters-plane-logo-Netflix-1280x853.jpg" alt="The Moment the ‘KPop Demon Hunters’ Crew Knew They Had a Hit in ‘Golden’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,20 +285,20 @@
                 <span class="time">2025-09-30 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="U.S. citizen arrested twice at Alabama construction site with no probable cause" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/30/u-s-citizen-arrested-twice-at-alabama-construction-site-with-no-probable-cause.html" target="_blank">U.S. citizen arrested twice at Alabama construction site with no probable cause</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-30 20:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.shopify.com/s/files/1/0042/9942/files/pax_west_2025_collection_hero_desktop.png" alt="Final Day To Shop PAX West Store!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/30/final-day-to-shop-pax-west-store" target="_blank">Final Day To Shop PAX West Store!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-30 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -326,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
