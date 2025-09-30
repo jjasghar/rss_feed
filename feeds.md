@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 15:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-30 16:01:54 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 30, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/30/liberals-are-catalysts-to-catastrophe-again?traffic_source=rss" target="_blank">Liberals are catalysts to catastrophe, again</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759244235548_now_mnn_trump_speech_wrap_250930_1920x1080-oe3gwm.jpg" alt="Trump and Hegseth lay out military policy plans in remarks to meeting of generals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-and-hegseth-lay-out-military-policy-plans-in-remarks-to-meeting-of-generals-248740421534" target="_blank">Trump and Hegseth lay out military policy plans in remarks to meeting of generals</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-30 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +98,29 @@
                 <span class="time">2025-09-30 13:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/30/key-takeaways-from-us-president-trumps-gaza-peace?traffic_source=rss" target="_blank">Key takeaways from US President Trump’s ‘Gaza peace plan’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/quantico-3-gty-gmh-250930_1759235211369_hpMain_4x3t_384.jpg" alt="Hegseth rails against &#x27;woke,&#x27; lays out standards in speech to top generals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/pentagons-mystery-meeting-top-ranking-generals/story?id=126055917" target="_blank">Hegseth rails against &#x27;woke,&#x27; lays out standards in speech to top generals</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-30 13:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-500x500-1750706554.jpeg" alt="iOS 26.0.1, macOS 26.0.1 updates fix install bugs, new phone problems, and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/ios-26-0-1-macos-26-0-1-updates-fix-install-bugs-new-phone-problems-and-more/" target="_blank">iOS 26.0.1, macOS 26.0.1 updates fix install bugs, new phone problems, and more</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-30 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/" target="_blank">Why you can’t miss the aerospace content at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +157,29 @@
                 <span class="time">2025-09-30 13:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Ars-Technica-Subaru-Crosstrek-Hybrid-500x500.jpg" alt="The most efficient Crosstrek ever? Subaru’s hybrid gets a bit rugged." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/09/the-most-efficient-crosstrek-ever-subarus-hybrid-gets-a-bit-rugged/" target="_blank">The most efficient Crosstrek ever? Subaru’s hybrid gets a bit rugged.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/787815/google-ai-ransomware-drive-detect" target="_blank">Google Drive adds AI to detect ransomware before it spreads</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.kagi.com/kagi-news" target="_blank">Kagi News</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-30 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617197&w=600" alt="Experts Say This Is the Best LLM for Front-End Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/best-llm-for-front-end-tasks" target="_blank">Experts Say This Is the Best LLM for Front-End Tasks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-30 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/rob_d_2c0d55e14e7037f2/kotlin-virtual-threads-without-the-magic-abcoroutines-for-kotlin-4fig" target="_blank">Kotlin Virtual Threads Without the Magic: ABCoroutines for Kotlin</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/pulumi-neo/en/headerimage/generatedHeaderImage-1759188403083.jpg" alt="Pulumi Launches Neo: An Agentic AI Platform Engineer for Multi-Cloud Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/pulumi-neo/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pulumi Launches Neo: An Agentic AI Platform Engineer for Multi-Cloud Infrastructure</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi0sfybor4yci57g2dni7.png" alt="Automating Data Quality Checks: A Practical Guide Using Dagster and Great Expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jurgitamotus/automating-data-quality-checks-a-practical-guide-using-dagster-and-great-expectations-2c83" target="_blank">Automating Data Quality Checks: A Practical Guide Using Dagster and Great Expectations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 10:51</span>
             </div>
         </div>
 </div>
@@ -328,22 +321,13 @@
                 <span class="time">2025-09-29 17:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758852831-20250929.png" alt="Saturday Morning Breakfast Cereal - Gaze" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gaze" target="_blank">Saturday Morning Breakfast Cereal - Gaze</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-29 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
