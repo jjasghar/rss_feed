@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 00:06:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-01 01:29:37 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/captiol-4-gty-gmh-250930_1759261579463_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Funding measures to avert shutdown fail in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Trump admin live updates: Funding measures to avert shutdown fail in Senate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-01 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/1/how-does-chinas-k-visa-work-and-can-it-compete-with-the-h-1b?traffic_source=rss" target="_blank">How does China’s K visa work and can it compete with the H-1B?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +101,20 @@
                 <span class="time">2025-09-30 20:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/30/trumps-gaza-peace-plan-has-20-points-but-few-details?traffic_source=rss" target="_blank">Trump’s Gaza peace plan has 20 points but few details</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/30/former-drc-president-joseph-kabila-sentenced-to-death-in-absentia" target="_blank">Former DRC president Joseph Kabila sentenced to death in absentia</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-30 18:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/" target="_blank">U.S. government takes stake in Canadian lithium miner and its Nevada mining project</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-01 01:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +160,20 @@
                 <span class="time">2025-09-30 19:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale" target="_blank">Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-30 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1l7awa3trw7ib8vsuv26.png" alt="🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702" target="_blank">🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-01 01:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8hrxlhxsjb5m2s1gesl.png" alt="Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,21 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18667347&w=600" alt="From 0.68 to 10 Requests/Second: Optimizing LLM Serving With vLLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/optimizing-llm-serving-with-vllm" target="_blank">From 0.68 to 10 Requests/Second: Optimizing LLM Serving With vLLM</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="Behind the Scenes: How We Judge DEV Challenge Submissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2" target="_blank">Behind the Scenes: How We Judge DEV Challenge Submissions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 18:51</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/" target="_blank">Spec-driven development: Using Markdown as a programming language when building with AI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-30 19:07</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/stranger-things-kids-now-adults-netflix-1280x853.jpg" alt="Watch This ‘Stranger Things’ Video and and See Just How Much These Kids Have Aged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-season-1-dnd-game-lookback-netflix-2000665855" target="_blank">Watch This ‘Stranger Things’ Video and and See Just How Much These Kids Have Aged</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-30 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/FF9-MTG.jpg" alt="Even More Gorgeous Final Fantasy MTG Cards Are Coming And They’re Already Selling Out Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="time">2025-09-30 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Threets.-Photo-_3Ca-href_3D_22https-en.wikipedia.or_.jpg?fit=1080%2C793&amp;quality=60&amp;ssl=1" alt="Reading Rainbow returns with a new host" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/30/reading-rainbow-returns-with-a-new-host.html" target="_blank">Reading Rainbow returns with a new host</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-30 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,22 +324,13 @@
                 <span class="time">2025-09-30 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5668.png" alt="Questionable Methodology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5668" target="_blank">Questionable Methodology</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-30 00:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
