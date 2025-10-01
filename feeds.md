@@ -1,13 +1,15 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 18:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 19:01:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
@@ -15,21 +17,19 @@
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/01/459238450/jane-goodall-primatologist-dead-91" target="_blank">Jane Goodall, legendary primatologist, has died at age 91</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/1/walmart-to-phase-out-synthetic-dyes-in-its-us-private-label-food-brands?traffic_source=rss" target="_blank">Walmart to phase out synthetic dyes in its US private label food brands</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -61,6 +70,15 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/oct/01/violence-morocco-anti-government-protests-gen-z" target="_blank">Violence breaks out in Morocco as anti-government protests rage for fourth day</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-10-01 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9468/live/a737deb0-9ed3-11f0-928c-71dbb8619e94.jpg" alt="Unmasked: Secret BBC filming exposes hidden culture of misogyny and racism inside Met Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgq06d44jyo?at_medium=RSS&at_campaign=rss" target="_blank">Unmasked: Secret BBC filming exposes hidden culture of misogyny and racism inside Met Police</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-01 17:02</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +99,47 @@
                 <span class="time">2025-10-01 15:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/1/mysterious-majestic-sudans-nuba-mountains?traffic_source=rss" target="_blank">Mysterious, majestic; Sudan’s Nuba Mountains</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/10/1/are-russians-footing-the-bill-for-the-war-in-ukraine?traffic_source=rss" target="_blank">Is Russia’s economy at risk as oil revenues shrink?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 13:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/01/whizz-co-founder-says-trumps-chicago-crackdown-is-scaring-delivery-workers-off-the-streets/" target="_blank">Whizz co-founder says Trump’s Chicago crackdown is scaring delivery workers off the streets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-01 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/677ee1ad567f132eb9e5f851/master/pass/Ninja-Luxe-Cafe-Premier-Series-Espresso-Machine-Drip-Coffee-Maker-and-Cold-Brew-Machine-Abstract-Background-012025-SOURCE-Ninja.jpg" alt="Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/" target="_blank">Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-01 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/fake_altman-500x500.jpg" alt="OpenAI’s Sora 2 lets users insert themselves into AI videos with sound" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/openais-sora-2-lets-users-insert-themselves-into-ai-videos-with-sound/" target="_blank">OpenAI’s Sora 2 lets users insert themselves into AI videos with sound</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass" target="_blank">US government takes equity stake in one of the world’s largest lithium mines</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 18:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,42 +158,6 @@
                 <span class="time">2025-10-01 17:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri" target="_blank">Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/robohands-500x500.png" alt="Can today’s AI video models accurately model how the real world works?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/can-todays-ai-video-models-accurately-model-how-the-real-world-works/" target="_blank">Can today’s AI video models accurately model how the real world works?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-01 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dd399d5fe1682fca05d7c0/master/pass/trump-govt-shutdown-pol-2237540016.jpg" alt="Federal Workers Are Being Told to Blame Democrats for the Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/government-employees-out-of-office-email-replies/" target="_blank">Federal Workers Are Being Told to Blame Democrats for the Shutdown</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/" target="_blank">Meet the end-of-life planning startup co-founded by NBA All Star Russell Westbrook</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +170,24 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-hellreaper-official-announcement-trailer-k8h" target="_blank">IGN: Hellreaper: Official Announcement Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669319&w=600" alt="From Keywords to Meaning: A Hands-On Tutorial With Sentence-Transformers for Semantic Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/sentence-transformers-semantic-search-tutorial" target="_blank">From Keywords to Meaning: A Hands-On Tutorial With Sentence-Transformers for Semantic Search</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/microsoft-ai-chips/en/headerimage/generatedHeaderImage-1759340332590.jpg" alt="Microsoft Tests Microfluidic Cooling for Next-Generation AI Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/microsoft-ai-chips/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Tests Microfluidic Cooling for Next-Generation AI Chips</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-01 17:55</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +217,6 @@
                 <span class="time">2025-10-01 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18667304&w=600" alt="Detecting and Reducing Fake Contact Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/detecting-and-reducing-fake-contact-data" target="_blank">Detecting and Reducing Fake Contact Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/jwst/en/mediumimage/kenneth-harris-medium-1756897697924.jpg" alt="Presentation: A Thirteen Billion Year Old Photograph" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/jwst/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: A Thirteen Billion Year Old Photograph</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-01 10:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2022/04/1dc6a08d7cbf9c26f138f24d0eedf7b6.jpg" alt="EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-saudi-bioware-ai-lgbtq-debt-junk-bond-2000630647" target="_blank">EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-01 18:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/reddit-adhd-1280x827.jpg" alt="Scientists Studied People With Self-Diagnosed ADHD. What They Found Was Revealing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +290,20 @@
                 <span class="time">2025-10-01 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/atarilogo.jpg" alt="Someone Is Trying To Auction Off A Cheeto Shaped Like The Atari Logo On eBay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/someone-trying-auction-cheeto-shaped-atari-logo-on-ebay-witcher-prototype-2000630610" target="_blank">Someone Is Trying To Auction Off A Cheeto Shaped Like The Atari Logo On eBay</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-01 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758853017-20251001.png" alt="Saturday Morning Breakfast Cereal - Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sale-2" target="_blank">Saturday Morning Breakfast Cereal - Sale</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-01 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
