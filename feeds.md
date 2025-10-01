@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 19:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-01 20:01:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +46,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/01/nx-s1-5559784/nprs-college-podcast-challenge-returns-for-2025" target="_blank">Students, listen up! NPR&#x27;s College Podcast Challenge is back for 2025</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/01/459238450/jane-goodall-primatologist-dead-91" target="_blank">Jane Goodall, legendary primatologist, has died at age 91</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-01 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/843d/live/f62328b0-9ef9-11f0-92db-77261a15b9d2.jpg" alt="Four ways this US government shutdown could end" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdr6pnky7vyo?at_medium=RSS&at_campaign=rss" target="_blank">Four ways this US government shutdown could end</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-01 18:25</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +96,29 @@
                 <span class="time">2025-10-01 17:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/shutdown-9-gty-gmh-251001_1759328383682_hpMain_4x3t_384.jpg" alt="Senate again fails to pass bills aimed at funding government as blame game continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/senate-vote-bills-aimed-funding-government-blame-game/story?id=126115015" target="_blank">Senate again fails to pass bills aimed at funding government as blame game continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-01 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/01/nx-s1-5556920/trump-fed-governor-fire-lisa-cook" target="_blank">Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-01 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer" target="_blank">Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1365874365-500x500.jpg" alt="Cable nostalgia persists as streaming gets more expensive, fragmented" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/cable-nostalgia-lives-on-as-streaming-gets-more-expensive-fragmented/" target="_blank">Cable nostalgia persists as streaming gets more expensive, fragmented</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +155,20 @@
                 <span class="time">2025-10-01 18:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/01/openais-new-social-app-is-filled-with-terrifying-sam-altman-deepfakes/" target="_blank">OpenAI’s new social app is filled with terrifying Sam Altman deepfakes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dd659968c3f0971c2b91b8/master/pass/Save%20$200%20on%20Our%20Favorite%20Automatic%20Latte%20Maker.png" alt="Our Favorite Automatic Latte Maker Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/delonghi-rivelia-deal-1025/" target="_blank">Our Favorite Automatic Latte Maker Is $200 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669327&w=600" alt="Bounded Rationality: Why Time-Boxed Decisions Keep Agile Teams Moving" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/time-boxed-decisions-in-agile-teams" target="_blank">Bounded Rationality: Why Time-Boxed Decisions Keep Agile Teams Moving</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-01 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,6 +184,15 @@
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/sentence-transformers-semantic-search-tutorial" target="_blank">From Keywords to Meaning: A Hands-On Tutorial With Sentence-Transformers for Semantic Search</a></span>
                 <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-HWMON" target="_blank">More ASUS Motherboards Will Have Working Sensor Monitoring With Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2025-10-01 18:00</span>
             </div>
         </div>
@@ -199,24 +214,6 @@
                 <span class="time">2025-10-01 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-EXT4-EROFS-NTFS3" target="_blank">EXT4, EROFS &amp; NTFS3 File-System Drivers Ready With Improvements For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-01 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://autism-simulator.vercel.app/" target="_blank">Show HN: Autism Simulator</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-01 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/starship-flight-10-pre-launch-1280x853.jpeg" alt="3 Things to Watch During Starship’s Final Flight of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/3-things-to-watch-during-starships-final-flight-of-2025-2000666387" target="_blank">3 Things to Watch During Starship’s Final Flight of 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-01 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Karoline Leavitt excuses clearly unethical behavior of Trump&#x27;s son-in-law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/01/karoline-leavitt-excuses-clearly-unethical-behavior-of-trumps-son-in-law.html" target="_blank">Karoline Leavitt excuses clearly unethical behavior of Trump&#x27;s son-in-law</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-01 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2022/04/1dc6a08d7cbf9c26f138f24d0eedf7b6.jpg" alt="EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/01/better-bring-your-passport-to-the-er.html" target="_blank">Better bring your passport to the ER</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-01 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/hazbin-hotel-prime-1280x853.jpg" alt="‘Hazbin Hotel’ Season 2’s First Trailer Promises That All Hell May Break Loose (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hazbin-hotel-season-2-trailer-release-date-amazon-2000665948" target="_blank">‘Hazbin Hotel’ Season 2’s First Trailer Promises That All Hell May Break Loose (Again)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J91V9WSXF1X99T9EVZV5SGWX/hero-image.png" alt="My Favorite Amazon Deal of the Day: Amazon Echo Buds With ANC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-amazon-echo-buds-with-anc?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: Amazon Echo Buds With ANC</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-01 15:30</span>
             </div>
         </div>
 </div>
@@ -336,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
