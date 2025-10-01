@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 16:02:35 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-10-01 17:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/shutdown-9-gty-gmh-251001_1759328383682_hpMain_4x3t_384.jpg" alt="Senate again fails to pass bills aimed at funding government as blame game continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-vote-bills-aimed-funding-government-blame-game/story?id=126115015" target="_blank">Senate again fails to pass bills aimed at funding government as blame game continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-01 16:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,29 @@
                 <span class="time">2025-10-01 11:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759317256793_tdy_news_7a_nobles_government_shutdown_251001_1920x1080-ppqrka.jpg" alt="US Government Shuts Down After Senate Rejects Funding Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/federal-government-shut-down-begins-what-will-be-impacted-248813125660" target="_blank">US Government Shuts Down After Senate Rejects Funding Deals</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-01 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/robohands-500x500.png" alt="Can today’s AI video models accurately model how the real world works?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/can-todays-ai-video-models-accurately-model-how-the-real-world-works/" target="_blank">Can today’s AI video models accurately model how the real world works?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dd399d5fe1682fca05d7c0/master/pass/trump-govt-shutdown-pol-2237540016.jpg" alt="Federal Workers Are Being Told to Blame Democrats for the Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/government-employees-out-of-office-email-replies/" target="_blank">Federal Workers Are Being Told to Blame Democrats for the Shutdown</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-01 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +155,6 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/cars/2025/10/its-october-1-so-the-electric-vehicle-tax-credit-is-dead-now/" target="_blank">It’s October 1, so the electric vehicle tax credit is dead now</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dc16e57f1a3601b3fad9e6/master/pass/politics_chuck_schumer_democrats.jpg" alt="The Post-Chuck Schumer Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chuck-schumer-government-shutdown/" target="_blank">The Post-Chuck Schumer Era</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/789734/game-consoles-too-expensive" target="_blank">Everything about buying video games is getting more confusing and expensive</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2025-10-01 15:00</span>
             </div>
         </div>
@@ -239,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Doctor-Who-the-Prison-Paradox-Preview-Titan-Comics-1280x853.jpg" alt="‘Doctor Who’ Is Bringing Back the Slitheen for a Comic Book Prison Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-prison-paradox-preview-15th-doctor-belindra-slitheen-2000666217" target="_blank">‘Doctor Who’ Is Bringing Back the Slitheen for a Comic Book Prison Break</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-01 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/vance.jpg?fit=1200%2C839&amp;quality=60&amp;ssl=1" alt="Better bring your passport to the ER" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/01/better-bring-your-passport-to-the-er.html" target="_blank">Better bring your passport to the ER</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-01 16:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/hazbin-hotel-prime-1280x853.jpg" alt="‘Hazbin Hotel’ Season 2’s First Trailer Promises That All Hell May Break Loose (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/digimon-story-time-stranger-the-kotaku-review-2000630341" target="_blank">Digimon Story: Time Stranger: The Kotaku Review</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/DJIMavic4.jpg" alt="DJI Mavic 4 Pro Drone With RC 2 Drops by Hundreds, Making It the Cheapest Ever 6K/60FPS Professional Drone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dji-mavic-4-pro-drone-with-rc-2-drops-by-hundreds-making-it-the-cheapest-ever-6k-60fps-professional-drone-2000630306" target="_blank">DJI Mavic 4 Pro Drone With RC 2 Drops by Hundreds, Making It the Cheapest Ever 6K/60FPS Professional Drone</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-01 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/gold-cards2-1.jpg" alt="Pokémon’s Latest Set Has Cards So Impossibly Rare It’s Started Another Gold Rush" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-tcg-mega-evolution-gold-cards-pull-rate-2000630564" target="_blank">Pokémon’s Latest Set Has Cards So Impossibly Rare It’s Started Another Gold Rush</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-01 12:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
