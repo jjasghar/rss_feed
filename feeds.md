@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 15:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 16:02:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/01/nx-s1-5556920/trump-fed-governor-fire-lisa-cook" target="_blank">Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,26 +101,53 @@
                 <span class="time">2025-10-01 11:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b941/live/be603cf0-9e91-11f0-928c-71dbb8619e94.jpg" alt="PM tells BBC he wants to change how international law used in asylum cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss" target="_blank">PM tells BBC he wants to change how international law used in asylum cases</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-01 08:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/" target="_blank">Meet the end-of-life planning startup co-founded by NBA All Star Russell Westbrook</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing" target="_blank">Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/iclouduk-500x500.jpg" alt="UK once again demands backdoor to Apple’s encrypted cloud storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage/" target="_blank">UK once again demands backdoor to Apple’s encrypted cloud storage</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 15:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1365310049-500x500.jpg" alt="It’s October 1, so the electric vehicle tax credit is dead now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/cars/2025/10/its-october-1-so-the-electric-vehicle-tax-credit-is-dead-now/" target="_blank">It’s October 1, so the electric vehicle tax credit is dead now</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dc16e57f1a3601b3fad9e6/master/pass/politics_chuck_schumer_democrats.jpg" alt="The Post-Chuck Schumer Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chuck-schumer-government-shutdown/" target="_blank">The Post-Chuck Schumer Era</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2025-10-01 15:00</span>
             </div>
         </div>
@@ -119,47 +160,29 @@
                 <span class="time">2025-10-01 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/" target="_blank">Creative machines and where AI meets imagination at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687b4c87641be926d0e77796/master/pass/The%20Best%20Coolers.png" alt="15 Best Coolers WIRED Tested for Every Budget, Any Situation (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-cooler/" target="_blank">15 Best Coolers WIRED Tested for Every Budget, Any Situation (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/789424/xbox-game-pass-premium-essentials-ultimate-price-increase-changes" target="_blank">Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/" target="_blank">Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://si.inc/posts/the-heap/" target="_blank">Building a 30 PB storage cluster in the heart of SF</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-EXT4-EROFS-NTFS3" target="_blank">EXT4, EROFS &amp; NTFS3 File-System Drivers Ready With Improvements For Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-01 14:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18667304&w=600" alt="Detecting and Reducing Fake Contact Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +219,6 @@
                 <span class="time">2025-10-01 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3268117%2F1ab4dce0-9706-4bf9-bcd5-576b0833c02b.png" alt="Check out the list of articles on understanding nonlinear regression and role of r" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-the-list-of-articles-on-understanding-nonlinear-regression-and-role-of-r-5gdg" target="_blank">Check out the list of articles on understanding nonlinear regression and role of r</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-01 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf" target="_blank">Type Theory and Functional Programming (1999) [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-01 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/hazbin-hotel-prime-1280x853.jpg" alt="‘Hazbin Hotel’ Season 2’s First Trailer Promises That All Hell May Break Loose (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hazbin-hotel-season-2-trailer-release-date-amazon-2000665948" target="_blank">‘Hazbin Hotel’ Season 2’s First Trailer Promises That All Hell May Break Loose (Again)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-01 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J91V9WSXF1X99T9EVZV5SGWX/hero-image.png" alt="My Favorite Amazon Deal of the Day: Amazon Echo Buds With ANC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-amazon-echo-buds-with-anc?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: Amazon Echo Buds With ANC</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-01 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/atarilogo.jpg" alt="Someone Is Trying To Auction Off A Cheeto Shaped Like The Atari Logo On eBay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/someone-trying-auction-cheeto-shaped-atari-logo-on-ebay-witcher-prototype-2000630610" target="_blank">Someone Is Trying To Auction Off A Cheeto Shaped Like The Atari Logo On eBay</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-01 15:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/IMG_9843.jpg" alt="Digimon Story: Time Stranger: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-tcg-mega-evolution-gold-cards-pull-rate-2000630564" target="_blank">Pokémon’s Latest Set Has Cards So Impossibly Rare It’s Started Another Gold Rush</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/04/turbine.jpeg?fit=1500%2C843&amp;quality=60&amp;ssl=1" alt="Energy Dept. to employees: don&#x27;t say &quot;green,&quot; don&#x27;t say &quot;climate change,&quot; definitely don&#x27;t say &quot;clean energy&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/01/energy-dept-to-employees-dont-say-green-dont-say-climate-change-definitely-dont-say-clean-energy.html" target="_blank">Energy Dept. to employees: don&#x27;t say &quot;green,&quot; don&#x27;t say &quot;climate change,&quot; definitely don&#x27;t say &quot;clean energy&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-01 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/oldandyoungpeople-1280x853.jpg" alt="Growing Old Is Nothing New for Humans. So Why Are We So Bad at It Now?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/growing-old-is-nothing-new-for-humans-so-why-are-we-so-bad-at-it-now-2000664208" target="_blank">Growing Old Is Nothing New for Humans. So Why Are We So Bad at It Now?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Enceladus-icy-plumes-1280x853.jpg" alt="New Life-Giving Molecules Found in 17-Year-Old Data From Saturn’s Moon Enceladus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-life-giving-molecules-found-in-17-year-old-data-from-saturns-moon-enceladus-2000665788" target="_blank">New Life-Giving Molecules Found in 17-Year-Old Data From Saturn’s Moon Enceladus</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 09:00</span>
             </div>
         </div>
 </div>
@@ -319,31 +324,13 @@
                 <span class="time">2025-09-30 21:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/owl-and-seagull/" target="_blank">Owl and Seagull</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-09-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758852911-20250930.png" alt="Saturday Morning Breakfast Cereal - Unified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/unified" target="_blank">Saturday Morning Breakfast Cereal - Unified</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-30 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
