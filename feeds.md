@@ -1,37 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 01:29:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 02:30:23 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -116,6 +105,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1875360841-500x500.jpg" alt="The AI slop drops right from the top, as Trump posts vulgar deepfake of opponents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/09/ai-leadership-trump-posts-deepfakes-of-dems-calling-themselves-woke-pieces-of-s-t/" target="_blank">The AI slop drops right from the top, as Trump posts vulgar deepfake of opponents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-30 22:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -147,15 +145,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025-1/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-30 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/master/pass/EARLY%20PRIME%20DAY%20DEALS_A.jpg" alt="40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-30 19:55</span>
             </div>
@@ -239,6 +228,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/cruz.jpeg?fit=1500%2C1004&amp;quality=60&amp;ssl=1" alt="Ted Cruz: &quot;Let&#x27;s stop attacking pedophiles&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/30/ted-cruz-lets-stop-attacking-pedophiles.html" target="_blank">Ted Cruz: &quot;Let&#x27;s stop attacking pedophiles&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-01 02:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/stranger-things-kids-now-adults-netflix-1280x853.jpg" alt="Watch This ‘Stranger Things’ Video and and See Just How Much These Kids Have Aged" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -283,15 +281,6 @@
                 <span class="time">2025-09-30 21:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Sinister_still3-2-1280x853.jpg" alt="How Found Footage Helped Blumhouse Build Its Horror Empire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-found-footage-helped-blumhouse-build-its-horror-empire-2000663380" target="_blank">How Found Footage Helped Blumhouse Build Its Horror Empire</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-30 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
