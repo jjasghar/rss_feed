@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 22:01:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-01 23:02:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg" alt="Israeli naval ships intercept Gaza-bound flotilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli naval ships intercept Gaza-bound flotilla</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-01 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss" target="_blank">Israel kills journalist Yahia Barzaq known for his newborn baby portraits</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/shutdown-9-gty-gmh-251001_1759328383682_hpMain_4x3t_384.jpg" alt="What&#x27;s next after Senate again fails to pass bills aimed at funding government?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +100,20 @@
                 <span class="time">2025-10-01 19:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/01/459238450/jane-goodall-primatologist-dead-91" target="_blank">Jane Goodall, legendary primatologist, has died at age 91</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-01 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/843d/live/f62328b0-9ef9-11f0-92db-77261a15b9d2.jpg" alt="Four ways this US government shutdown could end" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdr6pnky7vyo?at_medium=RSS&at_campaign=rss" target="_blank">Four ways this US government shutdown could end</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-01 18:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats" target="_blank">Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 22:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/04/ground_sloth_paul_cooper_houston_museum-500x500.jpg" alt="Ice Age hunters in South America preferred now-extinct megafauna" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +159,20 @@
                 <span class="time">2025-10-01 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1365874365-500x500.jpg" alt="Cable nostalgia persists as streaming gets more expensive, fragmented" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/cable-nostalgia-lives-on-as-streaming-gets-more-expensive-fragmented/" target="_blank">Cable nostalgia persists as streaming gets more expensive, fragmented</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-01 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Mini Floating Panel Adds New Auto-Positioning Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/mini-floating-panel-7-click-positioning" target="_blank">Mini Floating Panel Adds New Auto-Positioning Options</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-01 22:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +218,6 @@
                 <span class="time">2025-10-01 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-HWMON" target="_blank">More ASUS Motherboards Will Have Working Sensor Monitoring With Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-01 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Kill-Bill-Uma-Thurman-1280x853.jpg" alt="‘Kill Bill: The Whole Bloody Affair’ Is Coming to Theaters Everywhere This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kill-bill-the-whole-bloody-affair-release-date-2000666510" target="_blank">‘Kill Bill: The Whole Bloody Affair’ Is Coming to Theaters Everywhere This Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-01 22:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/gta-dev-harassment.jpg" alt="TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-legends-z-a-leaks-switch-2-image-mega-evolution-2000630717" target="_blank">Pokémon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-01 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/starship-flight-10-pre-launch-1280x853.jpeg" alt="3 Things to Watch During Starship’s Final Flight of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/3-things-to-watch-during-starships-final-flight-of-2025-2000666387" target="_blank">3 Things to Watch During Starship’s Final Flight of 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 19:45</span>
             </div>
         </div>
 </div>
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
