@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 04:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-01 05:02:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 04:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/1/live-us-government-shuts-down-starts-as-trump-threatens-mass-layoffs?traffic_source=rss" target="_blank">LIVE: US government shutdown starts as Trump threatens mass layoffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759292284572_nbc_spec_goverment_shutdown_250930_1920x1080-ehq7el.jpg" alt="U.S. government shuts down after Congress fails to reach a funding deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/u-s-government-shuts-down-after-congress-fails-to-reach-a-funding-deal-248803397717" target="_blank">U.S. government shuts down after Congress fails to reach a funding deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-01 04:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capital-main_1759221474648_hpMain_4x3t_384.jpg" alt="The US government has shut down. Here&#x27;s what to know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/us-government-shut-midnight/story?id=126067361" target="_blank">The US government has shut down. Here&#x27;s what to know</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-01 04:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Trump admin live updates: Funding measures to avert shutdown fail in Senate</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-01 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/1/how-does-chinas-k-visa-work-and-can-it-compete-with-the-h-1b?traffic_source=rss" target="_blank">How does China’s K visa work and can it compete with the H-1B?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5558432/drug-prices-trumprx-pfizer" target="_blank">President announces TrumpRx website for drugs, and pricing deal with Pfizer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-30 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/30/galatasaray-beat-liverpool-1-0-in-raucous-champions-league-clash?traffic_source=rss" target="_blank">Galatasaray beat Liverpool 1-0 in raucous Champions League clash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 21:44</span>
             </div>
         </div>
 </div>
@@ -179,6 +183,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/google/cdc-file-transfer" target="_blank">CDC File Transfer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-01 02:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1l7awa3trw7ib8vsuv26.png" alt="🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-openSIL-Phoenix" target="_blank">AMD Publishes Open-Source openSIL Code For Phoenix SoCs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-30 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/glabory/como-construi-aulalens-en-24h-y-gane-un-macbook-en-el-proceso-5li" target="_blank">Cómo construí AulaLens en 24h y gané un MacBook en el proceso</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 19:49</span>
             </div>
         </div>
 </div>
@@ -293,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5669.png" alt="The Sorting Process" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5669" target="_blank">The Sorting Process</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-01 00:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.shopify.com/s/files/1/0042/9942/files/pax_west_2025_collection_hero_desktop.png" alt="Final Day To Shop PAX West Store!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -324,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 04:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
