@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 11:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 12:02:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f46/live/b5e50740-9eaa-11f0-9d1f-e7d83132d3ab.jpg" alt="Baroness Mone-linked company ordered to pay £122m over PPE contract" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1792rk7ynko?at_medium=RSS&at_campaign=rss" target="_blank">Baroness Mone-linked company ordered to pay £122m over PPE contract</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-01 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/01/g-s1-91399/up-first-newsletter-government-shutdown-pete-hegseth-trump-military-pfizer-pricing-deal" target="_blank">What happens now that the government has shut down. And, a pricing deal with Pfizer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 11:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b941/live/be603cf0-9e91-11f0-928c-71dbb8619e94.jpg" alt="PM tells BBC he wants to change how international law used in asylum cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +94,29 @@
                 <span class="time">2025-10-01 05:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-kabul_7037819.jpg?20251001063736" alt="Taliban internet blackout has created an extreme scenario leaving everyone dumbfounded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/taliban-internet-blackout-has-created-an-extreme-scenario-in-afghanistan-with-far-reaching-consequences-13442021" target="_blank">Taliban internet blackout has created an extreme scenario leaving everyone dumbfounded</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-01 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0244/live/0623ca90-9e95-11f0-928c-71dbb8619e94.jpg" alt="Jobs, travel, national parks - what impact will US shutdown have?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgj1p485p0no?at_medium=RSS&at_campaign=rss" target="_blank">Jobs, travel, national parks - what impact will US shutdown have?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-01 05:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250731-PH-RNS01_0008large-500x500.jpg" alt="In their own words: The Artemis II crew on the frenetic first hours of their flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/in-their-own-words-the-artemis-ii-crew-on-the-frenetic-first-hours-of-their-flight/" target="_blank">In their own words: The Artemis II crew on the frenetic first hours of their flight</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687b026f55c6c75b964e0e41/master/pass/Which%20Amazon%20Fire%20Tablet%20Is%20Best%20for%20You_.png" alt="Amazon’s Fire Tablets, Tested, So You Don’t Have To (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-amazon-fire-tablet/" target="_blank">Amazon’s Fire Tablets, Tested, So You Don’t Have To (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-01 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/" target="_blank">How to Watch the Orionids Meteor Shower</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-01 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/" target="_blank">U.S. government takes stake in Canadian lithium miner and its Nevada mining project</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/789358/new-fat-bear-week-champion" target="_blank">All hail the new Fat Bear Champion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 01:10</span>
             </div>
         </div>
 </div>
@@ -218,23 +214,27 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/details-of-a-scam.html" target="_blank">Details of a Scam</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-30 11:06</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/gold-cards2-1.jpg" alt="Pokémon’s Latest Set Has Cards So Impossibly Rare It’s Started Another Gold Rush" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tcg-mega-evolution-gold-cards-pull-rate-2000630564" target="_blank">Pokémon’s Latest Set Has Cards So Impossibly Rare It’s Started Another Gold Rush</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/04/turbine.jpeg?fit=1500%2C843&amp;quality=60&amp;ssl=1" alt="Energy Dept. to employees: don&#x27;t say &quot;green,&quot; don&#x27;t say &quot;climate change,&quot; definitely don&#x27;t say &quot;clean energy&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/01/energy-dept-to-employees-dont-say-green-dont-say-climate-change-definitely-dont-say-clean-energy.html" target="_blank">Energy Dept. to employees: don&#x27;t say &quot;green,&quot; don&#x27;t say &quot;climate change,&quot; definitely don&#x27;t say &quot;clean energy&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-01 11:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/oldandyoungpeople-1280x853.jpg" alt="Growing Old Is Nothing New for Humans. So Why Are We So Bad at It Now?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +269,6 @@
                 <span class="title"><a href="https://gizmodo.com/stranger-things-season-1-dnd-game-lookback-netflix-2000665855" target="_blank">Watch This ‘Stranger Things’ Video and and See Just How Much These Kids Have Aged</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-30 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/FF9-MTG.jpg" alt="Even More Gorgeous Final Fantasy MTG Cards Are Coming And They’re Already Selling Out Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/even-more-gorgeous-final-fantasy-mtg-cards-are-coming-and-theyre-already-selling-out-again-2000630364" target="_blank">Even More Gorgeous Final Fantasy MTG Cards Are Coming And They’re Already Selling Out Again</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-30 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/jared-leto-tron-ares-1280x853.jpg" alt="Jared Leto’s Weird-Ass ‘Tron: Ares’ Set Behavior Was Maybe His Least Weird-Ass Set Behavior" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jared-leto-tron-ares-method-acting-disney-2000665912" target="_blank">Jared Leto’s Weird-Ass ‘Tron: Ares’ Set Behavior Was Maybe His Least Weird-Ass Set Behavior</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-30 22:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
