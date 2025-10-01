@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-30 23:01:43 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-01 00:06:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, September 30, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5558432/drug-prices-trumprx-pfizer" target="_blank">President announces TrumpRx website for drugs, and pricing deal with Pfizer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-30 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/30/galatasaray-beat-liverpool-1-0-in-raucous-champions-league-clash?traffic_source=rss" target="_blank">Galatasaray beat Liverpool 1-0 in raucous Champions League clash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-30 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +100,20 @@
                 <span class="time">2025-09-30 18:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/30/nx-s1-5557934/pasta-listeria-outbreak-walmart-trader-joes" target="_blank">Pasta meals from Trader Joe&#x27;s and Walmart may be linked to a deadly listeria outbreak</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-30 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759251187563_now_brk_trump_shutdown_irreversible_250930_1920x1080-0il6bu.jpg" alt="Trump suggests he could make &#x27;irreversible&#x27; cuts if the government shuts down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-suggests-he-could-make-irreversible-cuts-if-the-government-shuts-down-248748101925" target="_blank">Trump suggests he could make &#x27;irreversible&#x27; cuts if the government shuts down</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-30 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden" target="_blank">Google is blocking AI searches for Trump and dementia</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-30 21:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale" target="_blank">Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-30 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dc0f06c39f3e48235a90a5/master/pass/Save%20over%20$170%20on%20the%20Apple%20Watch%20Series%2010.png" alt="The Apple Watch Series 10 Is $170 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-watch-series-10-deal-1025/" target="_blank">The Apple Watch Series 10 Is $170 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-30 17:57</span>
             </div>
         </div>
 </div>
@@ -232,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/FF9-MTG.jpg" alt="Even More Gorgeous Final Fantasy MTG Cards Are Coming And They’re Already Selling Out Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/even-more-gorgeous-final-fantasy-mtg-cards-are-coming-and-theyre-already-selling-out-again-2000630364" target="_blank">Even More Gorgeous Final Fantasy MTG Cards Are Coming And They’re Already Selling Out Again</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-30 22:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/jared-leto-tron-ares-1280x853.jpg" alt="Jared Leto’s Weird-Ass ‘Tron: Ares’ Set Behavior Was Maybe His Least Weird-Ass Set Behavior" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/30/reading-rainbow-returns-with-a-new-host.html" target="_blank">Reading Rainbow returns with a new host</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-30 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6E2W1DQRB00K1476EPQ74V2/hero-image.jpg" alt="Six New WhatsApp Features You Can Try Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-just-announced-six-new-features-coming-to-whatsapp?utm_medium=RSS" target="_blank">Six New WhatsApp Features You Can Try Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-30 20:30</span>
             </div>
         </div>
 </div>
@@ -331,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
