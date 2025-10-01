@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 20:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 21:01:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/1/protesters-and-police-clash-as-morocco-unrest-escalates?traffic_source=rss" target="_blank">Protesters and police clash as Morocco unrest escalates</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/01/g-s1-91522/gaza-aid-flotilla-sumud-israel" target="_blank">Activists say Israel&#x27;s navy has begun intercepting a Gaza-bound aid flotilla</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 20:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +96,29 @@
                 <span class="time">2025-10-01 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/01/violence-morocco-anti-government-protests-gen-z" target="_blank">Violence breaks out in Morocco as anti-government protests rage for fourth day</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-01 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9468/live/a737deb0-9ed3-11f0-928c-71dbb8619e94.jpg" alt="Unmasked: Secret BBC filming exposes hidden culture of misogyny and racism inside Met Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgq06d44jyo?at_medium=RSS&at_campaign=rss" target="_blank">Unmasked: Secret BBC filming exposes hidden culture of misogyny and racism inside Met Police</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-01 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/" target="_blank">What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-01 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/2025-Ioniq-5-XRT-first-drive-5-500x500.jpg" alt="Hyundai gives the Ioniq 5 a huge price cut for model-year 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/hyundai-gives-the-ioniq-5-a-huge-price-cut-for-model-year-2026/" target="_blank">Hyundai gives the Ioniq 5 a huge price cut for model-year 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 20:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/" target="_blank">Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-01 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/fake_altman-500x500.jpg" alt="OpenAI’s Sora 2 lets users insert themselves into AI videos with sound" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/openais-sora-2-lets-users-insert-themselves-into-ai-videos-with-sound/" target="_blank">OpenAI’s Sora 2 lets users insert themselves into AI videos with sound</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-01 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass" target="_blank">US government takes equity stake in one of the world’s largest lithium mines</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 18:31</span>
             </div>
         </div>
 </div>
@@ -234,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/pokemonsfds.jpg" alt="Pokémon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-z-a-leaks-switch-2-image-mega-evolution-2000630717" target="_blank">Pokémon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-01 20:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/starship-flight-10-pre-launch-1280x853.jpeg" alt="3 Things to Watch During Starship’s Final Flight of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,15 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/doctor-who-prison-paradox-preview-15th-doctor-belindra-slitheen-2000666217" target="_blank">‘Doctor Who’ Is Bringing Back the Slitheen for a Comic Book Prison Break</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/vance.jpg?fit=1200%2C839&amp;quality=60&amp;ssl=1" alt="Better bring your passport to the ER" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/01/better-bring-your-passport-to-the-er.html" target="_blank">Better bring your passport to the ER</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-01 16:48</span>
             </div>
         </div>
 </div>
@@ -333,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
