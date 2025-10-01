@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 08:02:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 09:01:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b941/live/be603cf0-9e91-11f0-928c-71dbb8619e94.jpg" alt="PM tells BBC he wants to change how international law used in asylum cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss" target="_blank">PM tells BBC he wants to change how international law used in asylum cases</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-01 08:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-kabul_7037819.jpg?20251001063736" alt="Taliban internet blackout has created an extreme scenario leaving everyone dumbfounded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/taliban-internet-blackout-has-created-an-extreme-scenario-in-afghanistan-with-far-reaching-consequences-13442021" target="_blank">Taliban internet blackout has created an extreme scenario leaving everyone dumbfounded</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-01 05:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0244/live/0623ca90-9e95-11f0-928c-71dbb8619e94.jpg" alt="Jobs, travel, national parks - what impact will US shutdown have?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cgj1p485p0no?at_medium=RSS&at_campaign=rss" target="_blank">Jobs, travel, national parks - what impact will US shutdown have?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-01 05:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/1/live-us-government-shuts-down-starts-as-trump-threatens-mass-layoffs?traffic_source=rss" target="_blank">LIVE: US government shutdown starts as Trump threatens mass layoffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759292284572_nbc_spec_goverment_shutdown_250930_1920x1080-ehq7el.jpg" alt="U.S. government shuts down after Congress fails to reach a funding deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/u-s-government-shuts-down-after-congress-fails-to-reach-a-funding-deal-248803397717" target="_blank">U.S. government shuts down after Congress fails to reach a funding deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-01 04:18</span>
             </div>
         </div>
 </div>
@@ -177,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf" target="_blank">Type Theory and Functional Programming (1999) [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-01 07:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/cursor-hooks/en/headerimage/generatedHeaderImage-1759267312522.jpg" alt="Cursor 1.7 Adds Hooks for Agent Lifecycle Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://github.com/pcarbonn/fast_html" target="_blank">Generate HTML conveniently and efficiently with Python generators</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-01 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg" target="_blank">Getting Started with Tuist: Manage iOS Projects with ease</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-01 03:50</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
