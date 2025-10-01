@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 13:09:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-01 14:01:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/10/1/are-russians-footing-the-bill-for-the-war-in-ukraine?traffic_source=rss" target="_blank">Is Russia’s economy at risk as oil revenues shrink?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 13:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f46/live/b5e50740-9eaa-11f0-9d1f-e7d83132d3ab.jpg" alt="Baroness Mone-linked company ordered to pay £122m over PPE contract" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -55,6 +69,15 @@
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/01/g-s1-91399/up-first-newsletter-government-shutdown-pete-hegseth-trump-military-pfizer-pricing-deal" target="_blank">What happens now that the government has shut down. And, a pricing deal with Pfizer</a></span>
                 <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759317256793_tdy_news_7a_nobles_government_shutdown_251001_1920x1080-ppqrka.jpg" alt="US Government Shuts Down After Senate Rejects Funding Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/federal-government-shut-down-begins-what-will-be-impacted-248813125660" target="_blank">US Government Shuts Down After Senate Rejects Funding Deals</a></span>
+                <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-01 11:14</span>
             </div>
         </div>
@@ -76,29 +99,38 @@
                 <span class="time">2025-10-01 07:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/at-least-9-dead-in-severe-weather-in-ukraines-odesa-as-war-rumbles-on?traffic_source=rss" target="_blank">At least nine dead in severe weather in Ukraine’s Odesa as war rumbles on</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/over-90-people-believed-buried-under-rubble-after-indonesia-school-collapse?traffic_source=rss" target="_blank">Over 90 people believed buried under rubble after Indonesia school collapse</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 05:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/789424/xbox-game-pass-premium-essentials-ultimate-price-increase-changes" target="_blank">Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/" target="_blank">Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dcaa08f5b10387440a71e2/master/pass/Review-%20Petlibro%20Scout%20Smart%20Camera_.png" alt="Petlibro Scout Smart Camera: Filled With Both Features and Kinks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/petlibro-scout-smart-camera/" target="_blank">Petlibro Scout Smart Camera: Filled With Both Features and Kinks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-01 13:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,33 +158,6 @@
                 <span class="time">2025-10-01 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687b026f55c6c75b964e0e41/master/pass/Which%20Amazon%20Fire%20Tablet%20Is%20Best%20for%20You_.png" alt="Amazon’s Fire Tablets, Tested, So You Don’t Have To (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-amazon-fire-tablet/" target="_blank">Amazon’s Fire Tablets, Tested, So You Don’t Have To (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness" target="_blank">Peloton ushers in a new era with revamped hardware and AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68da627990d84ff83605d562/master/pass/190925_GEAR-For-Good-Opener.jpg" alt="Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-for-good-20-eco-friendly-items/" target="_blank">Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +170,15 @@
                 <span class="title"><a href="https://dzone.com/articles/detecting-and-reducing-fake-contact-data" target="_blank">Detecting and Reducing Fake Contact Data</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/jwst/en/mediumimage/kenneth-harris-medium-1756897697924.jpg" alt="Presentation: A Thirteen Billion Year Old Photograph" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/jwst/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: A Thirteen Billion Year Old Photograph</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-01 10:16</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +217,6 @@
                 <span class="time">2025-10-01 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/cursor-hooks/en/headerimage/generatedHeaderImage-1759267312522.jpg" alt="Cursor 1.7 Adds Hooks for Agent Lifecycle Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/cursor-hooks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cursor 1.7 Adds Hooks for Agent Lifecycle Control</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-01 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/IMG_9843.jpg" alt="Digimon Story: Time Stranger: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/digimon-story-time-stranger-the-kotaku-review-2000630341" target="_blank">Digimon Story: Time Stranger: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/DJIMavic4.jpg" alt="DJI Mavic 4 Pro Drone With RC 2 Drops by Hundreds, Making It the Cheapest Ever 6K/60FPS Professional Drone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/new-life-giving-molecules-found-in-17-year-old-data-from-saturns-moon-enceladus-2000665788" target="_blank">New Life-Giving Molecules Found in 17-Year-Old Data From Saturn’s Moon Enceladus</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-01 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/cruz.jpeg?fit=1500%2C1004&amp;quality=60&amp;ssl=1" alt="Ted Cruz: &quot;Let&#x27;s stop attacking pedophiles&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/30/ted-cruz-lets-stop-attacking-pedophiles.html" target="_blank">Ted Cruz: &quot;Let&#x27;s stop attacking pedophiles&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-01 02:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
