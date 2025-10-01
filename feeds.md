@@ -1,26 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 02:30:23 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-10-01 03:19:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 03:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,10 +90,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-palestinians-gaza-smoke_7037039.jpg?20250930120330" alt="Trump gives Hamas peace deal deadline - as key allies urge it to accept" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-palestinians-gaza-smoke_7037039.jpg?20250930120330" alt="Trump gives Hamas peace deal deadline - as Tony Blair&#x27;s proposed role sparks fury" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-gives-hamas-peace-deal-deadline-as-key-allies-including-qatar-urge-it-to-accept-13441912" target="_blank">Trump gives Hamas peace deal deadline - as key allies urge it to accept</a></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-gives-hamas-peace-deal-deadline-as-key-allies-including-qatar-urge-it-to-accept-13441912" target="_blank">Trump gives Hamas peace deal deadline - as Tony Blair&#x27;s proposed role sparks fury</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-30 20:56</span>
             </div>
@@ -102,6 +110,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/" target="_blank">U.S. government takes stake in Canadian lithium miner and its Nevada mining project</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-01 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/789358/new-fat-bear-week-champion" target="_blank">All hail the new Fat Bear Champion</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 01:10</span>
             </div>
         </div>
 <div class="story">
@@ -140,20 +157,20 @@
                 <span class="time">2025-09-30 20:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/master/pass/EARLY%20PRIME%20DAY%20DEALS_A.jpg" alt="40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025-1/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-30 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rgbos/mastering-ef-core-pagination-efficient-data-retrieval-7b8" target="_blank">Mastering EF Core Pagination: Efficient Data Retrieval</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-01 03:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1l7awa3trw7ib8vsuv26.png" alt="🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,15 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/imgur-not-accessible-in-uk-ico" target="_blank">Imgur is No Longer Available to Users in the UK</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-30 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/" target="_blank">Spec-driven development: Using Markdown as a programming language when building with AI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-30 19:07</span>
             </div>
         </div>
 </div>
@@ -318,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 03:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
