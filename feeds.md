@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 03:19:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 04:01:44 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 03:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 04:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/russia-ukraine-war-list-of-key-events-day-1315?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,315</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 03:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/30/nx-s1-5553625/coffee-day-farmers-industry-climate-change-labor-stenophylla" target="_blank">Change is brewing in the coffee industry. What lies ahead?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 03:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/captiol-4-gty-gmh-250930_1759261579463_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Funding measures to avert shutdown fail in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/30/galatasaray-beat-liverpool-1-0-in-raucous-champions-league-clash?traffic_source=rss" target="_blank">Galatasaray beat Liverpool 1-0 in raucous Champions League clash</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-30 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/30/ukraines-zelenskyy-says-situation-critical-at-zaporizhzhia-nuclear-plant?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy says situation ‘critical’ at Zaporizhzhia nuclear plant</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-30 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-palestinians-gaza-smoke_7037039.jpg?20250930120330" alt="Trump gives Hamas peace deal deadline - as Tony Blair&#x27;s proposed role sparks fury" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-gives-hamas-peace-deal-deadline-as-key-allies-including-qatar-urge-it-to-accept-13441912" target="_blank">Trump gives Hamas peace deal deadline - as Tony Blair&#x27;s proposed role sparks fury</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-30 20:56</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg" target="_blank">Getting Started with Tuist: Manage iOS Projects with ease</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-01 03:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rgbos/mastering-ef-core-pagination-efficient-data-retrieval-7b8" target="_blank">Mastering EF Core Pagination: Efficient Data Retrieval</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 03:13</span>
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/glabory/como-construi-aulalens-en-24h-y-gane-un-macbook-en-el-proceso-5li" target="_blank">Cómo construí AulaLens en 24h y gané un MacBook en el proceso</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-30 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/imgur-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Imgur is No Longer Available to Users in the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/imgur-not-accessible-in-uk-ico" target="_blank">Imgur is No Longer Available to Users in the UK</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-30 19:21</span>
             </div>
         </div>
 </div>
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 03:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 04:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
