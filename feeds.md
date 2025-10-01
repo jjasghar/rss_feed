@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 12:02:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-01 13:09:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +100,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/789687/openai-samsung-stargate-chips" target="_blank">Samsung teams up with OpenAI to deliver Stargate chips</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/01/google-unveils-ai-powered-nest-indoor-and-outdoor-cameras-and-a-new-doorbell/" target="_blank">Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250731-PH-RNS01_0008large-500x500.jpg" alt="In their own words: The Artemis II crew on the frenetic first hours of their flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -135,29 +153,20 @@
                 <span class="time">2025-10-01 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us" target="_blank">Brompton’s versatile Electric G folding e-bike is now available in the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 09:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/674705ece62bfbd1626a1416/master/pass/GettyImages-1293014500.jpg" alt="How to Watch the Orionids Meteor Shower" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/" target="_blank">How to Watch the Orionids Meteor Shower</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18667304&w=600" alt="Detecting and Reducing Fake Contact Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/detecting-and-reducing-fake-contact-data" target="_blank">Detecting and Reducing Fake Contact Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-01 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,13 +212,18 @@
                 <span class="time">2025-10-01 07:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-pokemon-legends-z-a-official-teaser-trailer-4gcn" target="_blank">IGN: Pokemon Legends: Z-A - Official Teaser Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-01 06:01</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/use-of-generative-ai-in-scams.html" target="_blank">Use of Generative AI in Scams</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-01 11:09</span>
             </div>
         </div>
 </div>
@@ -217,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/DJIMavic4.jpg" alt="DJI Mavic 4 Pro Drone With RC 2 Drops by Hundreds, Making It the Cheapest Ever 6K/60FPS Professional Drone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dji-mavic-4-pro-drone-with-rc-2-drops-by-hundreds-making-it-the-cheapest-ever-6k-60fps-professional-drone-2000630306" target="_blank">DJI Mavic 4 Pro Drone With RC 2 Drops by Hundreds, Making It the Cheapest Ever 6K/60FPS Professional Drone</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-01 12:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/gold-cards2-1.jpg" alt="Pokémon’s Latest Set Has Cards So Impossibly Rare It’s Started Another Gold Rush" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +283,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/30/ted-cruz-lets-stop-attacking-pedophiles.html" target="_blank">Ted Cruz: &quot;Let&#x27;s stop attacking pedophiles&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-01 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/stranger-things-kids-now-adults-netflix-1280x853.jpg" alt="Watch This ‘Stranger Things’ Video and and See Just How Much These Kids Have Aged" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-season-1-dnd-game-lookback-netflix-2000665855" target="_blank">Watch This ‘Stranger Things’ Video and and See Just How Much These Kids Have Aged</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-30 23:30</span>
             </div>
         </div>
 </div>
@@ -326,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
