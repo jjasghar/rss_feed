@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 06:02:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 07:01:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/at-least-9-dead-in-severe-weather-in-ukraines-odesa-as-war-rumbles-on?traffic_source=rss" target="_blank">At least nine dead in severe weather in Ukraine’s Odesa as war rumbles on</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 06:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +95,20 @@
                 <span class="time">2025-10-01 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/russia-ukraine-war-list-of-key-events-day-1315?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,315</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 03:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/674705ece62bfbd1626a1416/master/pass/GettyImages-1293014500.jpg" alt="How to Watch the Orionids Meteor Shower" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/" target="_blank">How to Watch the Orionids Meteor Shower</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-01 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="time">2025-09-30 21:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/prebunking-500x500.jpg" alt="Research roundup: Six cool stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/09/research-roundup-six-cool-stories-we-almost-missed/" target="_blank">Research roundup: Six cool stories we almost missed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-30 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +166,15 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-pokemon-legends-z-a-official-teaser-trailer-4gcn" target="_blank">IGN: Pokemon Legends: Z-A - Official Teaser Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/retropie-setup/" target="_blank">Utilizing My Raspberry Pi 4 for Retro Gaming With RetroPie</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-01 05:59</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +211,6 @@
                 <span class="title"><a href="https://github.com/google/cdc-file-transfer" target="_blank">CDC File Transfer</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-01 02:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1l7awa3trw7ib8vsuv26.png" alt="🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702" target="_blank">🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-01 01:20</span>
             </div>
         </div>
 </div>
@@ -334,7 +333,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 06:02 UTC
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
