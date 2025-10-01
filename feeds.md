@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 07:01:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-01 08:02:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/1/pfizer-strikes-deal-with-trump-administration-to-cut-us-drug-prices?traffic_source=rss" target="_blank">Pfizer strikes deal with Trump administration to cut US drug prices</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 07:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/at-least-9-dead-in-severe-weather-in-ukraines-odesa-as-war-rumbles-on?traffic_source=rss" target="_blank">At least nine dead in severe weather in Ukraine’s Odesa as war rumbles on</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-01 06:39</span>
@@ -57,6 +74,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/over-90-people-believed-buried-under-rubble-after-indonesia-school-collapse?traffic_source=rss" target="_blank">Over 90 people believed buried under rubble after Indonesia school collapse</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-01 05:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0244/live/0623ca90-9e95-11f0-928c-71dbb8619e94.jpg" alt="Jobs, travel, national parks - what impact will US shutdown have?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgj1p485p0no?at_medium=RSS&at_campaign=rss" target="_blank">Jobs, travel, national parks - what impact will US shutdown have?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-01 05:27</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/u-s-government-shuts-down-after-congress-fails-to-reach-a-funding-deal-248803397717" target="_blank">U.S. government shuts down after Congress fails to reach a funding deal</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-01 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capital-main_1759221474648_hpMain_4x3t_384.jpg" alt="The US government has shut down. Here&#x27;s what to know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/us-government-shut-midnight/story?id=126067361" target="_blank">The US government has shut down. Here&#x27;s what to know</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-01 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/01/nx-s1-5558456/government-shutdown-trump-house" target="_blank">Government shuts down after Congress fails to reach a funding agreement</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-01 04:01</span>
             </div>
         </div>
 </div>
@@ -160,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3268117%2F1ab4dce0-9706-4bf9-bcd5-576b0833c02b.png" alt="Check out the list of articles on understanding nonlinear regression and role of r" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-the-list-of-articles-on-understanding-nonlinear-regression-and-role-of-r-5gdg" target="_blank">Check out the list of articles on understanding nonlinear regression and role of r</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-01 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/cursor-hooks/en/headerimage/generatedHeaderImage-1759267312522.jpg" alt="Cursor 1.7 Adds Hooks for Agent Lifecycle Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/cursor-hooks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cursor 1.7 Adds Hooks for Agent Lifecycle Control</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-01 07:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg" target="_blank">Getting Started with Tuist: Manage iOS Projects with ease</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rgbos/mastering-ef-core-pagination-efficient-data-retrieval-7b8" target="_blank">Mastering EF Core Pagination: Efficient Data Retrieval</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-01 03:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/google/cdc-file-transfer" target="_blank">CDC File Transfer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-01 02:38</span>
             </div>
         </div>
 </div>
@@ -332,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
