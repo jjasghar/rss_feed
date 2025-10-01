@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 14:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-01 15:01:38 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/1/mysterious-majestic-sudans-nuba-mountains?traffic_source=rss" target="_blank">Mysterious, majestic; Sudan’s Nuba Mountains</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +96,47 @@
                 <span class="time">2025-10-01 08:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/1/pfizer-strikes-deal-with-trump-administration-to-cut-us-drug-prices?traffic_source=rss" target="_blank">Pfizer strikes deal with Trump administration to cut US drug prices</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 07:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1365310049-500x500.jpg" alt="It’s October 1, so the electric vehicle tax credit is dead now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/its-october-1-so-the-electric-vehicle-tax-credit-is-dead-now/" target="_blank">It’s October 1, so the electric vehicle tax credit is dead now</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/789734/game-consoles-too-expensive" target="_blank">Everything about buying video games is getting more confusing and expensive</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/" target="_blank">Creative machines and where AI meets imagination at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687b4c87641be926d0e77796/master/pass/The%20Best%20Coolers.png" alt="15 Best Coolers WIRED Tested for Every Budget, Any Situation (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-cooler/" target="_blank">15 Best Coolers WIRED Tested for Every Budget, Any Situation (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-01 14:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -120,42 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/" target="_blank">Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dcaa08f5b10387440a71e2/master/pass/Review-%20Petlibro%20Scout%20Smart%20Camera_.png" alt="Petlibro Scout Smart Camera: Filled With Both Features and Kinks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/petlibro-scout-smart-camera/" target="_blank">Petlibro Scout Smart Camera: Filled With Both Features and Kinks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/789687/openai-samsung-stargate-chips" target="_blank">Samsung teams up with OpenAI to deliver Stargate chips</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/01/google-unveils-ai-powered-nest-indoor-and-outdoor-cameras-and-a-new-doorbell/" target="_blank">Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250731-PH-RNS01_0008large-500x500.jpg" alt="In their own words: The Artemis II crew on the frenetic first hours of their flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/in-their-own-words-the-artemis-ii-crew-on-the-frenetic-first-hours-of-their-flight/" target="_blank">In their own words: The Artemis II crew on the frenetic first hours of their flight</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-01 11:30</span>
             </div>
         </div>
 </div>
@@ -345,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
