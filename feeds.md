@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 21:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-01 22:01:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/shutdown-9-gty-gmh-251001_1759328383682_hpMain_4x3t_384.jpg" alt="What&#x27;s next after Senate again fails to pass bills aimed at funding government?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-vote-bills-aimed-funding-government-blame-game/story?id=126115015" target="_blank">What&#x27;s next after Senate again fails to pass bills aimed at funding government?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-01 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +102,29 @@
                 <span class="time">2025-10-01 18:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/1/walmart-to-phase-out-synthetic-dyes-in-its-us-private-label-food-brands?traffic_source=rss" target="_blank">Walmart to phase out synthetic dyes in its US private label food brands</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/04/ground_sloth_paul_cooper_houston_museum-500x500.jpg" alt="Ice Age hunters in South America preferred now-extinct megafauna" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/ice-age-hunters-in-south-america-preferred-now-extinct-megafauna/" target="_blank">Ice Age hunters in South America preferred now-extinct megafauna</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/790255/instagram-test-reels-home-tab" target="_blank">Instagram tests opening right onto Reels</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +161,29 @@
                 <span class="time">2025-10-01 19:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/01/whizz-co-founder-says-trumps-chicago-crackdown-is-scaring-delivery-workers-off-the-streets/" target="_blank">Whizz co-founder says Trump’s Chicago crackdown is scaring delivery workers off the streets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/677ee1ad567f132eb9e5f851/master/pass/Ninja-Luxe-Cafe-Premier-Series-Espresso-Machine-Drip-Coffee-Maker-and-Cold-Brew-Machine-Abstract-Background-012025-SOURCE-Ninja.jpg" alt="Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/" target="_blank">Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-01 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/martinxcvi/fundamentos-de-javascript-variables-la-base-de-cualquier-programa-1log" target="_blank">Fundamentos de JavaScript - Variables: La Base de Cualquier Programa</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-01 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-AVC-VMSCAPE" target="_blank">Attack Vector Controls Can Now Manage VMSCAPE Mitigation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-01 20:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669327&w=600" alt="Bounded Rationality: Why Time-Boxed Decisions Keep Agile Teams Moving" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +220,6 @@
                 <span class="time">2025-10-01 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/microsoft-ai-chips/en/headerimage/generatedHeaderImage-1759340332590.jpg" alt="Microsoft Tests Microfluidic Cooling for Next-Generation AI Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/microsoft-ai-chips/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Tests Microfluidic Cooling for Next-Generation AI Chips</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-01 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://si.inc/posts/the-heap/" target="_blank">Building a 30 PB storage cluster in the heart of SF</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/gta-dev-harassment.jpg" alt="TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tiktok-creator-flies-to-scotland-to-yell-at-gta-6-devs-outside-their-office-2000630715" target="_blank">TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-01 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/renato.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Movie poster legend Renato Cesaro dead at 89" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/01/movie-poster-legend-renato-cesaro-dead-at-89.html" target="_blank">Movie poster legend Renato Cesaro dead at 89</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-01 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6GHZ4SHCQK7F3EKFCX0Y0QY/hero-image.jpg" alt="OpenAI Just Made an App for Sharing Hyper-Realistic AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-we-know-about-openais-tiktok-for-ai?utm_medium=RSS" target="_blank">OpenAI Just Made an App for Sharing Hyper-Realistic AI Slop</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-01 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/lego-october-2025-new-releases-ucs-death-star-1280x853.jpg" alt="That’s No Moon, That’s Lego’s October Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-lego-sets-october-2025-ucs-death-star-2000666327" target="_blank">That’s No Moon, That’s Lego’s October Releases</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-01 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/pokemonsfds.jpg" alt="Pokémon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -251,47 +293,20 @@
                 <span class="time">2025-10-01 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Karoline Leavitt excuses clearly unethical behavior of Trump&#x27;s son-in-law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/01/karoline-leavitt-excuses-clearly-unethical-behavior-of-trumps-son-in-law.html" target="_blank">Karoline Leavitt excuses clearly unethical behavior of Trump&#x27;s son-in-law</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-01 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2022/04/1dc6a08d7cbf9c26f138f24d0eedf7b6.jpg" alt="EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-saudi-bioware-ai-lgbtq-debt-junk-bond-2000630647" target="_blank">EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-01 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/reddit-adhd-1280x827.jpg" alt="Scientists Studied People With Self-Diagnosed ADHD. What They Found Was Revealing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-studied-people-with-self-diagnosed-adhd-what-they-found-was-revealing-2000666179" target="_blank">Scientists Studied People With Self-Diagnosed ADHD. What They Found Was Revealing</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Doctor-Who-the-Prison-Paradox-Preview-Titan-Comics-1280x853.jpg" alt="‘Doctor Who’ Is Bringing Back the Slitheen for a Comic Book Prison Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-prison-paradox-preview-15th-doctor-belindra-slitheen-2000666217" target="_blank">‘Doctor Who’ Is Bringing Back the Slitheen for a Comic Book Prison Break</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/01/ghost-recon" target="_blank">Ghost Recon</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-01 21:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1758853017-20251001.png" alt="Saturday Morning Breakfast Cereal - Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,22 +334,13 @@
                 <span class="time">2025-10-01 00:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.shopify.com/s/files/1/0042/9942/files/pax_west_2025_collection_hero_desktop.png" alt="Final Day To Shop PAX West Store!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/30/final-day-to-shop-pax-west-store" target="_blank">Final Day To Shop PAX West Store!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-30 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
