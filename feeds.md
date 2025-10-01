@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 05:02:11 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-01 06:02:28 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/over-90-people-believed-buried-under-rubble-after-indonesia-school-collapse?traffic_source=rss" target="_blank">Over 90 people believed buried under rubble after Indonesia school collapse</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 05:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,28 +81,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/russia-ukraine-war-list-of-key-events-day-1315?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,315</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 03:41</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/01/nx-s1-5558456/government-shutdown-trump-house" target="_blank">Government shuts down after Congress fails to reach a funding agreement</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 04:01</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/30/nx-s1-5553625/coffee-day-farmers-industry-climate-change-labor-stenophylla" target="_blank">Change is brewing in the coffee industry. What lies ahead?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-01 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/captiol-4-gty-gmh-250930_1759261579463_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Funding measures to avert shutdown fail in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Trump admin live updates: Funding measures to avert shutdown fail in Senate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-01 01:10</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/russia-ukraine-war-list-of-key-events-day-1315?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,315</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 03:41</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-pokemon-legends-z-a-official-teaser-trailer-4gcn" target="_blank">IGN: Pokemon Legends: Z-A - Official Teaser Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-01 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/pcarbonn/fast_html" target="_blank">Generate HTML conveniently and efficiently with Python generators</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-01 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg" target="_blank">Getting Started with Tuist: Manage iOS Projects with ease</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 03:50</span>
@@ -198,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702" target="_blank">🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8hrxlhxsjb5m2s1gesl.png" alt="Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudinary/clara-denari-and-the-mysterious-transformations-a-new-way-to-explore-cloudinary-57od" target="_blank">Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-30 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-openSIL-Phoenix" target="_blank">AMD Publishes Open-Source openSIL Code For Phoenix SoCs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-30 20:26</span>
             </div>
         </div>
 </div>
@@ -337,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
