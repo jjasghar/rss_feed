@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 10:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-01 11:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, October 01, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +107,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness" target="_blank">Peloton ushers in a new era with revamped hardware and AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-01 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68da627990d84ff83605d562/master/pass/190925_GEAR-For-Good-Opener.jpg" alt="Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gear-for-good-20-eco-friendly-items/" target="_blank">Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-01 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us" target="_blank">Brompton’s versatile Electric G folding e-bike is now available in the US</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-01 09:59</span>
@@ -142,29 +157,20 @@
                 <span class="time">2025-10-01 01:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1875360841-500x500.jpg" alt="The AI slop drops right from the top, as Trump posts vulgar deepfake of opponents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/09/ai-leadership-trump-posts-deepfakes-of-dems-calling-themselves-woke-pieces-of-s-t/" target="_blank">The AI slop drops right from the top, as Trump posts vulgar deepfake of opponents</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-30 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden" target="_blank">Google is blocking AI searches for Trump and dementia</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-30 21:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://weakty.com/posts/efforts/" target="_blank">Our efforts, in part, define us</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-01 09:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/pipeline-language-migrations/en/headerimage/a-pipeline-approach-to-language-migrations-header-image-1759158012774.jpg" alt="Article: ​​A Pipeline Approach to Language Migrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +216,6 @@
                 <span class="time">2025-10-01 06:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/retropie-setup/" target="_blank">Utilizing My Raspberry Pi 4 for Retro Gaming With RetroPie</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-01 05:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/oldandyoungpeople-1280x853.jpg" alt="Growing Old Is Nothing New for Humans. So Why Are We So Bad at It Now?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/growing-old-is-nothing-new-for-humans-so-why-are-we-so-bad-at-it-now-2000664208" target="_blank">Growing Old Is Nothing New for Humans. So Why Are We So Bad at It Now?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-01 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Enceladus-icy-plumes-1280x853.jpg" alt="New Life-Giving Molecules Found in 17-Year-Old Data From Saturn’s Moon Enceladus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/jared-leto-tron-ares-method-acting-disney-2000665912" target="_blank">Jared Leto’s Weird-Ass ‘Tron: Ares’ Set Behavior Was Maybe His Least Weird-Ass Set Behavior</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-30 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/KPop-Demon-Hunters-plane-logo-Netflix-1280x853.jpg" alt="The Moment the ‘KPop Demon Hunters’ Crew Knew They Had a Hit in ‘Golden’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-golden-bts-netflix-interview-2000665757" target="_blank">The Moment the ‘KPop Demon Hunters’ Crew Knew They Had a Hit in ‘Golden’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-30 21:30</span>
             </div>
         </div>
 </div>
@@ -347,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
