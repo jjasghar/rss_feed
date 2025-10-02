@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 12:02:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-02 13:07:31 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/shutdown-main_1759396839986_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Trump calls for culling &#x27;dead wood&#x27; amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Government shutdown updates: Trump calls for culling &#x27;dead wood&#x27; amid shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-02 12:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f9/live/1e328820-9f7a-11f0-9ccd-4dc2d8fa5ad2.png" alt="Eyewitnesses describe Manchester synagogue attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn0rp05ykx7o?at_medium=RSS&at_campaign=rss" target="_blank">Eyewitnesses describe Manchester synagogue attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-02 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0952/live/0af28640-9f7d-11f0-b741-177e3e2c2fc7.jpg" alt="Israel intercepts Gaza flotilla and detains activists including Greta Thunberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss" target="_blank">Israel intercepts Gaza flotilla and detains activists including Greta Thunberg</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-02 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +102,6 @@
                 <span class="time">2025-10-02 08:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5557289/federal-shutdown-nutrition-aid-wic-snap-benefits-government-funding" target="_blank">The federal shutdown puts nutrition aid for millions of new parents at risk</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-02 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jd-vance-1-rt-gmh-251001_1759339864603_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Vance says he doesn&#x27;t think shutdown will last long" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Government shutdown updates: Vance says he doesn&#x27;t think shutdown will last long</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-02 02:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,10 +110,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/790186/super-mario-galaxy-nintendo-switch-2" target="_blank">Super Mario Galaxy deserves more</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/" target="_blank">Oneleet raises $33M to shake up the world of security compliance</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-02 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/09/46372736004_987b46af12_k-500x500.jpg" alt="How America fell behind China in the lunar space race—and how it can catch back up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/how-america-fell-behind-china-in-the-lunar-space-race-and-how-it-can-catch-back-up/" target="_blank">How America fell behind China in the lunar space race—and how it can catch back up</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-02 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +161,29 @@
                 <span class="time">2025-10-02 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Arc-On-Orbit-1-500x500.jpg" alt="Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/" target="_blank">Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-02 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/" target="_blank">Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 23:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668425&w=600" alt="Salesforce Data Cloud: Setting Up and Using the Ingestion API" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/datacloud-streaming-ingestion-api" target="_blank">Salesforce Data Cloud: Setting Up and Using the Ingestion API</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-02 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/" target="_blank">NL Judge: Meta must respect user&#x27;s choice of recommendation system</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-02 11:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/software-engineer-staff-plus/en/headerimage/ben-1759208982073.jpg" alt="How Software Engineers Can Grow into Staff Plus Roles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,29 +220,20 @@
                 <span class="time">2025-10-02 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabrielcaiana/arquitetura-modular-com-nuxt-layers-em-projetos-vue-586k" target="_blank">Arquitetura Modular com Nuxt Layers em Projetos Vue</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 07:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/" target="_blank">Building AI-ready teams: Why documentation and culture matter more than tools</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-02 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/tesla-supercharger-1280x853.jpg" alt="Tesla Hikes Prices After the Government Cash Grinds to a Halt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-hikes-prices-after-the-government-cash-grinds-to-a-halt-2000666476" target="_blank">Tesla Hikes Prices After the Government Cash Grinds to a Halt</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-02 12:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/adl.jpg?fit=1648%2C1028&amp;quality=60&amp;ssl=1" alt="ADL deletes Glossary of Extremism to please MAGA, which then stabs it in the front" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +279,6 @@
                 <span class="time">2025-10-01 21:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/renato.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Movie poster legend Renato Cesaro dead at 89" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/01/movie-poster-legend-renato-cesaro-dead-at-89.html" target="_blank">Movie poster legend Renato Cesaro dead at 89</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-01 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
