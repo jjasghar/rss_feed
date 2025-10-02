@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 06:02:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-02 07:01:48 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +59,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5557289/federal-shutdown-nutrition-aid-wic-snap-benefits-government-funding" target="_blank">The federal shutdown puts nutrition aid for millions of new parents at risk</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-02 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jd-vance-1-rt-gmh-251001_1759339864603_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Vance says he doesn&#x27;t think shutdown will last long" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Government shutdown updates: Vance says he doesn&#x27;t think shutdown will last long</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-02 02:17</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +106,29 @@
                 <span class="time">2025-10-01 22:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg" alt="Israeli naval ships intercept Gaza-bound flotilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli naval ships intercept Gaza-bound flotilla</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-01 22:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Visible Promo Code: Save Up to $300 in October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/visible-promo-code/" target="_blank">Visible Promo Code: Save Up to $300 in October 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-02 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Arc-On-Orbit-1-500x500.jpg" alt="Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/" target="_blank">Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-02 02:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +165,6 @@
                 <span class="time">2025-10-01 21:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/790255/instagram-test-reels-home-tab" target="_blank">Instagram tests opening right onto Reels</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/" target="_blank">What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-01 20:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +177,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/" target="_blank">Building AI-ready teams: Why documentation and culture matter more than tools</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-10-02 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k" target="_blank">Building, Testing, and Publishing Go Packages: Best Practices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 06:48</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/how-full-stack-developers-can-use-ai-for-faster-delivery-14cn" target="_blank">How Full-Stack Developers Can Use AI for Faster Delivery</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-02 03:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/om_shree_0709/major-tech-news-oct-1st-2025-20d6" target="_blank">📰 Major Tech News: Oct 1st, 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 01:21</span>
             </div>
         </div>
 </div>
@@ -319,22 +329,13 @@
                 <span class="time">2025-10-01 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/01/ghost-recon" target="_blank">Ghost Recon</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-01 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
