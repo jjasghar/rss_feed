@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 15:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 16:01:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss" target="_blank">Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-02 15:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +103,6 @@
                 <span class="time">2025-10-02 12:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f9/live/1e328820-9f7a-11f0-9ccd-4dc2d8fa5ad2.png" alt="Eyewitnesses describe Manchester synagogue attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0rp05ykx7o?at_medium=RSS&at_campaign=rss" target="_blank">Eyewitnesses describe Manchester synagogue attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-02 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -105,9 +112,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad" target="_blank">Welcome to the Xbox $360 era</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/" target="_blank">Celebrating the partners driving Disrupt’s big ideas, connections, and community</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/790510/trump-fascism-antifa-soros-ice" target="_blank">Everything is terrorism in Trump&amp;#8217;s America</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d4461a11c17a95c36b3ef4/master/pass/Made-In-China-China-Rolls-Out-First-Talent-Visa-as-US-Retreats-on-H-1Bs-Business.jpg" alt="China Rolls Out Its First Talent Visa as the US Retreats on H-1Bs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/china-talent-immigration-visa-h1-b-policy/" target="_blank">China Rolls Out Its First Talent Visa as the US Retreats on H-1Bs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-02 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1232815520-500x500.jpg" alt="Tesla reverses sales decline in Q3, sells 50k more cars than it built" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/tesla-reverses-sales-decline-in-q3-sells-50k-more-cars-than-it-built/" target="_blank">Tesla reverses sales decline in Q3, sells 50k more cars than it built</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-02 13:55</span>
             </div>
         </div>
 <div class="story">
@@ -119,47 +162,29 @@
                 <span class="time">2025-10-02 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/790186/super-mario-galaxy-nintendo-switch-2" target="_blank">Super Mario Galaxy deserves more</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/" target="_blank">Oneleet raises $33M to shake up the world of security compliance</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-02 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/09/46372736004_987b46af12_k-500x500.jpg" alt="How America fell behind China in the lunar space race—and how it can catch back up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/how-america-fell-behind-china-in-the-lunar-space-race-and-how-it-can-catch-back-up/" target="_blank">How America fell behind China in the lunar space race—and how it can catch back up</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-02 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/789795/hps-new-49-inch-curved-ultrawide-monitor-has-a-pop-up-webcam" target="_blank">HP&amp;#8217;s new 49-inch curved ultrawide monitor has a pop-up webcam</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-02 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-4-reducing-lambda-cold-starts-with-snapstart-and-api-hkn" target="_blank">Micronaut 4 application on AWS Lambda- Part 4 Reducing Lambda cold starts with SnapStart and API Gateway request event priming</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/pi-imager-difference.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi Imager 2.0 Enters Testing with a Brand New Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/raspberry-pi-imager-2-0-enters-beta-with-a-brand-new-look" target="_blank">Raspberry Pi Imager 2.0 Enters Testing with a Brand New Look</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-02 15:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhatyupz13iexdcn6kxa.gif" alt="My Battle Tested React Hooks Are Now Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,29 +221,29 @@
                 <span class="time">2025-10-02 12:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668425&w=600" alt="Salesforce Data Cloud: Setting Up and Using the Ingestion API" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/datacloud-streaming-ingestion-api" target="_blank">Salesforce Data Cloud: Setting Up and Using the Ingestion API</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-02 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/" target="_blank">NL Judge: Meta must respect user&#x27;s choice of recommendation system</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-02 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JQVMJEJ9T3W7VMNCZR2SRPQK/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Kindle Paperwhite Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-kindle-paperwhite-kids-deal?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Kindle Paperwhite Kids</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-02 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/echo-show-8.jpg" alt="Amazon Echo Show 8 Slashed to Year’s Lowest Price, Even Lower With Extra Trade-In Savings Ahead of Prime Big Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-echo-show-8-slashed-to-years-lowest-price-even-lower-with-extra-trade-in-savings-ahead-of-prime-big-deal-days-2000631005" target="_blank">Amazon Echo Show 8 Slashed to Year’s Lowest Price, Even Lower With Extra Trade-In Savings Ahead of Prime Big Deal Days</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-02 15:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/morncheck-2.jpg" alt="GameStop Hits Back At Massive Xbox Game Pass Price Hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,29 +280,20 @@
                 <span class="time">2025-10-02 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/tesla-supercharger-1280x853.jpg" alt="Tesla Hikes Prices After the Government Cash Grinds to a Halt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tesla-hikes-prices-after-the-government-cash-grinds-to-a-halt-2000666476" target="_blank">Tesla Hikes Prices After the Government Cash Grinds to a Halt</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/adl.jpg?fit=1648%2C1028&amp;quality=60&amp;ssl=1" alt="ADL deletes Glossary of Extremism to please MAGA, which then stabs it in the front" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/01/adl-deletes-glossary-of-extremism-to-please-maga-which-then-stabs-it-in-the-front.html" target="_blank">ADL deletes Glossary of Extremism to please MAGA, which then stabs it in the front</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-02 01:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1759360612-20251002.png" alt="Saturday Morning Breakfast Cereal - Priors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/priors" target="_blank">Saturday Morning Breakfast Cereal - Priors</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-02 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5670.png" alt="Shame On Marten" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,22 +312,13 @@
                 <span class="time">2025-10-01 21:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758853017-20251001.png" alt="Saturday Morning Breakfast Cereal - Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sale-2" target="_blank">Saturday Morning Breakfast Cereal - Sale</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-01 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
