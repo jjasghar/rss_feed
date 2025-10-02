@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 17:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 18:02:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +111,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68de879f86517332dac19373/master/pass/govt-shutdown-OOO-pol-2238532691.jpg" alt="Government Workers Say Their Out-of-Office Replies Were Forcibly Changed to Blame Democrats for Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/government-workers-say-their-out-of-office-replies-were-forcibly-changed-to-blame-democrats-for-shutdown/" target="_blank">Government Workers Say Their Out-of-Office Replies Were Forcibly Changed to Blame Democrats for Shutdown</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-02 17:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -150,20 +164,20 @@
                 <span class="time">2025-10-02 14:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1232815520-500x500.jpg" alt="Tesla reverses sales decline in Q3, sells 50k more cars than it built" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/tesla-reverses-sales-decline-in-q3-sells-50k-more-cars-than-it-built/" target="_blank">Tesla reverses sales decline in Q3, sells 50k more cars than it built</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-02 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669944&w=600" alt="AI Infrastructure Guide: Tools, Frameworks, and Architecture Flows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-infrastructure-guide-tools-frameworks-and-archi" target="_blank">AI Infrastructure Guide: Tools, Frameworks, and Architecture Flows</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-02 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,21 +215,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/pi-imager-difference.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi Imager 2.0 Enters Testing with a Brand New Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/raspberry-pi-imager-2-0-enters-beta-with-a-brand-new-look" target="_blank">Raspberry Pi Imager 2.0 Enters Testing with a Brand New Look</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-02 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhatyupz13iexdcn6kxa.gif" alt="My Battle Tested React Hooks Are Now Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dayvster/my-battle-tested-react-hooks-are-now-open-source-13l0" target="_blank">My Battle Tested React Hooks Are Now Open Source</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 14:53</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-SoC-DT-Changes" target="_blank">SiFive Premier P550, Apple M2 Pro/Max/Ultra DTs &amp; Other SoC Changes For Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-02 15:16</span>
             </div>
         </div>
 </div>
@@ -247,6 +252,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6JV72AZWQQBH3XSECFZ2EWZ/hero-image.png" alt="Apple Is Reportedly Pausing the Vision Pro 2 to Fast-Track Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-reportedly-pauses-vision-pro-2-to-fast-track-smart-glasses?utm_medium=RSS" target="_blank">Apple Is Reportedly Pausing the Vision Pro 2 to Fast-Track Smart Glasses</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/cold-brew-e1759424366569.jpg?fit=768%2C495&amp;quality=60&amp;ssl=1" alt="James Hoffman&#x27;s guide to Cold Brew" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/02/james-hoffmans-guide-to-cold-brew.html" target="_blank">James Hoffman&#x27;s guide to Cold Brew</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-02 16:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-Noah18062C-CC-BY-SA-4.0-3C-1.jpg?fit=1080%2C791&amp;quality=60&amp;ssl=1" alt="Merriam-Webster &quot;announces&quot; new AI as a prank" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -273,29 +296,20 @@
                 <span class="time">2025-10-02 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/echo-show-8.jpg" alt="Amazon Echo Show 8 Slashed to Year’s Lowest Price, Even Lower With Extra Trade-In Savings Ahead of Prime Big Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-echo-show-8-slashed-to-years-lowest-price-even-lower-with-extra-trade-in-savings-ahead-of-prime-big-deal-days-2000631005" target="_blank">Amazon Echo Show 8 Slashed to Year’s Lowest Price, Even Lower With Extra Trade-In Savings Ahead of Prime Big Deal Days</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-02 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/morncheck-2.jpg" alt="GameStop Hits Back At Massive Xbox Game Pass Price Hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gamestop-game-pass-price-xbox-ally-leak-marvel-rivals-cross-platform-2000631038" target="_blank">GameStop Hits Back At Massive Xbox Game Pass Price Hike</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-02 14:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/smarter/" target="_blank">Smarter</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-10-02 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1759360612-20251002.png" alt="Saturday Morning Breakfast Cereal - Priors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
