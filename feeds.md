@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 20:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-02 21:01:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5559439/cdc-covid-vaccine-guidelines" target="_blank">The CDC still hasn&#x27;t issued COVID vaccine guidelines, leaving access in limbo</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-02 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/2/im-fing-terrified-families-call-for-release-of-flotilla-activists?traffic_source=rss" target="_blank">‘I’m f***ing terrified’ Families call for release of flotilla activists</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-02 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +97,29 @@
                 <span class="time">2025-10-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5560869/energy-trump-democrats-shutdown" target="_blank">The Energy Department canceled billions in funding. Democrats say it&#x27;s retribution</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-02 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/shutdown-34-ap-gmh-251001_1759344014057_hpMain_4x3t_384.jpg" alt="Shutdown enters day 2 with no end in sight, looming federal firings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/shutdown-enters-day-2-end-sight-looming-federal/story?id=126151833" target="_blank">Shutdown enters day 2 with no end in sight, looming federal firings</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-02 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion" target="_blank">Shein is opening its first physical stores</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-02 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-500x500.jpg" alt="RFK Jr. drags feet on COVID-19 vaccine recommendations, delaying shots for kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/rfk-jr-drags-feet-on-covid-19-vaccine-recommendations-delaying-shots-for-kids/" target="_blank">RFK Jr. drags feet on COVID-19 vaccine recommendations, delaying shots for kids</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-02 20:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +156,29 @@
                 <span class="time">2025-10-02 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68de879f86517332dac19373/master/pass/govt-shutdown-OOO-pol-2238532691.jpg" alt="Government Workers Say Their Out-of-Office Replies Were Forcibly Changed to Blame Democrats for Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/government-workers-say-their-out-of-office-replies-were-forcibly-changed-to-blame-democrats-for-shutdown/" target="_blank">Government Workers Say Their Out-of-Office Replies Were Forcibly Changed to Blame Democrats for Shutdown</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-02 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free" target="_blank">Perplexity’s Comet browser is now available to everyone for free</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-02 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Better-EPYC-256-vCPU" target="_blank">Linux 6.18 To More Reliably Handle 255+ vCPUs On AMD EPYC Servers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-02 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxckb5zjfig5v18r54wc0.png" alt="Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/monda8am/smarter-notifications-with-edge-ai-a-kotlin-koog-mediapipes-journey-5h1" target="_blank">Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 20:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzi0h9qyhwor4vzte3job.png" alt="How I ended up creating my own programming font..." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +215,6 @@
                 <span class="time">2025-10-02 17:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669944&w=600" alt="AI Infrastructure Guide: Tools, Frameworks, and Architecture Flows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-infrastructure-guide-tools-frameworks-and-archi" target="_blank">AI Infrastructure Guide: Tools, Frameworks, and Architecture Flows</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saravanan_s_0fd4b60fc6b20/using-tailwind-css-with-reactjs-2b41" target="_blank">Using Tailwind CSS with React.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +235,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/killbbiiill.jpg" alt="Kill Bill Returns To Theaters Later This Year As One Big 4-Hour Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kill-bill-whole-bloody-affair-return-theaters-december-4-hour-tarantino-2000631123" target="_blank">Kill Bill Returns To Theaters Later This Year As One Big 4-Hour Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-02 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/oranges-1280x853.jpg" alt="Woman’s Bruising From a Massage Gun Was a Sign of Something Far Worse: Scurvy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/womans-bruising-from-a-massage-gun-was-a-sign-of-something-far-worse-scurvy-2000666835" target="_blank">Woman’s Bruising From a Massage Gun Was a Sign of Something Far Worse: Scurvy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-02 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6K5R44G3GADTQ73J2GYTK4T/hero-image.jpg" alt="If You Can&#x27;t Activate iMessage After Updating to iOS 26, Try This" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/imessage-activation-problems-ios-26?utm_medium=RSS" target="_blank">If You Can&#x27;t Activate iMessage After Updating to iOS 26, Try This</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-02 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/Blobfish.png?fit=1384%2C675&amp;quality=55&amp;ssl=1" alt="Blobject design explained: smooth, rounded objects that feel alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/02/blobject-design-explained-smooth-rounded-objects-that-feel-alive.html" target="_blank">Blobject design explained: smooth, rounded objects that feel alive</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-02 19:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/crabs.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Love daydreaming? This Spanish idiom will be your new favorite phrase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -255,42 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/borderlands-4-vault-hunter-balance-update-amon-buffs-patch-notes-ps5-pc-2000631113" target="_blank">Borderlands 4‘s Worst Vault Hunter Should Suck Way Less Now</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-02 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/add-phonehero-2000x1125-1-1280x720.jpg" alt="Amazon Is Finally Let Users Add More Items to Upcoming Deliveries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-is-finally-let-users-add-more-items-to-upcoming-deliveries-2000666867" target="_blank">Amazon Is Finally Let Users Add More Items to Upcoming Deliveries</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6K5FV8AQXB2DZZVQFBY26N4/hero-image.jpg" alt="What HRV Is, and Why Your Fitness Watch Measures It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/what-hrv-heart-rate-variability?utm_medium=RSS" target="_blank">What HRV Is, and Why Your Fitness Watch Measures It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-02 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Alice-in-Borderland-Netflixio9-template-4-B-1280x853.jpg" alt="I Can’t Believe ‘Alice in Borderland’ Went Full ‘Squid Game’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/i-cant-believe-alice-in-borderland-went-full-squid-game-2000666773" target="_blank">I Can’t Believe ‘Alice in Borderland’ Went Full ‘Squid Game’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/xbox-post.jpg" alt="The Enshittification Of Game Pass Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-game-pass-cancel-controversy-console-pc-2000631061" target="_blank">The Enshittification Of Game Pass Is Here</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-02 18:13</span>
             </div>
         </div>
 </div>
@@ -339,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
