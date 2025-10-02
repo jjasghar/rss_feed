@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 10:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 11:01:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5550365/college-professors-ai-classroom" target="_blank">Research, curriculum and grading: new data sheds light on how professors are using AI</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-02 09:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/this-is-what-trumps-war-on-drug-cartels-looks-like-13442140" target="_blank">Trump&#x27;s declared war on drug cartels. Thousands of miles away, Ecuador is taking action</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-10-02 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-greta-thunberg-gaza_7038661.jpg?20251002010230" alt="Israel removes Greta Thunberg from Gaza aid flotilla - but says she is &#x27;safe and healthy&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-removes-greta-thunberg-from-gaza-aid-flotilla-but-says-she-is-safe-and-healthy-13442505" target="_blank">Israel removes Greta Thunberg from Gaza aid flotilla - but says she is &#x27;safe and healthy&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-01 23:54</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/japhethjoepari/laravel-eloquent-on-steroids-from-3s-to-300ms-ghc" target="_blank">Laravel Eloquent on Steroids: From 3s to 300ms</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 10:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/microsoft-kubernetes-automatic/en/headerimage/generatedHeaderImage-1759389139551.jpg" alt="Microsoft Announces General Availability of AKS Automatic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux--6.18-BPF" target="_blank">Signed Programs &amp; Other BPF Changes Merged For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-02 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/simonhorlick/ten-postgres-tricks-thatll-make-your-colleagues-2aok" target="_blank">Ten postgres tricks that&#x27;ll make your colleagues 😯</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 05:56</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
