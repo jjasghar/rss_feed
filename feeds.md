@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 19:01:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-10-02 20:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/2/are-europe-and-russia-moving-closer-to-conflict-over-ukraine?traffic_source=rss" target="_blank">Are Europe and Russia moving closer to conflict over Ukraine?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-02 19:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/shutdown-11-gty-gmh-251001_1759424735514_hpMain_4x3t_384.jpg" alt="Shutdown in Day 2 with no end in sight, looming federal firings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/shutdown-enters-day-2-end-sight-looming-federal/story?id=126151833" target="_blank">Shutdown in Day 2 with no end in sight, looming federal firings</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-02 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55f/live/89acb720-9fb5-11f0-8410-854cfa733f11.jpg" alt="Starmer vows to protect Jewish communities after Manchester attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czrpxgk6x68o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer vows to protect Jewish communities after Manchester attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-02 18:15</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +102,29 @@
                 <span class="time">2025-10-02 16:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759422174193_now_daily_a_zanona_shutdown_latest_251002_1920x1080-9voyt3.jpg" alt="Trump touts government shutdown as an &#x27;unprecedented opportunity&#x27; for cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-touts-government-shutdown-as-an-unprecedented-opportunity-for-cuts-248933957800" target="_blank">Trump touts government shutdown as an &#x27;unprecedented opportunity&#x27; for cuts</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-02 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss" target="_blank">Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-02 15:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web" target="_blank">Google is destroying independent websites, and one sees no choice but to defend it anyway</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-02 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-mostly-blue-states/" target="_blank">Department of Energy cancels $7.5B of clean energy projects in mostly blue states</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-02 19:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +161,29 @@
                 <span class="time">2025-10-02 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad" target="_blank">Welcome to the Xbox $360 era</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-02 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/" target="_blank">Celebrating the partners driving Disrupt’s big ideas, connections, and community</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-02 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzi0h9qyhwor4vzte3job.png" alt="How I ended up creating my own programming font..." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/psudo-dev/how-i-ended-up-creating-my-own-programming-font-117p" target="_blank">How I ended up creating my own programming font...</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18672247&w=600" alt="Securing the Model Context Protocol (MCP): New AI Security Risks in Agentic Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mcp-ai-security-risks-agentic-workflows" target="_blank">Securing the Model Context Protocol (MCP): New AI Security Risks in Agentic Workflows</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-02 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,6 +191,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-5-Released" target="_blank">ZLUDA 5 Released With An Offline Compiler For CUDA On Non-NVIDIA GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-02 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://cseweb.ucsd.edu/~mcoblenz/assets/pdf/OOPSLA_2025_PBT.pdf" target="_blank">An Empirical Evaluation of Property-Based Testing in Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-02 17:58</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/saravanan_s_0fd4b60fc6b20/using-tailwind-css-with-reactjs-2b41" target="_blank">Using Tailwind CSS with React.js</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-02 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/b155c7be-b960-4518-bc3c-cc2c3486d243_420x300.png" alt="The Pulse #148: Did OpenAI set a new record for Datadog spend?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-148" target="_blank">The Pulse #148: Did OpenAI set a new record for Datadog spend?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-02 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669926&w=600" alt="Building ML Platforms for Real-Time Integrity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ml-platforms-for-real-time-integrity" target="_blank">Building ML Platforms for Real-Time Integrity</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-02 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-4-reducing-lambda-cold-starts-with-snapstart-and-api-hkn" target="_blank">Micronaut 4 application on AWS Lambda- Part 4 Reducing Lambda cold starts with SnapStart and API Gateway request event priming</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 15:52</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/crabs.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Love daydreaming? This Spanish idiom will be your new favorite phrase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/02/love-daydreaming-this-spanish-idiom-will-be-your-new-favorite-phrase.html" target="_blank">Love daydreaming? This Spanish idiom will be your new favorite phrase</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-02 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/bordlernads.jpg" alt="Borderlands 4‘s Worst Vault Hunter Should Suck Way Less Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4-vault-hunter-balance-update-amon-buffs-patch-notes-ps5-pc-2000631113" target="_blank">Borderlands 4‘s Worst Vault Hunter Should Suck Way Less Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-02 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/add-phonehero-2000x1125-1-1280x720.jpg" alt="Amazon Is Finally Let Users Add More Items to Upcoming Deliveries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-is-finally-let-users-add-more-items-to-upcoming-deliveries-2000666867" target="_blank">Amazon Is Finally Let Users Add More Items to Upcoming Deliveries</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-02 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6K5FV8AQXB2DZZVQFBY26N4/hero-image.jpg" alt="What HRV Is, and Why Your Fitness Watch Measures It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/what-hrv-heart-rate-variability?utm_medium=RSS" target="_blank">What HRV Is, and Why Your Fitness Watch Measures It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-02 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Alice-in-Borderland-Netflixio9-template-4-B-1280x853.jpg" alt="I Can’t Believe ‘Alice in Borderland’ Went Full ‘Squid Game’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -251,42 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/xbox-game-pass-cancel-controversy-console-pc-2000631061" target="_blank">The Enshittification Of Game Pass Is Here</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-02 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/measlesgirl-1280x853.jpg" alt="The Ongoing Measles Outbreak Has Reached a New Peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-ongoing-measles-outbreak-has-reached-a-new-peak-2000666729" target="_blank">The Ongoing Measles Outbreak Has Reached a New Peak</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6JV72AZWQQBH3XSECFZ2EWZ/hero-image.png" alt="Apple Is Reportedly Pausing the Vision Pro 2 to Fast-Track Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-reportedly-pauses-vision-pro-2-to-fast-track-smart-glasses?utm_medium=RSS" target="_blank">Apple Is Reportedly Pausing the Vision Pro 2 to Fast-Track Smart Glasses</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/cold-brew-e1759424366569.jpg?fit=768%2C495&amp;quality=60&amp;ssl=1" alt="James Hoffman&#x27;s guide to Cold Brew" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/02/james-hoffmans-guide-to-cold-brew.html" target="_blank">James Hoffman&#x27;s guide to Cold Brew</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-02 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-Noah18062C-CC-BY-SA-4.0-3C-1.jpg?fit=1080%2C791&amp;quality=60&amp;ssl=1" alt="Merriam-Webster &quot;announces&quot; new AI as a prank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/02/merriam-webster-announces-new-ai-as-a-prank.html" target="_blank">Merriam-Webster &quot;announces&quot; new AI as a prank</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-02 16:51</span>
             </div>
         </div>
 </div>
@@ -335,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
