@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-01 23:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 00:04:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 01, 2025 - 23:02 UTC</div>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-greta-thunberg-gaza_7038661.jpg?20251002010230" alt="Israel removes Greta Thunberg from Gaza aid flotilla - but says she is &#x27;safe and healthy&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-removes-greta-thunberg-from-gaza-aid-flotilla-but-says-she-is-safe-and-healthy-13442505" target="_blank">Israel removes Greta Thunberg from Gaza aid flotilla - but says she is &#x27;safe and healthy&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-01 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss" target="_blank">Israel intercepts Gaza Sumud flotilla vessels: What we know so far</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-01 23:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg" alt="Israeli naval ships intercept Gaza-bound flotilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="time">2025-10-01 20:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/01/g-s1-91522/gaza-aid-flotilla-sumud-israel" target="_blank">Activists say Israel&#x27;s navy has begun intercepting a Gaza-bound aid flotilla</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-01 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/01/nx-s1-5559784/nprs-college-podcast-challenge-returns-for-2025" target="_blank">Students, listen up! NPR&#x27;s College Podcast Challenge is back for 2025</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-01 19:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,10 +107,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/" target="_blank">Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-01 23:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats" target="_blank">Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-01 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/UR35-500x500.jpg" alt="That annoying SMS phish you just got may have come from a box like this" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/" target="_blank">That annoying SMS phish you just got may have come from a box like this</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-01 22:16</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +158,20 @@
                 <span class="time">2025-10-01 20:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/2025-Ioniq-5-XRT-first-drive-5-500x500.jpg" alt="Hyundai gives the Ioniq 5 a huge price cut for model-year 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/hyundai-gives-the-ioniq-5-a-huge-price-cut-for-model-year-2026/" target="_blank">Hyundai gives the Ioniq 5 a huge price cut for model-year 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-01 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer" target="_blank">Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/qred-bank/how-qred-bank-to-use-agentsmd-on-scale-g54" target="_blank">How Qred Bank to use agents.md on scale</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-01 23:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Mini Floating Panel Adds New Auto-Positioning Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="time">2025-10-01 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669319&w=600" alt="From Keywords to Meaning: A Hands-On Tutorial With Sentence-Transformers for Semantic Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/sentence-transformers-semantic-search-tutorial" target="_blank">From Keywords to Meaning: A Hands-On Tutorial With Sentence-Transformers for Semantic Search</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-01 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +243,15 @@
                 <span class="title"><a href="https://gizmodo.com/kill-bill-the-whole-bloody-affair-release-date-2000666510" target="_blank">‘Kill Bill: The Whole Bloody Affair’ Is Coming to Theaters Everywhere This Year</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-01 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2364350221.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Primatologist Jane Goodall dead at 91" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/01/primatologist-jane-goodall-dead-at-91.html" target="_blank">Primatologist Jane Goodall dead at 91</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-01 21:50</span>
             </div>
         </div>
 <div class="story">
@@ -280,15 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/new-lego-sets-october-2025-ucs-death-star-2000666327" target="_blank">That’s No Moon, That’s Lego’s October Releases</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-01 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/pokemonsfds.jpg" alt="Pokémon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-z-a-leaks-switch-2-image-mega-evolution-2000630717" target="_blank">Pokémon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-01 20:58</span>
             </div>
         </div>
 </div>
@@ -337,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
