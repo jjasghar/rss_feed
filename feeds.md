@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 01:28:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-02 02:25:29 UTC -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -176,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-September-2925" target="_blank">Steam On Linux Use Up 1% From Last September</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-02 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/qred-bank/how-qred-bank-to-use-agentsmd-on-scale-g54" target="_blank">How Qred Bank to use agents.md on scale</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/martinxcvi/fundamentos-de-javascript-variables-la-base-de-cualquier-programa-1log" target="_blank">Fundamentos de JavaScript - Variables: La Base de Cualquier Programa</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-AVC-VMSCAPE" target="_blank">Attack Vector Controls Can Now Manage VMSCAPE Mitigation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-01 20:51</span>
             </div>
         </div>
 </div>
@@ -338,7 +337,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:29 UTC
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
