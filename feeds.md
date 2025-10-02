@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 13:07:31 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-02 14:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 13:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53fc/live/e426e7a0-9f8f-11f0-b9ae-cbef91e6ae73.jpg" alt="Starmer &#x27;appalled&#x27; by Manchester attack on Jewish holy day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czrpxgk6x68o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer &#x27;appalled&#x27; by Manchester attack on Jewish holy day</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-02 13:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss" target="_blank">What we know about Israel’s interception of the Gaza flotilla</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-02 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/02/kenyan-activists-abducted-after-joining-opposition-rally-in-uganda" target="_blank">Kenyan activists abducted after joining opposition rally in Uganda</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-02 13:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/shutdown-main_1759396839986_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Trump calls for culling &#x27;dead wood&#x27; amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +98,20 @@
                 <span class="time">2025-10-02 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5550365/college-professors-ai-classroom" target="_blank">Research, curriculum and grading: new data sheds light on how professors are using AI</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-02 09:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5553637/rising-costs-are-changing-the-way-americans-travel" target="_blank">Rising costs are changing the way Americans travel</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-02 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/2/hopes-dim-for-survivors-after-indonesia-school-building-collapses?traffic_source=rss" target="_blank">Hopes dim for survivors after Indonesia school building collapses</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-02 08:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68dd9f9181914e288332cb3e/master/pass/GettyImages-1143072557.jpg" alt="Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/former-google-ceo-will-fund-boat-drones-to-explore-rough-antarctic-waters/" target="_blank">Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,29 @@
                 <span class="time">2025-10-02 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Visible Promo Code: Save Up to $300 in October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/visible-promo-code/" target="_blank">Visible Promo Code: Save Up to $300 in October 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-02 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jsdev01/50-most-useful-typescript-snippets-d79" target="_blank">50 Most Useful TypeScript Snippets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668429&w=600" alt="Unpack IPTables: Its Inner Workings With Commands and Demos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/unpack-iptables-inner-workings-commands-demos" target="_blank">Unpack IPTables: Its Inner Workings With Commands and Demos</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668425&w=600" alt="Salesforce Data Cloud: Setting Up and Using the Ingestion API" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,29 +216,29 @@
                 <span class="time">2025-10-02 11:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/japhethjoepari/laravel-eloquent-on-steroids-from-3s-to-300ms-ghc" target="_blank">Laravel Eloquent on Steroids: From 3s to 300ms</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/microsoft-kubernetes-automatic/en/headerimage/generatedHeaderImage-1759389139551.jpg" alt="Microsoft Announces General Availability of AKS Automatic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/microsoft-kubernetes-automatic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Announces General Availability of AKS Automatic</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-02 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Avatar-3-Neytiri-1280x853.jpg" alt="James Cameron Explains Why ‘Avatar 4 and 5’ Are Still Not Sure Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-cameron-explains-why-avatar-4-and-5-are-still-not-sure-things-2000666495" target="_blank">James Cameron Explains Why ‘Avatar 4 and 5’ Are Still Not Sure Things</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-02 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GG2P4JYFJY13HB4MNZ5G9/hero-image.jpg" alt="Use These &#x27;Active Recall&#x27; Techniques the Next Time You Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/use-these-active-recall-techniques-the-next-time-you-st-1850797753?utm_medium=RSS" target="_blank">Use These &#x27;Active Recall&#x27; Techniques the Next Time You Study</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-02 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/tesla-supercharger-1280x853.jpg" alt="Tesla Hikes Prices After the Government Cash Grinds to a Halt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +273,6 @@
                 <span class="title"><a href="https://gizmodo.com/kill-bill-the-whole-bloody-affair-release-date-2000666510" target="_blank">‘Kill Bill: The Whole Bloody Affair’ Is Coming to Theaters Everywhere This Year</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-01 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2364350221.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Primatologist Jane Goodall dead at 91" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/01/primatologist-jane-goodall-dead-at-91.html" target="_blank">Primatologist Jane Goodall dead at 91</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-01 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/gta-dev-harassment.jpg" alt="TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tiktok-creator-flies-to-scotland-to-yell-at-gta-6-devs-outside-their-office-2000630715" target="_blank">TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-01 21:39</span>
             </div>
         </div>
 </div>
@@ -316,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
