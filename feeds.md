@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 11:01:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-02 12:02:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 11:01 UTC</div>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f9/live/1e328820-9f7a-11f0-9ccd-4dc2d8fa5ad2.png" alt="Eyewitnesses describe Manchester synagogue attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0rp05ykx7o?at_medium=RSS&at_campaign=rss" target="_blank">Eyewitnesses describe Manchester synagogue attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-02 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +98,20 @@
                 <span class="time">2025-10-02 02:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-haul-drugs_7038137.jpg?20251001130608" alt="Trump&#x27;s declared war on drug cartels. Thousands of miles away, Ecuador is taking action" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/this-is-what-trumps-war-on-drug-cartels-looks-like-13442140" target="_blank">Trump&#x27;s declared war on drug cartels. Thousands of miles away, Ecuador is taking action</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-02 00:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/" target="_blank">Oneleet raises $33M to shake up the world of security compliance</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-02 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,29 @@
                 <span class="time">2025-10-01 23:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats" target="_blank">Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-01 22:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/software-engineer-staff-plus/en/headerimage/ben-1759208982073.jpg" alt="How Software Engineers Can Grow into Staff Plus Roles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/software-engineer-staff-plus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Software Engineers Can Grow into Staff Plus Roles</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-02 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop" target="_blank">How the AI Bubble Will Pop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-02 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,38 +214,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/" target="_blank">Building AI-ready teams: Why documentation and culture matter more than tools</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-10-02 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k" target="_blank">Building, Testing, and Publishing Go Packages: Best Practices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux--6.18-BPF" target="_blank">Signed Programs &amp; Other BPF Changes Merged For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-02 06:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/use-of-generative-ai-in-scams.html" target="_blank">Use of Generative AI in Scams</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-01 11:09</span>
             </div>
         </div>
 </div>
@@ -329,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
