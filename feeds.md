@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 08:02:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-02 09:01:39 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5553637/rising-costs-are-changing-the-way-americans-travel" target="_blank">Rising costs are changing the way Americans travel</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-02 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/2/hopes-dim-for-survivors-after-indonesia-school-building-collapses?traffic_source=rss" target="_blank">Hopes dim for survivors after Indonesia school building collapses</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-02 08:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +100,20 @@
                 <span class="time">2025-10-01 23:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss" target="_blank">Israel intercepts Gaza Sumud flotilla vessels: What we know so far</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759358756820_nn_nobles_shutdown_251001_1920x1080-mbxziw.jpg" alt="No end in sight after first day of federal government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/no-end-in-sight-after-first-day-of-federal-government-shutdown-248879174002" target="_blank">No end in sight after first day of federal government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-01 22:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ddfdb9b1d53a6eace2fcfb/master/pass/Review-%20Jimmyjane%20Hello%20Touch%20Pro.png" alt="Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/jimmyjane-hello-touch-pro/" target="_blank">Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-02 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Visible Promo Code: Save Up to $300 in October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +159,20 @@
                 <span class="time">2025-10-01 22:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/04/ground_sloth_paul_cooper_houston_museum-500x500.jpg" alt="Ice Age hunters in South America preferred now-extinct megafauna" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/ice-age-hunters-in-south-america-preferred-now-extinct-megafauna/" target="_blank">Ice Age hunters in South America preferred now-extinct megafauna</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-01 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/microsoft-kubernetes-automatic/en/headerimage/generatedHeaderImage-1759389139551.jpg" alt="Microsoft Announces General Availability of AKS Automatic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/microsoft-kubernetes-automatic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Announces General Availability of AKS Automatic</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/simonhorlick/ten-postgres-tricks-thatll-make-your-colleagues-2aok" target="_blank">Ten postgres tricks that&#x27;ll make your colleagues 😯</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-02 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-40/" target="_blank">FOSS Weekly #25.40: Fedora 43  Features, Kernel 6.17, Zorin OS 18, Retro Gaming Setup and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-02 04:43</span>
             </div>
         </div>
 </div>
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
