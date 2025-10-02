@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 22:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 23:01:45 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/2/france-detains-russian-shadow-tanker-to-disrupt-war-in-ukraine?traffic_source=rss" target="_blank">France detains Russian ‘shadow’ tanker to disrupt war in Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-02 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5560994/trump-vought-shutdown-democrats" target="_blank">As the shutdown drags on, the threat of permanent cuts is mired in politics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-02 22:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-251002_1759325953103_hpMain_4x3t_384.jpg" alt="Trump openly threatens to use shutdown to target Democrats for cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +103,20 @@
                 <span class="time">2025-10-02 19:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/shutdown-11-gty-gmh-251001_1759424735514_hpMain_4x3t_384.jpg" alt="Shutdown in Day 2 with no end in sight, looming federal firings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/shutdown-enters-day-2-end-sight-looming-federal/story?id=126151833" target="_blank">Shutdown in Day 2 with no end in sight, looming federal firings</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-02 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55f/live/89acb720-9fb5-11f0-8410-854cfa733f11.jpg" alt="Starmer vows to protect Jewish communities after Manchester attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czrpxgk6x68o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer vows to protect Jewish communities after Manchester attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-02 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/NG1-Liftoff-Horizontal-500x500.jpg" alt="Blue Origin aims to land next New Glenn booster, then reuse it for Moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/blue-origin-aims-to-land-next-new-glenn-booster-then-reuse-it-for-moon-mission/" target="_blank">Blue Origin aims to land next New Glenn booster, then reuse it for Moon mission</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-02 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +162,6 @@
                 <span class="time">2025-10-02 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/790768/xbox-series-x-s-kirby-air-riders-deal-sale" target="_blank">It’s your last chance to snag the Xbox Series S and X at its current price before they rise tomorrow</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-02 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -204,21 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/" target="_blank">How we automated accessibility compliance in five hours with GitHub Copilot</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-02 19:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18672247&w=600" alt="Securing the Model Context Protocol (MCP): New AI Security Risks in Agentic Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/mcp-ai-security-risks-agentic-workflows" target="_blank">Securing the Model Context Protocol (MCP): New AI Security Risks in Agentic Workflows</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-02 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-5-Released" target="_blank">ZLUDA 5 Released With An Offline Compiler For CUDA On Non-NVIDIA GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-02 18:32</span>
             </div>
         </div>
 </div>
@@ -240,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-enterprise-finale-archer-tpol-1280x853.jpg" alt="This Is What the Potential ‘Star Trek: Enterprise’ Archer Spinoff Would’ve Been About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-enterprise-spinoff-pitch-united-scott-bakula-archer-2000667015" target="_blank">This Is What the Potential ‘Star Trek: Enterprise’ Archer Spinoff Would’ve Been About</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-02 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/ramza-and-delita.jpg" alt="These Are The 15 Best Abilities In Final Fantasy Tactics And It’s Not Even Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +294,6 @@
                 <span class="time">2025-10-02 19:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/crabs.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Love daydreaming? This Spanish idiom will be your new favorite phrase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/02/love-daydreaming-this-spanish-idiom-will-be-your-new-favorite-phrase.html" target="_blank">Love daydreaming? This Spanish idiom will be your new favorite phrase</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-02 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
