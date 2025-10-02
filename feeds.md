@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 16:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 17:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5560869/energy-trump-democrats-shutdown" target="_blank">The Energy Department canceled billions in funding. Democrats say it&#x27;s retribution</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-02 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/shutdown-34-ap-gmh-251001_1759344014057_hpMain_4x3t_384.jpg" alt="Shutdown enters day 2 with no end in sight, looming federal firings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/shutdown-enters-day-2-end-sight-looming-federal/story?id=126151833" target="_blank">Shutdown enters day 2 with no end in sight, looming federal firings</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-02 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +100,20 @@
                 <span class="time">2025-10-02 13:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/02/kenyan-activists-abducted-after-joining-opposition-rally-in-uganda" target="_blank">Kenyan activists abducted after joining opposition rally in Uganda</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-02 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/shutdown-main_1759396839986_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Trump calls for culling &#x27;dead wood&#x27; amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Government shutdown updates: Trump calls for culling &#x27;dead wood&#x27; amid shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-02 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free" target="_blank">Perplexity’s Comet browser is now available to everyone for free</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-02 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +159,38 @@
                 <span class="time">2025-10-02 13:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dd9f9181914e288332cb3e/master/pass/GettyImages-1143072557.jpg" alt="Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/former-google-ceo-will-fund-boat-drones-to-explore-rough-antarctic-waters/" target="_blank">Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-02 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saravanan_s_0fd4b60fc6b20/using-tailwind-css-with-reactjs-2b41" target="_blank">Using Tailwind CSS with React.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/b155c7be-b960-4518-bc3c-cc2c3486d243_420x300.png" alt="The Pulse #148: Did OpenAI set a new record for Datadog spend?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-148" target="_blank">The Pulse #148: Did OpenAI set a new record for Datadog spend?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-10-02 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669926&w=600" alt="Building ML Platforms for Real-Time Integrity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ml-platforms-for-real-time-integrity" target="_blank">Building ML Platforms for Real-Time Integrity</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-02 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,31 +218,18 @@
                 <span class="time">2025-10-02 14:53</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jsdev01/50-most-useful-typescript-snippets-d79" target="_blank">50 Most Useful TypeScript Snippets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668429&w=600" alt="Unpack IPTables: Its Inner Workings With Commands and Demos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/unpack-iptables-inner-workings-commands-demos" target="_blank">Unpack IPTables: Its Inner Workings With Commands and Demos</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/agentic-ai/en/headerimage/header-1759149568166.jpg" alt="Presentation: Beyond the Hype: Architecting Systems with Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond the Hype: Architecting Systems with Agentic AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-02 12:23</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html" target="_blank">Daniel Miessler on the AI Attack/Defense Balance</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-02 16:19</span>
             </div>
         </div>
 </div>
@@ -226,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/measlesgirl-1280x853.jpg" alt="The Ongoing Measles Outbreak Has Reached a New Peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-ongoing-measles-outbreak-has-reached-a-new-peak-2000666729" target="_blank">The Ongoing Measles Outbreak Has Reached a New Peak</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-Noah18062C-CC-BY-SA-4.0-3C-1.jpg?fit=1080%2C791&amp;quality=60&amp;ssl=1" alt="Merriam-Webster &quot;announces&quot; new AI as a prank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/02/merriam-webster-announces-new-ai-as-a-prank.html" target="_blank">Merriam-Webster &quot;announces&quot; new AI as a prank</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-02 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GRM6DN5FBJ884KM2D6W12/hero-image.jpg" alt="How to Set Up Alexa Wishlist Alerts for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-set-up-alexa-wishlist-alerts-for-prime-day?utm_medium=RSS" target="_blank">How to Set Up Alexa Wishlist Alerts for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-02 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JQVMJEJ9T3W7VMNCZR2SRPQK/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Kindle Paperwhite Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,33 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/gamestop-game-pass-price-xbox-ally-leak-marvel-rivals-cross-platform-2000631038" target="_blank">GameStop Hits Back At Massive Xbox Game Pass Price Hike</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-02 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Working-Lego-Game-Boy-1-1280x853.jpeg" alt="Modder Does What Nintendo Didn’t: Hack Lego Game Boy to Play Real Cartridges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/modder-does-what-nintendo-didnt-hack-lego-game-boy-to-play-real-cartridges-2000666705" target="_blank">Modder Does What Nintendo Didn’t: Hack Lego Game Boy to Play Real Cartridges</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Avatar-3-Neytiri-1280x853.jpg" alt="James Cameron Explains Why ‘Avatar 4 and 5’ Are Still Not Sure Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-cameron-explains-why-avatar-4-and-5-are-still-not-sure-things-2000666495" target="_blank">James Cameron Explains Why ‘Avatar 4 and 5’ Are Still Not Sure Things</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GG2P4JYFJY13HB4MNZ5G9/hero-image.jpg" alt="Use These &#x27;Active Recall&#x27; Techniques the Next Time You Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-these-active-recall-techniques-the-next-time-you-st-1850797753?utm_medium=RSS" target="_blank">Use These &#x27;Active Recall&#x27; Techniques the Next Time You Study</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-02 13:30</span>
             </div>
         </div>
 </div>
@@ -317,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
