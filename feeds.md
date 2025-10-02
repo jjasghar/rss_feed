@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 04:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 05:02:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5557289/federal-shutdown-nutrition-aid-wic-snap-benefits-government-funding" target="_blank">The federal shutdown puts nutrition aid for millions of new parents at risk</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-02 04:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-haul-drugs_7038137.jpg?20251001130608" alt="Trump&#x27;s declared war on drug cartels. Thousands of miles away, Ecuador is taking action" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,30 +87,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759358756820_nn_nobles_shutdown_251001_1920x1080-mbxziw.jpg" alt="No end in sight after first day of federal government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/no-end-in-sight-after-first-day-of-federal-government-shutdown-248879174002" target="_blank">No end in sight after first day of federal government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-01 22:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg" alt="Israeli naval ships intercept Gaza-bound flotilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli naval ships intercept Gaza-bound flotilla</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-01 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss" target="_blank">Israel kills journalist Yahia Barzaq known for his newborn baby portraits</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/01/nx-s1-5560169/pope-leo-xiv-says-inhuman-treatment-of-immigrants-in-the-u-s-isnt-pro-life" target="_blank">Pope Leo XIV says &#x27;inhuman treatment of immigrants&#x27; in the U.S. isn&#x27;t &#x27;pro-life&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-01 21:53</span>
             </div>
         </div>
 </div>
@@ -158,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/" target="_blank">Building AI-ready teams: Why documentation and culture matter more than tools</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-02 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-40/" target="_blank">FOSS Weekly #25.40: Fedora 43  Features, Kernel 6.17, Zorin OS 18, Retro Gaming Setup and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-02 04:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr5gdllfm6fhhmvk2vyxi.png" alt="How Full-Stack Developers Can Use AI for Faster Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -191,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/qred-bank/how-qred-bank-to-use-agentsmd-on-scale-g54" target="_blank">How Qred Bank to use agents.md on scale</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/" target="_blank">Cormac McCarthy&#x27;s personal library</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-01 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Mini Floating Panel Adds New Auto-Positioning Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/mini-floating-panel-7-click-positioning" target="_blank">Mini Floating Panel Adds New Auto-Positioning Options</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-01 22:59</span>
             </div>
         </div>
 </div>
@@ -330,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
