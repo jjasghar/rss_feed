@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 02:25:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 03:11:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 02:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 03:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr5gdllfm6fhhmvk2vyxi.png" alt="How Full-Stack Developers Can Use AI for Faster Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/how-full-stack-developers-can-use-ai-for-faster-delivery-14cn" target="_blank">How Full-Stack Developers Can Use AI for Faster Delivery</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 03:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +212,6 @@
                 <span class="time">2025-10-01 22:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/martinxcvi/fundamentos-de-javascript-variables-la-base-de-cualquier-programa-1log" target="_blank">Fundamentos de JavaScript - Variables: La Base de Cualquier Programa</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-01 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Revenge-of-the-Sith-Lucasfilm-1280x853.jpg" alt="Why One of the Greatest ‘Star Wars’ Novels Ever Made Was Written Like a Greek Tragedy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/why-one-of-the-greatest-star-wars-novels-ever-made-was-written-like-a-greek-tragedy-2000666507" target="_blank">Why One of the Greatest ‘Star Wars’ Novels Ever Made Was Written Like a Greek Tragedy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-01 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Kill-Bill-Uma-Thurman-1280x853.jpg" alt="‘Kill Bill: The Whole Bloody Affair’ Is Coming to Theaters Everywhere This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +285,6 @@
                 <span class="time">2025-10-01 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/lego-october-2025-new-releases-ucs-death-star-1280x853.jpg" alt="That’s No Moon, That’s Lego’s October Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-lego-sets-october-2025-ucs-death-star-2000666327" target="_blank">That’s No Moon, That’s Lego’s October Releases</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,13 +326,22 @@
                 <span class="time">2025-10-01 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/measure_twice_cut_once.png" alt="Measure Twice, Cut Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3149/" target="_blank">Measure Twice, Cut Once</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-01 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:25 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
