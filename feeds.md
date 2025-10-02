@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 14:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-02 15:01:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/2/renowned-chimpanzee-researcher-jane-goodall-dies-at-91?traffic_source=rss" target="_blank">Renowned chimpanzee researcher Jane Goodall dies at 91</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-02 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53fc/live/e426e7a0-9f8f-11f0-b9ae-cbef91e6ae73.jpg" alt="Starmer &#x27;appalled&#x27; by Manchester attack on Jewish holy day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +96,20 @@
                 <span class="time">2025-10-02 12:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0952/live/0af28640-9f7d-11f0-b741-177e3e2c2fc7.jpg" alt="Israel intercepts Gaza flotilla and detains activists including Greta Thunberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss" target="_blank">Israel intercepts Gaza flotilla and detains activists including Greta Thunberg</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-02 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/790510/trump-fascism-antifa-soros-ice" target="_blank">Everything is terrorism in Trump&amp;#8217;s America</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-02 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68dd9f9181914e288332cb3e/master/pass/GettyImages-1143072557.jpg" alt="Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +155,20 @@
                 <span class="time">2025-10-02 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ddfdb9b1d53a6eace2fcfb/master/pass/Review-%20Jimmyjane%20Hello%20Touch%20Pro.png" alt="Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/jimmyjane-hello-touch-pro/" target="_blank">Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-02 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhatyupz13iexdcn6kxa.gif" alt="My Battle Tested React Hooks Are Now Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dayvster/my-battle-tested-react-hooks-are-now-open-source-13l0" target="_blank">My Battle Tested React Hooks Are Now Open Source</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 14:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,6 +185,15 @@
                 <span class="title"><a href="https://dzone.com/articles/unpack-iptables-inner-workings-commands-demos" target="_blank">Unpack IPTables: Its Inner Workings With Commands and Demos</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/agentic-ai/en/headerimage/header-1759149568166.jpg" alt="Presentation: Beyond the Hype: Architecting Systems with Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond the Hype: Architecting Systems with Agentic AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-02 12:23</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +214,29 @@
                 <span class="time">2025-10-02 11:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/software-engineer-staff-plus/en/headerimage/ben-1759208982073.jpg" alt="How Software Engineers Can Grow into Staff Plus Roles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/software-engineer-staff-plus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Software Engineers Can Grow into Staff Plus Roles</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-02 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop" target="_blank">How the AI Bubble Will Pop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-02 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/morncheck-2.jpg" alt="GameStop Hits Back At Massive Xbox Game Pass Price Hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gamestop-game-pass-price-xbox-ally-leak-marvel-rivals-cross-platform-2000631038" target="_blank">GameStop Hits Back At Massive Xbox Game Pass Price Hike</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-02 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Working-Lego-Game-Boy-1-1280x853.jpeg" alt="Modder Does What Nintendo Didn’t: Hack Lego Game Boy to Play Real Cartridges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/modder-does-what-nintendo-didnt-hack-lego-game-boy-to-play-real-cartridges-2000666705" target="_blank">Modder Does What Nintendo Didn’t: Hack Lego Game Boy to Play Real Cartridges</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-02 14:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Avatar-3-Neytiri-1280x853.jpg" alt="James Cameron Explains Why ‘Avatar 4 and 5’ Are Still Not Sure Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,24 +271,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/01/adl-deletes-glossary-of-extremism-to-please-maga-which-then-stabs-it-in-the-front.html" target="_blank">ADL deletes Glossary of Extremism to please MAGA, which then stabs it in the front</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-02 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Revenge-of-the-Sith-Lucasfilm-1280x853.jpg" alt="Why One of the Greatest ‘Star Wars’ Novels Ever Made Was Written Like a Greek Tragedy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/why-one-of-the-greatest-star-wars-novels-ever-made-was-written-like-a-greek-tragedy-2000666507" target="_blank">Why One of the Greatest ‘Star Wars’ Novels Ever Made Was Written Like a Greek Tragedy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Kill-Bill-Uma-Thurman-1280x853.jpg" alt="‘Kill Bill: The Whole Bloody Affair’ Is Coming to Theaters Everywhere This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kill-bill-the-whole-bloody-affair-release-date-2000666510" target="_blank">‘Kill Bill: The Whole Bloody Affair’ Is Coming to Theaters Everywhere This Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-01 22:25</span>
             </div>
         </div>
 </div>
@@ -312,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
