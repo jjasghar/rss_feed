@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-02 00:04:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-02 01:28:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 02, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, October 02, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-haul-drugs_7038137.jpg?20251001130608" alt="Trump&#x27;s declared war on drug cartels. Thousands of miles away, Ecuador is taking action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/this-is-what-trumps-war-on-drug-cartels-looks-like-13442140" target="_blank">Trump&#x27;s declared war on drug cartels. Thousands of miles away, Ecuador is taking action</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-02 00:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-greta-thunberg-gaza_7038661.jpg?20251002010230" alt="Israel removes Greta Thunberg from Gaza aid flotilla - but says she is &#x27;safe and healthy&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,21 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/shutdown-9-gty-gmh-251001_1759328383682_hpMain_4x3t_384.jpg" alt="What&#x27;s next after Senate again fails to pass bills aimed at funding government?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/senate-vote-bills-aimed-funding-government-blame-game/story?id=126115015" target="_blank">What&#x27;s next after Senate again fails to pass bills aimed at funding government?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-01 21:18</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/1/protesters-and-police-clash-as-morocco-unrest-escalates?traffic_source=rss" target="_blank">Protesters and police clash as Morocco unrest escalates</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-01 20:27</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/01/nx-s1-5560169/pope-leo-xiv-says-inhuman-treatment-of-immigrants-in-the-u-s-isnt-pro-life" target="_blank">Pope Leo XIV says &#x27;inhuman treatment of immigrants&#x27; in the U.S. isn&#x27;t &#x27;pro-life&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-01 21:53</span>
             </div>
         </div>
 </div>
@@ -167,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/om_shree_0709/major-tech-news-oct-1st-2025-20d6" target="_blank">📰 Major Tech News: Oct 1st, 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-02 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/qred-bank/how-qred-bank-to-use-agentsmd-on-scale-g54" target="_blank">How Qred Bank to use agents.md on scale</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-01 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/" target="_blank">Cormac McCarthy&#x27;s personal library</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-01 23:06</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-AVC-VMSCAPE" target="_blank">Attack Vector Controls Can Now Manage VMSCAPE Mitigation</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-01 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18669327&w=600" alt="Bounded Rationality: Why Time-Boxed Decisions Keep Agile Teams Moving" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/time-boxed-decisions-in-agile-teams" target="_blank">Bounded Rationality: Why Time-Boxed Decisions Keep Agile Teams Moving</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-01 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-hellreaper-official-announcement-trailer-k8h" target="_blank">IGN: Hellreaper: Official Announcement Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-01 18:01</span>
             </div>
         </div>
 </div>
@@ -296,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5670.png" alt="Shame On Marten" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5670" target="_blank">Shame On Marten</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-02 00:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -322,22 +332,13 @@
                 <span class="time">2025-10-01 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5669.png" alt="The Sorting Process" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5669" target="_blank">The Sorting Process</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-01 00:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
