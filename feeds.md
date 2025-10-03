@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 11:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-03 12:02:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 11:01 UTC</div>
+    <div class="newspaper-date">Friday, October 03, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +110,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/" target="_blank">How developers are using Apple’s local AI models with iOS 26</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-03 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/791192/asahi-beer-cyberattack-systems-outage" target="_blank">Japan’s most popular beer is running low after cyberattack</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-03 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/52360635711_25f1f1ff62_c-500x500.jpg" alt="Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/" target="_blank">Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-03 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68df136dae50d2d962934ac6/master/pass/Luigi-Mangione-Supporters-Culture-2235224476.jpg" alt="Inside the Contentious World of Luigi Mangione Supporters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -136,38 +163,47 @@
                 <span class="time">2025-10-03 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="10% Off Dell Coupon Codes | October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dell-coupon-code/" target="_blank">10% Off Dell Coupon Codes | October 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-03 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/" target="_blank">After nine years of grinding, Replit finally found its market. Can it keep it?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-03 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple" target="_blank">Apple pulls ICEBlock from the App Store</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-03 01:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18672108&w=600" alt="Multi-Cloud Infrastructure Challenges and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/multi-cloud-infrastructure-challenges-solutions" target="_blank">Multi-Cloud Infrastructure Challenges and Solutions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-03 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frfmh3iigei800mo5osan.png" alt="Configurar o DevOps Center" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lizvidotti/configurar-o-devops-center-1ap5" target="_blank">Configurar o DevOps Center</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Stubble-Ready" target="_blank">Ubuntu 25.10 Ready With &quot;Stubble&quot; For Better ARM64 Experience</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-03 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/YaLTeR/niri" target="_blank">Niri – A scrollable-tiling Wayland compositor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-03 11:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1647056%2Fbc41f72e-1d01-49d7-a208-b42912a969fb.png" alt="We made an opensource project, check it out!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,42 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Media-Subsystem" target="_blank">Qualcomm Iris Driver Adds H.264/H.265 Encode, Sadly No AMD ISP4 Driver For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-03 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvj9n7gamkwxy89pk4mdg.png" alt="Creating A Lambda Function in AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devzeuz/creating-a-lambda-function-in-aws-1di0" target="_blank">Creating A Lambda Function in AWS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/engineering-culture-autonomy-ownership/en/smallimage/engineering-culture-podcast-thumbnail-500x500-1759219964258.jpg" alt="Podcast: Building Engineering Culture Through Autonomy and Ownership" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/engineering-culture-autonomy-ownership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Building Engineering Culture Through Autonomy and Ownership</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-03 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ln4" target="_blank">You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Non-MM-PR" target="_blank">Linux 6.18 Non-MM Pull Request: &quot;A Mere 150x Speedup Was Measured...&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-03 07:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/AmazonFireTVSoundbar.jpg" alt="This Amazon Fire TV Soundbar Plus Has Never Been This Cheap Before, Almost Free for Prime Big Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-amazon-fire-tv-soundbar-plus-has-never-been-this-cheap-before-almost-free-for-prime-big-deal-days-2000631140" target="_blank">This Amazon Fire TV Soundbar Plus Has Never Been This Cheap Before, Almost Free for Prime Big Deal Days</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 11:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/fright-fest-io9-gizmodo-1280x853.jpg" alt="The Best and Worst of Six Flags Fright Fest 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,21 +287,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/killbbiiill.jpg" alt="Kill Bill Returns To Theaters Later This Year As One Big 4-Hour Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft is ending Windows 10 on October 14, but it&#x27;s only $10 to get Windows 11 Pro now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kill-bill-whole-bloody-affair-return-theaters-december-4-hour-tarantino-2000631123" target="_blank">Kill Bill Returns To Theaters Later This Year As One Big 4-Hour Movie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-02 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/oranges-1280x853.jpg" alt="Woman’s Bruising From a Massage Gun Was a Sign of Something Far Worse: Scurvy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/womans-bruising-from-a-massage-gun-was-a-sign-of-something-far-worse-scurvy-2000666835" target="_blank">Woman’s Bruising From a Massage Gun Was a Sign of Something Far Worse: Scurvy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 20:25</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/02/microsoft-is-ending-windows-10-on-october-14-but-its-only-10-to-get-windows-11-pro-now.html" target="_blank">Microsoft is ending Windows 10 on October 14, but it&#x27;s only $10 to get Windows 11 Pro now</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-02 21:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
