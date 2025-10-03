@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 19:01:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-03 20:01:46 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/diddy-sketch-04-rt-jef-251003_1759514696803_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs set to address the court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-sentencing-live-updates/?id=126081824" target="_blank">Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs set to address the court</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-03 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/pressure-mounts-on-italian-govt-over-gaza-after-strike-paralyses-nation?traffic_source=rss" target="_blank">Pressure mounts on Meloni’s gov’t as Gaza protests paralyse Italy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 19:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +106,29 @@
                 <span class="time">2025-10-03 16:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759508174835_now_daily_a_alba_shutdown_three_251003_1920x1080-3ksg1h.jpg" alt="Senate to attempt votes on government funding as shutdown continues for third day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/senate-to-attempt-votes-on-government-funding-as-shutdown-continues-for-third-day-249013317982" target="_blank">Senate to attempt votes on government funding as shutdown continues for third day</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-03 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a46e/live/6323eda0-a067-11f0-b2f9-dd258cdb2dcd.png" alt="Trump gives Hamas Sunday deadline to accept Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss" target="_blank">Trump gives Hamas Sunday deadline to accept Gaza peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-03 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68dff575a442efb1aa235cbc/master/pass/badbunny-maga-cul-2213606828.jpg" alt="Bad Bunny Has MAGA All Worked Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bad-bunny-has-maga-all-worked-up/" target="_blank">Bad Bunny Has MAGA All Worked Up</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-03 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges" target="_blank">Tales from the AI hiring frenzy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-03 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg" alt="Google confirms Android dev verification will have free and paid tiers, no public list of devs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +165,29 @@
                 <span class="time">2025-10-03 16:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/" target="_blank">OpenAI’s Sora soars to No. 1 on Apple’s US App Store</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-03 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/PressKit_Imatge_27-500x500.jpg" alt="Rally Arcade Classics is a fun ’90s-throwback racing game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/rally-arcade-classics-is-a-fun-90s-throwback-racing-game/" target="_blank">Rally Arcade Classics is a fun ’90s-throwback racing game</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-03 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131" target="_blank">PEP 810: Explicit lazy imports</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-03 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz3ldu9prm37cuwcltnvp.png" alt="Game-Changing Tools Reshaping Frontend Engineering 🤩" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/martygo/game-changing-tools-reshaping-frontend-engineering-7oi" target="_blank">Game-Changing Tools Reshaping Frontend Engineering 🤩</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 19:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,6 +207,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pep-previews--4622.org.readthedocs.build/pep-0810/" target="_blank">PEP 810 – Explicit lazy imports</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-03 18:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AhuH45ks-6laHlsrgySBVUQ.jpeg" alt="🔒 Node.js Security Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,38 +224,29 @@
                 <span class="time">2025-10-03 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Sound" target="_blank">Linux 6.18 Lands Compress-Offload API For Opus Audio Codec</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-03 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/m-a-h-b-u-b/from-zero-to-production-building-a-rest-api-with-nodejs-and-express-1el6" target="_blank">From Zero to Production: Building a REST API with Node.js and Express</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/azirotechnologies/what-exactly-is-product-management-a-simple-guide-for-everyone-3mn4" target="_blank">What Exactly Is Product Management? A Simple Guide for Everyone</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Kingmaker.jpg" alt="Viral Medieval Shooter With Giant Armies Gets Indefinitely Delayed Just Days Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kingmakers-delay-medieval-shooter-steam-early-access-date-2000631559" target="_blank">Viral Medieval Shooter With Giant Armies Gets Indefinitely Delayed Just Days Before Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6NMBHY6GXXB4QMX9A29S8GY/hero-image.jpg" alt="You Can Now Send End-to-End Encrypted Emails From Your Business Gmail Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-send-encrypted-emails-in-gmail?utm_medium=RSS" target="_blank">You Can Now Send End-to-End Encrypted Emails From Your Business Gmail Account</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-03 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/thepredator-2-1280x853.jpg" alt="‘The Predator’ Director Thanks ‘Prey’ and ‘Badlands’ Director for Saving the Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +281,6 @@
                 <span class="title"><a href="https://gizmodo.com/trump-posts-bizarre-ai-video-of-project-2025-architect-as-the-grim-reaper-2000667291" target="_blank">Trump Posts Bizarre AI Video of Project 2025 Architect as the Grim Reaper</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-03 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ss_cb49dfbcd7175c86e297b35ffc54cf779708f0ae.jpg" alt="Arc Raiders’ 2-Year Delay Explained: Game Was Boring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-embark-pvpve-extraction-division-dmz-2000631540" target="_blank">Arc Raiders’ 2-Year Delay Explained: Game Was Boring</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/xbox-logo2.jpg" alt="Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/report-a-free-version-of-xbox-game-streaming-is-coming-but-with-ads-2000631520" target="_blank">Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 15:53</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
