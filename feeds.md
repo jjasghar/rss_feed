@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 22:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-03 23:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/cassie-ventura-2-gty-gmh-250930_1759259216581_hpMain_4x3t_384.jpg" alt="Cassie Ventura&#x27;s lawyer speaks out after Sean &#x27;Diddy&#x27; Combs&#x27; sentencing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/GMA/Culture/cassie-ventura-speaks-after-sean-diddy-combs-sentencing/story?id=126201095" target="_blank">Cassie Ventura&#x27;s lawyer speaks out after Sean &#x27;Diddy&#x27; Combs&#x27; sentencing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-03 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/03/nx-s1-5561990/denmark-russia-drones-hybrid-war" target="_blank">Denmark prepares for a Russian &#x27;hybrid war&#x27; after repeated drone spottings</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-03 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/diddy-sketch-05-rt-jef-251003_1759516657080_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs gets 50 months in prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759523390116_nbc_spec_engel_hamas_251003_1920x1080-54yt96.jpg" alt="Hamas agrees to release all Israeli hostages, alive and dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/hamas-agrees-to-release-all-israeli-hostages-alive-and-dead-249037893867" target="_blank">Hamas agrees to release all Israeli hostages, alive and dead</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-03 20:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759522694492_nbc_spec_itay_father_251003_1920x1080-rtsvea.jpg" alt="Father of American hostage credits Trump and Witkoff for Hamas agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -67,38 +98,20 @@
                 <span class="time">2025-10-03 20:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/diddy-sketch-04-rt-jef-251003_1759514696803_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs set to address the court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-sentencing-live-updates/?id=126081824" target="_blank">Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs set to address the court</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-03 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-israel-gaza-palestine_6896665.jpg?20250425184431" alt="Hamas agrees to release all remaining Israeli hostages - but seeks further talks on Trump&#x27;s peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamas-agrees-to-release-all-remaining-israeli-hostages-but-seeks-further-talks-on-trumps-peace-deal-13443611" target="_blank">Hamas agrees to release all remaining Israeli hostages - but seeks further talks on Trump&#x27;s peace deal</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-03 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/pressure-mounts-on-italian-govt-over-gaza-after-strike-paralyses-nation?traffic_source=rss" target="_blank">Pressure mounts on Meloni’s gov’t as Gaza protests paralyse Italy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/" target="_blank">With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-03 22:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1936304422-500x500.jpg" alt="Removing these 50 objects from orbit would cut danger from space junk in half" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +157,20 @@
                 <span class="time">2025-10-03 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg" alt="Google confirms Android dev verification will have free and paid tiers, no public list of devs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/" target="_blank">Google confirms Android dev verification will have free and paid tiers, no public list of devs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-03 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cynthia_f/adding-a-new-toml-feature-using-git-remotes-and-merges-on-a-repository-2mjn" target="_blank">Adding a New TOML Feature, using Git Remotes and Merges on a repository.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 22:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +216,6 @@
                 <span class="time">2025-10-03 18:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-DDoS-Improvement" target="_blank">Linux 6.18 Will Be A Big Improvement For Servers Encountering DDoS Attacks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-03 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/KPop-Demon-Hunters-Netflix-trio-1280x853.jpg" alt="5 Things We Want to See in a ‘KPop Demon Hunters’ Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/5-things-we-want-to-see-in-a-kpop-demon-hunters-sequel-2000667044" target="_blank">5 Things We Want to See in a ‘KPop Demon Hunters’ Sequel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-03 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/shutterstock_202742458-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Sean &quot;Diddy&quot; Combs jailed for 4 years and 2 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/03/sean-diddy-combs-jailed-for-4-years-and-2-months.html" target="_blank">Sean &quot;Diddy&quot; Combs jailed for 4 years and 2 months</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-03 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/mark-hamill-best-sci-fi-fantasy-horror-roles-1280x853.jpg" alt="Mark Hamill’s Best Genre Roles (That Aren’t Luke Skywalker)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,29 +289,20 @@
                 <span class="time">2025-10-03 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/11/qanon-shaman-e1759518230460.jpg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="QAnon Shaman sues Trump for $40 trillion and declares himself the rightful President of the United States" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/03/qanon-shaman-sues-trump-for-40-trillion-and-declares-himself-the-rightful-president-of-the-united-states.html" target="_blank">QAnon Shaman sues Trump for $40 trillion and declares himself the rightful President of the United States</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-03 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/thepredator-2-1280x853.jpg" alt="‘The Predator’ Director Thanks ‘Prey’ and ‘Badlands’ Director for Saving the Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/shane-black-predator-prey-badlands-2000667380" target="_blank">‘The Predator’ Director Thanks ‘Prey’ and ‘Badlands’ Director for Saving the Franchise</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-03 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/03/enervator" target="_blank">Enervator</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-03 19:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1759360812-20251003.png" alt="Saturday Morning Breakfast Cereal - AAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -331,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
