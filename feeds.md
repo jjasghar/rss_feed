@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 20:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-03 21:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759522694492_nbc_spec_itay_father_251003_1920x1080-rtsvea.jpg" alt="Father of American hostage credits Trump and Witkoff for Hamas agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/father-of-american-hostage-credits-trump-and-witkoff-for-hamas-agreement-249037381678" target="_blank">Father of American hostage credits Trump and Witkoff for Hamas agreement</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-03 20:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/GMA/diddy-sketch-04-rt-jef-251003_1759514696803_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs set to address the court" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-sentencing-live-updates/?id=126081824" target="_blank">Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs set to address the court</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-03 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-israel-gaza-palestine_6896665.jpg?20250425184431" alt="Hamas agrees to release all remaining Israeli hostages - but seeks further talks on Trump&#x27;s peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hamas-agrees-to-release-all-remaining-israeli-hostages-but-seeks-further-talks-on-trumps-peace-deal-13443611" target="_blank">Hamas agrees to release all remaining Israeli hostages - but seeks further talks on Trump&#x27;s peace deal</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-03 19:57</span>
             </div>
         </div>
 <div class="story">
@@ -88,29 +100,38 @@
                 <span class="time">2025-10-03 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/us-conducts-fourth-air-strike-on-boat-in-caribbean-sea-killing-four-people?traffic_source=rss" target="_blank">US conducts fourth air strike on boat in Caribbean Sea, killing four people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b39/live/5a411620-a078-11f0-928c-71dbb8619e94.jpg" alt="I saw evil as attacker tried to barge into synagogue, rabbi tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy9lkeqyzyo?at_medium=RSS&at_campaign=rss" target="_blank">I saw evil as attacker tried to barge into synagogue, rabbi tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-03 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1936304422-500x500.jpg" alt="Removing these 50 objects from orbit would cut danger from space junk in half" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/" target="_blank">Removing these 50 objects from orbit would cut danger from space junk in half</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-03 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e00d6765075606322b04a8/master/pass/Save%20Over%20$100%20on%20this%20Souped-Up%20Gaming%20Handheld.png" alt="The Lenovo Go S Is $120 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/legion-go-s-deal-1025/" target="_blank">The Lenovo Go S Is $120 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-03 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/" target="_blank">What to expect at OpenAI’s DevDay 2025, and how to watch it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-03 19:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68dff575a442efb1aa235cbc/master/pass/badbunny-maga-cul-2213606828.jpg" alt="Bad Bunny Has MAGA All Worked Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,38 +159,20 @@
                 <span class="time">2025-10-03 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-500x500.jpg" alt="Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/ars-live-is-the-ai-bubble-about-to-pop-a-live-chat-with-ed-zitron/" target="_blank">Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-03 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68defa39baf1f5d9a28509bc/master/pass/2236754552" alt="China Is Leading the World in the Clean Energy Transition. Here&#x27;s What That Looks Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/" target="_blank">China Is Leading the World in the Clean Energy Transition. Here&#x27;s What That Looks Like</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-03 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom" target="_blank">Trump rolled YouTube into paying for his ballroom</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-03 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/LinuxMint221-1.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint is Improving Keyboard Layout Switching in Cinnamon Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/linux-mint-is-improving-keyboard-layout-switching-in-cinnamon-desktop" target="_blank">Linux Mint is Improving Keyboard Layout Switching in Cinnamon Desktop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-03 20:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,20 +218,20 @@
                 <span class="time">2025-10-03 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AhuH45ks-6laHlsrgySBVUQ.jpeg" alt="🔒 Node.js Security Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rohit_singh_ee84e64941db7/nodejs-security-best-practices-84d" target="_blank">🔒 Node.js Security Best Practices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-03 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Kingmaker.jpg" alt="Viral Medieval Shooter With Giant Armies Gets Indefinitely Delayed Just Days Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/11/qanon-shaman-e1759518230460.jpg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="QAnon Shaman sues Trump for $40 trillion and declares himself the rightful President of the United States" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/03/qanon-shaman-sues-trump-for-40-trillion-and-declares-himself-the-rightful-president-of-the-united-states.html" target="_blank">QAnon Shaman sues Trump for $40 trillion and declares himself the rightful President of the United States</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-03 19:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/thepredator-2-1280x853.jpg" alt="‘The Predator’ Director Thanks ‘Prey’ and ‘Badlands’ Director for Saving the Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -263,24 +275,6 @@
                 <span class="title"><a href="https://kotaku.com/taylor-swift-life-showgirl-reaction-reviews-songs-wood-2000631553" target="_blank">The Internet Reacts To Taylor Swift’s New Album</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-03 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6NKW33K0TD03SAK3P0A2HHA/hero-image.png" alt="You Can Get Windows 11 Pro on Sale for Just $10 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/windows-11-pro-stacksocial-sale-october-2025?utm_medium=RSS" target="_blank">You Can Get Windows 11 Pro on Sale for Just $10 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-03 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/donald-trump-fear-the-reaper-1280x853.jpg" alt="Trump Posts Bizarre AI Video of Project 2025 Architect as the Grim Reaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-posts-bizarre-ai-video-of-project-2025-architect-as-the-grim-reaper-2000667291" target="_blank">Trump Posts Bizarre AI Video of Project 2025 Architect as the Grim Reaper</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-03 16:55</span>
             </div>
         </div>
 </div>
@@ -329,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
