@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 12:02:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-03 13:07:07 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/pakistan-fm-says-trumps-plan-to-end-israels-gaza-war-was-altered?traffic_source=rss" target="_blank">Pakistan FM says Trump’s plan to end Israel’s Gaza war was altered</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/03/g-s1-91232/mexico-los-djs-de-cumbia-del-barrio" target="_blank">México: Los DJs de cumbia del barrio</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-03 12:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +98,29 @@
                 <span class="time">2025-10-03 07:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-main_1759476013882_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate to reconvene Friday, as shutdown enters 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Government shutdown updates: Senate to reconvene Friday, as shutdown enters 3rd day</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-03 07:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/what-is-trumps-new-trumprx-website-and-will-it-bring-medicine-prices-down?traffic_source=rss" target="_blank">What is Trump’s new TrumpRx website and will it bring medicine prices down?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 06:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama" target="_blank">I tried Amazon and Google’s new smart home gadgets, ask me anything!</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-03 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/" target="_blank">New deep tech fund Wave Function Ventures raises $15 million</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +157,20 @@
                 <span class="time">2025-10-03 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d40b9459c1ae6f73ea7db1/master/pass/ALMA-Einstein-Cross-v2-1536x1389.jpg" alt="A Newly Discovered ‘Einstein’s Cross’ Reveals the Existence of a Giant Dark Matter Halo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-newly-discovered-einsteins-cross-reveals-the-existence-of-a-giant-dark-matter-halo/" target="_blank">A Newly Discovered ‘Einstein’s Cross’ Reveals the Existence of a Giant Dark Matter Halo</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d48764230e7f33a9192ce7/master/pass/pol_conspiracyconvention_getty.jpg" alt="At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/" target="_blank">At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-03 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq4azzxg81hfl8qoe4gf.png" alt="Exploring 7 Lesser Known AI Coding Extensions for VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wickathou/exploring-7-lesser-known-ai-coding-extensions-for-vs-code-2nmb" target="_blank">Exploring 7 Lesser Known AI Coding Extensions for VS Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18672108&w=600" alt="Multi-Cloud Infrastructure Challenges and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/scale-bbc-design/en/mediumimage/sophie-beaumont-medium-1757487263811.jpg" alt="Presentation: Scaling the BBC Design System: Tooling, Community, Governance and Gardening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/scale-bbc-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Scaling the BBC Design System: Tooling, Community, Governance and Gardening</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-03 11:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -202,24 +214,6 @@
                 <span class="title"><a href="https://github.com/YaLTeR/niri" target="_blank">Niri – A scrollable-tiling Wayland compositor</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-03 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1647056%2Fbc41f72e-1d01-49d7-a208-b42912a969fb.png" alt="We made an opensource project, check it out!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gunner_andersen_36e65c71e/we-made-an-opensource-project-check-it-out-3moc" target="_blank">We made an opensource project, check it out!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Media-Subsystem" target="_blank">Qualcomm Iris Driver Adds H.264/H.265 Encode, Sadly No AMD ISP4 Driver For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-03 10:43</span>
             </div>
         </div>
 </div>
@@ -242,12 +236,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/hp-windows.jpg" alt="HP May Be Clearing Stock at a Loss, 15.6″ Laptop Bundle Crashes Nearly 70% (64GB RAM, 2TB SSD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-may-be-clearing-stock-at-a-loss-15-6-laptop-bundle-crashes-nearly-70-64gb-ram-2tb-ssd-2000631176" target="_blank">HP May Be Clearing Stock at a Loss, 15.6″ Laptop Bundle Crashes Nearly 70% (64GB RAM, 2TB SSD)</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 12:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/AmazonFireTVSoundbar.jpg" alt="This Amazon Fire TV Soundbar Plus Has Never Been This Cheap Before, Almost Free for Prime Big Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/this-amazon-fire-tv-soundbar-plus-has-never-been-this-cheap-before-almost-free-for-prime-big-deal-days-2000631140" target="_blank">This Amazon Fire TV Soundbar Plus Has Never Been This Cheap Before, Almost Free for Prime Big Deal Days</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-03 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/odd-radio-ring-citizen-scientists-1280x853.jpg" alt="Citizen Scientists Spot a Perfect Extragalactic Venn Diagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/citizen-scientists-spot-a-perfect-extragalactic-venn-diagram-2000666907" target="_blank">Citizen Scientists Spot a Perfect Extragalactic Venn Diagram</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-03 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -275,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-best-abilities-guide-ivalice-chronicles-2000631130" target="_blank">The 15 Best Abilities In Final Fantasy Tactics And It’s Not Close</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-02 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ramza-and-delita.jpg" alt="These Are The 15 Best Abilities In Final Fantasy Tactics And It’s Not Even Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-best-abilities-guide-ivalice-chronicles-2000631130" target="_blank">These Are The 15 Best Abilities In Final Fantasy Tactics And It’s Not Even Close</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-02 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft is ending Windows 10 on October 14, but it&#x27;s only $10 to get Windows 11 Pro now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/02/microsoft-is-ending-windows-10-on-october-14-but-its-only-10-to-get-windows-11-pro-now.html" target="_blank">Microsoft is ending Windows 10 on October 14, but it&#x27;s only $10 to get Windows 11 Pro now</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-02 21:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
