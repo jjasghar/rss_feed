@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 18:02:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-03 19:01:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/03/nx-s1-5561750/shutdown-jobs-labor-economy-wall-street" target="_blank">Shutdown has already delayed the jobs report. More critical reports could be held up</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-03 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/shutdown-6-rt-gmh-251003_1759506667290_hpMain_4x3t_384.jpg" alt="Senate voting again on government funding bills as shutdown reaches 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-vote-government-funding-bills-shutdown-reaches-3rd/story?id=126183293" target="_blank">Senate voting again on government funding bills as shutdown reaches 3rd day</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-03 18:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +103,20 @@
                 <span class="time">2025-10-03 15:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/3/man-utd-manager-amorim-cant-run-away-from-results?traffic_source=rss" target="_blank">Man Utd manager Amorim can’t run away from results’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/shutdown-13-rt-gmh-251001_1759435297527_hpMain_4x3t_384.jpg" alt="Senate to vote again on government funding bills as shutdown reaches 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/senate-vote-government-funding-bills-shutdown-reaches-3rd/story?id=126183293" target="_blank">Senate to vote again on government funding bills as shutdown reaches 3rd day</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-03 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg" alt="Google confirms Android dev verification will have free and paid tiers, no public list of devs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/" target="_blank">Google confirms Android dev verification will have free and paid tiers, no public list of devs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-03 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-500x500.jpg" alt="Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -109,6 +124,15 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2025/10/ars-live-is-the-ai-bubble-about-to-pop-a-live-chat-with-ed-zitron/" target="_blank">Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron.</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-03 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68defa39baf1f5d9a28509bc/master/pass/2236754552" alt="China Is Leading the World in the Clean Energy Transition. Here&#x27;s What That Looks Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/" target="_blank">China Is Leading the World in the Clean Energy Transition. Here&#x27;s What That Looks Like</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-03 17:19</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +162,29 @@
                 <span class="time">2025-10-03 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/03/leaked-doc-reveals-the-chaotic-politics-behind-trump-energy-department-cuts/" target="_blank">Leaked doc reveals the chaotic politics behind Trump Energy Department cuts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-03 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/791327/tesla-cybertruck-faulty-door-handles-wrongful-death-lawsuit" target="_blank">Tesla Cybertruck’s faulty door handles caused woman’s death, lawsuit alleges</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-03 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hxccoder/should-a-web-development-beginner-focus-on-building-a-complete-project-or-learn-individual-3bd5" target="_blank">Should a web development beginner focus on building a complete project or learn individual technologies?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-DDoS-Improvement" target="_blank">Linux 6.18 Will Be A Big Improvement For Servers Encountering DDoS Attacks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-03 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AhuH45ks-6laHlsrgySBVUQ.jpeg" alt="🔒 Node.js Security Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,29 +221,38 @@
                 <span class="time">2025-10-03 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oluseyej/why-graphql-adoption-keeps-growing-benefits-and-limitations-252n" target="_blank">Why GraphQL Adoption Keeps Growing: Benefits and Limitations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Device-Tree" target="_blank">Linux 6.18 Device Tree Prepares For Arm C1 Nano / Pro / Platinum / Ultra CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-03 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/thepredator-2-1280x853.jpg" alt="‘The Predator’ Director Thanks ‘Prey’ and ‘Badlands’ Director for Saving the Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/shane-black-predator-prey-badlands-2000667380" target="_blank">‘The Predator’ Director Thanks ‘Prey’ and ‘Badlands’ Director for Saving the Franchise</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-03 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/The-Life-of-A-Showgirl-Taylor-Sw.jpg" alt="The Internet Reacts To Taylor Swift’s New Album" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/taylor-swift-life-showgirl-reaction-reviews-songs-wood-2000631553" target="_blank">The Internet Reacts To Taylor Swift’s New Album</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6NKW33K0TD03SAK3P0A2HHA/hero-image.png" alt="You Can Get Windows 11 Pro on Sale for Just $10 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/windows-11-pro-stacksocial-sale-october-2025?utm_medium=RSS" target="_blank">You Can Get Windows 11 Pro on Sale for Just $10 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-03 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/donald-trump-fear-the-reaper-1280x853.jpg" alt="Trump Posts Bizarre AI Video of Project 2025 Architect as the Grim Reaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,33 +278,6 @@
                 <span class="title"><a href="https://kotaku.com/report-a-free-version-of-xbox-game-streaming-is-coming-but-with-ads-2000631520" target="_blank">Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-03 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Peacemaker.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Fortnite pulls Peacemaker-themed cosmetic for Nazi association" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/03/fortnite-pulls-peacemaker-themed-cosmetic-for-nazi-association.html" target="_blank">Fortnite pulls Peacemaker-themed cosmetic for Nazi association</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-03 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Preparation_for_the_Witches_Sabbath_David_Teniers_II.jpg?fit=1200%2C814&amp;quality=60&amp;ssl=1" alt="Flying ointments: hallucinogenic salves, broomsticks, and medieval dream trips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/03/flying-ointments-hallucinogenic-salves-broomsticks-and-medieval-dream-trips.html" target="_blank">Flying ointments: hallucinogenic salves, broomsticks, and medieval dream trips</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-03 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6N6NT5BA2Z879ZAXQS7JZJD/hero-image.jpg" alt="Perplexity&#x27;s AI Browser Is Now Available for Free for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/perplexitys-ai-comet-browser-free?utm_medium=RSS" target="_blank">Perplexity&#x27;s AI Browser Is Now Available for Free for Everyone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-03 15:30</span>
             </div>
         </div>
 </div>
@@ -320,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
