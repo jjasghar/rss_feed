@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 21:01:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-03 22:01:33 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/diddy-sketch-05-rt-jef-251003_1759516657080_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs gets 50 months in prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-sentencing-live-updates/?id=126081824" target="_blank">Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs gets 50 months in prison</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-03 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/police-say-one-victim-possibly-shot-by-officer-during-manchester-attack?traffic_source=rss" target="_blank">Police say one victim possibly shot by officer during Manchester attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 21:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759522694492_nbc_spec_itay_father_251003_1920x1080-rtsvea.jpg" alt="Father of American hostage credits Trump and Witkoff for Hamas agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/pressure-mounts-on-italian-govt-over-gaza-after-strike-paralyses-nation?traffic_source=rss" target="_blank">Pressure mounts on Meloni’s gov’t as Gaza protests paralyse Italy</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-03 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/03/nx-s1-5561750/shutdown-jobs-labor-economy-wall-street" target="_blank">Shutdown has already delayed the jobs report. More critical reports could be held up</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-03 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/shutdown-6-rt-gmh-251003_1759506667290_hpMain_4x3t_384.jpg" alt="Senate voting again on government funding bills as shutdown reaches 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/senate-vote-government-funding-bills-shutdown-reaches-3rd/story?id=126183293" target="_blank">Senate voting again on government funding bills as shutdown reaches 3rd day</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-03 18:40</span>
             </div>
         </div>
 </div>
@@ -165,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jmegnidro/votre-site-charge-t-il-en-moins-de-2-s--4mdd" target="_blank">Votre site charge-t-il en moins de 2 s ?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 21:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/LinuxMint221-1.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint is Improving Keyboard Layout Switching in Cinnamon Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -209,13 +212,18 @@
                 <span class="time">2025-10-03 18:45</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pep-previews--4622.org.readthedocs.build/pep-0810/" target="_blank">PEP 810 – Explicit lazy imports</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-03 18:24</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html" target="_blank">Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-03 21:05</span>
             </div>
         </div>
 </div>
@@ -223,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/mark-hamill-best-sci-fi-fantasy-horror-roles-1280x853.jpg" alt="Mark Hamill’s Best Genre Roles (That Aren’t Luke Skywalker)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mark-hamills-best-genre-roles-that-arent-luke-skywalker-2000666858" target="_blank">Mark Hamill’s Best Genre Roles (That Aren’t Luke Skywalker)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-03 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/shane-black-predator-prey-badlands-2000667380" target="_blank">‘The Predator’ Director Thanks ‘Prey’ and ‘Badlands’ Director for Saving the Franchise</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-03 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/The-Life-of-A-Showgirl-Taylor-Sw.jpg" alt="The Internet Reacts To Taylor Swift’s New Album" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/taylor-swift-life-showgirl-reaction-reviews-songs-wood-2000631553" target="_blank">The Internet Reacts To Taylor Swift’s New Album</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 18:36</span>
             </div>
         </div>
 </div>
@@ -323,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
