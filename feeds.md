@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 09:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-03 10:02:24 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/03/nx-s1-5561638/sarah-mullally-woman-archbishop-canterbury" target="_blank">Sarah Mullally named first woman Archbishop of Canterbury</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-03 09:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +105,20 @@
                 <span class="time">2025-10-03 05:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/03/nx-s1-5561577/india-china-resume-direct-flights" target="_blank">India and China to resume direct flights after a 5-year suspension</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-03 05:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d40b9459c1ae6f73ea7db1/master/pass/ALMA-Einstein-Cross-v2-1536x1389.jpg" alt="A Newly Discovered ‘Einstein’s Cross’ Reveals the Existence of a Giant Dark Matter Halo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-newly-discovered-einsteins-cross-reveals-the-existence-of-a-giant-dark-matter-halo/" target="_blank">A Newly Discovered ‘Einstein’s Cross’ Reveals the Existence of a Giant Dark Matter Halo</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-03 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d48764230e7f33a9192ce7/master/pass/pol_conspiracyconvention_getty.jpg" alt="At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +164,29 @@
                 <span class="time">2025-10-02 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2165374367-500x500.jpg" alt="Trump admin defiles even the “out of office” email auto-reply" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/10/trump-admin-defiles-even-the-out-of-office-email-auto-reply/" target="_blank">Trump admin defiles even the “out of office” email auto-reply</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-02 23:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvj9n7gamkwxy89pk4mdg.png" alt="Creating A Lambda Function in AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devzeuz/creating-a-lambda-function-in-aws-1di0" target="_blank">Creating A Lambda Function in AWS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 09:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/engineering-culture-autonomy-ownership/en/smallimage/engineering-culture-podcast-thumbnail-500x500-1759219964258.jpg" alt="Podcast: Building Engineering Culture Through Autonomy and Ownership" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/engineering-culture-autonomy-ownership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Building Engineering Culture Through Autonomy and Ownership</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-03 09:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +221,6 @@
                 <span class="title"><a href="https://github.com/triton-lang/triton/pull/7298" target="_blank">Fp8 runs ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-03 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-4jlk" target="_blank">CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Thermal-Daemon-2.5.10" target="_blank">Intel Thermal Daemon 2.5.10 Released With A Few Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-03 04:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
