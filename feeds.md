@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 16:02:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-03 17:01:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +50,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b39/live/5a411620-a078-11f0-928c-71dbb8619e94.jpg" alt="I saw evil as attacker tried to barge into synagogue, rabbi tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy9lkeqyzyo?at_medium=RSS&at_campaign=rss" target="_blank">I saw evil as attacker tried to barge into synagogue, rabbi tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-03 16:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a46e/live/6323eda0-a067-11f0-b2f9-dd258cdb2dcd.png" alt="Trump gives Hamas Sunday deadline to accept Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss" target="_blank">Trump gives Hamas Sunday deadline to accept Gaza peace plan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-03 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/3/man-utd-manager-amorim-cant-run-away-from-results?traffic_source=rss" target="_blank">Man Utd manager Amorim can’t run away from results’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 15:29</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +103,29 @@
                 <span class="time">2025-10-03 14:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2658/live/70273b20-a05c-11f0-92db-77261a15b9d2.jpg" alt="Manchester attack was a desecration that changed us all forever, synagogue says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgj1xzv4z0vo?at_medium=RSS&at_campaign=rss" target="_blank">Manchester attack was a desecration that changed us all forever, synagogue says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-03 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/longform/2025/10/3/on-our-own-territory-colombias-last-nomadic-tribe-fights-to-return-home?traffic_source=rss" target="_blank">‘On our own territory’: Colombia’s last nomadic tribe fights to return home</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom" target="_blank">Trump rolled YouTube into paying for his ballroom</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-03 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/" target="_blank">OpenAI’s Sora soars to No. 1 on Apple’s US App Store</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-03 16:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/PressKit_Imatge_27-500x500.jpg" alt="Rally Arcade Classics is a fun ’90s-throwback racing game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +162,20 @@
                 <span class="time">2025-10-03 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/" target="_blank">Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-03 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/18C1102_002-500x500.jpg" alt="Illinois utility tries using electric school buses for bidirectional charging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/illinois-utility-tries-using-electric-school-buses-for-bidirectional-charging/" target="_blank">Illinois utility tries using electric school buses for bidirectional charging</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-03 13:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AhuH45ks-6laHlsrgySBVUQ.jpeg" alt="🔒 Node.js Security Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rohit_singh_ee84e64941db7/nodejs-security-best-practices-84d" target="_blank">🔒 Node.js Security Best Practices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,40 +221,44 @@
                 <span class="time">2025-10-03 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq4azzxg81hfl8qoe4gf.png" alt="Exploring 7 Lesser Known AI Coding Extensions for VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wickathou/exploring-7-lesser-known-ai-coding-extensions-for-vs-code-2nmb" target="_blank">Exploring 7 Lesser Known AI Coding Extensions for VS Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 13:03</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html" target="_blank">Daniel Miessler on the AI Attack/Defense Balance</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-02 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/donald-trump-fear-the-reaper-1280x853.jpg" alt="Trump Posts Bizarre AI Video of Project 2025 Architect as the Grim Reaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-posts-bizarre-ai-video-of-project-2025-architect-as-the-grim-reaper-2000667291" target="_blank">Trump Posts Bizarre AI Video of Project 2025 Architect as the Grim Reaper</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-03 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/ss_cb49dfbcd7175c86e297b35ffc54cf779708f0ae.jpg" alt="Arc Raiders’ 2-Year Delay Explained: Game Was Boring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-embark-pvpve-extraction-division-dmz-2000631540" target="_blank">Arc Raiders’ 2-Year Delay Explained: Game Was Boring</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 16:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/xbox-logo2.jpg" alt="Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/report-a-free-version-of-xbox-game-streaming-is-coming-but-with-ads-2000631520" target="_blank">Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Peacemaker.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Fortnite pulls Peacemaker-themed cosmetic for Nazi association" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/03/fortnite-pulls-peacemaker-themed-cosmetic-for-nazi-association.html" target="_blank">Fortnite pulls Peacemaker-themed cosmetic for Nazi association</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-03 15:53</span>
             </div>
         </div>
@@ -261,38 +280,20 @@
                 <span class="time">2025-10-03 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/dell-pc.jpg" alt="Dell OptiPlex 7020 Mini PC Desktop Sees Record 71% Price Drop, Thousands Off Feels Like a Clearance Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dell-optiplex-7020-mini-pc-desktop-sees-record-71-price-drop-thousands-off-feels-like-a-clearance-deal-2000631179" target="_blank">Dell OptiPlex 7020 Mini PC Desktop Sees Record 71% Price Drop, Thousands Off Feels Like a Clearance Deal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/DancingGrootLEGO.jpg" alt="The LEGO Groot Has Danced Its Way Down to Almost Free, Cheap Enough to Buy More Than One for Early Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-lego-groot-has-danced-its-way-down-to-almost-free-cheap-enough-to-buy-more-than-one-for-early-prime-day-2000631154" target="_blank">The LEGO Groot Has Danced Its Way Down to Almost Free, Cheap Enough to Buy More Than One for Early Prime Day</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GQPPRZY98TVV6NMMJ3AD3/hero-image.jpg" alt="You Should Color Code Your Notes for Better Recall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/you-should-color-code-your-notes-for-better-recall?utm_medium=RSS" target="_blank">You Should Color Code Your Notes for Better Recall</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1759360812-20251003.png" alt="Saturday Morning Breakfast Cereal - AAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/aaa" target="_blank">Saturday Morning Breakfast Cereal - AAA</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-03 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
