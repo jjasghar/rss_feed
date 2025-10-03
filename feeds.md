@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 14:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-03 15:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/shutdown-13-rt-gmh-251001_1759435297527_hpMain_4x3t_384.jpg" alt="Senate to vote again on government funding bills as shutdown reaches 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-vote-government-funding-bills-shutdown-reaches-3rd/story?id=126183293" target="_blank">Senate to vote again on government funding bills as shutdown reaches 3rd day</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-03 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-city-hamas-israel_7040278.jpg?20251003155137" alt="Trump sets new deadline for Hamas to agree Gaza deal with Israel - or face &#x27;all hell&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-sets-new-deadline-for-hamas-to-agree-gaza-deal-with-israel-or-face-all-hell-13443601" target="_blank">Trump sets new deadline for Hamas to agree Gaza deal with Israel - or face &#x27;all hell&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-03 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2658/live/70273b20-a05c-11f0-92db-77261a15b9d2.jpg" alt="Manchester attack was a desecration of our synagogue, its leaders say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgj1xzv4z0vo?at_medium=RSS&at_campaign=rss" target="_blank">Manchester attack was a desecration of our synagogue, its leaders say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-03 14:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2658/live/70273b20-a05c-11f0-92db-77261a15b9d2.jpg" alt="Manchester attack was a desecration that changed us all forever, synagogue says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +104,38 @@
                 <span class="time">2025-10-03 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/03/g-s1-91232/mexico-los-djs-de-cumbia-del-barrio" target="_blank">México: Los DJs de cumbia del barrio</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-03 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/3/pattern-emerging-of-eu-airports-disrupted-by-drones?traffic_source=rss" target="_blank">“Pattern” emerging of EU airports disrupted by drones</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/03/nx-s1-5561638/sarah-mullally-woman-archbishop-canterbury" target="_blank">Sarah Mullally named first woman Archbishop of Canterbury</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-03 09:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/791327/tesla-cybertruck-faulty-door-handles-wrongful-death-lawsuit" target="_blank">Tesla Cybertruck’s faulty door handles caused woman’s death, lawsuit alleges</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-03 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/yogurt1-500x500.jpg" alt="How ants can kick-start fermentation to make yogurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/how-ants-can-kick-start-fermentation-to-make-yogurt/" target="_blank">How ants can kick-start fermentation to make yogurt</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-03 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/" target="_blank">Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-03 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/18C1102_002-500x500.jpg" alt="Illinois utility tries using electric school buses for bidirectional charging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +163,20 @@
                 <span class="time">2025-10-03 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/" target="_blank">New deep tech fund Wave Function Ventures raises $15 million</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/" target="_blank">How developers are using Apple’s local AI models with iOS 26</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/791192/asahi-beer-cyberattack-systems-outage" target="_blank">Japan’s most popular beer is running low after cyberattack</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-03 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/azirotechnologies/what-exactly-is-product-management-a-simple-guide-for-everyone-3mn4" target="_blank">What Exactly Is Product Management? A Simple Guide for Everyone</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 14:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +196,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/agoda-sql-procedure-chatgpt-cicd/en/headerimage/generatedHeaderImage-1759497635729.jpg" alt="Agoda Leverages ChatGPT in the CI/CD Process for SQL Stored Procedure Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/agoda-sql-procedure-chatgpt-cicd/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agoda Leverages ChatGPT in the CI/CD Process for SQL Stored Procedure Optimization</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-03 13:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq4azzxg81hfl8qoe4gf.png" alt="Exploring 7 Lesser Known AI Coding Extensions for VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/risk-management-ai-ml-cloud-native-data" target="_blank">Enabling Risk Management With AI/ML Powered by Cloud Native Data Architecture</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18672108&w=600" alt="Multi-Cloud Infrastructure Challenges and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/multi-cloud-infrastructure-challenges-solutions" target="_blank">Multi-Cloud Infrastructure Challenges and Solutions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frfmh3iigei800mo5osan.png" alt="Configurar o DevOps Center" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lizvidotti/configurar-o-devops-center-1ap5" target="_blank">Configurar o DevOps Center</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 11:47</span>
             </div>
         </div>
 </div>
@@ -236,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dell-pc.jpg" alt="Dell OptiPlex 7020 Mini PC Desktop Sees Record 71% Price Drop, Thousands Off Feels Like a Clearance Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dell-optiplex-7020-mini-pc-desktop-sees-record-71-price-drop-thousands-off-feels-like-a-clearance-deal-2000631179" target="_blank">Dell OptiPlex 7020 Mini PC Desktop Sees Record 71% Price Drop, Thousands Off Feels Like a Clearance Deal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 14:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/DancingGrootLEGO.jpg" alt="The LEGO Groot Has Danced Its Way Down to Almost Free, Cheap Enough to Buy More Than One for Early Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/the-lego-groot-has-danced-its-way-down-to-almost-free-cheap-enough-to-buy-more-than-one-for-early-prime-day-2000631154" target="_blank">The LEGO Groot Has Danced Its Way Down to Almost Free, Cheap Enough to Buy More Than One for Early Prime Day</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-03 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GQPPRZY98TVV6NMMJ3AD3/hero-image.jpg" alt="You Should Color Code Your Notes for Better Recall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/you-should-color-code-your-notes-for-better-recall?utm_medium=RSS" target="_blank">You Should Color Code Your Notes for Better Recall</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-03 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -269,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/citizen-scientists-spot-a-perfect-extragalactic-venn-diagram-2000666907" target="_blank">Citizen Scientists Spot a Perfect Extragalactic Venn Diagram</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-03 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/fright-fest-io9-gizmodo-1280x853.jpg" alt="The Best and Worst of Six Flags Fright Fest 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/six-flags-fright-fest-review-conjuring-trick-r-treat-2000666827" target="_blank">The Best and Worst of Six Flags Fright Fest 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-enterprise-finale-archer-tpol-1280x853.jpg" alt="This Is What the Potential ‘Star Trek: Enterprise’ Archer Spinoff Would’ve Been About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-enterprise-spinoff-pitch-united-scott-bakula-archer-2000667015" target="_blank">This Is What the Potential ‘Star Trek: Enterprise’ Archer Spinoff Would’ve Been About</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-02 22:40</span>
             </div>
         </div>
 </div>
@@ -335,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
