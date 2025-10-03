@@ -1,9 +1,6 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 08:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-03 09:02:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
@@ -13,29 +10,29 @@
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/3/global-protests-erupt-over-israeli-interception-of-gaza-aid-flotilla?traffic_source=rss" target="_blank">Global protests erupt over Israeli interception of Gaza aid flotilla</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 08:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/how-much-of-europes-oil-and-gas-still-comes-from-russia?traffic_source=rss" target="_blank">How much of Europe’s oil and gas still comes from Russia?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-03 07:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capitol-main_1759476013882_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate to reconvene Friday, as shutdown enters 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=126029955" target="_blank">Government shutdown updates: Senate to reconvene Friday, as shutdown enters 3rd day</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-03 07:25</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/03/nx-s1-5561577/india-china-resume-direct-flights" target="_blank">India and China to resume direct flights after a 5-year suspension</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-03 05:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/papua-new-guinea-cabinet-signs-landmark-defence-treaty-with-australia?traffic_source=rss" target="_blank">Papua New Guinea cabinet signs landmark defence treaty with Australia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 04:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/02/nx-s1-5561155/fda-generic-abortion-pill" target="_blank">FDA approves another generic abortion pill, prompting outrage from conservatives</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-03 03:45</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ln4" target="_blank">You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Non-MM-PR" target="_blank">Linux 6.18 Non-MM Pull Request: &quot;A Mere 150x Speedup Was Measured...&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-03 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h" target="_blank">What It’s Like Moving from TD to Chase</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-03 04:40</span>
@@ -205,24 +220,6 @@
                 <span class="time">2025-10-03 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/piwa_lin_8b3155c3dd85f0f9/krypto-onboarding-fur-entwickler-warum-ux-wichtiger-ist-als-der-preis-3b33" target="_blank">Krypto-Onboarding für Entwickler: Warum UX wichtiger ist als der Preis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 02:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/FyshOS/fynedesk" target="_blank">FyneDesk: A full desktop environment for Linux written in Go</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-03 02:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/fright-fest-io9-gizmodo-1280x853.jpg" alt="The Best and Worst of Six Flags Fright Fest 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/six-flags-fright-fest-review-conjuring-trick-r-treat-2000666827" target="_blank">The Best and Worst of Six Flags Fright Fest 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-02 23:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-enterprise-finale-archer-tpol-1280x853.jpg" alt="This Is What the Potential ‘Star Trek: Enterprise’ Archer Spinoff Would’ve Been About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/womans-bruising-from-a-massage-gun-was-a-sign-of-something-far-worse-scurvy-2000666835" target="_blank">Woman’s Bruising From a Massage Gun Was a Sign of Something Far Worse: Scurvy</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-02 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6K5R44G3GADTQ73J2GYTK4T/hero-image.jpg" alt="If You Can&#x27;t Activate iMessage After Updating to iOS 26, Try This" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/imessage-activation-problems-ios-26?utm_medium=RSS" target="_blank">If You Can&#x27;t Activate iMessage After Updating to iOS 26, Try This</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-02 20:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
