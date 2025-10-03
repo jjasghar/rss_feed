@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 17:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-03 18:02:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/us-conducts-fourth-air-strike-on-boat-in-caribbean-sea-killing-four-people?traffic_source=rss" target="_blank">US conducts fourth air strike on boat in Caribbean Sea, killing four people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 17:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b39/live/5a411620-a078-11f0-928c-71dbb8619e94.jpg" alt="I saw evil as attacker tried to barge into synagogue, rabbi tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwy9lkeqyzyo?at_medium=RSS&at_campaign=rss" target="_blank">I saw evil as attacker tried to barge into synagogue, rabbi tells BBC</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-03 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759508174835_now_daily_a_alba_shutdown_three_251003_1920x1080-3ksg1h.jpg" alt="Senate to attempt votes on government funding as shutdown continues for third day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/senate-to-attempt-votes-on-government-funding-as-shutdown-continues-for-third-day-249013317982" target="_blank">Senate to attempt votes on government funding as shutdown continues for third day</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-03 16:16</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +97,20 @@
                 <span class="time">2025-10-03 14:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-city-hamas-israel_7040278.jpg?20251003155137" alt="Trump sets new deadline for Hamas to agree Gaza deal with Israel - or face &#x27;all hell&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-sets-new-deadline-for-hamas-to-agree-gaza-deal-with-israel-or-face-all-hell-13443601" target="_blank">Trump sets new deadline for Hamas to agree Gaza deal with Israel - or face &#x27;all hell&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-03 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2658/live/70273b20-a05c-11f0-92db-77261a15b9d2.jpg" alt="Manchester attack was a desecration of our synagogue, its leaders say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgj1xzv4z0vo?at_medium=RSS&at_campaign=rss" target="_blank">Manchester attack was a desecration of our synagogue, its leaders say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-03 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-500x500.jpg" alt="Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/ars-live-is-the-ai-bubble-about-to-pop-a-live-chat-with-ed-zitron/" target="_blank">Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-03 17:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +156,6 @@
                 <span class="time">2025-10-03 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/yogurt1-500x500.jpg" alt="How ants can kick-start fermentation to make yogurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/how-ants-can-kick-start-fermentation-to-make-yogurt/" target="_blank">How ants can kick-start fermentation to make yogurt</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-03 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/rohit_singh_ee84e64941db7/nodejs-security-best-practices-84d" target="_blank">🔒 Node.js Security Best Practices</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-03 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Sound" target="_blank">Linux 6.18 Lands Compress-Offload API For Opus Audio Codec</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-03 16:38</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Device-Tree" target="_blank">Linux 6.18 Device Tree Prepares For Arm C1 Nano / Pro / Platinum / Ultra CPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-03 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/agoda-sql-procedure-chatgpt-cicd/en/headerimage/generatedHeaderImage-1759497635729.jpg" alt="Agoda Leverages ChatGPT in the CI/CD Process for SQL Stored Procedure Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/agoda-sql-procedure-chatgpt-cicd/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agoda Leverages ChatGPT in the CI/CD Process for SQL Stored Procedure Optimization</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-03 13:40</span>
             </div>
         </div>
 </div>
@@ -304,6 +298,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/ping.png" alt="Ping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3150/" target="_blank">Ping</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-03 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5671.png" alt="Basically Inevitable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -317,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
