@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 10:02:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-03 11:01:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/3/pattern-emerging-of-eu-airports-disrupted-by-drones?traffic_source=rss" target="_blank">“Pattern” emerging of EU airports disrupted by drones</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 10:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +104,20 @@
                 <span class="time">2025-10-03 06:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910c/live/6517dff0-a01b-11f0-a161-ab40661a802f.jpg" alt="Manchester synagogue attack victims named" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly6eve5p06o?at_medium=RSS&at_campaign=rss" target="_blank">Manchester synagogue attack victims named</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-03 05:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68df136dae50d2d962934ac6/master/pass/Luigi-Mangione-Supporters-Culture-2235224476.jpg" alt="Inside the Contentious World of Luigi Mangione Supporters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/inside-the-contentious-world-of-luigi-mangione-supporters/" target="_blank">Inside the Contentious World of Luigi Mangione Supporters</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-03 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d40b9459c1ae6f73ea7db1/master/pass/ALMA-Einstein-Cross-v2-1536x1389.jpg" alt="A Newly Discovered ‘Einstein’s Cross’ Reveals the Existence of a Giant Dark Matter Halo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +163,29 @@
                 <span class="time">2025-10-03 01:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/02/amazon-to-resume-drone-delivery-following-crash-in-arizona/" target="_blank">Amazon to resume drone delivery following crash in Arizona</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-02 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1647056%2Fbc41f72e-1d01-49d7-a208-b42912a969fb.png" alt="We made an opensource project, check it out!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gunner_andersen_36e65c71e/we-made-an-opensource-project-check-it-out-3moc" target="_blank">We made an opensource project, check it out!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Media-Subsystem" target="_blank">Qualcomm Iris Driver Adds H.264/H.265 Encode, Sadly No AMD ISP4 Driver For Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-03 10:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvj9n7gamkwxy89pk4mdg.png" alt="Creating A Lambda Function in AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Non-MM-PR" target="_blank">Linux 6.18 Non-MM Pull Request: &quot;A Mere 150x Speedup Was Measured...&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-03 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h" target="_blank">What It’s Like Moving from TD to Chase</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/triton-lang/triton/pull/7298" target="_blank">Fp8 runs ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-03 04:21</span>
             </div>
         </div>
 </div>
@@ -342,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
