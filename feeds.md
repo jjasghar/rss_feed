@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 01:29:02 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-03 02:25:15 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/venezuela-slams-presence-of-us-f-35-fighter-planes-spotted-off-coast" target="_blank">Venezuela slams presence of US F-35 fighter planes spotted off coast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 01:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d24/live/ee9ed3b0-9fa2-11f0-92db-77261a15b9d2.jpg" alt="Police name Manchester attacker who killed two at synagogue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cpd93x0ql0do?at_medium=RSS&at_campaign=rss" target="_blank">Police name Manchester attacker who killed two at synagogue</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-03 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759451669211_now_topstory_john_thune_shutdown_251002_1920x1080-u321y1.jpg" alt="Thune says talks with Schumer are ‘not going to accomplish a lot’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/sen-majority-leader-john-thune-discusses-shutdown-248972869845" target="_blank">Thune says talks with Schumer are ‘not going to accomplish a lot’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-03 00:34</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +101,6 @@
                 <span class="time">2025-10-02 22:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-251002_1759325953103_hpMain_4x3t_384.jpg" alt="Trump openly threatens to use shutdown to target Democrats for cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-openly-threatens-shutdown-target-democrats-cuts/story?id=126151790" target="_blank">Trump openly threatens to use shutdown to target Democrats for cuts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-02 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5559439/cdc-covid-vaccine-guidelines" target="_blank">The CDC still hasn&#x27;t issued COVID vaccine guidelines, leaving access in limbo</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-02 20:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/02/amazon-to-resume-drone-delivery-following-crash-in-arizona/" target="_blank">Amazon to resume drone delivery following crash in Arizona</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-02 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2165374367-500x500.jpg" alt="Trump admin defiles even the “out of office” email auto-reply" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/10/trump-admin-defiles-even-the-out-of-office-email-auto-reply/" target="_blank">Trump admin defiles even the “out of office” email auto-reply</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-02 23:29</span>
             </div>
         </div>
 <div class="story">
@@ -145,20 +160,29 @@
                 <span class="time">2025-10-02 20:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web" target="_blank">Google is destroying independent websites, and one sees no choice but to defend it anyway</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-02 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/piwa_lin_8b3155c3dd85f0f9/krypto-onboarding-fur-entwickler-warum-ux-wichtiger-ist-als-der-preis-3b33" target="_blank">Krypto-Onboarding für Entwickler: Warum UX wichtiger ist als der Preis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 02:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/" target="_blank">I spent the day teaching seniors how to use an iPhone</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-03 01:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0f1p91dyf9gqgk2e8e6.webp" alt="Chat with My Digital Twin: How I Built a Personal Website With a Local AI Chatbot!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +217,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-3-2025-red-hat" target="_blank">Friday Five — October 3, 2025</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-10-03 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/GNOME-screenshot-error.jpg?resize=406%2C232&amp;ssl=1" alt="Why the GNOME Screenshot App Doesn’t Work in GNOME 49" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/gnome-screenshot-app-no-longer-works-in-gnome-49" target="_blank">Why the GNOME Screenshot App Doesn’t Work in GNOME 49</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-02 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw8s4ahhhalsi9xcit2dr.png" alt="From Playwright to Cypress.io: Solving 5 Real-World Testing Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohamedsaidibrahim/from-playwright-to-cypressio-solving-5-real-world-testing-challenges-5fbo" target="_blank">From Playwright to Cypress.io: Solving 5 Real-World Testing Challenges</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 21:58</span>
             </div>
         </div>
 </div>
@@ -292,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5671.png" alt="Basically Inevitable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5671" target="_blank">Basically Inevitable</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-03 00:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
@@ -314,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
