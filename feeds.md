@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 00:04:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-03 01:29:02 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d24/live/ee9ed3b0-9fa2-11f0-92db-77261a15b9d2.jpg" alt="Police name Manchester attacker who killed two at synagogue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpd93x0ql0do?at_medium=RSS&at_campaign=rss" target="_blank">Police name Manchester attacker who killed two at synagogue</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-03 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f5/live/aeebe790-9fdd-11f0-b741-177e3e2c2fc7.jpg" alt="Trump wields axe over &#x27;Democrat Agencies&#x27; as shutdown blame game rages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg201rnw2zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump wields axe over &#x27;Democrat Agencies&#x27; as shutdown blame game rages</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-02 23:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +95,20 @@
                 <span class="time">2025-10-02 20:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/2/im-fing-terrified-families-call-for-release-of-flotilla-activists?traffic_source=rss" target="_blank">‘I’m f***ing terrified’ Families call for release of flotilla activists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-02 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/2/are-europe-and-russia-moving-closer-to-conflict-over-ukraine?traffic_source=rss" target="_blank">Are Europe and Russia moving closer to conflict over Ukraine?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-02 19:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/02/amazon-to-resume-drone-delivery-following-crash-in-arizona/" target="_blank">Amazon to resume drone delivery following crash in Arizona</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-02 23:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +154,29 @@
                 <span class="time">2025-10-02 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-mostly-blue-states/" target="_blank">Department of Energy cancels $7.5B of clean energy projects in mostly blue states</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-02 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0f1p91dyf9gqgk2e8e6.webp" alt="Chat with My Digital Twin: How I Built a Personal Website With a Local AI Chatbot!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/chat-with-my-digital-twin-how-i-built-a-personal-website-with-a-local-ai-chatbot-55m2" target="_blank">Chat with My Digital Twin: How I Built a Personal Website With a Local AI Chatbot!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Slab-Sheaves" target="_blank">Sheaves Merged For Linux 6.18 - Can Help With Better Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-03 00:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-1ml1" target="_blank">CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-03 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-3-2025-red-hat" target="_blank">Friday Five — October 3, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-10-03 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +211,6 @@
                 <span class="title"><a href="https://dev.to/mohamedsaidibrahim/from-playwright-to-cypressio-solving-5-real-world-testing-challenges-5fbo" target="_blank">From Playwright to Cypress.io: Solving 5 Real-World Testing Challenges</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-02 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Better-EPYC-256-vCPU" target="_blank">Linux 6.18 To More Reliably Handle 255+ vCPUs On AMD EPYC Servers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-02 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxckb5zjfig5v18r54wc0.png" alt="Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/monda8am/smarter-notifications-with-edge-ai-a-kotlin-koog-mediapipes-journey-5h1" target="_blank">Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzi0h9qyhwor4vzte3job.png" alt="How I ended up creating my own programming font..." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/psudo-dev/how-i-ended-up-creating-my-own-programming-font-117p" target="_blank">How I ended up creating my own programming font...</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-02 19:39</span>
             </div>
         </div>
 </div>
@@ -312,22 +309,13 @@
                 <span class="time">2025-10-02 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5670.png" alt="Shame On Marten" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5670" target="_blank">Shame On Marten</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-02 00:38</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
