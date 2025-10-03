@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 05:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-03 06:02:15 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910c/live/6517dff0-a01b-11f0-a161-ab40661a802f.jpg" alt="Manchester synagogue attack victims named" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly6eve5p06o?at_medium=RSS&at_campaign=rss" target="_blank">Manchester synagogue attack victims named</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-03 05:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +103,6 @@
                 <span class="time">2025-10-03 00:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f5/live/aeebe790-9fdd-11f0-b741-177e3e2c2fc7.jpg" alt="Trump wields axe over &#x27;Democrat Agencies&#x27; as shutdown blame game rages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg201rnw2zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump wields axe over &#x27;Democrat Agencies&#x27; as shutdown blame game rages</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-02 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +115,15 @@
                 <span class="title"><a href="https://www.wired.com/story/dell-coupon-code/" target="_blank">10% Off Dell Coupon Codes | October 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-03 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/" target="_blank">After nine years of grinding, Replit finally found its market. Can it keep it?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-03 04:58</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +162,6 @@
                 <span class="time">2025-10-02 23:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/NG1-Liftoff-Horizontal-500x500.jpg" alt="Blue Origin aims to land next New Glenn booster, then reuse it for Moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/blue-origin-aims-to-land-next-new-glenn-booster-then-reuse-it-for-moon-mission/" target="_blank">Blue Origin aims to land next New Glenn booster, then reuse it for Moon mission</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-02 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,9 +179,27 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/triton-lang/triton/pull/7298" target="_blank">Fp8 runs ~100 tflops faster when the kernel name has &quot;cutlass&quot; in it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-03 04:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-4jlk" target="_blank">CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Thermal-Daemon-2.5.10" target="_blank">Intel Thermal Daemon 2.5.10 Released With A Few Improvements</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2025-10-03 04:00</span>
             </div>
         </div>
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://github.com/FyshOS/fynedesk" target="_blank">FyneDesk: A full desktop environment for Linux written in Go</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-03 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/" target="_blank">I spent the day teaching seniors how to use an iPhone</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-03 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0f1p91dyf9gqgk2e8e6.webp" alt="Chat with My Digital Twin: How I Built a Personal Website With a Local AI Chatbot!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/chat-with-my-digital-twin-how-i-built-a-personal-website-with-a-local-ai-chatbot-55m2" target="_blank">Chat with My Digital Twin: How I Built a Personal Website With a Local AI Chatbot!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 01:06</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
