@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 13:07:07 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-10-03 14:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 13:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2658/live/70273b20-a05c-11f0-92db-77261a15b9d2.jpg" alt="Manchester attack was a desecration that changed us all forever, synagogue says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgj1xzv4z0vo?at_medium=RSS&at_campaign=rss" target="_blank">Manchester attack was a desecration that changed us all forever, synagogue says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-03 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/longform/2025/10/3/on-our-own-territory-colombias-last-nomadic-tribe-fights-to-return-home?traffic_source=rss" target="_blank">‘On our own territory’: Colombia’s last nomadic tribe fights to return home</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-03 13:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +98,29 @@
                 <span class="time">2025-10-03 09:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/3/global-protests-erupt-over-israeli-interception-of-gaza-aid-flotilla?traffic_source=rss" target="_blank">Global protests erupt over Israeli interception of Gaza aid flotilla</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 08:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/how-much-of-europes-oil-and-gas-still-comes-from-russia?traffic_source=rss" target="_blank">How much of Europe’s oil and gas still comes from Russia?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 07:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/18C1102_002-500x500.jpg" alt="Illinois utility tries using electric school buses for bidirectional charging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/illinois-utility-tries-using-electric-school-buses-for-bidirectional-charging/" target="_blank">Illinois utility tries using electric school buses for bidirectional charging</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-03 13:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dfbf1423a810d9d7e48657/master/pass/GettyImages-2216837590.jpg" alt="ICE Wants to Build Out a 24/7 Social Media Surveillance Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/" target="_blank">ICE Wants to Build Out a 24/7 Social Media Surveillance Team</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-03 13:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +157,29 @@
                 <span class="time">2025-10-03 11:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/52360635711_25f1f1ff62_c-500x500.jpg" alt="Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/" target="_blank">Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-03 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68df136dae50d2d962934ac6/master/pass/Luigi-Mangione-Supporters-Culture-2235224476.jpg" alt="Inside the Contentious World of Luigi Mangione Supporters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/inside-the-contentious-world-of-luigi-mangione-supporters/" target="_blank">Inside the Contentious World of Luigi Mangione Supporters</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-03 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oluseyej/why-graphql-adoption-keeps-growing-benefits-and-limitations-252n" target="_blank">Why GraphQL Adoption Keeps Growing: Benefits and Limitations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Device-Tree" target="_blank">Linux 6.18 Device Tree Prepares For Arm C1 Nano / Pro / Platinum / Ultra CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-03 13:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq4azzxg81hfl8qoe4gf.png" alt="Exploring 7 Lesser Known AI Coding Extensions for VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +187,15 @@
                 <span class="title"><a href="https://dev.to/wickathou/exploring-7-lesser-known-ai-coding-extensions-for-vs-code-2nmb" target="_blank">Exploring 7 Lesser Known AI Coding Extensions for VS Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-03 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18672050&w=600" alt="Enabling Risk Management With AI/ML Powered by Cloud Native Data Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/risk-management-ai-ml-cloud-native-data" target="_blank">Enabling Risk Management With AI/ML Powered by Cloud Native Data Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-03 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/lizvidotti/configurar-o-devops-center-1ap5" target="_blank">Configurar o DevOps Center</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-03 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/scale-bbc-design/en/mediumimage/sophie-beaumont-medium-1757487263811.jpg" alt="Presentation: Scaling the BBC Design System: Tooling, Community, Governance and Gardening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/scale-bbc-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Scaling the BBC Design System: Tooling, Community, Governance and Gardening</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-03 11:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Stubble-Ready" target="_blank">Ubuntu 25.10 Ready With &quot;Stubble&quot; For Better ARM64 Experience</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-03 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/YaLTeR/niri" target="_blank">Niri – A scrollable-tiling Wayland compositor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-03 11:08</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/DancingGrootLEGO.jpg" alt="The LEGO Groot Has Danced Its Way Down to Almost Free, Cheap Enough to Buy More Than One for Early Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-lego-groot-has-danced-its-way-down-to-almost-free-cheap-enough-to-buy-more-than-one-for-early-prime-day-2000631154" target="_blank">The LEGO Groot Has Danced Its Way Down to Almost Free, Cheap Enough to Buy More Than One for Early Prime Day</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/hp-windows.jpg" alt="HP May Be Clearing Stock at a Loss, 15.6″ Laptop Bundle Crashes Nearly 70% (64GB RAM, 2TB SSD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-trek-enterprise-spinoff-pitch-united-scott-bakula-archer-2000667015" target="_blank">This Is What the Potential ‘Star Trek: Enterprise’ Archer Spinoff Would’ve Been About</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-02 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ramza-and-delita.jpg" alt="The 15 Best Abilities In Final Fantasy Tactics And It’s Not Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-best-abilities-guide-ivalice-chronicles-2000631130" target="_blank">The 15 Best Abilities In Final Fantasy Tactics And It’s Not Close</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-02 21:56</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
