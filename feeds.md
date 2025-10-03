@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 15:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-03 16:02:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, October 03, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a46e/live/6323eda0-a067-11f0-b2f9-dd258cdb2dcd.png" alt="Trump gives Hamas Sunday deadline to accept Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss" target="_blank">Trump gives Hamas Sunday deadline to accept Gaza peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-03 15:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/shutdown-13-rt-gmh-251001_1759435297527_hpMain_4x3t_384.jpg" alt="Senate to vote again on government funding bills as shutdown reaches 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +97,29 @@
                 <span class="time">2025-10-03 13:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/pakistan-fm-says-trumps-plan-to-end-israels-gaza-war-was-altered?traffic_source=rss" target="_blank">Pakistan FM says Trump’s plan to end Israel’s Gaza war was altered</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/PressKit_Imatge_27-500x500.jpg" alt="Rally Arcade Classics is a fun ’90s-throwback racing game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/rally-arcade-classics-is-a-fun-90s-throwback-racing-game/" target="_blank">Rally Arcade Classics is a fun ’90s-throwback racing game</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-03 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/03/leaked-doc-reveals-the-chaotic-politics-behind-trump-energy-department-cuts/" target="_blank">Leaked doc reveals the chaotic politics behind Trump Energy Department cuts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-03 15:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +156,20 @@
                 <span class="time">2025-10-03 13:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dfbf1423a810d9d7e48657/master/pass/GettyImages-2216837590.jpg" alt="ICE Wants to Build Out a 24/7 Social Media Surveillance Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/" target="_blank">ICE Wants to Build Out a 24/7 Social Media Surveillance Team</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-03 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama" target="_blank">I tried Amazon and Google’s new smart home gadgets, ask me anything!</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-03 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/m-a-h-b-u-b/from-zero-to-production-building-a-rest-api-with-nodejs-and-express-1el6" target="_blank">From Zero to Production: Building a REST API with Node.js and Express</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 15:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +215,6 @@
                 <span class="time">2025-10-03 13:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18672050&w=600" alt="Enabling Risk Management With AI/ML Powered by Cloud Native Data Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/risk-management-ai-ml-cloud-native-data" target="_blank">Enabling Risk Management With AI/ML Powered by Cloud Native Data Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/xbox-logo2.jpg" alt="Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/report-a-free-version-of-xbox-game-streaming-is-coming-but-with-ads-2000631520" target="_blank">Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Preparation_for_the_Witches_Sabbath_David_Teniers_II.jpg?fit=1200%2C814&amp;quality=60&amp;ssl=1" alt="Flying ointments: hallucinogenic salves, broomsticks, and medieval dream trips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/03/flying-ointments-hallucinogenic-salves-broomsticks-and-medieval-dream-trips.html" target="_blank">Flying ointments: hallucinogenic salves, broomsticks, and medieval dream trips</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-03 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6N6NT5BA2Z879ZAXQS7JZJD/hero-image.jpg" alt="Perplexity&#x27;s AI Browser Is Now Available for Free for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/perplexitys-ai-comet-browser-free?utm_medium=RSS" target="_blank">Perplexity&#x27;s AI Browser Is Now Available for Free for Everyone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-03 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/dell-pc.jpg" alt="Dell OptiPlex 7020 Mini PC Desktop Sees Record 71% Price Drop, Thousands Off Feels Like a Clearance Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,33 +288,6 @@
                 <span class="time">2025-10-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hp-windows.jpg" alt="HP May Be Clearing Stock at a Loss, 15.6″ Laptop Bundle Crashes Nearly 70% (64GB RAM, 2TB SSD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-may-be-clearing-stock-at-a-loss-15-6-laptop-bundle-crashes-nearly-70-64gb-ram-2tb-ssd-2000631176" target="_blank">HP May Be Clearing Stock at a Loss, 15.6″ Laptop Bundle Crashes Nearly 70% (64GB RAM, 2TB SSD)</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/AmazonFireTVSoundbar.jpg" alt="This Amazon Fire TV Soundbar Plus Has Never Been This Cheap Before, Almost Free for Prime Big Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-amazon-fire-tv-soundbar-plus-has-never-been-this-cheap-before-almost-free-for-prime-big-deal-days-2000631140" target="_blank">This Amazon Fire TV Soundbar Plus Has Never Been This Cheap Before, Almost Free for Prime Big Deal Days</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/odd-radio-ring-citizen-scientists-1280x853.jpg" alt="Citizen Scientists Spot a Perfect Extragalactic Venn Diagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/citizen-scientists-spot-a-perfect-extragalactic-venn-diagram-2000666907" target="_blank">Citizen Scientists Spot a Perfect Extragalactic Venn Diagram</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-03 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,31 +311,13 @@
                 <span class="time">2025-10-03 00:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/smarter/" target="_blank">Smarter</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-10-02 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1759360612-20251002.png" alt="Saturday Morning Breakfast Cereal - Priors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/priors" target="_blank">Saturday Morning Breakfast Cereal - Priors</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-02 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
