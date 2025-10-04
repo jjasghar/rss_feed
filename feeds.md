@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 21:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-04 22:01:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5562507/national-parks-government-shutdown" target="_blank">National parks caught in the crosshairs of government shutdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-04 21:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/federal-agent-chicago-gty-jt-251004_1759602720220_hpMain_4x3t_384.jpg" alt="Homeland Security requests National Guard to be sent to Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss" target="_blank">Police make 355 arrests at pro-Palestinian protest in London</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-04 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-parsons-middle-east_7041420.jpg?20251004152238" alt="Gunfire and explosions followed by unsettling silence: Sky News reports from inside Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gunfire-and-explosions-followed-by-unsettling-silence-sky-news-reports-from-inside-gaza-city-13444271" target="_blank">Gunfire and explosions followed by unsettling silence: Sky News reports from inside Gaza City</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-04 16:30</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/danielmx/starting-with-lucfox-lyra-zero-w-9ko" target="_blank">Starting With Luckfox Lyra Zero W</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-04 21:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd6wxkhxvlke8o3oqfujx.png" alt="Ingest data with a pipeline in Microsoft Fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,29 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/vercel-drains-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Introduces Drains for Unified Data Export</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-04 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsocstf61w20geoxbx9ul.png" alt="Building an Intelligent Document Processing Pipeline with AWS: S3 Textract Comprehend DynamoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lamkhac/building-an-intelligent-document-processing-pipeline-with-aws-s3-textract-comprehend--276g" target="_blank">Building an Intelligent Document Processing Pipeline with AWS: S3 Textract Comprehend DynamoDB</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 15:48</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html" target="_blank">Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-03 21:05</span>
             </div>
         </div>
 </div>
@@ -311,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
