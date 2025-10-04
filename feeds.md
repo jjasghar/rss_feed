@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 20:01:49 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-10-04 21:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/federal-agent-chicago-gty-jt-251004_1759602720220_hpMain_4x3t_384.jpg" alt="Homeland Security requests National Guard to be sent to Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/homeland-security-requests-national-guard-chicago-despite-protests/story?id=126218735" target="_blank">Homeland Security requests National Guard to be sent to Chicago</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-04 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png" alt="Hundreds arrested at Palestine Action protest in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss" target="_blank">Hundreds arrested at Palestine Action protest in London</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-04 19:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +101,20 @@
                 <span class="time">2025-10-04 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/4/gaza-protests-under-way-in-europe-as-arrests-made-in-london?traffic_source=rss" target="_blank">Gaza protests under way in Europe as arrests made in London</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-04 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e94/live/7548e480-a112-11f0-807b-c1a7ae4b635d.jpg" alt="Shock in Gaza as Trump appears to welcome Hamas response to US peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c15k199j1x3o?at_medium=RSS&at_campaign=rss" target="_blank">Shock in Gaza as Trump appears to welcome Hamas response to US peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-04 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/54717981613_dab21dfbc3_k-500x500.jpg" alt="Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/pentagon-contract-figures-show-ulas-vulcan-rocket-is-getting-more-expensive/" target="_blank">Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-04 19:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +160,20 @@
                 <span class="time">2025-10-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/" target="_blank">Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-04 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd6wxkhxvlke8o3oqfujx.png" alt="Ingest data with a pipeline in Microsoft Fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lotanna_obianefo/ingest-data-with-a-pipeline-in-microsoft-fabric-2cfo" target="_blank">Ingest data with a pipeline in Microsoft Fabric</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-04 20:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +219,6 @@
                 <span class="time">2025-10-04 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned" target="_blank">Many Debian/Ubuntu Packages For Intel Accelerators &amp; Other Intel Software Have Been Orphaned</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-04 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,12 +239,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/dungeons-dragons-hed-1280x853.jpg" alt="‘Payday’ Dev Starbreeze Kills Co-Op ‘Dungeons &amp; Dragons’ Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/payday-dev-starbreeze-kills-co-op-dungeons-dragons-game-2000667433" target="_blank">‘Payday’ Dev Starbreeze Kills Co-Op ‘Dungeons &amp; Dragons’ Game</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-04 20:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/daredevil-born-again-season-1-finale-1280x853.jpg" alt="‘Daredevil: Born Again’ Almost Had an Echo/Punisher Teamup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/daredevil-born-again-almost-had-an-echo-punisher-teamup-2000667514" target="_blank">‘Daredevil: Born Again’ Almost Had an Echo/Punisher Teamup</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-04 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/tina-turner.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Tina Turner statue dismays fans: &quot;Simply the worst&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/04/tina-turner-statue-dismays-fans-simply-the-worst.html" target="_blank">Tina Turner statue dismays fans: &quot;Simply the worst&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-04 18:07</span>
             </div>
         </div>
 <div class="story">
@@ -276,24 +292,6 @@
                 <span class="time">2025-10-04 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/p0b3kks7.jpg?fit=640%2C360&amp;quality=60&amp;ssl=1" alt="Dame Patricia Routledge kicks the bouquet at 96" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/04/dame-patricia-routledge-kicks-the-bouquet-at-96.html" target="_blank">Dame Patricia Routledge kicks the bouquet at 96</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-04 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/harry-potter-hogwarts-caste-lego-set.jpg" alt="Harry Potter’s Heirs Would Hate This, LEGO Is Selling the Hogwarts Castle Set for Pennies on the Dollar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/harry-potters-heirs-would-hate-this-lego-is-selling-the-hogwarts-castle-set-for-pennies-on-the-dollar-2000631765" target="_blank">Harry Potter’s Heirs Would Hate This, LEGO Is Selling the Hogwarts Castle Set for Pennies on the Dollar</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-04 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
