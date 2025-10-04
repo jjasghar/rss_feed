@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 19:01:28 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-04 20:01:49 UTC -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5562600/trump-hamas-gaza-peace-plan" target="_blank">Trump urges Hamas to &#x27;move quickly&#x27; on Gaza peace plan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-04 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/4/populist-billionaire-andrej-babiss-party-set-to-win-czech-election?traffic_source=rss" target="_blank">Populist billionaire Andrej Babis’s party set to win Czech election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-04 17:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png" alt="Police make 355 arrests at pro-Palestinian protest in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +103,6 @@
                 <span class="time">2025-10-04 13:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/04/nx-s1-5562517/aca-obamacare-shutdown-trump-naic-health-insurance" target="_blank">Time is short for an ACA premium fix in the shutdown fight, says GOP insurance leader</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-04 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/20251004-gaza-strip-jj-944a-dca2d5.jpg" alt="Israel strikes Gaza despite ceasefire progress after Trump calls for bombing to stop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israel-strikes-gaza-trump-calls-stop-bombing-rcna235583" target="_blank">Israel strikes Gaza despite ceasefire progress after Trump calls for bombing to stop</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-04 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -117,6 +124,15 @@
                 <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025-2/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-04 17:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale" target="_blank">This week&amp;#8217;s best deal is a &amp;#8216;kids&amp;#8217; Kindle Paperwhite that&amp;#8217;s better than the adult version</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-04 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -146,20 +162,20 @@
                 <span class="time">2025-10-04 15:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale" target="_blank">Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-04 14:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/DebarghaG/proofofthought" target="_blank">Use theorem provers to ensure the correctness of your LLM&#x27;s reasoning</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-04 18:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned" target="_blank">Many Debian/Ubuntu Packages For Intel Accelerators &amp; Other Intel Software Have Been Orphaned</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-04 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bibimbop123/the-complete-guide-to-validations-in-rails-1o60" target="_blank">🧠 The Complete Guide to Validations in Rails</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 13:47</span>
             </div>
         </div>
 </div>
@@ -301,22 +308,13 @@
                 <span class="time">2025-10-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/03/enervator" target="_blank">Enervator</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-03 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
