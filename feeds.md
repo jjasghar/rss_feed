@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 03:07:36 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-04 04:01:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 03:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -160,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/lrr-sept-25.jpg?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (September 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/linux-app-release-roundup-september-2025" target="_blank">Linux App Release Roundup (September 2025)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-04 03:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6dfrk7gp6aj42prdy5e3.png" alt="CRUD Operations in MongoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +216,6 @@
                 <span class="time">2025-10-03 21:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/" target="_blank">Offline card payments should be possible no later than 1 July 2026</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-03 20:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/star-wars-r2d2-lego.jpg" alt="LEGO Is Going All In, Its 4.9-Rated Star Wars R2-D2 Set Is Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-is-going-all-in-its-4-9-rated-star-wars-r2-d2-set-is-selling-for-pennies-2000631589" target="_blank">LEGO Is Going All In, Its 4.9-Rated Star Wars R2-D2 Set Is Selling for Pennies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-04 02:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/ugreen-65-w-wall-charger.jpg" alt="This 65W Wall Charger Is 44% Off on Amazon, and It Juices Up Your Mac and iPhone at Once﻿" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,21 +281,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/shutterstock_202742458-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Sean &quot;Diddy&quot; Combs jailed for 4 years and 2 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/71opOAviSkL._AC_SL1500_.jpg?fit=1492%2C932&amp;quality=60&amp;ssl=1" alt="Wacom One 14 pen display has a bigger screen and smaller price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/03/sean-diddy-combs-jailed-for-4-years-and-2-months.html" target="_blank">Sean &quot;Diddy&quot; Combs jailed for 4 years and 2 months</a></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/03/wacom-one-14-pen-display-has-a-bigger-screen-and-smaller-price.html" target="_blank">Wacom One 14 pen display has a bigger screen and smaller price</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-03 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/mark-hamill-best-sci-fi-fantasy-horror-roles-1280x853.jpg" alt="Mark Hamill’s Best Genre Roles (That Aren’t Luke Skywalker)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mark-hamills-best-genre-roles-that-arent-luke-skywalker-2000666858" target="_blank">Mark Hamill’s Best Genre Roles (That Aren’t Luke Skywalker)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-03 21:15</span>
+                <span class="time">2025-10-03 22:43</span>
             </div>
         </div>
 </div>
@@ -318,22 +321,13 @@
                 <span class="time">2025-10-03 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/ping.png" alt="Ping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3150/" target="_blank">Ping</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-10-03 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 03:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
