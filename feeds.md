@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 18:01:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-04 19:01:28 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 18:02 UTC</div>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/" target="_blank">Anker offered Eufy camera owners $2 per video for AI training</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-04 18:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/master/pass/EARLY%20PRIME%20DAY%20DEALS_A.jpg" alt="40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,15 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale" target="_blank">Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-04 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/791595/instagram-uploading-features-content" target="_blank">Instagram wants me to make content — I just want to post a photo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-04 14:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/daredevil-born-again-season-1-finale-1280x853.jpg" alt="‘Daredevil: Born Again’ Almost Had an Echo/Punisher Teamup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-almost-had-an-echo-punisher-teamup-2000667514" target="_blank">‘Daredevil: Born Again’ Almost Had an Echo/Punisher Teamup</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-04 18:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Sams-Club.jpg" alt="Sam’s Club 1-Year Membership Is Practically Free With 70% Off, the Cheapest Costco Alternative Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -257,6 +261,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Rosetta-Stone-1.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="I finally committed to learning a language—my secret weapon is Rosetta Stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/04/i-finally-committed-to-learning-a-language-my-secret-weapon-is-rosetta-stone.html" target="_blank">I finally committed to learning a language—my secret weapon is Rosetta Stone</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/p0b3kks7.jpg?fit=640%2C360&amp;quality=60&amp;ssl=1" alt="Dame Patricia Routledge kicks the bouquet at 96" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -272,24 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/harry-potters-heirs-would-hate-this-lego-is-selling-the-hogwarts-castle-set-for-pennies-on-the-dollar-2000631765" target="_blank">Harry Potter’s Heirs Would Hate This, LEGO Is Selling the Hogwarts Castle Set for Pennies on the Dollar</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-04 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Inversion-Space-Arc-1280x853.jpg" alt="Space Startup Wants to Deliver Cargo Anywhere on Earth in One Hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/space-startup-wants-to-deliver-cargo-anywhere-on-earth-in-one-hour-2000667241" target="_blank">Space Startup Wants to Deliver Cargo Anywhere on Earth in One Hour</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/pokemon-card.jpg" alt="After Selling Out, Amazon Brings Back 50-Pack Pokemon Cards at a New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/after-selling-out-amazon-brings-back-50-pack-pokemon-cards-at-a-new-record-low-2000631600" target="_blank">After Selling Out, Amazon Brings Back 50-Pack Pokemon Cards at a New Record Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-04 11:25</span>
             </div>
         </div>
 </div>
@@ -320,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
