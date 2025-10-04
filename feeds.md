@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 22:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-04 23:01:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +49,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/4/is-an-end-to-war-in-sight-in-gaza?traffic_source=rss" target="_blank">Is an end to war in sight in Gaza?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-04 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5562507/national-parks-government-shutdown" target="_blank">National parks caught in the crosshairs of government shutdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-04 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png" alt="Nearly 500 arrested at Palestine Action protest in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss" target="_blank">Nearly 500 arrested at Palestine Action protest in London</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-04 21:03</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +100,20 @@
                 <span class="time">2025-10-04 19:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/4/populist-billionaire-andrej-babiss-party-set-to-win-czech-election?traffic_source=rss" target="_blank">Populist billionaire Andrej Babis’s party set to win Czech election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-04 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png" alt="Police make 355 arrests at pro-Palestinian protest in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss" target="_blank">Police make 355 arrests at pro-Palestinian protest in London</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-04 17:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/" target="_blank">A breach every month raises doubts about South Korea’s digital defenses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-04 21:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/54717981613_dab21dfbc3_k-500x500.jpg" alt="Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +159,20 @@
                 <span class="time">2025-10-04 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify" target="_blank">Daniel Ek stepping down changes nothing for Spotify</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-javascript-snippets-59on" target="_blank">50 Most Useful JavaScript Snippets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-04 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,6 +195,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/DebarghaG/proofofthought" target="_blank">ProofOfThought: LLM-based reasoning using Z3 theorem proving</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-04 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/DebarghaG/proofofthought" target="_blank">Use theorem provers to ensure the correctness of your LLM&#x27;s reasoning</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-04 18:34</span>
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/system-design-for-agentic-ai-projects-what-to-do-what-not-to-do-and-when-17kp" target="_blank">System Design for Agentic AI Projects: What to Do, What Not to Do, and When</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-04 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpto2ibuicbu2vxnajhhd.PNG" alt="Cursor + Trigger in MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/atheeba_parveenja24cb0/cursor-trigger-in-mysql-1epg" target="_blank">Cursor + Trigger in MySQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/vercel-drains-observability/en/headerimage/generatedHeaderImage-1759423220989.jpg" alt="Vercel Introduces Drains for Unified Data Export" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/vercel-drains-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Introduces Drains for Unified Data Export</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-04 16:35</span>
             </div>
         </div>
 </div>
@@ -299,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
