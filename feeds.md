@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 13:04:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-04 14:01:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 13:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/4/india-vs-pakistan-icc-womens-world-cup-match-time-handshake-row-rain?traffic_source=rss" target="_blank">India vs Pakistan – ICC Women’s World Cup: Match time, handshake row, rain</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-04 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg" alt="At least 30 injured in Russian strike on railway station, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss" target="_blank">At least 30 injured in Russian strike on railway station, Zelensky says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-04 13:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +104,29 @@
                 <span class="time">2025-10-04 09:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-train-strike_7040934.png?20251004114253" alt="Dozens injured after Russian drone strike on Ukrainian railway station" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-30-injured-after-savage-russian-drone-strike-on-ukrainian-railway-station-zelenskyy-says-13444010" target="_blank">Dozens injured after Russian drone strike on Ukrainian railway station</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-04 09:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250929121058" alt="At least 30 injured after &#x27;savage&#x27; Russian drone strike on Ukrainian railway station, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-30-injured-after-savage-russian-drone-strike-on-ukrainian-railway-station-zelenskyy-says-13444010" target="_blank">At least 30 injured after &#x27;savage&#x27; Russian drone strike on Ukrainian railway station, Zelenskyy says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-04 09:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/791595/instagram-uploading-features-content" target="_blank">Instagram wants me to make content — I just want to post a photo</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/04/teslas-insurance-arm-accused-of-egregious-delays-and-systemic-failures-by-ca-regulator/" target="_blank">Tesla’s insurance arm accused of ‘egregious delays’ and ‘systemic failures’ by CA regulator</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-04 13:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e03c9d1e02f28f7673efb6/master/pass/The%20Best%20MagSafe%20Phone%20Grips.png" alt="7 Best MagSafe Phone Grips (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +163,29 @@
                 <span class="time">2025-10-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6830e72347797e411f30e85b/master/pass/The%20Best%20Coffee%20Pod%20Machines%20for%20Hot%20and%20Cold%20Brew.png" alt="8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-pod-coffee-makers/" target="_blank">8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-04 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e0778331ef4c178fea6ef9/master/pass/Gear%20News%20of%20the%20Week%20October%204.png" alt="Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-adobe-premiere-lands-on-iphone-and-nothing-lets-you-design-your-own-widgets/" target="_blank">Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-04 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bibimbop123/the-complete-guide-to-validations-in-rails-1o60" target="_blank">🧠 The Complete Guide to Validations in Rails</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-04 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/" target="_blank">Circular Financing: Does Nvidia&#x27;s $110B Bet Echo the Telecom Bubble?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-04 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +222,6 @@
                 <span class="time">2025-10-04 09:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/aws-ec2-m4-mac/en/headerimage/generatedHeaderImage-1758614087844.jpg" alt="AWS Introduces M4 and M4 Pro Mac Instances for Faster Apple App Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/aws-ec2-m4-mac/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces M4 and M4 Pro Mac Instances for Faster Apple App Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-04 07:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://essenceia.github.io/projects/alibaba_cloud_fpga/" target="_blank">Alibaba cloud FPGA: the $200 Kintex UltraScale+</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-04 06:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Inversion-Space-Arc-1280x853.jpg" alt="Space Startup Wants to Deliver Cargo Anywhere on Earth in One Hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/space-startup-wants-to-deliver-cargo-anywhere-on-earth-in-one-hour-2000667241" target="_blank">Space Startup Wants to Deliver Cargo Anywhere on Earth in One Hour</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/pokemon-card.jpg" alt="After Selling Out, Amazon Brings Back 50-Pack Pokemon Cards at a New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +295,6 @@
                 <span class="time">2025-10-03 23:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/final-fantasy-tactics-argath-1280x853.jpg" alt="In ‘Final Fantasy Tactics’, Throwing Rocks at Assholes Is Solidarity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/final-fantasy-tactics-throw-stone-argath-2000667503" target="_blank">In ‘Final Fantasy Tactics’, Throwing Rocks at Assholes Is Solidarity</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-03 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 13:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
