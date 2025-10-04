@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 17:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-04 18:01:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png" alt="Police make 355 arrests at pro-Palestinian protest in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss" target="_blank">Police make 355 arrests at pro-Palestinian protest in London</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-04 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-parsons-middle-east_7041420.jpg?20251004152238" alt="Gunfire and explosions followed by unsettling silence: Sky News reports from inside Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +101,20 @@
                 <span class="time">2025-10-04 13:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/4/india-vs-pakistan-icc-womens-world-cup-match-time-handshake-row-rain?traffic_source=rss" target="_blank">India vs Pakistan – ICC Women’s World Cup: Match time, handshake row, rain</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-04 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/master/pass/EARLY%20PRIME%20DAY%20DEALS_A.jpg" alt="40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025-2/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-04 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +160,20 @@
                 <span class="time">2025-10-04 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/04/teslas-insurance-arm-accused-of-egregious-delays-and-systemic-failures-by-ca-regulator/" target="_blank">Tesla’s insurance arm accused of ‘egregious delays’ and ‘systemic failures’ by CA regulator</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-04 13:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/system-design-for-agentic-ai-projects-what-to-do-what-not-to-do-and-when-17kp" target="_blank">System Design for Agentic AI Projects: What to Do, What Not to Do, and When</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-04 17:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpto2ibuicbu2vxnajhhd.PNG" alt="Cursor + Trigger in MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="time">2025-10-04 13:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/" target="_blank">Circular Financing: Does Nvidia&#x27;s $110B Bet Echo the Telecom Bubble?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-04 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Sams-Club.jpg" alt="Sam’s Club 1-Year Membership Is Practically Free With 70% Off, the Cheapest Costco Alternative Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sams-club-1-year-membership-is-practically-free-with-70-off-the-cheapest-costco-alternative-yet-2000631657" target="_blank">Sam’s Club 1-Year Membership Is Practically Free With 70% Off, the Cheapest Costco Alternative Yet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-04 16:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/The-Batman-Matt-Reeves-Robert-Pattinson-1280x853.jpg" alt="‘The Batman II’ Should Be Out This Weekend. Why Do We Care?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +292,6 @@
                 <span class="time">2025-10-04 11:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/lego-game-boy-review-06-1280x853.jpg" alt="Lego Game Boy Review: The Designers Share All the Secrets to the Fun, Nostalgic Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-game-boy-review-the-designers-share-all-the-secrets-to-the-fun-nostalgic-set-2000667492" target="_blank">Lego Game Boy Review: The Designers Share All the Secrets to the Fun, Nostalgic Set</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-04 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
