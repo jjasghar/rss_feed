@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 14:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-04 15:01:57 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e94/live/7548e480-a112-11f0-807b-c1a7ae4b635d.jpg" alt="Shock in Gaza as Trump appears to welcome Hamas response to US peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c15k199j1x3o?at_medium=RSS&at_campaign=rss" target="_blank">Shock in Gaza as Trump appears to welcome Hamas response to US peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-04 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/20251004-gaza-strip-jj-944a-dca2d5.jpg" alt="Israel strikes Gaza despite ceasefire progress after Trump calls for bombing to stop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israel-strikes-gaza-trump-calls-stop-bombing-rcna235583" target="_blank">Israel strikes Gaza despite ceasefire progress after Trump calls for bombing to stop</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-04 13:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +100,20 @@
                 <span class="time">2025-10-04 11:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5550317/venezuela-prisoners-hostages" target="_blank">As U.S. pressure mounts, Venezuela&#x27;s foreign &#x27;hostages&#x27; face growing uncertainty</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab3/live/488be5a0-a10d-11f0-b741-177e3e2c2fc7.jpg" alt="Wind and rain warnings as Storm Amy hits UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss" target="_blank">Wind and rain warnings as Storm Amy hits UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-04 09:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale" target="_blank">Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-04 14:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-toiletry-bags/" target="_blank">14 Best Travel Toiletry Bags, Tested Over Many Miles (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-04 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1291355003-500x500.jpg" alt="How different mushrooms learned the same psychedelic trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/how-different-mushrooms-learned-the-same-psychedelic-trick/" target="_blank">How different mushrooms learned the same psychedelic trick</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-04 11:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
