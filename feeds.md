@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 07:02:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-04 08:02:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 1 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +59,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/combs-7-rt-er-251003_1759529609819_hpMain_4x3t_384.jpg" alt="Diddy&#x27;s lawyers allege judge &#x27;acted as a 13th juror,&#x27; vow to appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/sean-diddy-combs-lawyers-allege-judge-acted-13th/story?id=126205254" target="_blank">Diddy&#x27;s lawyers allege judge &#x27;acted as a 13th juror,&#x27; vow to appeal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-04 02:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,15 +92,6 @@
                 <span class="title"><a href="https://abcnews.go.com/GMA/Culture/cassie-ventura-speaks-after-sean-diddy-combs-sentencing/story?id=126201095" target="_blank">Cassie Ventura&#x27;s lawyer speaks out after Sean &#x27;Diddy&#x27; Combs&#x27; sentencing</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-03 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2df8/live/229cc4c0-a0a6-11f0-a678-e375131d5a07.jpg" alt="&#x27;I love you, I&#x27;m sorry&#x27;: What Sean &#x27;Diddy&#x27; Combs did the moment he learned his sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62z19lpwd2o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I love you, I&#x27;m sorry&#x27;: What Sean &#x27;Diddy&#x27; Combs did the moment he learned his sentence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-03 22:14</span>
             </div>
         </div>
 </div>
@@ -321,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
