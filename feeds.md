@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 12:02:21 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-04 13:04:54 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 13:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5554848/opinion-jane-goodall-helped-humans-understand-their-place-in-the-world" target="_blank">Opinion: Jane Goodall helped humans understand their place in the world</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-04 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2025/10/4/smear-kill-repeat?traffic_source=rss" target="_blank">Smear. Kill. Repeat.</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -61,6 +67,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5550317/venezuela-prisoners-hostages" target="_blank">As U.S. pressure mounts, Venezuela&#x27;s foreign &#x27;hostages&#x27; face growing uncertainty</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab3/live/488be5a0-a10d-11f0-b741-177e3e2c2fc7.jpg" alt="Wind and rain warnings as Storm Amy hits UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss" target="_blank">Wind and rain warnings as Storm Amy hits UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-04 09:39</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +96,29 @@
                 <span class="time">2025-10-04 09:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/4/death-toll-from-indonesia-school-collapse-rises-to-14-as-more-victims-found?traffic_source=rss" target="_blank">Death toll from Indonesia school collapse rises to 14 as more victims found</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-04 08:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/4/who-are-the-candidates-running-to-be-japans-next-prime-minister?traffic_source=rss" target="_blank">Who are the candidates running to be Japan’s next prime minister?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-04 05:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e03c9d1e02f28f7673efb6/master/pass/The%20Best%20MagSafe%20Phone%20Grips.png" alt="7 Best MagSafe Phone Grips (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-grips/" target="_blank">7 Best MagSafe Phone Grips (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/791220/consume-me-review-steam" target="_blank">Consume Me is a raw and funny memoir in video game form</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/682e3843c1db3fd9eacdf22f/master/pass/The-Best-Toiletry-Bags.jpg" alt="14 Best Travel Toiletry Bags, Tested Over Many Miles (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +126,15 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-toiletry-bags/" target="_blank">14 Best Travel Toiletry Bags, Tested Over Many Miles (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-04 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1291355003-500x500.jpg" alt="How different mushrooms learned the same psychedelic trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/how-different-mushrooms-learned-the-same-psychedelic-trick/" target="_blank">How different mushrooms learned the same psychedelic trick</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-04 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -131,38 +155,20 @@
                 <span class="time">2025-10-04 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/" target="_blank">Bezos predicts that millions will live in space kind of soon</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-04 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro" target="_blank">Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-04 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack" target="_blank">Discord customer service data breach leaks user info and scanned photo IDs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-03 23:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer" target="_blank">Scientists are discovering a powerful new way to prevent cancer (Economist)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-04 11:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5jxlvu74vv2ci1hv6ob.png" alt="Configuring Multi-Language Website SEO with Hugo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://essenceia.github.io/projects/alibaba_cloud_fpga/" target="_blank">Alibaba cloud FPGA: the $200 Kintex UltraScale+</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-04 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hery_niainatahinarakoto/a-financial-management-dashboard-with-react-tailwind-css-uishadcn-django-and-postgresql-3l6a" target="_blank">A financial management dashboard with React, Tailwind CSS, Ui.shadcn, Django and PostgreSQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 05:56</span>
             </div>
         </div>
 </div>
@@ -318,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 13:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
