@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 11:01:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-04 12:02:21 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2025/10/4/smear-kill-repeat?traffic_source=rss" target="_blank">Smear. Kill. Repeat.</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-04 11:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5550317/venezuela-prisoners-hostages" target="_blank">As U.S. pressure mounts, Venezuela&#x27;s foreign &#x27;hostages&#x27; face growing uncertainty</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-train-strike_7040934.png?20251004114253" alt="Dozens injured after Russian drone strike on Ukrainian railway station" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +99,20 @@
                 <span class="time">2025-10-04 05:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-gaza_7040790.jpg?20251004044430" alt="Why Trump accepted the Hamas peace plan response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/if-hamas-and-israel-agree-on-a-peace-deal-it-will-be-donald-trumps-success-13443923" target="_blank">Why Trump accepted the Hamas peace plan response</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-04 03:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/combs-7-rt-er-251003_1759529609819_hpMain_4x3t_384.jpg" alt="Diddy&#x27;s lawyers allege judge &#x27;acted as a 13th juror,&#x27; vow to appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/sean-diddy-combs-lawyers-allege-judge-acted-13th/story?id=126205254" target="_blank">Diddy&#x27;s lawyers allege judge &#x27;acted as a 13th juror,&#x27; vow to appeal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-04 02:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/682e3843c1db3fd9eacdf22f/master/pass/The-Best-Toiletry-Bags.jpg" alt="14 Best Travel Toiletry Bags, Tested Over Many Miles (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-toiletry-bags/" target="_blank">14 Best Travel Toiletry Bags, Tested Over Many Miles (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-04 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6830e72347797e411f30e85b/master/pass/The%20Best%20Coffee%20Pod%20Machines%20for%20Hot%20and%20Cold%20Brew.png" alt="8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="time">2025-10-03 23:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/" target="_blank">With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-03 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -187,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/aws-ec2-m4-mac/en/headerimage/generatedHeaderImage-1758614087844.jpg" alt="AWS Introduces M4 and M4 Pro Mac Instances for Faster Apple App Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/aws-ec2-m4-mac/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces M4 and M4 Pro Mac Instances for Faster Apple App Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-04 07:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -202,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/hery_niainatahinarakoto/a-financial-management-dashboard-with-react-tailwind-css-uishadcn-django-and-postgresql-3l6a" target="_blank">A financial management dashboard with React, Tailwind CSS, Ui.shadcn, Django and PostgreSQL</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-04 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0k3dvv7gcjdxc9g1qbjj.png" alt="What is a Cronjob and understanding syntax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aasik_20409e3305686b324ec/what-is-a-cronjob-and-understanding-syntax-2p6p" target="_blank">What is a Cronjob and understanding syntax</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 04:47</span>
             </div>
         </div>
 </div>
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/pokemon-card.jpg" alt="After Selling Out, Amazon Brings Back 50-Pack Pokemon Cards at a New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/after-selling-out-amazon-brings-back-50-pack-pokemon-cards-at-a-new-record-low-2000631600" target="_blank">After Selling Out, Amazon Brings Back 50-Pack Pokemon Cards at a New Record Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-04 11:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/lego-game-boy-review-06-1280x853.jpg" alt="Lego Game Boy Review: The Designers Share All the Secrets to the Fun, Nostalgic Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2025-10-03 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/KPop-Demon-Hunters-Netflix-trio-1280x853.jpg" alt="5 Things We Want to See in a ‘KPop Demon Hunters’ Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/5-things-we-want-to-see-in-a-kpop-demon-hunters-sequel-2000667044" target="_blank">5 Things We Want to See in a ‘KPop Demon Hunters’ Sequel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-03 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
