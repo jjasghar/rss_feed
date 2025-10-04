@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 00:04:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-04 01:28:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/03/nx-s1-5561999/apple-google-iceblock-app-removal" target="_blank">Legal experts condemn Apple bowing to White House&#x27;s request to remove ICE tracking app</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-03 23:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/GMA/cassie-ventura-2-gty-gmh-250930_1759259216581_hpMain_4x3t_384.jpg" alt="Cassie Ventura&#x27;s lawyer speaks out after Sean &#x27;Diddy&#x27; Combs&#x27; sentencing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/GMA/Culture/cassie-ventura-speaks-after-sean-diddy-combs-sentencing/story?id=126201095" target="_blank">Cassie Ventura&#x27;s lawyer speaks out after Sean &#x27;Diddy&#x27; Combs&#x27; sentencing</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-03 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2df8/live/229cc4c0-a0a6-11f0-a678-e375131d5a07.jpg" alt="&#x27;I love you, I&#x27;m sorry&#x27;: What Sean &#x27;Diddy&#x27; Combs did the moment he learned his sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62z19lpwd2o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I love you, I&#x27;m sorry&#x27;: What Sean &#x27;Diddy&#x27; Combs did the moment he learned his sentence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-03 22:14</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-sentencing-live-updates/?id=126081824" target="_blank">Sean &#x27;Diddy&#x27; Combs sentencing live updates: Combs gets 50 months in prison</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-03 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/3/police-say-one-victim-possibly-shot-by-officer-during-manchester-attack?traffic_source=rss" target="_blank">Police say one victim possibly shot by officer during Manchester attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-03 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759523390116_nbc_spec_engel_hamas_251003_1920x1080-54yt96.jpg" alt="Hamas agrees to release all Israeli hostages, alive and dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/hamas-agrees-to-release-all-israeli-hostages-alive-and-dead-249037893867" target="_blank">Hamas agrees to release all Israeli hostages, alive and dead</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-03 20:29</span>
             </div>
         </div>
 </div>
@@ -183,10 +183,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://peps.python.org/pep-0810/" target="_blank">PEP 810 – Explicit lazy imports | peps.python.org</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-03 22:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jmegnidro/votre-site-charge-t-il-en-moins-de-2-s--4mdd" target="_blank">Votre site charge-t-il en moins de 2 s ?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-03 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/" target="_blank">Offline card payments should be possible no later than 1 July 2026</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-03 20:36</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/linux-mint-is-improving-keyboard-layout-switching-in-cinnamon-desktop" target="_blank">Linux Mint is Improving Keyboard Layout Switching in Cinnamon Desktop</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-03 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131" target="_blank">PEP 810: Explicit lazy imports</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-03 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz3ldu9prm37cuwcltnvp.png" alt="Game-Changing Tools Reshaping Frontend Engineering 🤩" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/martygo/game-changing-tools-reshaping-frontend-engineering-7oi" target="_blank">Game-Changing Tools Reshaping Frontend Engineering 🤩</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 19:47</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/ugreen-65-w-wall-charger.jpg" alt="This 65W Wall Charger Is 44% Off on Amazon, and It Juices Up Your Mac and iPhone at Once﻿" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-65w-wall-charger-is-44-off-on-amazon-and-it-juices-up-your-mac-and-iphone-at-once-2000631566" target="_blank">This 65W Wall Charger Is 44% Off on Amazon, and It Juices Up Your Mac and iPhone at Once﻿</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-04 00:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Mac-Mini.jpg" alt="Mac Mini M4 Is Going for Pennies, Apple Is Quietly Offloading Stock on Amazon﻿" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="time">2025-10-03 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Kingmaker.jpg" alt="Viral Medieval Shooter With Giant Armies Gets Indefinitely Delayed Just Days Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingmakers-delay-medieval-shooter-steam-early-access-date-2000631559" target="_blank">Viral Medieval Shooter With Giant Armies Gets Indefinitely Delayed Just Days Before Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 19:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,22 +330,13 @@
                 <span class="time">2025-10-03 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5671.png" alt="Basically Inevitable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5671" target="_blank">Basically Inevitable</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-03 00:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 289 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
