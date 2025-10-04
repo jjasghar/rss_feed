@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 15:01:57 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-04 16:01:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +53,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c15k199j1x3o?at_medium=RSS&at_campaign=rss" target="_blank">Shock in Gaza as Trump appears to welcome Hamas response to US peace plan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-04 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/04/nx-s1-5562517/aca-obamacare-shutdown-trump-naic-health-insurance" target="_blank">Time is short for an ACA premium fix in the shutdown fight, says GOP insurance leader</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-04 13:56</span>
             </div>
         </div>
 <div class="story">
@@ -91,20 +100,29 @@
                 <span class="time">2025-10-04 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2025/10/4/smear-kill-repeat?traffic_source=rss" target="_blank">Smear. Kill. Repeat.</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-04 11:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify" target="_blank">Daniel Ek stepping down changes nothing for Spotify</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/" target="_blank">Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-04 15:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +159,29 @@
                 <span class="time">2025-10-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/791220/consume-me-review-steam" target="_blank">Consume Me is a raw and funny memoir in video game form</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/682e3843c1db3fd9eacdf22f/master/pass/The-Best-Toiletry-Bags.jpg" alt="14 Best Travel Toiletry Bags, Tested Over Many Miles (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-toiletry-bags/" target="_blank">14 Best Travel Toiletry Bags, Tested Over Many Miles (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-04 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsocstf61w20geoxbx9ul.png" alt="Building an Intelligent Document Processing Pipeline with AWS: S3 Textract Comprehend DynamoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lamkhac/building-an-intelligent-document-processing-pipeline-with-aws-s3-textract-comprehend--276g" target="_blank">Building an Intelligent Document Processing Pipeline with AWS: S3 Textract Comprehend DynamoDB</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-04 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned" target="_blank">Many Debian/Ubuntu Packages For Intel Accelerators &amp; Other Intel Software Have Been Orphaned</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-04 14:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="time">2025-10-04 10:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cairo-Dock-3.6-Released" target="_blank">Cairo-Dock 3.6 Released With Wayland Support &amp; HiDPI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-04 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-IOMMU" target="_blank">Linux 6.18 IOMMU Changes For Intel, AMD, Apple &amp; RISC-V</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-04 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/p0b3kks7.jpg?fit=640%2C360&amp;quality=60&amp;ssl=1" alt="Dame Patricia Routledge kicks the bouquet at 96" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/04/dame-patricia-routledge-kicks-the-bouquet-at-96.html" target="_blank">Dame Patricia Routledge kicks the bouquet at 96</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-04 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/harry-potter-hogwarts-caste-lego-set.jpg" alt="Harry Potter’s Heirs Would Hate This, LEGO Is Selling the Hogwarts Castle Set for Pennies on the Dollar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/harry-potters-heirs-would-hate-this-lego-is-selling-the-hogwarts-castle-set-for-pennies-on-the-dollar-2000631765" target="_blank">Harry Potter’s Heirs Would Hate This, LEGO Is Selling the Hogwarts Castle Set for Pennies on the Dollar</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-04 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Inversion-Space-Arc-1280x853.jpg" alt="Space Startup Wants to Deliver Cargo Anywhere on Earth in One Hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +291,20 @@
                 <span class="time">2025-10-04 02:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ugreen-65-w-wall-charger.jpg" alt="This 65W Wall Charger Is 44% Off on Amazon, and It Juices Up Your Mac and iPhone at Once﻿" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-65w-wall-charger-is-44-off-on-amazon-and-it-juices-up-your-mac-and-iphone-at-once-2000631566" target="_blank">This 65W Wall Charger Is 44% Off on Amazon, and It Juices Up Your Mac and iPhone at Once﻿</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-04 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Mac-Mini.jpg" alt="Mac Mini M4 Is Going for Pennies, Apple Is Quietly Offloading Stock on Amazon﻿" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mac-mini-m4-is-going-for-pennies-apple-is-quietly-offloading-stock-on-amazon-2000631565" target="_blank">Mac Mini M4 Is Going for Pennies, Apple Is Quietly Offloading Stock on Amazon﻿</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-03 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1759549236-20251004.png" alt="Saturday Morning Breakfast Cereal - So" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/so" target="_blank">Saturday Morning Breakfast Cereal - So</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -305,22 +314,13 @@
                 <span class="time">2025-10-03 19:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1759360812-20251003.png" alt="Saturday Morning Breakfast Cereal - AAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/aaa" target="_blank">Saturday Morning Breakfast Cereal - AAA</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
