@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-03 23:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-04 00:04:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, October 03, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
                 <span class="title"><a href="https://abcnews.go.com/GMA/Culture/cassie-ventura-speaks-after-sean-diddy-combs-sentencing/story?id=126201095" target="_blank">Cassie Ventura&#x27;s lawyer speaks out after Sean &#x27;Diddy&#x27; Combs&#x27; sentencing</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-03 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7014/live/b50aaa10-a09d-11f0-85af-1377c963b9be.jpg" alt="Synagogue attacker was on bail after rape arrest, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly97ervz1zo?at_medium=RSS&at_campaign=rss" target="_blank">Synagogue attacker was on bail after rape arrest, police say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-03 22:02</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +98,6 @@
                 <span class="time">2025-10-03 20:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759522694492_nbc_spec_itay_father_251003_1920x1080-rtsvea.jpg" alt="Father of American hostage credits Trump and Witkoff for Hamas agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/father-of-american-hostage-credits-trump-and-witkoff-for-hamas-agreement-249037381678" target="_blank">Father of American hostage credits Trump and Witkoff for Hamas agreement</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-03 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,10 +106,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack" target="_blank">Discord customer service data breach leaks user info and scanned photo IDs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-03 23:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/" target="_blank">With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-03 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2238395456-500x500.jpg" alt="Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/" target="_blank">Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-03 21:56</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +157,20 @@
                 <span class="time">2025-10-03 19:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dff575a442efb1aa235cbc/master/pass/badbunny-maga-cul-2213606828.jpg" alt="Bad Bunny Has MAGA All Worked Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bad-bunny-has-maga-all-worked-up/" target="_blank">Bad Bunny Has MAGA All Worked Up</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-03 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges" target="_blank">Tales from the AI hiring frenzy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-03 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xavieroromay/mi-primera-experiencia-con-wpgraphql-1jlo" target="_blank">Mi primera experiencia con WPGraphQL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-03 23:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +216,6 @@
                 <span class="time">2025-10-03 19:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hxccoder/should-a-web-development-beginner-focus-on-building-a-complete-project-or-learn-individual-3bd5" target="_blank">Should a web development beginner focus on building a complete project or learn individual technologies?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-03 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Mac-Mini.jpg" alt="Mac Mini M4 Is Going for Pennies, Apple Is Quietly Offloading Stock on Amazon﻿" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mac-mini-m4-is-going-for-pennies-apple-is-quietly-offloading-stock-on-amazon-2000631565" target="_blank">Mac Mini M4 Is Going for Pennies, Apple Is Quietly Offloading Stock on Amazon﻿</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-03 23:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/KPop-Demon-Hunters-Netflix-trio-1280x853.jpg" alt="5 Things We Want to See in a ‘KPop Demon Hunters’ Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/kingmakers-delay-medieval-shooter-steam-early-access-date-2000631559" target="_blank">Viral Medieval Shooter With Giant Armies Gets Indefinitely Delayed Just Days Before Launch</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-03 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6NMBHY6GXXB4QMX9A29S8GY/hero-image.jpg" alt="You Can Now Send End-to-End Encrypted Emails From Your Business Gmail Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-send-encrypted-emails-in-gmail?utm_medium=RSS" target="_blank">You Can Now Send End-to-End Encrypted Emails From Your Business Gmail Account</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-03 19:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 289 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
