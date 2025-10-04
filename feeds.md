@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 16:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-04 17:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-parsons-middle-east_7041420.jpg?20251004152238" alt="Gunfire and explosions followed by unsettling silence: Sky News reports from inside Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gunfire-and-explosions-followed-by-unsettling-silence-sky-news-reports-from-inside-gaza-city-13444271" target="_blank">Gunfire and explosions followed by unsettling silence: Sky News reports from inside Gaza City</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-04 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/4/gaza-protests-under-way-in-europe-as-arrests-made-in-london?traffic_source=rss" target="_blank">Gaza protests under way in Europe as arrests made in London</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-04 16:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e94/live/7548e480-a112-11f0-807b-c1a7ae4b635d.jpg" alt="Shock in Gaza as Trump appears to welcome Hamas response to US peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +99,20 @@
                 <span class="time">2025-10-04 13:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg" alt="At least 30 injured in Russian strike on railway station, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss" target="_blank">At least 30 injured in Russian strike on railway station, Zelensky says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-04 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5554848/opinion-jane-goodall-helped-humans-understand-their-place-in-the-world" target="_blank">Opinion: Jane Goodall helped humans understand their place in the world</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/" target="_blank">Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-04 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,29 @@
                 <span class="time">2025-10-04 13:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e03c9d1e02f28f7673efb6/master/pass/The%20Best%20MagSafe%20Phone%20Grips.png" alt="7 Best MagSafe Phone Grips (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-grips/" target="_blank">7 Best MagSafe Phone Grips (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-04 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpto2ibuicbu2vxnajhhd.PNG" alt="Cursor + Trigger in MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/atheeba_parveenja24cb0/cursor-trigger-in-mysql-1epg" target="_blank">Cursor + Trigger in MySQL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/vercel-drains-observability/en/headerimage/generatedHeaderImage-1759423220989.jpg" alt="Vercel Introduces Drains for Unified Data Export" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/vercel-drains-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Introduces Drains for Unified Data Export</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-04 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsocstf61w20geoxbx9ul.png" alt="Building an Intelligent Document Processing Pipeline with AWS: S3 Textract Comprehend DynamoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +217,6 @@
                 <span class="time">2025-10-04 13:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer" target="_blank">Scientists are discovering a powerful new way to prevent cancer (Economist)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-04 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5jxlvu74vv2ci1hv6ob.png" alt="Configuring Multi-Language Website SEO with Hugo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rosgluk/configuring-multi-language-website-seo-with-hugo-50ae" target="_blank">Configuring Multi-Language Website SEO with Hugo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/The-Batman-Matt-Reeves-Robert-Pattinson-1280x853.jpg" alt="‘The Batman II’ Should Be Out This Weekend. Why Do We Care?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-batman-ii-should-be-out-this-weekend-why-do-we-care-2000667224" target="_blank">‘The Batman II’ Should Be Out This Weekend. Why Do We Care?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-04 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/p0b3kks7.jpg?fit=640%2C360&amp;quality=60&amp;ssl=1" alt="Dame Patricia Routledge kicks the bouquet at 96" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +290,6 @@
                 <span class="time">2025-10-04 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/star-wars-r2d2-lego.jpg" alt="LEGO Is Going All In, Its 4.9-Rated Star Wars R2-D2 Set Is Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-is-going-all-in-its-4-9-rated-star-wars-r2-d2-set-is-selling-for-pennies-2000631589" target="_blank">LEGO Is Going All In, Its 4.9-Rated Star Wars R2-D2 Set Is Selling for Pennies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-04 02:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
