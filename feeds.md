@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 06:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-04 07:02:15 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +55,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/4/who-are-the-candidates-running-to-be-japans-next-prime-minister?traffic_source=rss" target="_blank">Who are the candidates running to be Japan’s next prime minister?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-04 05:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-gaza_7040790.jpg?20251004044430" alt="Why Trump accepted the Hamas peace plan response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/if-hamas-and-israel-agree-on-a-peace-deal-it-will-be-donald-trumps-success-13443923" target="_blank">Why Trump accepted the Hamas peace plan response</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-04 03:20</span>
             </div>
         </div>
 <div class="story">
@@ -94,20 +102,20 @@
                 <span class="time">2025-10-03 22:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7014/live/b50aaa10-a09d-11f0-85af-1377c963b9be.jpg" alt="Synagogue attacker was on bail after rape arrest, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly97ervz1zo?at_medium=RSS&at_campaign=rss" target="_blank">Synagogue attacker was on bail after rape arrest, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-03 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/" target="_blank">Bezos predicts that millions will live in space kind of soon</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-04 06:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/" target="_blank">Removing these 50 objects from orbit would cut danger from space junk in half</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-03 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e00d6765075606322b04a8/master/pass/Save%20Over%20$100%20on%20this%20Souped-Up%20Gaming%20Handheld.png" alt="The Lenovo Go S Is $120 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/legion-go-s-deal-1025/" target="_blank">The Lenovo Go S Is $120 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-03 20:04</span>
             </div>
         </div>
 </div>
@@ -317,22 +316,13 @@
                 <span class="time">2025-10-03 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/03/enervator" target="_blank">Enervator</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-03 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
