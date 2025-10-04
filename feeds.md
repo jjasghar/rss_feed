@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 10:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-04 11:01:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, October 04, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-train-strike_7040934.png?20251004114253" alt="Dozens injured after Russian drone strike on Ukrainian railway station" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-30-injured-after-savage-russian-drone-strike-on-ukrainian-railway-station-zelenskyy-says-13444010" target="_blank">Dozens injured after Russian drone strike on Ukrainian railway station</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-04 09:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250929121058" alt="At least 30 injured after &#x27;savage&#x27; Russian drone strike on Ukrainian railway station, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +95,20 @@
                 <span class="time">2025-10-04 02:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss" target="_blank">LIVE: Trump tells Israel ‘stop bombing’ Gaza after Hamas ceasefire reply</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-04 00:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6830e72347797e411f30e85b/master/pass/The%20Best%20Coffee%20Pod%20Machines%20for%20Hot%20and%20Cold%20Brew.png" alt="8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-pod-coffee-makers/" target="_blank">8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-04 10:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e0778331ef4c178fea6ef9/master/pass/Gear%20News%20of%20the%20Week%20October%204.png" alt="Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +154,29 @@
                 <span class="time">2025-10-03 22:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2238395456-500x500.jpg" alt="Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/" target="_blank">Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-03 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5jxlvu74vv2ci1hv6ob.png" alt="Configuring Multi-Language Website SEO with Hugo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rosgluk/configuring-multi-language-website-seo-with-hugo-50ae" target="_blank">Configuring Multi-Language Website SEO with Hugo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-04 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cairo-Dock-3.6-Released" target="_blank">Cairo-Dock 3.6 Released With Wayland Support &amp; HiDPI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-04 10:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/aasik_20409e3305686b324ec/what-is-a-cronjob-and-understanding-syntax-2p6p" target="_blank">What is a Cronjob and understanding syntax</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-04 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/lrr-sept-25.jpg?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (September 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/linux-app-release-roundup-september-2025" target="_blank">Linux App Release Roundup (September 2025)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-04 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6dfrk7gp6aj42prdy5e3.png" alt="CRUD Operations in MongoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nethra_loganathan_98e5233/crud-operations-in-mongodb-3810" target="_blank">CRUD Operations in MongoDB</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 02:59</span>
             </div>
         </div>
 </div>
@@ -320,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
