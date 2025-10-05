@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 12:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 13:05:07 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 13:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +55,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-RUBIO-20251005-ABC-JH_1759667685272_hpMain_4x3t_384.jpeg" alt="&#x27;This is the closest we’ve come to getting&#x27; hostages released: Rubio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/closest-weve-hostages-gaza-released-rubio/story?id=126227202" target="_blank">&#x27;This is the closest we’ve come to getting&#x27; hostages released: Rubio</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-05 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251004-marco-rubio-ch-1638-72aa2f.jpg" alt="Marco Rubio says ongoing Gaza peace talks are &#x27;not yet&#x27; the end of the war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/rubio-ongoing-gaza-peace-talks-not-yet-end-war-israel-rcna235642" target="_blank">Marco Rubio says ongoing Gaza peace talks are &#x27;not yet&#x27; the end of the war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-05 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/5/to-end-the-starvation-in-gaza-bring-back-unrwa?traffic_source=rss" target="_blank">To end the starvation in Gaza, bring back UNRWA</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c914/live/2fffa270-a1cf-11f0-928c-71dbb8619e94.jpg" alt="Home secretary wants police to get more powers to restrict repeated protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss" target="_blank">Home secretary wants police to get more powers to restrict repeated protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-05 12:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -57,42 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/5/hundreds-of-thousands-turn-out-at-pro-palestine-marches-across-europe?traffic_source=rss" target="_blank">Hundreds of thousands turn out at pro-Palestine marches across Europe</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-05 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5562526/apple-cider-vinegar-study-retracted-weight-loss" target="_blank">How apple cider vinegar cured everything — until it didn&#x27;t</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-05 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/5/motogp-indonesia-aldeguer-wins-first-race-as-marquez-bezzecchi-crash-out?traffic_source=rss" target="_blank">MotoGP Indonesia: Aldeguer wins first race as Marquez injured on lap 1</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/at-least-47-killed-in-nepal-as-heavy-rains-trigger-landslides-flash-floods?traffic_source=rss" target="_blank">At least 47 killed in Nepal as heavy rains trigger landslides, flash floods</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 08:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5563029/syria-first-elections-assad-ouster" target="_blank">What to expect as Syria holds first parliamentary elections since Assad&#x27;s ouster</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-05 08:20</span>
             </div>
         </div>
 </div>
@@ -160,6 +173,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F18254%2Fc3e65d32-bfe2-48ed-93b3-f2caf9c60dd7.png" alt="Share us your project for Hacktoberfest 2025! 🎃" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2" target="_blank">Share us your project for Hacktoberfest 2025! 🎃</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z9paqmgyvyfepvr6mnd.webp" alt="DBMS - Transactions, Deadlocks &amp; Log-Based Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,20 +226,20 @@
                 <span class="time">2025-10-05 09:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.muni.town/personal-data-storage-idea/" target="_blank">Personal data storage is an idea whose time has come</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-05 09:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/jbl-grip-review-2-1280x853.jpg" alt="JBL Grip Speaker Review: A Tiny Way to Be Big Loud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jbl-grip-speaker-review-tiny-way-to-be-big-loud-2000666834" target="_blank">JBL Grip Speaker Review: A Tiny Way to Be Big Loud</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Apple-MacBook-Pro-13.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="MacBook Pro power for under $300 feels almost illegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +285,6 @@
                 <span class="time">2025-10-04 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/The-Batman-Matt-Reeves-Robert-Pattinson-1280x853.jpg" alt="‘The Batman II’ Should Be Out This Weekend. Why Do We Care?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-batman-ii-should-be-out-this-weekend-why-do-we-care-2000667224" target="_blank">‘The Batman II’ Should Be Out This Weekend. Why Do We Care?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-04 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 13:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
