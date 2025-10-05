@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 15:02:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-05 16:01:39 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b341/live/ee4c5e00-a1ff-11f0-928c-71dbb8619e94.jpg" alt="Eyes on Egypt ahead of crucial Gaza peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss" target="_blank">Eyes on Egypt ahead of crucial Gaza peace talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-05 15:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-BOOKER-20251005-ABC-JH_1759671701165_hpMain_4x3t_384.jpeg" alt="Booker says shutdown standoff is a &#x27;tsunami of Donald Trump&#x27;s creation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/booker-shutdown-standoff-tsunami-donaldtrumps-creation/story?id=126227211" target="_blank">Booker says shutdown standoff is a &#x27;tsunami of Donald Trump&#x27;s creation&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-05 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-RUBIO-20251005-ABC-JH_1759667685272_hpMain_4x3t_384.jpeg" alt="&#x27;This is the closest we’ve come to getting&#x27; hostages released: Rubio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/closest-weve-hostages-gaza-released-rubio/story?id=126227202" target="_blank">&#x27;This is the closest we’ve come to getting&#x27; hostages released: Rubio</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-05 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251004-marco-rubio-ch-1638-72aa2f.jpg" alt="Marco Rubio says ongoing Gaza peace talks are &#x27;not yet&#x27; the end of the war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759669205062_mtp_full_rubio_251005_1920x1080-aisplx.jpg" alt="Marco Rubio calls on Hamas to release hostages ‘as soon as possible’ amid peace deal: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/rubio-ongoing-gaza-peace-talks-not-yet-end-war-israel-rcna235642" target="_blank">Marco Rubio says ongoing Gaza peace talks are &#x27;not yet&#x27; the end of the war</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/marco-rubio-calls-on-hamas-to-release-hostages-as-soon-as-possible-amid-peace-deal-full-interview-249129029650" target="_blank">Marco Rubio calls on Hamas to release hostages ‘as soon as possible’ amid peace deal: Full interview</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-05 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/5/to-end-the-starvation-in-gaza-bring-back-unrwa?traffic_source=rss" target="_blank">To end the starvation in Gaza, bring back UNRWA</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 12:41</span>
+                <span class="time">2025-10-05 13:00</span>
             </div>
         </div>
 </div>
@@ -112,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/" target="_blank">The Reinforcement Gap — or why some AI skills improve faster than others</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e200dd08818d0cf4055ec7/master/pass/The%20Best%20Humidifiers%20for%20Every%20Kind%20of%20Room.png" alt="Our Favorite Humidifiers for Home, Travel &amp; More (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-humidifier/" target="_blank">Our Favorite Humidifiers for Home, Travel &amp; More (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-05 14:08</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +155,20 @@
                 <span class="time">2025-10-04 19:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/" target="_blank">Anker offered Eufy camera owners $2 per video for AI training</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-04 18:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/parallels-linux-1.jpg?resize=406%2C232&amp;ssl=1" alt="Parallels Desktop Adds ‘Future-Proof Linux Compatibility’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/parallels-desktop-tools-linux-virtio-sock-update" target="_blank">Parallels Desktop Adds ‘Future-Proof Linux Compatibility’</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-05 15:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F18254%2Fc3e65d32-bfe2-48ed-93b3-f2caf9c60dd7.png" alt="Share us your project for Hacktoberfest 2025! 🎃" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,20 +214,20 @@
                 <span class="time">2025-10-05 09:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Crypto" target="_blank">AMD Versal TRNG Driver Upstreamed To Linux 6.18, Intel Adds New Telemetry For QAT Gen6</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-05 09:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/lenovo-legion-go-2-review-02-1280x853.jpg" alt="Lenovo Legion Go 2 Review: A Handheld Made For Big, Meaty Claws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lenovo-legion-go-2-review-a-handheld-made-for-big-meaty-claws-2000666394" target="_blank">Lenovo Legion Go 2 Review: A Handheld Made For Big, Meaty Claws</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/jbl-grip-review-2-1280x853.jpg" alt="JBL Grip Speaker Review: A Tiny Way to Be Big Loud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,36 +273,13 @@
                 <span class="time">2025-10-04 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/tina-turner.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Tina Turner statue dismays fans: &quot;Simply the worst&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/04/tina-turner-statue-dismays-fans-simply-the-worst.html" target="_blank">Tina Turner statue dismays fans: &quot;Simply the worst&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-04 18:07</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1759549236-20251004.png" alt="Saturday Morning Breakfast Cereal - So" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/so" target="_blank">Saturday Morning Breakfast Cereal - So</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-04 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
