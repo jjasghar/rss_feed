@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 09:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 10:01:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5562526/apple-cider-vinegar-study-retracted-weight-loss" target="_blank">How apple cider vinegar cured everything — until it didn&#x27;t</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-05 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/5/motogp-indonesia-aldeguer-wins-first-race-as-marquez-bezzecchi-crash-out?traffic_source=rss" target="_blank">MotoGP Indonesia: Aldeguer wins first race as Marquez injured on lap 1</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 08:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss" target="_blank">Police to get broader powers to restrict repeated protests</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-05 07:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss" target="_blank">LIVE: Negotiators head to Cairo for talks on end of Gaza war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5558181/homeless-mental-health-commitment" target="_blank">Some Democrats share Trump&#x27;s goal of forcing more homeless people into medical care</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-05 04:01</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/dns-armor-infoblox-security/en/headerimage/generatedHeaderImage-1759502324740.jpg" alt="New DNS Armor Service Helps Google Cloud Workloads Preemptively Block Cyber Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/dns-armor-infoblox-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New DNS Armor Service Helps Google Cloud Workloads Preemptively Block Cyber Threats</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-05 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gopal_ghate_5bda01b730e45/django-views-function-based-views-fbvs-explained-article-4-42ld" target="_blank">🌐 Django Views – Function-Based Views (FBVs) Explained (Article 4)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Crypto" target="_blank">AMD Versal TRNG Driver Upstreamed To Linux 6.18, Intel Adds New Telemetry For QAT Gen6</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-05 09:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3544742%2F1ac9d13d-9844-402d-a5d4-15819910f3ce.png" alt="1000+ Free APIs For Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,33 +220,6 @@
                 <span class="title"><a href="https://itsfoss.com/git-with-obsidian/" target="_blank">How I am Using Git and Obsidian for Note Version Management</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-10-05 07:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2re70g5ewaq0czdg7hn.webp" alt="ACID Properties with SQL Transactions in DBMS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arun_prasath_fa013c5e6085/acid-properties-with-sql-transactions-in-dbms-4ped" target="_blank">ACID Properties with SQL Transactions in DBMS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.socialcooling.com/" target="_blank">Social Cooling</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-05 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manasi_patil_/day-4-of-100-days-dsa-coding-challenge-54hk" target="_blank">Day 4 of 100 days dsa coding challenge</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 03:38</span>
             </div>
         </div>
 </div>
@@ -295,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
