@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 08:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 09:01:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 08:02 UTC</div>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/at-least-47-killed-in-nepal-as-heavy-rains-trigger-landslides-flash-floods?traffic_source=rss" target="_blank">At least 47 killed in Nepal as heavy rains trigger landslides, flash floods</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 08:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5563029/syria-first-elections-assad-ouster" target="_blank">What to expect as Syria holds first parliamentary elections since Assad&#x27;s ouster</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-05 08:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5558181/homeless-mental-health-commitment" target="_blank">Some Democrats share Trump&#x27;s goal of forcing more homeless people into medical care</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-05 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/poland-deploys-air-defences-as-russia-launches-new-strikes-on-ukraine?traffic_source=rss" target="_blank">Poland deploys air defences as Russia launches new strikes on Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/2239258943_1759622020079_hpMain_4x3t_384.jpg" alt="Judge temporarily blocks Trump&#x27;s attempt to deploy Oregon National Guard to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story?id=126223483" target="_blank">Judge temporarily blocks Trump&#x27;s attempt to deploy Oregon National Guard to Portland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-05 00:54</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3544742%2F1ac9d13d-9844-402d-a5d4-15819910f3ce.png" alt="1000+ Free APIs For Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc" target="_blank">1000+ Free APIs For Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 08:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.socialcooling.com/" target="_blank">Social Cooling</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-05 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/manasi_patil_/day-4-of-100-days-dsa-coding-challenge-54hk" target="_blank">Day 4 of 100 days dsa coding challenge</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-05 03:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p" target="_blank">50 Most Useful TypeScript Snippets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/technoblogger14o3/proofofthought-llm-based-reasoning-using-z3-theorem-proving-1jkh" target="_blank">ProofOfThought: LLM-based reasoning using Z3 theorem proving</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 02:18</span>
             </div>
         </div>
 </div>
@@ -299,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
