@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 18:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 19:01:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/portland-protests-20251005-getty-jh_1759689808390_hpMain_4x3t_384.jpg" alt="Newsom says he&#x27;ll sue to keep Trump from sending California Guard to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story?id=126223483" target="_blank">Newsom says he&#x27;ll sue to keep Trump from sending California Guard to Portland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-05 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5563116/bad-bunny-snl-premiere-trump" target="_blank">SNL roasts Trump in season premiere, as Bad Bunny addresses Super Bowl criticism</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-05 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/russia-expresses-full-support-of-venezuela-after-us-strikes-boat-near-coast?traffic_source=rss" target="_blank">Russia expresses full support of Venezuela after US strikes boat near coast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 18:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fbf/live/3ca902c0-a209-11f0-88a9-adaa114cb856.jpg" alt="Trump says he thinks Gaza hostages will be freed &#x27;very soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention?traffic_source=rss" target="_blank">More Gaza flotilla activists allege mistreatment in Israeli detention</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-05 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b341/live/ee4c5e00-a1ff-11f0-928c-71dbb8619e94.jpg" alt="Eyes on Egypt ahead of crucial Gaza peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss" target="_blank">Eyes on Egypt ahead of crucial Gaza peace talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-05 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-BOOKER-20251005-ABC-JH_1759671701165_hpMain_4x3t_384.jpeg" alt="Booker says shutdown standoff is a &#x27;tsunami of Donald Trump&#x27;s creation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/booker-shutdown-standoff-tsunami-donaldtrumps-creation/story?id=126227211" target="_blank">Booker says shutdown standoff is a &#x27;tsunami of Donald Trump&#x27;s creation&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-05 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/5/video-heres-how-syria-is-electing-its-first-post-assad-parliament?traffic_source=rss" target="_blank">Video: Here’s how Syria is electing its first post-Assad parliament</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 14:21</span>
             </div>
         </div>
 </div>
@@ -223,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/black-knight-tartakovsky-1280x853.jpg" alt="Genndy Tartakovsky Won’t Give Up on Getting ‘Black Knight’ Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/genndy-tartakovsky-wont-give-up-on-getting-black-knight-made-2000667740" target="_blank">Genndy Tartakovsky Won’t Give Up on Getting ‘Black Knight’ Made</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-05 18:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/scott-pilgrim-1280x853.jpg" alt="Netflix’s ‘Scott Pilgrim’ Anime Levels Up to A Physical Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,13 +274,18 @@
                 <span class="time">2025-10-04 21:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/dungeons-dragons-hed-1280x853.jpg" alt="‘Payday’ Dev Starbreeze Kills Co-Op ‘Dungeons &amp; Dragons’ Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1759640123-20251005.png" alt="Saturday Morning Breakfast Cereal - Princess" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/payday-dev-starbreeze-kills-co-op-dungeons-dragons-game-2000667433" target="_blank">‘Payday’ Dev Starbreeze Kills Co-Op ‘Dungeons &amp; Dragons’ Game</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-04 20:15</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/princess-3" target="_blank">Saturday Morning Breakfast Cereal - Princess</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-05 15:20</span>
             </div>
         </div>
 </div>
@@ -281,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
