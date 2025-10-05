@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 19:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 20:02:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -80,21 +77,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250929-Gavin-Newson-gk-8e5add.jpg" alt="Newsom says Trump has deployed California National Guard troops to Oregon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/10/5/contradictions-in-fifas-banning-policies?traffic_source=rss" target="_blank">Contradictions in FIFA’s banning policies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 17:34</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/california-newsom-trump-administration-national-guard-deployment-rcna235726" target="_blank">Newsom says Trump has deployed California National Guard troops to Oregon</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-05 17:46</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention?traffic_source=rss" target="_blank">More Gaza flotilla activists allege mistreatment in Israeli detention</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/10/5/contradictions-in-fifas-banning-policies?traffic_source=rss" target="_blank">Contradictions in FIFA’s banning policies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 16:26</span>
+                <span class="time">2025-10-05 17:34</span>
             </div>
         </div>
 </div>
@@ -162,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936" target="_blank">Fire destroys S. Korean government&#x27;s cloud storage system, no backups available</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-05 17:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkwv833kfi1iqmqz7sj7.png" alt="Showcase skill icons badge for GitHub README profile" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2" target="_blank">Share us your project for Hacktoberfest 2025! 🎃</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z9paqmgyvyfepvr6mnd.webp" alt="DBMS - Transactions, Deadlocks &amp; Log-Based Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/reshma_devi_ba32b2f54397d/dbms-transactions-deadlocks-log-based-recovery-4173" target="_blank">DBMS - Transactions, Deadlocks &amp; Log-Based Recovery</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 10:54</span>
             </div>
         </div>
 </div>
@@ -293,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
