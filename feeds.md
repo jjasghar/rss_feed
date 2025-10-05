@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 22:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-05 23:01:30 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 1 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +112,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words" target="_blank">Jane Goodall’s death triggered the premiere of Netflix’s new show</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-05 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/" target="_blank">California’s new AI safety law shows regulation and innovation don’t have to clash</a></span>
                 <span class="feed">TechCrunch</span>
@@ -149,15 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/" target="_blank">The Reinforcement Gap — or why some AI skills improve faster than others</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e200dd08818d0cf4055ec7/master/pass/The%20Best%20Humidifiers%20for%20Every%20Kind%20of%20Room.png" alt="Our Favorite Humidifiers for Home, Travel &amp; More (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-humidifier/" target="_blank">Our Favorite Humidifiers for Home, Travel &amp; More (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-05 14:08</span>
             </div>
         </div>
 </div>
@@ -297,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
