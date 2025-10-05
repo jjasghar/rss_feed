@@ -1,40 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 10:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 11:01:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/5/hundreds-of-thousands-turn-out-at-pro-palestine-marches-across-europe?traffic_source=rss" target="_blank">Hundreds of thousands turn out at pro-Palestine marches across Europe</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 10:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +107,20 @@
                 <span class="time">2025-10-05 07:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0e/live/83592530-a1b7-11f0-928c-71dbb8619e94.jpg" alt="Police to get broader powers to restrict repeated protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss" target="_blank">Police to get broader powers to restrict repeated protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-05 07:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/684baa39e0d143bc348e43f4/master/pass/The%20Best%20Packing%20Cubes%20for%20Every%20Kind%20of%20Trip_.png" alt="Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-packing-cubes/" target="_blank">Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-05 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +166,29 @@
                 <span class="time">2025-10-04 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/" target="_blank">Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-04 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z9paqmgyvyfepvr6mnd.webp" alt="DBMS - Transactions, Deadlocks &amp; Log-Based Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/reshma_devi_ba32b2f54397d/dbms-transactions-deadlocks-log-based-recovery-4173" target="_blank">DBMS - Transactions, Deadlocks &amp; Log-Based Recovery</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Diagnostics" target="_blank">Improved Diagnostics For GCC 16 - Including Support For Outputting To HTML</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-05 10:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/dns-armor-infoblox-security/en/headerimage/generatedHeaderImage-1759502324740.jpg" alt="New DNS Armor Service Helps Google Cloud Workloads Preemptively Block Cyber Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +223,6 @@
                 <span class="title"><a href="https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc" target="_blank">1000+ Free APIs For Developers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-05 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-the-mummy-2017-caravan-of-garbage-m59" target="_blank">Mr Sunday Movies: The Mummy 2017 - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/git-with-obsidian/" target="_blank">How I am Using Git and Obsidian for Note Version Management</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-05 07:22</span>
             </div>
         </div>
 </div>
@@ -300,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
