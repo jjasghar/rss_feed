@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 02:29:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-05 03:16:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 03:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +70,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5557239/trump-national-guard-portland-court-ruling" target="_blank">Federal judge temporarily blocks Trump&#x27;s National Guard deployment to Portland</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-05 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/100425-portland-police-federal-officers-RM-a04ead.jpg" alt="Judge temporarily blocks use of National Guard in Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-use-national-guard-portland-rcna235664" target="_blank">Judge temporarily blocks use of National Guard in Portland</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-04 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/4/is-an-end-to-war-in-sight-in-gaza?traffic_source=rss" target="_blank">Is an end to war in sight in Gaza?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -79,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec7/live/17f63870-a160-11f0-8480-e139cd7c3f3c.jpg" alt="Netanyahu says he hopes to announce hostage release in the &#x27;coming days&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5562507/national-parks-government-shutdown" target="_blank">National parks caught in the crosshairs of government shutdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-04 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png" alt="Nearly 500 arrested at Palestine Action protest in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss" target="_blank">Nearly 500 arrested at Palestine Action protest in London</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yqv4lz0geo?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu says he hopes to announce hostage release in the &#x27;coming days&#x27;</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-10-04 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/federal-agent-chicago-gty-jt-251004_1759602720220_hpMain_4x3t_384.jpg" alt="Homeland Security requests National Guard to be sent to Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/homeland-security-requests-national-guard-chicago-despite-protests/story?id=126218735" target="_blank">Homeland Security requests National Guard to be sent to Chicago</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-04 20:45</span>
+                <span class="time">2025-10-04 21:38</span>
             </div>
         </div>
 </div>
@@ -173,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p" target="_blank">50 Most Useful TypeScript Snippets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 03:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/technoblogger14o3/proofofthought-llm-based-reasoning-using-z3-theorem-proving-1jkh" target="_blank">ProofOfThought: LLM-based reasoning using Z3 theorem proving</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-05 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/" target="_blank">You can&#x27;t parse XML with regex. Let&#x27;s do it anyways</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-05 01:58</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-1d48" target="_blank">CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-05 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.paulox.net/2025/10/05/my-djangocon-us-2025/" target="_blank">My DjangoCon US 2025</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-04 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-javascript-snippets-59on" target="_blank">50 Most Useful JavaScript Snippets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 22:30</span>
             </div>
         </div>
 </div>
@@ -301,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 03:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
