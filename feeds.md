@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 21:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-05 22:01:41 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F53hz2lk0pmo5bvo21bzx.png" alt="The Secret to Secure Cloud Access from Restricted Regions: Reverse Proxy Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/salim_adedeji_233f2fcf315/the-secret-to-secure-cloud-access-from-restricted-regions-reverse-proxy-everything-15lc" target="_blank">The Secret to Secure Cloud Access from Restricted Regions: Reverse Proxy Everything</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 21:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -212,20 +219,29 @@
                 <span class="time">2025-10-05 15:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F18254%2Fc3e65d32-bfe2-48ed-93b3-f2caf9c60dd7.png" alt="Share us your project for Hacktoberfest 2025! 🎃" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2" target="_blank">Share us your project for Hacktoberfest 2025! 🎃</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/large-15-portable-monitor.jpg" alt="Now Far Cheaper Than a Switch Game, This 15″ Portable Monitor Lets You Enjoy Big-Screen Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/now-far-cheaper-than-a-switch-game-this-15-portable-monitor-lets-you-enjoy-big-screen-play-2000631855" target="_blank">Now Far Cheaper Than a Switch Game, This 15″ Portable Monitor Lets You Enjoy Big-Screen Play</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-05 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/it-welcome-to-derry_0-1280x853.jpg" alt="‘Welcome to Derry’ Will Make You Wait for Full Pennywise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/welcome-to-derry-will-make-you-wait-for-full-pennywise-2000667854" target="_blank">‘Welcome to Derry’ Will Make You Wait for Full Pennywise</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-05 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/black-knight-tartakovsky-1280x853.jpg" alt="Genndy Tartakovsky Won’t Give Up on Getting ‘Black Knight’ Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +278,6 @@
                 <span class="time">2025-10-05 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Roku-Streaming-Stick-Plus-2025.jpg" alt="Forget Fire TV Sticks, Amazon Is Blowing Out Roku Devices at Their Cheapest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forget-fire-tv-sticks-amazon-is-blowing-out-roku-devices-at-their-cheapest-price-ever-2000631824" target="_blank">Forget Fire TV Sticks, Amazon Is Blowing Out Roku Devices at Their Cheapest Price Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-05 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
