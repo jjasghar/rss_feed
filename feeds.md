@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 03:16:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 04:02:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 1 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 03:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +161,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manasi_patil_/day-4-of-100-days-dsa-coding-challenge-54hk" target="_blank">Day 4 of 100 days dsa coding challenge</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 03:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p" target="_blank">50 Most Useful TypeScript Snippets</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-05 03:08</span>
@@ -210,15 +209,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/CXL-Poison-Injection-Linux-6.18" target="_blank">CXL Poison Injection Added To Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-05 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-1d48" target="_blank">CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 00:00</span>
             </div>
         </div>
 </div>
@@ -300,7 +290,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 03:17 UTC
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
