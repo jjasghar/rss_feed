@@ -1,45 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 05:01:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-05 06:02:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 37 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss" target="_blank">LIVE: Negotiators head to Cairo for talks on end of Gaza war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 05:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/04/nx-s1-5557239/trump-national-guard-portland-court-ruling" target="_blank">Federal judge temporarily blocks Trump&#x27;s National Guard deployment to Portland</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-05 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/100425-portland-police-federal-officers-RM-a04ead.jpg" alt="Judge temporarily blocks use of National Guard in Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-use-national-guard-portland-rcna235664" target="_blank">Judge temporarily blocks use of National Guard in Portland</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-04 23:48</span>
             </div>
         </div>
 </div>
@@ -233,6 +223,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Apple-MacBook-Pro-13.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="MacBook Pro power for under $300 feels almost illegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/04/macbook-pro-power-for-under-300-feels-almost-illegal.html" target="_blank">MacBook Pro power for under $300 feels almost illegal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/dungeons-dragons-hed-1280x853.jpg" alt="‘Payday’ Dev Starbreeze Kills Co-Op ‘Dungeons &amp; Dragons’ Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -277,15 +276,6 @@
                 <span class="time">2025-10-04 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Rosetta-Stone-1.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="I finally committed to learning a language—my secret weapon is Rosetta Stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/04/i-finally-committed-to-learning-a-language-my-secret-weapon-is-rosetta-stone.html" target="_blank">I finally committed to learning a language—my secret weapon is Rosetta Stone</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-04 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
