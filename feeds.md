@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 17:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 18:01:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fbf/live/3ca902c0-a209-11f0-88a9-adaa114cb856.jpg" alt="Trump says he thinks Gaza hostages will be freed &#x27;very soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he thinks Gaza hostages will be freed &#x27;very soon&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-05 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/10/5/contradictions-in-fifas-banning-policies?traffic_source=rss" target="_blank">Contradictions in FIFA’s banning policies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 17:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +99,29 @@
                 <span class="time">2025-10-05 14:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c4/live/152449f0-a1f3-11f0-ab23-d127b1d8dfad.jpg" alt="First funeral held for synagogue attack victim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2r51x17jpo?at_medium=RSS&at_campaign=rss" target="_blank">First funeral held for synagogue attack victim</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-05 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/5/syrias-election-is-a-historic-moment-in-its-transition?traffic_source=rss" target="_blank">Syria’s election is “a historic moment” in its transition</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/" target="_blank">California’s new AI safety law shows regulation and innovation don’t have to clash</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-05 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great" target="_blank">If you can get past the terrible logo, Audacity 4 looks pretty great</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-05 17:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/" target="_blank">Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-05 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/684baa39e0d143bc348e43f4/master/pass/The%20Best%20Packing%20Cubes%20for%20Every%20Kind%20of%20Trip_.png" alt="Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-packing-cubes/" target="_blank">Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-05 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/" target="_blank">A breach every month raises doubts about South Korea’s digital defenses</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-04 21:10</span>
             </div>
         </div>
 </div>
@@ -227,6 +223,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/scott-pilgrim-1280x853.jpg" alt="Netflix’s ‘Scott Pilgrim’ Anime Levels Up to A Physical Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflixs-scott-pilgrim-anime-levels-up-to-a-physical-release-2000667850" target="_blank">Netflix’s ‘Scott Pilgrim’ Anime Levels Up to A Physical Release</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-05 16:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/lenovo-legion-go-2-review-02-1280x853.jpg" alt="Lenovo Legion Go 2 Review: A Handheld Made For Big, Meaty Claws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,22 +276,13 @@
                 <span class="time">2025-10-04 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/daredevil-born-again-season-1-finale-1280x853.jpg" alt="‘Daredevil: Born Again’ Almost Had an Echo/Punisher Teamup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/daredevil-born-again-almost-had-an-echo-punisher-teamup-2000667514" target="_blank">‘Daredevil: Born Again’ Almost Had an Echo/Punisher Teamup</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-04 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
