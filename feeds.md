@@ -1,43 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 11:01:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-05 12:02:22 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/05/g-s1-90311/children-play-war-refugees-games" target="_blank">With makeshift jump ropes and hide and seek, kids play to cope with crisis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-05 11:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +95,20 @@
                 <span class="time">2025-10-05 08:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/10/5/nairobis-birdman-rescuing-raptors-on-the-streets-of-kenyas-capital?traffic_source=rss" target="_blank">Nairobi’s ‘Birdman’: Rescuing raptors on the streets of Kenya’s capital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 07:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e082ad7f3861cfd7275ab7/master/pass/The%20Ninja%20Slushi%20Is%20the%20Cheapest%20It%E2%80%99s%20Ever%20Been%20Right%20Now.png" alt="Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/" target="_blank">Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-05 11:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/684baa39e0d143bc348e43f4/master/pass/The%20Best%20Packing%20Cubes%20for%20Every%20Kind%20of%20Trip_.png" alt="Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/early-prime-day-deals-october-2025-2/" target="_blank">40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-04 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale" target="_blank">This week&amp;#8217;s best deal is a &amp;#8216;kids&amp;#8217; Kindle Paperwhite that&amp;#8217;s better than the adult version</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-04 17:00</span>
             </div>
         </div>
 </div>
@@ -217,12 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3544742%2F1ac9d13d-9844-402d-a5d4-15819910f3ce.png" alt="1000+ Free APIs For Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc" target="_blank">1000+ Free APIs For Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 08:45</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.muni.town/personal-data-storage-idea/" target="_blank">Personal data storage is an idea whose time has come</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-05 09:07</span>
             </div>
         </div>
 </div>
@@ -303,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
