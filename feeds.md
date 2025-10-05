@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 20:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 21:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 20:02 UTC</div>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/gov-newsom-says-trump-is-sending-california-national-guard-troops-to-oregon?traffic_source=rss" target="_blank">Gov Newsom says Trump is sending California National Guard troops to Oregon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 19:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/portland-protests-20251005-getty-jh_1759689808390_hpMain_4x3t_384.jpg" alt="Newsom says he&#x27;ll sue to keep Trump from sending California Guard to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +103,20 @@
                 <span class="time">2025-10-05 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/10/5/contradictions-in-fifas-banning-policies?traffic_source=rss" target="_blank">Contradictions in FIFA’s banning policies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/05/waffles-eat-bluesky/" target="_blank">Waffles eat Bluesky</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-05 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +160,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/the-best-humidifier/" target="_blank">Our Favorite Humidifiers for Home, Travel &amp; More (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-05 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e082ad7f3861cfd7275ab7/master/pass/The%20Ninja%20Slushi%20Is%20the%20Cheapest%20It%E2%80%99s%20Ever%20Been%20Right%20Now.png" alt="Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/" target="_blank">Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-05 11:36</span>
             </div>
         </div>
 </div>
@@ -262,15 +271,6 @@
                 <span class="time">2025-10-05 12:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Apple-MacBook-Pro-13.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="MacBook Pro power for under $300 feels almost illegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/04/macbook-pro-power-for-under-300-feels-almost-illegal.html" target="_blank">MacBook Pro power for under $300 feels almost illegal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-04 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
