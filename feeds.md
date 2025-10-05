@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-05 16:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-05 17:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, October 05, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention?traffic_source=rss" target="_blank">More Gaza flotilla activists allege mistreatment in Israeli detention</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-05 16:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b341/live/ee4c5e00-a1ff-11f0-928c-71dbb8619e94.jpg" alt="Eyes on Egypt ahead of crucial Gaza peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +103,20 @@
                 <span class="time">2025-10-05 13:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759669205062_mtp_full_rubio_251005_1920x1080-aisplx.jpg" alt="Marco Rubio calls on Hamas to release hostages ‘as soon as possible’ amid peace deal: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/marco-rubio-calls-on-hamas-to-release-hostages-as-soon-as-possible-amid-peace-deal-full-interview-249129029650" target="_blank">Marco Rubio calls on Hamas to release hostages ‘as soon as possible’ amid peace deal: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000" target="_blank">Roland is finally honoring its legacy instead of just cashing in on it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +162,29 @@
                 <span class="time">2025-10-04 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/54717981613_dab21dfbc3_k-500x500.jpg" alt="Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/pentagon-contract-figures-show-ulas-vulcan-rocket-is-getting-more-expensive/" target="_blank">Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-04 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkwv833kfi1iqmqz7sj7.png" alt="Showcase skill icons badge for GitHub README profile" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg" target="_blank">Showcase skill icons badge for GitHub README profile</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-RDMA" target="_blank">AMD-Pensando Ionic RDMA Driver Added To Linux 6.18, Intel IPU E2000 Hardware Too</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-05 16:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/parallels-linux-1.jpg?resize=406%2C232&amp;ssl=1" alt="Parallels Desktop Adds ‘Future-Proof Linux Compatibility’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -167,6 +192,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/parallels-desktop-tools-linux-virtio-sock-update" target="_blank">Parallels Desktop Adds ‘Future-Proof Linux Compatibility’</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-05 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/" target="_blank">Language Agnostic Programming: Why you may still need code</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-05 15:34</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/reshma_devi_ba32b2f54397d/dbms-transactions-deadlocks-log-based-recovery-4173" target="_blank">DBMS - Transactions, Deadlocks &amp; Log-Based Recovery</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-05 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Diagnostics" target="_blank">Improved Diagnostics For GCC 16 - Including Support For Outputting To HTML</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-05 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/dns-armor-infoblox-security/en/headerimage/generatedHeaderImage-1759502324740.jpg" alt="New DNS Armor Service Helps Google Cloud Workloads Preemptively Block Cyber Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/dns-armor-infoblox-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New DNS Armor Service Helps Google Cloud Workloads Preemptively Block Cyber Threats</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-05 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gopal_ghate_5bda01b730e45/django-views-function-based-views-fbvs-explained-article-4-42ld" target="_blank">🌐 Django Views – Function-Based Views (FBVs) Explained (Article 4)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 09:45</span>
             </div>
         </div>
 </div>
@@ -278,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
