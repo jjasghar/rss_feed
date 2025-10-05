@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-04 23:01:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-05 00:04:49 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 04, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, October 05, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-1d48" target="_blank">CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-05 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-javascript-snippets-59on" target="_blank">50 Most Useful JavaScript Snippets</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-04 22:30</span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://github.com/DebarghaG/proofofthought" target="_blank">Use theorem provers to ensure the correctness of your LLM&#x27;s reasoning</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-04 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/system-design-for-agentic-ai-projects-what-to-do-what-not-to-do-and-when-17kp" target="_blank">System Design for Agentic AI Projects: What to Do, What Not to Do, and When</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-04 17:43</span>
             </div>
         </div>
 </div>
@@ -296,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
