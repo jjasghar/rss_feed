@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 00:04:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 01:29:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +56,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5563182/shutdown-lawsuit-education-department-partisan-messages" target="_blank">Federal workers sue Education Department over partisan shutdown emails</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-05 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-malnutrition_7042965.jpg?20251005154633" alt="Crying babies dimmed by hunger fill this hospital - where parents fear each day might be the last" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/crying-babies-dimmed-by-hunger-fill-this-afghanistan-hospital-where-parents-fear-each-day-might-be-the-last-13445205" target="_blank">Crying babies dimmed by hunger fill this hospital - where parents fear each day might be the last</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-05 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/gov-newsom-says-trump-is-sending-california-national-guard-troops-to-oregon?traffic_source=rss" target="_blank">Gov Newsom says Trump is sending California National Guard troops to Oregon</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5563116/bad-bunny-snl-premiere-trump" target="_blank">SNL roasts Trump in season premiere, as Bad Bunny addresses Super Bowl criticism</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-05 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/russia-expresses-full-support-of-venezuela-after-us-strikes-boat-near-coast?traffic_source=rss" target="_blank">Russia expresses full support of Venezuela after US strikes boat near coast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fbf/live/3ca902c0-a209-11f0-88a9-adaa114cb856.jpg" alt="Trump says he thinks Gaza hostages will be freed &#x27;very soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he thinks Gaza hostages will be freed &#x27;very soon&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-05 17:52</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-5" target="_blank">FreeBSD 15.0 Alpha 5 Brings Release Build Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-06 00:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F53hz2lk0pmo5bvo21bzx.png" alt="The Secret to Secure Cloud Access from Restricted Regions: Reverse Proxy Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/parallels-desktop-tools-linux-virtio-sock-update" target="_blank">Parallels Desktop Adds ‘Future-Proof Linux Compatibility’</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-05 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/" target="_blank">Language Agnostic Programming: Why you may still need code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-05 15:34</span>
             </div>
         </div>
 </div>
@@ -298,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
