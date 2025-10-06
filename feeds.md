@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 06:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 07:02:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg" alt="Former England rugby captain Lewis Moody reveals MND diagnosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&at_campaign=rss" target="_blank">Former England rugby captain Lewis Moody reveals MND diagnosis</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +101,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss" target="_blank">Conservatives to pledge £5,000 tax rebate for young homebuyers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg" alt="Conservatives to announce £5,000 tax rebate for young homebuyers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss" target="_blank">Conservatives to announce £5,000 tax rebate for young homebuyers</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-06 01:11</span>
             </div>
@@ -175,6 +182,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sanjaynaker/how-smart-ai-prompts-supercharge-your-code-2kno" target="_blank">How Smart AI Prompts Supercharge Your Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-06 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ajeebkp23/how-to-access-shared-folders-in-utm-ubuntu-vm-590n" target="_blank">How to access shared folders in UTM Ubuntu VM</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-06 03:39</span>
@@ -190,30 +206,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/java-news-roundup-sep29-2025/en/headerimage/java-istock-image-01-1759705610269.jpg" alt="Java News Roundup: JDK 26 Release Schedule, GlassFish, Spring AI, Helidon, Mandrel 25, Seed4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/java-news-roundup-sep29-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 26 Release Schedule, GlassFish, Spring AI, Helidon, Mandrel 25, Seed4j</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-06 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-5" target="_blank">FreeBSD 15.0 Alpha 5 Brings Release Build Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-06 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F53hz2lk0pmo5bvo21bzx.png" alt="The Secret to Secure Cloud Access from Restricted Regions: Reverse Proxy Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/salim_adedeji_233f2fcf315/the-secret-to-secure-cloud-access-from-restricted-regions-reverse-proxy-everything-15lc" target="_blank">The Secret to Secure Cloud Access from Restricted Regions: Reverse Proxy Everything</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-05 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936" target="_blank">Fire destroys S. Korean government&#x27;s cloud storage system, no backups available</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-05 17:20</span>
             </div>
         </div>
 </div>
@@ -303,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
