@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 22:01:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-06 23:02:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/shutdown-1-rt-gmh-251006_1759756530332_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate again fails to pass funding bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Senate again fails to pass funding bills</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-06 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5560216/who-is-larry-ellison-the-billionaire-trump-friend-whos-part-of-the-tiktok-takeover" target="_blank">Who is Larry Ellison, the billionaire Trump friend who&#x27;s part of the TikTok takeover?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-06 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +103,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/white-house-denies-trump-aims-to-take-over-cities-with-the-military-249191493763" target="_blank">White House denies Trump aims to &#x27;take over&#x27; cities with the military</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-06 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/dept-labor-1-rt-gmh-251006_1759767936640_hpMain_4x3t_384.jpg" alt="Government shutdown halts data, stokes risk as economy wobbles, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/government-shutdown-halts-data-stokes-risk-economy-wobbles/story?id=126259604" target="_blank">Government shutdown halts data, stokes risk as economy wobbles, experts say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-06 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/023b/live/68dfa340-a2c1-11f0-b741-177e3e2c2fc7.jpg" alt="France in fresh political crisis as PM Lecornu quits after 26 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cewn9k0w9rxo?at_medium=RSS&at_campaign=rss" target="_blank">France in fresh political crisis as PM Lecornu quits after 26 days</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 17:21</span>
             </div>
         </div>
 </div>
@@ -141,6 +147,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68e418e683909ddc0a48c4c8/master/pass/OpenAI-Wants-ChatGPT-to-be-Your-Future-Operation-System-Business-2218344212.jpg" alt="OpenAI Wants ChatGPT to Be Your Future Operating System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/" target="_blank">OpenAI Wants ChatGPT to Be Your Future Operating System</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-06 19:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -149,20 +164,29 @@
                 <span class="time">2025-10-06 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Kanizsa_triangle-500x500.png" alt="The neurons that let us see what isn’t there" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/" target="_blank">The neurons that let us see what isn’t there</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-06 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tomivan/coding-challenge-practice-question-22-4pb8" target="_blank">Coding Challenge Practice - Question 22</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-06 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/" target="_blank">DeepMind: CodeMender: an AI agent for code security</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-06 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +223,6 @@
                 <span class="time">2025-10-06 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18674330&w=600" alt="Playwright for Real-Time Applications: Testing WebSockets and Live Data Streams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/playwright-for-real-time-applications-testing-webs" target="_blank">Playwright for Real-Time Applications: Testing WebSockets and Live Data Streams</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-06 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Xeon-6-PCIe-Workaround-Linux" target="_blank">Linux 6.18 Works Around An Intel Xeon 6 PCIe Performance Issue</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-06 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Apple-2025-MacBook-Air-13-inch-Laptop-with-M4-chip.jpg" alt="This MacBook Air (M4, 256GB, 16GB RAM), Now Costs Half the Price of a Pro, Amazon Rushes to Clear Out Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-macbook-air-m4-256gb-16gb-ram-now-costs-half-the-price-of-a-pro-amazon-rushes-to-clear-out-space-2000632140" target="_blank">This MacBook Air (M4, 256GB, 16GB RAM), Now Costs Half the Price of a Pro, Amazon Rushes to Clear Out Space</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYKW5CHJ5W0VMC8STAYW46FR/hero-image.png" alt="What to Do Before Microsoft Cuts Off Support for Windows 10 Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/extra-year-windows-10-security-updates?utm_medium=RSS" target="_blank">What to Do Before Microsoft Cuts Off Support for Windows 10 Next Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-06 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/GettyImages-2236544077-1280x853.jpg" alt="OpenAI Goes All-In on Vibe Coding, Says ‘Mature Experiences’ Are on the Horizon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/fitness-trackers-smartwatches-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Early Prime Deals on Fitness Trackers and Smartwatches</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-06 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/01/d17ad740066c75d712938cbb4af24db8-1024x575.jpg" alt="Taylor Swift, Defender of Artist Ownership, Allegedly Uses AI in Film Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/taylor-swift-defender-of-artist-ownership-allegedly-uses-ai-in-film-project-2000668170" target="_blank">Taylor Swift, Defender of Artist Ownership, Allegedly Uses AI in Film Project</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-06 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/MCMAIN.jpg" alt="Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-game-pass-ultimate-price-hike-cod-2000632122" target="_blank">Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 19:57</span>
             </div>
         </div>
 </div>
@@ -336,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
