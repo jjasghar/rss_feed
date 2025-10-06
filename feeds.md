@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 12:02:36 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-10-06 13:09:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Monday, October 06, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/06/us-deportees-eswatini-lawyers-ngos" target="_blank">Eswatini confirms arrival of 10 more people as part of US deportation deal</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-06 12:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/6/anger-and-grief-in-india-after-14-children-die-from-toxic-cough-syrup?traffic_source=rss" target="_blank">Anger and grief in India after 14 children die from toxic cough syrup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 12:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +99,29 @@
                 <span class="time">2025-10-06 09:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/north-darfur-displacement-worsens-as-sudan-paramilitary-tightens-siege?traffic_source=rss" target="_blank">North Darfur displacement worsens as Sudan paramilitary tightens siege</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 07:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg" alt="Former England rugby captain Lewis Moody reveals MND diagnosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&at_campaign=rss" target="_blank">Former England rugby captain Lewis Moody reveals MND diagnosis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f1374106fb0cb6e6aa9fb/master/pass/The%20Best%20Mesh%20Wi-Fi%20Systems.png" alt="6 Best Mesh Wi-Fi Systems (2025), Tested in a Tech Reviewer&#x27;s Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-mesh-wifi-routers/" target="_blank">6 Best Mesh Wi-Fi Systems (2025), Tested in a Tech Reviewer&#x27;s Home</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/792661/sora-fictional-copyright-characters" target="_blank">Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 12:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6838bfe50d9590a68e292f0f/master/pass/The%20Best%20Travel%20Adapters_.png" alt="13 Best Travel Adapters (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +158,20 @@
                 <span class="time">2025-10-06 10:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self" target="_blank">Sora provides better control over videos featuring your AI self</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-06 10:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/endurance5-500x500-1759674339.jpg" alt="Here’s the real reason Endurance sank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/" target="_blank">Here’s the real reason Endurance sank</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-06 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://write-it-down.com" target="_blank">Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-06 12:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/llm-based-application-evaluation/en/smallimage/the-infoq-podcast-logo-thumbnail-1759238043300.jpg" alt="Podcast: Elena Samuylova on Large Language Model (LLM) Based Application Evaluation and LLM as a Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -216,13 +217,18 @@
                 <span class="time">2025-10-06 09:41</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.paulox.net/2025/10/06/django-orm-comparison/" target="_blank">Django: one ORM to rule all databases</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-06 09:11</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html" target="_blank">AI in the 2026 Midterm Elections</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-06 11:06</span>
             </div>
         </div>
 </div>
@@ -230,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/jbl-flip-5-speaker.jpg" alt="JBL Quietly Offloads the Waterproof Flip 5 Speaker, Now Listed for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jbl-quietly-offloads-the-waterproof-flip-5-speaker-now-listed-for-pennies-on-amazon-2000631979" target="_blank">JBL Quietly Offloads the Waterproof Flip 5 Speaker, Now Listed for Pennies on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 12:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/endurance-in-the-distance-1280x853.jpg" alt="New Study Reveals Why the Endurance Sank" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +290,6 @@
                 <span class="time">2025-10-05 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/scott-pilgrim-1280x853.jpg" alt="Netflix’s ‘Scott Pilgrim’ Anime Levels Up to A Physical Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/netflixs-scott-pilgrim-anime-levels-up-to-a-physical-release-2000667850" target="_blank">Netflix’s ‘Scott Pilgrim’ Anime Levels Up to A Physical Release</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-05 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
