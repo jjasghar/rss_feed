@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 09:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 10:02:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc50/live/7614dc60-a299-11f0-92db-77261a15b9d2.jpg" alt="French Prime Minister Sébastien Lecornu resigns after less than a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cewn9k0w9rxo?at_medium=RSS&at_campaign=rss" target="_blank">French Prime Minister Sébastien Lecornu resigns after less than a month</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 09:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +100,20 @@
                 <span class="time">2025-10-06 03:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/australia-papua-new-guinea-sign-mutual-defence-treaty?traffic_source=rss" target="_blank">Australia, Papua New Guinea sign mutual defence treaty</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 03:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/791460/gpd-win-5-corded-handhelds" target="_blank">While you were partying with your Steam Deck, GPD studied the cord</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +159,38 @@
                 <span class="time">2025-10-05 17:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000" target="_blank">Roland is finally honoring its legacy instead of just cashing in on it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-05 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/digvijay-bhakuni/understanding-the-client-server-model-http-and-state-management-in-web-apps-3ogj" target="_blank">🌐 Understanding the Client–Server Model, HTTP, and State Management in Web Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-06 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-VFIO" target="_blank">VFIO Platform Driver Saved From Removal, NVIDIA GB300 Support Added</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-06 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.paulox.net/2025/10/06/django-orm-comparison/" target="_blank">Django: one ORM to rule all databases</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-06 09:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,38 +218,20 @@
                 <span class="time">2025-10-06 03:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f" target="_blank">Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-06 02:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/java-news-roundup-sep29-2025/en/headerimage/java-istock-image-01-1759705610269.jpg" alt="Java News Roundup: JDK 26 Release Schedule, GlassFish, Spring AI, Helidon, Mandrel 25, Seed4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/java-news-roundup-sep29-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 26 Release Schedule, GlassFish, Spring AI, Helidon, Mandrel 25, Seed4j</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-06 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-5" target="_blank">FreeBSD 15.0 Alpha 5 Brings Release Build Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-06 00:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/endurance-in-the-distance-1280x853.jpg" alt="New Study Reveals Why the Endurance Sank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-study-reveals-why-the-endurance-sank-2000667287" target="_blank">New Study Reveals Why the Endurance Sank</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-06 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/hp-core-ultra-7.jpg" alt="HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +277,6 @@
                 <span class="time">2025-10-05 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/lenovo-legion-go-2-review-02-1280x853.jpg" alt="Lenovo Legion Go 2 Review: A Handheld Made For Big, Meaty Claws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lenovo-legion-go-2-review-a-handheld-made-for-big-meaty-claws-2000666394" target="_blank">Lenovo Legion Go 2 Review: A Handheld Made For Big, Meaty Claws</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
