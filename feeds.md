@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 20:01:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-06 21:01:53 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss" target="_blank">Trump announces 25 percent tariffs on medium and heavy imported trucks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 20:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +93,29 @@
                 <span class="time">2025-10-06 17:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5563882/illinois-and-chicago-sue-the-trump-administration-over-national-guard-deployment" target="_blank">Illinois and Chicago sue the Trump administration over National Guard deployment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-06 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ted-cruz-500x500-1759781343.jpg" alt="Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/ted-cruz-picks-a-fight-with-wikipedia-accusing-platform-of-left-wing-bias/" target="_blank">Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-06 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards" target="_blank">Google&amp;#8217;s AI bounty program pays bug hunters up to $30K</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 20:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +152,6 @@
                 <span class="time">2025-10-06 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-599836043-500x500.jpg" alt="Trump’s EPA sued for axing $7 billion solar energy program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/trumps-epa-sued-for-clawing-back-7b-in-solar-energy-funds/" target="_blank">Trump’s EPA sued for axing $7 billion solar energy program</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-06 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e3e4a168d91f2b22fd4f99/master/pass/china-satellite-sci-2230012977.jpg" alt="Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/taking-these-50-objects-out-of-orbit-would-cut-danger-from-space-junk-in-half/" target="_blank">Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-06 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,10 +160,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Larger-Page-Sizes" target="_blank">Important Patch Series For Nouveau Driver Will Help With NVK Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-06 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-1no4" target="_blank">CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18674330&w=600" alt="Playwright for Real-Time Applications: Testing WebSockets and Live Data Streams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/playwright-for-real-time-applications-testing-webs" target="_blank">Playwright for Real-Time Applications: Testing WebSockets and Live Data Streams</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-06 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -179,39 +194,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-2604-resolute.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Reveal Codename of Next Year’s 26.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-26-04-lts-codename-resolute-raccoon" target="_blank">Ubuntu Reveal Codename of Next Year’s 26.04 LTS</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-06 16:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS Codename Revealed as ‘Resolute Raccoon’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-26-04-lts-codename-resolute-raccoon" target="_blank">Ubuntu 26.04 LTS Codename Revealed as ‘Resolute Raccoon’</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-06 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-Multi-Threaded" target="_blank">Rust-Written Redox OS Enables Multi-Threading By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-06 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/the-clock-is-ticking-ubuntu-summit-25-10-is-just-around-the-corner" target="_blank">The clock is ticking: Ubuntu Summit 25.10 is just around the corner</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-06 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/" target="_blank">Why you should be using pathlib (2018)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-06 15:15</span>
             </div>
         </div>
 </div>
@@ -233,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/FFT-Monks.jpg" alt="Players Are Getting Jump-Scared By One OfFinal Fantasy Tactics’ Most Iconic Battles All Over Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-rare-battles-monks-grogh-heights-2000632127" target="_blank">Players Are Getting Jump-Scared By One OfFinal Fantasy Tactics’ Most Iconic Battles All Over Again</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6XHGFGBDQ9F7MJM6Y86PG8R/hero-image.jpg" alt="The Best Early Prime Deals on Fitness Trackers and Smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitness-trackers-smartwatches-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Early Prime Deals on Fitness Trackers and Smartwatches</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-06 20:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/01/d17ad740066c75d712938cbb4af24db8-1024x575.jpg" alt="Taylor Swift, Defender of Artist Ownership, Allegedly Uses AI in Film Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +282,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-leftovers-retrospective-hbo-2000665275" target="_blank">‘The Leftovers’ Is Still One of TV’s Great Miracles</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-06 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/dandy-day.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="&quot;Have a Dandy Day&quot; is the delightfully strange website the internet was made for" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/06/have-a-dandy-day-is-the-delightfully-strange-website-the-internet-was-made-for.html" target="_blank">&quot;Have a Dandy Day&quot; is the delightfully strange website the internet was made for</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-06 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/DJIMicMini.jpg" alt="DJI Mic Mini Transmitter Is Going for Peanuts Just Like Its Size With a Never-Before-Seen Prime Day Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dji-mic-mini-transmitter-is-going-for-peanuts-just-like-its-size-with-a-never-before-seen-prime-day-discount-2000627260" target="_blank">DJI Mic Mini Transmitter Is Going for Peanuts Just Like Its Size With a Never-Before-Seen Prime Day Discount</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 17:04</span>
             </div>
         </div>
 </div>
@@ -333,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
