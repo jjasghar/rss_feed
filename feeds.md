@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 02:27:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-06 03:15:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 03:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/portland-protests-20251005-getty-jh_1759689808390_hpMain_4x3t_384.jpg" alt="200 California National Guard troops arrive in Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story?id=126223483" target="_blank">200 California National Guard troops arrive in Portland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-06 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg" alt="Conservatives to pledge £5,000 tax rebate for young homebuyers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss" target="_blank">Conservatives to pledge £5,000 tax rebate for young homebuyers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 01:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg" alt="Conservatives to announce £5,000 tax rebate for young homebuyers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5563182/shutdown-lawsuit-education-department-partisan-messages" target="_blank">Federal workers sue Education Department over partisan shutdown emails</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-05 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759705900219_wnn_mve_trump_national_guard_ice_251005_1920x1080-yv30db.jpg" alt="California sues Trump admin. over National Guard deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/-california-sues-trump-admin-over-national-guard-deployment-249142341809" target="_blank">California sues Trump admin. over National Guard deployment</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-05 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-malnutrition_7042965.jpg?20251005154633" alt="Crying babies dimmed by hunger fill this hospital - where parents fear each day might be the last" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/crying-babies-dimmed-by-hunger-fill-this-afghanistan-hospital-where-parents-fear-each-day-might-be-the-last-13445205" target="_blank">Crying babies dimmed by hunger fill this hospital - where parents fear each day might be the last</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-05 23:01</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f" target="_blank">Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-06 02:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-5" target="_blank">FreeBSD 15.0 Alpha 5 Brings Release Build Improvements</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-RDMA" target="_blank">AMD-Pensando Ionic RDMA Driver Added To Linux 6.18, Intel IPU E2000 Hardware Too</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-05 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/parallels-linux-1.jpg?resize=406%2C232&amp;ssl=1" alt="Parallels Desktop Adds ‘Future-Proof Linux Compatibility’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/parallels-desktop-tools-linux-virtio-sock-update" target="_blank">Parallels Desktop Adds ‘Future-Proof Linux Compatibility’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-05 15:35</span>
             </div>
         </div>
 </div>
@@ -305,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 03:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
