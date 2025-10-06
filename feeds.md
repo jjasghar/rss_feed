@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 16:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-06 17:01:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/c0c54c90-a2a3-11f0-92db-77261a15b9d2.jpg" alt="Queen leads tributes to &#x27;wonderfully witty friend&#x27; Dame Jilly Cooper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5q0dr47mlo?at_medium=RSS&at_campaign=rss" target="_blank">Queen leads tributes to &#x27;wonderfully witty friend&#x27; Dame Jilly Cooper</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 12:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/c0c54c90-a2a3-11f0-92db-77261a15b9d2.jpg" alt="Dame Jilly Cooper dies aged 88 after fall, with Queen paying tribute to &#x27;legend&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -90,20 +99,20 @@
                 <span class="time">2025-10-06 12:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b0/live/aff5f100-a2b0-11f0-928c-71dbb8619e94.jpg" alt="Footage appears to show Jihad Al-Shamie before attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62ne93n090o?at_medium=RSS&at_campaign=rss" target="_blank">Footage appears to show Jihad Al-Shamie before attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/" target="_blank">Okosix will show its biodegradable plastic at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-06 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +158,20 @@
                 <span class="time">2025-10-06 13:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f1374106fb0cb6e6aa9fb/master/pass/The%20Best%20Mesh%20Wi-Fi%20Systems.png" alt="6 Best Mesh Wi-Fi Systems (2025), Tested in a Tech Reviewer&#x27;s Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-mesh-wifi-routers/" target="_blank">6 Best Mesh Wi-Fi Systems (2025), Tested in a Tech Reviewer&#x27;s Home</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS Codename Revealed as ‘Resolute Raccoon’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-26-04-lts-codename-resolute-raccoon" target="_blank">Ubuntu 26.04 LTS Codename Revealed as ‘Resolute Raccoon’</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-06 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +217,6 @@
                 <span class="time">2025-10-06 12:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/llm-based-application-evaluation/en/smallimage/the-infoq-podcast-logo-thumbnail-1759238043300.jpg" alt="Podcast: Elena Samuylova on Large Language Model (LLM) Based Application Evaluation and LLM as a Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/llm-based-application-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Elena Samuylova on Large Language Model (LLM) Based Application Evaluation and LLM as a Judge</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-06 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Bugonia-Emma-Stone-1280x853.jpg" alt="A New ‘Bugonia’ Trailer Leans Heavy Into That Alien Question" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-new-bugonia-trailer-leans-heavy-into-that-alien-question-2000668146" target="_blank">A New ‘Bugonia’ Trailer Leans Heavy Into That Alien Question</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-06 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Marshall-Acton-III-Bluetooth-Home-Speaker.jpg" alt="This Marshall Home Speaker Gets the Prime Day Sale Treatment, Now at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-marshall-home-speaker-gets-the-prime-day-sale-treatment-now-at-its-lowest-price-ever-2000631653" target="_blank">This Marshall Home Speaker Gets the Prime Day Sale Treatment, Now at Its Lowest Price Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6V1VY3QQW8DS4N8HG5S5FEP/hero-image.png" alt="You Can Get Microsoft Project 2021 Pro on Sale for Just $10 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-project-2021-pro-stacksocial-sale-october-2025?utm_medium=RSS" target="_blank">You Can Get Microsoft Project 2021 Pro on Sale for Just $10 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-06 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/airtag-4-pack.jpg" alt="Apple Quietly Clears Out Its Final Stock of AirTags, Now Selling at an All‑Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/06/watch-nigel-the-opossum-snack-on-a-gorgeous-hibiscus-flower.html" target="_blank">Watch Nigel the opossum snack on a gorgeous hibiscus flower</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-06 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/jbl-flip-5-speaker.jpg" alt="JBL Quietly Offloads the Waterproof Flip 5 Speaker, Now Listed for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jbl-quietly-offloads-the-waterproof-flip-5-speaker-now-listed-for-pennies-on-amazon-2000631979" target="_blank">JBL Quietly Offloads the Waterproof Flip 5 Speaker, Now Listed for Pennies on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/endurance-in-the-distance-1280x853.jpg" alt="New Study Reveals Why the Endurance Sank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-study-reveals-why-the-endurance-sank-2000667287" target="_blank">New Study Reveals Why the Endurance Sank</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-06 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hp-core-ultra-7.jpg" alt="HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-just-cut-almost-2000-from-its-elitebook-laptop-packing-intel-core-ultra-7-32gb-ddr5-ram-and-1tb-ssd-2000631866" target="_blank">HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 00:27</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
