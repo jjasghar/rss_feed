@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 17:01:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-06 18:02:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 15 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/dept-labor-1-rt-gmh-251006_1759767936640_hpMain_4x3t_384.jpg" alt="Government shutdown halts data, stokes risk as economy wobbles, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/government-shutdown-halts-data-stokes-risk-economy-wobbles/story?id=126259604" target="_blank">Government shutdown halts data, stokes risk as economy wobbles, experts say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-06 17:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/023b/live/68dfa340-a2c1-11f0-b741-177e3e2c2fc7.jpg" alt="France in fresh political crisis as PM Lecornu quits after 26 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cewn9k0w9rxo?at_medium=RSS&at_campaign=rss" target="_blank">France in fresh political crisis as PM Lecornu quits after 26 days</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 17:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/illinois-lawsuit-seeks-to-block-trump-sending-national-guard-to-chicago?traffic_source=rss" target="_blank">Illinois lawsuit seeks to block Trump sending National Guard to Chicago</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5563882/illinois-and-chicago-sue-the-trump-administration-over-national-guard-deployment" target="_blank">Illinois and Chicago sue the Trump administration over National Guard deployment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-06 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,47 +102,38 @@
                 <span class="time">2025-10-06 15:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/chicago-13-gty-gmh-251003_1759516024718_hpMain_4x3t_384.jpg" alt="Illinois files lawsuit to block deployment of National Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/illinois-files-lawsuit-block-deployment-national-guard/story?id=126253079" target="_blank">Illinois files lawsuit to block deployment of National Guard</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-06 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/is-russias-putin-gambling-with-the-safety-of-ukraines-nuclear-stations?traffic_source=rss" target="_blank">Is Russia’s Putin gambling with the safety of Ukraine’s nuclear stations?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/c0c54c90-a2a3-11f0-92db-77261a15b9d2.jpg" alt="Queen leads tributes to &#x27;wonderfully witty friend&#x27; Dame Jilly Cooper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5q0dr47mlo?at_medium=RSS&at_campaign=rss" target="_blank">Queen leads tributes to &#x27;wonderfully witty friend&#x27; Dame Jilly Cooper</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/c0c54c90-a2a3-11f0-92db-77261a15b9d2.jpg" alt="Dame Jilly Cooper dies aged 88 after fall, with Queen paying tribute to &#x27;legend&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5q0dr47mlo?at_medium=RSS&at_campaign=rss" target="_blank">Dame Jilly Cooper dies aged 88 after fall, with Queen paying tribute to &#x27;legend&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/" target="_blank">OpenAI launches AgentKit to help developers build and ship AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-599836043-500x500.jpg" alt="Trump’s EPA sued for axing $7 billion solar energy program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/trumps-epa-sued-for-clawing-back-7b-in-solar-energy-funds/" target="_blank">Trump’s EPA sued for axing $7 billion solar energy program</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-06 17:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e3e4a168d91f2b22fd4f99/master/pass/china-satellite-sci-2230012977.jpg" alt="Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/taking-these-50-objects-out-of-orbit-would-cut-danger-from-space-junk-in-half/" target="_blank">Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-06 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,33 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/792875/verizon-dan-schulman-ceo-hans-vestberg-replacement" target="_blank">Verizon appoints a new CEO for the &amp;#8216;next phase&amp;#8217; after its 5G rollout</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-06 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light" target="_blank">SwitchBot’s new safety tracker can discreetly trigger a fake phone call</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/openai_iceblue_hero-500x500.jpg" alt="AMD wins massive AI chip deal from OpenAI with stock sweetener" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/amd-wins-massive-ai-chip-deal-from-openai-with-stock-sweetener/" target="_blank">AMD wins massive AI chip deal from OpenAI with stock sweetener</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-06 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/altman-ive-500x500.jpg" alt="OpenAI, Jony Ive struggle with technical details on secretive new AI gadget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/openai-jony-ive-struggle-with-technical-details-on-secretive-new-ai-gadget/" target="_blank">OpenAI, Jony Ive struggle with technical details on secretive new AI gadget</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-06 13:21</span>
             </div>
         </div>
 </div>
@@ -184,6 +187,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/" target="_blank">Why you should be using pathlib (2018)</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-06 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/wysiwyg-markdown-editors/" target="_blank">Can&#x27;t Recall the Syntax? Try These WYSIWYG Markdown Editors on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-06 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-IAA-Wildcat-Lake" target="_blank">Linux Preps IAA Accelerator Support For Intel&#x27;s Wildcat Lake</a></span>
                 <span class="feed">Phoronix</span>
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b" target="_blank">Show HN: Kent Dybvig&#x27;s Scheme Machine in 400 Lines of C (Heap-Memory Model)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-06 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/uber-cachefront-150m-reads/en/headerimage/twitter_card-1758938429078.jpg" alt="Uber Achieves 150M Reads per Second with CacheFront Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/uber-cachefront-150m-reads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Achieves 150M Reads per Second with CacheFront Improvements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-06 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://write-it-down.com" target="_blank">Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-06 12:23</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/The-Leftovers-1280x853.jpg" alt="‘The Leftovers’ Is Still One of TV’s Great Miracles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-leftovers-retrospective-hbo-2000665275" target="_blank">‘The Leftovers’ Is Still One of TV’s Great Miracles</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/dandy-day.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="&quot;Have a Dandy Day&quot; is the delightfully strange website the internet was made for" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/06/have-a-dandy-day-is-the-delightfully-strange-website-the-internet-was-made-for.html" target="_blank">&quot;Have a Dandy Day&quot; is the delightfully strange website the internet was made for</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-06 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/DJIMicMini.jpg" alt="DJI Mic Mini Transmitter Is Going for Peanuts Just Like Its Size With a Never-Before-Seen Prime Day Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dji-mic-mini-transmitter-is-going-for-peanuts-just-like-its-size-with-a-never-before-seen-prime-day-discount-2000627260" target="_blank">DJI Mic Mini Transmitter Is Going for Peanuts Just Like Its Size With a Never-Before-Seen Prime Day Discount</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6X0RDRQ0NZ450K2BD9XW83W/hero-image.jpg" alt="How to Limit Who Can Make Deepfakes of You on Sora" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-stop-deepfakes-on-sora?utm_medium=RSS" target="_blank">How to Limit Who Can Make Deepfakes of You on Sora</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-06 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Bugonia-Emma-Stone-1280x853.jpg" alt="A New ‘Bugonia’ Trailer Leans Heavy Into That Alien Question" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -252,42 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/this-marshall-home-speaker-gets-the-prime-day-sale-treatment-now-at-its-lowest-price-ever-2000631653" target="_blank">This Marshall Home Speaker Gets the Prime Day Sale Treatment, Now at Its Lowest Price Ever</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-06 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6V1VY3QQW8DS4N8HG5S5FEP/hero-image.png" alt="You Can Get Microsoft Project 2021 Pro on Sale for Just $10 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-project-2021-pro-stacksocial-sale-october-2025?utm_medium=RSS" target="_blank">You Can Get Microsoft Project 2021 Pro on Sale for Just $10 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-06 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/airtag-4-pack.jpg" alt="Apple Quietly Clears Out Its Final Stock of AirTags, Now Selling at an All‑Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-quietly-clears-out-its-final-stock-of-airtags-now-selling-at-an-all%e2%80%91time-low-on-amazon-2000632076" target="_blank">Apple Quietly Clears Out Its Final Stock of AirTags, Now Selling at an All‑Time Low on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/lego-f1-cars-build.jpg" alt="Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-drops-lego-deals-big-for-prime-day-mini-f1-car-toys-now-selling-for-3-each-2000632056" target="_blank">Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/Screenshot-2023-11-13-at-7.55.43-PM-e1759757562259.png?fit=768%2C652&amp;quality=55&amp;ssl=1" alt="Watch Nigel the opossum snack on a gorgeous hibiscus flower" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/06/watch-nigel-the-opossum-snack-on-a-gorgeous-hibiscus-flower.html" target="_blank">Watch Nigel the opossum snack on a gorgeous hibiscus flower</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-06 13:33</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 274 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
