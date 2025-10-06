@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 10:02:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-06 11:01:37 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cewn9k0w9rxo?at_medium=RSS&at_campaign=rss" target="_blank">French Prime Minister Sébastien Lecornu resigns after less than a month</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-06 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/comey-3-gty-er-250924_1758745535081_hpMain_4x3t_384.jpg" alt="John Durham undercut case against James Comey in interview with prosecutors: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/special-counsel-john-durham-undercut-case-james-comey/story?id=126164120" target="_blank">John Durham undercut case against James Comey in interview with prosecutors: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-06 09:04</span>
             </div>
         </div>
 <div class="story">
@@ -91,20 +97,38 @@
                 <span class="time">2025-10-06 05:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/portland-protests-20251005-getty-jh_1759689808390_hpMain_4x3t_384.jpg" alt="Judge to block &#x27;deployment of any National Guard&#x27; to Oregon in late-night ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story?id=126223483" target="_blank">Judge to block &#x27;deployment of any National Guard&#x27; to Oregon in late-night ruling</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-06 03:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/06/firefly-leans-into-its-defense-ambitions-with-855m-scitec-acquisition/" target="_blank">Firefly leans into its defense ambitions with $855M SciTec acquisition</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-06 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self" target="_blank">Sora provides better control over videos featuring your AI self</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 10:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/endurance5-500x500-1759674339.jpg" alt="Here’s the real reason Endurance sank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/" target="_blank">Here’s the real reason Endurance sank</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-06 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +156,20 @@
                 <span class="time">2025-10-05 20:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words" target="_blank">Jane Goodall’s death triggered the premiere of Netflix’s new show</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-05 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/" target="_blank">California’s new AI safety law shows regulation and innovation don’t have to clash</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-05 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great" target="_blank">If you can get past the terrible logo, Audacity 4 looks pretty great</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-05 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-x86-Platform-Drivers" target="_blank">Linux 6.18 Adds Two New x86 Platform Drivers, New AMD PMF Capabilities</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-06 10:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/sanjaynaker/how-smart-ai-prompts-supercharge-your-code-2kno" target="_blank">How Smart AI Prompts Supercharge Your Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-06 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajeebkp23/how-to-access-shared-folders-in-utm-ubuntu-vm-590n" target="_blank">How to access shared folders in UTM Ubuntu VM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-06 03:39</span>
             </div>
         </div>
 </div>
@@ -314,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
