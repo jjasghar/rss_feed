@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 03:15:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-06 04:02:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 03:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/portland-protests-20251005-getty-jh_1759689808390_hpMain_4x3t_384.jpg" alt="Judge to block &#x27;deployment of any National Guard&#x27; to Oregon in late-night ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story?id=126223483" target="_blank">Judge to block &#x27;deployment of any National Guard&#x27; to Oregon in late-night ruling</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-06 03:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/australia-papua-new-guinea-sign-mutual-defence-treaty?traffic_source=rss" target="_blank">Australia, Papua New Guinea sign mutual defence treaty</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 03:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/portland-protests-20251005-getty-jh_1759689808390_hpMain_4x3t_384.jpg" alt="200 California National Guard troops arrive in Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/more-than-350-trekkers-escape-blizzard-hit-everest-hundreds-still-stranded?traffic_source=rss" target="_blank">More than 350 trekkers escape blizzard-hit Everest, hundreds still stranded</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-06 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd6/live/d4e37ab0-a1f6-11f0-947b-6b8b23372a50.jpg" alt="Trump urges mediators to &#x27;move fast&#x27; as key Gaza peace talks set to begin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss" target="_blank">Trump urges mediators to &#x27;move fast&#x27; as key Gaza peace talks set to begin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-05 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5563182/shutdown-lawsuit-education-department-partisan-messages" target="_blank">Federal workers sue Education Department over partisan shutdown emails</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-05 23:23</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajeebkp23/how-to-access-shared-folders-in-utm-ubuntu-vm-590n" target="_blank">How to access shared folders in UTM Ubuntu VM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-06 03:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f" target="_blank">Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-06 02:58</span>
@@ -205,20 +212,20 @@
                 <span class="time">2025-10-05 16:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-RDMA" target="_blank">AMD-Pensando Ionic RDMA Driver Added To Linux 6.18, Intel IPU E2000 Hardware Too</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-05 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/hp-core-ultra-7.jpg" alt="HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-just-cut-almost-2000-from-its-elitebook-laptop-packing-intel-core-ultra-7-32gb-ddr5-ram-and-1tb-ssd-2000631866" target="_blank">HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 00:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/large-15-portable-monitor.jpg" alt="Now Far Cheaper Than a Switch Game, This 15″ Portable Monitor Lets You Enjoy Big-Screen Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +271,6 @@
                 <span class="time">2025-10-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/jbl-grip-review-2-1280x853.jpg" alt="JBL Grip Speaker Review: A Tiny Way to Be Big Loud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jbl-grip-speaker-review-tiny-way-to-be-big-loud-2000666834" target="_blank">JBL Grip Speaker Review: A Tiny Way to Be Big Loud</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 03:15 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
