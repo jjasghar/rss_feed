@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 21:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 22:01:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 21:02 UTC</div>
+    <div class="newspaper-date">Monday, October 06, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss" target="_blank">Trump announces 25 percent tariffs on medium and heavy imported trucks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-06 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759782084961_f_brk_pritzker_trump_invasion_251006_1920x1080-0dyv07.jpg" alt="Pritzker says Trump&#x27;s &#x27;thuggery&#x27; has made Chicago less safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/illinois-governor-says-trump-s-thuggery-has-made-chicago-less-safe-249209413544" target="_blank">Pritzker says Trump&#x27;s &#x27;thuggery&#x27; has made Chicago less safe</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-06 20:21</span>
             </div>
         </div>
 <div class="story">
@@ -84,20 +99,29 @@
                 <span class="time">2025-10-06 17:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/illinois-lawsuit-seeks-to-block-trump-sending-national-guard-to-chicago?traffic_source=rss" target="_blank">Illinois lawsuit seeks to block Trump sending National Guard to Chicago</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai" target="_blank">ChatGPT apps are live: Here are the first ones you can try</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/06/lucid-motors-sets-record-as-gravity-sales-pick-up-and-tax-credit-expires/" target="_blank">Lucid Motors sets record as Gravity sales pick up and tax credit expires</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-06 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ted-cruz-500x500-1759781343.jpg" alt="Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,24 +158,6 @@
                 <span class="time">2025-10-06 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/" target="_blank">OpenAI launches AgentKit to help developers build and ship AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-06 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search" target="_blank">US v. Google redux: all the news from the ad tech trial</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-06 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,9 +167,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/news/oct25-training-promo/" target="_blank">Prime Time to Save Big on Skills – 50% OFF SITEWIDE!</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2025-10-06 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Larger-Page-Sizes" target="_blank">Important Patch Series For Nouveau Driver Will Help With NVK Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-06 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/" target="_blank">The developer role is evolving. Here’s how to stay ahead.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-06 20:12</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +217,6 @@
                 <span class="time">2025-10-06 18:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-2604-resolute.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Reveal Codename of Next Year’s 26.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-26-04-lts-codename-resolute-raccoon" target="_blank">Ubuntu Reveal Codename of Next Year’s 26.04 LTS</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-06 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS Codename Revealed as ‘Resolute Raccoon’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-26-04-lts-codename-resolute-raccoon" target="_blank">Ubuntu 26.04 LTS Codename Revealed as ‘Resolute Raccoon’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-06 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/GettyImages-2236544077-1280x853.jpg" alt="OpenAI Goes All-In on Vibe Coding, Says ‘Mature Experiences’ Are on the Horizon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-goes-all-in-on-vibe-coding-says-mature-experiences-are-on-the-horizon-2000668253" target="_blank">OpenAI Goes All-In on Vibe Coding, Says ‘Mature Experiences’ Are on the Horizon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-06 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/stephen-miller.jpg?fit=1500%2C957&amp;quality=60&amp;ssl=1" alt="Sure, Jan: Stephen Miller has his finger on the pulse of Black Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/06/sure-jan-stephen-miller-has-his-finger-on-the-pluse-of-black-americans.html" target="_blank">Sure, Jan: Stephen Miller has his finger on the pulse of Black Americans</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-06 21:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/FFT-Monks.jpg" alt="Players Are Getting Jump-Scared By One OfFinal Fantasy Tactics’ Most Iconic Battles All Over Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/xbox-game-pass-ultimate-price-hike-cod-2000632122" target="_blank">Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-06 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6XDRXVH24Y0XMPJKM3SDAHB/hero-image.png" alt="This Portable Shop Vac Is Nearly 20% Off for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/dewalt-wet-dry-shop-vac-october-prime-day-2025?utm_medium=RSS" target="_blank">This Portable Shop Vac Is Nearly 20% Off for October Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-06 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/The-Leftovers-1280x853.jpg" alt="‘The Leftovers’ Is Still One of TV’s Great Miracles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-leftovers-retrospective-hbo-2000665275" target="_blank">‘The Leftovers’ Is Still One of TV’s Great Miracles</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-06 18:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
