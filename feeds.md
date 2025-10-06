@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 15:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 16:01:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5561802/us-census-bureau-2026-test" target="_blank">A major census test begins recruiting workers as some warn about delays</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-06 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/conservative-writer-bari-weiss-named-editor-in-chief-of-cbs-news?traffic_source=rss" target="_blank">Conservative writer Bari Weiss named editor-in-chief of CBS News</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 15:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/chicago-13-gty-gmh-251003_1759516024718_hpMain_4x3t_384.jpg" alt="Illinois files lawsuit to block deployment of National Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/c0c54c90-a2a3-11f0-92db-77261a15b9d2.jpg" alt="Dame Jilly Cooper dies aged 88 after fall, with Queen paying tribute to &#x27;legend&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5q0dr47mlo?at_medium=RSS&at_campaign=rss" target="_blank">Dame Jilly Cooper dies aged 88 after fall, with Queen paying tribute to &#x27;legend&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 12:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b0/live/aff5f100-a2b0-11f0-928c-71dbb8619e94.jpg" alt="Footage appears to show Jihad Al-Shamie before attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -70,38 +99,29 @@
                 <span class="time">2025-10-06 12:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss" target="_blank">Potential hurdles litter road as Israel and Hamas head to Gaza peace talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 12:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/06/us-deportees-eswatini-lawyers-ngos" target="_blank">Eswatini confirms arrival of 10 more people as part of US deportation deal</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-06 12:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/6/anger-and-grief-in-india-after-14-children-die-from-toxic-cough-syrup?traffic_source=rss" target="_blank">Anger and grief in India after 14 children die from toxic cough syrup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 12:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/06/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/" target="_blank">What to expect at OpenAI’s DevDay 2025, and how to watch it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-06 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/792875/verizon-dan-schulman-ceo-hans-vestberg-replacement" target="_blank">Verizon appoints a new CEO for the &amp;#8216;next phase&amp;#8217; after its 5G rollout</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 15:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +158,20 @@
                 <span class="time">2025-10-06 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/792661/sora-fictional-copyright-characters" target="_blank">Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-06 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6838bfe50d9590a68e292f0f/master/pass/The%20Best%20Travel%20Adapters_.png" alt="13 Best Travel Adapters (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-travel-adapters/" target="_blank">13 Best Travel Adapters (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-06 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-Multi-Threaded" target="_blank">Rust-Written Redox OS Enables Multi-Threading By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-06 15:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/podcasts/llm-based-application-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Elena Samuylova on Large Language Model (LLM) Based Application Evaluation and LLM as a Judge</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-06 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-x86-Platform-Drivers" target="_blank">Linux 6.18 Adds Two New x86 Platform Drivers, New AMD PMF Capabilities</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-06 10:17</span>
             </div>
         </div>
 </div>
@@ -294,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1759640174-20251006.png" alt="Saturday Morning Breakfast Cereal - Steve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/steve" target="_blank">Saturday Morning Breakfast Cereal - Steve</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-06 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -311,22 +322,13 @@
                 <span class="time">2025-10-06 01:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1759640123-20251005.png" alt="Saturday Morning Breakfast Cereal - Princess" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/princess-3" target="_blank">Saturday Morning Breakfast Cereal - Princess</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-05 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
