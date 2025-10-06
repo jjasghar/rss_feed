@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 13:09:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 14:01:49 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss" target="_blank">Potential hurdles litter road as Israel and Hamas head to Gaza peace talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 12:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +74,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5544362/turkey-hair-transplants-tourism" target="_blank">How one country has become a top destination for hair transplants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-06 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/6/stabilisation-force-deployment-in-gaza-still-a-crucial?traffic_source=rss" target="_blank">Stabilisation force deployment in Gaza still a “crucial issue”</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -81,29 +98,20 @@
                 <span class="time">2025-10-06 11:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc50/live/7614dc60-a299-11f0-92db-77261a15b9d2.jpg" alt="French Prime Minister Sébastien Lecornu resigns after less than a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cewn9k0w9rxo?at_medium=RSS&at_campaign=rss" target="_blank">French Prime Minister Sébastien Lecornu resigns after less than a month</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/comey-3-gty-er-250924_1758745535081_hpMain_4x3t_384.jpg" alt="John Durham undercut case against James Comey in interview with prosecutors: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/special-counsel-john-durham-undercut-case-james-comey/story?id=126164120" target="_blank">John Durham undercut case against James Comey in interview with prosecutors: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-06 09:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/altman-ive-500x500.jpg" alt="OpenAI, Jony Ive struggle with technical details on secretive new AI gadget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/openai-jony-ive-struggle-with-technical-details-on-secretive-new-ai-gadget/" target="_blank">OpenAI, Jony Ive struggle with technical details on secretive new AI gadget</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-06 13:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f1374106fb0cb6e6aa9fb/master/pass/The%20Best%20Mesh%20Wi-Fi%20Systems.png" alt="6 Best Mesh Wi-Fi Systems (2025), Tested in a Tech Reviewer&#x27;s Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +157,20 @@
                 <span class="time">2025-10-06 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/06/firefly-leans-into-its-defense-ambitions-with-855m-scitec-acquisition/" target="_blank">Firefly leans into its defense ambitions with $855M SciTec acquisition</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-06 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/uber-cachefront-150m-reads/en/headerimage/twitter_card-1758938429078.jpg" alt="Uber Achieves 150M Reads per Second with CacheFront Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/uber-cachefront-150m-reads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Achieves 150M Reads per Second with CacheFront Improvements</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-06 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="time">2025-10-06 09:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nobelprize.org/prizes/medicine/2025/press-release/" target="_blank">Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-06 09:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/lego-f1-cars-build.jpg" alt="Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-drops-lego-deals-big-for-prime-day-mini-f1-car-toys-now-selling-for-3-each-2000632056" target="_blank">Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/Screenshot-2023-11-13-at-7.55.43-PM-e1759757562259.png?fit=768%2C652&amp;quality=55&amp;ssl=1" alt="Watch Nigel the opossum snack on a gorgeous hibiscus flower" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/06/watch-nigel-the-opossum-snack-on-a-gorgeous-hibiscus-flower.html" target="_blank">Watch Nigel the opossum snack on a gorgeous hibiscus flower</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-06 13:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/jbl-flip-5-speaker.jpg" alt="JBL Quietly Offloads the Waterproof Flip 5 Speaker, Now Listed for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/now-far-cheaper-than-a-switch-game-this-15-portable-monitor-lets-you-enjoy-big-screen-play-2000631855" target="_blank">Now Far Cheaper Than a Switch Game, This 15″ Portable Monitor Lets You Enjoy Big-Screen Play</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-05 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/it-welcome-to-derry_0-1280x853.jpg" alt="‘Welcome to Derry’ Will Make You Wait for Full Pennywise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/welcome-to-derry-will-make-you-wait-for-full-pennywise-2000667854" target="_blank">‘Welcome to Derry’ Will Make You Wait for Full Pennywise</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-05 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/black-knight-tartakovsky-1280x853.jpg" alt="Genndy Tartakovsky Won’t Give Up on Getting ‘Black Knight’ Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/genndy-tartakovsky-wont-give-up-on-getting-black-knight-made-2000667740" target="_blank">Genndy Tartakovsky Won’t Give Up on Getting ‘Black Knight’ Made</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-05 18:50</span>
             </div>
         </div>
 </div>
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
