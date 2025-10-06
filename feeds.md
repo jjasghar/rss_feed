@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 19:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 20:01:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 19 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss" target="_blank">Israel says blind Hezbollah fighter, wife killed in Lebanon car strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 19:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759773481784_f_mo_dc_leavitt_denies_cities_251006_1920x1080-xsx0vy.jpg" alt="White House denies Trump aims to &#x27;take over&#x27; cities with the military" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +96,20 @@
                 <span class="time">2025-10-06 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5561802/us-census-bureau-2026-test" target="_blank">A major census test begins recruiting workers as some warn about delays</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-06 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/" target="_blank">Microsoft buys another 100 MW of solar, this time in Japan</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-06 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Kanizsa_triangle-500x500.png" alt="The neurons that let us see what isn’t there" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,20 +155,29 @@
                 <span class="time">2025-10-06 17:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/" target="_blank">Okosix will show its biodegradable plastic at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-06 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-1no4" target="_blank">CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Xeon-6-PCIe-Workaround-Linux" target="_blank">Linux 6.18 Works Around An Intel Xeon 6 PCIe Performance Issue</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-06 18:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS Codename Revealed as ‘Resolute Raccoon’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,24 +214,6 @@
                 <span class="time">2025-10-06 15:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/wysiwyg-markdown-editors/" target="_blank">Can&#x27;t Recall the Syntax? Try These WYSIWYG Markdown Editors on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-06 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-IAA-Wildcat-Lake" target="_blank">Linux Preps IAA Accelerator Support For Intel&#x27;s Wildcat Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-06 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +233,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/01/d17ad740066c75d712938cbb4af24db8-1024x575.jpg" alt="Taylor Swift, Defender of Artist Ownership, Allegedly Uses AI in Film Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/taylor-swift-defender-of-artist-ownership-allegedly-uses-ai-in-film-project-2000668170" target="_blank">Taylor Swift, Defender of Artist Ownership, Allegedly Uses AI in Film Project</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/MCMAIN.jpg" alt="Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-game-pass-ultimate-price-hike-cod-2000632122" target="_blank">Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6XDRXVH24Y0XMPJKM3SDAHB/hero-image.png" alt="This Portable Shop Vac Is Nearly 20% Off for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/dewalt-wet-dry-shop-vac-october-prime-day-2025?utm_medium=RSS" target="_blank">This Portable Shop Vac Is Nearly 20% Off for October Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-06 19:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/The-Leftovers-1280x853.jpg" alt="‘The Leftovers’ Is Still One of TV’s Great Miracles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,33 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/dji-mic-mini-transmitter-is-going-for-peanuts-just-like-its-size-with-a-never-before-seen-prime-day-discount-2000627260" target="_blank">DJI Mic Mini Transmitter Is Going for Peanuts Just Like Its Size With a Never-Before-Seen Prime Day Discount</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-06 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6X0RDRQ0NZ450K2BD9XW83W/hero-image.jpg" alt="How to Limit Who Can Make Deepfakes of You on Sora" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-stop-deepfakes-on-sora?utm_medium=RSS" target="_blank">How to Limit Who Can Make Deepfakes of You on Sora</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-06 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Bugonia-Emma-Stone-1280x853.jpg" alt="A New ‘Bugonia’ Trailer Leans Heavy Into That Alien Question" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-new-bugonia-trailer-leans-heavy-into-that-alien-question-2000668146" target="_blank">A New ‘Bugonia’ Trailer Leans Heavy Into That Alien Question</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-06 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Marshall-Acton-III-Bluetooth-Home-Speaker.jpg" alt="This Marshall Home Speaker Gets the Prime Day Sale Treatment, Now at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-marshall-home-speaker-gets-the-prime-day-sale-treatment-now-at-its-lowest-price-ever-2000631653" target="_blank">This Marshall Home Speaker Gets the Prime Day Sale Treatment, Now at Its Lowest Price Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 16:34</span>
             </div>
         </div>
 </div>
@@ -329,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
