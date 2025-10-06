@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 14:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-10-06 15:01:43 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/chicago-13-gty-gmh-251003_1759516024718_hpMain_4x3t_384.jpg" alt="Illinois files lawsuit to block deployment of National Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/illinois-files-lawsuit-block-deployment-national-guard/story?id=126253079" target="_blank">Illinois files lawsuit to block deployment of National Guard</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-06 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/is-russias-putin-gambling-with-the-safety-of-ukraines-nuclear-stations?traffic_source=rss" target="_blank">Is Russia’s Putin gambling with the safety of Ukraine’s nuclear stations?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b0/live/aff5f100-a2b0-11f0-928c-71dbb8619e94.jpg" alt="Footage appears to show Jihad Al-Shamie before attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62ne93n090o?at_medium=RSS&at_campaign=rss" target="_blank">Footage appears to show Jihad Al-Shamie before attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 12:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +97,29 @@
                 <span class="time">2025-10-06 12:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5544362/turkey-hair-transplants-tourism" target="_blank">How one country has become a top destination for hair transplants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-06 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/6/stabilisation-force-deployment-in-gaza-still-a-crucial?traffic_source=rss" target="_blank">Stabilisation force deployment in Gaza still a “crucial issue”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/06/g-s1-91435/virus-marburg-deadly-disease-rwanda" target="_blank">A bold doctor sent her kids away and helped beat one of the world&#x27;s deadliest viruses</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-06 11:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light" target="_blank">SwitchBot’s new safety tracker can discreetly trigger a fake phone call</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/openai_iceblue_hero-500x500.jpg" alt="AMD wins massive AI chip deal from OpenAI with stock sweetener" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/amd-wins-massive-ai-chip-deal-from-openai-with-stock-sweetener/" target="_blank">AMD wins massive AI chip deal from OpenAI with stock sweetener</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-06 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/altman-ive-500x500.jpg" alt="OpenAI, Jony Ive struggle with technical details on secretive new AI gadget" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +156,29 @@
                 <span class="time">2025-10-06 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement" target="_blank">AMD teams up with OpenAI to challenge Nvidia&amp;#8217;s AI chip dominance</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-06 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-500x500.jpg" alt="Elon Musk tries to make Apple and mobile carriers regret choosing Starlink rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/" target="_blank">Elon Musk tries to make Apple and mobile carriers regret choosing Starlink rivals</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-06 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-IAA-Wildcat-Lake" target="_blank">Linux Preps IAA Accelerator Support For Intel&#x27;s Wildcat Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-06 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b" target="_blank">Show HN: Kent Dybvig&#x27;s Scheme Machine in 400 Lines of C (Heap-Memory Model)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-06 14:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/uber-cachefront-150m-reads/en/headerimage/twitter_card-1758938429078.jpg" alt="Uber Achieves 150M Reads per Second with CacheFront Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +215,6 @@
                 <span class="time">2025-10-06 10:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/digvijay-bhakuni/understanding-the-client-server-model-http-and-state-management-in-web-apps-3ogj" target="_blank">🌐 Understanding the Client–Server Model, HTTP, and State Management in Web Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-06 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-VFIO" target="_blank">VFIO Platform Driver Saved From Removal, NVIDIA GB300 Support Added</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-06 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/airtag-4-pack.jpg" alt="Apple Quietly Clears Out Its Final Stock of AirTags, Now Selling at an All‑Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-quietly-clears-out-its-final-stock-of-airtags-now-selling-at-an-all%e2%80%91time-low-on-amazon-2000632076" target="_blank">Apple Quietly Clears Out Its Final Stock of AirTags, Now Selling at an All‑Time Low on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 14:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/lego-f1-cars-build.jpg" alt="Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +288,6 @@
                 <span class="time">2025-10-06 00:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/large-15-portable-monitor.jpg" alt="Now Far Cheaper Than a Switch Game, This 15″ Portable Monitor Lets You Enjoy Big-Screen Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/now-far-cheaper-than-a-switch-game-this-15-portable-monitor-lets-you-enjoy-big-screen-play-2000631855" target="_blank">Now Far Cheaper Than a Switch Game, This 15″ Portable Monitor Lets You Enjoy Big-Screen Play</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-05 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
