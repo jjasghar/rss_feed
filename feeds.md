@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 07:02:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-06 08:02:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/north-darfur-displacement-worsens-as-sudan-paramilitary-tightens-siege?traffic_source=rss" target="_blank">North Darfur displacement worsens as Sudan paramilitary tightens siege</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 07:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg" alt="Former England rugby captain Lewis Moody reveals MND diagnosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story?id=126223483" target="_blank">200 California National Guard troops arrive in Portland</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-06 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg" alt="Conservatives to pledge £5,000 tax rebate for young homebuyers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss" target="_blank">Conservatives to pledge £5,000 tax rebate for young homebuyers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 01:11</span>
             </div>
         </div>
 </div>
@@ -288,6 +281,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/06/the-blessing-part-one" target="_blank">The Blessing, Part One</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-06 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5672.png" alt="Good Times, Good Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -310,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
