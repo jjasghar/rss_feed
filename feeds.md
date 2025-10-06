@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 18:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 19:01:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759773481784_f_mo_dc_leavitt_denies_cities_251006_1920x1080-xsx0vy.jpg" alt="White House denies Trump aims to &#x27;take over&#x27; cities with the military" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/white-house-denies-trump-aims-to-take-over-cities-with-the-military-249191493763" target="_blank">White House denies Trump aims to &#x27;take over&#x27; cities with the military</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-06 17:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/dept-labor-1-rt-gmh-251006_1759767936640_hpMain_4x3t_384.jpg" alt="Government shutdown halts data, stokes risk as economy wobbles, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +92,20 @@
                 <span class="time">2025-10-06 15:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/conservative-writer-bari-weiss-named-editor-in-chief-of-cbs-news?traffic_source=rss" target="_blank">Conservative writer Bari Weiss named editor-in-chief of CBS News</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Kanizsa_triangle-500x500.png" alt="The neurons that let us see what isn’t there" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/" target="_blank">The neurons that let us see what isn’t there</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-06 18:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -114,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/" target="_blank">OpenAI launches AgentKit to help developers build and ship AI agents</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search" target="_blank">US v. Google redux: all the news from the ad tech trial</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 17:55</span>
             </div>
         </div>
 <div class="story">
@@ -143,24 +151,6 @@
                 <span class="time">2025-10-06 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/06/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/" target="_blank">What to expect at OpenAI’s DevDay 2025, and how to watch it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-06 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/792875/verizon-dan-schulman-ceo-hans-vestberg-replacement" target="_blank">Verizon appoints a new CEO for the &amp;#8216;next phase&amp;#8217; after its 5G rollout</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-06 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +172,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-Multi-Threaded" target="_blank">Rust-Written Redox OS Enables Multi-Threading By Default</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-06 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/the-clock-is-ticking-ubuntu-summit-25-10-is-just-around-the-corner" target="_blank">The clock is ticking: Ubuntu Summit 25.10 is just around the corner</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-06 15:16</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-IAA-Wildcat-Lake" target="_blank">Linux Preps IAA Accelerator Support For Intel&#x27;s Wildcat Lake</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-06 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b" target="_blank">Show HN: Kent Dybvig&#x27;s Scheme Machine in 400 Lines of C (Heap-Memory Model)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-06 14:06</span>
             </div>
         </div>
 </div>
@@ -299,6 +289,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/06/the-blessing-part-one" target="_blank">The Blessing, Part One</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-06 18:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1759640174-20251006.png" alt="Saturday Morning Breakfast Cereal - Steve" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -330,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 274 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
