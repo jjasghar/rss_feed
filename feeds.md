@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 01:29:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-06 02:27:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, October 06, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg" alt="Conservatives to announce £5,000 tax rebate for young homebuyers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss" target="_blank">Conservatives to announce £5,000 tax rebate for young homebuyers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/6/more-than-350-trekkers-escape-blizzard-hit-everest-hundreds-still-stranded?traffic_source=rss" target="_blank">More than 350 trekkers escape blizzard-hit Everest, hundreds still stranded</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-06 01:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd6/live/d4e37ab0-a1f6-11f0-947b-6b8b23372a50.jpg" alt="Trump urges mediators to &#x27;move fast&#x27; as key Gaza peace talks set to begin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,39 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759705900219_wnn_mve_trump_national_guard_ice_251005_1920x1080-yv30db.jpg" alt="California sues Trump admin. over National Guard deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/-california-sues-trump-admin-over-national-guard-deployment-249142341809" target="_blank">California sues Trump admin. over National Guard deployment</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-05 23:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-malnutrition_7042965.jpg?20251005154633" alt="Crying babies dimmed by hunger fill this hospital - where parents fear each day might be the last" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/crying-babies-dimmed-by-hunger-fill-this-afghanistan-hospital-where-parents-fear-each-day-might-be-the-last-13445205" target="_blank">Crying babies dimmed by hunger fill this hospital - where parents fear each day might be the last</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-10-05 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/5/gov-newsom-says-trump-is-sending-california-national-guard-troops-to-oregon?traffic_source=rss" target="_blank">Gov Newsom says Trump is sending California National Guard troops to Oregon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-05 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/portland-protests-20251005-getty-jh_1759689808390_hpMain_4x3t_384.jpg" alt="Newsom says he&#x27;ll sue to keep Trump from sending California Guard to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story?id=126223483" target="_blank">Newsom says he&#x27;ll sue to keep Trump from sending California Guard to Portland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-05 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/05/nx-s1-5563116/bad-bunny-snl-premiere-trump" target="_blank">SNL roasts Trump in season premiere, as Bad Bunny addresses Super Bowl criticism</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-05 18:38</span>
             </div>
         </div>
 </div>
@@ -281,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5672.png" alt="Good Times, Good Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5672" target="_blank">Good Times, Good Times</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-06 01:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1759640123-20251005.png" alt="Saturday Morning Breakfast Cereal - Princess" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -294,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
