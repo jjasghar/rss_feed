@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 08:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 09:01:51 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -158,12 +166,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyibye2llvo03zrdpos3m.png" alt="A Simple Way to Grasp Dependency Injection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/duskoperic/a-simple-way-to-grasp-dependency-injection-41ef" target="_blank">A Simple Way to Grasp Dependency Injection</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 08:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/" target="_blank">Context is king for secure, AI-generated code</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-10-07 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/openstack-cloud-happy-15th-anniversary" target="_blank">OpenStack cloud – happy 15th anniversary!</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-07 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +217,6 @@
                 <span class="title"><a href="https://grahamdumpleton.me/posts/2025/10/lazy-imports-using-wrapt/" target="_blank">Lazy imports using wrapt - Graham Dumpleton</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-07 06:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/railsstudent/building-an-ai-creative-suite-with-angular-gemini-imagen-and-veo-41bk" target="_blank">Building an AI Creative Suite with Angular, Gemini, Imagen and Veo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-07 03:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Bigger-Boot-Firmware" target="_blank">Fedora 43 Landing Emergency Change To Increase /boot Due To NVIDIA GPU Firmware &amp; Other Bloat</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-07 00:32</span>
             </div>
         </div>
 </div>
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
