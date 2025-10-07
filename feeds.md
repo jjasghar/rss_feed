@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 04:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 05:01:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 04:02 UTC</div>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/birds-eye-view/2025/10/7/as-israel-systematically-destroys-gaza-city-those-fleeing-have-few-options?traffic_source=rss" target="_blank">As Israel systematically destroys Gaza City, those fleeing have few options</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 04:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e99/live/02c2b3f0-a324-11f0-92db-77261a15b9d2.jpg" alt="Trump says chance of Gaza peace deal &#x27;really good&#x27; as talks to continue in Egypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5560216/who-is-larry-ellison-the-billionaire-trump-friend-whos-part-of-the-tiktok-takeover" target="_blank">Who is Larry Ellison, the billionaire Trump friend who&#x27;s part of the TikTok takeover?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-06 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss" target="_blank">Trump announces 25 percent tariffs on medium and heavy imported trucks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 20:26</span>
             </div>
         </div>
 </div>
@@ -173,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/" target="_blank">Context is king for secure, AI-generated code</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-07 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/railsstudent/building-an-ai-creative-suite-with-angular-gemini-imagen-and-veo-41bk" target="_blank">Building an AI Creative Suite with Angular, Gemini, Imagen and Veo</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/tomivan/coding-challenge-practice-question-22-4pb8" target="_blank">Coding Challenge Practice - Question 22</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-06 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/dreamer-4-minecraft-agent/en/headerimage/dreamer-4-mincraft-agent-1759785234841.jpeg" alt="Dreamer 4: Learning to Achieve Goals from Offline Data Through Imagination Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/dreamer-4-minecraft-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dreamer 4: Learning to Achieve Goals from Offline Data Through Imagination Training</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-06 22:00</span>
             </div>
         </div>
 </div>
@@ -343,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
