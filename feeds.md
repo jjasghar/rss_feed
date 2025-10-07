@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 05:01:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-07 06:02:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/chicago-2-gty-gmh-251006_1759761869543_hpMain_4x3t_384.jpg" alt="Trump threatens use of Insurrection Act as governor says Black Hawks used in ICE raid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/illinois-files-lawsuit-block-deployment-national-guard/story?id=126253079" target="_blank">Trump threatens use of Insurrection Act as governor says Black Hawks used in ICE raid</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-07 01:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/chicago-2-gty-gmh-251006_1759761869543_hpMain_4x3t_384.jpg" alt="Trump threatens use of Insurrection Act as governor says Black Hawks used ICE raid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -85,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20vlpwrzwdo?at_medium=RSS&at_campaign=rss" target="_blank">One iPhone led police to gang suspected of sending up to 40,000 stolen UK phones to China</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-06 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/06/nx-s1-5560216/who-is-larry-ellison-the-billionaire-trump-friend-whos-part-of-the-tiktok-takeover" target="_blank">Who is Larry Ellison, the billionaire Trump friend who&#x27;s part of the TikTok takeover?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-06 20:41</span>
             </div>
         </div>
 </div>
@@ -333,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
