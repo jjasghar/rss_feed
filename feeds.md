@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 14:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 15:01:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/7/italy-to-propose-global-ceasefire-for-2026-winter-olympics?traffic_source=rss" target="_blank">Italy to propose global ceasefire for 2026 Winter Olympics</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg" alt="Jenrick defends comments on not seeing &#x27;another white face&#x27; in area of Birmingham" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +99,20 @@
                 <span class="time">2025-10-07 11:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg" alt="PM urges students not to join pro-Palestinian protests on 7 October" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss" target="_blank">PM urges students not to join pro-Palestinian protests on 7 October</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-07 10:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1" target="_blank">The 162 best October Prime Day deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-07 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,38 @@
                 <span class="time">2025-10-07 09:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e408a2089e9a406fb333fb/master/pass/gear-jony-ive-openai-AP25141660380307.jpg" alt="Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/" target="_blank">Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-07 01:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb" target="_blank">MCP servers have issues, so I built &#x27;lootbox&#x27; (inspired by Cloudflare&#x27;s Code Mode)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-MM" target="_blank">The Many Memory Management Improvements In Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-07 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18678799&w=600" alt="Master Developer Writing: From Docs and Pull Requests to Blog Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/developer-writing-guide-docs-prs-blogs" target="_blank">Master Developer Writing: From Docs and Pull Requests to Blog Posts</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-07 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +217,6 @@
                 <span class="time">2025-10-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18575177&w=600" alt="Booleans vs Integers in Databases: Understanding the Trade-Offs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/booleans-vs-integers" target="_blank">Booleans vs Integers in Databases: Understanding the Trade-Offs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18676754&w=600" alt="Smart Choices Between Inter- and Intra-GPU Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/gpu-communication-cheatsheet" target="_blank">Smart Choices Between Inter- and Intra-GPU Communication</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18676714&w=600" alt="Who Governs Your NHIs? The Challenge of Defining Ownership in Modern Enterprise IT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/who-governs-your-nhis" target="_blank">Who Governs Your NHIs? The Challenge of Defining Ownership in Modern Enterprise IT</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-07 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/MARATHONMAIN.jpg" alt="Bungie’s Marathon Resurfaces To Test One Of Players’ Most-Requested Gameplay Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-bungie-playtest-plagiarism-ttk-prox-chat-2000632553" target="_blank">Bungie’s Marathon Resurfaces To Test One Of Players’ Most-Requested Gameplay Features</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-07 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6X7YQ0630V6R7H4K395VYKY/hero-image.jpg" alt="October Prime Day 2025 Live Blog: The Best Deals We&#x27;ve Found at All Price Points" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/october-prime-day-10-07-2025-live-blog?utm_medium=RSS" target="_blank">October Prime Day 2025 Live Blog: The Best Deals We&#x27;ve Found at All Price Points</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-07 14:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2196581319.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="Renewables overtake coal as world&#x27;s top energy source" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/dji-is-quietly-offloading-its-mini-4k-drones-now-selling-at-a-new-record-low-price-on-amazon-2000632469" target="_blank">DJI Is Quietly Offloading Its Mini 4K Drones, Now Selling at a New Record Low Price on Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-07 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6Z60CR3ATP0RP303AAN9TVX/hero-image.png" alt="This Four-Pack of Apple AirTags Is 35% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-air-tags-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">This Four-Pack of Apple AirTags Is 35% Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-07 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/govee-floor-lamp-smart.jpg" alt="Amazon Clears Out Govee Smart Lamp Stock, Now Selling for Less Than a Basic Floor Lamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-clears-out-govee-smart-lamp-stock-now-selling-for-less-than-a-basic-floor-lamp-2000632160" target="_blank">Amazon Clears Out Govee Smart Lamp Stock, Now Selling for Less Than a Basic Floor Lamp</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-07 00:35</span>
             </div>
         </div>
 </div>
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
