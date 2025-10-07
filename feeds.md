@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-06 23:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 00:04:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 06, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/chicago-2-gty-gmh-251006_1759761869543_hpMain_4x3t_384.jpg" alt="Trump threatens use of Insurrection Act as governor says Black Hawks used ICE raid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/illinois-files-lawsuit-block-deployment-national-guard/story?id=126253079" target="_blank">Trump threatens use of Insurrection Act as governor says Black Hawks used ICE raid</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-06 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/shutdown-1-rt-gmh-251006_1759756530332_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate again fails to pass funding bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss" target="_blank">Israel says blind Hezbollah fighter, wife killed in Lebanon car strike</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-06 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759773481784_f_mo_dc_leavitt_denies_cities_251006_1920x1080-xsx0vy.jpg" alt="White House denies Trump aims to &#x27;take over&#x27; cities with the military" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/white-house-denies-trump-aims-to-take-over-cities-with-the-military-249191493763" target="_blank">White House denies Trump aims to &#x27;take over&#x27; cities with the military</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-06 17:58</span>
             </div>
         </div>
 </div>
@@ -170,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/11/gimp-3.0-hero.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.0.6 Update is a Bug-Fix Backport Bonanza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/gimp-3-0-6-update-fixes-bugs" target="_blank">GIMP 3.0.6 Update is a Bug-Fix Backport Bonanza</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-06 22:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -214,15 +214,6 @@
                 <span class="time">2025-10-06 20:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-1no4" target="_blank">CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-06 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/roborock-saros-10r-mop.jpg" alt="The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-22000-pa-roborock-with-mop-delivers-luxury-cleaning-power-now-at-its-lowest-price-for-prime-members-2000632151" target="_blank">The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members.</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-06 23:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Apple-2025-MacBook-Air-13-inch-Laptop-with-M4-chip.jpg" alt="This MacBook Air (M4, 256GB, 16GB RAM), Now Costs Half the Price of a Pro, Amazon Rushes to Clear Out Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-rare-battles-monks-grogh-heights-2000632127" target="_blank">Players Are Getting Jump-Scared By One OfFinal Fantasy Tactics’ Most Iconic Battles All Over Again</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-06 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6XHGFGBDQ9F7MJM6Y86PG8R/hero-image.jpg" alt="The Best Early Prime Deals on Fitness Trackers and Smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitness-trackers-smartwatches-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Early Prime Deals on Fitness Trackers and Smartwatches</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-06 20:21</span>
             </div>
         </div>
 </div>
@@ -342,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
