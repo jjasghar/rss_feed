@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 20:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 21:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss" target="_blank">Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 20:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nat-guard-chi-2-ht-gmh-251007_1759860911908_hpMain_4x3t_384.jpg" alt="Texas National Guard arrives in Illinois, as Pritzker decries &#x27;authoritarian march&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8a/live/18790530-a39e-11f0-b741-177e3e2c2fc7.jpg" alt="Payouts of £700 per claim after car finance scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqlzwqv7xz1o?at_medium=RSS&at_campaign=rss" target="_blank">Payouts of £700 per claim after car finance scandal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-07 16:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8a/live/18790530-a39e-11f0-b741-177e3e2c2fc7.jpg" alt="Payouts of £700 per driver after car finance scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -75,29 +98,20 @@
                 <span class="time">2025-10-07 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pritzker-main_1759835037989_hpMain_4x3t_384.jpg" alt="Texas National Guard headed to Illinois, as Pritzker decries &#x27;authoritarian march&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/texas-national-guard-headed-illinois-gov-pritzker-calls/story?id=126283676" target="_blank">Texas National Guard headed to Illinois, as Pritzker decries &#x27;authoritarian march&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-07 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/italy-israel-world-cup-tie-faces-security-a-concern-amid-protests?traffic_source=rss" target="_blank">Italy-Israel World Cup tie faces security concerns amid protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism" target="_blank">Former Apple bosses slam decision to take down ICEBlock</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-07 20:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +157,6 @@
                 <span class="time">2025-10-07 16:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/07/the-iphone-air-is-so-light-i-forgot-it-was-in-my-pocket/" target="_blank">The iPhone Air is so light, I forgot it was in my pocket</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-07 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/shifa_noorulain_2c5f713e9/beyond-transformers-can-mlps-unlock-the-potential-of-in-context-learning-2jbl" target="_blank">Beyond Transformers: Can MLPs Unlock the Potential of In-Context Learning?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-07 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/technology/google-deepmind/gemini-computer-use-model/" target="_blank">Gemini 2.5 Computer Use model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-07 19:49</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +216,6 @@
                 <span class="time">2025-10-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Python-3.14" target="_blank">Python 3.14 Released With Performance Improvements, Free-Threading &amp; Zstd</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-07 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/image-20.jpg" alt="Jimmy Fallon Is Trying To Make Wordle Into A Game Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wordle-jimmy-fallon-game-show-host-nbc-savannah-guthrie-2000632667" target="_blank">Jimmy Fallon Is Trying To Make Wordle Into A Game Show</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-07 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K703SN4SWT520KNM47T0J9BS/hero-image.png" alt="This Rowing Machine Delivers a Full-Body Workout, and It&#x27;s 25% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/hydrow-rowing-machine-october-prime-day-2025?utm_medium=RSS" target="_blank">This Rowing Machine Delivers a Full-Body Workout, and It&#x27;s 25% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-07 20:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/LEGOAvengersAgeOfUltron.jpg" alt="LEGO Marvel Avengers Age of Ultron Set Drops Below Black Friday, Feels Like a Freebie With 6 Minifigures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +289,6 @@
                 <span class="time">2025-10-07 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/MARATHONMAIN.jpg" alt="Bungie’s Marathon Resurfaces To Test One Of Players’ Most-Requested Gameplay Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-bungie-playtest-plagiarism-ttk-prox-chat-2000632553" target="_blank">Bungie’s Marathon Resurfaces To Test One Of Players’ Most-Requested Gameplay Features</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-07 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6X7YQ0630V6R7H4K395VYKY/hero-image.jpg" alt="October Prime Day 2025 Live Blog: The Best Deals We&#x27;ve Found at All Price Points" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/october-prime-day-10-07-2025-live-blog?utm_medium=RSS" target="_blank">October Prime Day 2025 Live Blog: The Best Deals We&#x27;ve Found at All Price Points</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-07 14:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
