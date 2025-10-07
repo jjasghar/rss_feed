@@ -1,13 +1,12 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 16:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-07 17:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
@@ -16,23 +15,18 @@
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68e0b5c52e3fc9a36ea8f4c2/master/pass/This%20Sonos%20Prime%20Day%20Soundbar%20Deal%20is%20Hard%20to%20Beat.png" alt="Save 25 Percent on This Sonos Prime Day Soundbar Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-soundbar-deal-october-2025/" target="_blank">Save 25 Percent on This Sonos Prime Day Soundbar Deal</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-07 16:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -152,20 +155,20 @@
                 <span class="time">2025-10-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/793958/microsoft-windows-11-dark-mode-official-changes" target="_blank">Windows 11’s dark mode is getting more consistent in File Explorer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-07 09:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Python-3.14" target="_blank">Python 3.14 Released With Performance Improvements, Free-Threading &amp; Zstd</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-07 16:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-MM" target="_blank">The Many Memory Management Improvements In Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-07 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18678799&w=600" alt="Master Developer Writing: From Docs and Pull Requests to Blog Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/developer-writing-guide-docs-prs-blogs" target="_blank">Master Developer Writing: From Docs and Pull Requests to Blog Posts</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-07 14:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
