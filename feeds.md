@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 00:04:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-07 01:29:03 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2239175375-500x500.jpg" alt="Discovery of cells that keep immune responses in check wins medicine Nobel Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/discovery-of-cells-that-keep-immune-responses-in-check-wins-medicine-nobel-prize/" target="_blank">Discovery of cells that keep immune responses in check wins medicine Nobel Prize</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-06 23:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -146,20 +159,20 @@
                 <span class="time">2025-10-06 19:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/" target="_blank">Microsoft buys another 100 MW of solar, this time in Japan</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-06 19:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Bigger-Boot-Firmware" target="_blank">Fedora 43 Landing Emergency Change To Increase /boot Due To NVIDIA GPU Firmware &amp; Other Bloat</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-07 00:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/11/gimp-3.0-hero.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.0.6 Update is a Bug-Fix Backport Bonanza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +218,6 @@
                 <span class="time">2025-10-06 20:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/" target="_blank">The developer role is evolving. Here’s how to stay ahead.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-06 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/terrifier-horror-nights-instagram-1280x853.jpg" alt="Just Look How Bloody Gross Universal’s ‘Terrifier’ Haunted House Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/just-look-how-bloody-gross-universals-terrifier-haunted-house-is-2000668471" target="_blank">Just Look How Bloody Gross Universal’s ‘Terrifier’ Haunted House Is</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-07 00:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/roborock-saros-10r-mop.jpg" alt="The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +291,6 @@
                 <span class="time">2025-10-06 21:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/FFT-Monks.jpg" alt="Players Are Getting Jump-Scared By One OfFinal Fantasy Tactics’ Most Iconic Battles All Over Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-rare-battles-monks-grogh-heights-2000632127" target="_blank">Players Are Getting Jump-Scared By One OfFinal Fantasy Tactics’ Most Iconic Battles All Over Again</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,22 +323,13 @@
                 <span class="time">2025-10-06 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5672.png" alt="Good Times, Good Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5672" target="_blank">Good Times, Good Times</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-06 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
