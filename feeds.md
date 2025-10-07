@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 17:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 18:02:27 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 14 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/7/canadas-carney-makes-second-white-house-visit-as-trade-tensions-loom?traffic_source=rss" target="_blank">Canada’s Carney makes second White House visit as trade tensions loom</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/07/g-s1-92367/october-7-two-years-gaza-war-israel-hamas-palestinians" target="_blank">These numbers show how 2 years of war have devastated Palestinian lives in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-07 17:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8a/live/18790530-a39e-11f0-b741-177e3e2c2fc7.jpg" alt="Payouts of £700 per driver after car finance scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqlzwqv7xz1o?at_medium=RSS&at_campaign=rss" target="_blank">Payouts of £700 per driver after car finance scandal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-07 16:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/pritzker-main_1759835037989_hpMain_4x3t_384.jpg" alt="Texas National Guard headed to Illinois, as Pritzker decries &#x27;authoritarian march&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +102,38 @@
                 <span class="time">2025-10-07 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg" alt="Jenrick defends comments on not seeing &#x27;another white face&#x27; in area of Birmingham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss" target="_blank">Jenrick defends comments on not seeing &#x27;another white face&#x27; in area of Birmingham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-07 13:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/pope-leo-plans-symbolic-debut-foreign-trips-to-turkiye-and-lebanon?traffic_source=rss" target="_blank">Pope Leo plans symbolic debut foreign trips to Turkiye and Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/myanmar-activists-to-sue-norways-telenor-for-handing-data-to-military?traffic_source=rss" target="_blank">Myanmar activists to sue Norway’s Telenor for handing data to military</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/" target="_blank">X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-07 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2173939307-500x500.jpg" alt="Natural disasters are a rising burden for the National Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/natural-disasters-are-a-rising-burden-for-the-national-guard/" target="_blank">Natural disasters are a rising burden for the National Guard</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-07 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025" target="_blank">The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-07 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e0b5c52e3fc9a36ea8f4c2/master/pass/This%20Sonos%20Prime%20Day%20Soundbar%20Deal%20is%20Hard%20to%20Beat.png" alt="Save 25 Percent on This Sonos Prime Day Soundbar Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +161,29 @@
                 <span class="time">2025-10-07 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop" target="_blank">The best budget robot vacuums</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-07 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1496117734-500x500-1759836601.jpg" alt="It’s Prime Day 2025 part two, and here are the best deals we could find" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/shopping/2025/10/its-prime-day-2025-part-two-and-here-are-the-best-deals-we-could-find/" target="_blank">It’s Prime Day 2025 part two, and here are the best deals we could find</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686729e7c3e228b35983727d/master/pass/Best%20Wifi%20Routers.png" alt="12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-wifi-routers/" target="_blank">12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-07 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18680978&w=600" alt="Why Incomplete Documentation Is a Security Vulnerability in SaaS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/incomplete-documentation-saas-security-risk" target="_blank">Why Incomplete Documentation Is a Security Vulnerability in SaaS</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/" target="_blank">How GitHub Copilot enabled accessibility governance process improvements in record time</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-07 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,39 +203,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/db80769a-f3cf-4019-81a9-6e95151e106a_1460x1070.png" alt="State of the software engineering jobs market, 2025: what hiring managers see" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/state-of-the-tech-market-in-2025-hiring-managers" target="_blank">State of the software engineering jobs market, 2025: what hiring managers see</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-10-07 15:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/level_114/sn-114-our-side-of-the-story-58hc" target="_blank">SN 114: Our Side of the Story</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-07 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html" target="_blank">Python Insider: Python 3.14.0 (final) is here</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-07 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb" target="_blank">MCP servers have issues, so I built &#x27;lootbox&#x27; (inspired by Cloudflare&#x27;s Code Mode)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-07 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-MM" target="_blank">The Many Memory Management Improvements In Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-07 14:45</span>
             </div>
         </div>
 </div>
@@ -233,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/LEGOAvengersAgeOfUltron.jpg" alt="LEGO Marvel Avengers Age of Ultron Set Drops Below Black Friday, Feels Like a Freebie With 6 Minifigures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avengers-assemble-this-lego-marvel-set-from-avengers-age-of-ultron-22-off-2000629973" target="_blank">LEGO Marvel Avengers Age of Ultron Set Drops Below Black Friday, Feels Like a Freebie With 6 Minifigures</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-07 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6XHGFGBDQ9F7MJM6Y86PG8R/hero-image.jpg" alt="The Best Prime Deals on Fitness Trackers and Smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitness-trackers-smartwatches-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Prime Deals on Fitness Trackers and Smartwatches</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-07 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/donald-trump-jr-e1745859610435.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="A high-speed Don Jr is mad at Fox News" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/07/a-high-speed-don-jr-is-mad-at-fox-news.html" target="_blank">A high-speed Don Jr is mad at Fox News</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-07 16:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Review-1280x853.jpg" alt="‘Tron: Ares’ Is ‘Tron’ at Its Most Disney" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,33 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/october-prime-day-10-07-2025-live-blog?utm_medium=RSS" target="_blank">October Prime Day 2025 Live Blog: The Best Deals We&#x27;ve Found at All Price Points</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-07 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2196581319.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="Renewables overtake coal as world&#x27;s top energy source" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/07/renewables-overtake-coal-as-worlds-top-energy-source.html" target="_blank">Renewables overtake coal as world&#x27;s top energy source</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-07 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6YZCXDPMX2WNMG306YVVV0Q/hero-image.png" alt="The AirPods 4 Are Down to Their Lowest Price for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-airpods-4-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">The AirPods 4 Are Down to Their Lowest Price for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-07 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ecoflowdelta2.jpg" alt="EcoFlow Is Offloading the Delta 2, Amazon Lists the 1800W Power Station at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ecoflow-is-offloading-the-delta-2-amazon-lists-the-1800w-power-station-at-its-lowest-price-ever-2000632497" target="_blank">EcoFlow Is Offloading the Delta 2, Amazon Lists the 1800W Power Station at Its Lowest Price Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-07 13:01</span>
             </div>
         </div>
 </div>
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
