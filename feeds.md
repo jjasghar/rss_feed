@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 13:09:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 14:01:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg" alt="Jenrick defends comments on not seeing &#x27;another white face&#x27; in area of Birmingham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss" target="_blank">Jenrick defends comments on not seeing &#x27;another white face&#x27; in area of Birmingham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-07 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/pope-leo-plans-symbolic-debut-foreign-trips-to-turkiye-and-lebanon?traffic_source=rss" target="_blank">Pope Leo plans symbolic debut foreign trips to Turkiye and Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 13:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss" target="_blank">PM urges students not to join pro-Palestinian protests on 7 October</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-07 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/7/aje-onl-qt-rima-hasan-100625?traffic_source=rss" target="_blank">French lawmaker “beaten” by Israeli police</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/07/g-s1-92251/government-shutdown-health-insurance-premiums" target="_blank">Why Democrats are casting the government shutdown as a health care showdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-07 09:04</span>
             </div>
         </div>
 </div>
@@ -186,6 +183,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i" target="_blank">Qualcomm to Acquire Arduino</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-07 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18575177&w=600" alt="Booleans vs Integers in Databases: Understanding the Trade-Offs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/booleans-vs-integers" target="_blank">Booleans vs Integers in Databases: Understanding the Trade-Offs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-07 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18676754&w=600" alt="Smart Choices Between Inter- and Intra-GPU Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/who-governs-your-nhis" target="_blank">Who Governs Your NHIs? The Challenge of Defining Ownership in Modern Enterprise IT</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-QAT-Zstd-1.0" target="_blank">Intel QAT Zstd Plugin 1.0 Released With Optimizations, Zstd 1.5.7 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-07 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/thinking-machines-tinker/en/headerimage/generatedHeaderImage-1759436860307.jpg" alt="Thinking Machines Releases Tinker API for Flexible Model Fine-Tuning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/thinking-machines-tinker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Thinking Machines Releases Tinker API for Flexible Model Fine-Tuning</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-07 10:17</span>
             </div>
         </div>
 </div>
@@ -240,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2196581319.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="Renewables overtake coal as world&#x27;s top energy source" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/07/renewables-overtake-coal-as-worlds-top-energy-source.html" target="_blank">Renewables overtake coal as world&#x27;s top energy source</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-07 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6YZCXDPMX2WNMG306YVVV0Q/hero-image.png" alt="The AirPods 4 Are Down to Their Lowest Price for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-airpods-4-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">The AirPods 4 Are Down to Their Lowest Price for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-07 13:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/ecoflowdelta2.jpg" alt="EcoFlow Is Offloading the Delta 2, Amazon Lists the 1800W Power Station at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/amazon-clears-out-govee-smart-lamp-stock-now-selling-for-less-than-a-basic-floor-lamp-2000632160" target="_blank">Amazon Clears Out Govee Smart Lamp Stock, Now Selling for Less Than a Basic Floor Lamp</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-07 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/terrifier-horror-nights-instagram-1280x853.jpg" alt="Just Look How Bloody Gross Universal’s ‘Terrifier’ Haunted House Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/just-look-how-bloody-gross-universals-terrifier-haunted-house-is-2000668471" target="_blank">Just Look How Bloody Gross Universal’s ‘Terrifier’ Haunted House Is</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-07 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/roborock-saros-10r-mop.jpg" alt="The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-22000-pa-roborock-with-mop-delivers-luxury-cleaning-power-now-at-its-lowest-price-for-prime-members-2000632151" target="_blank">The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members.</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 23:56</span>
             </div>
         </div>
 </div>
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
