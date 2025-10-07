@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 19:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 20:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -159,12 +158,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shifa_noorulain_2c5f713e9/beyond-transformers-can-mlps-unlock-the-potential-of-in-context-learning-2jbl" target="_blank">Beyond Transformers: Can MLPs Unlock the Potential of In-Context Learning?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 19:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2noaolpsvtfil5vriim.jpg" alt="Golang Dependency Inversion — A Java Developer&#x27;s Point of View" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4" target="_blank">Golang Dependency Inversion — A Java Developer&#x27;s Point of View</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-07 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Rust-USB-Framework" target="_blank">Linux 6.18 Lands Initial Framework For USB Driver Rust Bindings</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-07 18:51</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +209,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Python-3.14" target="_blank">Python 3.14 Released With Performance Improvements, Free-Threading &amp; Zstd</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-07 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/" target="_blank">How a top bug bounty researcher got their start in security</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/db80769a-f3cf-4019-81a9-6e95151e106a_1460x1070.png" alt="State of the software engineering jobs market, 2025: what hiring managers see" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/state-of-the-tech-market-in-2025-hiring-managers" target="_blank">State of the software engineering jobs market, 2025: what hiring managers see</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-07 15:53</span>
             </div>
         </div>
 </div>
@@ -313,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
