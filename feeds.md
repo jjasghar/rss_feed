@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 22:01:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-07 23:01:31 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/capitol-1-gty-gmh-251007_1759870211367_hpMain_4x3t_384.jpg" alt="&#x27;Total disaster&#x27;: How furloughed government workers plan to weather shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/total-disaster-furloughed-workers-plan-hold-garage-sales/story?id=126308614" target="_blank">&#x27;Total disaster&#x27;: How furloughed government workers plan to weather shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-07 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss" target="_blank">Hamas seeks ‘guarantees’ that Israel will end Gaza war as talks continue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/07/nx-s1-5555902/israel-hamas-war-mental-emotional-cost-israelis" target="_blank">The costs of Israel&#x27;s longest war, for Israelis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-07 21:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0f653e0-a3a3-11f0-924e-bba4adcf336a.jpg" alt="Israelis mark 7 October anniversary as talks on Gaza peace plan continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,38 +104,38 @@
                 <span class="time">2025-10-07 18:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/7/canadas-carney-makes-second-white-house-visit-as-trade-tensions-loom?traffic_source=rss" target="_blank">Canada’s Carney makes second White House visit as trade tensions loom</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/07/g-s1-92367/october-7-two-years-gaza-war-israel-hamas-palestinians" target="_blank">These numbers show how 2 years of war have devastated Palestinian lives in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-07 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8a/live/18790530-a39e-11f0-b741-177e3e2c2fc7.jpg" alt="Payouts of £700 per claim after car finance scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqlzwqv7xz1o?at_medium=RSS&at_campaign=rss" target="_blank">Payouts of £700 per claim after car finance scandal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-07 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale" target="_blank">Philips Hue customizable string lights are $50 off for October Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-07 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e58e0591b150d3a8db625e/master/pass/The%20Solawave%20Wand%20Is%20on%20Serious%20Sale%20Right%20Now.png" alt="The Solawave Wand Is the Best LED Device Prime Day Deal Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/solawave-wand-deal-prime-day-october-2025/" target="_blank">The Solawave Wand Is the Best LED Device Prime Day Deal Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-07 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ModelYStandard_84-500x500.jpg" alt="Tesla’s standard-range Model 3, Model Y join the lineup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/teslas-new-cut-price-evs-a-39990-model-y-and-36990-model-3/" target="_blank">Tesla’s standard-range Model 3, Model Y join the lineup</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-07 22:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,38 +163,20 @@
                 <span class="time">2025-10-07 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide" target="_blank">The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-07 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/" target="_blank">X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2173939307-500x500.jpg" alt="Natural disasters are a rising burden for the National Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/natural-disasters-are-a-rising-burden-for-the-national-guard/" target="_blank">Natural disasters are a rising burden for the National Guard</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-07 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.python.org/2025/10/python-3140-final-is-here.html" target="_blank">Python 3.14.0 is now available</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-07 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,30 +205,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18685622&w=600" alt="Pattern Searching and PostgreSQL Full-Text Search: Understanding the Mismatch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/postgresql-full-text-search-vs-pattern-search" target="_blank">Pattern Searching and PostgreSQL Full-Text Search: Understanding the Mismatch</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-07 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2noaolpsvtfil5vriim.jpg" alt="Golang Dependency Inversion — A Java Developer&#x27;s Point of View" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4" target="_blank">Golang Dependency Inversion — A Java Developer&#x27;s Point of View</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-07 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Rust-USB-Framework" target="_blank">Linux 6.18 Lands Initial Framework For USB Driver Rust Bindings</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-07 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18680978&w=600" alt="Why Incomplete Documentation Is a Security Vulnerability in SaaS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/incomplete-documentation-saas-security-risk" target="_blank">Why Incomplete Documentation Is a Security Vulnerability in SaaS</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-07 17:00</span>
             </div>
         </div>
 </div>
@@ -230,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Apple-AirPods-4-Wireless-Earbuds.jpg" alt="AirPods 4 Are Now 3x Cheaper Than AirPods Pro, Amazon Is Offering Entry-Level Clearance Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/airpods-4-are-now-3x-cheaper-than-airpods-pro-amazon-is-offering-entry-level-clearance-prices-2000632651" target="_blank">AirPods 4 Are Now 3x Cheaper Than AirPods Pro, Amazon Is Offering Entry-Level Clearance Prices</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-07 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/starfinder-afterlight-1280x853.jpg" alt="Paizo’s ‘Starfinder’ Will Become a Fully Funded Video Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +295,6 @@
                 <span class="time">2025-10-07 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/LEGOAvengersAgeOfUltron.jpg" alt="LEGO Marvel Avengers Age of Ultron Set Drops Below Black Friday, Feels Like a Freebie With 6 Minifigures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avengers-assemble-this-lego-marvel-set-from-avengers-age-of-ultron-22-off-2000629973" target="_blank">LEGO Marvel Avengers Age of Ultron Set Drops Below Black Friday, Feels Like a Freebie With 6 Minifigures</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-07 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
