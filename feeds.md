@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 03:11:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-07 04:02:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 03:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e99/live/02c2b3f0-a324-11f0-92db-77261a15b9d2.jpg" alt="Trump says chance of Gaza peace deal &#x27;really good&#x27; as talks to continue in Egypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c708l7vgwywo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says chance of Gaza peace deal &#x27;really good&#x27; as talks to continue in Egypt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-07 02:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/chicago-2-gty-gmh-251006_1759761869543_hpMain_4x3t_384.jpg" alt="Trump threatens use of Insurrection Act as governor says Black Hawks used ICE raid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss" target="_blank">Trump announces 25 percent tariffs on medium and heavy imported trucks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-06 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759782084961_f_brk_pritzker_trump_invasion_251006_1920x1080-0dyv07.jpg" alt="Pritzker says Trump&#x27;s &#x27;thuggery&#x27; has made Chicago less safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/illinois-governor-says-trump-s-thuggery-has-made-chicago-less-safe-249209413544" target="_blank">Pritzker says Trump&#x27;s &#x27;thuggery&#x27; has made Chicago less safe</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-06 20:21</span>
             </div>
         </div>
 </div>
@@ -163,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/railsstudent/building-an-ai-creative-suite-with-angular-gemini-imagen-and-veo-41bk" target="_blank">Building an AI Creative Suite with Angular, Gemini, Imagen and Veo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 03:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Bigger-Boot-Firmware" target="_blank">Fedora 43 Landing Emergency Change To Increase /boot Due To NVIDIA GPU Firmware &amp; Other Bloat</a></span>
                 <span class="feed">Phoronix</span>
@@ -203,15 +222,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/dreamer-4-minecraft-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dreamer 4: Learning to Achieve Goals from Offline Data Through Imagination Training</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-06 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/" target="_blank">DeepMind: CodeMender: an AI agent for code security</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-06 21:28</span>
             </div>
         </div>
 </div>
@@ -333,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 03:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
