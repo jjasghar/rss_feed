@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 21:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 22:01:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0f653e0-a3a3-11f0-924e-bba4adcf336a.jpg" alt="Israelis mark 7 October anniversary as talks on Gaza peace plan continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c24rj4pg05no?at_medium=RSS&at_campaign=rss" target="_blank">Israelis mark 7 October anniversary as talks on Gaza peace plan continue</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-07 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +93,29 @@
                 <span class="time">2025-10-07 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8a/live/18790530-a39e-11f0-b741-177e3e2c2fc7.jpg" alt="Payouts of £700 per driver after car finance scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqlzwqv7xz1o?at_medium=RSS&at_campaign=rss" target="_blank">Payouts of £700 per driver after car finance scandal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-07 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1" target="_blank">The 190 best October Prime Day deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-07 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/" target="_blank">Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-07 21:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +152,20 @@
                 <span class="time">2025-10-07 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025" target="_blank">The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-07 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e0b5c52e3fc9a36ea8f4c2/master/pass/This%20Sonos%20Prime%20Day%20Soundbar%20Deal%20is%20Hard%20to%20Beat.png" alt="Save 25 Percent on This Sonos Prime Day Soundbar Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-soundbar-deal-october-2025/" target="_blank">Save 25 Percent on This Sonos Prime Day Soundbar Deal</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-07 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-55b9" target="_blank">Who wants to build an admin UI?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +211,6 @@
                 <span class="time">2025-10-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/" target="_blank">How GitHub Copilot enabled accessibility governance process improvements in record time</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,12 +231,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/starfinder-afterlight-1280x853.jpg" alt="Paizo’s ‘Starfinder’ Will Become a Fully Funded Video Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/paizos-starfinder-will-become-a-fully-funded-video-game-2000667744" target="_blank">Paizo’s ‘Starfinder’ Will Become a Fully Funded Video Game</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-07 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dysonv8plus.jpg" alt="Dyson Is Offloading Its V8 Plus Model, Now Cheaper Than Entry-Level Cordless Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dyson-is-offloading-its-v8-plus-model-now-cheaper-than-entry-level-cordless-vacuums-2000632642" target="_blank">Dyson Is Offloading Its V8 Plus Model, Now Cheaper Than Entry-Level Cordless Vacuums</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-07 21:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/image-20.jpg" alt="Jimmy Fallon Is Trying To Make Wordle Into A Game Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/wordle-jimmy-fallon-game-show-host-nbc-savannah-guthrie-2000632667" target="_blank">Jimmy Fallon Is Trying To Make Wordle Into A Game Show</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-07 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/biblicallyaccurateelon.jpg?fit=1080%2C660&amp;quality=60&amp;ssl=1" alt="Elon Musk promises to release a &quot;great&quot; AI-generated video game next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/07/elon-musk-promises-to-release-a-great-ai-generated-video-game-next-year.html" target="_blank">Elon Musk promises to release a &quot;great&quot; AI-generated video game next year</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-07 20:49</span>
             </div>
         </div>
 <div class="story">
@@ -260,33 +282,6 @@
                 <span class="title"><a href="https://kotaku.com/avengers-assemble-this-lego-marvel-set-from-avengers-age-of-ultron-22-off-2000629973" target="_blank">LEGO Marvel Avengers Age of Ultron Set Drops Below Black Friday, Feels Like a Freebie With 6 Minifigures</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-07 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6XHGFGBDQ9F7MJM6Y86PG8R/hero-image.jpg" alt="The Best Prime Deals on Fitness Trackers and Smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitness-trackers-smartwatches-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Prime Deals on Fitness Trackers and Smartwatches</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-07 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/donald-trump-jr-e1745859610435.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="A high-speed Don Jr is mad at Fox News" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/07/a-high-speed-don-jr-is-mad-at-fox-news.html" target="_blank">A high-speed Don Jr is mad at Fox News</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-07 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Review-1280x853.jpg" alt="‘Tron: Ares’ Is ‘Tron’ at Its Most Disney" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tron-ares-movies-review-jared-leto-greta-lee-nin-2000668540" target="_blank">‘Tron: Ares’ Is ‘Tron’ at Its Most Disney</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-07 16:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
