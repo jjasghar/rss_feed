@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 15:01:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-07 16:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pritzker-main_1759835037989_hpMain_4x3t_384.jpg" alt="Texas National Guard headed to Illinois, as Pritzker decries &#x27;authoritarian march&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/texas-national-guard-headed-illinois-gov-pritzker-calls/story?id=126283676" target="_blank">Texas National Guard headed to Illinois, as Pritzker decries &#x27;authoritarian march&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-07 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/italy-israel-world-cup-tie-faces-security-a-concern-amid-protests?traffic_source=rss" target="_blank">Italy-Israel World Cup tie faces security concerns amid protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 15:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +102,20 @@
                 <span class="time">2025-10-07 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/07/g-s1-91950/malaria-babies-bed-net-baby-carrier" target="_blank">Babies take a lesson from soldiers in the war against malaria</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-07 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/7/japanese-football-official-sentenced-for-viewing-child-pornography-images?traffic_source=rss" target="_blank">Japanese football official sentenced for viewing child pornography images</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/07/the-iphone-air-is-so-light-i-forgot-it-was-in-my-pocket/" target="_blank">The iPhone Air is so light, I forgot it was in my pocket</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-07 15:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +161,38 @@
                 <span class="time">2025-10-07 09:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e084d76a01e9d010452816/master/pass/The%20Chromebook%20I%20Recommend%20to%20Everyone%20Is%20Cheaper%20Than%20Ever%20on%20Prime%20Day.png" alt="The Best Cheap Asus Chromebook Has Dropped Below $250" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/asus-cx-15-chromebook-prime-day-october-2025/" target="_blank">The Best Cheap Asus Chromebook Has Dropped Below $250</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-07 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/" target="_blank">How a top bug bounty researcher got their start in security</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/level_114/sn-114-our-side-of-the-story-58hc" target="_blank">SN 114: Our Side of the Story</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html" target="_blank">Python Insider: Python 3.14.0 (final) is here</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-07 15:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +220,6 @@
                 <span class="time">2025-10-07 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0" target="_blank">🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-07 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-LASS-v10" target="_blank">Linear Address Space Separation Revised Following Prior Intel Engineer&#x27;s Departure</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-07 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i" target="_blank">Qualcomm to Acquire Arduino</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-07 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Review-1280x853.jpg" alt="‘Tron: Ares’ Is ‘Tron’ at Its Most Disney" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tron-ares-movies-review-jared-leto-greta-lee-nin-2000668540" target="_blank">‘Tron: Ares’ Is ‘Tron’ at Its Most Disney</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/MARATHONMAIN.jpg" alt="Bungie’s Marathon Resurfaces To Test One Of Players’ Most-Requested Gameplay Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +293,20 @@
                 <span class="time">2025-10-07 13:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/dji-mini4k.jpg" alt="DJI Is Quietly Offloading Its Mini 4K Drones, Now Selling at a New Record Low Price on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dji-is-quietly-offloading-its-mini-4k-drones-now-selling-at-a-new-record-low-price-on-amazon-2000632469" target="_blank">DJI Is Quietly Offloading Its Mini 4K Drones, Now Selling at a New Record Low Price on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-07 11:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1759809198-20251007.png" alt="Saturday Morning Breakfast Cereal - Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/beyond" target="_blank">Saturday Morning Breakfast Cereal - Beyond</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-07 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5673.png" alt="Now You&#x27;re Thinking With Portals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -313,22 +325,13 @@
                 <span class="time">2025-10-06 18:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1759640174-20251006.png" alt="Saturday Morning Breakfast Cereal - Steve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/steve" target="_blank">Saturday Morning Breakfast Cereal - Steve</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-06 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
