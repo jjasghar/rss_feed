@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 10:02:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-07 11:01:33 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg" alt="PM urges students not to join pro-Palestinian protests on 7 October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss" target="_blank">PM urges students not to join pro-Palestinian protests on 7 October</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-07 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/7/aje-onl-qt-rima-hasan-100625?traffic_source=rss" target="_blank">French lawmaker “beaten” by Israeli police</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 10:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer urges students not to protest on 7 October</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-07 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/unesco-board-backs-egypts-khaled-el-enany-as-its-next-chief?traffic_source=rss" target="_blank">UNESCO board backs Egypt’s Khaled el-Enany as its next chief</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/07/nx-s1-5564547/social-security-irs-ceo-frank-bisignano" target="_blank">Social Security administrator is named to the newly created position of IRS CEO</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-07 05:49</span>
             </div>
         </div>
 </div>
@@ -169,10 +168,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-QAT-Zstd-1.0" target="_blank">Intel QAT Zstd Plugin 1.0 Released With Optimizations, Zstd 1.5.7 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-07 10:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/thinking-machines-tinker/en/headerimage/generatedHeaderImage-1759436860307.jpg" alt="Thinking Machines Releases Tinker API for Flexible Model Fine-Tuning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/thinking-machines-tinker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Thinking Machines Releases Tinker API for Flexible Model Fine-Tuning</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-07 10:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/huy_tieu/yo-just-launched-scout-today-vibe-testing-for-vibe-coding-2mmd" target="_blank">yo, just launched Scout today - Vibe testing for vibe coding</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-07 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nobelprize.org/prizes/physics/2025/popular-information/" target="_blank">Nobel Prize in Physics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-07 09:50</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/duskoperic/a-simple-way-to-grasp-dependency-injection-41ef" target="_blank">A Simple Way to Grasp Dependency Injection</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-07 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/" target="_blank">Context is king for secure, AI-generated code</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-07 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/openstack-cloud-happy-15th-anniversary" target="_blank">OpenStack cloud – happy 15th anniversary!</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-07 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/petri-llm-safety/en/headerimage/generatedHeaderImage-1759795480559.jpg" alt="Claude Sonnet 4.5 Ranked Safest LLM From Open-Source Audit Tool Petri" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/petri-llm-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Sonnet 4.5 Ranked Safest LLM From Open-Source Audit Tool Petri</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-07 07:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
