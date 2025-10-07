@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 01:29:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 02:25:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 01:29 UTC</div>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 02:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9e5/live/fbcd2ac0-a2b6-11f0-b741-177e3e2c2fc7.png" alt="One iPhone led police to gang suspected of sending up to 40,000 stolen UK phones to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20vlpwrzwdo?at_medium=RSS&at_campaign=rss" target="_blank">One iPhone led police to gang suspected of sending up to 40,000 stolen UK phones to China</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-06 21:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -91,20 +96,29 @@
                 <span class="time">2025-10-06 20:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss" target="_blank">Israel says blind Hezbollah fighter, wife killed in Lebanon car strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-06 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e408a2089e9a406fb333fb/master/pass/gear-jony-ive-openai-AP25141660380307.jpg" alt="Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/" target="_blank">Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-07 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied" target="_blank">The Supreme Court didn’t save Google from Epic, and now the clock is ticking</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-06 23:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2239175375-500x500.jpg" alt="Discovery of cells that keep immune responses in check wins medicine Nobel Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -112,6 +126,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/10/discovery-of-cells-that-keep-immune-responses-in-check-wins-medicine-nobel-prize/" target="_blank">Discovery of cells that keep immune responses in check wins medicine Nobel Prize</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-06 23:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/" target="_blank">Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-06 22:29</span>
             </div>
         </div>
 <div class="story">
@@ -130,33 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/06/lucid-motors-sets-record-as-gravity-sales-pick-up-and-tax-credit-expires/" target="_blank">Lucid Motors sets record as Gravity sales pick up and tax credit expires</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-06 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ted-cruz-500x500-1759781343.jpg" alt="Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/ted-cruz-picks-a-fight-with-wikipedia-accusing-platform-of-left-wing-bias/" target="_blank">Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-06 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards" target="_blank">Google&amp;#8217;s AI bounty program pays bug hunters up to $30K</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-06 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e418e683909ddc0a48c4c8/master/pass/OpenAI-Wants-ChatGPT-to-be-Your-Future-Operation-System-Business-2218344212.jpg" alt="OpenAI Wants ChatGPT to Be Your Future Operating System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/" target="_blank">OpenAI Wants ChatGPT to Be Your Future Operating System</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-06 19:34</span>
             </div>
         </div>
 </div>
@@ -192,6 +188,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/dreamer-4-minecraft-agent/en/headerimage/dreamer-4-mincraft-agent-1759785234841.jpeg" alt="Dreamer 4: Learning to Achieve Goals from Offline Data Through Imagination Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/dreamer-4-minecraft-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dreamer 4: Learning to Achieve Goals from Offline Data Through Imagination Training</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-06 22:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://www.linux.com/news/oct25-training-promo/" target="_blank">Prime Time to Save Big on Skills – 50% OFF SITEWIDE!</a></span>
                 <span class="feed">Linux.com</span>
                 <span class="time">2025-10-06 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Larger-Page-Sizes" target="_blank">Important Patch Series For Nouveau Driver Will Help With NVK Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-06 20:15</span>
             </div>
         </div>
 </div>
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 02:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
