@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 12:02:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-07 13:09:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/myanmar-activists-to-sue-norways-telenor-for-handing-data-to-military?traffic_source=rss" target="_blank">Myanmar activists to sue Norway’s Telenor for handing data to military</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/07/g-s1-91950/malaria-babies-bed-net-baby-carrier" target="_blank">Babies take a lesson from soldiers in the war against malaria</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-07 11:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +103,38 @@
                 <span class="time">2025-10-07 09:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/104c/live/e06166c0-a356-11f0-b851-f9c6d6c288f7.jpg" alt="Jeremy Bowen: Two years on, will Israel and Hamas seize the chance to end the war?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgqyj268ljo?at_medium=RSS&at_campaign=rss" target="_blank">Jeremy Bowen: Two years on, will Israel and Hamas seize the chance to end the war?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-07 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/tel_aviv_residents-pjgrdy.jpg" alt="Israelis ‘cautiously optimistic’ over Trump’s Gaza plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/israelis-cautiously-optimistic-over-trump-s-gaza-peace-plan-249253445892" target="_blank">Israelis ‘cautiously optimistic’ over Trump’s Gaza plan</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-07 06:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop" target="_blank">The best budget robot vacuums</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-07 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1496117734-500x500-1759836601.jpg" alt="It’s Prime Day 2025 part two, and here are the best deals we could find" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/shopping/2025/10/its-prime-day-2025-part-two-and-here-are-the-best-deals-we-could-find/" target="_blank">It’s Prime Day 2025 part two, and here are the best deals we could find</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-07 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686729e7c3e228b35983727d/master/pass/Best%20Wifi%20Routers.png" alt="12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-wifi-routers/" target="_blank">12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +162,38 @@
                 <span class="time">2025-10-07 01:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied" target="_blank">The Supreme Court didn’t save Google from Epic, and now the clock is ticking</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-06 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2239175375-500x500.jpg" alt="Discovery of cells that keep immune responses in check wins medicine Nobel Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/discovery-of-cells-that-keep-immune-responses-in-check-wins-medicine-nobel-prize/" target="_blank">Discovery of cells that keep immune responses in check wins medicine Nobel Prize</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-06 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/" target="_blank">Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-06 22:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0" target="_blank">🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-LASS-v10" target="_blank">Linear Address Space Separation Revised Following Prior Intel Engineer&#x27;s Departure</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-07 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18676754&w=600" alt="Smart Choices Between Inter- and Intra-GPU Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/gpu-communication-cheatsheet" target="_blank">Smart Choices Between Inter- and Intra-GPU Communication</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-07 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18676714&w=600" alt="Who Governs Your NHIs? The Challenge of Defining Ownership in Modern Enterprise IT" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,31 +221,18 @@
                 <span class="time">2025-10-07 10:17</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/huy_tieu/yo-just-launched-scout-today-vibe-testing-for-vibe-coding-2mmd" target="_blank">yo, just launched Scout today - Vibe testing for vibe coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-07 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nobelprize.org/prizes/physics/2025/popular-information/" target="_blank">Nobel Prize in Physics 2025</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-07 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nobelprize.org/prizes/physics/2025/popular-information/" target="_blank">Nobel Prize in Physics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-07 09:50</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html" target="_blank">AI-Enabled Influence Operation Against Iran</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-07 11:04</span>
             </div>
         </div>
 </div>
@@ -219,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/ecoflowdelta2.jpg" alt="EcoFlow Is Offloading the Delta 2, Amazon Lists the 1800W Power Station at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ecoflow-is-offloading-the-delta-2-amazon-lists-the-1800w-power-station-at-its-lowest-price-ever-2000632497" target="_blank">EcoFlow Is Offloading the Delta 2, Amazon Lists the 1800W Power Station at Its Lowest Price Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-07 13:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/dji-mini4k.jpg" alt="DJI Is Quietly Offloading Its Mini 4K Drones, Now Selling at a New Record Low Price on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +294,6 @@
                 <span class="time">2025-10-06 23:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Apple-2025-MacBook-Air-13-inch-Laptop-with-M4-chip.jpg" alt="This MacBook Air (M4, 256GB, 16GB RAM), Now Costs Half the Price of a Pro, Amazon Rushes to Clear Out Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-macbook-air-m4-256gb-16gb-ram-now-costs-half-the-price-of-a-pro-amazon-rushes-to-clear-out-space-2000632140" target="_blank">This MacBook Air (M4, 256GB, 16GB RAM), Now Costs Half the Price of a Pro, Amazon Rushes to Clear Out Space</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-06 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
