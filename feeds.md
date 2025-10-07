@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 06:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-07 07:02:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, October 07, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg" alt="Starmer urges students not to protest on 7 October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer urges students not to protest on 7 October</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-07 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/unesco-board-backs-egypts-khaled-el-enany-as-its-next-chief?traffic_source=rss" target="_blank">UNESCO board backs Egypt’s Khaled el-Enany as its next chief</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-07 06:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/07/nx-s1-5564547/social-security-irs-ceo-frank-bisignano" target="_blank">Social Security administrator is named to the newly created position of IRS CEO</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-07 05:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/illinois-files-lawsuit-block-deployment-national-guard/story?id=126253079" target="_blank">Trump threatens use of Insurrection Act as governor says Black Hawks used in ICE raid</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-07 01:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/chicago-2-gty-gmh-251006_1759761869543_hpMain_4x3t_384.jpg" alt="Trump threatens use of Insurrection Act as governor says Black Hawks used ICE raid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/illinois-files-lawsuit-block-deployment-national-guard/story?id=126253079" target="_blank">Trump threatens use of Insurrection Act as governor says Black Hawks used ICE raid</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-06 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/shutdown-1-rt-gmh-251006_1759756530332_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate again fails to pass funding bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Senate again fails to pass funding bills</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-06 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9e5/live/fbcd2ac0-a2b6-11f0-b741-177e3e2c2fc7.png" alt="One iPhone led police to gang suspected of sending up to 40,000 stolen UK phones to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20vlpwrzwdo?at_medium=RSS&at_campaign=rss" target="_blank">One iPhone led police to gang suspected of sending up to 40,000 stolen UK phones to China</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-06 21:00</span>
             </div>
         </div>
 </div>
@@ -174,6 +172,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/petri-llm-safety/en/headerimage/generatedHeaderImage-1759795480559.jpg" alt="Claude Sonnet 4.5 Ranked Safest LLM From Open-Source Audit Tool Petri" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/petri-llm-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Sonnet 4.5 Ranked Safest LLM From Open-Source Audit Tool Petri</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-07 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vamsi_nakireddi_711f6ecd0/dubai-tourism-pocket-watch-44fg" target="_blank">Dubai Tourism-Pocket Watch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://grahamdumpleton.me/posts/2025/10/lazy-imports-using-wrapt/" target="_blank">Lazy imports using wrapt - Graham Dumpleton</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-07 06:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,33 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Bigger-Boot-Firmware" target="_blank">Fedora 43 Landing Emergency Change To Increase /boot Due To NVIDIA GPU Firmware &amp; Other Bloat</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-07 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://thecascade.dev/article/least-amount-of-css/" target="_blank">The least amount of CSS for a decent looking site (2023)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-06 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/11/gimp-3.0-hero.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.0.6 Update is a Bug-Fix Backport Bonanza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/gimp-3-0-6-update-fixes-bugs" target="_blank">GIMP 3.0.6 Update is a Bug-Fix Backport Bonanza</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-06 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tomivan/coding-challenge-practice-question-22-4pb8" target="_blank">Coding Challenge Practice - Question 22</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-06 22:38</span>
             </div>
         </div>
 </div>
@@ -323,22 +321,13 @@
                 <span class="time">2025-10-06 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/06/the-blessing-part-one" target="_blank">The Blessing, Part One</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-06 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
