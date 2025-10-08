@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 12:02:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 13:09:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 12:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/crisis-why-eu-plan-for-50-percent-tariff-is-spooking-british-steel?traffic_source=rss" target="_blank">‘Crisis’: Why EU plan for 50 percent tariff is spooking British steel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/08/g-s1-92465/up-first-newsletter-government-shutdown-air-traffic-control-james-comey" target="_blank">How flights are impacted by the government shutdown. And, James Comey&#x27;s arraignment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-08 11:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +101,20 @@
                 <span class="time">2025-10-08 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/dozens-killed-as-pakistani-army-fighters-clash-near-afghan-border?traffic_source=rss" target="_blank">Dozens killed as Pakistani army, fighters clash near Afghan border</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/8/videos-show-berlin-police-beating-pro-palestine-protesters?traffic_source=rss" target="_blank">Videos show Berlin police beating pro-Palestine protesters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 07:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/640b7e23a7d24f68b3983170/master/pass/Belkin-3-in-1-Charger-Featured-Gear.jpg" alt="Get a Prime Day Discount on Belkin’s Best 3-in-1 Apple Wireless Charger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/belkin-3-in-1-wireless-charger-prime-day-october-2025/" target="_blank">Get a Prime Day Discount on Belkin’s Best 3-in-1 Apple Wireless Charger</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-08 12:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +160,38 @@
                 <span class="time">2025-10-08 05:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1" target="_blank">The 207 best October Prime Day deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-08 04:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dhruvjoshi9/build-a-task-running-ai-agent-with-the-new-chatgpt-agentkit-a-step-by-step-guide-55nd" target="_blank">Build a Task-Running AI Agent with the New ChatGPT AgentKit: A Step-by-Step Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-08 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/event-driven-multi-cloud/en/mediumimage/teena-idnani-medium-1757488620995.jpg" alt="Presentation: Building Distributed Event-Driven Architectures Across Multi-Cloud Boundaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/event-driven-multi-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Building Distributed Event-Driven Architectures Across Multi-Cloud Boundaries</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-08 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18681607&w=600" alt="8 Challenges in Multimodal Training Data Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/multimodal-training-data-challenges" target="_blank">8 Challenges in Multimodal Training Data Creation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-08 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/github-post-quantun-ssh-key/en/headerimage/generatedHeaderImage-1759846726695.jpg" alt="GitHub Adds Post-Quantum Secure SSH Key Exchange to Protect Git Data in Transit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,33 +219,6 @@
                 <span class="time">2025-10-08 10:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fair-DRM-Scheduler-Post-RFC" target="_blank">Linux Fair DRM Scheduler Graduates Out Of The &quot;RFC&quot; Phase</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-08 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/" target="_blank">Synology reverses policy banning third-party HDDs after sales allegedly plummet</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-08 08:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/" target="_blank">Synology Reverses Policy Banning Third-Party HDDs After NAS Sales Plummet</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-08 08:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/03/335d899c377996583d8eb756ffcd381b-1280x720.jpg" alt="Clair Obscur: Expedition 33 Is Getting A Free Expansion With New Boss Battles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-free-update-expansion-bosses-2000633193" target="_blank">Clair Obscur: Expedition 33 Is Getting A Free Expansion With New Boss Battles</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GT9V0VYF8G0PAABZ7434H/hero-image.jpg" alt="Use the &#x27;Jigsaw Method&#x27; to Make Studying in Groups More Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/use-the-jigsaw-method-to-study-complex-topics-1850849174?utm_medium=RSS" target="_blank">Use the &#x27;Jigsaw Method&#x27; to Make Studying in Groups More Effective</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-08 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/9times.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="&quot;9 Times My Work Has Been Ripped Off&quot; — real-world strategies for when clients ghost you on payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/08/9-times-my-work-has-been-ripped-off-real-world-strategies-for-when-clients-ghost-you-on-payments.html" target="_blank">&quot;9 Times My Work Has Been Ripped Off&quot; — real-world strategies for when clients ghost you on payments</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-08 12:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/canada-wildfire-1280x853.jpg" alt="Zombie Fires and Historic Hurricanes: The 8 Wildest Weather Events of Summer 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/samsung-offloads-its-old-t7-external-ssds-now-selling-for-pennies-on-the-dollar-at-amazon-2000633112" target="_blank">Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-08 09:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K70X20A31NDP8XHTAJTSG7DG/hero-image.png" alt="This Fire TV Is Even Cheaper Now Than When I Bought It a Month Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-fire-tv-even-cheaper-now-october-prime-day-2025?utm_medium=RSS" target="_blank">This Fire TV Is Even Cheaper Now Than When I Bought It a Month Ago</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-08 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K70PV408NMMXTAWK0JJGMSGS/hero-image.png" alt="This Label Printer Is on Sale for Prime Day, and I&#x27;m Buying It for My Resell Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/label-printer-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">This Label Printer Is on Sale for Prime Day, and I&#x27;m Buying It for My Resell Business</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-08 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K70HKAARSB6MWG40X1J2951N/hero-image.png" alt="These Cool LEGO Sets Are All on Sale for 30% Off for Prime Day Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-lego-sets-on-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">These Cool LEGO Sets Are All on Sale for 30% Off for Prime Day Today</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-08 01:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
