@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 11:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-08 12:02:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/frances-outgoing-pm-lecornu-hints-at-budget-deal-amid-political-turmoil?traffic_source=rss" target="_blank">France’s outgoing PM Lecornu hints at budget deal amid political turmoil</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 11:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/78205e50-a40e-11f0-92db-77261a15b9d2.jpg" alt="Key US and regional mediators join talks in push to end Gaza war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss" target="_blank">Key US and regional mediators join talks in push to end Gaza war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251008-comey-rs-341862.jpg" alt="James Comey to be arraigned after Trump called for his prosecution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +104,29 @@
                 <span class="time">2025-10-08 07:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/us-attorney-general-pam-bondi-clashes-with-critics-at-key-senate-hearing?traffic_source=rss" target="_blank">US Attorney General Pam Bondi clashes with critics at key Senate hearing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 06:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss" target="_blank">LIVE: Israel keeps bombing Gaza as peace talks in Egypt enter third day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/791143/amazon-october-prime-day-amazfit-active-2-deal-sale-2025" target="_blank">Amazfit’s Active 2, one of our favorite fitness trackers, is a steal at just $81</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-08 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1397148346-500x500-1759878419.jpg" alt="Floating electrons on a sea of helium" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/" target="_blank">Floating electrons on a sea of helium</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-08 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +163,29 @@
                 <span class="time">2025-10-08 04:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1" target="_blank">The 200 best October Prime Day deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-08 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e44e06e05a13eb9d10f156/master/pass/LIVE%20BLOG.jpg" alt="Prime Day 2025 - We’re Tracking Deals Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-deals-october-25/" target="_blank">Prime Day 2025 - We’re Tracking Deals Live</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-08 02:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/github-post-quantun-ssh-key/en/headerimage/generatedHeaderImage-1759846726695.jpg" alt="GitHub Adds Post-Quantum Secure SSH Key Exchange to Protect Git Data in Transit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/github-post-quantun-ssh-key/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Adds Post-Quantum Secure SSH Key Exchange to Protect Git Data in Transit</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-08 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/umang_suthar_9bad6f345a8a/adaptive-gas-pricing-using-ai-to-predict-network-congestion-before-it-happens-24d9" target="_blank">⚙️ Adaptive Gas Pricing | Using AI to Predict Network Congestion Before It Happens</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-08 11:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwu2ekclfpkoxcheqywkk.png" alt="n8n and OpenAI API: Creating Simple Text Processing Automations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,36 +208,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/" target="_blank">Synology Reverses Policy Banning Third-Party HDDs After NAS Sales Plummet</a></span>
+                <span class="title"><a href="https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/" target="_blank">Synology reverses policy banning third-party HDDs after sales allegedly plummet</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-08 08:19</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/10/meta-ships-react-19-2/en/headerimage/generatedHeaderImage-1759680230602.jpg" alt="Meta Ships React 19.2 Featuring Activity API, Cache Signals, and SSR Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/meta-ships-react-19-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Ships React 19.2 Featuring Activity API, Cache Signals, and SSR Enhancements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-08 07:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chrizfasa/the-human-element-why-employees-are-still-the-weakest-link-in-cybersecurity-4aog" target="_blank">The Human Element: Why Employees Are Still the Weakest Link in Cybersecurity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-08 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vaibhav_shakya_e6b352bfc4/beyond-crash-reports-firebase-hacks-that-will-supercharge-your-android-app-5147" target="_blank">Beyond Crash Reports: Firebase Hacks That Will Supercharge Your Android App 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-08 05:45</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/" target="_blank">Synology Reverses Policy Banning Third-Party HDDs After NAS Sales Plummet</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-08 08:19</span>
             </div>
         </div>
 </div>
@@ -235,20 +236,20 @@
                 <span class="time">2025-10-07 22:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html" target="_blank">AI-Enabled Influence Operation Against Iran</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-07 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/canada-wildfire-1280x853.jpg" alt="Zombie Fires and Historic Hurricanes: The 8 Wildest Weather Events of Summer 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zombie-fires-and-historic-hurricanes-the-8-wildest-weather-events-of-summer-2025-2000667518" target="_blank">Zombie Fires and Historic Hurricanes: The 8 Wildest Weather Events of Summer 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/seagate-hdd-20-1280x853.jpg" alt="Seagate HDD Is Going for Pennies at Amazon, Now Only $0.01 per GB of External Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +295,6 @@
                 <span class="time">2025-10-08 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Sinners-Spirit-Halloween-costumes-1280x853.jpg" alt="‘Sinners’ Wants to Be Invited in for This Year’s Must-Have Halloween Movie Costumes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sinners-wants-to-be-invited-in-for-this-years-must-have-halloween-movie-costumes-2000669246" target="_blank">‘Sinners’ Wants to Be Invited in for This Year’s Must-Have Halloween Movie Costumes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-08 00:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
