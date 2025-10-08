@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 03:11:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 04:02:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 03:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +52,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/nashvilleairport_1759893623161_hpMain_4x3t_384.jpg" alt="Air traffic controller shortages lead to canceled flights, delays nationwide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/air-traffic-controllers-working-pay-begin-call-sick/story?id=126289491" target="_blank">Air traffic controller shortages lead to canceled flights, delays nationwide</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-08 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/muslims-in-indias-poll-bound-bihar-battle-bangladeshi-infiltrator-tag?traffic_source=rss" target="_blank">Muslims in India’s poll-bound Bihar battle ‘Bangladeshi infiltrator’ tag</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 03:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/italys-meloni-says-icc-complaint-accuses-her-of-gaza-genocide-complicity?traffic_source=rss" target="_blank">Italy’s Meloni says ICC complaint accuses her of Gaza genocide complicity</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-08 02:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-cordelia-lynch_7045461.jpg?20251007215817" alt="Forced back to their home after brutal treatment, but still desperate to leave again. Why?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/beaten-for-16-days-deported-afghans-describe-brutal-treatment-by-iran-yet-are-desperate-to-return-13446432" target="_blank">Forced back to their home after brutal treatment, but still desperate to leave again. Why?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-07 23:01</span>
             </div>
         </div>
 <div class="story">
@@ -70,33 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/7/how-to-fix-frances-deepening-political-crisis?traffic_source=rss" target="_blank">How to fix France’s deepening political crisis?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-07 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/capitol-1-gty-gmh-251007_1759870211367_hpMain_4x3t_384.jpg" alt="&#x27;Total disaster&#x27;: How furloughed government workers plan to weather shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/total-disaster-furloughed-workers-plan-hold-garage-sales/story?id=126308614" target="_blank">&#x27;Total disaster&#x27;: How furloughed government workers plan to weather shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-07 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss" target="_blank">Hamas seeks ‘guarantees’ that Israel will end Gaza war as talks continue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/07/nx-s1-5555902/israel-hamas-war-mental-emotional-cost-israelis" target="_blank">The costs of Israel&#x27;s longest war, for Israelis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-07 21:07</span>
             </div>
         </div>
 </div>
@@ -173,6 +179,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-2510-features.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10: What’s New, What’s Changed &amp; Should You Upgrade?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-new-features" target="_blank">Ubuntu 25.10: What’s New, What’s Changed &amp; Should You Upgrade?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-08 01:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-2510-features.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10: Discover the Best New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -208,15 +223,6 @@
                 <span class="time">2025-10-07 22:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-55b9" target="_blank">Who wants to build an admin UI?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-07 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K70PV408NMMXTAWK0JJGMSGS/hero-image.png" alt="This Label Printer Is on Sale for Prime Day, and I&#x27;m Buying It for My Resell Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/label-printer-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">This Label Printer Is on Sale for Prime Day, and I&#x27;m Buying It for My Resell Business</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-08 02:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K70HKAARSB6MWG40X1J2951N/hero-image.png" alt="These Cool LEGO Sets Are All on Sale for 30% Off for Prime Day Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,21 +297,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/starfinder-afterlight-1280x853.jpg" alt="Paizo’s ‘Starfinder’ Will Become a Fully Funded Video Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding brains barely veiled racism on display" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/paizos-starfinder-will-become-a-fully-funded-video-game-2000667744" target="_blank">Paizo’s ‘Starfinder’ Will Become a Fully Funded Video Game</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-07 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/dysonv8plus.jpg" alt="Dyson Is Offloading Its V8 Plus Model, Now Cheaper Than Entry-Level Cordless Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dyson-is-offloading-its-v8-plus-model-now-cheaper-than-entry-level-cordless-vacuums-2000632642" target="_blank">Dyson Is Offloading Its V8 Plus Model, Now Cheaper Than Entry-Level Cordless Vacuums</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-07 21:20</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/07/grandpa-pudding-brains-barely-veiled-racism-on-display.html" target="_blank">Grandpa Pudding brains barely veiled racism on display</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-07 22:02</span>
             </div>
         </div>
 </div>
@@ -318,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 03:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
