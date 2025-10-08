@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 19:01:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 20:01:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/authorities-charge-man-accused-of-starting-deadly-la-wildfire?traffic_source=rss" target="_blank">Authorities charge man accused of starting deadly LA wildfire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/08/g-s1-92540/democrats-to-force-vote-to-limit-trump-war-powers-after-u-s-strikes-on-suspected-drug-boats" target="_blank">Democrats to force vote to limit Trump war powers after strikes on Venezuelan boats</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -67,6 +67,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cnvr0723np8o?at_medium=RSS&at_campaign=rss" target="_blank">Kate McCann tells court alleged stalker&#x27;s contact with Maddie&#x27;s sister was &#x27;final straw&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-08 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-the-world-yalda-hakim_7046246.png?20251008202705" alt="Why a Gaza peace deal may finally suit the key players" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/why-a-gaza-peace-deal-may-finally-suit-the-key-players-13447143" target="_blank">Why a Gaza peace deal may finally suit the key players</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-08 16:43</span>
             </div>
         </div>
 <div class="story">
@@ -87,29 +96,20 @@
                 <span class="time">2025-10-08 15:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/8/two-years-of-war-two-years-of-telling-gazas-stories?traffic_source=rss" target="_blank">Two years of war, two years of telling Gaza’s stories</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759933688804_now_brk_odonnell_comey_notguilty_251008_1920x1080-z6vgsy.jpg" alt="Former FBI Director James Comey pleads not guilty to both counts of indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/former-fbi-director-james-comey-pleads-not-guilty-to-both-counts-of-indictment-249355845676" target="_blank">Former FBI Director James Comey pleads not guilty to both counts of indictment</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-08 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/" target="_blank">OpenAI’s Nick Turley on transforming ChatGPT into an operating system</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-08 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +155,38 @@
                 <span class="time">2025-10-08 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e55b700e6832e717177360/master/pass/Google%20Made%20an%20Everyday%20Adventure%20Watch%20for%20Under%20$500.png" alt="Google Pixel Watch 4 vs. Apple Watch Ultra 3: Surprisingly Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-pixel-watch-4-vs-apple-watch-ultra-3/" target="_blank">Google Pixel Watch 4 vs. Apple Watch Ultra 3: Surprisingly Close</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-08 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gsdiniz/automating-rke2-and-rancher-deployments-with-ansible-4gb3" target="_blank">Automating RKE2 and Rancher Deployments with Ansible</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-08 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Block-IO-Uring" target="_blank">Linux 6.18 Block Code Introduces Lockless Bitmap For Software RAID</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-08 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18686780&w=600" alt="The Top 20 Problems With Batch Processing (and How to Fix Them With Data Streaming)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/fix-batch-processing-problems-using-data-streaming" target="_blank">The Top 20 Problems With Batch Processing (and How to Fix Them With Data Streaming)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-08 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/granite-docling-ibm/en/headerimage/generatedHeaderImage-1759947833577.jpg" alt="IBM Releases Granite-Docling-258M, a Compact Vision-Language Model for Precise Document Conversion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-1j5f" target="_blank">GameSpot: $100 to Craft the Best Steam Sale Cart</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-08 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3tkw30gq1iekribzsg0.png" alt="ACID PROPERTIES WITH SQL TRNSACTIONS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lohita_blue_d6409977eec4c/acid-properties-with-sql-trnsactions-4ji8" target="_blank">ACID PROPERTIES WITH SQL TRNSACTIONS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-08 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it" target="_blank">Python 3.14 Is Here. How Fast Is It?</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-08 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687376&w=600" alt="Converting ActiveMQ to Jakarta (Part III: Final)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/converting-activemq-to-jakarta-part-iii" target="_blank">Converting ActiveMQ to Jakarta (Part III: Final)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-08 16:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/ss_d38945f16d1001ec5f274f0a580687b10f3decc0-1280x720.jpg" alt="Sky The Scrapper Mixes Persona And PowerWash Sim Into A Fascinating Arcade Game More People Should Try" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-indie-arcade-rpg-life-sim-persona-powerwasher-2000633307" target="_blank">Sky The Scrapper Mixes Persona And PowerWash Sim Into A Fascinating Arcade Game More People Should Try</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 19:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Bob-Ross-1280x860.jpg" alt="As Trump Bleeds Public TV Dry, Bob Ross Paintings Go Up for Auction to Support Local Stations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +296,6 @@
                 <span class="time">2025-10-08 16:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2556450023-1280x871.jpg" alt="Bank of England Warns of an AI Bubble Burst" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bank-of-england-warns-of-an-ai-bubble-burst-2000669588" target="_blank">Bank of England Warns of an AI Bubble Burst</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-08 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
