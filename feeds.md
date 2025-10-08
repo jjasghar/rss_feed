@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 09:01:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-08 10:01:37 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/08/nx-s1-5564788/antarctica-ernest-shackleton-ship-endurance-research-south-pole" target="_blank">Famed polar exploration ship Endurance not as strong as legend held, researcher says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-08 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/dozens-killed-as-pakistani-army-fighters-clash-near-afghan-border?traffic_source=rss" target="_blank">Dozens killed as Pakistani army, fighters clash near Afghan border</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 08:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +97,20 @@
                 <span class="time">2025-10-08 05:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/dozens-killed-in-myanmar-after-armed-paraglider-attack-reports?traffic_source=rss" target="_blank">Dozens killed in Myanmar after armed paraglider attack: Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nashvilleairport_1759893623161_hpMain_4x3t_384.jpg" alt="Air traffic controller shortages lead to canceled flights, delays nationwide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/air-traffic-controllers-working-pay-begin-call-sick/story?id=126289491" target="_blank">Air traffic controller shortages lead to canceled flights, delays nationwide</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-08 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2" target="_blank">The 208 best October Prime Day deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-08 09:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale" target="_blank">Philips Hue customizable string lights are $50 off for October Prime Day</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-07 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/" target="_blank">You can’t libel the dead. But that doesn’t mean you should deepfake them.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-07 22:49</span>
             </div>
         </div>
 </div>
@@ -244,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/samsung-t7-ssd-1280x853.jpg" alt="Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-offloads-its-old-t7-external-ssds-now-selling-for-pennies-on-the-dollar-at-amazon-2000633112" target="_blank">Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 09:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K70PV408NMMXTAWK0JJGMSGS/hero-image.png" alt="This Label Printer Is on Sale for Prime Day, and I&#x27;m Buying It for My Resell Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -288,15 +297,6 @@
                 <span class="time">2025-10-07 22:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding brains barely veiled racism on display" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/07/grandpa-pudding-brains-barely-veiled-racism-on-display.html" target="_blank">Grandpa Pudding brains barely veiled racism on display</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-07 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
