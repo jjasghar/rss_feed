@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 14:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 15:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/8/two-years-of-war-two-years-of-telling-gazas-stories?traffic_source=rss" target="_blank">Two years of war, two years of telling Gaza’s stories</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759933688804_now_brk_odonnell_comey_notguilty_251008_1920x1080-z6vgsy.jpg" alt="Former FBI Director James Comey pleads not guilty to both counts of indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/former-fbi-director-james-comey-pleads-not-guilty-to-both-counts-of-indictment-249355845676" target="_blank">Former FBI Director James Comey pleads not guilty to both counts of indictment</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-08 14:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/james-comey-gty-jef-251008_1759926344671_hpMain_4x3t_384.jpg" alt="Former FBI Director James Comey to make 1st court appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +96,20 @@
                 <span class="time">2025-10-08 11:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/frances-outgoing-pm-lecornu-hints-at-budget-deal-amid-political-turmoil?traffic_source=rss" target="_blank">France’s outgoing PM Lecornu hints at budget deal amid political turmoil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/78205e50-a40e-11f0-92db-77261a15b9d2.jpg" alt="Key US and regional mediators join talks in push to end Gaza war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss" target="_blank">Key US and regional mediators join talks in push to end Gaza war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/796179/twitch-fandy-birth-livestream-dan-clancy" target="_blank">A Twitch streamer gave birth live, with Twitch&amp;#8217;s CEO in the chat</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-08 14:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e41eb11343a14390a1fd49/master/pass/The%20Best%20Deals%20From%20Walmart's%20Prime%20Day%20Sale.png" alt="The Best Discounts We&#x27;ve Found From the Walmart Deals Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +155,29 @@
                 <span class="time">2025-10-08 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1397148346-500x500-1759878419.jpg" alt="Floating electrons on a sea of helium" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/" target="_blank">Floating electrons on a sea of helium</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-08 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/popos-2404-beta" target="_blank">System76 Pop!_OS 24.04 Beta Performing Well In Early Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-08 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/08/a-new-look-for-comments/" target="_blank">A new look for comments</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-08 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/qcon-sf-2025-talks/en/headerimage/qcon-sf-2025-talks-1759926612618.jpg" alt="11 Sessions Not to Miss at QCon San Francisco 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +214,6 @@
                 <span class="time">2025-10-08 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/github-post-quantun-ssh-key/en/headerimage/generatedHeaderImage-1759846726695.jpg" alt="GitHub Adds Post-Quantum Secure SSH Key Exchange to Protect Git Data in Transit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/github-post-quantun-ssh-key/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Adds Post-Quantum Secure SSH Key Exchange to Protect Git Data in Transit</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-08 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/umang_suthar_9bad6f345a8a/adaptive-gas-pricing-using-ai-to-predict-network-congestion-before-it-happens-24d9" target="_blank">⚙️ Adaptive Gas Pricing | Using AI to Predict Network Congestion Before It Happens</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-08 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/noem.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="&quot;A job is a job&quot; — inside the minds of ICE recruitment applicants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/08/a-job-is-a-job-inside-the-minds-of-ice-recruitment-applicants.html" target="_blank">&quot;A job is a job&quot; — inside the minds of ICE recruitment applicants</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-08 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Govee-Permanent-Outdoor-Lights-Pro-200ft-1280x853.jpg" alt="Govee Permanent Outdoor Lights Pro 200ft Is Hundreds Off in Last-Call Prime Day Clearance, Perfect for Halloween Prep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/govee-permanent-outdoor-lights-pro-200ft-is-hundreds-off-in-last-call-prime-day-clearance-perfect-for-halloween-prep-2000632626" target="_blank">Govee Permanent Outdoor Lights Pro 200ft Is Hundreds Off in Last-Call Prime Day Clearance, Perfect for Halloween Prep</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 14:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/hagrid-hut-lego-set-1280x853.jpg" alt="LEGO Clears Out Harry Potter Stock, Hagrid’s Hut Selling for Mere Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +287,6 @@
                 <span class="time">2025-10-08 13:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GT9V0VYF8G0PAABZ7434H/hero-image.jpg" alt="Use the &#x27;Jigsaw Method&#x27; to Make Studying in Groups More Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-the-jigsaw-method-to-study-complex-topics-1850849174?utm_medium=RSS" target="_blank">Use the &#x27;Jigsaw Method&#x27; to Make Studying in Groups More Effective</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-08 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/9times.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="&quot;9 Times My Work Has Been Ripped Off&quot; — real-world strategies for when clients ghost you on payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/08/9-times-my-work-has-been-ripped-off-real-world-strategies-for-when-clients-ghost-you-on-payments.html" target="_blank">&quot;9 Times My Work Has Been Ripped Off&quot; — real-world strategies for when clients ghost you on payments</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-08 12:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
