@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 13:09:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 14:01:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 13:09 UTC</div>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/james-comey-gty-jef-251008_1759926344671_hpMain_4x3t_384.jpg" alt="Former FBI Director James Comey to make 1st court appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/former-fbi-director-james-comey-make-1st-court/story?id=126322951" target="_blank">Former FBI Director James Comey to make 1st court appearance</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-08 13:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -63,6 +66,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/08/g-s1-92465/up-first-newsletter-government-shutdown-air-traffic-control-james-comey" target="_blank">How flights are impacted by the government shutdown. And, James Comey&#x27;s arraignment</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-08 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759922467824_tdy_news_7a_odonnell_james_comey_251008_1920x1080-9aedoh.jpg" alt="James Comey Indictment Takes Spotlight at Pam Bondi Hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/ex-fbi-dir-james-comey-to-be-arraigned-on-criminal-charges-249344069942" target="_blank">James Comey Indictment Takes Spotlight at Pam Bondi Hearing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-08 11:21</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +95,38 @@
                 <span class="time">2025-10-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251008-comey-rs-341862.jpg" alt="James Comey to be arraigned after Trump called for his prosecution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/ex-fbi-director-james-comey-arraigned-trump-called-prosecution-rcna236138" target="_blank">James Comey to be arraigned after Trump called for his prosecution</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-08 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/08/nx-s1-5564788/antarctica-ernest-shackleton-ship-endurance-research-south-pole" target="_blank">Famed polar exploration ship Endurance not as strong as legend held, researcher says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-08 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e41eb11343a14390a1fd49/master/pass/The%20Best%20Deals%20From%20Walmart's%20Prime%20Day%20Sale.png" alt="The Best Discounts We&#x27;ve Found From the Walmart Deals Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-walmart-deals-october-2025-1/" target="_blank">The Best Discounts We&#x27;ve Found From the Walmart Deals Sale (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-08 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1496117734-500x500-1759836601.jpg" alt="It’s Prime Day 2025 part two, and here are more of the best deals we could find" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/shopping/2025/10/its-prime-day-2025-part-two-and-here-are-the-best-deals-we-could-find/" target="_blank">It’s Prime Day 2025 part two, and here are more of the best deals we could find</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-08 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/796094/nintendo-close-to-you-video-pikmin" target="_blank">It was Pikmin all along</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-08 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/640b7e23a7d24f68b3983170/master/pass/Belkin-3-in-1-Charger-Featured-Gear.jpg" alt="Get a Prime Day Discount on Belkin’s Best 3-in-1 Apple Wireless Charger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,38 +154,20 @@
                 <span class="time">2025-10-08 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/" target="_blank">Charles Schwab backs Singapore’s Qapita, a Carta challenger</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2" target="_blank">The 208 best October Prime Day deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-08 09:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/" target="_blank">Revolut aims to take on Indian banks and their ‘criminal’ forex fees</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-08 05:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/qcon-sf-2025-talks/en/headerimage/qcon-sf-2025-talks-1759926612618.jpg" alt="11 Sessions Not to Miss at QCon San Francisco 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/qcon-sf-2025-talks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">11 Sessions Not to Miss at QCon San Francisco 2025</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-08 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +213,6 @@
                 <span class="time">2025-10-08 11:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwu2ekclfpkoxcheqywkk.png" alt="n8n and OpenAI API: Creating Simple Text Processing Automations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/addwebsolutionpvtltd/n8n-and-openai-api-creating-simple-text-processing-automations-1i0f" target="_blank">n8n and OpenAI API: Creating Simple Text Processing Automations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-08 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +232,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/hagrid-hut-lego-set-1280x853.jpg" alt="LEGO Clears Out Harry Potter Stock, Hagrid’s Hut Selling for Mere Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-clears-out-harry-potter-stock-hagrids-hut-selling-for-mere-pennies-2000633202" target="_blank">LEGO Clears Out Harry Potter Stock, Hagrid’s Hut Selling for Mere Pennies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/stevia-1280x853.jpg" alt="This Sweet Trick Could Make Hair Loss Treatments More Potent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-sweet-trick-could-make-hair-loss-treatments-rogaine-more-potent-2000668902" target="_blank">This Sweet Trick Could Make Hair Loss Treatments More Potent</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-08 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2392959123.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Synology ends own-brand drive requirement after sales tumble" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/08/synology-ends-own-brand-drive-requirement-after-sales-tumble.html" target="_blank">Synology ends own-brand drive requirement after sales tumble</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-08 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/03/335d899c377996583d8eb756ffcd381b-1280x720.jpg" alt="Clair Obscur: Expedition 33 Is Getting A Free Expansion With New Boss Battles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/08/9-times-my-work-has-been-ripped-off-real-world-strategies-for-when-clients-ghost-you-on-payments.html" target="_blank">&quot;9 Times My Work Has Been Ripped Off&quot; — real-world strategies for when clients ghost you on payments</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-08 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/canada-wildfire-1280x853.jpg" alt="Zombie Fires and Historic Hurricanes: The 8 Wildest Weather Events of Summer 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zombie-fires-and-historic-hurricanes-the-8-wildest-weather-events-of-summer-2025-2000667518" target="_blank">Zombie Fires and Historic Hurricanes: The 8 Wildest Weather Events of Summer 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/seagate-hdd-20-1280x853.jpg" alt="Seagate HDD Is Going for Pennies at Amazon, Now Only $0.01 per GB of External Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seagate-hdd-is-going-for-pennies-at-amazon-now-only-0-01-per-gb-of-external-storage-2000633124" target="_blank">Seagate HDD Is Going for Pennies at Amazon, Now Only $0.01 per GB of External Storage</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/samsung-t7-ssd-1280x853.jpg" alt="Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-offloads-its-old-t7-external-ssds-now-selling-for-pennies-on-the-dollar-at-amazon-2000633112" target="_blank">Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 09:18</span>
             </div>
         </div>
 </div>
@@ -320,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
