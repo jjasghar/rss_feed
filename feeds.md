@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 22:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 23:01:32 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Egypt-talks-DB-251008_1759913361142_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Trump says Israel and Hamas signed off on 1st phase of deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Trump says Israel and Hamas signed off on 1st phase of deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-08 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c717/live/89beaff0-a480-11f0-892d-8503a9b17f9b.jpg" alt="Macron will nominate new French prime minister in 48 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj6xjpee1xjo?at_medium=RSS&at_campaign=rss" target="_blank">Macron will nominate new French prime minister in 48 hours</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-08 20:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/8/deadly-building-collapse-kills-4-in-madrid?traffic_source=rss" target="_blank">Deadly building collapse kills 4 in Madrid</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-08 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/08/nx-s1-5549179/los-angeles-band-spaghetti-cumbia" target="_blank">Los Angeles: Spaghetti Cumbia, a band born from cultural fusion</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-08 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +100,38 @@
                 <span class="time">2025-10-08 18:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/08/g-s1-92540/democrats-to-force-vote-to-limit-trump-war-powers-after-u-s-strikes-on-suspected-drug-boats" target="_blank">Democrats to force vote to limit Trump war powers after strikes on Venezuelan boats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-08 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f8/live/be1661d0-a467-11f0-928c-71dbb8619e94.jpg" alt="Kate McCann tells court alleged stalker&#x27;s contact with Maddie&#x27;s sister was &#x27;final straw&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnvr0723np8o?at_medium=RSS&at_campaign=rss" target="_blank">Kate McCann tells court alleged stalker&#x27;s contact with Maddie&#x27;s sister was &#x27;final straw&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-08 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-the-world-yalda-hakim_7046246.png?20251008202705" alt="Why a Gaza peace deal may finally suit the key players" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-a-gaza-peace-deal-may-finally-suit-the-key-players-13447143" target="_blank">Why a Gaza peace deal may finally suit the key players</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-08 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/" target="_blank">Even after Stargate, Oracle, Nvidia and AMD, OpenAI has more big deals coming soon, Sam Altman says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-08 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e6dbbcabf8e4d2e9b8e82c/master/pass/Why%20This%20$650%20Laptop%20Is%20the%20Only%20Windows%20Device%20You%20Should%20Buy%20on%20Prime%20Day.png" alt="The Dell 14 Plus Is Now Only $650" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dell-14-plus-prime-day-2025/" target="_blank">The Dell 14 Plus Is Now Only $650</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-08 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/zenith2-500x500.jpg" alt="Stoke Space gives us another reason to take it very seriously" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/" target="_blank">Stoke Space gives us another reason to take it very seriously</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-08 22:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,33 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-baby-deals-october-2025/" target="_blank">The Best Amazon Prime Day Baby Deals (2025): Car Seats, Strollers, and More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-08 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/" target="_blank">OpenAI’s Nick Turley on transforming ChatGPT into an operating system</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-08 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025" target="_blank">You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-08 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/" target="_blank">Sora’s first week on iOS in the US was nearly as big as ChatGPT’s</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-08 18:12</span>
             </div>
         </div>
 </div>
@@ -229,20 +232,29 @@
                 <span class="time">2025-10-08 16:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/" target="_blank">ShinyHunters Wage Broad Corporate Extortion Spree</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-10-07 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K72XHPHETRV7WVQ7R730XFNJ/hero-image.png" alt="This Fully Automatic Espresso Machine Is 50% Off Until Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/philips-3200-fully-automatic-espresso-machine-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">This Fully Automatic Espresso Machine Is 50% Off Until Prime Day Ends Tonight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-08 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-earth-romulan-war-balance-of-terror-kirk-commander-1280x853.jpg" alt="What We Know About the Biggest Unseen War of ‘Star Trek’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-earth-romulan-war-explained-2000669117" target="_blank">What We Know About the Biggest Unseen War of ‘Star Trek’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-08 22:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/EASKATE-1280x720.jpg" alt="Skate’s Charging $35 For A Dead Space Skin That Looks Like A Bad Cosplay Made Outta Junk From Home Depot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,30 +283,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6X7YQ0630V6R7H4K395VYKY/hero-image.jpg" alt="October Prime Day 2025 Live Blog: Day 2 Deals You Can Still Get Before Prime Day Ends Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Apple-MacBook-Air-13.3-1.png?fit=1300%2C976&amp;quality=55&amp;ssl=1" alt="Light, fast, and wallet-friendly — a $180 MacBook Air for email, docs, and streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/october-prime-day-10-08-2025-live-blog?utm_medium=RSS" target="_blank">October Prime Day 2025 Live Blog: Day 2 Deals You Can Still Get Before Prime Day Ends Today</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-08 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/SawX-1280x853.jpg" alt="Jason Blum Missed Out on ‘Texas Chain Saw’ But He’s Still Got High Horror Hopes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jason-blum-missed-out-on-texas-chain-saw-but-hes-still-got-high-horror-hopes-2000669822" target="_blank">Jason Blum Missed Out on ‘Texas Chain Saw’ But He’s Still Got High Horror Hopes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-08 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ss_d38945f16d1001ec5f274f0a580687b10f3decc0-1280x720.jpg" alt="Sky The Scrapper Mixes Persona And PowerWash Sim Into A Fascinating Arcade Game More People Should Try" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-indie-arcade-rpg-life-sim-persona-powerwasher-2000633307" target="_blank">Sky The Scrapper Mixes Persona And PowerWash Sim Into A Fascinating Arcade Game More People Should Try</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 19:47</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/08/light-fast-and-wallet-friendly-a-180-macbook-air-for-email-docs-and-streaming.html" target="_blank">Light, fast, and wallet-friendly — a $180 MacBook Air for email, docs, and streaming</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-08 21:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
