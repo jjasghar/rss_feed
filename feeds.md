@@ -1,30 +1,23 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 01:29:08 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-08 02:25:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 15 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +96,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1" target="_blank">The 200 best October Prime Day deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-08 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e44e06e05a13eb9d10f156/master/pass/LIVE%20BLOG.jpg" alt="Prime Day 2025 - We’re Tracking Deals Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-deals-october-25/" target="_blank">Prime Day 2025 - We’re Tracking Deals Live</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-08 02:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale" target="_blank">Philips Hue customizable string lights are $50 off for October Prime Day</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-07 23:00</span>
@@ -135,29 +146,20 @@
                 <span class="time">2025-10-07 22:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1" target="_blank">The 190 best October Prime Day deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-07 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/" target="_blank">Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-07 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-2510-features.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10: Discover the Best New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-new-features" target="_blank">Ubuntu 25.10: Discover the Best New Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-08 01:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +203,6 @@
                 <span class="title"><a href="https://dev.to/shifa_noorulain_2c5f713e9/beyond-transformers-can-mlps-unlock-the-potential-of-in-context-learning-2jbl" target="_blank">Beyond Transformers: Can MLPs Unlock the Potential of In-Context Learning?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-07 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/technology/google-deepmind/gemini-computer-use-model/" target="_blank">Gemini 2.5 Computer Use model</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-07 19:49</span>
             </div>
         </div>
 </div>
@@ -277,12 +270,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/image-20.jpg" alt="Jimmy Fallon Is Trying To Make Wordle Into A Game Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Visio-Professional-2024.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Big ideas deserve the spotlight: Microsoft Visio 2024 now $49.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wordle-jimmy-fallon-game-show-host-nbc-savannah-guthrie-2000632667" target="_blank">Jimmy Fallon Is Trying To Make Wordle Into A Game Show</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-07 20:58</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/07/big-ideas-deserve-the-spotlight-microsoft-visio-2024-now-49-97.html" target="_blank">Big ideas deserve the spotlight: Microsoft Visio 2024 now $49.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-07 21:00</span>
             </div>
         </div>
 </div>
@@ -304,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
