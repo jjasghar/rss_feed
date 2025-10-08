@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 10:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 11:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251008-comey-rs-341862.jpg" alt="James Comey to be arraigned after Trump called for his prosecution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/ex-fbi-director-james-comey-arraigned-trump-called-prosecution-rcna236138" target="_blank">James Comey to be arraigned after Trump called for his prosecution</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-08 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +103,20 @@
                 <span class="time">2025-10-08 06:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/78205e50-a40e-11f0-92db-77261a15b9d2.jpg" alt="US special envoy and Trump&#x27;s son-in-law to join Gaza peace talks in Egypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss" target="_blank">US special envoy and Trump&#x27;s son-in-law to join Gaza peace talks in Egypt</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-08 05:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/" target="_blank">Charles Schwab backs Singapore’s Qapita, a Carta challenger</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,29 @@
                 <span class="time">2025-10-08 02:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale" target="_blank">Philips Hue customizable string lights are $50 off for October Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-07 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwu2ekclfpkoxcheqywkk.png" alt="n8n and OpenAI API: Creating Simple Text Processing Automations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/addwebsolutionpvtltd/n8n-and-openai-api-creating-simple-text-processing-automations-1i0f" target="_blank">n8n and OpenAI API: Creating Simple Text Processing Automations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-08 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fair-DRM-Scheduler-Post-RFC" target="_blank">Linux Fair DRM Scheduler Graduates Out Of The &quot;RFC&quot; Phase</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-08 10:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +221,6 @@
                 <span class="time">2025-10-08 05:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa3kguknw08ekgytfkzge.png" alt="Code Reviews with AI: Making Feedback Fast, Fair, and Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/code-reviews-with-ai-making-feedback-fast-fair-and-effective-4aa8" target="_blank">Code Reviews with AI: Making Feedback Fast, Fair, and Effective</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-08 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-2510-features.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10: What’s New, What’s Changed &amp; Should You Upgrade?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-new-features" target="_blank">Ubuntu 25.10: What’s New, What’s Changed &amp; Should You Upgrade?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-08 01:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,12 +250,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/seagate-hdd-20-1280x853.jpg" alt="Seagate HDD Is Going for Pennies at Amazon, Now Only $0.01 per GB of External Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seagate-hdd-is-going-for-pennies-at-amazon-now-only-0-01-per-gb-of-external-storage-2000633124" target="_blank">Seagate HDD Is Going for Pennies at Amazon, Now Only $0.01 per GB of External Storage</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 10:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/samsung-t7-ssd-1280x853.jpg" alt="Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/samsung-offloads-its-old-t7-external-ssds-now-selling-for-pennies-on-the-dollar-at-amazon-2000633112" target="_blank">Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-08 09:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K70X20A31NDP8XHTAJTSG7DG/hero-image.png" alt="This Fire TV Is Even Cheaper Now Than When I Bought It a Month Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-fire-tv-even-cheaper-now-october-prime-day-2025?utm_medium=RSS" target="_blank">This Fire TV Is Even Cheaper Now Than When I Bought It a Month Ago</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-08 03:30</span>
             </div>
         </div>
 <div class="story">
@@ -277,24 +301,6 @@
                 <span class="title"><a href="https://gizmodo.com/sinners-wants-to-be-invited-in-for-this-years-must-have-halloween-movie-costumes-2000669246" target="_blank">‘Sinners’ Wants to Be Invited in for This Year’s Must-Have Halloween Movie Costumes</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-08 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_25_52_12_L-1-1280x720.jpg" alt="What’s With This New KPop Demon Hunters Song On Spotify?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-huntrix-spotify-new-song-mazatlan-by-night-2000632680" target="_blank">What’s With This New KPop Demon Hunters Song On Spotify?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Apple-AirPods-4-Wireless-Earbuds.jpg" alt="AirPods 4 Are Now 3x Cheaper Than AirPods Pro, Amazon Is Offering Entry-Level Clearance Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/airpods-4-are-now-3x-cheaper-than-airpods-pro-amazon-is-offering-entry-level-clearance-prices-2000632651" target="_blank">AirPods 4 Are Now 3x Cheaper Than AirPods Pro, Amazon Is Offering Entry-Level Clearance Prices</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-07 22:20</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
