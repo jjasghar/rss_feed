@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 20:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 21:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 20:01 UTC</div>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +47,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/8/deadly-building-collapse-kills-4-in-madrid?traffic_source=rss" target="_blank">Deadly building collapse kills 4 in Madrid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/authorities-charge-man-accused-of-starting-deadly-la-wildfire?traffic_source=rss" target="_blank">Authorities charge man accused of starting deadly LA wildfire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-08 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251007-trump-ch-1323-a57269.jpg" alt="Trump administration officials seriously discussing invoking Insurrection Act, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/trump-officials-insurrection-act-national-guard-deployment-sources-rcna236194" target="_blank">Trump administration officials seriously discussing invoking Insurrection Act, sources say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-08 18:55</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +97,20 @@
                 <span class="time">2025-10-08 16:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/8/buckle-up-imf-chief-warns-of-economic-uncertainty?traffic_source=rss" target="_blank">‘Buckle up’: IMF chief warns of economic uncertainty</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/james-comey-gty-jef-251008_1759926344671_hpMain_4x3t_384.jpg" alt="Comey pleads not guilty, will seek dismissal over &#x27;outrageous government conduct&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/former-fbi-director-james-comey-make-1st-court/story?id=126322951" target="_blank">Comey pleads not guilty, will seek dismissal over &#x27;outrageous government conduct&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-08 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e6bf90f6e7acd1bd67bb1f/master/pass/The%20Best%20Baby%20Gear%20Deals%20During%20Prime%20Day.png" alt="The Best Amazon Prime Day Baby Deals (2025): Car Seats, Strollers, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-baby-deals-october-2025/" target="_blank">The Best Amazon Prime Day Baby Deals (2025): Car Seats, Strollers, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-08 20:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +156,20 @@
                 <span class="time">2025-10-08 17:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/" target="_blank">Zendesk says its new AI agent can solve 80% of support issues</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-08 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AOMedia-AV2-Talk" target="_blank">AOMedia Will Be Talking More About The AV2 Video Codec Later This Month</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-08 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +215,6 @@
                 <span class="time">2025-10-08 18:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-1j5f" target="_blank">GameSpot: $100 to Craft the Best Steam Sale Cart</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-08 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Anime-Village-Online-1280x742.jpg" alt="PlayStation 5 Is Getting Its Own Shameless Animal Crossing Rip-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/animal-crossing-ps5-ai-rip-off-psn-last-us-2000633320" target="_blank">PlayStation 5 Is Getting Its Own Shameless Animal Crossing Rip-Off</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6X7YQ0630V6R7H4K395VYKY/hero-image.jpg" alt="October Prime Day 2025 Live Blog: Day 2 Deals You Can Still Get Before Prime Day Ends Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/october-prime-day-10-08-2025-live-blog?utm_medium=RSS" target="_blank">October Prime Day 2025 Live Blog: Day 2 Deals You Can Still Get Before Prime Day Ends Today</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-08 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/SawX-1280x853.jpg" alt="Jason Blum Missed Out on ‘Texas Chain Saw’ But He’s Still Got High Horror Hopes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jason-blum-missed-out-on-texas-chain-saw-but-hes-still-got-high-horror-hopes-2000669822" target="_blank">Jason Blum Missed Out on ‘Texas Chain Saw’ But He’s Still Got High Horror Hopes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-08 20:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/ss_d38945f16d1001ec5f274f0a580687b10f3decc0-1280x720.jpg" alt="Sky The Scrapper Mixes Persona And PowerWash Sim Into A Fascinating Arcade Game More People Should Try" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -267,33 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/fandy-livestream-birth-twitch-ceo-husband-adamax-2000633290" target="_blank">Woman Livestreams Birth As Twitch Chat Cheers Her On</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-08 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/907d83d7-4d46-48b1-8de9-091895da20fe_1266x992.webp?fit=1266%2C992&amp;quality=55&amp;ssl=1" alt="Report: Apple defined ICE as a &quot;protected class&quot; in blocking &quot;discriminatory&quot; anti-ICE apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/08/report-apple-defined-ice-as-a-protected-class-in-blocking-discriminatory-anti-ice-apps.html" target="_blank">Report: Apple defined ICE as a &quot;protected class&quot; in blocking &quot;discriminatory&quot; anti-ICE apps</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-08 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/google-pixel-buds-2a-review-09-1280x853.jpg" alt="Google Pixel Buds 2a Review: A Better Value, but Nothing Mind-Blowing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-pixel-buds-2a-review-a-better-value-but-nothing-mind-blowing-2000668911" target="_blank">Google Pixel Buds 2a Review: A Better Value, but Nothing Mind-Blowing</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hinako-main-1280x720.jpg" alt="Silent Hill f’s Creepy School Level Hides A Lovely Musical Nod To The Original Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silent-hill-fs-creepy-school-level-hides-a-lovely-musical-nod-to-the-original-game-2000633282" target="_blank">Silent Hill f’s Creepy School Level Hides A Lovely Musical Nod To The Original Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 16:40</span>
             </div>
         </div>
 </div>
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
