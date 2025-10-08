@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 18:02:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 19:01:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/08/g-s1-92540/democrats-to-force-vote-to-limit-trump-war-powers-after-u-s-strikes-on-suspected-drug-boats" target="_blank">Democrats to force vote to limit Trump war powers after strikes on Venezuelan boats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-08 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f8/live/be1661d0-a467-11f0-928c-71dbb8619e94.jpg" alt="Kate McCann tells court alleged stalker&#x27;s contact with Maddie&#x27;s sister was &#x27;final straw&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +105,29 @@
                 <span class="time">2025-10-08 14:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/james-comey-gty-jef-251008_1759926344671_hpMain_4x3t_384.jpg" alt="Former FBI Director James Comey to make 1st court appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/former-fbi-director-james-comey-make-1st-court/story?id=126322951" target="_blank">Former FBI Director James Comey to make 1st court appearance</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-08 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025" target="_blank">You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/" target="_blank">Sora’s first week on iOS in the US was nearly as big as ChatGPT’s</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-08 18:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +164,29 @@
                 <span class="time">2025-10-08 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/792452/amazon-october-prime-day-ue-wonderboom-4-bluetooth-speaker-deal-sale-2025" target="_blank">UE’s Wonderboom 4 is great for music lovers, and it’s 34 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e42b0a089e9a406fb333ff/master/pass/The%20Biggest%20Prime%20Day%20Coffee%20and%20Espresso%20Deals%20of%20October%202025.png" alt="Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025-1/" target="_blank">Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-08 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/granite-docling-ibm/en/headerimage/generatedHeaderImage-1759947833577.jpg" alt="IBM Releases Granite-Docling-258M, a Compact Vision-Language Model for Precise Document Conversion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/granite-docling-ibm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">IBM Releases Granite-Docling-258M, a Compact Vision-Language Model for Precise Document Conversion</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-08 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-USB" target="_blank">Linux 6.18 USB Brings Intel USBIO Drivers, Offload Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-08 18:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,29 +223,20 @@
                 <span class="time">2025-10-08 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/" target="_blank">Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-08 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/python-go-rust-typescript-and-ai" target="_blank">Python, Go, Rust, TypeScript and AI with Armin Ronacher</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-08 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html" target="_blank">Flok License Plate Surveillance</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-08 16:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -234,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Bob-Ross-1280x860.jpg" alt="As Trump Bleeds Public TV Dry, Bob Ross Paintings Go Up for Auction to Support Local Stations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/as-trump-bleeds-public-tv-dry-bob-ross-paintings-go-up-for-auction-to-support-local-stations-2000669729" target="_blank">As Trump Bleeds Public TV Dry, Bob Ross Paintings Go Up for Auction to Support Local Stations</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-08 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Birth-3.jpg" alt="Woman Livestreams Birth As Twitch Chat Cheers Her On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +305,6 @@
                 <span class="time">2025-10-08 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/s25-ultra-1280x853.jpg" alt="Samsung Galaxy S25 Ultra Gets Even Cheaper Than Yesterday on the Final Day of Prime Day While iPhone 17 Stays Pricey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/grab-the-samsung-galaxy-s25-ultra-for-just-935-this-prime-day-2000633157" target="_blank">Samsung Galaxy S25 Ultra Gets Even Cheaper Than Yesterday on the Final Day of Prime Day While iPhone 17 Stays Pricey</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 15:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
