@@ -1,23 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 02:25:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 03:11:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 15 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 02:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 03:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -33,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/italys-meloni-says-icc-complaint-accuses-her-of-gaza-genocide-complicity?traffic_source=rss" target="_blank">Italy’s Meloni says ICC complaint accuses her of Gaza genocide complicity</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 02:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-cordelia-lynch_7045461.jpg?20251007215817" alt="These deported Afghans suffered brutal treatment in Iran - yet are desperate to go back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/beaten-for-16-days-deported-afghans-describe-brutal-treatment-by-iran-yet-are-desperate-to-return-13446432" target="_blank">These deported Afghans suffered brutal treatment in Iran - yet are desperate to go back</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-07 23:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/07/nx-s1-5555902/israel-hamas-war-mental-emotional-cost-israelis" target="_blank">The costs of Israel&#x27;s longest war, for Israelis</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-07 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0f653e0-a3a3-11f0-924e-bba4adcf336a.jpg" alt="Israelis mark 7 October anniversary as talks on Gaza peace plan continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c24rj4pg05no?at_medium=RSS&at_campaign=rss" target="_blank">Israelis mark 7 October anniversary as talks on Gaza peace plan continue</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-07 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss" target="_blank">Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-07 20:36</span>
             </div>
         </div>
 </div>
@@ -152,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa3kguknw08ekgytfkzge.png" alt="Code Reviews with AI: Making Feedback Fast, Fair, and Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/code-reviews-with-ai-making-feedback-fast-fair-and-effective-4aa8" target="_blank">Code Reviews with AI: Making Feedback Fast, Fair, and Effective</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-08 03:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-2510-features.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10: Discover the Best New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -196,20 +217,20 @@
                 <span class="time">2025-10-07 21:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shifa_noorulain_2c5f713e9/beyond-transformers-can-mlps-unlock-the-potential-of-in-context-learning-2jbl" target="_blank">Beyond Transformers: Can MLPs Unlock the Potential of In-Context Learning?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-07 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/" target="_blank">ShinyHunters Wage Broad Corporate Extortion Spree</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-10-07 22:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -231,6 +252,15 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/best-lego-sets-on-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">These Cool LEGO Sets Are All on Sale for 30% Off for Prime Day Today</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-08 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Sinners-Spirit-Halloween-costumes-1280x853.jpg" alt="‘Sinners’ Wants to Be Invited in for This Year’s Must-Have Halloween Movie Costumes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sinners-wants-to-be-invited-in-for-this-years-must-have-halloween-movie-costumes-2000669246" target="_blank">‘Sinners’ Wants to Be Invited in for This Year’s Must-Have Halloween Movie Costumes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-08 00:25</span>
             </div>
         </div>
 <div class="story">
@@ -269,15 +299,6 @@
                 <span class="time">2025-10-07 21:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Visio-Professional-2024.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Big ideas deserve the spotlight: Microsoft Visio 2024 now $49.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/07/big-ideas-deserve-the-spotlight-microsoft-visio-2024-now-49-97.html" target="_blank">Big ideas deserve the spotlight: Microsoft Visio 2024 now $49.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-07 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 03:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
