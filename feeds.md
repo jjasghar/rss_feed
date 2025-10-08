@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 16:01:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-08 17:01:41 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 31 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/8/buckle-up-imf-chief-warns-of-economic-uncertainty?traffic_source=rss" target="_blank">‘Buckle up’: IMF chief warns of economic uncertainty</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 16:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/james-comey-gty-jef-251008_1759926344671_hpMain_4x3t_384.jpg" alt="Comey pleads not guilty, will seek dismissal over &#x27;outrageous government conduct&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +103,38 @@
                 <span class="time">2025-10-08 12:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/08/g-s1-92465/up-first-newsletter-government-shutdown-air-traffic-control-james-comey" target="_blank">How flights are impacted by the government shutdown. And, James Comey&#x27;s arraignment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-08 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/" target="_blank">Zendesk says its new AI agent can solve 80% of support issues</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/792452/amazon-october-prime-day-ue-wonderboom-4-bluetooth-speaker-deal-sale-2025" target="_blank">UE’s Wonderboom 4 is great for music lovers, and it’s 34 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e42b0a089e9a406fb333ff/master/pass/The%20Biggest%20Prime%20Day%20Coffee%20and%20Espresso%20Deals%20of%20October%202025.png" alt="Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025-1/" target="_blank">Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-08 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +162,38 @@
                 <span class="time">2025-10-08 15:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/796179/twitch-fandy-birth-livestream-dan-clancy" target="_blank">A Twitch streamer gave birth live, with Twitch&amp;#8217;s CEO in the chat</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-08 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e41eb11343a14390a1fd49/master/pass/The%20Best%20Deals%20From%20Walmart's%20Prime%20Day%20Sale.png" alt="The Best Discounts We&#x27;ve Found From the Walmart Deals Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-walmart-deals-october-2025-1/" target="_blank">The Best Discounts We&#x27;ve Found From the Walmart Deals Sale (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-08 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1496117734-500x500-1759836601.jpg" alt="It’s Prime Day 2025 part two, and here are more of the best deals we could find" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/shopping/2025/10/its-prime-day-2025-part-two-and-here-are-the-best-deals-we-could-find/" target="_blank">It’s Prime Day 2025 part two, and here are more of the best deals we could find</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-08 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3tkw30gq1iekribzsg0.png" alt="ACID PROPERTIES WITH SQL TRNSACTIONS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lohita_blue_d6409977eec4c/acid-properties-with-sql-trnsactions-4ji8" target="_blank">ACID PROPERTIES WITH SQL TRNSACTIONS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-08 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it" target="_blank">Python 3.14 Is Here. How Fast Is It?</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-08 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687376&w=600" alt="Converting ActiveMQ to Jakarta (Part III: Final)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/converting-activemq-to-jakarta-part-iii" target="_blank">Converting ActiveMQ to Jakarta (Part III: Final)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-08 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,33 +221,6 @@
                 <span class="time">2025-10-08 15:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/popos-2404-beta" target="_blank">System76 Pop!_OS 24.04 Beta Performing Well In Early Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-08 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/08/a-new-look-for-comments/" target="_blank">A new look for comments</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/qcon-sf-2025-talks/en/headerimage/qcon-sf-2025-talks-1759926612618.jpg" alt="11 Sessions Not to Miss at QCon San Francisco 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/qcon-sf-2025-talks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">11 Sessions Not to Miss at QCon San Francisco 2025</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-08 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/google-pixel-buds-2a-review-09-1280x853.jpg" alt="Google Pixel Buds 2a Review: A Better Value, but Nothing Mind-Blowing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-pixel-buds-2a-review-a-better-value-but-nothing-mind-blowing-2000668911" target="_blank">Google Pixel Buds 2a Review: A Better Value, but Nothing Mind-Blowing</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/hinako-main-1280x720.jpg" alt="Silent Hill f’s Creepy School Level Hides A Lovely Musical Nod To The Original Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/silent-hill-fs-creepy-school-level-hides-a-lovely-musical-nod-to-the-original-game-2000633282" target="_blank">Silent Hill f’s Creepy School Level Hides A Lovely Musical Nod To The Original Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 16:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2556450023-1280x871.jpg" alt="Bank of England Warns of an AI Bubble Burst" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +294,6 @@
                 <span class="time">2025-10-08 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Govee-Permanent-Outdoor-Lights-Pro-200ft-1280x853.jpg" alt="Govee Permanent Outdoor Lights Pro 200ft Is Hundreds Off in Last-Call Prime Day Clearance, Perfect for Halloween Prep" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/govee-permanent-outdoor-lights-pro-200ft-is-hundreds-off-in-last-call-prime-day-clearance-perfect-for-halloween-prep-2000632626" target="_blank">Govee Permanent Outdoor Lights Pro 200ft Is Hundreds Off in Last-Call Prime Day Clearance, Perfect for Halloween Prep</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hagrid-hut-lego-set-1280x853.jpg" alt="LEGO Clears Out Harry Potter Stock, Hagrid’s Hut Selling for Mere Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-clears-out-harry-potter-stock-hagrids-hut-selling-for-mere-pennies-2000633202" target="_blank">LEGO Clears Out Harry Potter Stock, Hagrid’s Hut Selling for Mere Pennies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 13:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
