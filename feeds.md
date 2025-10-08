@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 06:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 07:01:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss" target="_blank">LIVE: Israel keeps bombing Gaza as peace talks in Egypt enter third day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/78205e50-a40e-11f0-92db-77261a15b9d2.jpg" alt="US special envoy and Trump&#x27;s son-in-law to join Gaza peace talks in Egypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss" target="_blank">US special envoy and Trump&#x27;s son-in-law to join Gaza peace talks in Egypt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-08 05:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +99,20 @@
                 <span class="time">2025-10-08 02:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-cordelia-lynch_7045461.jpg?20251007215817" alt="Forced back to their home after brutal treatment, but still desperate to leave again. Why?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/beaten-for-16-days-deported-afghans-describe-brutal-treatment-by-iran-yet-are-desperate-to-return-13446432" target="_blank">Forced back to their home after brutal treatment, but still desperate to leave again. Why?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-07 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-afghanistan-cordelia-lynch_7045461.jpg?20251007215817" alt="These deported Afghans suffered brutal treatment in Iran - yet are desperate to go back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/beaten-for-16-days-deported-afghans-describe-brutal-treatment-by-iran-yet-are-desperate-to-return-13446432" target="_blank">These deported Afghans suffered brutal treatment in Iran - yet are desperate to go back</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-07 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/" target="_blank">Revolut aims to take on Indian banks and their ‘criminal’ forex fees</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-08 05:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +158,29 @@
                 <span class="time">2025-10-07 22:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e58e0591b150d3a8db625e/master/pass/The%20Solawave%20Wand%20Is%20on%20Serious%20Sale%20Right%20Now.png" alt="The Solawave Wand Is the Best LED Device Prime Day Deal Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/solawave-wand-deal-prime-day-october-2025/" target="_blank">The Solawave Wand Is the Best LED Device Prime Day Deal Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-07 22:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/meta-ships-react-19-2/en/headerimage/generatedHeaderImage-1759680230602.jpg" alt="Meta Ships React 19.2 Featuring Activity API, Cache Signals, and SSR Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/meta-ships-react-19-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Ships React 19.2 Featuring Activity API, Cache Signals, and SSR Enhancements</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-08 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chrizfasa/the-human-element-why-employees-are-still-the-weakest-link-in-cybersecurity-4aog" target="_blank">The Human Element: Why Employees Are Still the Weakest Link in Cybersecurity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-08 06:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,24 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-new-features" target="_blank">Ubuntu 25.10: Discover the Best New Features</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-08 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-OpenZL-Compression" target="_blank">Meta Opens Up OpenZL As Format-Aware Compression Framework</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-08 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gilads-otiannoh24/refactoring-without-restarting-what-6-months-of-rebuilding-my-codeigniter-app-taught-me-about-1ahg" target="_blank">Refactoring Without Restarting: What 6 Months of Rebuilding My CodeIgniter App Taught Me About Growth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-07 23:46</span>
             </div>
         </div>
 </div>
@@ -312,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
