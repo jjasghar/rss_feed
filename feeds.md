@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 21:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-08 22:01:44 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2" target="_blank">The 222 best October Prime Day deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-08 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/bank_of_england-500x500.jpg" alt="Bank of England warns AI stock bubble rivals 2000 dotcom peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/" target="_blank">Bank of England warns AI stock bubble rivals 2000 dotcom peak</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-08 21:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68e6bf90f6e7acd1bd67bb1f/master/pass/The%20Best%20Baby%20Gear%20Deals%20During%20Prime%20Day.png" alt="The Best Amazon Prime Day Baby Deals (2025): Car Seats, Strollers, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -136,24 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/" target="_blank">Sora’s first week on iOS in the US was nearly as big as ChatGPT’s</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-08 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day" target="_blank">Switch 2 accessories that I recommend are cheaper than ever during October Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/JPG_300_dpi_RGB-Pop_Family-500x500-1759943721.jpg" alt="Logitech will brick its $100 Pop smart home buttons on October 15" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/logitech-will-brick-its-100-pop-smart-home-buttons-on-october-15/" target="_blank">Logitech will brick its $100 Pop smart home buttons on October 15</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-08 17:47</span>
             </div>
         </div>
 </div>
@@ -244,6 +244,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/EASKATE-1280x720.jpg" alt="Skate’s Charging $35 For A Dead Space Skin That Looks Like A Bad Cosplay Made Outta Junk From Home Depot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-skate-dead-space-skin-season-rewards-2000633352" target="_blank">Skate’s Charging $35 For A Dead Space Skin That Looks Like A Bad Cosplay Made Outta Junk From Home Depot</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-08 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K72SKTB8PM1AE00CY0MW0KCX/hero-image.png" alt="The Loudest Portable Party Speaker I&#x27;ve Ever Used Is $200 Off Until Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/soundboks-go-october-prime-day-2025?utm_medium=RSS" target="_blank">The Loudest Portable Party Speaker I&#x27;ve Ever Used Is $200 Off Until Prime Day Ends Tonight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-08 21:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Anime-Village-Online-1280x742.jpg" alt="PlayStation 5 Is Getting Its Own Shameless Animal Crossing Rip-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -279,24 +297,6 @@
                 <span class="time">2025-10-08 19:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Bob-Ross-1280x860.jpg" alt="As Trump Bleeds Public TV Dry, Bob Ross Paintings Go Up for Auction to Support Local Stations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/as-trump-bleeds-public-tv-dry-bob-ross-paintings-go-up-for-auction-to-support-local-stations-2000669729" target="_blank">As Trump Bleeds Public TV Dry, Bob Ross Paintings Go Up for Auction to Support Local Stations</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-08 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Birth-3.jpg" alt="Woman Livestreams Birth As Twitch Chat Cheers Her On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fandy-livestream-birth-twitch-ceo-husband-adamax-2000633290" target="_blank">Woman Livestreams Birth As Twitch Chat Cheers Her On</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
