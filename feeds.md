@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-07 23:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-08 00:04:28 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, October 07, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 08, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -119,6 +114,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/" target="_blank">You can’t libel the dead. But that doesn’t mean you should deepfake them.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-07 22:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68e58e0591b150d3a8db625e/master/pass/The%20Solawave%20Wand%20Is%20on%20Serious%20Sale%20Right%20Now.png" alt="The Solawave Wand Is the Best LED Device Prime Day Deal Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,20 +158,20 @@
                 <span class="time">2025-10-07 21:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism" target="_blank">Former Apple bosses slam decision to take down ICEBlock</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-07 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gilads-otiannoh24/refactoring-without-restarting-what-6-months-of-rebuilding-my-codeigniter-app-taught-me-about-1ahg" target="_blank">Refactoring Without Restarting: What 6 Months of Rebuilding My CodeIgniter App Taught Me About Growth</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-07 23:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/postgresql-full-text-search-vs-pattern-search" target="_blank">Pattern Searching and PostgreSQL Full-Text Search: Understanding the Mismatch</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-07 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2noaolpsvtfil5vriim.jpg" alt="Golang Dependency Inversion — A Java Developer&#x27;s Point of View" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4" target="_blank">Golang Dependency Inversion — A Java Developer&#x27;s Point of View</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-07 18:54</span>
             </div>
         </div>
 </div>
@@ -323,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
