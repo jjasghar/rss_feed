@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-08 23:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-09 00:04:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, October 08, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/08/nx-s1-5567186/at-the-supreme-court-the-case-of-the-candidate-who-sued-even-though-he-won" target="_blank">At the Supreme Court, the case of the candidate who sued, even though he won</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-08 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump announces first phase of Israel-Hamas peace plan: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump announces first phase of Israel-Hamas peace plan: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-08 23:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/frances-macron-to-appoint-new-prime-minister-within-48-hours?traffic_source=rss" target="_blank">France’s Macron to appoint new prime minister within 48 hours</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-08 23:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Egypt-talks-DB-251008_1759913361142_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Trump says Israel and Hamas signed off on 1st phase of deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +102,20 @@
                 <span class="time">2025-10-08 20:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/08/nx-s1-5549179/los-angeles-band-spaghetti-cumbia" target="_blank">Los Angeles: Spaghetti Cumbia, a band born from cultural fusion</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-08 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/8/authorities-charge-man-accused-of-starting-deadly-la-wildfire?traffic_source=rss" target="_blank">Authorities charge man accused of starting deadly LA wildfire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251007-trump-ch-1323-a57269.jpg" alt="Trump administration officials seriously discussing invoking Insurrection Act, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/trump-officials-insurrection-act-national-guard-deployment-sources-rcna236194" target="_blank">Trump administration officials seriously discussing invoking Insurrection Act, sources say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-08 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/osiris-apex-500x500.jpg" alt="One NASA science mission saved from Trump’s cuts, but others still in limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/" target="_blank">One NASA science mission saved from Trump’s cuts, but others still in limbo</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-08 23:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,20 @@
                 <span class="time">2025-10-08 21:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e6bf90f6e7acd1bd67bb1f/master/pass/The%20Best%20Baby%20Gear%20Deals%20During%20Prime%20Day.png" alt="The Best Amazon Prime Day Baby Deals (2025): Car Seats, Strollers, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-baby-deals-october-2025/" target="_blank">The Best Amazon Prime Day Baby Deals (2025): Car Seats, Strollers, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-08 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-2b66" target="_blank">GameSpot: Will Halo be Saved or Destroyed?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 00:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="time">2025-10-08 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-USB" target="_blank">Linux 6.18 USB Brings Intel USBIO Drivers, Offload Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-08 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/pennywisebaldcropped-1280x853.jpg" alt="Is the Massive Forehead of This Human Pennywise Figure a ‘Welcome to Derry’ Spoiler?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/is-the-massive-forehead-of-this-human-pennywise-figure-a-welcome-to-derry-spoiler-2000669921" target="_blank">Is the Massive Forehead of This Human Pennywise Figure a ‘Welcome to Derry’ Spoiler?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-08 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K70AHR2SXCK029FXPVQ1KQ8G/hero-image.jpg" alt="I&#x27;m a Tech Editor, and These Are the Best Tech Deals to Check Out Before Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-prime-day-tech-deals-to-pay-attention-to-october-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;m a Tech Editor, and These Are the Best Tech Deals to Check Out Before Prime Day Ends Tonight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-08 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K72XHPHETRV7WVQ7R730XFNJ/hero-image.png" alt="This Fully Automatic Espresso Machine Is 50% Off Until Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +293,6 @@
                 <span class="time">2025-10-08 21:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Anime-Village-Online-1280x742.jpg" alt="PlayStation 5 Is Getting Its Own Shameless Animal Crossing Rip-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/animal-crossing-ps5-ai-rip-off-psn-last-us-2000633320" target="_blank">PlayStation 5 Is Getting Its Own Shameless Animal Crossing Rip-Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Apple-MacBook-Air-13.3-1.png?fit=1300%2C976&amp;quality=55&amp;ssl=1" alt="Light, fast, and wallet-friendly — a $180 MacBook Air for email, docs, and streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/08/light-fast-and-wallet-friendly-a-180-macbook-air-for-email-docs-and-streaming.html" target="_blank">Light, fast, and wallet-friendly — a $180 MacBook Air for email, docs, and streaming</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-08 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
