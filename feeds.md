@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 18:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-09 19:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/9/trump-netanyahu-more-popular-today-than-five-days?traffic_source=rss" target="_blank">Trump: Netanyahu ‘more popular today than five days ago’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-09 17:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +100,29 @@
                 <span class="time">2025-10-09 15:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-dxf-teaser-gaza_7047004.jpg?20251009164513" alt="How two years of war have shattered the Gaza Strip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/how-two-years-of-war-have-shattered-the-gaza-strip-13447628" target="_blank">How two years of war have shattered the Gaza Strip</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-09 14:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1155839798-500x500.jpg" alt="Tesla FSD gets worse at driving, NHTSA opens new investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/tesla-fsd-gets-worse-at-driving-nhtsa-opens-new-investigation/" target="_blank">Tesla FSD gets worse at driving, NHTSA opens new investigation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-09 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus" target="_blank">Amazon’s giant ads have ruined the Echo Show</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-09 18:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -110,6 +130,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/" target="_blank">Intel unveils new processor powered by its 18A semiconductor tech</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-09 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e6dd3ce4334bbf90c07d6d/master/pass/GettyImages-2238880030.jpg" alt="Apple Took Down These ICE-Tracking Apps. The Developers Aren&#x27;t Giving Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/" target="_blank">Apple Took Down These ICE-Tracking Apps. The Developers Aren&#x27;t Giving Up</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-09 17:22</span>
             </div>
         </div>
 <div class="story">
@@ -130,38 +159,29 @@
                 <span class="time">2025-10-09 15:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e68f44251274c0216234de/master/pass/sci-covid-vax-1234262574.jpg" alt="Covid Shots Are About to Be Widely Available Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/covid-shots-are-about-to-be-widely-available-again-vaccines-cdc/" target="_blank">Covid Shots Are About to Be Widely Available Again</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-09 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/easter5-500x500-1759926981.jpg" alt="How Easter Island’s giant statues “walked” to their final platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/how-easter-islands-giant-statues-walked-to-their-final-platforms/" target="_blank">How Easter Island’s giant statues “walked” to their final platforms</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/795016/xtra-muse-dji-osmo-pocket-3-us-customs-tariffs" target="_blank">Xtra: the company that lets DJI sneak its popular cameras into the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-09 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnfmksbk6im91qyvrjct2.jpg" alt="Smartwatch vs Fitness Tracker: Making the Right Choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/phoneexits/smartwatch-vs-fitness-tracker-making-the-right-choice-4ai2" target="_blank">Smartwatch vs Fitness Tracker: Making the Right Choice</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Rust-LED-Driver-Patches" target="_blank">Linux Seeing First LED Driver Written In Rust</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-09 18:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/data-commons-mcp-server/en/headerimage/data-commons-mcp-server-1760030760718.jpeg" alt="The New Data Commons MCP Server Unlocks a Wealth of Public Datasets for AI Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,29 +218,38 @@
                 <span class="time">2025-10-09 16:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18686861&w=600" alt="Building a Supply Chain Digital Twin Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-a-supply-chain-digital-twin-technology" target="_blank">Building a Supply Chain Digital Twin Technology</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ideradevtools/6-features-you-can-deliver-instantly-with-html-editor-software-287a" target="_blank">6 Features You Can Deliver Instantly with HTML Editor Software</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/RFK-Jr.-testifying-1280x854.jpg" alt="People’s Trust in the CDC Under Robert F. Kennedy Jr. Has Cratered, Poll Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/peoples-trust-in-the-cdc-under-robert-f-kennedy-jr-has-cratered-poll-shows-2000670333" target="_blank">People’s Trust in the CDC Under Robert F. Kennedy Jr. Has Cratered, Poll Shows</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-09 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/main-2-1280x720.jpg" alt="The 10 Highest-Priced Cards In Pokémon TCG’s Mega Evolution Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tcg-mega-evolution-cards-price-mega-lucario-gardevoir-hyper-rare-2000633650" target="_blank">The 10 Highest-Priced Cards In Pokémon TCG’s Mega Evolution Set</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-09 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6X7YQ0630V6R7H4K395VYKY/hero-image.jpg" alt="October Prime Day 2025 Live Blog: These Prime Day Deals Are Still Ongoing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/october-prime-day-2025-live-blog?utm_medium=RSS" target="_blank">October Prime Day 2025 Live Blog: These Prime Day Deals Are Still Ongoing</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 18:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-2025-10-09-at-10.34.10-AM.png?fit=535%2C531&amp;quality=55&amp;ssl=1" alt="Fortnite de-Nazifies Peacemaker emote" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,33 +275,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/09/doj-upset-as-ice-lies-fail-to-garner-indictments.html" target="_blank">DOJ upset as ICE lies fail to garner indictments</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-09 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K74THXZ9M8TNWD746CW02C4P/hero-image.png" alt="This Google Pixel Tablet Is at Its Lowest Price Ever After Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-tablet-deal-october-prime-day-2025?utm_medium=RSS" target="_blank">This Google Pixel Tablet Is at Its Lowest Price Ever After Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/AmazonEchoDot-1280x853.jpg" alt="Prime Day’s Over, but Amazon Echo Dot Is Still Hanging On at Almost Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/prime-days-over-but-amazon-echo-dot-is-still-hanging-on-at-almost-free-2000632174" target="_blank">Prime Day’s Over, but Amazon Echo Dot Is Still Hanging On at Almost Free</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-09 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6XHGFGBDQ9F7MJM6Y86PG8R/hero-image.jpg" alt="The Best Prime Deals Still Available on Fitness Trackers and Smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitness-trackers-smartwatches-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Prime Deals Still Available on Fitness Trackers and Smartwatches</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 14:43</span>
             </div>
         </div>
 </div>
@@ -312,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
