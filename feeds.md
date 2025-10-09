@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 19:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-09 20:01:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/9/celebrate-the-ceasefire-but-dont-forget-gaza-survived-on-its-own?traffic_source=rss" target="_blank">Celebrate the ceasefire, but don’t forget: Gaza survived on its own</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-09 19:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/9/thousands-rally-for-gaza-in-islamabad-after-ceasefire-agreement?traffic_source=rss" target="_blank">Thousands rally for Gaza in Islamabad after ceasefire agreement</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-09 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7057/live/7e44fb50-a51d-11f0-9cda-fff576c5be6d.jpg" alt="Former Radio 1 DJ Tim Westwood charged with four counts of rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckge5zrl69xo?at_medium=RSS&at_campaign=rss" target="_blank">Former Radio 1 DJ Tim Westwood charged with four counts of rape</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-09 15:06</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18688400&w=600" alt="Popular DevOps Automation Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/popular-devops-automation-tools" target="_blank">Popular DevOps Automation Tools</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnfmksbk6im91qyvrjct2.jpg" alt="Smartwatch vs Fitness Tracker: Making the Right Choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,20 +216,29 @@
                 <span class="time">2025-10-09 16:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/research/small-samples-poison" target="_blank">A small number of samples can poison LLMs of any size</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-09 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/naked-mole-rat-1280x853.jpg" alt="Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/some-naked-mole-rats-are-just-born-to-clean-toilets-study-suggests-2000670578" target="_blank">Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-09 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/FFT-Frogs.jpg" alt="The Secret Behind The Fastest XP/JP Grind In Final Fantasy Tactics? Frogs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-guide-xp-jp-grind-tips-2000633724" target="_blank">The Secret Behind The Fastest XP/JP Grind In Final Fantasy Tactics? Frogs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-09 19:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/RFK-Jr.-testifying-1280x854.jpg" alt="People’s Trust in the CDC Under Robert F. Kennedy Jr. Has Cratered, Poll Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -242,39 +258,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/61J5HJn54qL._AC_SX679_.jpg?fit=679%2C981&amp;quality=60&amp;ssl=1" alt="Win every Halloween costume contest: Be the Portland Frog" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/09/win-every-halloween-costume-contest-be-the-portland-frog.html" target="_blank">Win every Halloween costume contest: Be the Portland Frog</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-09 18:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6X7YQ0630V6R7H4K395VYKY/hero-image.jpg" alt="October Prime Day 2025 Live Blog: These Prime Day Deals Are Still Ongoing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/money/october-prime-day-2025-live-blog?utm_medium=RSS" target="_blank">October Prime Day 2025 Live Blog: These Prime Day Deals Are Still Ongoing</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-09 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-2025-10-09-at-10.34.10-AM.png?fit=535%2C531&amp;quality=55&amp;ssl=1" alt="Fortnite de-Nazifies Peacemaker emote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/09/fortnite-de-nazifies-peacemaker-emote.html" target="_blank">Fortnite de-Nazifies Peacemaker emote</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-09 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Pluribus-key-art-1280x853.jpg" alt="‘Breaking Bad’ Creator Vince Gilligan’s New Sci-Fi Show Looks Creepy and Hilarious" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pluribus-trailer-breaking-bad-vince-gilligan-apple-show-2000670404" target="_blank">‘Breaking Bad’ Creator Vince Gilligan’s New Sci-Fi Show Looks Creepy and Hilarious</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="DOJ upset as ICE lies fail to garner indictments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/09/doj-upset-as-ice-lies-fail-to-garner-indictments.html" target="_blank">DOJ upset as ICE lies fail to garner indictments</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-09 16:39</span>
             </div>
         </div>
 </div>
@@ -314,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
