@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 20:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-09 21:02:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/09/g-s1-92729/gaza-ceasefire-israel-hamas-next-steps" target="_blank">Once the Gaza ceasefire goes into effect, what happens next? Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/10/9/will-hamas-agree-to-hand-over-its-weapons-as-part-of-a-gaza-ceasefire-deal?traffic_source=rss" target="_blank">Will Hamas agree to hand over its weapons as part of a Gaza ceasefire deal?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-09 19:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +97,29 @@
                 <span class="time">2025-10-09 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/israel-gaza-7-GTY-gmh-252009_1760015163623_hpMain_4x3t_384.jpg" alt="What to know about the proposed Israel-Hamas Gaza ceasefire and next steps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/israel-hamas-ceasefire-gaza-proposed-deal/story?id=126318216" target="_blank">What to know about the proposed Israel-Hamas Gaza ceasefire and next steps</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-09 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/9/thousands-rally-for-gaza-in-islamabad-after-ceasefire-agreement?traffic_source=rss" target="_blank">Thousands rally for Gaza in Islamabad after ceasefire agreement</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-09 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e439ec3af653221caab15e/master/pass/Uncanny-Valley-roundup-H1B-Visa-.jpg" alt="How China Is Hoping to Attract Tech Talent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-how-china-is-hoping-to-attract-tech-talent/" target="_blank">How China Is Hoping to Attract Tech Talent</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-09 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/09/sora-copycats-flooded-apples-app-store-and-some-still-remain/" target="_blank">Sora copycats flooded Apple’s App Store, and some still remain</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-09 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1155839798-500x500.jpg" alt="Tesla FSD gets worse at driving, NHTSA opens new investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +156,20 @@
                 <span class="time">2025-10-09 17:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e56e09df80a9674d4e0c73/master/pass/ABSOLUTE-BEST-PRIME-DEALS_NEW.png" alt="We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-deals-october-2025-1/" target="_blank">We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-09 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/797640/sony-ps6-handheld-gpu-ray-path-tracing-amd-radiance-cores" target="_blank">Sony teases new GPU tech for the PS6</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-09 15:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-5-Panther-Lake-Linux" target="_blank">Linux Driver Support Ready For Intel Panther Lake&#x27;s NPU 5</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-09 19:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18688400&w=600" alt="Popular DevOps Automation Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +215,6 @@
                 <span class="time">2025-10-09 16:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/c5807b48-0cb4-4fc5-adfe-9683a7ef42f2_420x300.png" alt="The Pulse #149: New trend: programming by kicking off parallel AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-149-new-trend-programming" target="_blank">The Pulse #149: New trend: programming by kicking off parallel AI agents</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-09 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -237,6 +236,15 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-guide-xp-jp-grind-tips-2000633724" target="_blank">The Secret Behind The Fastest XP/JP Grind In Final Fantasy Tactics? Frogs</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-09 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K705NQ4WHE52WK9YBSP94TMY/hero-image.png" alt="The Best Prime Day Tech Deals Under $100 That Are Still Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-under-100-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Prime Day Tech Deals Under $100 That Are Still Available</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 19:32</span>
             </div>
         </div>
 <div class="story">
@@ -264,15 +272,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/09/win-every-halloween-costume-contest-be-the-portland-frog.html" target="_blank">Win every Halloween costume contest: Be the Portland Frog</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-09 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6X7YQ0630V6R7H4K395VYKY/hero-image.jpg" alt="October Prime Day 2025 Live Blog: These Prime Day Deals Are Still Ongoing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/october-prime-day-2025-live-blog?utm_medium=RSS" target="_blank">October Prime Day 2025 Live Blog: These Prime Day Deals Are Still Ongoing</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 18:06</span>
             </div>
         </div>
 </div>
@@ -312,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
