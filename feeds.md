@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 22:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-09 23:01:38 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/9/us-buys-argentinian-pesos-finalises-20bn-currency-swap-says-us-treasury?traffic_source=rss" target="_blank">US buys Argentinian pesos, finalises $20bn currency swap, says US Treasury</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-09 22:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/letitia-james-ap-jef-251009_1760040126724_hpMain_4x3t_384.jpg" alt="New York AG Letitia James indicted for alleged fraud following pressure from Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +97,20 @@
                 <span class="time">2025-10-09 19:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/9/trump-netanyahu-more-popular-today-than-five-days?traffic_source=rss" target="_blank">Trump: Netanyahu ‘more popular today than five days ago’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-09 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-500x500.jpg" alt="Childhood vaccines safe for a little longer as CDC cancels advisory meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/" target="_blank">Childhood vaccines safe for a little longer as CDC cancels advisory meeting</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-09 22:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e439ec3af653221caab15e/master/pass/Uncanny-Valley-roundup-H1B-Visa-.jpg" alt="How China Is Hoping to Attract Tech Talent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +156,20 @@
                 <span class="time">2025-10-09 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e6dd3ce4334bbf90c07d6d/master/pass/GettyImages-2238880030.jpg" alt="Apple Took Down These ICE-Tracking Apps. The Developers Aren&#x27;t Giving Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/" target="_blank">Apple Took Down These ICE-Tracking Apps. The Developers Aren&#x27;t Giving Up</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-09 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/firefox-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox’s New Profile Manager Goes Live For Everyone Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/firefoxs-new-profile-manager-goes-live-for-everyone-next-week" target="_blank">Firefox’s New Profile Manager Goes Live For Everyone Next Week</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-09 22:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,20 +215,20 @@
                 <span class="time">2025-10-09 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk" target="_blank">🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler &amp; Priority Lanes Explained</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/nycc-2025-mobile-suit-gundam-hathaway-circe-trailer-1280x853.jpg" alt="The Long-Awaited ‘Mobile Suit Gundam: Hathaway’ Sequel Hits Japan in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gundam-hathaway-2-trailer-sorcery-of-nymph-circe-nycc-2025-2000670699" target="_blank">The Long-Awaited ‘Mobile Suit Gundam: Hathaway’ Sequel Hits Japan in January</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-09 22:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Kamen-rider-zeztz-4-io9-template-3-1280x853.jpg" alt="‘Kamen Rider ZEZTZ’ Producer on Merging Nostalgia and Reinvention for Fans Worldwide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +274,6 @@
                 <span class="time">2025-10-09 19:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/RFK-Jr.-testifying-1280x854.jpg" alt="People’s Trust in the CDC Under Robert F. Kennedy Jr. Has Cratered, Poll Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/peoples-trust-in-the-cdc-under-robert-f-kennedy-jr-has-cratered-poll-shows-2000670333" target="_blank">People’s Trust in the CDC Under Robert F. Kennedy Jr. Has Cratered, Poll Shows</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-09 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
