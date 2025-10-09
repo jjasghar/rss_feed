@@ -1,43 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 14:02:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-09 15:24:07 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 35 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 15:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7057/live/7e44fb50-a51d-11f0-9cda-fff576c5be6d.jpg" alt="Former Radio 1 DJ Tim Westwood charged with four counts of rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckge5zrl69xo?at_medium=RSS&at_campaign=rss" target="_blank">Former Radio 1 DJ Tim Westwood charged with four counts of rape</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-09 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a08/live/ef1b0af0-a4b8-11f0-b741-177e3e2c2fc7.jpg" alt="Israel and Hamas agree first phase of Gaza ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hamas agree first phase of Gaza ceasefire deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-09 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +103,29 @@
                 <span class="time">2025-10-09 09:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a08/live/ef1b0af0-a4b8-11f0-b741-177e3e2c2fc7.jpg" alt="Israel and Hamas agree first phase of Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hamas agree first phase of Gaza peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-09 08:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a08/live/ef1b0af0-a4b8-11f0-b741-177e3e2c2fc7.jpg" alt="Israel and Hamas agree to first phase of Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hamas agree to first phase of Gaza peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-09 07:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/797640/sony-ps6-handheld-gpu-ray-path-tracing-amd-radiance-cores" target="_blank">Sony teases new GPU tech for the PS6</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-09 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e68f44251274c0216234de/master/pass/sci-covid-vax-1234262574.jpg" alt="Covid Shots Are About to Be Widely Available Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/covid-shots-are-about-to-be-widely-available-again-vaccines-cdc/" target="_blank">Covid Shots Are About to Be Widely Available Again</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-09 14:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/easter5-500x500-1759926981.jpg" alt="How Easter Island’s giant statues “walked” to their final platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +162,38 @@
                 <span class="time">2025-10-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/09/google-ramps-up-its-ai-in-the-workplace-ambitions-with-gemini-enterprise/" target="_blank">Google ramps up its ‘AI in the workplace’ ambitions with Gemini Enterprise</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/H5A9253-500x500.jpg" alt="Everything we know about Ferrari’s first electric vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/everything-we-know-about-ferraris-first-electric-vehicle/" target="_blank">Everything we know about Ferrari’s first electric vehicle</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-09 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/antoniocardenas/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e" target="_blank">Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18686834&w=600" alt="How GenAI Can Eliminate SME Bottlenecks in Enterprise Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/genai-for-sme-knowledge-automation" target="_blank">How GenAI Can Eliminate SME Bottlenecks in Enterprise Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://techtrenches.substack.com/p/the-great-software-quality-collapse" target="_blank">The great software quality collapse or, how we normalized catastrophe</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-09 14:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,39 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-25.10-released-now.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Released, Download ‘Questing Quokka’ Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-25.10-released-now.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Released, Available to Download Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-released" target="_blank">Ubuntu 25.10 Released, Download ‘Questing Quokka’ Now</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-released" target="_blank">Ubuntu 25.10 Released, Available to Download Now</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-09 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-open-source-2025" target="_blank">Intel&#x27;s Open-Source Strategy Is Changing At Odds With The Ethos Of Open-Source</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ashtonjamesd/lavandula" target="_blank">Show HN: I built a web framework in C</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-09 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohinsheikh/javascript-learning-journey-from-basics-to-advanced-5g65" target="_blank">JavaScript Learning Journey From Basics to Advanced</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 11:51</span>
             </div>
         </div>
 </div>
@@ -244,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/AmazonEchoDot-1280x853.jpg" alt="Prime Day’s Over, but Amazon Echo Dot Is Still Hanging On at Almost Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/prime-days-over-but-amazon-echo-dot-is-still-hanging-on-at-almost-free-2000632174" target="_blank">Prime Day’s Over, but Amazon Echo Dot Is Still Hanging On at Almost Free</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-09 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6XHGFGBDQ9F7MJM6Y86PG8R/hero-image.jpg" alt="The Best Prime Deals Still Available on Fitness Trackers and Smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitness-trackers-smartwatches-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Prime Deals Still Available on Fitness Trackers and Smartwatches</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 14:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/SolarOppositesClip-1280x853.jpg" alt="The ‘Solar Opposites’ Aliens Are Couch Potato Queens in a New Season 6 Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +294,6 @@
                 <span class="time">2025-10-09 11:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/portlandfrog.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Watch: Portland Frog dances as ICE blasts them with pepper balls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/08/watch-portland-frog-dances-as-ice-blasts-them-with-pepper-balls.html" target="_blank">Watch: Portland Frog dances as ICE blasts them with pepper balls</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-09 03:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K73CMQ9X61F4HR0MSB9SJ8E0/hero-image.png" alt="Apple&#x27;s Best iPad (for Most People) Is Still 20% Off Before Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ipad-a16-deal-october-prime-day-2025?utm_medium=RSS" target="_blank">Apple&#x27;s Best iPad (for Most People) Is Still 20% Off Before Prime Day Ends Tonight</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 02:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,22 +317,13 @@
                 <span class="time">2025-10-08 23:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1759809233-20251008.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/why-8" target="_blank">Saturday Morning Breakfast Cereal - Why</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
