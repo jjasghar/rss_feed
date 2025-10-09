@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 02:27:03 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-09 03:13:37 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 03:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-234l" target="_blank">React Question &amp; Answer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-september-2025/" target="_blank">GitHub Availability Report: September 2025</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -212,15 +218,6 @@
                 <span class="time">2025-10-08 20:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gsdiniz/automating-rke2-and-rancher-deployments-with-ansible-4gb3" target="_blank">Automating RKE2 and Rancher Deployments with Ansible</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-08 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K73BHWHNKCZEGBK0VS1CNRW8/hero-image.png" alt="The Best Last-Minute Bluetooth Speaker Deals to Get Before Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-last-minute-bluetooth-speaker-deals-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Last-Minute Bluetooth Speaker Deals to Get Before Prime Day Ends Tonight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 02:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K738BYPSEMDK5655H8VENT3H/hero-image.png" alt="The Galaxy S25 Edge Is 40% Off for the Last Hours of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/philips-3200-fully-automatic-espresso-machine-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">This Fully Automatic Espresso Machine Is 50% Off Until Prime Day Ends Tonight</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-08 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-earth-romulan-war-balance-of-terror-kirk-commander-1280x853.jpg" alt="What We Know About the Biggest Unseen War of ‘Star Trek’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-earth-romulan-war-explained-2000669117" target="_blank">What We Know About the Biggest Unseen War of ‘Star Trek’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-08 22:10</span>
             </div>
         </div>
 </div>
@@ -349,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
