@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 11:01:47 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2025-10-09 12:02:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/9/accountability-for-israel-likely-to-start-in-the-global?traffic_source=rss" target="_blank">Accountability for Israel likely to “start in the Global South”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-09 11:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Gaza-explosion-DB-251009_1760003037091_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Explosions across Gaza as expected ceasefire nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +96,20 @@
                 <span class="time">2025-10-09 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/9/russia-ukraine-war-list-of-key-events-day-1323?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,323</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-09 01:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/09/google-ramps-up-its-ai-in-the-workplace-ambitions-with-gemini-enterprise/" target="_blank">Google ramps up its ‘AI in the workplace’ ambitions with Gemini Enterprise</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/H5A9253-500x500.jpg" alt="Everything we know about Ferrari’s first electric vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2025-10-09 04:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025" target="_blank">Prime Day ends soon, but these deals are still going at Walmart</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-09 01:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohinsheikh/javascript-learning-journey-from-basics-to-advanced-5g65" target="_blank">JavaScript Learning Journey From Basics to Advanced</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/continuous-delivery-pairing/en/headerimage/generatedHeaderImage-1759481399054.jpg" alt="Combining Continuous Delivery with Pair Programming: Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/continuous-delivery-pairing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Combining Continuous Delivery with Pair Programming: Lessons Learned</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-09 11:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/azure-container-kubernetes/en/headerimage/generatedHeaderImage-1760001526761.jpg" alt="Azure Container Storage v2.0.0 Goes GA with Major Performance Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,36 +200,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Perf-Tools" target="_blank">Linux 6.18 Ships With A New Python App In The Source Tree</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-09 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Released" target="_blank">Ubuntu 25.10 Released With GNOME 49, Linux 6.17 &amp; Other Upgrades</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-09 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-releases-ubuntu-25-10-questing-quokka" target="_blank">Canonical releases Ubuntu 25.10 Questing Quokka</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-09 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/safdar_meyka_012ecf3f1605/why-nvidias-nvda-stock-could-continue-to-soar-as-ai-and-data-center-demand-grow-1g81" target="_blank">NVIDIA (NVDA) Stock Analysis: Is the AI Chip Leader Still a Smart Buy in 2025?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 08:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/" target="_blank">First-in-the-nation law to ban ultra-processed foods from school lunches</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-09 08:33</span>
             </div>
         </div>
 </div>
@@ -233,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/03iAToqWaghU5C1Cs0XWXUq-2.v1569481997.webp?fit=810%2C456&amp;quality=55&amp;ssl=1" alt="Logitech Pop smart buttons to be bricked next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/09/logitech-pop-smart-buttons-to-be-bricked-next-week.html" target="_blank">Logitech Pop smart buttons to be bricked next week</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-09 11:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/portlandfrog.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Watch: Portland Frog dances as ICE blasts them with pepper balls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +287,6 @@
                 <span class="time">2025-10-09 01:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/pennywisebaldcropped-1280x853.jpg" alt="Is the Massive Forehead of This Human Pennywise Figure a ‘Welcome to Derry’ Spoiler?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/is-the-massive-forehead-of-this-human-pennywise-figure-a-welcome-to-derry-spoiler-2000669921" target="_blank">Is the Massive Forehead of This Human Pennywise Figure a ‘Welcome to Derry’ Spoiler?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-08 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
