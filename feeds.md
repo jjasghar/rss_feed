@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 17:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-09 18:01:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/09/nx-s1-5567205/how-the-trump-administration-is-reshaping-the-military" target="_blank">How the Trump administration is reshaping the military</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-09 16:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a08/live/ef1b0af0-a4b8-11f0-b741-177e3e2c2fc7.jpg" alt="Israel and Hamas agree first phase of Gaza ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-dxf-teaser-gaza_7047004.jpg?20251009164513" alt="How two years of war have shattered the Gaza Strip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hamas agree first phase of Gaza ceasefire deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-09 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/09/nx-s1-5567745/derrick-groves-captured-new-orleans-jailbreak" target="_blank">The 10th and final escapee from a New Orleans jailbreak is captured after five months</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-09 14:21</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/how-two-years-of-war-have-shattered-the-gaza-strip-13447628" target="_blank">How two years of war have shattered the Gaza Strip</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-09 14:42</span>
             </div>
         </div>
 </div>
@@ -103,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/" target="_blank">Intel unveils new processor powered by its 18A semiconductor tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-09 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e56e09df80a9674d4e0c73/master/pass/ABSOLUTE-BEST-PRIME-DEALS_NEW.png" alt="We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +157,20 @@
                 <span class="time">2025-10-09 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/09/soundcloud-gets-more-social-by-adding-a-way-to-see-the-songs-your-friends-like/" target="_blank">SoundCloud gets more social by adding a way to see the songs your friends like</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-09 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/data-commons-mcp-server/en/headerimage/data-commons-mcp-server-1760030760718.jpeg" alt="The New Data Commons MCP Server Unlocks a Wealth of Public Datasets for AI Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/data-commons-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The New Data Commons MCP Server Unlocks a Wealth of Public Datasets for AI Developers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-09 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +216,20 @@
                 <span class="time">2025-10-09 15:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/antoniocardenas/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e" target="_blank">Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-2025-10-09-at-10.34.10-AM.png?fit=535%2C531&amp;quality=55&amp;ssl=1" alt="Fortnite de-Nazifies Peacemaker emote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/09/fortnite-de-nazifies-peacemaker-emote.html" target="_blank">Fortnite de-Nazifies Peacemaker emote</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-09 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Pluribus-key-art-1280x853.jpg" alt="‘Breaking Bad’ Creator Vince Gilligan’s New Sci-Fi Show Looks Creepy and Hilarious" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +275,6 @@
                 <span class="time">2025-10-09 14:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/SolarOppositesClip-1280x853.jpg" alt="The ‘Solar Opposites’ Aliens Are Couch Potato Queens in a New Season 6 Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/solar-opposites-season-6-clip-hulu-final-season-2000670049" target="_blank">The ‘Solar Opposites’ Aliens Are Couch Potato Queens in a New Season 6 Clip</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-09 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
