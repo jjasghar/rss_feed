@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 21:02:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-09 22:01:46 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/letitia-james-ap-jef-251009_1760040126724_hpMain_4x3t_384.jpg" alt="New York AG Letitia James indicted for alleged fraud following pressure from Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-appointed-prosecutor-seeks-indictment-new-york-ag/story?id=126378516" target="_blank">New York AG Letitia James indicted for alleged fraud following pressure from Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-09 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760045332749_nbc_spec_full_letitia_james_251009_1920x1080-t1xiei.jpg" alt="Special Report: Grand jury indicts N.Y. Attorney General Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/special-report-grand-jury-indicts-n-y-attorney-general-letitia-james-249587269777" target="_blank">Special Report: Grand jury indicts N.Y. Attorney General Letitia James</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-09 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/9/trump-netanyahu-more-popular-today-than-five-days?traffic_source=rss" target="_blank">Trump: Netanyahu ‘more popular today than five days ago’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-09 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/09/nx-s1-5567205/how-the-trump-administration-is-reshaping-the-military" target="_blank">How the Trump administration is reshaping the military</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-09 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/10/9/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss" target="_blank">Will Trump’s tariffs push China and India closer?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-09 16:30</span>
             </div>
         </div>
 </div>
@@ -221,6 +218,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Kamen-rider-zeztz-4-io9-template-3-1280x853.jpg" alt="‘Kamen Rider ZEZTZ’ Producer on Merging Nostalgia and Reinvention for Fans Worldwide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kamen-rider-zeztz-toei-tokushoutsu-simulcast-interview-2000669289" target="_blank">‘Kamen Rider ZEZTZ’ Producer on Merging Nostalgia and Reinvention for Fans Worldwide</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-09 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K755BATM7WXDNAD52864ZJNA/hero-image.jpg" alt="This Trend Is Making It Even Harder to Tell When a Video Is AI-Generated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/those-ai-videos-might-actually-be-real?utm_medium=RSS" target="_blank">This Trend Is Making It Even Harder to Tell When a Video Is AI-Generated</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/naked-mole-rat-1280x853.jpg" alt="Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -254,24 +269,6 @@
                 <span class="title"><a href="https://gizmodo.com/peoples-trust-in-the-cdc-under-robert-f-kennedy-jr-has-cratered-poll-shows-2000670333" target="_blank">People’s Trust in the CDC Under Robert F. Kennedy Jr. Has Cratered, Poll Shows</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-09 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/main-2-1280x720.jpg" alt="The 10 Highest-Priced Cards In Pokémon TCG’s Mega Evolution Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-tcg-mega-evolution-cards-price-mega-lucario-gardevoir-hyper-rare-2000633650" target="_blank">The 10 Highest-Priced Cards In Pokémon TCG’s Mega Evolution Set</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-09 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/61J5HJn54qL._AC_SX679_.jpg?fit=679%2C981&amp;quality=60&amp;ssl=1" alt="Win every Halloween costume contest: Be the Portland Frog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/09/win-every-halloween-costume-contest-be-the-portland-frog.html" target="_blank">Win every Halloween costume contest: Be the Portland Frog</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-09 18:09</span>
             </div>
         </div>
 </div>
@@ -311,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
