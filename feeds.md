@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 12:02:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-09 13:09:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68e5432d8f7f9fe2c489c3b3/master/pass/Intel-Hail-Mary-Business-JC0_8721.jpg" alt="Inside Intel&#x27;s Hail Mary to Reclaim Chip Dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/intel-arizona-fabrication-chips-trump-manufacturing/" target="_blank">Inside Intel&#x27;s Hail Mary to Reclaim Chip Dominance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -146,20 +155,20 @@
                 <span class="time">2025-10-09 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2" target="_blank">October’s Prime Day event is almost over, but our favorite deals are still live</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-09 04:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-open-source-2025" target="_blank">Intel&#x27;s Open-Source Strategy Is Changing At Odds With The Ethos Of Open-Source</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +214,6 @@
                 <span class="time">2025-10-09 10:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Released" target="_blank">Ubuntu 25.10 Released With GNOME 49, Linux 6.17 &amp; Other Upgrades</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-09 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Intel-XeSS-Frame-Gen-Panther-Lake-2-1280x853.jpg" alt="Intel Claims You Won’t Need an Nvidia GPU to Push Gaming Frame Rates Through the Roof" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/intel-xess-2-multi-frame-generation-gaming-nvidia-gpu-2000670044" target="_blank">Intel Claims You Won’t Need an Nvidia GPU to Push Gaming Frame Rates Through the Roof</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GQK3SP35CPZHMYTQRDC1M/hero-image.jpg" alt="Use &#x27;Close Reading&#x27; to Retain Every Detail When You Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study?utm_medium=RSS" target="_blank">Use &#x27;Close Reading&#x27; to Retain Every Detail When You Study</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/03iAToqWaghU5C1Cs0XWXUq-2.v1569481997.webp?fit=810%2C456&amp;quality=55&amp;ssl=1" alt="Logitech Pop smart buttons to be bricked next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-last-minute-bluetooth-speaker-deals-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Last-Minute Bluetooth Speaker Deals to Get Before Prime Day Ends Tonight</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-09 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K738BYPSEMDK5655H8VENT3H/hero-image.png" alt="The Galaxy S25 Edge Is 40% Off for the Last Hours of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/galaxy-s25-edge-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">The Galaxy S25 Edge Is 40% Off for the Last Hours of Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K735Y89VGR9VCW2WEWBVR2W2/hero-image.png" alt="The Best Headphones and Earbuds You Can Get for Under $150 Before Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/ad/tech/best-deals-on-headphones-earbuds-under-150-dollars-october-prime-day?utm_medium=RSS" target="_blank">The Best Headphones and Earbuds You Can Get for Under $150 Before Prime Day Ends Tonight</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 01:05</span>
             </div>
         </div>
 </div>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
