@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 01:29:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-09 02:27:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c8c/live/a8afb4f0-a4a2-11f0-b741-177e3e2c2fc7.jpg" alt="Trump says Israel and Hamas &#x27;sign off&#x27; on first phase of Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Israel and Hamas &#x27;sign off&#x27; on first phase of Gaza peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-09 00:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -92,20 +103,20 @@
                 <span class="time">2025-10-08 23:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Egypt-talks-DB-251008_1759913361142_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Trump says Israel and Hamas signed off on 1st phase of deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Trump says Israel and Hamas signed off on 1st phase of deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-08 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025" target="_blank">Prime Day ends soon, but these deals are still going at Walmart</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-09 01:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/osiris-apex-500x500.jpg" alt="One NASA science mission saved from Trump’s cuts, but others still in limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +162,29 @@
                 <span class="time">2025-10-08 22:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2" target="_blank">The 222 best October Prime Day deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-08 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-september-2025/" target="_blank">GitHub Availability Report: September 2025</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-09 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-5c9o" target="_blank">COLORS: SABRI - Sold Myself For Love | A COLORS SHOW</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 02:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +221,6 @@
                 <span class="time">2025-10-08 19:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Block-IO-Uring" target="_blank">Linux 6.18 Block Code Introduces Lockless Bitmap For Software RAID</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-08 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18686780&w=600" alt="The Top 20 Problems With Batch Processing (and How to Fix Them With Data Streaming)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/fix-batch-processing-problems-using-data-streaming" target="_blank">The Top 20 Problems With Batch Processing (and How to Fix Them With Data Streaming)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-08 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K738BYPSEMDK5655H8VENT3H/hero-image.png" alt="The Galaxy S25 Edge Is 40% Off for the Last Hours of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/galaxy-s25-edge-sale-october-prime-day-2025?utm_medium=RSS" target="_blank">The Galaxy S25 Edge Is 40% Off for the Last Hours of Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 01:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K735Y89VGR9VCW2WEWBVR2W2/hero-image.png" alt="The Best Headphones and Earbuds You Can Get for Under $150 Before Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +294,29 @@
                 <span class="time">2025-10-08 22:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/EASKATE-1280x720.jpg" alt="Skate’s Charging $35 For A Dead Space Skin That Looks Like A Bad Cosplay Made Outta Junk From Home Depot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-skate-dead-space-skin-season-rewards-2000633352" target="_blank">Skate’s Charging $35 For A Dead Space Skin That Looks Like A Bad Cosplay Made Outta Junk From Home Depot</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-08 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5674.png" alt="Toilet Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5675" target="_blank">Toilet Talk</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-09 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/08/the-blessing-part-two" target="_blank">The Blessing, Part Two</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-08 23:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1759809233-20251008.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,13 +335,22 @@
                 <span class="time">2025-10-08 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/skateboard.png" alt="Skateboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3152/" target="_blank">Skateboard</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-08 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
