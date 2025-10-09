@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 10:01:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-10-09 11:01:47 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Gaza-explosion-DB-251009_1760003037091_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Explosions across Gaza as expected ceasefire nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Explosions across Gaza as expected ceasefire nears</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-09 10:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a08/live/ef1b0af0-a4b8-11f0-b741-177e3e2c2fc7.jpg" alt="Israel and Hamas agree first phase of Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/9/russia-ukraine-war-list-of-key-events-day-1323?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,323</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-09 01:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-idf-israel-gaza-hamas_7046375.jpg?20251009020035" alt="Trump&#x27;s deal may not go down well with everyone - but for now, it&#x27;s a beacon of optimism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trumps-gaza-deal-may-not-go-down-well-with-everyone-but-for-now-its-a-beacon-of-optimism-13447291" target="_blank">Trump&#x27;s deal may not go down well with everyone - but for now, it&#x27;s a beacon of optimism</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-09 00:51</span>
             </div>
         </div>
 </div>
@@ -169,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/azure-container-kubernetes/en/headerimage/generatedHeaderImage-1760001526761.jpg" alt="Azure Container Storage v2.0.0 Goes GA with Major Performance Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/azure-container-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure Container Storage v2.0.0 Goes GA with Major Performance Boost</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arjun_pandit_d2609ad8e672/b2b-service-16n5" target="_blank">B2B Service</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 10:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -202,24 +212,6 @@
                 <span class="title"><a href="https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/" target="_blank">First-in-the-nation law to ban ultra-processed foods from school lunches</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-09 08:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-2xko-official-warwick-the-uncaged-wrath-of-zaun-dev-update-gameplay-overview-48me" target="_blank">IGN: 2XKO - Official &#x27;Warwick, the Uncaged Wrath of Zaun&#x27; Dev Update Gameplay Overview</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 08:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/" target="_blank">The Unknotting Number Is Not Additive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-09 06:39</span>
             </div>
         </div>
 </div>
@@ -332,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
