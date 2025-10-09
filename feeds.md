@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 16:02:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-09 17:01:57 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/10/9/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss" target="_blank">Will Trump’s tariffs push China and India closer?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-09 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/israel-gaza-7-GTY-gmh-252009_1760015163623_hpMain_4x3t_384.jpg" alt="What to know about the proposed Israel-Hamas Gaza ceasefire and next steps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +98,20 @@
                 <span class="time">2025-10-09 14:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/9/accountability-for-israel-likely-to-start-in-the-global?traffic_source=rss" target="_blank">Accountability for Israel likely to “start in the Global South”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-09 11:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e56e09df80a9674d4e0c73/master/pass/ABSOLUTE-BEST-PRIME-DEALS_NEW.png" alt="We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-deals-october-2025-1/" target="_blank">We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-09 16:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +157,47 @@
                 <span class="time">2025-10-09 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e5432d8f7f9fe2c489c3b3/master/pass/Intel-Hail-Mary-Business-JC0_8721.jpg" alt="Inside Intel&#x27;s Hail Mary to Reclaim Chip Dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/intel-arizona-fabrication-chips-trump-manufacturing/" target="_blank">Inside Intel&#x27;s Hail Mary to Reclaim Chip Dominance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk" target="_blank">🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler &amp; Priority Lanes Explained</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/c5807b48-0cb4-4fc5-adfe-9683a7ef42f2_420x300.png" alt="The Pulse #149: New trend: programming by kicking off parallel AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-149-new-trend-programming" target="_blank">The Pulse #149: New trend: programming by kicking off parallel AI agents</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-10-09 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/research/small-samples-poison" target="_blank">A small number of samples can poison LLMs of any size</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-09 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18686861&w=600" alt="Building a Supply Chain Digital Twin Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-a-supply-chain-digital-twin-technology" target="_blank">Building a Supply Chain Digital Twin Technology</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-09 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,61 +216,38 @@
                 <span class="time">2025-10-09 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18686834&w=600" alt="How GenAI Can Eliminate SME Bottlenecks in Enterprise Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/genai-for-sme-knowledge-automation" target="_blank">How GenAI Can Eliminate SME Bottlenecks in Enterprise Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-09 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://techtrenches.substack.com/p/the-great-software-quality-collapse" target="_blank">The great software quality collapse or, how we normalized catastrophe</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-09 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/" target="_blank">Who watches the watchers? LLM on LLM evaluations</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-hooks-cheat-sheet-stop-overcomplicating-things-2ln3" target="_blank">React Hooks Cheat Sheet: Stop Overcomplicating Things! ⚡</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 13:54</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html" target="_blank">Flok License Plate Surveillance</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-08 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Pluribus-key-art-1280x853.jpg" alt="‘Breaking Bad’ Creator Vince Gilligan’s New Sci-Fi Show Looks Creepy and Hilarious" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pluribus-trailer-breaking-bad-vince-gilligan-apple-show-2000670404" target="_blank">‘Breaking Bad’ Creator Vince Gilligan’s New Sci-Fi Show Looks Creepy and Hilarious</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-09 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="DOJ upset as ICE lies fail to garner indictments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/09/doj-upset-as-ice-lies-fail-to-garner-indictments.html" target="_blank">DOJ upset as ICE lies fail to garner indictments</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-09 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K74THXZ9M8TNWD746CW02C4P/hero-image.png" alt="This Google Pixel Tablet Is at Its Lowest Price Ever After Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-tablet-deal-october-prime-day-2025?utm_medium=RSS" target="_blank">This Google Pixel Tablet Is at Its Lowest Price Ever After Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/AmazonEchoDot-1280x853.jpg" alt="Prime Day’s Over, but Amazon Echo Dot Is Still Hanging On at Almost Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +273,6 @@
                 <span class="title"><a href="https://gizmodo.com/solar-opposites-season-6-clip-hulu-final-season-2000670049" target="_blank">The ‘Solar Opposites’ Aliens Are Couch Potato Queens in a New Season 6 Clip</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Intel-XeSS-Frame-Gen-Panther-Lake-2-1280x853.jpg" alt="Intel Claims You Won’t Need an Nvidia GPU to Push Gaming Frame Rates Through the Roof" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/intel-xess-2-multi-frame-generation-gaming-nvidia-gpu-2000670044" target="_blank">Intel Claims You Won’t Need an Nvidia GPU to Push Gaming Frame Rates Through the Roof</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GQK3SP35CPZHMYTQRDC1M/hero-image.jpg" alt="Use &#x27;Close Reading&#x27; to Retain Every Detail When You Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study?utm_medium=RSS" target="_blank">Use &#x27;Close Reading&#x27; to Retain Every Detail When You Study</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/03iAToqWaghU5C1Cs0XWXUq-2.v1569481997.webp?fit=810%2C456&amp;quality=55&amp;ssl=1" alt="Logitech Pop smart buttons to be bricked next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/09/logitech-pop-smart-buttons-to-be-bricked-next-week.html" target="_blank">Logitech Pop smart buttons to be bricked next week</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-09 11:11</span>
             </div>
         </div>
 </div>
@@ -325,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
