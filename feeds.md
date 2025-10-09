@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 15:24:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-09 16:02:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 15:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/israel-gaza-7-GTY-gmh-252009_1760015163623_hpMain_4x3t_384.jpg" alt="What to know about the proposed Israel-Hamas Gaza ceasefire and next steps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/israel-hamas-ceasefire-gaza-proposed-deal/story?id=126318216" target="_blank">What to know about the proposed Israel-Hamas Gaza ceasefire and next steps</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-09 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/9/thousands-rally-for-gaza-in-islamabad-after-ceasefire-agreement?traffic_source=rss" target="_blank">Thousands rally for Gaza in Islamabad after ceasefire agreement</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-09 15:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7057/live/7e44fb50-a51d-11f0-9cda-fff576c5be6d.jpg" alt="Former Radio 1 DJ Tim Westwood charged with four counts of rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,37 +82,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/09/nx-s1-5567745/derrick-groves-captured-new-orleans-jailbreak" target="_blank">The 10th and final escapee from a New Orleans jailbreak is captured after five months</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-09 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/9/accountability-for-israel-likely-to-start-in-the-global?traffic_source=rss" target="_blank">Accountability for Israel likely to “start in the Global South”</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-09 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760008492508_tdy_news_7a_trump_israel_hamas_deal_251009_1920x1080-es3xsv.jpg" alt="Israel and Hamas Commit to &#x27;First Phase&#x27; of Peace Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-and-hamas-commit-to-first-phase-of-peace-plan-249475141858" target="_blank">Israel and Hamas Commit to &#x27;First Phase&#x27; of Peace Plan</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-09 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Gaza-explosion-DB-251009_1760003037091_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Explosions across Gaza as expected ceasefire nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Explosions across Gaza as expected ceasefire nears</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-09 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357a/live/0446f820-a4d3-11f0-9f74-77bc8773bf41.jpg" alt="Water bills to rise further for millions after regulator backs extra price increases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg4jkexgl1o?at_medium=RSS&at_campaign=rss" target="_blank">Water bills to rise further for millions after regulator backs extra price increases</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-09 09:53</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ideradevtools/6-features-you-can-deliver-instantly-with-html-editor-software-287a" target="_blank">6 Features You Can Deliver Instantly with HTML Editor Software</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/antoniocardenas/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e" target="_blank">Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-09 15:20</span>
@@ -209,15 +212,6 @@
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-hooks-cheat-sheet-stop-overcomplicating-things-2ln3" target="_blank">React Hooks Cheat Sheet: Stop Overcomplicating Things! ⚡</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-25.10-released-now.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Released, Available to Download Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-released" target="_blank">Ubuntu 25.10 Released, Available to Download Now</a></span>
-                <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-09 13:54</span>
             </div>
         </div>
@@ -300,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1759809286-20251009.png" alt="Saturday Morning Breakfast Cereal - Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/life-7" target="_blank">Saturday Morning Breakfast Cereal - Life</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-09 15:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5674.png" alt="Toilet Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -322,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
