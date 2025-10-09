@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 00:04:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-09 01:29:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-idf-israel-gaza-hamas_7046375.jpg?20251009020035" alt="Trump&#x27;s deal may not go down well with everyone - but for now, it&#x27;s a beacon of optimism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-gaza-deal-may-not-go-down-well-with-everyone-but-for-now-its-a-beacon-of-optimism-13447291" target="_blank">Trump&#x27;s deal may not go down well with everyone - but for now, it&#x27;s a beacon of optimism</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-09 00:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1759969756621_nn_ren_trump_announces_mideast_deal_251008_1920x1080-nrl2sv.jpg" alt="Trump: Israel and Hamas agree to first phase of his peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-israel-and-hamas-agree-to-first-phase-of-his-peace-plan-249427013510" target="_blank">Trump: Israel and Hamas agree to first phase of his peace plan</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-09 00:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +101,6 @@
                 <span class="time">2025-10-08 23:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c717/live/89beaff0-a480-11f0-892d-8503a9b17f9b.jpg" alt="Macron will nominate new French prime minister in 48 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj6xjpee1xjo?at_medium=RSS&at_campaign=rss" target="_blank">Macron will nominate new French prime minister in 48 hours</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-08 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/8/deadly-building-collapse-kills-4-in-madrid?traffic_source=rss" target="_blank">Deadly building collapse kills 4 in Madrid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-08 20:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +113,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/" target="_blank">One NASA science mission saved from Trump’s cuts, but others still in limbo</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-08 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/" target="_blank">Even after Stargate, Oracle, Nvidia, and AMD, OpenAI has more big deals coming soon, Sam Altman says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-08 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +160,20 @@
                 <span class="time">2025-10-08 22:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/bank_of_england-500x500.jpg" alt="Bank of England warns AI stock bubble rivals 2000 dotcom peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/" target="_blank">Bank of England warns AI stock bubble rivals 2000 dotcom peak</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-08 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lokhitha_s_4/cursor-trigger-2fho" target="_blank">Cursor + Trigger</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-09 01:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +219,6 @@
                 <span class="time">2025-10-08 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/granite-docling-ibm/en/headerimage/generatedHeaderImage-1759947833577.jpg" alt="IBM Releases Granite-Docling-258M, a Compact Vision-Language Model for Precise Document Conversion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/granite-docling-ibm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">IBM Releases Granite-Docling-258M, a Compact Vision-Language Model for Precise Document Conversion</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-08 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K735Y89VGR9VCW2WEWBVR2W2/hero-image.png" alt="The Best Headphones and Earbuds You Can Get for Under $150 Before Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/ad/tech/best-deals-on-headphones-earbuds-under-150-dollars-october-prime-day?utm_medium=RSS" target="_blank">The Best Headphones and Earbuds You Can Get for Under $150 Before Prime Day Ends Tonight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 01:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/pennywisebaldcropped-1280x853.jpg" alt="Is the Massive Forehead of This Human Pennywise Figure a ‘Welcome to Derry’ Spoiler?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +292,6 @@
                 <span class="time">2025-10-08 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K72SKTB8PM1AE00CY0MW0KCX/hero-image.png" alt="The Loudest Portable Party Speaker I&#x27;ve Ever Used Is $200 Off Until Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/soundboks-go-october-prime-day-2025?utm_medium=RSS" target="_blank">The Loudest Portable Party Speaker I&#x27;ve Ever Used Is $200 Off Until Prime Day Ends Tonight</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-08 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
