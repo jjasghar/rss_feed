@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 09:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-09 10:01:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 09, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +110,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/H5A9253-500x500.jpg" alt="Everything we know about Ferrari’s first electric vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/everything-we-know-about-ferraris-first-electric-vehicle/" target="_blank">Everything we know about Ferrari’s first electric vehicle</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-09 08:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68e6c28c7f459712a65944ae/master/pass/Gear_Ferrari_H5A9253.jpg" alt="Ferrari Reveals Its Electric Powerhouse, and What Could Finally Be Real EV Sound" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,20 +163,29 @@
                 <span class="time">2025-10-09 01:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e56e09df80a9674d4e0c73/master/pass/ABSOLUTE-BEST-PRIME-DEALS_NEW.png" alt="We Found 265 of the Best Prime Day Deals Still on for 2025: Up To 55% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-deals-october-2025-1/" target="_blank">We Found 265 of the Best Prime Day Deals Still on for 2025: Up To 55% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-09 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Released" target="_blank">Ubuntu 25.10 Released With GNOME 49, Linux 6.17 &amp; Other Upgrades</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-09 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-releases-ubuntu-25-10-questing-quokka" target="_blank">Canonical releases Ubuntu 25.10 Questing Quokka</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-09 09:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +220,6 @@
                 <span class="title"><a href="https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/" target="_blank">The Unknotting Number Is Not Additive</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-09 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/misterankit/why-cross-browser-testing-is-critical-for-web-application-success-3mcf" target="_blank">Why Cross Browser Testing is Critical for Web Application Success</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-41/" target="_blank">FOSS Weekly #25.41: Windows 11 Fiasco, Ubuntu 25.10 Releasing, Joplin Tips, NeoVim Journals and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-09 04:35</span>
             </div>
         </div>
 </div>
@@ -324,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
