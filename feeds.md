@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 09:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 10:01:43 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/explosions-hit-kabul-as-taliban-make-diplomatic-push-to-india?traffic_source=rss" target="_blank">Explosions hit Kabul as Taliban make diplomatic push to India</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 09:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-maria-corina-machado_7047548.jpg?20251010100739" alt="Nobel Peace Prize winner named" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/nobel-peace-prize-winner-named-as-donald-trump-misses-out-on-award-13447657" target="_blank">Nobel Peace Prize winner named</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-10 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +100,20 @@
                 <span class="time">2025-10-10 05:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5570600/peru-impeachment-trial-boluarte" target="_blank">Peru&#x27;s Congress removes President Boluarte as a crime wave grips the country</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-10 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5570600/perus-impeachment-trial-boluarte" target="_blank">Peru&#x27;s Congress votes to initiate impeachment trial of President Boluarte</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-10 05:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection" target="_blank">Copilot on Windows can now create Office documents and connect to Gmail</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-10 09:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2025-10-09 21:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e439ec3af653221caab15e/master/pass/Uncanny-Valley-roundup-H1B-Visa-.jpg" alt="How China Is Hoping to Attract Tech Talent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-how-china-is-hoping-to-attract-tech-talent/" target="_blank">How China Is Hoping to Attract Tech Talent</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-09 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F78fk7wqhv34ezcahgf7u.jpg" alt="Why Memorizing Scripture May Be Doing the Opposite of What You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brain_athlete/why-memorizing-scripture-may-be-doing-the-opposite-of-what-you-think-ji7" target="_blank">Why Memorizing Scripture May Be Doing the Opposite of What You Think</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 09:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nobelprize.org/prizes/peace/2025/summary/" target="_blank">Nobel Peace Prize 2025: María Corina Machado</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-10 09:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/" target="_blank">I Switched from Htmx to Datastar</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-10 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suraj_kumar_fb57ae0928df2/learn-javascript-in-30-days-a-practical-coding-guide-176a" target="_blank">Learn JavaScript in 30 Days: A Practical Coding Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2505.20296" target="_blank">Reasoning LLMs are wandering solution explorers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-10 04:40</span>
             </div>
         </div>
 </div>
@@ -302,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
