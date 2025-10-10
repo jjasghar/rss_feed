@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 16:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 17:01:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472e/live/80c91470-a5e9-11f0-920e-cb66ee1d5eb0.jpg" alt="Thousands line streets for boxing legend Ricky Hatton&#x27;s funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgq2z68n02o?at_medium=RSS&at_campaign=rss" target="_blank">Thousands line streets for boxing legend Ricky Hatton&#x27;s funeral</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-10 15:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/343f/live/f5763790-a5e3-11f0-92db-77261a15b9d2.jpg" alt="Man guilty of threatening to kill Nigel Farage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +94,20 @@
                 <span class="time">2025-10-10 11:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/10/norway-fa-president-welcomes-israel-peace-deal-ahead-of-vital-world-cup-tie?traffic_source=rss" target="_blank">Norway FA president welcomes Israel peace deal before vital World Cup tie</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-500x500.jpg" alt="UK antitrust regulator takes aim at Google’s search dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/" target="_blank">UK antitrust regulator takes aim at Google’s search dominance</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-10 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +153,38 @@
                 <span class="time">2025-10-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/797938/optimizer-newsletter-wearable-hell-smart-glasses-smart-rings-ai-hardware" target="_blank">We’re all about to be in wearable hell</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18690879&w=600" alt="Long-Running Durable Agents With Spring AI and Dapr Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/durable-agents-with-spring-ai-and-dapr" target="_blank">Long-Running Durable Agents With Spring AI and Dapr Workflows</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-10 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/snehalkadwe/what-is-a-large-language-model-llm-2gca" target="_blank">What is a Large Language Model (LLM)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/live-dock-icons-ubuntu.jpg?resize=406%2C232&amp;ssl=1" alt="This Extension Brings Live Calendar &amp; Clock Icons to Ubuntu’s Dock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/live-dock-icons-ubuntu-gnome-extension" target="_blank">This Extension Brings Live Calendar &amp; Clock Icons to Ubuntu’s Dock</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-10 16:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18689065&w=600" alt="Introduction to Spring Data Elasticsearch 5.5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +212,6 @@
                 <span class="time">2025-10-10 14:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/rag-vllm/en/mediumimage/stephen-batifol-medium-1758016495689.jpg" alt="Presentation: Deploy MultiModal RAG Systems with vLLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/rag-vllm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Deploy MultiModal RAG Systems with vLLM</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-10 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/namaneetha/learning-the-hard-way-a-new-developers-tale-of-ai-and-self-discovery-403e" target="_blank">Learning the Hard Way: A New Developer&#x27;s Tale of AI and Self-Discovery</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/python-314-benchmarks" target="_blank">Python 3.14 Performance Looking Good In Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-10 13:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Jeff-Bridges-1280x853.jpg" alt="Let’s Talk About the Ending, and End Credits, of ‘Tron: Ares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tron-ares-ending-explains-end-credits-scene-jared-leto-2000669201" target="_blank">Let’s Talk About the Ending, and End Credits, of ‘Tron: Ares’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-10 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/SolarReview-1280x853.jpg" alt="We Are Gonna Miss the Crass, Clueless, Hilarious ‘Solar Opposites’ Aliens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +285,6 @@
                 <span class="time">2025-10-10 12:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/pratt.jpg" alt="It’s Like Chris Pratt Saw 2025’s Worst Film And Said ‘Hold My Beer’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/chris-pratt-mercy-war-of-the-worlds-trailer-2000633959" target="_blank">It’s Like Chris Pratt Saw 2025’s Worst Film And Said ‘Hold My Beer’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-10 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
