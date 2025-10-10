@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 05:01:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-10 06:02:25 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/10/childrens-drawings-in-gaza-reveal-extent-of-trauma?traffic_source=rss" target="_blank">Children’s drawings in Gaza reveal extent of trauma</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5570600/perus-impeachment-trial-boluarte" target="_blank">Peru&#x27;s Congress votes to initiate impeachment trial of President Boluarte</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-10 05:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp3ve5jegkvo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands more university jobs cut as financial crisis deepens</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-10 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-9-gty-gmh-251009_1760027075805_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Israeli gov approves 1st phase of deal, ceasefire in effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Israeli gov approves 1st phase of deal, ceasefire in effect</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-10 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss" target="_blank">LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 00:00</span>
             </div>
         </div>
 </div>
@@ -171,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suraj_kumar_fb57ae0928df2/learn-javascript-in-30-days-a-practical-coding-guide-176a" target="_blank">Learn JavaScript in 30 Days: A Practical Coding Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/antony_brahin_f47b663f3a0/ai-accelerates-global-expansion-and-addresses-critical-challenges-3cp2" target="_blank">Daily AI Digest</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-10 03:11</span>
@@ -201,15 +213,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/flatpak-broken-ubuntu-25-10-apparmor-bug" target="_blank">Flatpak Doesn’t Work in Ubuntu 25.10, But a Fix is Coming</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-10 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-10-2025-red-hat" target="_blank">Friday Five — October 10, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-10-10 00:00</span>
             </div>
         </div>
 </div>
@@ -290,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
