@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 21:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-10 22:01:30 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/10/g-s1-93066/france-government-prime-minister-lecornu-macron" target="_blank">Macron puts Lecornu back as France&#x27;s prime minister just days after he quit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-10 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/10/gymnastics-governing-body-reacts-to-indonesias-worlds-block-on-israel-team?traffic_source=rss" target="_blank">Gymnastics governing body reacts to Indonesia’s worlds block on Israel team</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 21:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +96,29 @@
                 <span class="time">2025-10-10 18:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/10/elon-me-and-20-million-views-a-conversation-with-grok?traffic_source=rss" target="_blank">Elon, me and 20 million views: A conversation with Grok</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/vought-2-gty-gmh-251010_1760115622922_hpMain_4x3t_384.jpg" alt="Government shutdown updates: OMB&#x27;s Vought says mass firings &#x27;have begun&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: OMB&#x27;s Vought says mass firings &#x27;have begun&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-10 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2177324845-500x500.jpg" alt="More federal health employees axed amid shutdown-linked terminations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/" target="_blank">More federal health employees axed amid shutdown-linked terminations</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-10 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police" target="_blank">OpenAI allegedly sent police to an AI regulation advocate’s door</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-10 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +155,29 @@
                 <span class="time">2025-10-10 18:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e9443e62893a7833fc3ea5/master/pass/Save%20Almost%20$75%20on%20Our%20Favorite%20Gaming%20Earbuds.png" alt="These SteelSeries Earbuds Are Great for Gaming, and Are 35% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/steelseries-arctis-gamebuds-deal-1025/" target="_blank">These SteelSeries Earbuds Are Great for Gaming, and Are 35% Off Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-10 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-90066564-500x500.jpg" alt="Termite farmers fine-tune their weed control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/" target="_blank">Termite farmers fine-tune their weed control</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-10 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ian_b838138a27a917398d181/python-basics-day-01-222m" target="_blank">Python basics - Day 01</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nngroup.com/articles/liquid-glass/" target="_blank">Liquid Glass Is Cracked, and Usability Suffers in iOS 26</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-10 21:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +214,6 @@
                 <span class="time">2025-10-10 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18689067&w=600" alt="Diving into JNI: My Messy Adventures With C++ in Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/diving-into-jni-my-messy-adventures-with-c-in-andr" target="_blank">Diving into JNI: My Messy Adventures With C++ in Android</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18690879&w=600" alt="Long-Running Durable Agents With Spring AI and Dapr Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/durable-agents-with-spring-ai-and-dapr" target="_blank">Long-Running Durable Agents With Spring AI and Dapr Workflows</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-10 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/12/67716c5284ac31bad67a3833640cd656.jpg" alt="Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114" target="_blank">Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-10 21:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/wonder-man-1280x720.jpg" alt="Marvel’s Wonder Man Trailer Knows You’re Getting Bored With Superheroes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,21 +288,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K77BV2XJQVJW82FT2M7GHG8B/hero-image.jpg" alt="Watch Out for Fake Sora Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/dairy-queen-e1756843225988.jpg?fit=768%2C511&amp;quality=60&amp;ssl=1" alt="Dairy Queen Blizzard ends armed standoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/watch-out-for-fake-sora-apps?utm_medium=RSS" target="_blank">Watch Out for Fake Sora Apps</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-10 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/Samsung-Project-Moohan-Image-Hero-1280x853.jpg" alt="How Does Samsung’s First VR Headset Compare to the Vision Pro? These Leaks May Tell Us Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-does-samsungs-first-vr-headset-compare-to-the-vision-pro-these-leaks-may-tell-us-everything-2000670956" target="_blank">How Does Samsung’s First VR Headset Compare to the Vision Pro? These Leaks May Tell Us Everything</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-10 17:20</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/10/dairy-queen-blizzard-ends-armed-standoff.html" target="_blank">Dairy Queen Blizzard ends armed standoff</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-10 17:33</span>
             </div>
         </div>
 </div>
@@ -342,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
