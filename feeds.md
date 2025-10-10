@@ -1,48 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 13:08:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 14:01:38 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 39 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Chevrolet-Bolt-2027-Pack-500x500.jpg" alt="It’s back! The 2027 Chevy Bolt gets an all-new LFP battery, but what else?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/its-back-the-2027-chevy-bolt-gets-an-all-new-lfp-battery-but-what-else/" target="_blank">It’s back! The 2027 Chevy Bolt gets an all-new LFP battery, but what else?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/797938/optimizer-newsletter-wearable-hell-smart-glasses-smart-rings-ai-hardware" target="_blank">We’re all about to be in wearable hell</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ng-2-roll-1-500x500.jpg" alt="Rocket Report: Bezos’ firm will package satellites for launch; Starship on deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -153,29 +158,29 @@
                 <span class="time">2025-10-10 04:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/" target="_blank">Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-10 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027" target="_blank">The Minecraft movie is getting a sequel</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-09 23:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/namaneetha/learning-the-hard-way-a-new-developers-tale-of-ai-and-self-discovery-403e" target="_blank">Learning the Hard Way: A New Developer&#x27;s Tale of AI and Self-Discovery</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/python-314-benchmarks" target="_blank">Python 3.14 Performance Looking Good In Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-10 13:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,6 +200,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html" target="_blank">Igalia, Servo, and the Sovereign Tech Fund</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-10 12:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687876&w=600" alt="Building Realistic Test Data in Java: A Hands-On Guide for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -203,31 +217,18 @@
                 <span class="time">2025-10-10 12:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/massimo_deiana_ccce73063a/will-clean-code-principles-remain-relevant-in-the-ai-era-bf7" target="_blank">Will clean code principles remain relevant in the AI era?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687866&w=600" alt="Securing HTTPS From the Inside Out: Preventing Client-Side Interception Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/securing-https-client-side-interception" target="_blank">Securing HTTPS From the Inside Out: Preventing Client-Side Interception Attacks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/qcon-ai-2025-schedule/en/headerimage/qcon-ai-2025-schedule-1759931203753.jpg" alt="QCon AI New York 2025 Schedule Published, Highlights Practical Enterprise AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/qcon-ai-2025-schedule/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI New York 2025 Schedule Published, Highlights Practical Enterprise AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-10 11:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/autonomous-ai-hacking-and-the-future-of-cybersecurity.html" target="_blank">Autonomous AI Hacking and the Future of Cybersecurity</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-10 11:06</span>
             </div>
         </div>
 </div>
@@ -317,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
