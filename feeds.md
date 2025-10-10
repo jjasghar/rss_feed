@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 01:29:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 02:27:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/we-dont-want-to-disappear-tuvalu-fights-for-climate-action-and-survival?traffic_source=rss" target="_blank">‘We don’t want to disappear’: Tuvalu fights for climate action and survival</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 01:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c657/live/4977f460-a520-11f0-adbe-83a1eb509ffb.jpg" alt="Thousands more university jobs cut as financial crisis deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +96,20 @@
                 <span class="time">2025-10-09 22:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/9/us-buys-argentinian-pesos-finalises-20bn-currency-swap-says-us-treasury?traffic_source=rss" target="_blank">US buys Argentinian pesos, finalises $20bn currency swap, says US Treasury</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-09 22:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/" target="_blank">Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-10 02:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +155,20 @@
                 <span class="time">2025-10-09 20:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1155839798-500x500.jpg" alt="Tesla FSD gets worse at driving, NHTSA opens new investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/tesla-fsd-gets-worse-at-driving-nhtsa-opens-new-investigation/" target="_blank">Tesla FSD gets worse at driving, NHTSA opens new investigation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-09 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ezvcz3ybh0623aolnsi.png" alt="Controlling Concurrency in Go with the Semaphore Pattern" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siffiyan_assauri_51ec6d1b/controlling-concurrency-in-go-with-the-semaphore-pattern-24in" target="_blank">Controlling Concurrency in Go with the Semaphore Pattern</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 02:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,6 +176,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Shotcut-25.10-Beta" target="_blank">Shotcut 25.10 Video Editor Rolling Out More AI-Powered Functionality</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-10 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/ubuntu-logo-flatpak-logo-on-boxes.jpg?resize=406%2C232&amp;ssl=1" alt="Flatpak Doesn’t Work in Ubuntu 25.10, But a Fix is Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/flatpak-broken-ubuntu-25-10-apparmor-bug" target="_blank">Flatpak Doesn’t Work in Ubuntu 25.10, But a Fix is Coming</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-10 00:33</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-5-Panther-Lake-Linux" target="_blank">Linux Driver Support Ready For Intel Panther Lake&#x27;s NPU 5</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-09 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18688400&w=600" alt="Popular DevOps Automation Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/popular-devops-automation-tools" target="_blank">Popular DevOps Automation Tools</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-09 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnfmksbk6im91qyvrjct2.jpg" alt="Smartwatch vs Fitness Tracker: Making the Right Choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/phoneexits/smartwatch-vs-fitness-tracker-making-the-right-choice-4ai2" target="_blank">Smartwatch vs Fitness Tracker: Making the Right Choice</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-09 18:38</span>
             </div>
         </div>
 </div>
@@ -301,7 +293,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 01:29 UTC
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
