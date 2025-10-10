@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 18:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 19:01:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/10/nx-s1-5549181/cumbia-in-peru" target="_blank">Peru: Chicha Cumbia, the electric pulse of Lima</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-10 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251010-Russ-Vought-Donald-Trump-ch-1349-0bb8e3.jpg" alt="Trump administration begins &#x27;substantial&#x27; federal worker layoffs amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trumps-budget-director-says-layoffs-begun-government-shutdown-rcna236923" target="_blank">Trump administration begins &#x27;substantial&#x27; federal worker layoffs amid shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-10 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/10/elon-me-and-20-million-views-a-conversation-with-grok?traffic_source=rss" target="_blank">Elon, me and 20 million views: A conversation with Grok</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/vought-2-gty-gmh-251010_1760115622922_hpMain_4x3t_384.jpg" alt="Government shutdown updates: OMB&#x27;s Vought says mass firings &#x27;have begun&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: OMB&#x27;s Vought says mass firings &#x27;have begun&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-10 17:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472e/live/80c91470-a5e9-11f0-920e-cb66ee1d5eb0.jpg" alt="Thousands line streets for boxing legend Ricky Hatton&#x27;s funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -57,47 +100,29 @@
                 <span class="time">2025-10-10 14:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-palestinians-israel_7047582.jpg?20251010172522" alt="Hamas official thanks Donald Trump for peace deal - but tells Sky News Tony Blair not welcome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamas-official-thanks-donald-trump-for-peace-deal-but-warns-tony-blair-not-welcome-13448166" target="_blank">Hamas official thanks Donald Trump for peace deal - but tells Sky News Tony Blair not welcome</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-10 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/10/machados-nobel-is-terrific-news-for-democracy-in-venezuela?traffic_source=rss" target="_blank">Machado’s Nobel is “terrific news” for democracy in Venezuela</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/10/g-s1-92542/contaminated-cough-syrup-children-dying-criminal" target="_blank">More than 20 kids in India have died from contaminated cough syrup. Who&#x27;s to blame?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-10 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/oct/10/baby-giant-tortoises-thrive-seychelles-first-successful-artificial-incubation" target="_blank">Baby giant tortoises thrive in Seychelles after first successful artificial incubation</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-10 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/" target="_blank">Google Chrome silences those pesky notifications</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-10 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e9443e62893a7833fc3ea5/master/pass/Save%20Almost%20$75%20on%20Our%20Favorite%20Gaming%20Earbuds.png" alt="These SteelSeries Earbuds Are Great for Gaming, and Are 35% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/steelseries-arctis-gamebuds-deal-1025/" target="_blank">These SteelSeries Earbuds Are Great for Gaming, and Are 35% Off Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-10 18:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-90066564-500x500.jpg" alt="Termite farmers fine-tune their weed control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +159,20 @@
                 <span class="time">2025-10-10 15:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a7a913ababd253d6b1768f/master/pass/Google%20Pixel%2010%20Series%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best Google Pixel Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-google-pixel-phone/" target="_blank">The Best Google Pixel Phones of 2025, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-10 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji" target="_blank">Apple&amp;#8217;s executive reshuffling isn&amp;#8217;t over</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-10 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mubby042/data-in-everyday-life-15j1" target="_blank">Data in Everyday Life</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18689067&w=600" alt="Diving into JNI: My Messy Adventures With C++ in Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,20 +218,20 @@
                 <span class="time">2025-10-10 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18688321&w=600" alt="Stop React Native Crashes: A Production-Ready Error Handling Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/react-native-error-handling-guide" target="_blank">Stop React Native Crashes: A Production-Ready Error Handling Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/" target="_blank">DDoS Botnet Aisuru Blankets US ISPs in Record DDoS</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-10-10 16:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -230,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/magicmushrooms-1280x853.jpg" alt="Scientists Realize That Magic Mushrooms Are Even Weirder Than We Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-realize-that-magic-mushrooms-psilocybin-are-even-weirder-than-we-thought-2000671048" target="_blank">Scientists Realize That Magic Mushrooms Are Even Weirder Than We Thought</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-10 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K77BV2XJQVJW82FT2M7GHG8B/hero-image.jpg" alt="Watch Out for Fake Sora Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +300,6 @@
                 <span class="time">2025-10-10 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K779KY2A80E6ZBAA5VYE3K2K/hero-image.png" alt="Garmin&#x27;s Run Coach Can Help You Train for a Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-run-coach-marathon-training-plans?utm_medium=RSS" target="_blank">Garmin&#x27;s Run Coach Can Help You Train for a Marathon</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-10 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
