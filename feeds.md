@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 02:27:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 03:14:04 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 02:27 UTC</div>
+    <div class="newspaper-date">Friday, October 10, 2025 - 03:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/complete-list-of-nobel-peace-prize-winners-1901?traffic_source=rss" target="_blank">Complete list of Nobel Peace Prize winners (1901–2024)</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 02:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/9/ecuadors-noboa-faces-escalating-protests-over-rise-in-diesel-costs?traffic_source=rss" target="_blank">Ecuador’s Noboa faces escalating protests over rise in diesel costs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-09 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760050454815_nn_gha_israel_and_hamas_agree_to_trump_peace_plan_251009_1920x1080-6jwncv.jpg" alt="Israel and Hamas agree to first phase of Trump’s peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/israel-and-hamas-agree-to-trump-s-peace-plan-249593925816" target="_blank">Israel and Hamas agree to first phase of Trump’s peace plan</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-09 22:54</span>
             </div>
         </div>
 </div>
@@ -161,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/antony_brahin_f47b663f3a0/ai-accelerates-global-expansion-and-addresses-critical-challenges-3cp2" target="_blank">Daily AI Digest</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 03:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ezvcz3ybh0623aolnsi.png" alt="Controlling Concurrency in Go with the Semaphore Pattern" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Kan-Liang-Leaving-Intel" target="_blank">Intel&#x27;s Lead Engineer For Linux Performance Monitoring Is Leaving The Company</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-09 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-5-Panther-Lake-Linux" target="_blank">Linux Driver Support Ready For Intel Panther Lake&#x27;s NPU 5</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-09 19:49</span>
             </div>
         </div>
 </div>
@@ -292,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 03:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
