@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 00:04:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 01:29:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +51,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c657/live/4977f460-a520-11f0-adbe-83a1eb509ffb.jpg" alt="Thousands more university jobs cut as financial crisis deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp3ve5jegkvo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands more university jobs cut as financial crisis deepens</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-10 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-9-gty-gmh-251009_1760027075805_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Israeli gov approves 1st phase of deal, ceasefire in effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Israeli gov approves 1st phase of deal, ceasefire in effect</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-10 00:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss" target="_blank">LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 00:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/9/ecuadors-noboa-faces-escalating-protests-over-rise-in-diesel-costs?traffic_source=rss" target="_blank">Ecuador’s Noboa faces escalating protests over rise in diesel costs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-09 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760050454815_nn_gha_israel_and_hamas_agree_to_trump_peace_plan_251009_1920x1080-6jwncv.jpg" alt="Israel and Hamas agree to first phase of Trump’s peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/israel-and-hamas-agree-to-trump-s-peace-plan-249593925816" target="_blank">Israel and Hamas agree to first phase of Trump’s peace plan</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-09 22:54</span>
             </div>
         </div>
 <div class="story">
@@ -67,47 +104,20 @@
                 <span class="time">2025-10-09 22:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/letitia-james-ap-jef-251009_1760040126724_hpMain_4x3t_384.jpg" alt="New York AG Letitia James indicted for alleged fraud following pressure from Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-appointed-prosecutor-seeks-indictment-new-york-ag/story?id=126378516" target="_blank">New York AG Letitia James indicted for alleged fraud following pressure from Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-09 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/09/nx-s1-5569817/dominion-voting-liberty-vote-false-claims" target="_blank">Dominion, the voting tech company at the center of false 2020 claims, is sold</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-09 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760045332749_nbc_spec_full_letitia_james_251009_1920x1080-t1xiei.jpg" alt="Special Report: Grand jury indicts N.Y. Attorney General Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/special-report-grand-jury-indicts-n-y-attorney-general-letitia-james-249587269777" target="_blank">Special Report: Grand jury indicts N.Y. Attorney General Letitia James</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-09 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/09/g-s1-92729/gaza-ceasefire-israel-hamas-next-steps" target="_blank">Once the Gaza ceasefire goes into effect, what happens next? Here&#x27;s what to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-09 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027" target="_blank">The Minecraft movie is getting a sequel</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-09 23:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-500x500.jpg" alt="Childhood vaccines safe for a little longer as CDC cancels advisory meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -115,6 +125,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/" target="_blank">Childhood vaccines safe for a little longer as CDC cancels advisory meeting</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-09 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e809ee34a4e22944e3d3cc/master/pass/Save%20$100%20on%20our%20Favorite%20Motorola%20Smartphone.png" alt="Our Favorite Motorola Smartphone Is $100 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/motorola-razr-deal-1025/" target="_blank">Our Favorite Motorola Smartphone Is $100 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-09 21:11</span>
             </div>
         </div>
 <div class="story">
@@ -144,29 +163,20 @@
                 <span class="time">2025-10-09 18:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus" target="_blank">Amazon’s giant ads have ruined the Echo Show</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-09 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/" target="_blank">Intel unveils new processor powered by its 18A semiconductor tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-09 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-25.10-Beta" target="_blank">Shotcut 25.10 Video Editor Rolling Out More AI-Powered Functionality</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-10 00:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/firefox-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox’s New Profile Manager Goes Live For Everyone Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,20 +222,20 @@
                 <span class="time">2025-10-09 18:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Rust-LED-Driver-Patches" target="_blank">Linux Seeing First LED Driver Written In Rust</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-09 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Spider-Man-Andrew-Garfield-2-1280x853.jpg" alt="Andrew Garfield Really Wants You to Stop Asking Him About ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/andrew-garfield-really-wants-you-to-stop-asking-him-about-avengers-doomsday-2000670767" target="_blank">Andrew Garfield Really Wants You to Stop Asking Him About ‘Avengers: Doomsday’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-09 23:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/nycc-2025-mobile-suit-gundam-hathaway-circe-trailer-1280x853.jpg" alt="The Long-Awaited ‘Mobile Suit Gundam: Hathaway’ Sequel Hits Japan in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -233,6 +243,15 @@
                 <span class="title"><a href="https://gizmodo.com/gundam-hathaway-2-trailer-sorcery-of-nymph-circe-nycc-2025-2000670699" target="_blank">The Long-Awaited ‘Mobile Suit Gundam: Hathaway’ Sequel Hits Japan in January</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-09 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K75AS8C8FHDEAVQPXYMYJ296/hero-image.png" alt="15 of the Best Horror Movies Streaming on Shudder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-horror-movies-on-shudder?utm_medium=RSS" target="_blank">15 of the Best Horror Movies Streaming on Shudder</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-09 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -262,24 +281,6 @@
                 <span class="time">2025-10-09 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/arcmain-1280x720.jpg" alt="Arc Raiders Is Trying To Fix One Of The Most Frustrating Things About Extraction Shooters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-extraction-pvpve-progression-wipe-loot-2000633739" target="_blank">Arc Raiders Is Trying To Fix One Of The Most Frustrating Things About Extraction Shooters</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-09 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/naked-mole-rat-1280x853.jpg" alt="Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/some-naked-mole-rats-are-just-born-to-clean-toilets-study-suggests-2000670578" target="_blank">Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-09 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,22 +295,13 @@
                 <span class="time">2025-10-09 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5674.png" alt="Toilet Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5675" target="_blank">Toilet Talk</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-09 00:52</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
