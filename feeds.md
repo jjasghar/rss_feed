@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 19:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 20:01:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5550398/national-guard-memphis-tennessee-trump" target="_blank">National Guard troops begin patrols in Memphis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-10 19:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +86,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472e/live/80c91470-a5e9-11f0-920e-cb66ee1d5eb0.jpg" alt="Thousands line streets for boxing legend Ricky Hatton&#x27;s funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1368/live/28860be0-a5e6-11f0-920e-cb66ee1d5eb0.jpg" alt="Ceasefire comes into force as IDF pulls out of parts of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgq2z68n02o?at_medium=RSS&at_campaign=rss" target="_blank">Thousands line streets for boxing legend Ricky Hatton&#x27;s funeral</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjw7jp2pxnpo?at_medium=RSS&at_campaign=rss" target="_blank">Ceasefire comes into force as IDF pulls out of parts of Gaza</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-10-10 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/343f/live/f5763790-a5e3-11f0-92db-77261a15b9d2.jpg" alt="Man guilty of threatening to kill Nigel Farage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdx216n1529o?at_medium=RSS&at_campaign=rss" target="_blank">Man guilty of threatening to kill Nigel Farage</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-10 14:40</span>
+                <span class="time">2025-10-10 16:47</span>
             </div>
         </div>
 </div>
@@ -105,6 +99,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/" target="_blank">Why Deloitte is betting big on AI despite a $10M refund</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-10 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/wonderman1-500x500.jpg" alt="Marvel gets meta with Wonder Man teaser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/10/marvel-gets-meta-with-wonder-man-teaser/" target="_blank">Marvel gets meta with Wonder Man teaser</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-10 19:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +153,6 @@
                 <span class="time">2025-10-10 17:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-500x500.jpg" alt="UK antitrust regulator takes aim at Google’s search dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/" target="_blank">UK antitrust regulator takes aim at Google’s search dominance</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-10 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mr-beasts-ai-fears-but-admits-society-will-have-to-adjust/" target="_blank">Instagram head Adam Mosseri pushes back on Mr. Beast’s AI fears, but admits society will have to adjust</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-10 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +165,15 @@
                 <span class="title"><a href="https://dev.to/mubby042/data-in-everyday-life-15j1" target="_blank">Data in Everyday Life</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-10 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Default-Disable-TPM2-HMAC" target="_blank">Linux Now Disabling TPM Bus Encryption By Default For Performance Reasons</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-10 18:45</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +212,6 @@
                 <span class="time">2025-10-10 16:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18689065&w=600" alt="Introduction to Spring Data Elasticsearch 5.5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/guide-to-spring-data-elasticsearch-upgrade" target="_blank">Introduction to Spring Data Elasticsearch 5.5</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-10 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/SDCC_StarTrek_Nacelle_Spock-1280x853.jpg" alt="Spock and Picard Beam Aboard Nacelle’s Ever-Growing ‘Star Trek’ Figure Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spock-and-picard-beam-aboard-nacelles-ever-growing-star-trek-figure-collection-2000671112" target="_blank">Spock and Picard Beam Aboard Nacelle’s Ever-Growing ‘Star Trek’ Figure Collection</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-10 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/magicmushrooms-1280x853.jpg" alt="Scientists Realize That Magic Mushrooms Are Even Weirder Than We Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +294,6 @@
                 <span class="time">2025-10-10 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/SolarReview-1280x853.jpg" alt="We Are Gonna Miss the Crass, Clueless, Hilarious ‘Solar Opposites’ Aliens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/we-are-gonna-miss-the-crass-clueless-hilarious-solar-opposites-aliens-2000666449" target="_blank">We Are Gonna Miss the Crass, Clueless, Hilarious ‘Solar Opposites’ Aliens</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-10 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
