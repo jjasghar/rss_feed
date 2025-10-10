@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 11:01:40 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-10 12:02:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +49,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/10/norway-fa-president-welcomes-israel-peace-deal-ahead-of-vital-world-cup-tie?traffic_source=rss" target="_blank">Norway FA president welcomes Israel peace deal before vital World Cup tie</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760095635356_tdy_news_7a_engel_israel_hamas_peace_251010_1920x1080-ex3wf8.jpg" alt="Israel Says Ceasefire Is in Effect as Troops Pull Back From Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/israeli-military-says-ceasefire-in-effect-as-troops-begin-withdrawal-249627205930" target="_blank">Israel Says Ceasefire Is in Effect as Troops Pull Back From Gaza</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-10 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/10/g-s1-92895/up-first-newsletter-israel-gaza-peace-deal-letitia-james" target="_blank">Israel and Hamas prepare for hostage exchange. And, the DOJ indicts Letitia James</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-10 11:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b9a/live/275b3230-a5bf-11f0-b741-177e3e2c2fc7.jpg" alt="No plans to send UK troops to monitor Gaza ceasefire, says Cooper" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2pek0lz6mo?at_medium=RSS&at_campaign=rss" target="_blank">No plans to send UK troops to monitor Gaza ceasefire, says Cooper</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-10 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b586/live/1609fe70-a5b6-11f0-92db-77261a15b9d2.jpg" alt="US to send 200 troops to Israel to monitor Gaza ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpvl97r4e8jo?at_medium=RSS&at_campaign=rss" target="_blank">US to send 200 troops to Israel to monitor Gaza ceasefire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-10 09:58</span>
             </div>
         </div>
 <div class="story">
@@ -61,47 +102,20 @@
                 <span class="time">2025-10-10 09:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/10/drc-calls-eu-minerals-deal-rwanda-obvious-double-standard" target="_blank">DRC says EU’s minerals deal with Rwanda is ‘obvious double standard’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-10 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/explosions-hit-kabul-as-taliban-make-diplomatic-push-to-india?traffic_source=rss" target="_blank">Explosions hit Kabul as Taliban make diplomatic push to India</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-maria-corina-machado_7047548.jpg?20251010100739" alt="Nobel Peace Prize winner named" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/nobel-peace-prize-winner-named-as-donald-trump-misses-out-on-award-13447657" target="_blank">Nobel Peace Prize winner named</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-10 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/taiwan-leader-promises-robust-air-defence-system-amid-rising-china-tensions?traffic_source=rss" target="_blank">Taiwan leader promises robust air defence system amid rising China tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 08:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/earthquake-detection-500x500.jpg" alt="“Like putting on glasses for the first time”—how AI improves earthquake detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/" target="_blank">“Like putting on glasses for the first time”—how AI improves earthquake detection</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-10 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,26 +161,44 @@
                 <span class="time">2025-10-09 22:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e809ee34a4e22944e3d3cc/master/pass/Save%20$100%20on%20our%20Favorite%20Motorola%20Smartphone.png" alt="Our Favorite Motorola Smartphone Is $100 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/motorola-razr-deal-1025/" target="_blank">Our Favorite Motorola Smartphone Is $100 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-09 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687876&w=600" alt="Building Realistic Test Data in Java: A Hands-On Guide for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-realistic-test-data-in-java-with-datafake" target="_blank">Building Realistic Test Data in Java: A Hands-On Guide for Developers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/massimo_deiana_ccce73063a/will-clean-code-principles-remain-relevant-in-the-ai-era-bf7" target="_blank">Will clean code principles remain relevant in the AI era?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 11:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687866&w=600" alt="Securing HTTPS From the Inside Out: Preventing Client-Side Interception Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/securing-https-client-side-interception" target="_blank">Securing HTTPS From the Inside Out: Preventing Client-Side Interception Attacks</a></span>
                 <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-10 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/qcon-ai-2025-schedule/en/headerimage/qcon-ai-2025-schedule-1759931203753.jpg" alt="QCon AI New York 2025 Schedule Published, Highlights Practical Enterprise AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/qcon-ai-2025-schedule/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI New York 2025 Schedule Published, Highlights Practical Enterprise AI</a></span>
+                <span class="feed">InfoQ</span>
                 <span class="time">2025-10-10 11:00</span>
             </div>
         </div>
@@ -188,38 +220,38 @@
                 <span class="time">2025-10-10 10:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/github-embedding-model/en/headerimage/generatedHeaderImage-1759941081682.jpg" alt="GitHub Introduces New Embedding Model to Improve Code Search and Context" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/github-embedding-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Introduces New Embedding Model to Improve Code Search and Context</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-10 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F78fk7wqhv34ezcahgf7u.jpg" alt="Why Memorizing Scripture May Be Doing the Opposite of What You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brain_athlete/why-memorizing-scripture-may-be-doing-the-opposite-of-what-you-think-ji7" target="_blank">Why Memorizing Scripture May Be Doing the Opposite of What You Think</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nobelprize.org/prizes/peace/2025/summary/" target="_blank">Nobel Peace Prize 2025: María Corina Machado</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-10 09:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/pratt.jpg" alt="It’s Like Chris Pratt Saw 2025’s Worst Film And Said ‘Hold My Beer’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/chris-pratt-mercy-war-of-the-worlds-trailer-2000633959" target="_blank">It’s Like Chris Pratt Saw 2025’s Worst Film And Said ‘Hold My Beer’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HHEFZ0JEENMQ9P24RNYSX/hero-image.jpg" alt="Use the &#x27;Production Effect&#x27; to Study More Effectively" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123?utm_medium=RSS" target="_blank">Use the &#x27;Production Effect&#x27; to Study More Effectively</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/trump.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Authoritarian Trump loses peace prize to antifascist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/10/authoritarian-trump-loses-peace-prize-to-antifascist-venezuelan-maria-corina-machado.html" target="_blank">Authoritarian Trump loses peace prize to antifascist</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-10 11:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/sora-2-app-1280x853.jpg" alt="How to Unblock OpenAI’s Sora 2 If You’re Outside the US and Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,33 +277,6 @@
                 <span class="title"><a href="https://gizmodo.com/gundam-hathaway-2-trailer-sorcery-of-nymph-circe-nycc-2025-2000670699" target="_blank">The Long-Awaited ‘Mobile Suit Gundam: Hathaway’ Sequel Hits Japan in January</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-09 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K75AS8C8FHDEAVQPXYMYJ296/hero-image.png" alt="15 of the Best Horror Movies Streaming on Shudder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-horror-movies-on-shudder?utm_medium=RSS" target="_blank">15 of the Best Horror Movies Streaming on Shudder</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Kamen-rider-zeztz-4-io9-template-3-1280x853.jpg" alt="‘Kamen Rider ZEZTZ’ Producer on Merging Nostalgia and Reinvention for Fans Worldwide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kamen-rider-zeztz-toei-tokushoutsu-simulcast-interview-2000669289" target="_blank">‘Kamen Rider ZEZTZ’ Producer on Merging Nostalgia and Reinvention for Fans Worldwide</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-09 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Cleaner-Kit-for-iOS-Premium-Plan-1.jpg?fit=1300%2C867&amp;quality=60&amp;ssl=1" alt="An AI-powered iPhone cleaner for just $25 — the lowest price it&#x27;s ever been" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/09/an-ai-powered-iphone-cleaner-for-just-25-the-lowest-price-its-ever-been.html" target="_blank">An AI-powered iPhone cleaner for just $25 — the lowest price it&#x27;s ever been</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-09 21:00</span>
             </div>
         </div>
 </div>
@@ -302,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
