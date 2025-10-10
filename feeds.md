@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 20:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 21:01:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5550398/national-guard-memphis-tennessee-trump" target="_blank">National Guard troops begin patrols in Memphis</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-10 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760125295713_now_daily_b_alcindor_layoffs_begin_251010_1920x1080-zoq5aa.jpg" alt="White House begins laying off federal workers amid government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-begins-laying-off-federal-workers-amid-government-shutdown-249658437878" target="_blank">White House begins laying off federal workers amid government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-10 19:41</span>
             </div>
         </div>
 <div class="story">
@@ -85,15 +96,6 @@
                 <span class="time">2025-10-10 17:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1368/live/28860be0-a5e6-11f0-920e-cb66ee1d5eb0.jpg" alt="Ceasefire comes into force as IDF pulls out of parts of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjw7jp2pxnpo?at_medium=RSS&at_campaign=rss" target="_blank">Ceasefire comes into force as IDF pulls out of parts of Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-10 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/" target="_blank">Why Deloitte is betting big on AI despite a $10M refund</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-10 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e81570a68ae1e7a129fd64/master/pass/openai-value-biz-2181653413.jpg" alt="WIRED Roundup: Are We In An AI Bubble?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/" target="_blank">WIRED Roundup: Are We In An AI Bubble?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-10 19:50</span>
             </div>
         </div>
 <div class="story">
@@ -144,20 +155,29 @@
                 <span class="time">2025-10-10 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale" target="_blank">You can still snag LG’s C4 OLED TV at half the price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-10 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nairsreya/zkp-2o8j" target="_blank">ZKP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://orb.net/blog/does-speed-make-wifi-suck" target="_blank">Does our “need for speed” make our wi-fi suck?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-10 18:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +214,6 @@
                 <span class="time">2025-10-10 17:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snehalkadwe/what-is-a-large-language-model-llm-2gca" target="_blank">What is a Large Language Model (LLM)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/live-dock-icons-ubuntu.jpg?resize=406%2C232&amp;ssl=1" alt="This Extension Brings Live Calendar &amp; Clock Icons to Ubuntu’s Dock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/live-dock-icons-ubuntu-gnome-extension" target="_blank">This Extension Brings Live Calendar &amp; Clock Icons to Ubuntu’s Dock</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-10 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/wonder-man-1280x720.jpg" alt="Marvel’s Wonder Man Trailer Knows You’re Getting Bored With Superheroes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-wonder-man-trailer-disney-mcu-2000634087" target="_blank">Marvel’s Wonder Man Trailer Knows You’re Getting Bored With Superheroes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-10 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K77NZH47JV190KT14JG1XSYW/hero-image.jpg" alt="70,000 Discord Users May Have Had Their Government IDs Exposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/discord-suffered-a-major-hack?utm_medium=RSS" target="_blank">70,000 Discord Users May Have Had Their Government IDs Exposed</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-10 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/SDCC_StarTrek_Nacelle_Spock-1280x853.jpg" alt="Spock and Picard Beam Aboard Nacelle’s Ever-Growing ‘Star Trek’ Figure Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +296,20 @@
                 <span class="time">2025-10-10 17:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/beavisandbutthead.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Beavis and Butt-Head discover AI, immediately start rooting for the apocalypse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/10/beavis-and-butt-head-discover-ai-immediately-start-rooting-for-the-apocalypse.html" target="_blank">Beavis and Butt-Head discover AI, immediately start rooting for the apocalypse</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-10 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Jeff-Bridges-1280x853.jpg" alt="Let’s Talk About the Ending, and End Credits, of ‘Tron: Ares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tron-ares-ending-explains-end-credits-scene-jared-leto-2000669201" target="_blank">Let’s Talk About the Ending, and End Credits, of ‘Tron: Ares’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-10 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/second-floor/" target="_blank">Second Floor</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-10-10 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1760073065-20251010.png" alt="Saturday Morning Breakfast Cereal - Measurement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,13 +328,22 @@
                 <span class="time">2025-10-10 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/hot_water_balloon.png" alt="Hot Water Balloon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3153/" target="_blank">Hot Water Balloon</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-10 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
