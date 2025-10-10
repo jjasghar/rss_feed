@@ -1,33 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 06:02:25 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-10 07:02:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/10/israeli-pm-netanyahu-thanks-trump-and-us-team-for-ceasefire-role?traffic_source=rss" target="_blank">Israeli PM Netanyahu thanks Trump and US team for ceasefire role</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 06:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/we-dont-want-to-disappear-tuvalu-fights-for-climate-action-and-survival?traffic_source=rss" target="_blank">‘We don’t want to disappear’: Tuvalu fights for climate action and survival</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-10 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c657/live/4977f460-a520-11f0-adbe-83a1eb509ffb.jpg" alt="Thousands more university jobs cut as financial crisis deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp3ve5jegkvo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands more university jobs cut as financial crisis deepens</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-10 01:05</span>
             </div>
         </div>
 </div>
@@ -182,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2505.20296" target="_blank">Reasoning LLMs are wandering solution explorers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-10 04:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/antony_brahin_f47b663f3a0/ai-accelerates-global-expansion-and-addresses-critical-challenges-3cp2" target="_blank">Daily AI Digest</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +207,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Shotcut-25.10-Beta" target="_blank">Shotcut 25.10 Video Editor Rolling Out More AI-Powered Functionality</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-10 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/ubuntu-logo-flatpak-logo-on-boxes.jpg?resize=406%2C232&amp;ssl=1" alt="Flatpak Doesn’t Work in Ubuntu 25.10, But a Fix is Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/flatpak-broken-ubuntu-25-10-apparmor-bug" target="_blank">Flatpak Doesn’t Work in Ubuntu 25.10, But a Fix is Coming</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-10 00:33</span>
             </div>
         </div>
 </div>
@@ -293,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
