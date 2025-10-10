@@ -1,38 +1,48 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 12:02:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-10 13:08:44 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 39 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +58,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/oct/10/baby-giant-tortoises-thrive-seychelles-first-successful-artificial-incubation" target="_blank">Baby giant tortoises thrive in Seychelles after first successful artificial incubation</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/gaza-ceasefire_1760094510034_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Ceasefire in effect as IDF repositions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Ceasefire in effect as IDF repositions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-10 11:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +112,20 @@
                 <span class="time">2025-10-10 10:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b586/live/1609fe70-a5b6-11f0-92db-77261a15b9d2.jpg" alt="US to send 200 troops to Israel to monitor Gaza ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpvl97r4e8jo?at_medium=RSS&at_campaign=rss" target="_blank">US to send 200 troops to Israel to monitor Gaza ceasefire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-10 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/takaichis-bid-as-japans-1st-female-pm-in-doubt-as-ruling-coalition-splits?traffic_source=rss" target="_blank">Takaichi’s bid as Japan’s 1st female PM in doubt as ruling coalition splits</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 09:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ng-2-roll-1-500x500.jpg" alt="Rocket Report: Bezos’ firm will package satellites for launch; Starship on deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/rocket-report-bezos-firm-will-package-satellites-for-launch-starship-on-deck/" target="_blank">Rocket Report: Bezos’ firm will package satellites for launch; Starship on deck</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-10 12:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/earthquake-detection-500x500.jpg" alt="“Like putting on glasses for the first time”—how AI improves earthquake detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +171,29 @@
                 <span class="time">2025-10-09 23:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-500x500.jpg" alt="Childhood vaccines safe for a little longer as CDC cancels advisory meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/" target="_blank">Childhood vaccines safe for a little longer as CDC cancels advisory meeting</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-09 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/davidraviv/how-a-3-day-hike-on-the-camino-de-santiago-led-me-to-build-my-own-mapping-tool-3a0d" target="_blank">How a 3-Day Hike on the Camino de Santiago Led Me to Build My Own Mapping Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="OpenAI DevDay 2025 introduces GPT-5 Pro API, Agent Kit, and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/openai-dev-day/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI DevDay 2025 introduces GPT-5 Pro API, Agent Kit, and more</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-10 12:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687876&w=600" alt="Building Realistic Test Data in Java: A Hands-On Guide for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,29 +230,38 @@
                 <span class="time">2025-10-10 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Hyper-V" target="_blank">Microsoft Hyper-V Support Further Improved With Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-10 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyrkjyxgb1gbvxoomnvq2.png" alt="How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/strapi/how-to-migrate-from-sanity-to-strapi-complete-step-by-step-guide-16nm" target="_blank">How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/BARB_Image_01_1500x1125-1-1280x960.jpg" alt="MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mindseye-development-leslie-benzies-gta-bugs-union-layoffs-2000633983" target="_blank">MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-10 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/ExoMars_TGO_catches_dust_devils_on_Mars-1280x853.jpg" alt="20 Years Worth of Mars Weather Data Reveals the Red Planet Is Way Windier Than We Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/20-years-worth-of-mars-weather-data-reveals-red-planet-way-windier-2000670479" target="_blank">20 Years Worth of Mars Weather Data Reveals the Red Planet Is Way Windier Than We Thought</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/jane-goodall.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A 1987 Far Side cartoon sparked outrage from the Jane Goodall Institute, until Goodall herself saw it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/10/a-1987-far-side-cartoon-sparked-outrage-from-the-jane-goodall-institute-until-goodall-herself-saw-it.html" target="_blank">A 1987 Far Side cartoon sparked outrage from the Jane Goodall Institute, until Goodall herself saw it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-10 12:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/pratt.jpg" alt="It’s Like Chris Pratt Saw 2025’s Worst Film And Said ‘Hold My Beer’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -250,33 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/10/authoritarian-trump-loses-peace-prize-to-antifascist-venezuelan-maria-corina-machado.html" target="_blank">Authoritarian Trump loses peace prize to antifascist</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-10 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/sora-2-app-1280x853.jpg" alt="How to Unblock OpenAI’s Sora 2 If You’re Outside the US and Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/how-to-unblock-openais-sora-2-if-youre-outside-the-us-and-canada-2000633962" target="_blank">How to Unblock OpenAI’s Sora 2 If You’re Outside the US and Canada</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-10 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Spider-Man-Andrew-Garfield-2-1280x853.jpg" alt="Andrew Garfield Really Wants You to Stop Asking Him About ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/andrew-garfield-really-wants-you-to-stop-asking-him-about-avengers-doomsday-2000670767" target="_blank">Andrew Garfield Really Wants You to Stop Asking Him About ‘Avengers: Doomsday’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-09 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/nycc-2025-mobile-suit-gundam-hathaway-circe-trailer-1280x853.jpg" alt="The Long-Awaited ‘Mobile Suit Gundam: Hathaway’ Sequel Hits Japan in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gundam-hathaway-2-trailer-sorcery-of-nymph-circe-nycc-2025-2000670699" target="_blank">The Long-Awaited ‘Mobile Suit Gundam: Hathaway’ Sequel Hits Japan in January</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-09 22:06</span>
             </div>
         </div>
 </div>
@@ -307,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
