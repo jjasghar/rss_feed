@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 17:01:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-10-10 18:02:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +58,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-palestinians-israel_7047582.jpg?20251010172522" alt="Hamas official thanks Donald Trump for peace deal - but tells Sky News Tony Blair not welcome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hamas-official-thanks-donald-trump-for-peace-deal-but-warns-tony-blair-not-welcome-13448166" target="_blank">Hamas official thanks Donald Trump for peace deal - but tells Sky News Tony Blair not welcome</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-10 14:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -85,20 +93,29 @@
                 <span class="time">2025-10-10 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/gaza-ceasefire_1760094510034_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Ceasefire in effect as IDF repositions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Ceasefire in effect as IDF repositions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-10 11:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-90066564-500x500.jpg" alt="Termite farmers fine-tune their weed control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/" target="_blank">Termite farmers fine-tune their weed control</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-10 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale" target="_blank">You can still snag LG’s C4 OLED TV at half the price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-10 17:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-500x500.jpg" alt="UK antitrust regulator takes aim at Google’s search dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +152,20 @@
                 <span class="time">2025-10-10 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel" target="_blank">So much for Ford and GM’s scheme to extend the EV tax credit</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-10 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Chevrolet-Bolt-2027-Pack-500x500.jpg" alt="It’s back! The 2027 Chevy Bolt gets an all-new LFP battery, but what else?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/its-back-the-2027-chevy-bolt-gets-an-all-new-lfp-battery-but-what-else/" target="_blank">It’s back! The 2027 Chevy Bolt gets an all-new LFP battery, but what else?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18689067&w=600" alt="Diving into JNI: My Messy Adventures With C++ in Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/diving-into-jni-my-messy-adventures-with-c-in-andr" target="_blank">Diving into JNI: My Messy Adventures With C++ in Android</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-10 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18690879&w=600" alt="Long-Running Durable Agents With Spring AI and Dapr Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +211,6 @@
                 <span class="time">2025-10-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frm0it9oroc4gi5czwcgg.png" alt="How static analysis encourages developers to refactor code: Another look at Source SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pvsdev/how-static-analysis-encourages-developers-to-refactor-code-another-look-at-source-sdk-2mjn" target="_blank">How static analysis encourages developers to refactor code: Another look at Source SDK</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 14:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +230,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K77BV2XJQVJW82FT2M7GHG8B/hero-image.jpg" alt="Watch Out for Fake Sora Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/watch-out-for-fake-sora-apps?utm_medium=RSS" target="_blank">Watch Out for Fake Sora Apps</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-10 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/Samsung-Project-Moohan-Image-Hero-1280x853.jpg" alt="How Does Samsung’s First VR Headset Compare to the Vision Pro? These Leaks May Tell Us Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-does-samsungs-first-vr-headset-compare-to-the-vision-pro-these-leaks-may-tell-us-everything-2000670956" target="_blank">How Does Samsung’s First VR Headset Compare to the Vision Pro? These Leaks May Tell Us Everything</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-10 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/beavisandbutthead.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Beavis and Butt-Head discover AI, immediately start rooting for the apocalypse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/10/beavis-and-butt-head-discover-ai-immediately-start-rooting-for-the-apocalypse.html" target="_blank">Beavis and Butt-Head discover AI, immediately start rooting for the apocalypse</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-10 17:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Jeff-Bridges-1280x853.jpg" alt="Let’s Talk About the Ending, and End Credits, of ‘Tron: Ares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,33 +282,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/garmin-run-coach-marathon-training-plans?utm_medium=RSS" target="_blank">Garmin&#x27;s Run Coach Can Help You Train for a Marathon</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-10 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/BARB_Image_01_1500x1125-1-1280x960.jpg" alt="MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mindseye-development-leslie-benzies-gta-bugs-union-layoffs-2000633983" target="_blank">MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-10 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/ExoMars_TGO_catches_dust_devils_on_Mars-1280x853.jpg" alt="20 Years Worth of Mars Weather Data Reveals the Red Planet Is Way Windier Than We Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/20-years-worth-of-mars-weather-data-reveals-red-planet-way-windier-2000670479" target="_blank">20 Years Worth of Mars Weather Data Reveals the Red Planet Is Way Windier Than We Thought</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/jane-goodall.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A 1987 Far Side cartoon sparked outrage from the Jane Goodall Institute, until Goodall herself saw it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/10/a-1987-far-side-cartoon-sparked-outrage-from-the-jane-goodall-institute-until-goodall-herself-saw-it.html" target="_blank">A 1987 Far Side cartoon sparked outrage from the Jane Goodall Institute, until Goodall herself saw it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-10 12:46</span>
             </div>
         </div>
 </div>
@@ -313,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
