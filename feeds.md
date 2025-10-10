@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 08:02:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-10 09:01:46 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/taiwan-leader-promises-robust-air-defence-system-amid-rising-china-tensions?traffic_source=rss" target="_blank">Taiwan leader promises robust air defence system amid rising China tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 08:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,7 +83,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5570600/perus-impeachment-trial-boluarte" target="_blank">Peru&#x27;s Congress votes to initiate impeachment trial of President Boluarte</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5570600/peru-impeachment-trial-boluarte" target="_blank">Peru&#x27;s Congress removes President Boluarte as a crime wave grips the country</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-10 05:11</span>
             </div>
@@ -87,19 +91,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/belgian-police-arrest-three-for-plotting-drone-attack-on-prime-minister?traffic_source=rss" target="_blank">Belgian police arrest three for plotting drone attack on prime minister</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/complete-list-of-nobel-peace-prize-winners-1901?traffic_source=rss" target="_blank">Complete list of Nobel Peace Prize winners (1901–2024)</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 02:52</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5570600/perus-impeachment-trial-boluarte" target="_blank">Peru&#x27;s Congress votes to initiate impeachment trial of President Boluarte</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-10 05:11</span>
             </div>
         </div>
 </div>
@@ -170,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aman_hussain_shaikh/react-natives-hidden-gem-usememo-usecallback-stop-re-rendering-everything-1fnp" target="_blank">React Native&#x27;s Hidden Gem: useMemo &amp; useCallback - Stop Re-rendering Everything! 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-5097" target="_blank">CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-10 08:00</span>
@@ -182,6 +186,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/" target="_blank">Vite is like the United Nations of JavaScript</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-10-10 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/" target="_blank">I Switched from Htmx to Datastar</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-10 06:49</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +213,6 @@
                 <span class="title"><a href="https://arxiv.org/abs/2505.20296" target="_blank">Reasoning LLMs are wandering solution explorers</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-10 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/antony_brahin_f47b663f3a0/ai-accelerates-global-expansion-and-addresses-critical-challenges-3cp2" target="_blank">Daily AI Digest</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ezvcz3ybh0623aolnsi.png" alt="Controlling Concurrency in Go with the Semaphore Pattern" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/siffiyan_assauri_51ec6d1b/controlling-concurrency-in-go-with-the-semaphore-pattern-24in" target="_blank">Controlling Concurrency in Go with the Semaphore Pattern</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 02:18</span>
             </div>
         </div>
 </div>
@@ -307,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
