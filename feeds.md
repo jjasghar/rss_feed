@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 14:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 15:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/343f/live/f5763790-a5e3-11f0-92db-77261a15b9d2.jpg" alt="Man guilty of threatening to kill Nigel Farage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdx216n1529o?at_medium=RSS&at_campaign=rss" target="_blank">Man guilty of threatening to kill Nigel Farage</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-10 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/10/machados-nobel-is-terrific-news-for-democracy-in-venezuela?traffic_source=rss" target="_blank">Machado’s Nobel is “terrific news” for democracy in Venezuela</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 14:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/10/g-s1-92542/contaminated-cough-syrup-children-dying-criminal" target="_blank">More than 20 kids in India have died from contaminated cough syrup. Who&#x27;s to blame?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-10 14:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +98,20 @@
                 <span class="time">2025-10-10 11:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760095635356_tdy_news_7a_engel_israel_hamas_peace_251010_1920x1080-ex3wf8.jpg" alt="Israel Says Ceasefire Is in Effect as Troops Pull Back From Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israeli-military-says-ceasefire-in-effect-as-troops-begin-withdrawal-249627205930" target="_blank">Israel Says Ceasefire Is in Effect as Troops Pull Back From Gaza</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-10 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/10/g-s1-92895/up-first-newsletter-israel-gaza-peace-deal-letitia-james" target="_blank">Israel and Hamas prepare for hostage exchange. And, the DOJ indicts Letitia James</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-10 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b9a/live/275b3230-a5bf-11f0-b741-177e3e2c2fc7.jpg" alt="No plans to send UK troops to monitor Gaza ceasefire, says Cooper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pek0lz6mo?at_medium=RSS&at_campaign=rss" target="_blank">No plans to send UK troops to monitor Gaza ceasefire, says Cooper</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-10 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel" target="_blank">So much for Ford and GM’s scheme to extend the EV tax credit</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-10 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Chevrolet-Bolt-2027-Pack-500x500.jpg" alt="It’s back! The 2027 Chevy Bolt gets an all-new LFP battery, but what else?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +157,29 @@
                 <span class="time">2025-10-10 09:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/" target="_blank">Shutdown silver lining? Your IPO review comes after investors buy in</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-10 04:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18688321&w=600" alt="Stop React Native Crashes: A Production-Ready Error Handling Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/react-native-error-handling-guide" target="_blank">Stop React Native Crashes: A Production-Ready Error Handling Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-10 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frm0it9oroc4gi5czwcgg.png" alt="How static analysis encourages developers to refactor code: Another look at Source SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pvsdev/how-static-analysis-encourages-developers-to-refactor-code-another-look-at-source-sdk-2mjn" target="_blank">How static analysis encourages developers to refactor code: Another look at Source SDK</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/openai-dev-day/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI DevDay 2025 introduces GPT-5 Pro API, Agent Kit, and more</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-10 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html" target="_blank">Igalia, Servo, and the Sovereign Tech Fund</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-10 12:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687876&w=600" alt="Building Realistic Test Data in Java: A Hands-On Guide for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-realistic-test-data-in-java-with-datafake" target="_blank">Building Realistic Test Data in Java: A Hands-On Guide for Developers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-10 12:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
