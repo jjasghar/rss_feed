@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-09 23:01:38 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-10 00:04:49 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, October 09, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +53,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/9/ecuadors-noboa-faces-escalating-protests-over-rise-in-diesel-costs?traffic_source=rss" target="_blank">Ecuador’s Noboa faces escalating protests over rise in diesel costs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-09 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/9/us-buys-argentinian-pesos-finalises-20bn-currency-swap-says-us-treasury?traffic_source=rss" target="_blank">US buys Argentinian pesos, finalises $20bn currency swap, says US Treasury</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-09 22:21</span>
@@ -59,6 +74,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/trump-appointed-prosecutor-seeks-indictment-new-york-ag/story?id=126378516" target="_blank">New York AG Letitia James indicted for alleged fraud following pressure from Trump</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-09 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/09/nx-s1-5569817/dominion-voting-liberty-vote-false-claims" target="_blank">Dominion, the voting tech company at the center of false 2020 claims, is sold</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-09 21:32</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/09/g-s1-92729/gaza-ceasefire-israel-hamas-next-steps" target="_blank">Once the Gaza ceasefire goes into effect, what happens next? Here&#x27;s what to know</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-09 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/10/9/will-hamas-agree-to-hand-over-its-weapons-as-part-of-a-gaza-ceasefire-deal?traffic_source=rss" target="_blank">Will Hamas agree to hand over its weapons as part of a Gaza ceasefire deal?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-09 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/9/celebrate-the-ceasefire-but-dont-forget-gaza-survived-on-its-own?traffic_source=rss" target="_blank">Celebrate the ceasefire, but don’t forget: Gaza survived on its own</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-09 19:27</span>
             </div>
         </div>
 </div>
@@ -174,6 +180,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Kan-Liang-Leaving-Intel" target="_blank">Intel&#x27;s Lead Engineer For Linux Performance Monitoring Is Leaving The Company</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-09 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-5-Panther-Lake-Linux" target="_blank">Linux Driver Support Ready For Intel Panther Lake&#x27;s NPU 5</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-09 19:49</span>
@@ -206,15 +221,6 @@
                 <span class="time">2025-10-09 18:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/data-commons-mcp-server/en/headerimage/data-commons-mcp-server-1760030760718.jpeg" alt="The New Data Commons MCP Server Unlocks a Wealth of Public Datasets for AI Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/data-commons-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The New Data Commons MCP Server Unlocks a Wealth of Public Datasets for AI Developers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-09 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -239,6 +245,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Cleaner-Kit-for-iOS-Premium-Plan-1.jpg?fit=1300%2C867&amp;quality=60&amp;ssl=1" alt="An AI-powered iPhone cleaner for just $25 — the lowest price it&#x27;s ever been" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/09/an-ai-powered-iphone-cleaner-for-just-25-the-lowest-price-its-ever-been.html" target="_blank">An AI-powered iPhone cleaner for just $25 — the lowest price it&#x27;s ever been</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-09 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K755BATM7WXDNAD52864ZJNA/hero-image.jpg" alt="This Trend Is Making It Even Harder to Tell When a Video Is AI-Generated" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -248,30 +263,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/arcmain-1280x720.jpg" alt="Arc Raiders Is Trying To Fix One Of The Most Frustrating Things About Extraction Shooters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-extraction-pvpve-progression-wipe-loot-2000633739" target="_blank">Arc Raiders Is Trying To Fix One Of The Most Frustrating Things About Extraction Shooters</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-09 20:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/naked-mole-rat-1280x853.jpg" alt="Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/some-naked-mole-rats-are-just-born-to-clean-toilets-study-suggests-2000670578" target="_blank">Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-09 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/FFT-Frogs.jpg" alt="The Secret Behind The Fastest XP/JP Grind In Final Fantasy Tactics? Frogs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-guide-xp-jp-grind-tips-2000633724" target="_blank">The Secret Behind The Fastest XP/JP Grind In Final Fantasy Tactics? Frogs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-09 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K705NQ4WHE52WK9YBSP94TMY/hero-image.png" alt="The Best Prime Day Tech Deals Under $100 That Are Still Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-under-100-october-prime-day-2025?utm_medium=RSS" target="_blank">The Best Prime Day Tech Deals Under $100 That Are Still Available</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 19:32</span>
             </div>
         </div>
 </div>
@@ -297,22 +303,13 @@
                 <span class="time">2025-10-09 00:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/08/the-blessing-part-two" target="_blank">The Blessing, Part Two</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-08 23:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
