@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 15:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-10 16:02:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +109,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mr-beasts-ai-fears-but-admits-society-will-have-to-adjust/" target="_blank">Instagram head Adam Mosseri pushes back on Mr. Beast’s AI fears, but admits society will have to adjust</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-10 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a7a913ababd253d6b1768f/master/pass/Google%20Pixel%2010%20Series%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best Google Pixel Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-google-pixel-phone/" target="_blank">The Best Google Pixel Phones of 2025, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-10 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji" target="_blank">Apple&amp;#8217;s executive reshuffling isn&amp;#8217;t over</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-10 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel" target="_blank">So much for Ford and GM’s scheme to extend the EV tax credit</a></span>
                 <span class="feed">The Verge</span>
@@ -130,38 +160,20 @@
                 <span class="time">2025-10-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ng-2-roll-1-500x500.jpg" alt="Rocket Report: Bezos’ firm will package satellites for launch; Starship on deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/rocket-report-bezos-firm-will-package-satellites-for-launch-starship-on-deck/" target="_blank">Rocket Report: Bezos’ firm will package satellites for launch; Starship on deck</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-10 12:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/earthquake-detection-500x500.jpg" alt="“Like putting on glasses for the first time”—how AI improves earthquake detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/" target="_blank">“Like putting on glasses for the first time”—how AI improves earthquake detection</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection" target="_blank">Copilot on Windows can now create Office documents and connect to Gmail</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-10 09:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18689065&w=600" alt="Introduction to Spring Data Elasticsearch 5.5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/guide-to-spring-data-elasticsearch-upgrade" target="_blank">Introduction to Spring Data Elasticsearch 5.5</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-10 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18688321&w=600" alt="Stop React Native Crashes: A Production-Ready Error Handling Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/rag-vllm/en/mediumimage/stephen-batifol-medium-1758016495689.jpg" alt="Presentation: Deploy MultiModal RAG Systems with vLLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/rag-vllm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Deploy MultiModal RAG Systems with vLLM</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-10 14:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/python-314-benchmarks" target="_blank">Python 3.14 Performance Looking Good In Benchmarks</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-10 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davidraviv/how-a-3-day-hike-on-the-camino-de-santiago-led-me-to-build-my-own-mapping-tool-3a0d" target="_blank">How a 3-Day Hike on the Camino de Santiago Led Me to Build My Own Mapping Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="OpenAI DevDay 2025 introduces GPT-5 Pro API, Agent Kit, and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/openai-dev-day/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI DevDay 2025 introduces GPT-5 Pro API, Agent Kit, and more</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-10 12:36</span>
             </div>
         </div>
 </div>
@@ -235,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/SolarReview-1280x853.jpg" alt="We Are Gonna Miss the Crass, Clueless, Hilarious ‘Solar Opposites’ Aliens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/we-are-gonna-miss-the-crass-clueless-hilarious-solar-opposites-aliens-2000666449" target="_blank">We Are Gonna Miss the Crass, Clueless, Hilarious ‘Solar Opposites’ Aliens</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-10 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K779KY2A80E6ZBAA5VYE3K2K/hero-image.png" alt="Garmin&#x27;s Run Coach Can Help You Train for a Marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-run-coach-marathon-training-plans?utm_medium=RSS" target="_blank">Garmin&#x27;s Run Coach Can Help You Train for a Marathon</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-10 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/BARB_Image_01_1500x1125-1-1280x960.jpg" alt="MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +292,20 @@
                 <span class="time">2025-10-10 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HHEFZ0JEENMQ9P24RNYSX/hero-image.jpg" alt="Use the &#x27;Production Effect&#x27; to Study More Effectively" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123?utm_medium=RSS" target="_blank">Use the &#x27;Production Effect&#x27; to Study More Effectively</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/trump.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Authoritarian Trump loses peace prize to antifascist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/10/authoritarian-trump-loses-peace-prize-to-antifascist-venezuelan-maria-corina-machado.html" target="_blank">Authoritarian Trump loses peace prize to antifascist</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-10 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1760073065-20251010.png" alt="Saturday Morning Breakfast Cereal - Measurement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/measurement" target="_blank">Saturday Morning Breakfast Cereal - Measurement</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-10 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -303,22 +315,13 @@
                 <span class="time">2025-10-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1759809286-20251009.png" alt="Saturday Morning Breakfast Cereal - Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/life-7" target="_blank">Saturday Morning Breakfast Cereal - Life</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
