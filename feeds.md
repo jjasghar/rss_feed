@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 10:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 11:01:40 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 10:01 UTC</div>
+    <div class="newspaper-date">Friday, October 10, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b9a/live/275b3230-a5bf-11f0-b741-177e3e2c2fc7.jpg" alt="No plans to send UK troops to monitor Gaza ceasefire, says Cooper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pek0lz6mo?at_medium=RSS&at_campaign=rss" target="_blank">No plans to send UK troops to monitor Gaza ceasefire, says Cooper</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-10 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/takaichis-bid-as-japans-1st-female-pm-in-doubt-as-ruling-coalition-splits?traffic_source=rss" target="_blank">Takaichi’s bid as Japan’s 1st female PM in doubt as ruling coalition splits</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-10 09:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/10/drc-calls-eu-minerals-deal-rwanda-obvious-double-standard" target="_blank">DRC says EU’s minerals deal with Rwanda is ‘obvious double standard’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-10 09:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/10/taiwan-leader-promises-robust-air-defence-system-amid-rising-china-tensions?traffic_source=rss" target="_blank">Taiwan leader promises robust air defence system amid rising China tensions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-10 08:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/10/attacks-on-gaza-continue-after-israel-agrees-ceasefire?traffic_source=rss" target="_blank">Attacks on Gaza continue after Israel agrees ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 07:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/10/israeli-pm-netanyahu-thanks-trump-and-us-team-for-ceasefire-role?traffic_source=rss" target="_blank">Israeli PM Netanyahu thanks Trump and US team for ceasefire role</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/10/childrens-drawings-in-gaza-reveal-extent-of-trauma?traffic_source=rss" target="_blank">Children’s drawings in Gaza reveal extent of trauma</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 05:48</span>
             </div>
         </div>
 </div>
@@ -165,6 +162,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18687866&w=600" alt="Securing HTTPS From the Inside Out: Preventing Client-Side Interception Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/securing-https-client-side-interception" target="_blank">Securing HTTPS From the Inside Out: Preventing Client-Side Interception Attacks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-10 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Hyper-V" target="_blank">Microsoft Hyper-V Support Further Improved With Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-10 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyrkjyxgb1gbvxoomnvq2.png" alt="How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/strapi/how-to-migrate-from-sanity-to-strapi-complete-step-by-step-guide-16nm" target="_blank">How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/github-embedding-model/en/headerimage/generatedHeaderImage-1759941081682.jpg" alt="GitHub Introduces New Embedding Model to Improve Code Search and Context" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/github-embedding-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Introduces New Embedding Model to Improve Code Search and Context</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-10 10:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F78fk7wqhv34ezcahgf7u.jpg" alt="Why Memorizing Scripture May Be Doing the Opposite of What You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -182,47 +215,20 @@
                 <span class="time">2025-10-10 09:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aman_hussain_shaikh/react-natives-hidden-gem-usememo-usecallback-stop-re-rendering-everything-1fnp" target="_blank">React Native&#x27;s Hidden Gem: useMemo &amp; useCallback - Stop Re-rendering Everything! 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-5097" target="_blank">CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/" target="_blank">Vite is like the United Nations of JavaScript</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-10 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/" target="_blank">I Switched from Htmx to Datastar</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-10 06:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/sora-2-app-1280x853.jpg" alt="How to Unblock OpenAI’s Sora 2 If You’re Outside the US and Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/how-to-unblock-openais-sora-2-if-youre-outside-the-us-and-canada-2000633962" target="_blank">How to Unblock OpenAI’s Sora 2 If You’re Outside the US and Canada</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-10 10:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Spider-Man-Andrew-Garfield-2-1280x853.jpg" alt="Andrew Garfield Really Wants You to Stop Asking Him About ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +274,6 @@
                 <span class="time">2025-10-09 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K755BATM7WXDNAD52864ZJNA/hero-image.jpg" alt="This Trend Is Making It Even Harder to Tell When a Video Is AI-Generated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/those-ai-videos-might-actually-be-real?utm_medium=RSS" target="_blank">This Trend Is Making It Even Harder to Tell When a Video Is AI-Generated</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-09 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
