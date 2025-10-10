@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 22:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-10 23:01:28 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, October 10, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +63,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4a8/live/924c08f0-a626-11f0-928c-71dbb8619e94.jpg" alt="Ceasefire comes into force as Israel&#x27;s military pulls out of parts of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjw7jp2pxnpo?at_medium=RSS&at_campaign=rss" target="_blank">Ceasefire comes into force as Israel&#x27;s military pulls out of parts of Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-10 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-us-president_7047359.jpg?20251010044418" alt="Trump threatens to impose additional 100% tariff on &#x27;extraordinarily aggressive&#x27; China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/donald-trump-threatens-to-impose-additional-100-tariff-on-extraordinarily-aggressive-china-13448404" target="_blank">Trump threatens to impose additional 100% tariff on &#x27;extraordinarily aggressive&#x27; China</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-10 20:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -78,29 +98,20 @@
                 <span class="time">2025-10-10 19:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/10/nx-s1-5549181/cumbia-in-peru" target="_blank">Peru: Chicha Cumbia, the electric pulse of Lima</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-10 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251010-Russ-Vought-Donald-Trump-ch-1349-0bb8e3.jpg" alt="Trump administration begins &#x27;substantial&#x27; federal worker layoffs amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trumps-budget-director-says-layoffs-begun-government-shutdown-rcna236923" target="_blank">Trump administration begins &#x27;substantial&#x27; federal worker layoffs amid shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-10 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2177324845-500x500.jpg" alt="Trump admin fires more health employees amid government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/" target="_blank">Trump admin fires more health employees amid government shutdown</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-10 21:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2177324845-500x500.jpg" alt="More federal health employees axed amid shutdown-linked terminations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +157,20 @@
                 <span class="time">2025-10-10 19:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/" target="_blank">Google Chrome silences those pesky notifications</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-10 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o" target="_blank">50 Most Useful SASS Snippets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-10 22:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,30 +199,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18690090&w=600" alt="Infusing AI into Your Java Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/infusing-ai-into-your-java-applications" target="_blank">Infusing AI into Your Java Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-10 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://orb.net/blog/does-speed-make-wifi-suck" target="_blank">Does our “need for speed” make our wi-fi suck?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-10 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mubby042/data-in-everyday-life-15j1" target="_blank">Data in Everyday Life</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Default-Disable-TPM2-HMAC" target="_blank">Linux Now Disabling TPM Bus Encryption By Default For Performance Reasons</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-10 18:45</span>
             </div>
         </div>
 </div>
@@ -242,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/bose-headphones-quietcomfort-1280x853.jpg" alt="Bose Is Quietly Selling Its QC Headphones at a New Record Low After Prime Day to Clear Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bose-is-quietly-selling-its-qc-headphones-at-a-new-record-low-after-prime-day-to-clear-out-stock-2000634117" target="_blank">Bose Is Quietly Selling Its QC Headphones at a New Record Low After Prime Day to Clear Out Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-10 22:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/12/67716c5284ac31bad67a3833640cd656.jpg" alt="Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/scientists-realize-that-magic-mushrooms-psilocybin-are-even-weirder-than-we-thought-2000671048" target="_blank">Scientists Realize That Magic Mushrooms Are Even Weirder Than We Thought</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/dairy-queen-e1756843225988.jpg?fit=768%2C511&amp;quality=60&amp;ssl=1" alt="Dairy Queen Blizzard ends armed standoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/10/dairy-queen-blizzard-ends-armed-standoff.html" target="_blank">Dairy Queen Blizzard ends armed standoff</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-10 17:33</span>
             </div>
         </div>
 </div>
@@ -342,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
