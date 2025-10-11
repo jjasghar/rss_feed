@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 13:05:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 14:01:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 13:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571877/luigi-mangione-federal-charges" target="_blank">Luigi Mangione&#x27;s lawyers seek a dismissal of federal charges in CEO killing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-11 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2025/10/11/global-warning-our-future-in-a-warmer-world?traffic_source=rss" target="_blank">Global Warning: Our future in a warmer world</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-11 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760185600150_tdy_sat_tsirkin_government_shutdown_251011_1920x1080-yydmvj.jpg" alt="White House Lays Off Thousands of Workers Amid Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-lays-off-more-than-4-000-workers-as-shutdown-continues-249700933736" target="_blank">White House Lays Off Thousands of Workers Amid Shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-11 12:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875a/live/bdbd1de0-a68e-11f0-a40c-1b117f97bd40.jpg" alt="Hamas presses Israel to free prominent prisoners as part of Gaza deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +106,6 @@
                 <span class="time">2025-10-11 12:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-roei-mapal_7048315.jpg?20251011121057" alt="&#x27;Longing for you is only getting bigger&#x27;: Nova festival survivor dies two years after girlfriend killed by Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/nova-festival-survivor-dies-two-years-after-girlfriend-shot-dead-as-he-shielded-her-13448509" target="_blank">&#x27;Longing for you is only getting bigger&#x27;: Nova festival survivor dies two years after girlfriend killed by Hamas</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-11 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-roei-mapal_7048315.jpg?20251011121057" alt="October 7 survivor dies two years after girlfriend shot dead by Hamas at Nova Festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/october-7-survivor-dies-two-years-after-his-girlfriend-was-shot-dead-by-hamas-at-nova-festival-13448509" target="_blank">October 7 survivor dies two years after girlfriend shot dead by Hamas at Nova Festival</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-11 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5570093/columbus-day-trump-proclamation" target="_blank">Trump issues a Columbus Day proclamation to &#x27;reclaim&#x27; the explorer&#x27;s legacy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-11 10:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,9 +115,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/798491/frog-portland-trump-national-guard" target="_blank">American politics has devolved into shitposting and aura farming</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc" target="_blank">Dreams of Another feels like a fever dream</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/2f017ee4c36a46e81f80d56890b7b64fc257272d-1400x1260-1-500x500.png" alt="Why doesn’t Cards Against Humanity print its game in the US? It’s complicated." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/10/why-doesnt-cards-against-humanity-print-its-game-in-the-us-its-complicated/" target="_blank">Why doesn’t Cards Against Humanity print its game in the US? It’s complicated.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e96bf77c192a1493f91916/master/pass/IMG_1898.JPG" alt="Lenovo Yoga Pro 9i 16 Review: A True MacBook Pro Rival?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/lenovo-yoga-pro-9i-16/" target="_blank">Lenovo Yoga Pro 9i 16 Review: A True MacBook Pro Rival?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-11 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -134,38 +165,20 @@
                 <span class="time">2025-10-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e97463badb1063e7a47cfb/master/pass/sec-roundup-nso-1734166570.jpg" alt="&#x27;Happy Gilmore&#x27; Producer Buys Spyware Maker NSO Group" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/" target="_blank">&#x27;Happy Gilmore&#x27; Producer Buys Spyware Maker NSO Group</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-11 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/" target="_blank">The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-11 06:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e695fa3e16cd01c7c6c7a5/master/pass/2025%20Chevrolet%20Corvette%20E-Ray.jpg" alt="Corvette E-Ray 2026 Review: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/corvette-e-ray/" target="_blank">Corvette E-Ray 2026 Review: Price, Specs, Availability</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-11 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/satyam_gupta_0d1ff2152dcc/java-operators-explained-a-complete-guide-for-beginners-pros-3245" target="_blank">Java Operators Explained: A Complete Guide for Beginners &amp; Pros</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 13:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/akshay161099/strategy-design-pattern-in-java-3402" target="_blank">Strategy Design Pattern in Java</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://denodell.com/blog/html-best-kept-secret-output-tag" target="_blank">The &lt;output&gt; Tag</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-11 08:27</span>
             </div>
         </div>
 </div>
@@ -339,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 13:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
