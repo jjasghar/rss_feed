@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 12:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 13:05:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 13:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875a/live/bdbd1de0-a68e-11f0-a40c-1b117f97bd40.jpg" alt="Hamas presses Israel to free prominent prisoners as part of Gaza deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd727d2ne42o?at_medium=RSS&at_campaign=rss" target="_blank">Hamas presses Israel to free prominent prisoners as part of Gaza deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-11 12:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/uk-us-nato-flew-12-hour-patrol-on-russian-border-amid-ukraine-war?traffic_source=rss" target="_blank">UK, US, NATO flew 12-hour patrol on Russian border amid Ukraine war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-11 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/11/militia-drone-strike-kills-people-at-displacement-shelter-in-sudan-says-local-group" target="_blank">Militia strikes kill at least 60 in Sudan displacement camp, says El Fasher group</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-11 12:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-roei-mapal_7048315.jpg?20251011121057" alt="&#x27;Longing for you is only getting bigger&#x27;: Nova festival survivor dies two years after girlfriend killed by Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/nova-festival-survivor-dies-two-years-after-girlfriend-shot-dead-as-he-shielded-her-13448509" target="_blank">&#x27;Longing for you is only getting bigger&#x27;: Nova festival survivor dies two years after girlfriend killed by Hamas</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-11 10:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-roei-mapal_7048315.jpg?20251011121057" alt="October 7 survivor dies two years after girlfriend shot dead by Hamas at Nova Festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,47 +102,20 @@
                 <span class="time">2025-10-11 10:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/11/g-s1-93117/israel-strikes-south-lebanon" target="_blank">Israel strikes south Lebanon, killing 1 and wounding 7</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-11 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/11/militia-drone-strike-kills-people-at-displacement-shelter-in-sudan-says-local-group" target="_blank">Militia drone strike kills at least 30 in Sudan displacement camp, says El Fasher group</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-11 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/shutdown-11-ap-gmh-251007_1759867371507_hpMain_4x3t_384.jpg" alt="How Affordable Care Act subsidies became a sticking point in the government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/affordable-care-act-subsidies-sticking-point-government-shutdown/story?id=126322841" target="_blank">How Affordable Care Act subsidies became a sticking point in the government shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-11 09:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/first-us-flight-with-third-country-deportees-arrives-in-guatemala?traffic_source=rss" target="_blank">First US flight with third-country deportees arrives in Guatemala</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-11 09:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc" target="_blank">Dreams of Another feels like a fever dream</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-11 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,29 @@
                 <span class="time">2025-10-11 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/" target="_blank">Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-11 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sindhuja_ns_1e491ce1088d/ai268-developing-deploying-aiml-on-openshift-ai-with-exam-21kj" target="_blank">AI268: Developing &amp; Deploying AI/ML on OpenShift AI (with Exam)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/planetscale-metal-postgres/en/headerimage/generatedHeaderImage-1759146706464.jpg" alt="PlanetScale Extends Database Platform to PostgreSQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/planetscale-metal-postgres/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PlanetScale Extends Database Platform to PostgreSQL</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-11 11:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsf1j17vw3ucws341qrei.png" alt="Groups in Filament v4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,27 +215,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://denodell.com/blog/html-best-kept-secret-output-tag" target="_blank">HTML&#x27;s Best Kept Secret: The Output Tag</a></span>
+                <span class="title"><a href="https://denodell.com/blog/html-best-kept-secret-output-tag" target="_blank">The &lt;output&gt; Tag</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-11 08:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7u95xdhl4jb1io6uktv.png" alt="[Tutorial] Procedural Voronoi Texture generation in WGPU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/the_lone_engineer/tutorial-procedural-voronoi-texture-generation-in-wgpu-1b3k" target="_blank">[Tutorial] Procedural Voronoi Texture generation in WGPU</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica" target="_blank">From Dashboards to Decisions: Building Self Service BI That Scales with AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 06:52</span>
             </div>
         </div>
 </div>
@@ -243,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Sagittarius-A-winds-1280x853.jpg" alt="After Decades of Searching, Scientists Make a Major Breakthrough in the Mystery Surrounding Our Galaxy’s Black Hole" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-find-evidence-missing-wind-milky-way-black-hole-sagittarius-2000669979" target="_blank">After Decades of Searching, Scientists Make a Major Breakthrough in the Mystery Surrounding Our Galaxy’s Black Hole</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-11 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Screenshot-2025-10-10-at-1.25.28 PM-1280x853.jpg" alt="Police Say People Keep Calling 911 Over an ‘AI Homeless Man’ TikTok Prank" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +302,6 @@
                 <span class="time">2025-10-10 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/12/67716c5284ac31bad67a3833640cd656.jpg" alt="Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114" target="_blank">Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-10 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 13:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
