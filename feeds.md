@@ -1,42 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 14:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-11 15:02:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/11/g-s1-92962/photos-celebrate-the-glory-of-girls-on-international-day-of-the-girl" target="_blank">Photos celebrate the glory of girls on &#x27;International Day of the Girl&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-11 14:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +90,20 @@
                 <span class="time">2025-10-11 12:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/11/militia-drone-strike-kills-people-at-displacement-shelter-in-sudan-says-local-group" target="_blank">Militia strikes kill at least 60 in Sudan displacement camp, says El Fasher group</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-11 12:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e99cf09d25ef2d2c8e8f80/master/pass/Amazfit_TRex3Pro.jpg" alt="Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn&#x27;t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/amazfit-t-rex-3-pro/" target="_blank">Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn&#x27;t Work</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-11 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +149,6 @@
                 <span class="time">2025-10-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e926c7737745a89b1d76da/master/pass/girlfriend-amazonprime.jpg" alt="The 26 Best Shows on Amazon Prime Right Now (October 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-shows-amazon-prime/" target="_blank">The 26 Best Shows on Amazon Prime Right Now (October 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,9 +158,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/igornosatov_15/redis-the-unsung-hero-of-modern-software-architecture-1866" target="_blank">Redis: The Unsung Hero of Modern Software Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/satyam_gupta_0d1ff2152dcc/java-operators-explained-a-complete-guide-for-beginners-pros-3245" target="_blank">Java Operators Explained: A Complete Guide for Beginners &amp; Pros</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-XPU-Manager-1.3.3" target="_blank">Intel XPU Manager Deprecates Data Center GPU Max Series &amp; GPU Flex Series</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-11 13:43</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +206,6 @@
                 <span class="title"><a href="https://dev.to/johndivam/groups-in-filament-v4-3m6k" target="_blank">Groups in Filament v4</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-P-State-Simplify-Energy" target="_blank">Intel Simplifying P-State Driver&#x27;s Energy Model For Newer Core Ultra CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-11 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjdsisyus8hqody4sdi5.jpg" alt="Strategy Design Pattern in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/akshay161099/strategy-design-pattern-in-java-3402" target="_blank">Strategy Design Pattern in Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 09:49</span>
             </div>
         </div>
 </div>
@@ -343,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
