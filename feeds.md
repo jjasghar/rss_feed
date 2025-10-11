@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 16:01:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-11 17:01:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571892/leland-mississippi-shooting-homecoming" target="_blank">4 dead and 12 injured in a shooting after Mississippi homecoming game</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-11 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,20 @@
                 <span class="time">2025-10-11 12:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875a/live/bdbd1de0-a68e-11f0-a40c-1b117f97bd40.jpg" alt="Hamas presses Israel to free prominent prisoners as part of Gaza deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd727d2ne42o?at_medium=RSS&at_campaign=rss" target="_blank">Hamas presses Israel to free prominent prisoners as part of Gaza deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-11 12:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time" target="_blank">How The Verge and our readers manage kids’ screen time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-11 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e9b87ec0302e94e78e3629/master/pass/Update-%20The%20Best%20Carpet%20Cleaners.png" alt="6 Best Carpet Cleaners (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +158,6 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/culture/2025/10/why-doesnt-cards-against-humanity-print-its-game-in-the-us-its-complicated/" target="_blank">Why doesn’t Cards Against Humanity print its game in the US? It’s complicated.</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e96bf77c192a1493f91916/master/pass/IMG_1898.JPG" alt="Lenovo Yoga Pro 9i 16 Review: A True MacBook Pro Rival?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lenovo-yoga-pro-9i-16/" target="_blank">Lenovo Yoga Pro 9i 16 Review: A True MacBook Pro Rival?</a></span>
-                <span class="feed">WIRED</span>
                 <span class="time">2025-10-11 12:00</span>
             </div>
         </div>
@@ -227,15 +232,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html" target="_blank">Friday Squid Blogging: Sperm Whale Eating a Giant Squid</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-10-10 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/" target="_blank">DDoS Botnet Aisuru Blankets US ISPs in Record DDoS</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-10-10 16:10</span>
             </div>
         </div>
 </div>
@@ -325,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
