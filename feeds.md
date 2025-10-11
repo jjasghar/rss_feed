@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 06:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 07:01:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -116,6 +110,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/" target="_blank">The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-11 06:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e695fa3e16cd01c7c6c7a5/master/pass/2025%20Chevrolet%20Corvette%20E-Ray.jpg" alt="Corvette E-Ray 2026 Review: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/corvette-e-ray/" target="_blank">Corvette E-Ray 2026 Review: Price, Specs, Availability</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-11 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/" target="_blank">Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-11 00:37</span>
@@ -148,29 +160,20 @@
                 <span class="time">2025-10-10 21:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police" target="_blank">OpenAI allegedly sent police to an AI regulation advocate’s door</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-10 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/" target="_blank">Why Deloitte is betting big on AI despite a $10M refund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-10 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica" target="_blank">From Dashboards to Decisions: Building Self Service BI That Scales with AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 06:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/" target="_blank">AMD and Sony&#x27;s PS6 chipset aims to rethink the current graphics pipeline</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-11 04:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdb6mexhdf2rv5okvfasg.png" alt="I Built a Tool-Calling AI From Scratch, and Here&#x27;s What the Bugs Taught Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/pressgrup_presidency_e07d/st-clements-education-and-prof-dr-bilal-semih-bozdemir-10hi" target="_blank">St Clements Education and Prof. Dr. Bilal Semih Bozdemir</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 02:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/llama-cpp/" target="_blank">I Switched From Ollama And LM Studio To llama.cpp And Absolutely Loving It</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-11 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-1geb" target="_blank">COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 02:11</span>
             </div>
         </div>
 </div>
@@ -348,22 +342,13 @@
                 <span class="time">2025-10-10 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/10/the-blessing-part-three" target="_blank">The Blessing, Part Three</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-10 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
