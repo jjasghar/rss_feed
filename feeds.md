@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 21:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 22:01:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/no-survivors-found-after-tennessee-explosives-plant-blast?traffic_source=rss" target="_blank">No survivors found after Tennessee explosives plant blast</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-11 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-yalda-hakim-dr-basem-naim_6917512.jpg?20250515173912" alt="My Hamas leader interview was a glimpse into the unpredictable and unbelievable world of global politics right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/my-glimpse-behind-the-curtain-into-the-unpredictable-and-frankly-unbelievable-world-of-global-politics-right-now-13448736" target="_blank">My Hamas leader interview was a glimpse into the unpredictable and unbelievable world of global politics right now</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-11 17:58</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Critical CDC departments hit with layoffs: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-11 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571892/leland-mississippi-shooting-homecoming" target="_blank">4 dead and 12 injured in a shooting after Mississippi homecoming game</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-11 16:32</span>
             </div>
         </div>
 </div>
@@ -195,6 +190,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Retpoline-Opt" target="_blank">Linux 6.18 Lands Retpoline Optimization To Help With Intel E Cores</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-11 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zakriakhanx/the-tech-stack-thats-dying-in-2025-stop-wasting-time-on-it-1k57" target="_blank">The Tech Stack That&#x27;s Dying in 2025 (Stop Wasting Time on It)</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,34 +214,20 @@
                 <span class="time">2025-10-11 15:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.gnuhealth.org/about-us.html" target="_blank">GNU Health</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-11 15:47</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html" target="_blank">Friday Squid Blogging: Sperm Whale Eating a Giant Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-10 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/fire-tv-soundbar-amazon-2-1280x853.jpg" alt="Fire TV Soundbar Is Selling for Pennies Post Prime Day, Now 5x Less Than Sony or Bose Rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fire-tv-soundbar-is-selling-for-pennies-post-prime-day-now-5x-less-than-sony-or-bose-rivals-2000634427" target="_blank">Fire TV Soundbar Is Selling for Pennies Post Prime Day, Now 5x Less Than Sony or Bose Rivals</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-11 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/nycc-2025-star-wars-books-comics-leia-rey-jar-jar-1280x853.jpg" alt="The Future of ‘Star Wars’ Publishing Has Leia, Love, and Jar Jar Binks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +273,6 @@
                 <span class="time">2025-10-11 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Screenshot-2025-10-10-at-1.25.28 PM-1280x853.jpg" alt="Police Say People Keep Calling 911 Over an ‘AI Homeless Man’ TikTok Prank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/police-say-people-keep-calling-911-over-an-ai-homeless-man-tiktok-prank-2000671130" target="_blank">Police Say People Keep Calling 911 Over an ‘AI Homeless Man’ TikTok Prank</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
