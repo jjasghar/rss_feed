@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 04:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 05:01:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 04:02 UTC</div>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/10/11/which-artists-are-speaking-up-about-palestine?traffic_source=rss" target="_blank">Which artists are speaking up about Palestine?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-11 04:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/vought-2-gty-gmh-251010_1760115622922_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Over 4,000 federal workers sent layoff notices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-mass-government-layoffs-will-be-democrat-oriented-249669701671" target="_blank">Trump says mass government layoffs will be &#x27;Democrat oriented&#x27;</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-10 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/10/g-s1-93066/france-government-prime-minister-lecornu-macron" target="_blank">Macron puts Lecornu back as France&#x27;s prime minister just days after he quit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-10 21:23</span>
             </div>
         </div>
 </div>
@@ -168,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-just-killed-traditional-coding-heres-whats-next-4pia" target="_blank">AI Just Killed Traditional Coding - Here&#x27;s What&#x27;s Next</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 04:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/" target="_blank">Why it took 4 years to get a lock files specification</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-11 04:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdb6mexhdf2rv5okvfasg.png" alt="I Built a Tool-Calling AI From Scratch, and Here&#x27;s What the Bugs Taught Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-1geb" target="_blank">COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 02:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-25.09-Released" target="_blank">Coreboot 25.09 Released With 19 More Motherboards Supported, Better amdfwtool For Turin</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-11 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/" target="_blank">Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-10 23:13</span>
             </div>
         </div>
 </div>
@@ -358,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
