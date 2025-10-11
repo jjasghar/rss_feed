@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 01:28:47 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-11 02:24:08 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 01:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 02:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/vought-2-gty-gmh-251010_1760115622922_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Over 4,000 federal workers sent layoff notices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Over 4,000 federal workers sent layoff notices</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-11 00:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/massive-explosion-at-tennessee-munitions-factory-leaves-19-people-missing?traffic_source=rss" target="_blank">Massive explosion at Tennessee munitions factory leaves 19 people missing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-11 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/10/nx-s1-5571070/astrazeneca-trump-drug-prices" target="_blank">AstraZeneca makes deal with White House to lower drug prices</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-10 23:21</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/10/gymnastics-governing-body-reacts-to-indonesias-worlds-block-on-israel-team?traffic_source=rss" target="_blank">Gymnastics governing body reacts to Indonesia’s worlds block on Israel team</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-10 21:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4a8/live/924c08f0-a626-11f0-928c-71dbb8619e94.jpg" alt="Ceasefire comes into force as Israel&#x27;s military pulls out of parts of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjw7jp2pxnpo?at_medium=RSS&at_campaign=rss" target="_blank">Ceasefire comes into force as Israel&#x27;s military pulls out of parts of Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-10 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-us-president_7047359.jpg?20251010044418" alt="Trump threatens to impose additional 100% tariff on &#x27;extraordinarily aggressive&#x27; China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-threatens-to-impose-additional-100-tariff-on-extraordinarily-aggressive-china-13448404" target="_blank">Trump threatens to impose additional 100% tariff on &#x27;extraordinarily aggressive&#x27; China</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-10 20:57</span>
             </div>
         </div>
 </div>
@@ -163,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-1geb" target="_blank">COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 02:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/" target="_blank">Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -205,15 +218,6 @@
                 <span class="time">2025-10-10 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18690090&w=600" alt="Infusing AI into Your Java Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/infusing-ai-into-your-java-applications" target="_blank">Infusing AI into Your Java Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-10 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/galaxy-buds-3-pro-are-going-for-pennies-the-new-airpods-pro-cant-compete-at-full-price-2000634125" target="_blank">Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-11 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Interview-with-the-vampire-amc-1280x853.jpg" alt="‘The Vampire Lestat’ Takes a Bite Out of New York Comic Con With a First Look Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-vampire-lestat-takes-a-bite-out-of-new-york-comic-con-with-a-first-look-video-2000669899" target="_blank">‘The Vampire Lestat’ Takes a Bite Out of New York Comic Con With a First Look Video</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-11 00:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/jackery-power-station-1280x853.jpg" alt="Jackery’s 1500W Power Station Is Cheaper Than During Prime Day, Looks Like Amazon’s Selling at Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/walmart-announces-competition-sale-to-rival-prime-day?utm_medium=RSS" target="_blank">The Best Tech Deals From Walmart ‘Deals’ Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/wonder-man-1280x720.jpg" alt="Marvel’s Wonder Man Trailer Knows You’re Getting Bored With Superheroes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-wonder-man-trailer-disney-mcu-2000634087" target="_blank">Marvel’s Wonder Man Trailer Knows You’re Getting Bored With Superheroes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-10 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K77NZH47JV190KT14JG1XSYW/hero-image.jpg" alt="70,000 Discord Users May Have Had Their Government IDs Exposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/discord-suffered-a-major-hack?utm_medium=RSS" target="_blank">70,000 Discord Users May Have Had Their Government IDs Exposed</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-10 20:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 01:28 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 02:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
