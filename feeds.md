@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 19:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 20:02:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/no-survivors-found-after-tennessee-explosives-plant-blast?traffic_source=rss" target="_blank">No survivors found after Tennessee explosives plant blast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-11 19:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/cff02cb0-a6c4-11f0-92db-77261a15b9d2.jpg" alt="Paedophile singer Ian Watkins dies after prison attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +100,29 @@
                 <span class="time">2025-10-11 16:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/11/live-portugal-vs-republic-of-ireland-uefa-world-cup-qualifier?traffic_source=rss" target="_blank">LIVE: Portugal vs Republic of Ireland – UEFA World Cup qualifier</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-11 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app" target="_blank">Apple ends support for Clips video-editing app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-11 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/" target="_blank">Thinking Machines Lab co-founder Andrew Tulloch heads to Meta</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-11 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +159,29 @@
                 <span class="time">2025-10-11 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/798491/frog-portland-trump-national-guard" target="_blank">American politics has devolved into shitposting and aura farming</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc" target="_blank">Dreams of Another feels like a fever dream</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-11 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/claude-sonnet-4-5/en/headerimage/GettyImages-832282452-1760155937421.jpeg" alt="Claude Sonnet 4.5 Tops SWE-Bench Verified, Extends Coding Focus Beyond 30 Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/claude-sonnet-4-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Sonnet 4.5 Tops SWE-Bench Verified, Extends Coding Focus Beyond 30 Hours</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-11 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ilham-bouktir/understanding-html-meta-tags-a-complete-guide-14lo" target="_blank">Understanding HTML Meta Tags: A Complete Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 19:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/igornosatov_15/redis-the-unsung-hero-of-modern-software-architecture-1866" target="_blank">Redis: The Unsung Hero of Modern Software Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/satyam_gupta_0d1ff2152dcc/java-operators-explained-a-complete-guide-for-beginners-pros-3245" target="_blank">Java Operators Explained: A Complete Guide for Beginners &amp; Pros</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-XPU-Manager-1.3.3" target="_blank">Intel XPU Manager Deprecates Data Center GPU Max Series &amp; GPU Flex Series</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-11 13:43</span>
             </div>
         </div>
 </div>
@@ -321,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
