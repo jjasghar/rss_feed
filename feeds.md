@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 02:24:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 03:09:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 02:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 03:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,9 +171,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pressgrup_presidency_e07d/st-clements-education-and-prof-dr-bilal-semih-bozdemir-10hi" target="_blank">St Clements Education and Prof. Dr. Bilal Semih Bozdemir</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 02:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/llama-cpp/" target="_blank">I Switched From Ollama And LM Studio To llama.cpp And Absolutely Loving It</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-11 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-1geb" target="_blank">COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 02:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-25.09-Released" target="_blank">Coreboot 25.09 Released With 19 More Motherboards Supported, Better amdfwtool For Turin</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-11 00:23</span>
             </div>
         </div>
 <div class="story">
@@ -191,38 +221,20 @@
                 <span class="time">2025-10-10 22:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ian_b838138a27a917398d181/python-basics-day-01-222m" target="_blank">Python basics - Day 01</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nngroup.com/articles/liquid-glass/" target="_blank">Liquid Glass Is Cracked, and Usability Suffers in iOS 26</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-10 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nairsreya/zkp-2o8j" target="_blank">ZKP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html" target="_blank">Friday Squid Blogging: Sperm Whale Eating a Giant Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-10 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -308,6 +320,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/11/the-blessing-part-three" target="_blank">The Blessing, Part Three</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-11 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/second-floor/" target="_blank">Second Floor</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -346,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 02:24 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
