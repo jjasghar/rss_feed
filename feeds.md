@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 22:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-11 23:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 22:01 UTC</div>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571541/nobel-winner-machado-venezuela-maduro" target="_blank">Nobel Prize winner Machado says Venezuela is in &#x27;chaos&#x27; under current regime</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-11 21:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +98,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/oct/11/soldiers-from-elite-capsat-unit-join-protests-against-madagascars-president" target="_blank">Soldiers from elite Capsat unit join protests against Madagascar’s president</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-10-11 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/cdc-hq-atlanta-georgia-file-reuters-200_hpMain_20200921-090038_2_4x3t_384.jpg" alt="Government shutdown updates: Critical CDC departments hit with layoffs: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Critical CDC departments hit with layoffs: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-11 17:27</span>
             </div>
         </div>
 </div>
@@ -161,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://data-star.dev/essays/greedy_developer" target="_blank">Datastar response to allegations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-11 21:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F18254%2Fc3e65d32-bfe2-48ed-93b3-f2caf9c60dd7.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/zakriakhanx/the-tech-stack-thats-dying-in-2025-stop-wasting-time-on-it-1k57" target="_blank">The Tech Stack That&#x27;s Dying in 2025 (Stop Wasting Time on It)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nvelup_e92618d5196e8d9f43/how-small-daily-habits-improve-mental-health-nimh-backed-self-care-strategies-56nf" target="_blank">🧠 How Small Daily Habits Improve Mental Health (NIMH-Backed Self-Care Strategies)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 15:49</span>
             </div>
         </div>
 </div>
@@ -301,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
