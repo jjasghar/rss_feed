@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 11:01:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 12:02:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-roei-mapal_7048315.jpg?20251011121057" alt="October 7 survivor dies two years after girlfriend shot dead by Hamas at Nova Festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/october-7-survivor-dies-two-years-after-his-girlfriend-was-shot-dead-by-hamas-at-nova-festival-13448509" target="_blank">October 7 survivor dies two years after girlfriend shot dead by Hamas at Nova Festival</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-11 10:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2025-10-11 09:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/11/g-s1-93113/trump-threatens-100-tariff-chinese-imports" target="_blank">Trump threatens tech export limits, new 100% tariff on Chinese imports</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-11 07:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/798613/coros-nomad-thru-hike-rucking" target="_blank">Is the Coros Nomad really an adventure watch?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68e926c7737745a89b1d76da/master/pass/girlfriend-amazonprime.jpg" alt="The 26 Best Shows on Amazon Prime Right Now (October 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-shows-amazon-prime/" target="_blank">The 26 Best Shows on Amazon Prime Right Now (October 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e97463badb1063e7a47cfb/master/pass/sec-roundup-nso-1734166570.jpg" alt="&#x27;Happy Gilmore&#x27; Producer Buys Spyware Maker NSO Group" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/" target="_blank">Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-11 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner" target="_blank">Hollywood has no idea what to do about AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-10 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2177324845-500x500.jpg" alt="Trump admin fires more health employees amid government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/" target="_blank">Trump admin fires more health employees amid government shutdown</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-10 21:48</span>
             </div>
         </div>
 </div>
@@ -237,15 +236,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/" target="_blank">DDoS Botnet Aisuru Blankets US ISPs in Record DDoS</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2025-10-10 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/autonomous-ai-hacking-and-the-future-of-cybersecurity.html" target="_blank">Autonomous AI Hacking and the Future of Cybersecurity</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-10 11:06</span>
             </div>
         </div>
 </div>
@@ -344,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
