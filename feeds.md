@@ -1,26 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 15:02:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 16:01:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/11/live-portugal-vs-republic-of-ireland-uefa-world-cup-qualifier?traffic_source=rss" target="_blank">LIVE: Portugal vs Republic of Ireland – UEFA World Cup qualifier</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-11 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +97,20 @@
                 <span class="time">2025-10-11 12:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/uk-us-nato-flew-12-hour-patrol-on-russian-border-amid-ukraine-war?traffic_source=rss" target="_blank">UK, US, NATO flew 12-hour patrol on Russian border amid Ukraine war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-11 12:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e9b87ec0302e94e78e3629/master/pass/Update-%20The%20Best%20Carpet%20Cleaners.png" alt="6 Best Carpet Cleaners (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-carpet-cleaner/" target="_blank">6 Best Carpet Cleaners (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-11 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e99cf09d25ef2d2c8e8f80/master/pass/Amazfit_TRex3Pro.jpg" alt="Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn&#x27;t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,20 +156,20 @@
                 <span class="time">2025-10-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/798613/coros-nomad-thru-hike-rucking" target="_blank">Is the Coros Nomad really an adventure watch?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-11 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nvelup_e92618d5196e8d9f43/how-small-daily-habits-improve-mental-health-nimh-backed-self-care-strategies-56nf" target="_blank">🧠 How Small Daily Habits Improve Mental Health (NIMH-Backed Self-Care Strategies)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 15:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +215,6 @@
                 <span class="time">2025-10-11 11:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsf1j17vw3ucws341qrei.png" alt="Groups in Filament v4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johndivam/groups-in-filament-v4-3m6k" target="_blank">Groups in Filament v4</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +244,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2402350653-1-1280x853.jpg" alt="The Destruction in Gaza Is What the Future of AI Warfare Looks Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-destruction-in-gaza-is-what-the-future-of-ai-warfare-looks-like-2000669559" target="_blank">The Destruction in Gaza Is What the Future of AI Warfare Looks Like</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Save 83% on Microsoft Office Pro 2021 for Windows with free training lessons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/11/save-83-on-microsoft-office-pro-2021-for-windows-with-free-training-lessons.html" target="_blank">Save 83% on Microsoft Office Pro 2021 for Windows with free training lessons</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/hp-17-laptop-access-1280x853.jpg" alt="HP 17-Inch Laptop with Windows 11 Pro Is $1,560 Off, Now Going for Pennies Right After Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-17-inch-laptop-with-windows-11-pro-is-1560-off-now-going-for-pennies-right-after-prime-day-2000634417" target="_blank">HP 17-Inch Laptop with Windows 11 Pro Is $1,560 Off, Now Going for Pennies Right After Prime Day</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-11 13:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Sagittarius-A-winds-1280x853.jpg" alt="After Decades of Searching, Scientists Make a Major Breakthrough in the Mystery Surrounding Our Galaxy’s Black Hole" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -263,38 +297,20 @@
                 <span class="time">2025-10-11 00:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Interview-with-the-vampire-amc-1280x853.jpg" alt="‘The Vampire Lestat’ Takes a Bite Out of New York Comic Con With a First Look Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-vampire-lestat-takes-a-bite-out-of-new-york-comic-con-with-a-first-look-video-2000669899" target="_blank">‘The Vampire Lestat’ Takes a Bite Out of New York Comic Con With a First Look Video</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-11 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/jackery-power-station-1280x853.jpg" alt="Jackery’s 1500W Power Station Is Cheaper Than During Prime Day, Looks Like Amazon’s Selling at Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jackerys-1500w-power-station-is-cheaper-than-during-prime-day-looks-like-amazons-selling-at-cost-2000634122" target="_blank">Jackery’s 1500W Power Station Is Cheaper Than During Prime Day, Looks Like Amazon’s Selling at Cost</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-10 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/bose-headphones-quietcomfort-1280x853.jpg" alt="Bose Is Quietly Selling Its QC Headphones at a New Record Low After Prime Day to Clear Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bose-is-quietly-selling-its-qc-headphones-at-a-new-record-low-after-prime-day-to-clear-out-stock-2000634117" target="_blank">Bose Is Quietly Selling Its QC Headphones at a New Record Low After Prime Day to Clear Out Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-10 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1760073146-20251011.png" alt="Saturday Morning Breakfast Cereal - Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/much" target="_blank">Saturday Morning Breakfast Cereal - Much</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-11 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -304,31 +320,13 @@
                 <span class="time">2025-10-11 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/second-floor/" target="_blank">Second Floor</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-10-10 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1760073065-20251010.png" alt="Saturday Morning Breakfast Cereal - Measurement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/measurement" target="_blank">Saturday Morning Breakfast Cereal - Measurement</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
