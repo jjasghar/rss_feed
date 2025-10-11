@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 10:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-10-11 11:01:24 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5570093/columbus-day-trump-proclamation" target="_blank">Trump issues a Columbus Day proclamation to &#x27;reclaim&#x27; the explorer&#x27;s legacy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-11 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/11/g-s1-93117/israel-strikes-south-lebanon" target="_blank">Israel strikes south Lebanon, killing 1 and wounding 7</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-11 09:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/11/militia-drone-strike-kills-people-at-displacement-shelter-in-sudan-says-local-group" target="_blank">Militia drone strike kills at least 30 in Sudan displacement camp, says El Fasher group</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-11 09:27</span>
             </div>
         </div>
 <div class="story">
@@ -88,29 +98,20 @@
                 <span class="time">2025-10-11 07:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/11/what-children-in-gaza-are-saying-about-the-ceasefire?traffic_source=rss" target="_blank">What children in Gaza are saying about the ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-11 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/10/11/which-artists-are-speaking-up-about-palestine?traffic_source=rss" target="_blank">Which artists are speaking up about Palestine?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-11 04:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e97463badb1063e7a47cfb/master/pass/sec-roundup-nso-1734166570.jpg" alt="&#x27;Happy Gilmore&#x27; Producer Buys Spyware Maker NSO Group" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/" target="_blank">&#x27;Happy Gilmore&#x27; Producer Buys Spyware Maker NSO Group</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-11 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +157,29 @@
                 <span class="time">2025-10-10 21:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2177324845-500x500.jpg" alt="More federal health employees axed amid shutdown-linked terminations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/" target="_blank">More federal health employees axed amid shutdown-linked terminations</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-10 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsf1j17vw3ucws341qrei.png" alt="Groups in Filament v4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johndivam/groups-in-filament-v4-3m6k" target="_blank">Groups in Filament v4</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-P-State-Simplify-Energy" target="_blank">Intel Simplifying P-State Driver&#x27;s Energy Model For Newer Core Ultra CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-11 10:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjdsisyus8hqody4sdi5.jpg" alt="Strategy Design Pattern in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica" target="_blank">From Dashboards to Decisions: Building Self Service BI That Scales with AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/codemender/en/headerimage/generatedHeaderImage-1760116725961.jpg" alt="Google DeepMind Introduces CodeMender, an AI Agent for Automated Code Repair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/codemender/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Introduces CodeMender, an AI Agent for Automated Code Repair</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-11 06:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-just-killed-traditional-coding-heres-whats-next-4pia" target="_blank">AI Just Killed Traditional Coding - Here&#x27;s What&#x27;s Next</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 04:58</span>
             </div>
         </div>
 </div>
@@ -261,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Screenshot-2025-10-10-at-1.25.28 PM-1280x853.jpg" alt="Police Say People Keep Calling 911 Over an ‘AI Homeless Man’ TikTok Prank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/police-say-people-keep-calling-911-over-an-ai-homeless-man-tiktok-prank-2000671130" target="_blank">Police Say People Keep Calling 911 Over an ‘AI Homeless Man’ TikTok Prank</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -306,15 +307,6 @@
                 <span class="time">2025-10-10 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Apple-MacBook-Pro-13.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Get a MacBook Pro without the full-price headache — 78% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/10/get-a-macbook-pro-without-the-full-price-headache-78-off.html" target="_blank">Get a MacBook Pro without the full-price headache — 78% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-10 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -352,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
