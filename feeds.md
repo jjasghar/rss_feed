@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-10 23:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 00:04:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, October 10, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760135651028_now_brk_trump_layoffs_dem_251010_1920x1080-7di7k2.jpg" alt="Trump says mass government layoffs will be &#x27;Democrat oriented&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-mass-government-layoffs-will-be-democrat-oriented-249669701671" target="_blank">Trump says mass government layoffs will be &#x27;Democrat oriented&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-10 22:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/10/nx-s1-5550398/national-guard-memphis-tennessee-trump" target="_blank">National Guard troops begin patrols in Memphis</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-10 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760125295713_now_daily_b_alcindor_layoffs_begin_251010_1920x1080-zoq5aa.jpg" alt="White House begins laying off federal workers amid government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-begins-laying-off-federal-workers-amid-government-shutdown-249658437878" target="_blank">White House begins laying off federal workers amid government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-10 19:41</span>
             </div>
         </div>
 </div>
@@ -165,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/" target="_blank">Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-10 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o" target="_blank">50 Most Useful SASS Snippets</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +211,6 @@
                 <span class="time">2025-10-10 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://orb.net/blog/does-speed-make-wifi-suck" target="_blank">Does our “need for speed” make our wi-fi suck?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-10 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/jackery-power-station-1280x853.jpg" alt="Jackery’s 1500W Power Station Is Cheaper Than During Prime Day, Looks Like Amazon’s Selling at Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jackerys-1500w-power-station-is-cheaper-than-during-prime-day-looks-like-amazons-selling-at-cost-2000634122" target="_blank">Jackery’s 1500W Power Station Is Cheaper Than During Prime Day, Looks Like Amazon’s Selling at Cost</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-10 23:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/bose-headphones-quietcomfort-1280x853.jpg" alt="Bose Is Quietly Selling Its QC Headphones at a New Record Low After Prime Day to Clear Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -263,6 +267,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5VSEPJATEPSBQ4C2FPRNVFY/hero-image.png" alt="The Best Tech Deals From Walmart ‘Deals’ Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/walmart-announces-competition-sale-to-rival-prime-day?utm_medium=RSS" target="_blank">The Best Tech Deals From Walmart ‘Deals’ Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-10 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/wonder-man-1280x720.jpg" alt="Marvel’s Wonder Man Trailer Knows You’re Getting Bored With Superheroes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,24 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/discord-suffered-a-major-hack?utm_medium=RSS" target="_blank">70,000 Discord Users May Have Had Their Government IDs Exposed</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/SDCC_StarTrek_Nacelle_Spock-1280x853.jpg" alt="Spock and Picard Beam Aboard Nacelle’s Ever-Growing ‘Star Trek’ Figure Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spock-and-picard-beam-aboard-nacelles-ever-growing-star-trek-figure-collection-2000671112" target="_blank">Spock and Picard Beam Aboard Nacelle’s Ever-Growing ‘Star Trek’ Figure Collection</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/magicmushrooms-1280x853.jpg" alt="Scientists Realize That Magic Mushrooms Are Even Weirder Than We Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-realize-that-magic-mushrooms-psilocybin-are-even-weirder-than-we-thought-2000671048" target="_blank">Scientists Realize That Magic Mushrooms Are Even Weirder Than We Thought</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-10 19:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
