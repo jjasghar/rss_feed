@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 07:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 08:01:48 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/11/g-s1-93113/trump-threatens-100-tariff-chinese-imports" target="_blank">Trump threatens tech export limits, new 100% tariff on Chinese imports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-11 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/11/what-children-in-gaza-are-saying-about-the-ceasefire?traffic_source=rss" target="_blank">What children in Gaza are saying about the ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-11 06:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/10/nx-s1-5571070/astrazeneca-trump-drug-prices" target="_blank">AstraZeneca makes deal with White House to lower drug prices</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-10 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/76292040-a5d1-11f0-b98a-8b079c99c55e.jpg" alt="Surge in Chagos arrivals prompts row over housing costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd721j8390zo?at_medium=RSS&at_campaign=rss" target="_blank">Surge in Chagos arrivals prompts row over housing costs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-10 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760135651028_now_brk_trump_layoffs_dem_251010_1920x1080-7di7k2.jpg" alt="Trump says mass government layoffs will be &#x27;Democrat oriented&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-mass-government-layoffs-will-be-democrat-oriented-249669701671" target="_blank">Trump says mass government layoffs will be &#x27;Democrat oriented&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-10 22:34</span>
             </div>
         </div>
 </div>
@@ -166,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7u95xdhl4jb1io6uktv.png" alt="[Tutorial] Procedural Voronoi Texture generation in WGPU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/the_lone_engineer/tutorial-procedural-voronoi-texture-generation-in-wgpu-1b3k" target="_blank">[Tutorial] Procedural Voronoi Texture generation in WGPU</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 07:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica" target="_blank">From Dashboards to Decisions: Building Self Service BI That Scales with AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 06:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/codemender/en/headerimage/generatedHeaderImage-1760116725961.jpg" alt="Google DeepMind Introduces CodeMender, an AI Agent for Automated Code Repair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/codemender/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Introduces CodeMender, an AI Agent for Automated Code Repair</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-11 06:05</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/" target="_blank">AMD and Sony&#x27;s PS6 chipset aims to rethink the current graphics pipeline</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-11 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdb6mexhdf2rv5okvfasg.png" alt="I Built a Tool-Calling AI From Scratch, and Here&#x27;s What the Bugs Taught Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bharathbattu/i-built-a-tool-calling-ai-from-scratch-and-heres-what-the-bugs-taught-me-23ip" target="_blank">I Built a Tool-Calling AI From Scratch, and Here&#x27;s What the Bugs Taught Me</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pressgrup_presidency_e07d/st-clements-education-and-prof-dr-bilal-semih-bozdemir-10hi" target="_blank">St Clements Education and Prof. Dr. Bilal Semih Bozdemir</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 02:38</span>
             </div>
         </div>
 </div>
@@ -347,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
