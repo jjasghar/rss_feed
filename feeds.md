@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 17:01:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-11 18:01:51 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/cff02cb0-a6c4-11f0-92db-77261a15b9d2.jpg" alt="Paedophile singer Ian Watkins dies after prison attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2d2me0eljo?at_medium=RSS&at_campaign=rss" target="_blank">Paedophile singer Ian Watkins dies after prison attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-11 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/cdc-hq-atlanta-georgia-file-reuters-200_hpMain_20200921-090038_2_4x3t_384.jpg" alt="Government shutdown updates: Critical CDC departments hit with layoffs: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Critical CDC departments hit with layoffs: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-11 17:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571877/luigi-mangione-federal-charges" target="_blank">Luigi Mangione&#x27;s lawyers seek a dismissal of federal charges in CEO killing</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-11 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2025/10/11/global-warning-our-future-in-a-warmer-world?traffic_source=rss" target="_blank">Global Warning: Our future in a warmer world</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-11 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760185600150_tdy_sat_tsirkin_government_shutdown_251011_1920x1080-yydmvj.jpg" alt="White House Lays Off Thousands of Workers Amid Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-lays-off-more-than-4-000-workers-as-shutdown-continues-249700933736" target="_blank">White House Lays Off Thousands of Workers Amid Shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-11 12:26</span>
             </div>
         </div>
 </div>
@@ -178,6 +179,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.gnuhealth.org/about-us.html" target="_blank">GNU Health</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-11 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/igornosatov_15/redis-the-unsung-hero-of-modern-software-architecture-1866" target="_blank">Redis: The Unsung Hero of Modern Software Architecture</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +221,6 @@
                 <span class="time">2025-10-11 12:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/planetscale-metal-postgres/en/headerimage/generatedHeaderImage-1759146706464.jpg" alt="PlanetScale Extends Database Platform to PostgreSQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/planetscale-metal-postgres/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PlanetScale Extends Database Platform to PostgreSQL</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-11 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/nycc-2025-star-wars-books-comics-leia-rey-jar-jar-1280x853.jpg" alt="The Future of ‘Star Wars’ Publishing Has Leia, Love, and Jar Jar Binks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nycc-2025-star-wars-books-comics-rey-leia-jar-jar-binks-2000671247" target="_blank">The Future of ‘Star Wars’ Publishing Has Leia, Love, and Jar Jar Binks</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-11 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2402350653-1-1280x853.jpg" alt="The Destruction in Gaza Is What the Future of AI Warfare Looks Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +294,6 @@
                 <span class="time">2025-10-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/galaxy-buds-3-pro-are-going-for-pennies-the-new-airpods-pro-cant-compete-at-full-price-2000634125" target="_blank">Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-11 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
