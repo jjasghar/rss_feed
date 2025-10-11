@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 03:09:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 04:02:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 03:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/76292040-a5d1-11f0-b98a-8b079c99c55e.jpg" alt="Surge in Chagos arrivals prompts row over housing costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd721j8390zo?at_medium=RSS&at_campaign=rss" target="_blank">Surge in Chagos arrivals prompts row over housing costs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-10 23:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760135651028_now_brk_trump_layoffs_dem_251010_1920x1080-7di7k2.jpg" alt="Trump says mass government layoffs will be &#x27;Democrat oriented&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -94,20 +103,20 @@
                 <span class="time">2025-10-10 21:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/10/gymnastics-governing-body-reacts-to-indonesias-worlds-block-on-israel-team?traffic_source=rss" target="_blank">Gymnastics governing body reacts to Indonesia’s worlds block on Israel team</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-10 21:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/" target="_blank">Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-11 00:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +162,20 @@
                 <span class="time">2025-10-10 19:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e81570a68ae1e7a129fd64/master/pass/openai-value-biz-2181653413.jpg" alt="WIRED Roundup: Are We In An AI Bubble?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/" target="_blank">WIRED Roundup: Are We In An AI Bubble?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-10 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdb6mexhdf2rv5okvfasg.png" alt="I Built a Tool-Calling AI From Scratch, and Here&#x27;s What the Bugs Taught Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bharathbattu/i-built-a-tool-calling-ai-from-scratch-and-heres-what-the-bugs-taught-me-23ip" target="_blank">I Built a Tool-Calling AI From Scratch, and Here&#x27;s What the Bugs Taught Me</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 03:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="title"><a href="https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/" target="_blank">Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-10 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o" target="_blank">50 Most Useful SASS Snippets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-10 22:44</span>
             </div>
         </div>
 </div>
@@ -304,11 +304,11 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5VSEPJATEPSBQ4C2FPRNVFY/hero-image.png" alt="The Best Tech Deals From Walmart ‘Deals’ Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Apple-MacBook-Pro-13.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Get a MacBook Pro without the full-price headache — 78% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/walmart-announces-competition-sale-to-rival-prime-day?utm_medium=RSS" target="_blank">The Best Tech Deals From Walmart ‘Deals’ Sale</a></span>
-                <span class="feed">Lifehacker</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/10/get-a-macbook-pro-without-the-full-price-headache-78-off.html" target="_blank">Get a MacBook Pro without the full-price headache — 78% off</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-10 21:00</span>
             </div>
         </div>
@@ -353,22 +353,13 @@
                 <span class="time">2025-10-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/hot_water_balloon.png" alt="Hot Water Balloon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3153/" target="_blank">Hot Water Balloon</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-10-10 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:09 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
