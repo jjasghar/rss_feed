@@ -1,29 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 09:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 10:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/11/g-s1-93117/israel-strikes-south-lebanon" target="_blank">Israel strikes south Lebanon, killing 1 and wounding 7</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-11 09:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/shutdown-11-ap-gmh-251007_1759867371507_hpMain_4x3t_384.jpg" alt="How Affordable Care Act subsidies became a sticking point in the government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/affordable-care-act-subsidies-sticking-point-government-shutdown/story?id=126322841" target="_blank">How Affordable Care Act subsidies became a sticking point in the government shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-11 09:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/first-us-flight-with-third-country-deportees-arrives-in-guatemala?traffic_source=rss" target="_blank">First US flight with third-country deportees arrives in Guatemala</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-11 09:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,33 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/10/11/which-artists-are-speaking-up-about-palestine?traffic_source=rss" target="_blank">Which artists are speaking up about Palestine?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-11 04:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/vought-2-gty-gmh-251010_1760115622922_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Over 4,000 federal workers sent layoff notices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Over 4,000 federal workers sent layoff notices</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-11 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/massive-explosion-at-tennessee-munitions-factory-leaves-19-people-missing?traffic_source=rss" target="_blank">Massive explosion at Tennessee munitions factory leaves 19 people missing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-11 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/10/nx-s1-5571070/astrazeneca-trump-drug-prices" target="_blank">AstraZeneca makes deal with White House to lower drug prices</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-10 23:21</span>
             </div>
         </div>
 </div>
@@ -158,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjdsisyus8hqody4sdi5.jpg" alt="Strategy Design Pattern in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/akshay161099/strategy-design-pattern-in-java-3402" target="_blank">Strategy Design Pattern in Java</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-11 09:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -200,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-just-killed-traditional-coding-heres-whats-next-4pia" target="_blank">AI Just Killed Traditional Coding - Here&#x27;s What&#x27;s Next</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/" target="_blank">Why it took 4 years to get a lock files specification</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-11 04:48</span>
             </div>
         </div>
 </div>
@@ -339,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
