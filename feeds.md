@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-11 08:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-11 09:01:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 1 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, October 11, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, October 11, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://denodell.com/blog/html-best-kept-secret-output-tag" target="_blank">HTML&#x27;s Best Kept Secret: The Output Tag</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-11 08:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7u95xdhl4jb1io6uktv.png" alt="[Tutorial] Procedural Voronoi Texture generation in WGPU" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +209,6 @@
                 <span class="title"><a href="https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/" target="_blank">Why it took 4 years to get a lock files specification</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-11 04:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/" target="_blank">AMD and Sony&#x27;s PS6 chipset aims to rethink the current graphics pipeline</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-11 04:36</span>
             </div>
         </div>
 </div>
@@ -348,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
