@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 22:01:47 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-12 23:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/frances-macron-unveils-new-government-ahead-of-budget-deadline?traffic_source=rss" target="_blank">France’s Macron unveils new government ahead of budget deadline</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Badenoch demands PM address &#x27;unanswered&#x27; China spy case questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch demands PM address &#x27;unanswered&#x27; China spy case questions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-12 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0295/live/f94c5e30-a796-11f0-8c9e-87f67f3eb58c.jpg" alt="Gaza City clashes between Hamas and clan members leave 27 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/b6705660-a7b5-11f0-b741-177e3e2c2fc7.jpg" alt="Clashes erupt between Hamas forces and armed clan members in Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg5e551j593o?at_medium=RSS&at_campaign=rss" target="_blank">Gaza City clashes between Hamas and clan members leave 27 dead</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg5e551j593o?at_medium=RSS&at_campaign=rss" target="_blank">Clashes erupt between Hamas forces and armed clan members in Gaza City</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-12 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572463/vance-administration-keep-fighting-send-national-guard-chicago" target="_blank">Vance says administration will keep fighting to send National Guard to Chicago</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-12 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/far-right-afd-party-may-win-first-german-city-mayor-post-in-run-off-vote?traffic_source=rss" target="_blank">Far-right AfD party may win first German city mayor post in run-off vote</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 18:12</span>
             </div>
         </div>
 </div>
@@ -101,6 +104,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/academy1-500x500.jpg" alt="New Starfleet Academy trailer debuts at NYCC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/10/new-starfleet-academy-trailer-debuts-at-nycc/" target="_blank">New Starfleet Academy trailer debuts at NYCC</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-12 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest" target="_blank">Marvel details upcoming slate of shows at New York Comic Con</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-12 20:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +158,20 @@
                 <span class="time">2025-10-12 15:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685b19d11667e627ae71884e/master/pass/The%20Best%20Cat%20Water%20Fountains.png" alt="8 Best Cat Water Fountains, WIRED Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-cat-water-fountains/" target="_blank">8 Best Cat Water Fountains, WIRED Tested and Reviewed (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-12 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e80dcb34a4e22944e3d3d0/master/pass/Squarespce-source-Squarespace.jpg" alt="4 Best Website Builders (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-website-builders/" target="_blank">4 Best Website Builders (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dorotac.eu/posts/fosswon/" target="_blank">Free software hasn&#x27;t won</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-12 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,20 +217,20 @@
                 <span class="time">2025-10-12 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-tekken-8-official-miary-zo-gameplay-trailer-4m37" target="_blank">IGN: Tekken 8 - Official Miary Zo Gameplay Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/new-york-comic-con-2025-cosplay-day-3-flash-sonic-1280x853.jpg" alt="All the Fantastic Cosplay From New York Comic Con 2025, Day 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nycc-2025-cosplay-gallery-day-3-2000669203" target="_blank">All the Fantastic Cosplay From New York Comic Con 2025, Day 3</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-12 22:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/battle-royale-1280x853.jpg" alt="Cult Classic ‘Battle Royale’ Has Returned to Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -226,6 +238,15 @@
                 <span class="title"><a href="https://gizmodo.com/battle-royale-25th-anniversary-screenings-release-date-2000671627" target="_blank">Cult Classic ‘Battle Royale’ Has Returned to Theaters</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-12 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/recording-studio.jpeg?fit=1500%2C843&amp;quality=60&amp;ssl=1" alt="Modern Time Machines finishes dream pop collaboration with &quot;September&quot; songwriter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/12/modern-time-machines-finishes-dream-pop-collaboration-with-september-songwriter.html" target="_blank">Modern Time Machines finishes dream pop collaboration with &quot;September&quot; songwriter</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-12 19:44</span>
             </div>
         </div>
 <div class="story">
@@ -255,24 +276,6 @@
                 <span class="time">2025-10-12 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Maingear-Apex-Rush-desktop-PC-review-19-1280x853.jpg" alt="Maingear’s Apex Rush Gaming Desktop Makes Laziness Feel So, So Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/maingear-apex-rush-desktop-pc-review-gaming-benchmarks-2000670460" target="_blank">Maingear’s Apex Rush Gaming Desktop Makes Laziness Feel So, So Good</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-1000-1280x853.jpg" alt="This Jackery Power Station Can Save You During Winter Outages, and It’s Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-jackery-power-station-can-save-you-during-winter-outages-and-its-selling-for-pennies-2000634478" target="_blank">This Jackery Power Station Can Save You During Winter Outages, and It’s Selling for Pennies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-12 12:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
