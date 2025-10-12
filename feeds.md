@@ -1,20 +1,12 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 03:15:01 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-12 04:01:52 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
@@ -22,20 +14,16 @@
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 03:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 04:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/seychelless-patrick-herminie-wins-presidential-run-off-election?traffic_source=rss" target="_blank">Seychelles’s Patrick Herminie wins presidential run-off election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 03:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +91,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ce8450380zyo?at_medium=RSS&at_campaign=rss" target="_blank">The women taking Meta to task after their baby loss</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-11 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa50/live/d652b260-a6e9-11f0-928c-71dbb8619e94.jpg" alt="Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss" target="_blank">Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-11 23:12</span>
             </div>
         </div>
 </div>
@@ -173,6 +161,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/om_shree_0709/latest-software-development-news-mid-october-2025-roundup-md3" target="_blank">Latest Software Development News: Mid-October 2025 Roundup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 03:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mechcloud_academy/python-314-has-arrived-a-deep-dive-into-the-new-features-56pn" target="_blank">Python 3.14 Has Arrived: A Deep Dive into the New Features</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-12 02:44</span>
@@ -212,15 +209,6 @@
                 <span class="title"><a href="https://paddedinputs.substack.com/p/meta-superintelligences-surprising" target="_blank">Meta Superintelligence&#x27;s surprising first paper</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-11 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://data-star.dev/essays/greedy_developer" target="_blank">Datastar response to allegations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-11 21:55</span>
             </div>
         </div>
 </div>
@@ -301,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 03:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 04:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
