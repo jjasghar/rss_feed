@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 01:29:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-12 02:27:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 01:29 UTC</div>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/taliban-pakistani-forces-trade-heavy-fire-along-afghanistan-border?traffic_source=rss" target="_blank">Taliban, Pakistani forces trade heavy fire along Afghanistan border</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 01:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +93,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Coding errors blamed for some CDC layoffs, official says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-11 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571541/nobel-winner-machado-venezuela-maduro" target="_blank">Nobel Prize winner Machado says Venezuela is in &#x27;chaos&#x27; under current regime</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-11 21:42</span>
             </div>
         </div>
 </div>
@@ -169,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1phc" target="_blank">COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 02:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb" target="_blank">Determining the Maximum Decimal Digits at Compile-Time</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-12 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PowerVR-Mesa-More-GPUs" target="_blank">Imagination PowerVR Mesa Vulkan Driver Enables Unofficial Support For More GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-12 00:21</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/fmerian/-n16" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/claude-sonnet-4-5/en/headerimage/GettyImages-832282452-1760155937421.jpeg" alt="Claude Sonnet 4.5 Tops SWE-Bench Verified, Extends Coding Focus Beyond 30 Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/claude-sonnet-4-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Sonnet 4.5 Tops SWE-Bench Verified, Extends Coding Focus Beyond 30 Hours</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilham-bouktir/understanding-html-meta-tags-a-complete-guide-14lo" target="_blank">Understanding HTML Meta Tags: A Complete Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-11 19:58</span>
             </div>
         </div>
 </div>
@@ -297,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
