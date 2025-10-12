@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 18:02:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-12 19:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572463/vance-administration-keep-fighting-send-national-guard-chicago" target="_blank">Vance says administration will keep fighting to send National Guard to Chicago</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-12 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/far-right-afd-party-may-win-first-german-city-mayor-post-in-run-off-vote?traffic_source=rss" target="_blank">Far-right AfD party may win first German city mayor post in run-off vote</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 18:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/12/taliban-and-pakistani-forces-exchange-heavy-fire-across-afghanistan-border?traffic_source=rss" target="_blank">Taliban and Pakistani forces exchange heavy fire across Afghanistan border</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-12 13:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760274003369_mtp_clip_vancehostage_251012_1920x1080-hnt8gp.jpg" alt="JD Vance says Israeli hostages could be released ‘any moment now’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/jd-vance-says-israeli-hostages-could-be-released-any-moment-now-249727045659" target="_blank">JD Vance says Israeli hostages could be released ‘any moment now’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Minister says Starmer security adviser had no role in China spy case evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss" target="_blank">Minister says Starmer security adviser had no role in China spy case evidence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-12 12:40</span>
             </div>
         </div>
 </div>
@@ -167,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="What are Core Web Vitals?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/what-are-core-web-vitals-3a20" target="_blank">What are Core Web Vitals?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 18:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-tekken-8-official-miary-zo-gameplay-trailer-4m37" target="_blank">IGN: Tekken 8 - Official Miary Zo Gameplay Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-12 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/chili-chips-ba/wireguard-fpga" target="_blank">Wireguard FPGA</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-12 17:12</span>
             </div>
         </div>
 <div class="story">
@@ -202,29 +218,20 @@
                 <span class="time">2025-10-12 15:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/walodja1987/test-installs-in-a-clean-ubuntu-sandbox-p7p" target="_blank">Test installs in a clean Ubuntu sandbox</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chafroudtarek/i-built-a-terraform-reference-repository-so-you-dont-have-to-bang-your-head-against-the-wall-3po1" target="_blank">I Built a Terraform Reference Repository (So You Don&#x27;t Have to Bang Your Head Against the Wall)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/halloween-ends-1280x853.jpg" alt="‘Halloween Ends’ Almost Had Two Odd, Different Endings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/halloween-ends-almost-had-two-odd-different-endings-2000671428" target="_blank">‘Halloween Ends’ Almost Had Two Odd, Different Endings</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-12 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Lightcycle-poster-1280x853.jpg" alt="Open Channel: Tell Us Your Thoughts on ‘Tron: Ares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +277,6 @@
                 <span class="time">2025-10-12 00:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/fire-tv-soundbar-amazon-2-1280x853.jpg" alt="Fire TV Soundbar Is Selling for Pennies Post Prime Day, Now 5x Less Than Sony or Bose Rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fire-tv-soundbar-is-selling-for-pennies-post-prime-day-now-5x-less-than-sony-or-bose-rivals-2000634427" target="_blank">Fire TV Soundbar Is Selling for Pennies Post Prime Day, Now 5x Less Than Sony or Bose Rivals</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-11 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
