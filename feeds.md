@@ -1,45 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 17:01:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-10-12 18:02:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 36 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -117,6 +110,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/798719/watch-japanese-horror-fantasy-film-house-halloween" target="_blank">You need to watch the bonkers Japanese fantasy horror film House</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-12 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/" target="_blank">The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-12 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/" target="_blank">Nvidia’s AI empire: A look at its top startup investments</a></span>
                 <span class="feed">TechCrunch</span>
@@ -150,29 +161,29 @@
                 <span class="time">2025-10-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank" target="_blank">Police are asking kids to stop pulling AI homeless man prank</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-12 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e9bae68983e0899b9e6c4b/master/pass/Review-%20Specialized%20S-Works%20Levo%204%20Electric%20Mountain%20Bike.png" alt="Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/specialized-s-works-levo-4/" target="_blank">Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-12 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-tekken-8-official-miary-zo-gameplay-trailer-4m37" target="_blank">IGN: Tekken 8 - Official Miary Zo Gameplay Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nature.com/articles/s41598-025-18636-0" target="_blank">Addictive-like behavioural traits in pet dogs with extreme motivation for toys</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-12 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/openai-llm-hallucinations/en/headerimage/openai-llm-hallucinations-1760280654221.jpeg" alt="OpenAI Study Investigates the Causes of LLM Hallucinations and Potential Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/chafroudtarek/i-built-a-terraform-reference-repository-so-you-dont-have-to-bang-your-head-against-the-wall-3po1" target="_blank">I Built a Terraform Reference Repository (So You Don&#x27;t Have to Bang Your Head Against the Wall)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-12 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-12ji" target="_blank">CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-CLUDA-MR-CUDA-Gallium" target="_blank">CLUDA Posted For Mesa: Gallium3D API Implemented Atop NVIDIA CUDA Driver API</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-12 10:52</span>
             </div>
         </div>
 </div>
@@ -305,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
