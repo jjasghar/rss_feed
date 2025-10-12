@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 20:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-12 21:01:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -159,6 +167,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/" target="_blank">Django: Introducing django-http-compression - Adam Johnson</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-12 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc1-Released" target="_blank">Linux 6.18-rc1 Released With New Tyr &amp; Rocket Drivers, Haptic Touchpads &amp; DM-PCACHE</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-12 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devtechinsights/mastering-data-structures-algorithms-becoming-a-smarter-programmer-446g" target="_blank">Mastering Data Structures &amp; Algorithms: Becoming a Smarter Programmer</a></span>
                 <span class="feed">DEV Community</span>
@@ -192,29 +218,20 @@
                 <span class="time">2025-10-12 17:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nature.com/articles/s41598-025-18636-0" target="_blank">Addictive-like behavioural traits in pet dogs with extreme motivation for toys</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-12 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/openai-llm-hallucinations/en/headerimage/openai-llm-hallucinations-1760280654221.jpeg" alt="OpenAI Study Investigates the Causes of LLM Hallucinations and Potential Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/openai-llm-hallucinations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Study Investigates the Causes of LLM Hallucinations and Potential Solutions</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/battle-royale-1280x853.jpg" alt="Cult Classic ‘Battle Royale’ Has Returned to Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/battle-royale-25th-anniversary-screenings-release-date-2000671627" target="_blank">Cult Classic ‘Battle Royale’ Has Returned to Theaters</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-12 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/halloween-ends-1280x853.jpg" alt="‘Halloween Ends’ Almost Had Two Odd, Different Endings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +277,6 @@
                 <span class="time">2025-10-12 12:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/new-york-comic-con-2025-cosplay-day-2-hades-zagreus-1280x853.jpg" alt="The Most Spectacular and Delightful Cosplay of New York Comic Con, Day 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nycc-2025-cosplay-gallery-day-2-2000671575" target="_blank">The Most Spectacular and Delightful Cosplay of New York Comic Con, Day 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-12 00:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
