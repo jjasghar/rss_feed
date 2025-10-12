@@ -1,29 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 04:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-12 05:01:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 04:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/12/cameroon-president-paul-biya-favourite-win-election" target="_blank">Cameroon’s 92-year-old president set for another term as country goes to polls</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-12 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-witkoff-hostage-square_7048781.jpg?20251012051014" alt="&#x27;You are coming home&#x27;: Trump envoy reassures hostages as Israel prepares for emotional reunion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/you-are-coming-home-trump-envoy-reassures-hostages-as-israel-prepares-for-emotional-reunion-13448847" target="_blank">&#x27;You are coming home&#x27;: Trump envoy reassures hostages as Israel prepares for emotional reunion</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-12 03:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +106,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571971/diane-keaton-annie-hall-dies" target="_blank">Diane Keaton, Oscar-winning star of &#x27;Annie Hall&#x27; and &#x27;The Godfather,&#x27; dies at 79</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-12 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760225732697_wnn_jts_troops_paid_government_shutdown_251011_1920x1080-vepp86.jpg" alt="Trump orders military troops to be paid amid government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-orders-military-troops-to-be-paid-amid-government-shutdown-249713221525" target="_blank">Trump orders military troops to be paid amid government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-11 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/fef0d9a0-6705-11f0-8dbd-f3d32ebd3327.jpg" alt="The women taking Meta to task after their baby loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8450380zyo?at_medium=RSS&at_campaign=rss" target="_blank">The women taking Meta to task after their baby loss</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-11 23:20</span>
             </div>
         </div>
 </div>
@@ -158,6 +173,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx43jmsubvzc7n9qnzni8.png" alt="Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/latchudevops/part-122-step-by-step-guide-create-a-gke-private-cluster-with-cloud-nat-and-deploy-an-app-17je" target="_blank">Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 04:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +226,6 @@
                 <span class="time">2025-10-12 00:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://paddedinputs.substack.com/p/meta-superintelligences-surprising" target="_blank">Meta Superintelligence&#x27;s surprising first paper</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-11 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -232,6 +247,15 @@
                 <span class="title"><a href="https://kotaku.com/fire-tv-soundbar-is-selling-for-pennies-post-prime-day-now-5x-less-than-sony-or-bose-rivals-2000634427" target="_blank">Fire TV Soundbar Is Selling for Pennies Post Prime Day, Now 5x Less Than Sony or Bose Rivals</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-11 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/1-Year-Sams-Club-Membership-with-Auto-Renew.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Obviously you should get a Sam&#x27;s Club Membership for $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/11/obviously-you-should-get-a-sams-club-membership-for-15.html" target="_blank">Obviously you should get a Sam&#x27;s Club Membership for $15</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-11 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -261,15 +285,6 @@
                 <span class="time">2025-10-11 15:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Save 83% on Microsoft Office Pro 2021 for Windows with free training lessons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/11/save-83-on-microsoft-office-pro-2021-for-windows-with-free-training-lessons.html" target="_blank">Save 83% on Microsoft Office Pro 2021 for Windows with free training lessons</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-11 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 04:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
