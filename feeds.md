@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 21:01:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-12 22:01:47 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/palestinian-journalist-saleh-aljafarawi-shot-dead-in-gaza-city-clashes?traffic_source=rss" target="_blank">Palestinian journalist Saleh Aljafarawi shot dead in Gaza City clashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760302527804_nbc_spec_full_trump_middle_east_251012_1920x1080-emmqzd.jpg" alt="Special Report: Trump departs for high-stakes Middle East trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/special-report-trump-departs-for-high-stakes-middle-east-trip-249734213641" target="_blank">Special Report: Trump departs for high-stakes Middle East trip</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-12 20:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/far-right-afd-party-may-win-first-german-city-mayor-post-in-run-off-vote?traffic_source=rss" target="_blank">Far-right AfD party may win first German city mayor post in run-off vote</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-12 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/israel-expects-to-receive-all-living-captives-from-gaza-on-monday?traffic_source=rss" target="_blank">Israel expects to receive all living captives from Gaza on Monday</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572441/4-killed-20-injured-shooting-bar-south-carolina" target="_blank">4 killed and 20 more injured in shooting at a bar in South Carolina, sheriff says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-12 15:07</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/somedood/mastering-pythons-iteration-protocol-iterables-iterators-and-generators-f9e" target="_blank">Mastering Python&#x27;s Iteration Protocol: Iterables, Iterators, and Generators</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/" target="_blank">Django: Introducing django-http-compression - Adam Johnson</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-tekken-8-official-miary-zo-gameplay-trailer-4m37" target="_blank">IGN: Tekken 8 - Official Miary Zo Gameplay Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-12 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/chili-chips-ba/wireguard-fpga" target="_blank">Wireguard FPGA</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-12 17:12</span>
             </div>
         </div>
 </div>
@@ -296,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
