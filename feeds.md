@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 14:01:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-12 15:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +45,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/12/taliban-and-pakistani-forces-exchange-heavy-fire-across-afghanistan-border?traffic_source=rss" target="_blank">Taliban and Pakistani forces exchange heavy fire across Afghanistan border</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-12 13:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Minister says Starmer security adviser had no role in China spy case evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss" target="_blank">Minister says Starmer security adviser had no role in China spy case evidence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-12 12:40</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +92,20 @@
                 <span class="time">2025-10-12 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/afghanistan-pakistan-border-clashes-what-we-know-so-far?traffic_source=rss" target="_blank">Afghanistan-Pakistan border clashes: What we know so far</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e80dcb34a4e22944e3d3d0/master/pass/Squarespce-source-Squarespace.jpg" alt="4 Best Website Builders (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-website-builders/" target="_blank">4 Best Website Builders (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +151,20 @@
                 <span class="time">2025-10-11 19:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time" target="_blank">How Verge readers, and writers, are managing our kids&amp;#8217; screen time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-11 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/walodja1987/test-installs-in-a-clean-ubuntu-sandbox-p7p" target="_blank">Test installs in a clean Ubuntu sandbox</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +208,6 @@
                 <span class="title"><a href="https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/" target="_blank">My Django On The Med 2025</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-12 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7h8z54tr2xmd932zh04i.png" alt="Meet AI: Introduction to the World of Artificial Intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mariustechie/meet-ai-introduction-to-the-world-of-artificial-intelligence-284d" target="_blank">Meet AI: Introduction to the World of Artificial Intelligence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 09:41</span>
             </div>
         </div>
 </div>
@@ -298,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
