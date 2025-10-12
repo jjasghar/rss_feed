@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 15:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-12 16:01:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572441/4-killed-20-injured-shooting-bar-south-carolina" target="_blank">4 killed and 20 more injured in shooting at a bar in South Carolina, sheriff says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-12 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jd-vance-1-abc-gmh-251012_1760274961111_hpMain_4x3t_384.jpg" alt="Vance confirms that Hamas has 20 living hostages, expected release in next 24 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/vance-confirms-abc-hamas-20-living-hostages-released/story?id=126445163" target="_blank">Vance confirms that Hamas has 20 living hostages, expected release in next 24 hours</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-12 14:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +101,20 @@
                 <span class="time">2025-10-12 11:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572402/afghanistan-killed-58-pakistani-soldiers-overnight-border-operations" target="_blank">Afghanistan says it has killed 58 Pakistani soldiers in overnight border operations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-12 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/egypt-main_1760261099968_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Trump to co-chair summit in Egypt on Monday, Cairo says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Trump to co-chair summit in Egypt on Monday, Cairo says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-12 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/" target="_blank">Nvidia’s AI empire: A look at its top startup investments</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-12 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e80dcb34a4e22944e3d3d0/master/pass/Squarespce-source-Squarespace.jpg" alt="4 Best Website Builders (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app" target="_blank">Apple ends support for Clips video-editing app</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-11 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/" target="_blank">Thinking Machines Lab co-founder Andrew Tulloch heads to Meta</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-11 19:10</span>
             </div>
         </div>
 </div>
@@ -216,6 +225,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Belkin-Wired-ANC-in-ear-1280x853.jpg" alt="Belkin’s SoundForm ANC Wired Earbuds Are No Threat to AirPods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/belkins-soundform-anc-wired-earbuds-sound-decent-but-theyre-no-threat-to-airpods-2000654232" target="_blank">Belkin’s SoundForm ANC Wired Earbuds Are No Threat to AirPods</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Maingear-Apex-Rush-desktop-PC-review-19-1280x853.jpg" alt="Maingear’s Apex Rush Gaming Desktop Makes Laziness Feel So, So Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -260,27 +278,18 @@
                 <span class="time">2025-10-11 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/nycc-2025-star-wars-books-comics-leia-rey-jar-jar-1280x853.jpg" alt="The Future of ‘Star Wars’ Publishing Has Leia, Love, and Jar Jar Binks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nycc-2025-star-wars-books-comics-rey-leia-jar-jar-binks-2000671247" target="_blank">The Future of ‘Star Wars’ Publishing Has Leia, Love, and Jar Jar Binks</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-11 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1760073146-20251011.png" alt="Saturday Morning Breakfast Cereal - Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1760236954-20251012.png" alt="Saturday Morning Breakfast Cereal - Beautiful" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/much" target="_blank">Saturday Morning Breakfast Cereal - Much</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/beautiful-4" target="_blank">Saturday Morning Breakfast Cereal - Beautiful</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-11 15:20</span>
+                <span class="time">2025-10-12 15:20</span>
             </div>
         </div>
 </div>
@@ -288,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
