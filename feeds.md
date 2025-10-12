@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 11:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-12 12:02:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/12/madagascar-president-says-power-grab-military-under-way" target="_blank">Madagascar’s president says illegal power grab by military is under way</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-12 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572402/afghanistan-killed-58-pakistani-soldiers-overnight-border-operations" target="_blank">Afghanistan says it has killed 58 Pakistani soldiers in overnight border operations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-12 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/egypt-main_1760261099968_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Trump to co-chair summit in Egypt on Monday, Cairo says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-egypt-host-ceasefire-talks/?id=126242055" target="_blank">Israel-Gaza live updates: Trump to co-chair summit in Egypt on Monday, Cairo says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-12 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/afghanistan-pakistan-border-clashes-what-we-know-so-far?traffic_source=rss" target="_blank">Afghanistan-Pakistan border clashes: What we know so far</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572384/aid-gaza-ceasefire-preparations" target="_blank">Preparations begin to ramp up aid in Gaza as ceasefire brings hope for end to 2-year war</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -68,47 +96,20 @@
                 <span class="time">2025-10-12 09:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/madagascar-president-says-attempt-to-seize-power-illegally-under-way?traffic_source=rss" target="_blank">Madagascar president says ‘attempt to seize power illegally’ under way</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 07:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5571947/diane-keaton-dies-aged-79" target="_blank">Hollywood&#x27;s quirky leading lady, Diane Keaton, dies aged 79</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-12 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/12/haaland-scores-three-as-norway-crush-israel-amid-pro-palestinian-protest?traffic_source=rss" target="_blank">Haaland scores three as Norway crush Israel amid pro-Palestinian protest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 05:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/news/ng-interactive/2025/oct/12/restitution-row-how-nigerias-new-home-for-the-benin-bronzes-ended-up-with-clay-replicas" target="_blank">Restitution row: how Nigeria’s new home for the Benin bronzes ended up with clay replicas</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-12 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e6253093db73353d5662f4/master/pass/Untitled%20(1).gif" alt="A New Algorithm Makes It Faster to Find the Shortest Paths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/" target="_blank">A New Algorithm Makes It Faster to Find the Shortest Paths</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +155,20 @@
                 <span class="time">2025-10-11 15:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e99cf09d25ef2d2c8e8f80/master/pass/Amazfit_TRex3Pro.jpg" alt="Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn&#x27;t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/amazfit-t-rex-3-pro/" target="_blank">Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn&#x27;t Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-11 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-12ji" target="_blank">CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/latchudevops/part-122-step-by-step-guide-create-a-gke-private-cluster-with-cloud-nat-and-deploy-an-app-17je" target="_blank">Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-12 04:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/om_shree_0709/latest-software-development-news-mid-october-2025-roundup-md3" target="_blank">Latest Software Development News: Mid-October 2025 Roundup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 03:45</span>
             </div>
         </div>
 </div>
@@ -300,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
