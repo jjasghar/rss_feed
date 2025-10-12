@@ -1,36 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 19:01:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-10-12 20:01:45 UTC -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/death-toll-from-mexico-flooding-rises-to-44-dozens-more-missing?traffic_source=rss" target="_blank">Death toll from Mexico flooding rises to 44, dozens more missing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0295/live/f94c5e30-a796-11f0-8c9e-87f67f3eb58c.jpg" alt="Gaza City clashes between Hamas and clan members leave 27 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg5e551j593o?at_medium=RSS&at_campaign=rss" target="_blank">Gaza City clashes between Hamas and clan members leave 27 dead</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-12 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572441/4-killed-20-injured-shooting-bar-south-carolina" target="_blank">4 killed and 20 more injured in shooting at a bar in South Carolina, sheriff says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-12 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jd-vance-1-abc-gmh-251012_1760274961111_hpMain_4x3t_384.jpg" alt="Vance confirms that Hamas has 20 living hostages, expected release in next 24 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/vance-confirms-abc-hamas-20-living-hostages-released/story?id=126445163" target="_blank">Vance confirms that Hamas has 20 living hostages, expected release in next 24 hours</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-12 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/12/taliban-and-pakistani-forces-exchange-heavy-fire-across-afghanistan-border?traffic_source=rss" target="_blank">Taliban and Pakistani forces exchange heavy fire across Afghanistan border</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 13:41</span>
             </div>
         </div>
 </div>
@@ -165,6 +157,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devtechinsights/mastering-data-structures-algorithms-becoming-a-smarter-programmer-446g" target="_blank">Mastering Data Structures &amp; Algorithms: Becoming a Smarter Programmer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="What are Core Web Vitals?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +208,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/openai-llm-hallucinations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Study Investigates the Causes of LLM Hallucinations and Potential Solutions</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://idiallo.com/byte-size/say-no-to-onedrive-backup" target="_blank">No I don&#x27;t want to turn on Windows Backup with One Drive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-12 15:42</span>
             </div>
         </div>
 </div>
@@ -296,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
