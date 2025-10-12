@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 00:04:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-12 01:29:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571971/diane-keaton-annie-hall-dies" target="_blank">Diane Keaton, Oscar-winning star of &#x27;Annie Hall&#x27; and &#x27;The Godfather,&#x27; dies at 79</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-12 00:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760225732697_wnn_jts_troops_paid_government_shutdown_251011_1920x1080-vepp86.jpg" alt="Trump orders military troops to be paid amid government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/11/nx-s1-5571541/nobel-winner-machado-venezuela-maduro" target="_blank">Nobel Prize winner Machado says Venezuela is in &#x27;chaos&#x27; under current regime</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-11 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/11/no-survivors-found-after-tennessee-explosives-plant-blast?traffic_source=rss" target="_blank">No survivors found after Tennessee explosives plant blast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-11 19:31</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb" target="_blank">Determining the Maximum Decimal Digits at Compile-Time</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://paddedinputs.substack.com/p/meta-superintelligences-surprising" target="_blank">Meta Superintelligence&#x27;s surprising first paper</a></span>
                 <span class="feed">Hacker News</span>
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/ilham-bouktir/understanding-html-meta-tags-a-complete-guide-14lo" target="_blank">Understanding HTML Meta Tags: A Complete Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-11 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Retpoline-Opt" target="_blank">Linux 6.18 Lands Retpoline Optimization To Help With Intel E Cores</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-11 19:46</span>
             </div>
         </div>
 </div>
@@ -258,21 +261,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Timex-1975-SSQ-Digital-Reissue-0-Hero.jpg?fit=1074%2C716&amp;quality=60&amp;ssl=1" alt="Timex reissues its first LCD digital watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/11/timex-reissues-its-first-lcd-digital-watch.html" target="_blank">Timex reissues its first LCD digital watch</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-11 15:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Save 83% on Microsoft Office Pro 2021 for Windows with free training lessons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/10/11/save-83-on-microsoft-office-pro-2021-for-windows-with-free-training-lessons.html" target="_blank">Save 83% on Microsoft Office Pro 2021 for Windows with free training lessons</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hp-17-laptop-access-1280x853.jpg" alt="HP 17-Inch Laptop with Windows 11 Pro Is $1,560 Off, Now Going for Pennies Right After Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-17-inch-laptop-with-windows-11-pro-is-1560-off-now-going-for-pennies-right-after-prime-day-2000634417" target="_blank">HP 17-Inch Laptop with Windows 11 Pro Is $1,560 Off, Now Going for Pennies Right After Prime Day</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-11 13:36</span>
             </div>
         </div>
 </div>
@@ -289,22 +292,13 @@
                 <span class="time">2025-10-11 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/11/the-blessing-part-three" target="_blank">The Blessing, Part Three</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-11 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
