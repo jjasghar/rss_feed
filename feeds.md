@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 13:05:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-12 14:01:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 13:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/12/taliban-and-pakistani-forces-exchange-heavy-fire-across-afghanistan-border?traffic_source=rss" target="_blank">Taliban and Pakistani forces exchange heavy fire across Afghanistan border</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 13:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Minister says Starmer security adviser had no role in China spy case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss" target="_blank">Minister says Starmer security adviser had no role in China spy case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-12 12:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,20 @@
                 <span class="time">2025-10-12 11:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-israel-hostages_7048955.jpg?20251012122338" alt="Inside the &#x27;homecoming unit&#x27; ready to welcome Israeli hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/inside-the-homecoming-unit-ready-to-welcome-israeli-hostages-13448955" target="_blank">Inside the &#x27;homecoming unit&#x27; ready to welcome Israeli hostages</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-12 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5572384/aid-gaza-ceasefire-preparations" target="_blank">Preparations begin to ramp up aid in Gaza as ceasefire brings hope for end to 2-year war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-12 09:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank" target="_blank">Police are asking kids to stop pulling AI homeless man prank</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-12 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e9bae68983e0899b9e6c4b/master/pass/Review-%20Specialized%20S-Works%20Levo%204%20Electric%20Mountain%20Bike.png" alt="Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +161,6 @@
                 <span class="time">2025-10-11 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time" target="_blank">How The Verge and our readers manage kids’ screen time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-11 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -194,6 +196,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://danybittel.ch/macro.html" target="_blank">Macro Gaussian Splats</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-12 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/" target="_blank">My Django On The Med 2025</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -209,20 +220,20 @@
                 <span class="time">2025-10-12 09:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/" target="_blank">The App Store Was Always Authoritarian</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-12 07:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Maingear-Apex-Rush-desktop-PC-review-19-1280x853.jpg" alt="Maingear’s Apex Rush Gaming Desktop Makes Laziness Feel So, So Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/maingear-apex-rush-desktop-pc-review-gaming-benchmarks-2000670460" target="_blank">Maingear’s Apex Rush Gaming Desktop Makes Laziness Feel So, So Good</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-1000-1280x853.jpg" alt="This Jackery Power Station Can Save You During Winter Outages, and It’s Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +279,6 @@
                 <span class="time">2025-10-11 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2402350653-1-1280x853.jpg" alt="The Destruction in Gaza Is What the Future of AI Warfare Looks Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-destruction-in-gaza-is-what-the-future-of-ai-warfare-looks-like-2000669559" target="_blank">The Destruction in Gaza Is What the Future of AI Warfare Looks Like</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-11 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 13:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
