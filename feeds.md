@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 12:02:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-12 13:05:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 13:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-israel-hostages_7048955.jpg?20251012122338" alt="Inside the &#x27;homecoming unit&#x27; ready to welcome Israeli hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/inside-the-homecoming-unit-ready-to-welcome-israeli-hostages-13448955" target="_blank">Inside the &#x27;homecoming unit&#x27; ready to welcome Israeli hostages</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-12 11:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -87,20 +100,20 @@
                 <span class="time">2025-10-12 09:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss" target="_blank">China slams Trump’s 100 percent tariff threat, defends rare earth curbs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 09:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e9bae68983e0899b9e6c4b/master/pass/Review-%20Specialized%20S-Works%20Levo%204%20Electric%20Mountain%20Bike.png" alt="Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/specialized-s-works-levo-4/" target="_blank">Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e6253093db73353d5662f4/master/pass/Untitled%20(1).gif" alt="A New Algorithm Makes It Faster to Find the Shortest Paths" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +159,6 @@
                 <span class="time">2025-10-11 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e9b87ec0302e94e78e3629/master/pass/Update-%20The%20Best%20Carpet%20Cleaners.png" alt="6 Best Carpet Cleaners (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-carpet-cleaner/" target="_blank">6 Best Carpet Cleaners (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-11 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chafroudtarek/i-built-a-terraform-reference-repository-so-you-dont-have-to-bang-your-head-against-the-wall-3po1" target="_blank">I Built a Terraform Reference Repository (So You Don&#x27;t Have to Bang Your Head Against the Wall)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-12 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-12ji" target="_blank">CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-CLUDA-MR-CUDA-Gallium" target="_blank">CLUDA Posted For Mesa: Gallium3D API Implemented Atop NVIDIA CUDA Driver API</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-12 10:52</span>
             </div>
         </div>
 <div class="story">
@@ -196,29 +218,20 @@
                 <span class="time">2025-10-12 07:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/aws-ecs-managed-instances/en/headerimage/generatedHeaderImage-1759819237727.jpg" alt="AWS Introduces ECS Managed Instances for Containerized Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/aws-ecs-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces ECS Managed Instances for Containerized Applications</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-12 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx43jmsubvzc7n9qnzni8.png" alt="Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/latchudevops/part-122-step-by-step-guide-create-a-gke-private-cluster-with-cloud-nat-and-deploy-an-app-17je" target="_blank">Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 04:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-1000-1280x853.jpg" alt="This Jackery Power Station Can Save You During Winter Outages, and It’s Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-jackery-power-station-can-save-you-during-winter-outages-and-its-selling-for-pennies-2000634478" target="_blank">This Jackery Power Station Can Save You During Winter Outages, and It’s Selling for Pennies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-12 12:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/new-york-comic-con-2025-cosplay-day-2-hades-zagreus-1280x853.jpg" alt="The Most Spectacular and Delightful Cosplay of New York Comic Con, Day 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +277,6 @@
                 <span class="time">2025-10-11 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Timex-1975-SSQ-Digital-Reissue-0-Hero.jpg?fit=1074%2C716&amp;quality=60&amp;ssl=1" alt="Timex reissues its first LCD digital watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/11/timex-reissues-its-first-lcd-digital-watch.html" target="_blank">Timex reissues its first LCD digital watch</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-11 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 13:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
