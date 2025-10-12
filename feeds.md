@@ -1,37 +1,45 @@
-<!-- Processing 54 RSS feeds at 2025-10-12 16:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-12 17:01:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, October 12, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, October 12, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +55,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/israel-expects-to-receive-all-living-captives-from-gaza-on-monday?traffic_source=rss" target="_blank">Israel expects to receive all living captives from Gaza on Monday</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-12 16:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,30 +92,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760274003369_mtp_clip_vancehostage_251012_1920x1080-hnt8gp.jpg" alt="JD Vance says Israeli hostages could be released ‘any moment now’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/jd-vance-says-israeli-hostages-could-be-released-any-moment-now-249727045659" target="_blank">JD Vance says Israeli hostages could be released ‘any moment now’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Minister says Starmer security adviser had no role in China spy case evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss" target="_blank">Minister says Starmer security adviser had no role in China spy case evidence</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-12 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Minister says Starmer security adviser had no role in China spy case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss" target="_blank">Minister says Starmer security adviser had no role in China spy case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-12 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/12/madagascar-president-says-power-grab-military-under-way" target="_blank">Madagascar’s president says illegal power grab by military is under way</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-12 11:43</span>
             </div>
         </div>
 </div>
@@ -113,6 +121,24 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/" target="_blank">Nvidia’s AI empire: A look at its top startup investments</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-12 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art" target="_blank">Amazon awkwardly edited the guns out of James Bond art</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-12 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685b19d11667e627ae71884e/master/pass/The%20Best%20Cat%20Water%20Fountains.png" alt="8 Best Cat Water Fountains, WIRED Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-cat-water-fountains/" target="_blank">8 Best Cat Water Fountains, WIRED Tested and Reviewed (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-12 15:06</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +168,29 @@
                 <span class="time">2025-10-12 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e6253093db73353d5662f4/master/pass/Untitled%20(1).gif" alt="A New Algorithm Makes It Faster to Find the Shortest Paths" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/" target="_blank">A New Algorithm Makes It Faster to Find the Shortest Paths</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app" target="_blank">Apple ends support for Clips video-editing app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-11 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/openai-llm-hallucinations/en/headerimage/openai-llm-hallucinations-1760280654221.jpeg" alt="OpenAI Study Investigates the Causes of LLM Hallucinations and Potential Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/openai-llm-hallucinations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Study Investigates the Causes of LLM Hallucinations and Potential Solutions</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://idiallo.com/byte-size/say-no-to-onedrive-backup" target="_blank">No I don&#x27;t want to turn on Windows Backup with One Drive</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-12 15:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +227,20 @@
                 <span class="time">2025-10-12 10:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://danybittel.ch/macro.html" target="_blank">Macro Gaussian Splats</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-12 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/" target="_blank">My Django On The Med 2025</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-12 09:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Lightcycle-poster-1280x853.jpg" alt="Open Channel: Tell Us Your Thoughts on ‘Tron: Ares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/open-channel-tell-us-your-thoughts-on-tron-ares-2000671598" target="_blank">Open Channel: Tell Us Your Thoughts on ‘Tron: Ares’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-12 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Belkin-Wired-ANC-in-ear-1280x853.jpg" alt="Belkin’s SoundForm ANC Wired Earbuds Are No Threat to AirPods" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +286,6 @@
                 <span class="time">2025-10-11 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/1-Year-Sams-Club-Membership-with-Auto-Renew.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Obviously you should get a Sam&#x27;s Club Membership for $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/11/obviously-you-should-get-a-sams-club-membership-for-15.html" target="_blank">Obviously you should get a Sam&#x27;s Club Membership for $15</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-11 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
