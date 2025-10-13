@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 03:19:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-13 04:01:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 33 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 03:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68e3e026f36681f1f18c8cb7/master/pass/encelado.jpg" alt="More Evidence Emerges That One of Saturn’s Moons Could Harbor Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/more-evidence-emerges-that-one-of-saturns-moons-could-harbor-life/" target="_blank">More Evidence Emerges That One of Saturn’s Moons Could Harbor Life</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-13 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/academy1-500x500.jpg" alt="New Starfleet Academy trailer debuts at NYCC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -156,20 +159,20 @@
                 <span class="time">2025-10-12 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art" target="_blank">Amazon awkwardly edited the guns out of James Bond art</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-12 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3n7ehhcn7wp786i1xvyg.png" alt="Strands Agents: A Model-First SDK for Building Autonomous AI on AWS and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sreeni5018/strands-agents-a-model-first-sdk-for-building-autonomous-ai-on-aws-and-beyond-3lbg" target="_blank">Strands Agents: A Model-First SDK for Building Autonomous AI on AWS and Beyond</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 03:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/java-news-roundup-oct06-2025/en/headerimage/java-istock-image-01-1760297808388.jpg" alt="Java News Roundup: Jakarta Query and Spring Milestones, Open Liberty, Camel, Quarkus, Grails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -217,15 +220,6 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
                 <span class="time">2025-10-12 21:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/somedood/mastering-pythons-iteration-protocol-iterables-iterators-and-generators-f9e" target="_blank">Mastering Python&#x27;s Iteration Protocol: Iterables, Iterators, and Generators</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -238,6 +232,15 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
                 <span class="title"><a href="https://gizmodo.com/nycc-2025-cosplay-gallery-day-3-2000669203" target="_blank">All the Fantastic Cosplay From New York Comic Con 2025, Day 3</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-12 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Last day to get Windows 11 for just $10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/12/last-day-to-get-windows-11-for-just-10.html" target="_blank">Last day to get Windows 11 for just $10</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-12 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -276,15 +279,6 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
                 <span class="time">2025-10-12 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Belkin-Wired-ANC-in-ear-1280x853.jpg" alt="Belkin’s SoundForm ANC Wired Earbuds Are No Threat to AirPods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/belkins-soundform-anc-wired-earbuds-sound-decent-but-theyre-no-threat-to-airpods-2000654232" target="_blank">Belkin’s SoundForm ANC Wired Earbuds Are No Threat to AirPods</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +298,8 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 03:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
