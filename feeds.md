@@ -1,12 +1,13 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 02:29:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 03:19:26 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
@@ -16,23 +17,26 @@
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 03:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/java-news-roundup-oct06-2025/en/headerimage/java-istock-image-01-1760297808388.jpg" alt="Java News Roundup: Jakarta Query and Spring Milestones, Open Liberty, Camel, Quarkus, Grails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/java-news-roundup-oct06-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Jakarta Query and Spring Milestones, Open Liberty, Camel, Quarkus, Grails</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-13 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
 Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +224,6 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
                 <span class="title"><a href="https://dev.to/somedood/mastering-pythons-iteration-protocol-iterables-iterators-and-generators-f9e" target="_blank">Mastering Python&#x27;s Iteration Protocol: Iterables, Iterators, and Generators</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-12 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/" target="_blank">Django: Introducing django-http-compression - Adam Johnson</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-12 20:59</span>
             </div>
         </div>
 </div>
@@ -300,8 +304,8 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
