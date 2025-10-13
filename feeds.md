@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 01:29:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 02:29:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5571936/zion-church-ezra-jin-arrest-china-christian" target="_blank">Pastors and staff from underground church are arrested in China</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-13 01:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4f/live/1c92fe80-a7b5-11f0-b8b2-4f209a50dbe9.jpg" alt="Trump says &#x27;war is over&#x27; in Gaza as he flies to Israel for release of hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn409y125v3o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;war is over&#x27; in Gaza as he flies to Israel for release of hostages</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-13 00:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/13/live-israel-hamas-set-to-free-captives-trump-says-gaza-war-is-over?traffic_source=rss" target="_blank">LIVE: Israel, Hamas set to free captives; Trump says Gaza ‘war is over’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-13 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760311188615_wnn_pal_trump_heads_to_middle_east_251012_1920x1080-b5q801.jpg" alt="Trump makes historic visit to Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-heads-to-israel-amid-preparations-for-hostage-return-249736261618" target="_blank">Trump makes historic visit to Israel</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-12 23:19</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch demands PM address &#x27;unanswered&#x27; China spy case questions</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-12 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/palestinian-journalist-saleh-aljafarawi-shot-dead-in-gaza-city-clashes?traffic_source=rss" target="_blank">Palestinian journalist Saleh Aljafarawi shot dead in Gaza City clashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760302527804_nbc_spec_full_trump_middle_east_251012_1920x1080-emmqzd.jpg" alt="Special Report: Trump departs for high-stakes Middle East trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/special-report-trump-departs-for-high-stakes-middle-east-trip-249734213641" target="_blank">Special Report: Trump departs for high-stakes Middle East trip</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-12 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/death-toll-from-mexico-flooding-rises-to-44-dozens-more-missing?traffic_source=rss" target="_blank">Death toll from Mexico flooding rises to 44, dozens more missing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 19:18</span>
             </div>
         </div>
 </div>
@@ -301,8 +300,8 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
