@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 14:02:06 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing 54 RSS feeds at 2025-10-13 15:05:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 10 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 15:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china?traffic_source=rss" target="_blank">Trump’s 100% tariff threat: History of US trade measures against China</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-13 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251013-released-hostages-lr-01748d.jpg" alt="Who are the 20 hostages released by Hamas?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israel-hamas-gaza-who-are-20-surviving-hostages-rcna237251" target="_blank">Who are the 20 hostages released by Hamas?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-13 13:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/donald-trump-14-gty-gmh-251013_1760354697686_hpMain_4x3t_384.jpg" alt="Trump touts &#x27;historic dawn of a new Middle East&#x27; in Knesset speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +94,38 @@
                 <span class="time">2025-10-13 12:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/huge-crowds-in-gaza-await-released-palestinian-prisoners?traffic_source=rss" target="_blank">Huge crowds in Gaza await released Palestinian prisoners</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-13 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  Pres. Trump addresses Israeli parliament after all living hostages released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pres. Trump addresses Israeli parliament after all living hostages released</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-13 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798772/ecoflow-delta-pro-ultra-x-battery-system" target="_blank">EcoFlow’s Delta Pro Ultra X can power a home for weeks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-here-first-at-techcrunch-disrupt-2025/" target="_blank">Slate Auto’s electric truck: See it here first at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Truckle_7-500x500.jpg" alt="Keep losing your key fob? Ford’s new “Truckle” is the answer." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/keep-losing-your-key-fob-fords-new-truckle-is-the-answer/" target="_blank">Keep losing your key fob? Ford’s new “Truckle” is the answer.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-13 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,38 +153,20 @@
                 <span class="time">2025-10-13 12:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e6c45f693f7ce213ae491f/master/pass/MR%20011%20'Assembly%20Codes'.jpg" alt="Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/programming-assembly-artificial-intelligence/" target="_blank">Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d5b99da0b397cb2d09d6e2/master/pass/Conservative-OnlyFans-Star-Anya-Lacey-Tradwife-Dating-Site-Culture-IMG_4355.jpg" alt="The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-womanosphere-is-reshaping-the-conservative-dating-landscape/" target="_blank">The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-13 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/12/strava-eyes-ipo-as-gen-z-trades-dating-apps-for-running-clubs/" target="_blank">Strava eyes IPO as Gen Z trades dating apps for running clubs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-13 05:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18693668&w=600" alt="AI-Driven Developer Tools: Transforming the Future of Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-driven-developer-tools" target="_blank">AI-Driven Developer Tools: Transforming the Future of Software Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/github-mcp-registry/en/headerimage/github-mcp-registry-1760358548042.jpeg" alt="GitHub MCP Registry Offers a Central Hub for Discovering and Deploying MCP Servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -165,6 +174,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/github-mcp-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub MCP Registry Offers a Central Hub for Discovering and Deploying MCP Servers</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sqliteonline.com/" target="_blank">Show HN: SQLite Online – 11 years of solo development, 11K daily users</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-13 12:46</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +212,6 @@
                 <span class="time">2025-10-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/mental-models-architecture-societal-views/en/smallimage/the-infoq-podcast-logo-thumbnail-1759407837280.jpg" alt="Podcast: Mental Models in Architecture and Societal Views of Technology: A Conversation with Nimisha Asthagiri" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/mental-models-architecture-societal-views/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Mental Models in Architecture and Societal Views of Technology: A Conversation with Nimisha Asthagiri</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm7qn0etf2c8822wi5fn0.png" alt="ChatGPT Alternative for SQL Query Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi" target="_blank">ChatGPT Alternative for SQL Query Optimization</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 10:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYKW5CHJ5W0VMC8STAYW46FR/hero-image.png" alt="What to Do Before Microsoft Cuts Off Support for Windows 10 on Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/extra-year-windows-10-security-updates?utm_medium=RSS" target="_blank">What to Do Before Microsoft Cuts Off Support for Windows 10 on Tuesday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Flixy-1280x853.jpg" alt="Forget Amazon Fire TV Stick, Flixy TV Stick Gives You Limitless Streaming at 75% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +285,6 @@
                 <span class="time">2025-10-13 11:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/coldnoses.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Thermal cameras show our noses cool when we are stressed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/13/thermal-cameras-show-our-noses-cool-when-we-are-stressed.html" target="_blank">Thermal cameras show our noses cool when we are stressed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-13 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,6 +297,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/13/the-blessing-part-four" target="_blank">The Blessing, Part Four</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-10-13 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/physics_insight.png" alt="Physics Insight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3154/" target="_blank">Physics Insight</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-13 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -313,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
