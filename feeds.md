@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 08:02:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-13 09:02:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hostage-main_1760334439433_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: 20 hostages being released after 2 years, IDF says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: 20 hostages being released after 2 years, IDF says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-13 08:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/13/the-existence-of-hunger-is-a-political-choice?traffic_source=rss" target="_blank">The existence of hunger is a political choice</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-13 08:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760344193654_f_vert_brk_trump_knesset_beginning_251013_720x1280-a076ef.jpg" alt="Trump marks &#x27;a new beginning&#x27; at Israel&#x27;s Knesset" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/shorts/trump-marks-a-new-beginning-at-israel-s-knesset-249758277718" target="_blank">Trump marks &#x27;a new beginning&#x27; at Israel&#x27;s Knesset</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-13 08:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760340948797_f_vert_brk_trump_israel_arrival_251013_720x1280-eixv21.jpg" alt="President Trump arrives to Israel for peace summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,33 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/israelis-cheer-as-hamas-hands-first-captives-over-to-the-red-cross?traffic_source=rss" target="_blank">Israelis cheer as Hamas hands first captives over to the Red Cross</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-13 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760337482922_f_vert_brk_seven_hostages_bradley_251012_720x1280-94newc.jpg" alt="Seven hostages handed over from Hamas to the Red Cross" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/shorts/first-seven-hostages-transferred-to-red-cross-249749573839" target="_blank">Seven hostages handed over from Hamas to the Red Cross</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-13 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump arrives in Israel as hostages being released: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump arrives in Israel as hostages being released: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-13 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/13/g-s1-93207/hamas-releasing-israeli-hostages" target="_blank">In a major milestone, Hamas begins releasing final Israeli hostages</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-13 06:19</span>
             </div>
         </div>
 </div>
@@ -169,6 +180,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/elecrow-raspberry-pi-5-case/" target="_blank">The Affordable Pironman Alternative Mini PC Case for Raspberry Pi 5</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-13 07:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsce8m0lmaqvnx166584b.png" alt="Part 5: Production Deployment and Enterprise Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/sreeni5018/strands-agents-a-model-first-sdk-for-building-autonomous-ai-on-aws-and-beyond-3lbg" target="_blank">Strands Agents: A Model-First SDK for Building Autonomous AI on AWS and Beyond</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-13 03:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/java-news-roundup-oct06-2025/en/headerimage/java-istock-image-01-1760297808388.jpg" alt="Java News Roundup: Jakarta Query and Spring Milestones, Open Liberty, Camel, Quarkus, Grails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/java-news-roundup-oct06-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Jakarta Query and Spring Milestones, Open Liberty, Camel, Quarkus, Grails</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-13 02:30</span>
             </div>
         </div>
 </div>
@@ -300,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
