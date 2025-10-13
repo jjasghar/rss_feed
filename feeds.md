@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 11:01:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-10-13 12:02:30 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/huge-crowds-in-gaza-await-released-palestinian-prisoners?traffic_source=rss" target="_blank">Huge crowds in Gaza await released Palestinian prisoners</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-13 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  Pres. Trump addresses Israeli parliament after all living hostages released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Pres. Trump addresses Israeli parliament after all living hostages released</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-13 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/13/nx-s1-5558384/gas-utility-prices-home-climate" target="_blank">Natural gas prices are low, but your monthly gas bill is up. Here&#x27;s why</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760351194410_f_vert_brk_palestinian_prisoners_release_251013_720x1280-aztglo.jpg" alt="Palestinian prisoners released as part of ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +95,20 @@
                 <span class="time">2025-10-13 09:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/danieleteargasthumb-0y0w4r.jpg" alt="IDF fires tear gas at boys throwing rocks in West Bank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/shorts/idf-fires-tear-gas-at-boys-throwing-rocks-in-west-bank-249759301540" target="_blank">IDF fires tear gas at boys throwing rocks in West Bank</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-13 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hostage-main_1760334439433_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: 20 hostages being released after 2 years, IDF says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: 20 hostages being released after 2 years, IDF says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-13 08:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/13/the-existence-of-hunger-is-a-political-choice?traffic_source=rss" target="_blank">The existence of hunger is a political choice</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-13 08:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e6c45f693f7ce213ae491f/master/pass/MR%20011%20'Assembly%20Codes'.jpg" alt="Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/programming-assembly-artificial-intelligence/" target="_blank">Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d5b99da0b397cb2d09d6e2/master/pass/Conservative-OnlyFans-Star-Anya-Lacey-Tradwife-Dating-Site-Culture-IMG_4355.jpg" alt="The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +154,29 @@
                 <span class="time">2025-10-12 20:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/798719/watch-japanese-horror-fantasy-film-house-halloween" target="_blank">You need to watch the bonkers Japanese fantasy horror film House</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-12 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prateek_kr/how-to-analyse-an-image-with-gpt-5-a-practical-production-ready-guide-5b51" target="_blank">How to analyse an image with GPT 5 — a practical, production-ready guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18692434&w=600" alt="Why Enterprise AI Needs Agentic Messaging Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/enterprise-ai-agentic-messaging-platforms" target="_blank">Why Enterprise AI Needs Agentic Messaging Platforms</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/mental-models-architecture-societal-views/en/smallimage/the-infoq-podcast-logo-thumbnail-1759407837280.jpg" alt="Podcast: Mental Models in Architecture and Societal Views of Technology: A Conversation with Nimisha Asthagiri" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,22 +213,18 @@
                 <span class="time">2025-10-13 10:02</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvteqj0vbyhxh2p653ahw.png" alt="Stereographic equations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ccarcaci/stereographic-equations-4b6m" target="_blank">Stereographic equations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1209000%2Fca052c8f-eebb-4dbc-8cec-4e96949a1609.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hadil/-1di3" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 07:53</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html" target="_blank">AI and the Future of American Politics</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-13 11:04</span>
             </div>
         </div>
 </div>
@@ -223,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/DJIRS3Mini-1280x853.jpg" alt="Forget Black Friday, DJI RS 3 Mini 3-Axis Gimbal Stabilizer for Cameras Hits Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forget-black-friday-dji-rs-3-mini-3-axis-gimbal-stabilizer-for-cameras-hits-its-lowest-price-ever-2000634108" target="_blank">Forget Black Friday, DJI RS 3 Mini 3-Axis Gimbal Stabilizer for Cameras Hits Its Lowest Price Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-13 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/coldnoses.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Thermal cameras show our noses cool when we are stressed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/13/thermal-cameras-show-our-noses-cool-when-we-are-stressed.html" target="_blank">Thermal cameras show our noses cool when we are stressed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-13 11:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/coral-bleaching-1280x853.jpg" alt="New Report Finds One of Earth’s Most Precious Ecosystems Has Already Crossed a Scary Climate Tipping Point" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +286,6 @@
                 <span class="time">2025-10-12 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/recording-studio.jpeg?fit=1500%2C843&amp;quality=60&amp;ssl=1" alt="Modern Time Machines finishes dream pop collaboration with &quot;September&quot; songwriter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/12/modern-time-machines-finishes-dream-pop-collaboration-with-september-songwriter.html" target="_blank">Modern Time Machines finishes dream pop collaboration with &quot;September&quot; songwriter</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-12 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/halloween-ends-1280x853.jpg" alt="‘Halloween Ends’ Almost Had Two Odd, Different Endings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/halloween-ends-almost-had-two-odd-different-endings-2000671428" target="_blank">‘Halloween Ends’ Almost Had Two Odd, Different Endings</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-12 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
