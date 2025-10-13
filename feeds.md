@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 13:09:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-10-13 14:02:06 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/donald-trump-14-gty-gmh-251013_1760354697686_hpMain_4x3t_384.jpg" alt="Trump touts &#x27;historic dawn of a new Middle East&#x27; in Knesset speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-tout-historic-dawn-new-middle-east-knesset/story?id=126462793" target="_blank">Trump touts &#x27;historic dawn of a new Middle East&#x27; in Knesset speech</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-13 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/13/g-s1-92391/landmines-hilton-humanitarian" target="_blank">This wedding photographer now removes landmines for a group that&#x27;s won a top prize</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-13 13:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +94,29 @@
                 <span class="time">2025-10-13 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/13/nx-s1-5558384/gas-utility-prices-home-climate" target="_blank">Natural gas prices are low, but your monthly gas bill is up. Here&#x27;s why</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760351194410_f_vert_brk_palestinian_prisoners_release_251013_720x1280-aztglo.jpg" alt="Palestinian prisoners released as part of ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/shorts/palestinian-prisoners-released-as-part-of-ceasefire-deal-249762373503" target="_blank">Palestinian prisoners released as part of ceasefire deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-13 10:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/" target="_blank">Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68645ab469fff38262c0c632/master/pass/These%20Are%20Our%20Favorite%20Smart%20Displays.png" alt="3 Best Smart Displays (2025): Tested By a Smart Home Addict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smart-displays/" target="_blank">3 Best Smart Displays (2025): Tested By a Smart Home Addict</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-13 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +153,20 @@
                 <span class="time">2025-10-13 05:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e3e026f36681f1f18c8cb7/master/pass/encelado.jpg" alt="More Evidence Emerges That One of Saturn’s Moons Could Harbor Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/more-evidence-emerges-that-one-of-saturns-moons-could-harbor-life/" target="_blank">More Evidence Emerges That One of Saturn’s Moons Could Harbor Life</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-13 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/academy1-500x500.jpg" alt="New Starfleet Academy trailer debuts at NYCC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/10/new-starfleet-academy-trailer-debuts-at-nycc/" target="_blank">New Starfleet Academy trailer debuts at NYCC</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-12 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/github-mcp-registry/en/headerimage/github-mcp-registry-1760358548042.jpeg" alt="GitHub MCP Registry Offers a Central Hub for Discovering and Deploying MCP Servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/github-mcp-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub MCP Registry Offers a Central Hub for Discovering and Deploying MCP Servers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/seed4j-migration-jhipster/en/headerimage/java-istock-image-01-1760302097265.jpg" alt="Seed4J 2.0 Delivers a Migration from JHipster Lite" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +212,6 @@
                 <span class="time">2025-10-13 10:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pecar.me/django-bulk-update-memory-issue" target="_blank">Django bulk_update memory issue</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-13 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Flixy-1280x853.jpg" alt="Forget Amazon Fire TV Stick, Flixy TV Stick Gives You Limitless Streaming at 75% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/forget-amazon-fire-tv-stick-flixy-tv-stick-gives-you-limitless-streaming-at-75-off-2000671726" target="_blank">Forget Amazon Fire TV Stick, Flixy TV Stick Gives You Limitless Streaming at 75% Off</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-13 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/devil-dog.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Texas man convinced his county to ban &quot;hello&quot; for being too satanic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/13/heaveno-vs-hello-the-bizarre-1990s-crusade-against-a-common-greeting.html" target="_blank">Texas man convinced his county to ban &quot;hello&quot; for being too satanic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-13 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/dolly-parton.jpg?fit=1200%2C960&amp;quality=60&amp;ssl=1" alt="Dolly Parton shuts down death rumors: &quot;I ain&#x27;t dead yet!&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +285,6 @@
                 <span class="time">2025-10-13 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/coral-bleaching-1280x853.jpg" alt="New Report Finds One of Earth’s Most Precious Ecosystems Has Already Crossed a Scary Climate Tipping Point" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-report-finds-earths-most-precious-ecosystems-coral-reefs-scary-climate-tipping-point-2000671008" target="_blank">New Report Finds One of Earth’s Most Precious Ecosystems Has Already Crossed a Scary Climate Tipping Point</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/new-york-comic-con-2025-cosplay-day-3-flash-sonic-1280x853.jpg" alt="All the Fantastic Cosplay From New York Comic Con 2025, Day 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nycc-2025-cosplay-gallery-day-3-2000669203" target="_blank">All the Fantastic Cosplay From New York Comic Con 2025, Day 3</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-12 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
