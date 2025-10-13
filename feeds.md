@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 22:02:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-13 23:01:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +98,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/13/goldman-sachs-is-acquiring-industry-ventures-for-up-to-965m-as-alternative-vc-exits-surge/" target="_blank">Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-13 22:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-500x500.jpg" alt="Hackers can steal 2FA codes and private messages from Android phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -153,20 +151,20 @@
                 <span class="time">2025-10-13 17:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai" target="_blank">New California law requires AI to tell you it’s AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-13 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/" target="_blank">GitHub Copilot CLI: How to get started</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-13 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18696460&w=600" alt="Operationalizing Responsible AI: Turning Ethics Into Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/manas_1/why-do-you-need-react-query--1pfa" target="_blank">Why do you need react query ?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-13 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://allvpv.org/haotic-journey-through-envvars/" target="_blank">Environment variables are a legacy mess: Let&#x27;s dive deep into them</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-13 16:49</span>
             </div>
         </div>
 </div>
@@ -268,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Greta-Lee-Lightcycle-1280x853.jpg" alt="All the Questions We Still Have After ‘Tron: Ares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tron-ares-spoilers-burning-questions-legacy-2000670394" target="_blank">All the Questions We Still Have After ‘Tron: Ares’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K7FG9C5VVNT0VJ2B59TQE0AA/hero-image.png" alt="Why You Should Only Use Google’s NotebookLM in a Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -294,20 +292,20 @@
                 <span class="time">2025-10-13 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-13 18:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/13/the-blessing-part-four" target="_blank">The Blessing, Part Four</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-13 20:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1760333454-20251013.png" alt="Saturday Morning Breakfast Cereal - Fake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -340,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
