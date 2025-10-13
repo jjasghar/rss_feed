@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 15:05:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-13 16:02:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 10 new posts out of 22 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 15:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/13/madagascar-president-andry-rajoelina-flees-country-capsat" target="_blank">Madagascar president flees after losing support of key army unit</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-13 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/first-nations-community-fights-canadian-government-over-poisoned-water?traffic_source=rss" target="_blank">First Nations community fights Canadian government over poisoned water</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-13 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01fa/live/8d3048d0-a82a-11f0-b741-177e3e2c2fc7.jpg" alt="&#x27;Long and painful nightmare finally over,&#x27; Trump tells Israel&#x27;s parliament" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c709jxxrrvlo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Long and painful nightmare finally over,&#x27; Trump tells Israel&#x27;s parliament</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-13 12:32</span>
             </div>
         </div>
 </div>
@@ -159,6 +166,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-the-running-man-official-trailer-2-2025-glen-powell-william-h-macy-lee-pace-5bjj" target="_blank">IGN: The Running Man - Official Trailer #2 (2025) Glen Powell, William H. Macy, Lee Pace</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-618-features" target="_blank">Linux 6.18 Features: New AMD &amp; Intel CPU Features, Rocket Driver, DM-PCACHE, Other New Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-13 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18696359&w=600" alt="AI Infrastructure: Compute, Storage, Observability, Security, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-infrastructure-compute-storage-observability" target="_blank">AI Infrastructure: Compute, Storage, Observability, Security, and More</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18693668&w=600" alt="AI-Driven Developer Tools: Transforming the Future of Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -180,36 +214,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sqliteonline.com/" target="_blank">Show HN: SQLite Online – 11 years of solo development, 11K daily users</a></span>
+                <span class="title"><a href="https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/" target="_blank">No Science, No Startups: The Innovation Engine We&#x27;re Switching Off</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-10-13 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/seed4j-migration-jhipster/en/headerimage/java-istock-image-01-1760302097265.jpg" alt="Seed4J 2.0 Delivers a Migration from JHipster Lite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/seed4j-migration-jhipster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Seed4J 2.0 Delivers a Migration from JHipster Lite</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-13 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prateek_kr/how-to-analyse-an-image-with-gpt-5-a-practical-production-ready-guide-5b51" target="_blank">How to analyse an image with GPT 5 — a practical, production-ready guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18692434&w=600" alt="Why Enterprise AI Needs Agentic Messaging Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/enterprise-ai-agentic-messaging-platforms" target="_blank">Why Enterprise AI Needs Agentic Messaging Platforms</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-13 11:00</span>
+                <span class="time">2025-10-13 13:02</span>
             </div>
         </div>
 </div>
@@ -231,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/03/7bc27848612c2cfd43b08597a47ecd50-1024x683.jpg" alt="Elon Musk’s Boring Company Accused of Nearly 800 Environmental Violations on Las Vegas Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musks-boring-company-accused-of-nearly-800-environmental-violations-on-las-vegas-project-2000671820" target="_blank">Elon Musk’s Boring Company Accused of Nearly 800 Environmental Violations on Las Vegas Project</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-13 15:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JYKW5CHJ5W0VMC8STAYW46FR/hero-image.png" alt="What to Do Before Microsoft Cuts Off Support for Windows 10 on Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,20 +292,20 @@
                 <span class="time">2025-10-13 12:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/DJIRS3Mini-1280x853.jpg" alt="Forget Black Friday, DJI RS 3 Mini 3-Axis Gimbal Stabilizer for Cameras Hits Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forget-black-friday-dji-rs-3-mini-3-axis-gimbal-stabilizer-for-cameras-hits-its-lowest-price-ever-2000634108" target="_blank">Forget Black Friday, DJI RS 3 Mini 3-Axis Gimbal Stabilizer for Cameras Hits Its Lowest Price Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-13 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1760333454-20251013.png" alt="Saturday Morning Breakfast Cereal - Fake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/fake-2" target="_blank">Saturday Morning Breakfast Cereal - Fake</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-13 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -308,22 +324,13 @@
                 <span class="time">2025-10-13 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1760236954-20251012.png" alt="Saturday Morning Breakfast Cereal - Beautiful" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/beautiful-4" target="_blank">Saturday Morning Breakfast Cereal - Beautiful</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-12 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 277 |
-        🔄 Last Updated: 15:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
