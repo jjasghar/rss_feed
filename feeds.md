@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 19:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 20:01:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/13/g-s1-92838/ecuador-la-reinvencion-andina-de-la-cumbia" target="_blank">Ecuador: La reinvención andina de la cumbia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-13 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/donald-trump-41-epa-gmh-251013_1760372818479_hpMain_4x3t_384.jpg" alt="Trump, world leaders gather in Egypt for ceasefire deal signing with Netanyahu absent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cyv8p8m4qg6o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;You&#x27;re my life, my hero&#x27;: Hostages reunite with families after two years</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-13 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/trump-urges-israeli-president-to-pardon-netanyahu-of-corruption-charges?traffic_source=rss" target="_blank">Trump urges Israeli president to pardon Netanyahu of corruption charges</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-13 16:41</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18696460&w=600" alt="Operationalizing Responsible AI: Turning Ethics Into Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/responsible-ai-operationalization-ethics-to-engineering" target="_blank">Operationalizing Responsible AI: Turning Ethics Into Engineering</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-13 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +217,6 @@
                 <span class="time">2025-10-13 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-the-running-man-official-trailer-2-2025-glen-powell-william-h-macy-lee-pace-5bjj" target="_blank">IGN: The Running Man - Official Trailer #2 (2025) Glen Powell, William H. Macy, Lee Pace</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/openAI_oracle_stargate-1280x853.jpg" alt="Is the AI Conveyor Belt of Capital About to Stop?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/is-the-ai-conveyor-belt-of-capital-about-to-stop-2000671017" target="_blank">Is the AI Conveyor Belt of Capital About to Stop?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-13 19:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Peacemaker-DC-Studios-John-Cena-io9-2025-review-1280x853.jpg" alt="6 Things We Liked, and 3 We Didn’t, About ‘Peacemaker’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +299,6 @@
                 <span class="time">2025-10-13 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/03/7bc27848612c2cfd43b08597a47ecd50-1024x683.jpg" alt="Elon Musk’s Boring Company Accused of Nearly 800 Environmental Violations on Las Vegas Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-boring-company-accused-of-nearly-800-environmental-violations-on-las-vegas-project-2000671820" target="_blank">Elon Musk’s Boring Company Accused of Nearly 800 Environmental Violations on Las Vegas Project</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-13 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
