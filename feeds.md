@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 07:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 08:02:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760340948797_f_vert_brk_trump_israel_arrival_251013_720x1280-eixv21.jpg" alt="President Trump arrives to Israel for peace summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/shorts/president-trump-arrives-to-israel-for-peace-summit-249754693556" target="_blank">President Trump arrives to Israel for peace summit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-13 07:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hostage-main_1760334439433_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: 7 hostages of final group returned, IDF says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: 7 hostages of final group returned, IDF says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-13 07:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/13/g-s1-93207/hamas-releasing-israeli-hostages" target="_blank">In a major milestone, Hamas begins releasing final Israeli hostages</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-13 06:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/hostage_square_thumb-ptxdg6.jpg" alt="Israelis gather in Tel Aviv, awaiting hostage release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/shorts/israelis-gather-in-tel-aviv-awaiting-hostage-release-249744965804" target="_blank">Israelis gather in Tel Aviv, awaiting hostage release</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-13 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5571936/zion-church-ezra-jin-arrest-china-christian" target="_blank">Pastors and staff from underground church are arrested in China</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-13 01:13</span>
             </div>
         </div>
 </div>
@@ -168,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1209000%2Fca052c8f-eebb-4dbc-8cec-4e96949a1609.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hadil/-1di3" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 07:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsce8m0lmaqvnx166584b.png" alt="Part 5: Production Deployment and Enterprise Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,17 +211,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/java-news-roundup-oct06-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Jakarta Query and Spring Milestones, Open Liberty, Camel, Quarkus, Grails</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-13 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
-Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-20kn" target="_blank">I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
-Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 01:02</span>
             </div>
         </div>
 </div>
@@ -288,6 +278,15 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/13/the-blessing-part-four" target="_blank">The Blessing, Part Four</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-13 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1760236954-20251012.png" alt="Saturday Morning Breakfast Cereal - Beautiful" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -301,8 +300,8 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
