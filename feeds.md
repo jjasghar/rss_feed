@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 00:04:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 01:29:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4f/live/1c92fe80-a7b5-11f0-b8b2-4f209a50dbe9.jpg" alt="Trump says &#x27;war is over&#x27; in Gaza as he flies to Israel for release of hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn409y125v3o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;war is over&#x27; in Gaza as he flies to Israel for release of hostages</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-13 00:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/death-toll-from-mexico-flooding-rises-to-44-dozens-more-missing?traffic_source=rss" target="_blank">Death toll from Mexico flooding rises to 44, dozens more missing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-12 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/b6705660-a7b5-11f0-b741-177e3e2c2fc7.jpg" alt="Clashes erupt between Hamas forces and armed clan members in Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg5e551j593o?at_medium=RSS&at_campaign=rss" target="_blank">Clashes erupt between Hamas forces and armed clan members in Gaza City</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-12 18:32</span>
             </div>
         </div>
 </div>
@@ -162,6 +168,35 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
+Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-20kn" target="_blank">I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
+Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 01:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mnolangray.substack.com/p/everything-you-need-to-know-about" target="_blank">Everything You Need to Know About [California] SB 79</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-13 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Ghostty 1.2 Adds Quick Terminal on Linux, Command Palette + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ghostty-1-2-new-features-for-linux" target="_blank">Ghostty 1.2 Adds Quick Terminal on Linux, Command Palette + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-12 22:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -186,33 +221,6 @@
                 <span class="title"><a href="https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/" target="_blank">Django: Introducing django-http-compression - Adam Johnson</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-12 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc1-Released" target="_blank">Linux 6.18-rc1 Released With New Tyr &amp; Rocket Drivers, Haptic Touchpads &amp; DM-PCACHE</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-12 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devtechinsights/mastering-data-structures-algorithms-becoming-a-smarter-programmer-446g" target="_blank">Mastering Data Structures &amp; Algorithms: Becoming a Smarter Programmer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="What are Core Web Vitals?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/what-are-core-web-vitals-3a20" target="_blank">What are Core Web Vitals?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-12 18:40</span>
             </div>
         </div>
 </div>
@@ -293,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
