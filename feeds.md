@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 06:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 07:01:38 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/israelis-cheer-as-hamas-hands-first-captives-over-to-the-red-cross?traffic_source=rss" target="_blank">Israelis cheer as Hamas hands first captives over to the Red Cross</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-13 06:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760337482922_f_vert_brk_seven_hostages_bradley_251012_720x1280-94newc.jpg" alt="Seven hostages handed over from Hamas to the Red Cross" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/shorts/first-seven-hostages-transferred-to-red-cross-249749573839" target="_blank">Seven hostages handed over from Hamas to the Red Cross</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-13 06:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump arrives in Israel as hostages being released: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump arrives in Israel as hostages being released: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-13 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/13/g-s1-93207/hamas-releasing-israeli-hostages" target="_blank">In a major milestone, Hamas begins releasing final Israeli hostages</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-13 06:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/hostage_square_thumb-ptxdg6.jpg" alt="Israelis gather in Tel Aviv, awaiting hostage release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -60,42 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/12/nx-s1-5571936/zion-church-ezra-jin-arrest-china-christian" target="_blank">Pastors and staff from underground church are arrested in China</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-13 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4f/live/1c92fe80-a7b5-11f0-b8b2-4f209a50dbe9.jpg" alt="Trump says &#x27;war is over&#x27; in Gaza as he flies to Israel for release of hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn409y125v3o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;war is over&#x27; in Gaza as he flies to Israel for release of hostages</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-13 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/13/live-israel-hamas-set-to-free-captives-trump-says-gaza-war-is-over?traffic_source=rss" target="_blank">LIVE: Israel, Hamas set to free captives; Trump says Gaza ‘war is over’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-13 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760311188615_wnn_pal_trump_heads_to_middle_east_251012_1920x1080-b5q801.jpg" alt="Trump makes historic visit to Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-heads-to-israel-amid-preparations-for-hostage-return-249736261618" target="_blank">Trump makes historic visit to Israel</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-12 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/12/frances-macron-unveils-new-government-ahead-of-budget-deadline?traffic_source=rss" target="_blank">France’s Macron unveils new government ahead of budget deadline</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-12 21:49</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsce8m0lmaqvnx166584b.png" alt="Part 5: Production Deployment and Enterprise Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techstuff/part-5-production-deployment-and-enterprise-architecture-a2c" target="_blank">Part 5: Production Deployment and Enterprise Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 06:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +221,6 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
 Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-13 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mnolangray.substack.com/p/everything-you-need-to-know-about" target="_blank">Everything You Need to Know About [California] SB 79</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-13 00:14</span>
             </div>
         </div>
 </div>
@@ -296,8 +301,8 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
