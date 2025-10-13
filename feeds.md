@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 18:02:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-13 19:01:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/donald-trump-41-epa-gmh-251013_1760372818479_hpMain_4x3t_384.jpg" alt="Trump, world leaders gather in Egypt for ceasefire deal signing with Netanyahu absent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-world-leaders-gather-egypt-ceasefire-deal-signing/story?id=126477199" target="_blank">Trump, world leaders gather in Egypt for ceasefire deal signing with Netanyahu absent</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-13 18:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/hostages-3-rt-gmh-251013_1760348721239_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Trump signs peace agreement, last living hostages released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/trump-urges-israeli-president-to-pardon-netanyahu-of-corruption-charges?traffic_source=rss" target="_blank">Trump urges Israeli president to pardon Netanyahu of corruption charges</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-13 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-egypt_7050047.jpg?20251013161217" alt="Trump&#x27;s plan has delivered a spectacular day - but has postponed harder decisions which now loom into view" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trumps-plan-has-delivered-a-spectacular-day-but-has-postponed-harder-decisions-which-now-loom-into-view-13449578" target="_blank">Trump&#x27;s plan has delivered a spectacular day - but has postponed harder decisions which now loom into view</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-13 15:26</span>
             </div>
         </div>
 </div>
@@ -178,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18695725&w=600" alt="Automating REST Interface Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automating-rest-interface-generation" target="_blank">Automating REST Interface Generation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-13 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/ubuntu-2510-upgrade.jpg?resize=406%2C232&amp;ssl=1" alt="Waiting to Upgrade to Ubuntu 25.10? Here’s When You Can" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -213,20 +213,20 @@
                 <span class="time">2025-10-13 16:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18696380&w=600" alt="What Is API Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-api-testing" target="_blank">What Is API Testing?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-13 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html" target="_blank">Rewiring Democracy is Coming Soon</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-13 16:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,12 +242,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Peacemaker-DC-Studios-John-Cena-io9-2025-review-1280x853.jpg" alt="6 Things We Liked, and 3 We Didn’t, About ‘Peacemaker’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/6-things-we-liked-and-3-we-didnt-about-peacemaker-season-2-2000671003" target="_blank">6 Things We Liked, and 3 We Didn’t, About ‘Peacemaker’ Season 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-13 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-13 18:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/eagle.jpg?fit=1200%2C960&amp;quality=60&amp;ssl=1" alt="Birds facing forward look ridiculous, and this Reddit forum proves it with photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/10/13/it-turns-out-birds-look-much-less-majestic-when-they-face-forward.html" target="_blank">Birds facing forward look ridiculous, and this Reddit forum proves it with photos</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-13 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Hisense-1280x853.jpg" alt="Amazon Raised Its Fire TV Prices, but Hisense’s 43″ Smart Fire TV Is Still at a Steal to Clear Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-raised-its-fire-tv-prices-but-hisenses-43%e2%80%b3-smart-fire-tv-is-still-at-a-steal-to-clear-out-stock-2000634061" target="_blank">Amazon Raised Its Fire TV Prices, but Hisense’s 43″ Smart Fire TV Is Still at a Steal to Clear Out Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-13 17:10</span>
             </div>
         </div>
 <div class="story">
@@ -266,33 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musks-boring-company-accused-of-nearly-800-environmental-violations-on-las-vegas-project-2000671820" target="_blank">Elon Musk’s Boring Company Accused of Nearly 800 Environmental Violations on Las Vegas Project</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-13 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYKW5CHJ5W0VMC8STAYW46FR/hero-image.png" alt="What to Do Before Microsoft Cuts Off Support for Windows 10 on Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/extra-year-windows-10-security-updates?utm_medium=RSS" target="_blank">What to Do Before Microsoft Cuts Off Support for Windows 10 on Tuesday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Flixy-1280x853.jpg" alt="Forget Amazon Fire TV Stick, Flixy TV Stick Gives You Limitless Streaming at 75% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/forget-amazon-fire-tv-stick-flixy-tv-stick-gives-you-limitless-streaming-at-75-off-2000671726" target="_blank">Forget Amazon Fire TV Stick, Flixy TV Stick Gives You Limitless Streaming at 75% Off</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-13 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/devil-dog.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Texas man convinced his county to ban &quot;hello&quot; for being too satanic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/13/heaveno-vs-hello-the-bizarre-1990s-crusade-against-a-common-greeting.html" target="_blank">Texas man convinced his county to ban &quot;hello&quot; for being too satanic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-13 13:30</span>
             </div>
         </div>
 </div>
@@ -332,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
