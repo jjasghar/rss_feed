@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 17:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 18:02:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Monday, October 13, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hostages-3-rt-gmh-251013_1760348721239_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Trump signs peace agreement, last living hostages released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: Trump signs peace agreement, last living hostages released</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-13 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/trump-praises-el-sisi-for-very-important-role-in-gaza-ceasefire-talks?traffic_source=rss" target="_blank">Trump praises el-Sisi for ‘very important role’ in Gaza ceasefire talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-13 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump speaks at peace summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +104,38 @@
                 <span class="time">2025-10-13 15:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/13/madagascar-president-andry-rajoelina-flees-country-capsat" target="_blank">Madagascar president flees after losing support of key army unit</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-13 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china?traffic_source=rss" target="_blank">Trump’s 100% tariff threat: History of US trade measures against China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-13 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/sever2-500x500.jpg" alt="Apple’s streaming service gets harder to tell apart from its streaming app, box" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/" target="_blank">Apple’s streaming service gets harder to tell apart from its streaming app, box</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-13 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai" target="_blank">New California law requires AI to tell you it’s AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-13 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/" target="_blank">Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-13 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,33 +163,6 @@
                 <span class="time">2025-10-13 14:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/" target="_blank">Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68645ab469fff38262c0c632/master/pass/These%20Are%20Our%20Favorite%20Smart%20Displays.png" alt="3 Best Smart Displays (2025): Tested By a Smart Home Addict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-displays/" target="_blank">3 Best Smart Displays (2025): Tested By a Smart Home Addict</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-13 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798797/uk-ofcom-fines-4chan-online-safety-act" target="_blank">UK fines 4Chan over online safety compliance</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-13 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,9 +172,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-k26" target="_blank">CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/ubuntu-2510-upgrade.jpg?resize=406%2C232&amp;ssl=1" alt="Waiting to Upgrade to Ubuntu 25.10? Here’s When You Can" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/upgrade-to-ubuntu-25-10-delay" target="_blank">Waiting to Upgrade to Ubuntu 25.10? Here’s When You Can</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-13 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/manas_1/why-do-you-need-react-query--1pfa" target="_blank">Why do you need react query ?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-13 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://allvpv.org/haotic-journey-through-envvars/" target="_blank">Environment variables are a legacy mess: Let&#x27;s dive deep into them</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-13 16:49</span>
             </div>
         </div>
 <div class="story">
@@ -183,33 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/understanding-api-testing" target="_blank">What Is API Testing?</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-13 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-618-features" target="_blank">Linux 6.18 Features: New AMD &amp; Intel CPU Features, Rocket Driver, DM-PCACHE, Other New Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-13 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/genkit-extension-gemini/en/headerimage/generatedHeaderImage-1760297925155.jpg" alt="Genkit Extension for Gemini CLI Brings Framework-Aware AI Assistance to the Terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/genkit-extension-gemini/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Genkit Extension for Gemini CLI Brings Framework-Aware AI Assistance to the Terminal</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-13 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18696359&w=600" alt="AI Infrastructure: Compute, Storage, Observability, Security, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-infrastructure-compute-storage-observability" target="_blank">AI Infrastructure: Compute, Storage, Observability, Security, and More</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-13 15:00</span>
             </div>
         </div>
 </div>
@@ -231,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/eagle.jpg?fit=1200%2C960&amp;quality=60&amp;ssl=1" alt="Birds facing forward look ridiculous, and this Reddit forum proves it with photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/13/it-turns-out-birds-look-much-less-majestic-when-they-face-forward.html" target="_blank">Birds facing forward look ridiculous, and this Reddit forum proves it with photos</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-13 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J71JK1VTKVK8GZZCJXS4T585/hero-image.jpg" alt="How to Do the Norwegian 4x4 Workout Trend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/what-is-norwegian-4x4-workout?utm_medium=RSS" target="_blank">How to Do the Norwegian 4x4 Workout Trend</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-13 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/03/7bc27848612c2cfd43b08597a47ecd50-1024x683.jpg" alt="Elon Musk’s Boring Company Accused of Nearly 800 Environmental Violations on Las Vegas Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/13/heaveno-vs-hello-the-bizarre-1990s-crusade-against-a-common-greeting.html" target="_blank">Texas man convinced his county to ban &quot;hello&quot; for being too satanic</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-13 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/dolly-parton.jpg?fit=1200%2C960&amp;quality=60&amp;ssl=1" alt="Dolly Parton shuts down death rumors: &quot;I ain&#x27;t dead yet!&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/13/dolly-parton-reassures-anxious-nation-with-proof-of-life.html" target="_blank">Dolly Parton shuts down death rumors: &quot;I ain&#x27;t dead yet!&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-13 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/warner-paramount.jpg" alt="Holy Monopoly, Batman: Warner Bros. Reportedly Reject A Buyout Bid From Paramount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/holy-monopoly-batman-warner-bros-reportedly-reject-a-buyout-bid-from-paramount-2000634581" target="_blank">Holy Monopoly, Batman: Warner Bros. Reportedly Reject A Buyout Bid From Paramount</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-13 12:42</span>
             </div>
         </div>
 </div>
@@ -322,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
