@@ -1,16 +1,12 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 21:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 22:02:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
@@ -19,23 +15,25 @@
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Monday, October 13, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +109,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-500x500.jpg" alt="Hackers can steal 2FA codes and private messages from Android phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/" target="_blank">Hackers can steal 2FA codes and private messages from Android phones</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-13 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/13/grindrs-owners-may-take-it-private-after-a-financial-squeeze/" target="_blank">Grindr’s owners may take it private after a financial squeeze</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-13 21:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -144,24 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai" target="_blank">New California law requires AI to tell you it’s AI</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-13 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/" target="_blank">Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798772/ecoflow-delta-pro-ultra-x-battery-system" target="_blank">EcoFlow’s Delta Pro Ultra X can power a home for weeks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-13 15:00</span>
             </div>
         </div>
 </div>
@@ -252,6 +250,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/nextfest12-1280x720.jpg" alt="10 Of The Best Demos To Check Out In October’s Steam Next Fest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-free-demos-next-fest-painkiller-reanimal-steam-2000634620" target="_blank">10 Of The Best Demos To Check Out In October’s Steam Next Fest</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-13 21:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7FM51JTAQBF2TS41GS38N0N/hero-image.jpg" alt="You Can Now Hide Sponsored Ads in Google Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-hide-google-search-ads?utm_medium=RSS" target="_blank">You Can Now Hide Sponsored Ads in Google Search</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-13 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K7FG9C5VVNT0VJ2B59TQE0AA/hero-image.png" alt="Why You Should Only Use Google’s NotebookLM in a Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -285,24 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-13 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/eagle.jpg?fit=1200%2C960&amp;quality=60&amp;ssl=1" alt="Birds facing forward look ridiculous, and this Reddit forum proves it with photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/13/it-turns-out-birds-look-much-less-majestic-when-they-face-forward.html" target="_blank">Birds facing forward look ridiculous, and this Reddit forum proves it with photos</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-13 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Hisense-1280x853.jpg" alt="Amazon Raised Its Fire TV Prices, but Hisense’s 43″ Smart Fire TV Is Still at a Steal to Clear Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-raised-its-fire-tv-prices-but-hisenses-43%e2%80%b3-smart-fire-tv-is-still-at-a-steal-to-clear-out-stock-2000634061" target="_blank">Amazon Raised Its Fire TV Prices, but Hisense’s 43″ Smart Fire TV Is Still at a Steal to Clear Out Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-13 17:10</span>
             </div>
         </div>
 </div>
@@ -342,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
