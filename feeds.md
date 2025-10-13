@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 10:01:54 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-13 11:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760351194410_f_vert_brk_palestinian_prisoners_release_251013_720x1280-aztglo.jpg" alt="Palestinian prisoners released as part of ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/shorts/palestinian-prisoners-released-as-part-of-ceasefire-deal-249762373503" target="_blank">Palestinian prisoners released as part of ceasefire deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-13 10:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Pres. Trump addressing Israeli parliament after all living hostages released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/13/the-existence-of-hunger-is-a-political-choice?traffic_source=rss" target="_blank">The existence of hunger is a political choice</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-13 08:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760344193654_f_vert_brk_trump_knesset_beginning_251013_720x1280-a076ef.jpg" alt="Trump marks &#x27;a new beginning&#x27; at Israel&#x27;s Knesset" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/shorts/trump-marks-a-new-beginning-at-israel-s-knesset-249758277718" target="_blank">Trump marks &#x27;a new beginning&#x27; at Israel&#x27;s Knesset</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-13 08:29</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/podcasts/mental-models-architecture-societal-views/en/smallimage/the-infoq-podcast-logo-thumbnail-1759407837280.jpg" alt="Podcast: Mental Models in Architecture and Societal Views of Technology: A Conversation with Nimisha Asthagiri" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/mental-models-architecture-societal-views/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Mental Models in Architecture and Societal Views of Technology: A Conversation with Nimisha Asthagiri</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-13 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm7qn0etf2c8822wi5fn0.png" alt="ChatGPT Alternative for SQL Query Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi" target="_blank">ChatGPT Alternative for SQL Query Optimization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pecar.me/django-bulk-update-memory-issue" target="_blank">Django bulk_update memory issue</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-13 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tech.marksblogg.com/american-solar-farms.html" target="_blank">American Solar Farms</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-13 10:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvteqj0vbyhxh2p653ahw.png" alt="Stereographic equations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -183,42 +216,6 @@
                 <span class="title"><a href="https://dev.to/hadil/-1di3" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-13 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/elecrow-raspberry-pi-5-case/" target="_blank">The Affordable Pironman Alternative Mini PC Case for Raspberry Pi 5</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-13 07:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsce8m0lmaqvnx166584b.png" alt="Part 5: Production Deployment and Enterprise Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techstuff/part-5-production-deployment-and-enterprise-architecture-a2c" target="_blank">Part 5: Production Deployment and Enterprise Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/junaaid96/claude-code-bnaam-cursor-ddebhelpaarder-jny-smpuurnn-tulnaa-2a65" target="_blank">Claude Code বনাম Cursor: ডেভেলপারদের জন্য সম্পূর্ণ তুলনা</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 05:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/chat-gpt-mcp/en/headerimage/generatedHeaderImage-1760183521984.jpg" alt="OpenAI Adds Full MCP Support to ChatGPT Developer Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/chat-gpt-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Adds Full MCP Support to ChatGPT Developer Mode</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-13 05:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
