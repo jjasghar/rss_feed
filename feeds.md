@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 16:02:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 17:01:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump speaks at peace summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump speaks at peace summit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-13 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c103/live/fd00aa00-a84e-11f0-92db-77261a15b9d2.jpg" alt="&#x27;You&#x27;re my life, my hero&#x27;: Hostages reunite with families after two years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cyv8p8m4qg6o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;You&#x27;re my life, my hero&#x27;: Hostages reunite with families after two years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-13 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/trump-urges-israeli-president-to-pardon-netanyahu-of-corruption-charges?traffic_source=rss" target="_blank">Trump urges Israeli president to pardon Netanyahu of corruption charges</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-13 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-egypt_7050047.jpg?20251013161217" alt="Trump&#x27;s plan has delivered a spectacular day - but has postponed harder decisions which now loom into view" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-plan-has-delivered-a-spectacular-day-but-has-postponed-harder-decisions-which-now-loom-into-view-13449578" target="_blank">Trump&#x27;s plan has delivered a spectacular day - but has postponed harder decisions which now loom into view</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-13 15:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -63,42 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china?traffic_source=rss" target="_blank">Trump’s 100% tariff threat: History of US trade measures against China</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-13 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251013-released-hostages-lr-01748d.jpg" alt="Who are the 20 hostages released by Hamas?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israel-hamas-gaza-who-are-20-surviving-hostages-rcna237251" target="_blank">Who are the 20 hostages released by Hamas?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-13 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/donald-trump-14-gty-gmh-251013_1760354697686_hpMain_4x3t_384.jpg" alt="Trump touts &#x27;historic dawn of a new Middle East&#x27; in Knesset speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-tout-historic-dawn-new-middle-east-knesset/story?id=126462793" target="_blank">Trump touts &#x27;historic dawn of a new Middle East&#x27; in Knesset speech</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-13 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/13/g-s1-92391/landmines-hilton-humanitarian" target="_blank">This wedding photographer now removes landmines for a group that&#x27;s won a top prize</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-13 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/first-nations-community-fights-canadian-government-over-poisoned-water?traffic_source=rss" target="_blank">First Nations community fights Canadian government over poisoned water</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-13 12:38</span>
             </div>
         </div>
 </div>
@@ -169,9 +162,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manas_1/why-do-you-need-react-query--1pfa" target="_blank">Why do you need react query ?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-the-running-man-official-trailer-2-2025-glen-powell-william-h-macy-lee-pace-5bjj" target="_blank">IGN: The Running Man - Official Trailer #2 (2025) Glen Powell, William H. Macy, Lee Pace</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-13 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18696380&w=600" alt="What Is API Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-api-testing" target="_blank">What Is API Testing?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-13 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -184,39 +195,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/genkit-extension-gemini/en/headerimage/generatedHeaderImage-1760297925155.jpg" alt="Genkit Extension for Gemini CLI Brings Framework-Aware AI Assistance to the Terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/genkit-extension-gemini/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Genkit Extension for Gemini CLI Brings Framework-Aware AI Assistance to the Terminal</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-13 15:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18696359&w=600" alt="AI Infrastructure: Compute, Storage, Observability, Security, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/ai-infrastructure-compute-storage-observability" target="_blank">AI Infrastructure: Compute, Storage, Observability, Security, and More</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18693668&w=600" alt="AI-Driven Developer Tools: Transforming the Future of Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-driven-developer-tools" target="_blank">AI-Driven Developer Tools: Transforming the Future of Software Development</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/github-mcp-registry/en/headerimage/github-mcp-registry-1760358548042.jpeg" alt="GitHub MCP Registry Offers a Central Hub for Discovering and Deploying MCP Servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/github-mcp-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub MCP Registry Offers a Central Hub for Discovering and Deploying MCP Servers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/" target="_blank">No Science, No Startups: The Innovation Engine We&#x27;re Switching Off</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-13 13:02</span>
             </div>
         </div>
 </div>
@@ -329,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
