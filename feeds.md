@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 05:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-13 06:02:23 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 05:01 UTC</div>
+    <div class="newspaper-date">Monday, October 13, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/hostage_square_thumb-ptxdg6.jpg" alt="Israelis gather in Tel Aviv, awaiting hostage release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/shorts/israelis-gather-in-tel-aviv-awaiting-hostage-release-249744965804" target="_blank">Israelis gather in Tel Aviv, awaiting hostage release</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-13 03:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +98,20 @@
                 <span class="time">2025-10-12 21:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Badenoch demands PM address &#x27;unanswered&#x27; China spy case questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch demands PM address &#x27;unanswered&#x27; China spy case questions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-12 21:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/12/strava-eyes-ipo-as-gen-z-trades-dating-apps-for-running-clubs/" target="_blank">Strava eyes IPO as Gen Z trades dating apps for running clubs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-13 05:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e3e026f36681f1f18c8cb7/master/pass/encelado.jpg" alt="More Evidence Emerges That One of Saturn’s Moons Could Harbor Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +157,29 @@
                 <span class="time">2025-10-12 16:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/" target="_blank">Nvidia’s AI empire: A look at its top startup investments</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-12 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/junaaid96/claude-code-bnaam-cursor-ddebhelpaarder-jny-smpuurnn-tulnaa-2a65" target="_blank">Claude Code বনাম Cursor: ডেভেলপারদের জন্য সম্পূর্ণ তুলনা</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 05:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/chat-gpt-mcp/en/headerimage/generatedHeaderImage-1760183521984.jpg" alt="OpenAI Adds Full MCP Support to ChatGPT Developer Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/chat-gpt-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Adds Full MCP Support to ChatGPT Developer Mode</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-13 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3n7ehhcn7wp786i1xvyg.png" alt="Strands Agents: A Model-First SDK for Building Autonomous AI on AWS and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +216,6 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
                 <span class="title"><a href="https://mnolangray.substack.com/p/everything-you-need-to-know-about" target="_blank">Everything You Need to Know About [California] SB 79</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-13 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Ghostty 1.2 Adds Quick Terminal on Linux, Command Palette + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ghostty-1-2-new-features-for-linux" target="_blank">Ghostty 1.2 Adds Quick Terminal on Linux, Command Palette + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-12 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dorotac.eu/posts/fosswon/" target="_blank">Free software hasn&#x27;t won</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-12 21:51</span>
             </div>
         </div>
 </div>
@@ -296,8 +296,8 @@ Only a few made it into my personal high-leverage prompt library, the ones that 
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
