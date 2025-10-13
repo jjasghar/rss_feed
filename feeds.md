@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 20:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-13 21:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, October 13, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5295/live/95e52a80-a871-11f0-b741-177e3e2c2fc7.jpg" alt="Israeli hostages and Palestinian detainees freed as Trump hails &#x27;historic dawn&#x27; in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c740jx07vz0o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli hostages and Palestinian detainees freed as Trump hails &#x27;historic dawn&#x27; in Middle East</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-13 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/13/at_tt_pal_ceasefirelatest_video_v3?traffic_source=rss" target="_blank">As Palestinians return to ruins, will Trump’s ceasefire hold?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-13 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +105,29 @@
                 <span class="time">2025-10-13 17:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump speaks at peace summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump speaks at peace summit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-13 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c103/live/fd00aa00-a84e-11f0-92db-77261a15b9d2.jpg" alt="&#x27;You&#x27;re my life, my hero&#x27;: Hostages reunite with families after two years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cyv8p8m4qg6o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;You&#x27;re my life, my hero&#x27;: Hostages reunite with families after two years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-13 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/13/oura-is-winning-young-women-and-losing-gym-rats-and-its-fine-with-that/" target="_blank">Oura is winning young women and losing gym rats, and it’s fine with that</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-13 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ed359505c586ea21db5bed/master/pass/Save%20Almost%20$75%20on%20our%20Favorite%20Computer%20Monitor.png" alt="The Best PC Monitor for Most People Is $75 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dell-27-plus-deal-1025/" target="_blank">The Best PC Monitor for Most People Is $75 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-13 20:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/sever2-500x500.jpg" alt="Apple’s streaming service gets harder to tell apart from its streaming app, box" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/798772/ecoflow-delta-pro-ultra-x-battery-system" target="_blank">EcoFlow’s Delta Pro Ultra X can power a home for weeks</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-here-first-at-techcrunch-disrupt-2025/" target="_blank">Slate Auto’s electric truck: See it here first at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Truckle_7-500x500.jpg" alt="Keep losing your key fob? Ford’s new “Truckle” is the answer." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/keep-losing-your-key-fob-fords-new-truckle-is-the-answer/" target="_blank">Keep losing your key fob? Ford’s new “Truckle” is the answer.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-13 14:57</span>
             </div>
         </div>
 </div>
@@ -246,6 +252,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7FG9C5VVNT0VJ2B59TQE0AA/hero-image.png" alt="Why You Should Only Use Google’s NotebookLM in a Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-notebooklm-mobile-app-review?utm_medium=RSS" target="_blank">Why You Should Only Use Google’s NotebookLM in a Browser</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-13 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/openAI_oracle_stargate-1280x853.jpg" alt="Is the AI Conveyor Belt of Capital About to Stop?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -290,15 +305,6 @@
                 <span class="time">2025-10-13 17:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J71JK1VTKVK8GZZCJXS4T585/hero-image.jpg" alt="How to Do the Norwegian 4x4 Workout Trend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/what-is-norwegian-4x4-workout?utm_medium=RSS" target="_blank">How to Do the Norwegian 4x4 Workout Trend</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-13 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
