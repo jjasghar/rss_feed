@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 18:02:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-14 19:01:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/14/elite-military-unit-says-it-has-seized-power-in-madagascar" target="_blank">Elite military unit says it has seized power in Madagascar</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-14 17:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2de/live/f8ca8c40-a910-11f0-92db-77261a15b9d2.jpg" alt="Bowen: Trump&#x27;s role in Gaza ceasefire was decisive, but not a roadmap to peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +99,38 @@
                 <span class="time">2025-10-14 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/14/cameroon-opposition-leader-declares-victory-presidential-election" target="_blank">Cameroon opposition leader declares victory in presidential election</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-14 14:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/681cd21fc603f12b08e4fb28/master/pass/windows-10-byebye-gear-1237969700.jpg" alt="Do You Really Have to Stop Using Windows 10?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/" target="_blank">Do You Really Have to Stop Using Windows 10?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-14 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/" target="_blank">Spotify partners with Netflix for video podcast distribution deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-14 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults" target="_blank">Sam Altman says ChatGPT will soon sext with verified adults</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ee6c11dc1be629ac9ac0c7/master/pass/GettyImages-958353808.jpg" alt="Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,38 +158,20 @@
                 <span class="time">2025-10-14 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/799237/california-ab483-law-early-termination-fees" target="_blank">California cracks down on ‘predatory’ early cancellation fees</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/14/google-meet-launches-an-ai-powered-makeup-feature/" target="_blank">Google Meet launches an AI-powered makeup feature</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/798848/pokemon-legends-za-review-nintendo-switch-2" target="_blank">Pokémon Legends: Z-A is a fantastic return to (mega) form</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/byjacobbyers/hello-dev-community-im-jacob-a-senior-web-developer-exploring-what-it-means-to-build-well-2g0i" target="_blank">Hello Dev Community! I’m Jacob, a Senior Web Developer Exploring What It Means to Build Well ✌️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 18:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/zorin-os-18-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18 Released with New Look, New Apps + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +217,6 @@
                 <span class="time">2025-10-14 15:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697248&w=600" alt="Our Path to Better Certificate Management With Vault and FreeIPA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/better-certificate-management-with-vault-and-freeipa" target="_blank">Our Path to Better Certificate Management With Vault and FreeIPA</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,12 +246,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/02/57caa0074978a49d96d3151d2e9268d9.jpg" alt="Scrapped Pokémon Projects And Game Freak Drama: 8 Things We Learned From The Colossal Teraleak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-leak-budget-canceled-masuda-black-white-remake-2000635371" target="_blank">Scrapped Pokémon Projects And Game Freak Drama: 8 Things We Learned From The Colossal Teraleak</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-14 18:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Dispatch-Aaron-Paul-Video-Game-Interview-io9-template-2-A-1280x853.jpg" alt="Why Aaron Paul Finally Said Yes to a Video Game in ‘Dispatch’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/aaron-paul-dispatch-video-game-interview-2000672017" target="_blank">Why Aaron Paul Finally Said Yes to a Video Game in ‘Dispatch’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-14 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/10/bitcoin-bimbo.jpg?fit=998%2C620&amp;quality=60&amp;ssl=1" alt="Trump manipulates Bitcoin price via China tariff posts, says Paul Krugman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/14/trump-manipulates-bitcoin-price-via-china-tariff-posts-says-paul-krugman.html" target="_blank">Trump manipulates Bitcoin price via China tariff posts, says Paul Krugman</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-14 17:10</span>
             </div>
         </div>
 <div class="story">
@@ -274,24 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/14/trump-criticized-time-cover-photo-calling-it-super-bad.html" target="_blank">Trump criticized Time cover photo, calling it super bad</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-14 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/MiniGeekom-1280x853.jpg" alt="GEEKOM Ryzen 7 Gaming Mini PC Was Pricier Than a Mac Mini, Now It’s Cheaper and at Its Lowest Price Yet (32GB RAM, 1TB SSD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/geekom-ryzen-7-mini-pc-was-pricier-than-a-mac-mini-now-its-cheaper-and-at-its-lowest-price-yet-32gb-ram-1tb-ssd-2000634644" target="_blank">GEEKOM Ryzen 7 Gaming Mini PC Was Pricier Than a Mac Mini, Now It’s Cheaper and at Its Lowest Price Yet (32GB RAM, 1TB SSD)</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-14 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/california-storm-1280x853.jpg" alt="Neighborhoods Devastated by LA Wildfires Now Brace for Deadly Flash Floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/neighborhoods-los-angeles-wildfires-brace-deadly-flash-floods-2000672052" target="_blank">Neighborhoods Devastated by LA Wildfires Now Brace for Deadly Flash Floods</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-14 15:35</span>
             </div>
         </div>
 </div>
@@ -331,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
