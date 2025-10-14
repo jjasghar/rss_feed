@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 17:01:38 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-10-14 18:02:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2de/live/f8ca8c40-a910-11f0-92db-77261a15b9d2.jpg" alt="Bowen: Trump&#x27;s role in Gaza ceasefire was decisive, but not a roadmap to peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss" target="_blank">Bowen: Trump&#x27;s role in Gaza ceasefire was decisive, but not a roadmap to peace</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-14 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hostages-3-rt-gmh-251013_1760348721239_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: 5 Palestinians killed in Gaza City, IDF says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: 5 Palestinians killed in Gaza City, IDF says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-14 17:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +94,29 @@
                 <span class="time">2025-10-14 14:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0586/live/bed91100-a906-11f0-99b2-a3801a157d90.jpg" alt="French PM backs freezing Macron&#x27;s pension reform to save government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crkldd02xg8o?at_medium=RSS&at_campaign=rss" target="_blank">French PM backs freezing Macron&#x27;s pension reform to save government</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-14 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/68968370-a8ef-11f0-92db-77261a15b9d2.jpg" alt="UK will be second-fastest-growing G7 economy, IMF predicts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn092p27xn0o?at_medium=RSS&at_campaign=rss" target="_blank">UK will be second-fastest-growing G7 economy, IMF predicts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-14 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ee6c11dc1be629ac9ac0c7/master/pass/GettyImages-958353808.jpg" alt="Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/" target="_blank">Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-14 17:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2207496721-500x500-1760454212.jpg" alt="OpenAI unveils “wellness” council; suicide prevention expert not included" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/openai-unveils-wellness-council-suicide-prevention-expert-not-included/" target="_blank">OpenAI unveils “wellness” council; suicide prevention expert not included</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/dgx_spark-500x500.jpg" alt="Nvidia sells tiny new computer that puts big AI on your desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +153,20 @@
                 <span class="time">2025-10-14 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2165725341-500x500.jpg" alt="GM’s EV push will cost it $1.6 billion in Q3 with end of the tax credit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/gms-ev-push-will-cost-it-1-6-billion-in-q3-with-end-of-the-tax-credit/" target="_blank">GM’s EV push will cost it $1.6 billion in Q3 with end of the tax credit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-14 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale" target="_blank">The latest Moto Razr Ultra foldable is an even better value at $999</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/zorin-os-18-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18 Released with New Look, New Apps + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/zorin-os-18-released-with-new-look-new-apps-more" target="_blank">Zorin OS 18 Released with New Look, New Apps + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-14 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697533&w=600" alt="Advanced Snowflake SQL for Data Engineering Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +212,6 @@
                 <span class="time">2025-10-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/56adeefe-5dfe-4244-992e-c5f99fbf1a45_1464x1000.png" alt="The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-2025-survey-part-3" target="_blank">The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 3</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-14 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +241,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Dispatch-Aaron-Paul-Video-Game-Interview-io9-template-2-A-1280x853.jpg" alt="Why Aaron Paul Finally Said Yes to a Video Game in ‘Dispatch’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/aaron-paul-dispatch-video-game-interview-2000672017" target="_blank">Why Aaron Paul Finally Said Yes to a Video Game in ‘Dispatch’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-14 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/0-2.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Watch as the replica of Columbus&#x27;s Santa Maria sinks (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/14/watch-as-the-replica-of-columbus-santa-maria-sinks-video.html" target="_blank">Watch as the replica of Columbus&#x27;s Santa Maria sinks (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-14 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7HKS2EC66R5V07E8KEZC37R/hero-image.jpg" alt="How to Fix Randomly Crashing Apps on Your Pixel 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-randomly-crashing-apps-on-pixel-10?utm_medium=RSS" target="_blank">How to Fix Randomly Crashing Apps on Your Pixel 10</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-14 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump criticized Time cover photo, calling it super bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -272,33 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/neighborhoods-los-angeles-wildfires-brace-deadly-flash-floods-2000672052" target="_blank">Neighborhoods Devastated by LA Wildfires Now Brace for Deadly Flash Floods</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-14 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J8FS01VYQM1PSDQ1GTRMM0ZY/hero-image.jpg" alt="The At-Home Nasal Flu Vaccine Is Now Available for Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/how-to-order-flu-mist-at-home-flu-vaccine?utm_medium=RSS" target="_blank">The At-Home Nasal Flu Vaccine Is Now Available for Delivery</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/trump-tariffs-e1744310308915.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="U.S. consumers paying most of the costs of Trump&#x27;s tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/14/u-s-consumers-paying-most-of-the-costs-of-trumps-tariffs.html" target="_blank">U.S. consumers paying most of the costs of Trump&#x27;s tariffs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-14 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7HJ45WWRZ7G4014MZ3XXJ2Q/hero-image.png" alt="These Beats Fit Pro Earbuds Are Less Than Half Their Original Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-fit-pro-earbuds-stacksocial-sale-october-2025?utm_medium=RSS" target="_blank">These Beats Fit Pro Earbuds Are Less Than Half Their Original Price Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-14 14:30</span>
             </div>
         </div>
 </div>
@@ -338,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
