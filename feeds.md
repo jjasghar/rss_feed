@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 07:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-14 08:02:22 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/cameroons-issa-tchiroma-bakary-claims-presidential-election-victory?traffic_source=rss" target="_blank">Cameroon’s Issa Tchiroma Bakary claims presidential election victory</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 07:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +107,20 @@
                 <span class="time">2025-10-14 00:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/14/live-trump-signs-gaza-ceasefire-deal-with-leaders-of-qatar-egypt-turkiye?traffic_source=rss" target="_blank">LIVE: Trump signs Gaza ceasefire deal with leaders of Qatar, Egypt, Turkiye</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-14 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11recap1-500x500.jpg" alt="SpaceX finally got exactly what it needed from Starship V2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/after-year-of-hardships-spacexs-starship-finally-flirts-with-perfection/" target="_blank">SpaceX finally got exactly what it needed from Starship V2</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-14 07:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68e961a8dc203222538eb046/master/pass/security_satellites_leak_data.jpg" alt="Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +166,6 @@
                 <span class="time">2025-10-13 21:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/13/oura-is-winning-young-women-and-losing-gym-rats-and-its-fine-with-that/" target="_blank">Oura is winning young women and losing gym rats, and it’s fine with that</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-13 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +178,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/" target="_blank">AI agents for your digital chores</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-10-14 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://jmduke.com/posts/post/django/" target="_blank">Django forever · Applied Cartography</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-14 06:17</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +227,6 @@ That’s how you go from developer AI augmented engineer.</a></span>
                 <span class="title"><a href="https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8n8" target="_blank">COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-14 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf" target="_blank">There are sensitive internal links in the clear on GEO satellites [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-14 01:48</span>
             </div>
         </div>
 </div>
@@ -342,8 +348,8 @@ That’s how you go from developer AI augmented engineer.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
