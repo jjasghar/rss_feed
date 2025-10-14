@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 11:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-14 12:02:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/14/g-s1-93331/up-first-newsletter-gaza-israel-trump-middle-east-ice" target="_blank">What&#x27;s next for Gaza. And, ICE tactics are reportedly becoming more violent</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-14 11:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +102,29 @@
                 <span class="time">2025-10-14 07:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/14/kl-rahul-india-defeat-west-indies-in-second-test-to-sweep-series?traffic_source=rss" target="_blank">KL Rahul, India defeat West Indies in second Test to sweep series</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-14 06:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/cs/features/798490/trans-visibility-trap" target="_blank">How trans visibility became a trap</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/14/instagram-defaults-to-pg-13-content-for-teens-adds-more-parental-controls/" target="_blank">Instagram to show PG-13 content by default to teens, adds more parental controls</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685a0f7ab6b088e62b023e71/master/pass/the%20best%20greens.png" alt="14 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +161,38 @@
                 <span class="time">2025-10-14 07:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68e961a8dc203222538eb046/master/pass/security_satellites_leak_data.jpg" alt="Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/" target="_blank">Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-14 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer" target="_blank">Nvidia’s ‘personal AI supercomputer’ goes on sale October 15th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ktye.github.io/" target="_blank">Zoo of Array Languages</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-14 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/firefox-144.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 144 Released with Google Lens Support, Profile Manager + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/firefox-144-released-new-features" target="_blank">Firefox 144 Released with Google Lens Support, Profile Manager + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-14 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/paper2agent/en/headerimage/generatedHeaderImage-1760438886575.jpg" alt="Paper2Agent Converts Scientific Papers Into Interactive AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/paper2agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Paper2Agent Converts Scientific Papers Into Interactive AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-14 10:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,37 +220,6 @@
                 <span class="time">2025-10-14 09:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/" target="_blank">AI agents for your digital chores</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-14 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://jmduke.com/posts/post/django/" target="_blank">Django forever · Applied Cartography</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-14 06:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="If you&#x27;re just starting, don’t aim to master AI overnight. Start by mastering prompt thinking then systems then automation.
-
-That’s how you go from developer AI augmented engineer." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/if-youre-just-starting-dont-aim-to-master-ai-overnight-start-by-mastering-prompt-thinking--2kmc" target="_blank">If you&#x27;re just starting, don’t aim to master AI overnight. Start by mastering prompt thinking then systems then automation.
-
-That’s how you go from developer AI augmented engineer.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 05:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,15 +232,6 @@ That’s how you go from developer AI augmented engineer.</a></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html" target="_blank">Rewiring Democracy is Coming Soon</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-10-13 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html" target="_blank">AI and the Future of American Politics</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-13 11:04</span>
             </div>
         </div>
 </div>
@@ -344,8 +330,8 @@ That’s how you go from developer AI augmented engineer.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
