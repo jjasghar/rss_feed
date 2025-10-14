@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 10:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-14 11:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/14/g-s1-93307/a-nobel-prize-for-explaining-when-technology-leads-to-growth" target="_blank">A Nobel Prize for explaining when technology leads to growth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-14 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/fact-checking-donald-trumps-speech-in-israeli-parliament?traffic_source=rss" target="_blank">Fact-checking Donald Trump’s speech in Israeli parliament</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/donald-trump-12-gty-gmh-251013_1760353660308_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s not peace yet&#x27;: Experts react after Trump declares Israel-Hamas war is over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-declares-end-israel-hamas-war-experts-hard/story?id=126482789" target="_blank">&#x27;It&#x27;s not peace yet&#x27;: Experts react after Trump declares Israel-Hamas war is over</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-14 09:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +103,29 @@
                 <span class="time">2025-10-14 06:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/14/g-s1-93322/death-toll-torrential-rains-mexico" target="_blank">Death toll from torrential rains in Mexico rises to 64 as search expands</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-14 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/14/cape-verde-clinches-historic-first-qualification-for-fifa-world-cup?traffic_source=rss" target="_blank">Cape Verde clinches historic first qualification for FIFA World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-14 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/13/nx-s1-5573520/space-x-eleventh-test-flight-starship" target="_blank">SpaceX launches 11th test flight of its mega Starship rocket with another win</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-14 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685a0f7ab6b088e62b023e71/master/pass/the%20best%20greens.png" alt="14 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-greens-powders/" target="_blank">14 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-14 10:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798997/tivo-stops-dvr-hardware-production-sales" target="_blank">TiVo no longer makes DVRs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 09:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +162,29 @@
                 <span class="time">2025-10-14 00:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/13/goldman-sachs-is-acquiring-industry-ventures-for-up-to-965m-as-alternative-vc-exits-surge/" target="_blank">Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-13 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-500x500.jpg" alt="Hackers can steal 2FA codes and private messages from Android phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/" target="_blank">Hackers can steal 2FA codes and private messages from Android phones</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-13 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_c329f31b/security-is-not-a-feature-its-a-foundation-109o" target="_blank">Security-is-Not-a-Feature-Its-a-Foundation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/First-DRM-Misc-Next-Linux-6.19" target="_blank">Linux 6.19 Will Continue With More Rust Graphics Driver Preparations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-14 10:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +223,6 @@ That’s how you go from developer AI augmented engineer." class="story-image" l
 That’s how you go from developer AI augmented engineer.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-14 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2783386%2F5d010cf7-2936-43e5-94a6-e7ef470faa15.jpg" alt="Beyond Workarounds: A Journey to Refine Reactive Data Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb" target="_blank">Beyond Workarounds: A Journey to Refine Reactive Data Models</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-14-2025-1ba1" target="_blank">Daily Artificial Intelligence Digest - Oct 14, 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 03:07</span>
             </div>
         </div>
 </div>
@@ -340,8 +344,8 @@ That’s how you go from developer AI augmented engineer.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
