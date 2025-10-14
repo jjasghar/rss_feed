@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 22:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-14 23:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/14/how-will-donald-trump-enforce-his-plan-for-gaza?traffic_source=rss" target="_blank">How will Donald Trump enforce his plan for Gaza?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2025-10-14 19:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760466885367_now_brk_trump_disarm_hamas_251014_1920x1080-olf7yt.jpg" alt="Trump on Hamas: ‘They will disarm or we will disarm them’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-on-hamas-they-will-disarm-or-we-will-disarm-them-249870917664" target="_blank">Trump on Hamas: ‘They will disarm or we will disarm them’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-14 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open" target="_blank">Samsung officially teases Moohan headset launch for next week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ee7c1021984a45f842f29d/master/pass/GettyImages-1570746389.jpg" alt="A Quarter of the CDC Is Gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +119,15 @@
                 <span class="title"><a href="https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/" target="_blank">A Quarter of the CDC Is Gone</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-14 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/french-ships-shadows-russian-sub-500x500.jpg" alt="NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/10/nato-boss-mocks-russian-navy-which-is-on-the-hunt-for-red-october-the-nearest-mechanic/" target="_blank">NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-14 21:17</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +157,20 @@
                 <span class="time">2025-10-14 20:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser" target="_blank">Apple teases M5 MacBook</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/681cd21fc603f12b08e4fb28/master/pass/windows-10-byebye-gear-1237969700.jpg" alt="Do You Really Have to Stop Using Windows 10?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/" target="_blank">Do You Really Have to Stop Using Windows 10?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-14 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc" target="_blank">The Art of the Map: Navigating the Modern ORM Landscape</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 22:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrp5suo3cig6fns14br1.png" alt="EFS Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/nordvpn.jpg?resize=406%2C232&amp;ssl=1" alt="NordVPN Has Open Sourced its Official Linux App GUI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/nordvpn-linux-gui-open-sourced" target="_blank">NordVPN Has Open Sourced its Official Linux App GUI</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697576&w=600" alt="Senior Developers, What to Read Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/byjacobbyers/hello-dev-community-im-jacob-a-senior-web-developer-exploring-what-it-means-to-build-well-2g0i" target="_blank">Hello Dev Community! I’m Jacob, a Senior Web Developer Exploring What It Means to Build Well ✌️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-14 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Nix-Dir-Approved" target="_blank">Path Cleared For Nix Package Manager On Fedora With /nix Approved</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-14 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://boydkane.com/essays/boss" target="_blank">Why your boss isn&#x27;t worried about AI – &quot;can&#x27;t you just turn it off?&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-14 18:26</span>
             </div>
         </div>
 </div>
@@ -245,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Avatar-20th-Century-Studios-1280x853.jpg" alt="Zoe Saldaña Thinks James Cameron Should Do an ‘Avatar’ Documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zoe-saldana-thinks-james-cameron-should-do-an-avatar-documentary-2000672300" target="_blank">Zoe Saldaña Thinks James Cameron Should Do an ‘Avatar’ Documentary</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-14 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Switch-2-Pokemon.jpg" alt="Pokémon Legends: Z-A Looks Hardly Any Different Running On Switch 1 Vs. Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-switch-2-comparison-framerate-upgrade-2000635404" target="_blank">Pokémon Legends: Z-A Looks Hardly Any Different Running On Switch 1 Vs. Switch 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-14 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/02/canada_flag_country_canadian_red_photo_free_image_royalty_free-634249.jpg?fit=640%2C480&amp;quality=60&amp;ssl=1" alt="Immigration consultant fraud leaves Chinese family broke" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +298,6 @@
                 <span class="time">2025-10-14 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/03/dogecoin-e1739219389594.jpg?fit=1080%2C864&amp;quality=60&amp;ssl=1" alt="Crypto ATMs profit as scammers run wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/14/crypto-atms-profit-as-scammers-run-wild.html" target="_blank">Crypto ATMs profit as scammers run wild</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-14 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/57caa0074978a49d96d3151d2e9268d9.jpg" alt="Scrapped Pokémon Projects And Game Freak Drama: 8 Things We Learned From The Colossal Teraleak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-leak-budget-canceled-masuda-black-white-remake-2000635371" target="_blank">Scrapped Pokémon Projects And Game Freak Drama: 8 Things We Learned From The Colossal Teraleak</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-14 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
