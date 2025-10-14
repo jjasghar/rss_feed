@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 04:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-14 05:02:07 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/14/cape-verde-clinches-historic-first-qualification-for-fifa-world-cup?traffic_source=rss" target="_blank">Cape Verde clinches historic first qualification for FIFA World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 04:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/13/nx-s1-5573520/space-x-eleventh-test-flight-starship" target="_blank">SpaceX launches 11th test flight of its mega Starship rocket with another win</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-14 00:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c740jx07vz0o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli hostages and Palestinian detainees freed as Trump hails &#x27;historic dawn&#x27; in Middle East</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-13 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/13/at_tt_pal_ceasefirelatest_video_v3?traffic_source=rss" target="_blank">As Palestinians return to ruins, will Trump’s ceasefire hold?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-13 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/13/g-s1-92838/ecuador-la-reinvencion-andina-de-la-cumbia" target="_blank">Ecuador: La reinvención andina de la cumbia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-13 19:45</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2783386%2F5d010cf7-2936-43e5-94a6-e7ef470faa15.jpg" alt="Beyond Workarounds: A Journey to Refine Reactive Data Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb" target="_blank">Beyond Workarounds: A Journey to Refine Reactive Data Models</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 04:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -182,6 +195,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf" target="_blank">There are sensitive internal links in the clear on GEO satellites [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-14 01:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mdshoagspace/green-building-practices-pathways-to-leed-and-well-certification-in-modern-architecture-3mod" target="_blank">Green Building Practices: Pathways to LEED and WELL Certification in Modern Architecture</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/abrahambishopcodes/why-your-react-app-breaks-when-you-refresh-on-vercel-and-the-2-minute-fix-1991" target="_blank">Why Your React App Breaks When You Refresh on Vercel (And the 2-Minute Fix)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-13 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/" target="_blank">GitHub Copilot CLI: How to get started</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-13 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Fixes-Long-GPU-Mesa-Issue" target="_blank">Intel Lands Big Linux GPU Driver Fix: Fixing Rendering Issues &amp; Game Hangs/Crashes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-13 20:00</span>
             </div>
         </div>
 </div>
@@ -343,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
