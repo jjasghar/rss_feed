@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-13 23:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-14 00:04:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, October 13, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bd/live/94e688c0-a87d-11f0-b741-177e3e2c2fc7.jpg" alt="Chris Mason: SNP are the latest proof that things change quickly in politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdx4lz0789xo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: SNP are the latest proof that things change quickly in politics</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-13 22:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5295/live/95e52a80-a871-11f0-b741-177e3e2c2fc7.jpg" alt="Israeli hostages and Palestinian detainees freed as Trump hails &#x27;historic dawn&#x27; in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: Trump signs peace agreement, last living hostages released</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-13 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/13/trump-praises-el-sisi-for-very-important-role-in-gaza-ceasefire-talks?traffic_source=rss" target="_blank">Trump praises el-Sisi for ‘very important role’ in Gaza ceasefire talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-13 17:23</span>
             </div>
         </div>
 </div>
@@ -157,12 +164,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rwht7myd5yocawewur9.gif" alt="Why Your React App Breaks When You Refresh on Vercel (And the 2-Minute Fix)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abrahambishopcodes/why-your-react-app-breaks-when-you-refresh-on-vercel-and-the-2-minute-fix-1991" target="_blank">Why Your React App Breaks When You Refresh on Vercel (And the 2-Minute Fix)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-13 23:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/" target="_blank">GitHub Copilot CLI: How to get started</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-10-13 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Fixes-Long-GPU-Mesa-Issue" target="_blank">Intel Lands Big Linux GPU Driver Fix: Fixing Rendering Issues &amp; Game Hangs/Crashes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-13 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -190,24 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/automating-rest-interface-generation" target="_blank">Automating REST Interface Generation</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-13 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/ubuntu-2510-upgrade.jpg?resize=406%2C232&amp;ssl=1" alt="Waiting to Upgrade to Ubuntu 25.10? Here’s When You Can" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/upgrade-to-ubuntu-25-10-delay" target="_blank">Waiting to Upgrade to Ubuntu 25.10? Here’s When You Can</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-13 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manas_1/why-do-you-need-react-query--1pfa" target="_blank">Why do you need react query ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 16:55</span>
             </div>
         </div>
 </div>
@@ -338,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
