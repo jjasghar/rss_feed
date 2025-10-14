@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 20:01:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-14 21:02:01 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 20:02 UTC</div>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +102,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/bitcoin-romance-pig-butchering-scam-500x500.jpg" alt="Feds seize $15 billion from alleged forced labor scam built on “human suffering”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/" target="_blank">Feds seize $15 billion from alleged forced labor scam built on “human suffering”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-14 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/" target="_blank">Sam Altman says ChatGPT will soon allow erotica for adult users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-14 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/799492/youtube-new-video-player-update-changes" target="_blank">YouTube has a new video player</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 20:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -132,33 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/" target="_blank">Spotify partners with Netflix for video podcast distribution deal</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-14 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults" target="_blank">Sam Altman says ChatGPT will soon sext with verified adults</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ee6c11dc1be629ac9ac0c7/master/pass/GettyImages-958353808.jpg" alt="Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/" target="_blank">Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-14 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2207496721-500x500-1760454212.jpg" alt="OpenAI unveils “wellness” council; suicide prevention expert not included" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/openai-unveils-wellness-council-suicide-prevention-expert-not-included/" target="_blank">OpenAI unveils “wellness” council; suicide prevention expert not included</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-14 17:00</span>
             </div>
         </div>
 </div>
@@ -194,6 +188,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://excamera.substack.com/p/how-bad-can-a-297-adc-be" target="_blank">How bad can a $2.97 ADC be?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-14 17:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/zorin-os-18-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18 Released with New Look, New Apps + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -208,15 +211,6 @@
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/advanced-snowflake-sql-data-engineering-analytics" target="_blank">Advanced Snowflake SQL for Data Engineering Analytics</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/" target="_blank">How GitHub Copilot and AI agents are saving legacy systems</a></span>
-                <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-10-14 16:00</span>
             </div>
         </div>
@@ -248,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/02/0aef34005447b6e41de0bab118032655-1024x576.jpg" alt="Ohio Lawmaker Wants to Ban Marriage Between Humans and AI Chatbots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ohio-lawmaker-wants-to-ban-marriage-between-humans-and-ai-chatbots-2000672216" target="_blank">Ohio Lawmaker Wants to Ban Marriage Between Humans and AI Chatbots</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-14 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/image-23.jpg" alt="FNAF Fans Greet Megan Fox Casting Reveal With Deafening Silence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/five-nights-freddys-2-megan-fox-toy-chica-comic-con-2000635402" target="_blank">FNAF Fans Greet Megan Fox Casting Reveal With Deafening Silence</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-14 20:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/vision-pro-cropped-1280x853.jpg" alt="Apple Finally Found a Use for the Vision Pro—and It’s Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +296,6 @@
                 <span class="time">2025-10-14 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/10/bitcoin-bimbo.jpg?fit=998%2C620&amp;quality=60&amp;ssl=1" alt="Trump manipulates Bitcoin price via China tariff posts, says Paul Krugman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/14/trump-manipulates-bitcoin-price-via-china-tariff-posts-says-paul-krugman.html" target="_blank">Trump manipulates Bitcoin price via China tariff posts, says Paul Krugman</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-14 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/0-2.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Watch as the replica of Columbus&#x27;s Santa Maria sinks (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/14/watch-as-the-replica-of-columbus-santa-maria-sinks-video.html" target="_blank">Watch as the replica of Columbus&#x27;s Santa Maria sinks (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-14 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +319,13 @@
                 <span class="time">2025-10-14 00:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/13/the-blessing-part-four" target="_blank">The Blessing, Part Four</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-13 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
