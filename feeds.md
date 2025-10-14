@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 00:04:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-14 01:29:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/14/live-trump-signs-gaza-ceasefire-deal-with-leaders-of-qatar-egypt-turkiye?traffic_source=rss" target="_blank">LIVE: Trump signs Gaza ceasefire deal with leaders of Qatar, Egypt, Turkiye</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bd/live/94e688c0-a87d-11f0-b741-177e3e2c2fc7.jpg" alt="Chris Mason: SNP are the latest proof that things change quickly in politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +94,29 @@
                 <span class="time">2025-10-13 18:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hostages-3-rt-gmh-251013_1760348721239_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Trump signs peace agreement, last living hostages released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: Trump signs peace agreement, last living hostages released</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-13 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e961a8dc203222538eb046/master/pass/security_satellites_leak_data.jpg" alt="Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/" target="_blank">Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-14 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer" target="_blank">Nvidia’s ‘personal AI supercomputer’ goes on sale October 15th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 00:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +153,20 @@
                 <span class="time">2025-10-13 21:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ed359505c586ea21db5bed/master/pass/Save%20Almost%20$75%20on%20our%20Favorite%20Computer%20Monitor.png" alt="The Best PC Monitor for Most People Is $75 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dell-27-plus-deal-1025/" target="_blank">The Best PC Monitor for Most People Is $75 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-13 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/sever2-500x500.jpg" alt="Apple’s streaming service gets harder to tell apart from its streaming app, box" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/" target="_blank">Apple’s streaming service gets harder to tell apart from its streaming app, box</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-13 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mdshoagspace/green-building-practices-pathways-to-leed-and-well-certification-in-modern-architecture-3mod" target="_blank">Green Building Practices: Pathways to LEED and WELL Certification in Modern Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 01:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rwht7myd5yocawewur9.gif" alt="Why Your React App Breaks When You Refresh on Vercel (And the 2-Minute Fix)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-k26" target="_blank">CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-13 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18695725&w=600" alt="Automating REST Interface Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-rest-interface-generation" target="_blank">Automating REST Interface Generation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-13 18:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
