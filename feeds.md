@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 05:02:07 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-14 06:02:31 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-family-photo-peace-summit_7050152.jpg?20251013174006" alt="Will Trump&#x27;s &#x27;goldfish&#x27; attention span stay the course?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-has-achieved-something-remarkable-but-will-his-goldfish-attention-span-stay-the-course-13449797" target="_blank">Will Trump&#x27;s &#x27;goldfish&#x27; attention span stay the course?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-14 00:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,21 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bd/live/94e688c0-a87d-11f0-b741-177e3e2c2fc7.jpg" alt="Chris Mason: SNP are the latest proof that things change quickly in politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185a/live/0ae57c10-a87f-11f0-bc97-1f661444df9d.jpg" alt="Firms advised to put plans on paper in case of cyber-attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdx4lz0789xo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: SNP are the latest proof that things change quickly in politics</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ced61xv967lo?at_medium=RSS&at_campaign=rss" target="_blank">Firms advised to put plans on paper in case of cyber-attack</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-10-13 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5295/live/95e52a80-a871-11f0-b741-177e3e2c2fc7.jpg" alt="Israeli hostages and Palestinian detainees freed as Trump hails &#x27;historic dawn&#x27; in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c740jx07vz0o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli hostages and Palestinian detainees freed as Trump hails &#x27;historic dawn&#x27; in Middle East</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-13 20:57</span>
+                <span class="time">2025-10-13 23:04</span>
             </div>
         </div>
 </div>
@@ -166,6 +161,28 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/" target="_blank">AI agents for your digital chores</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-14 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="If you&#x27;re just starting, don’t aim to master AI overnight. Start by mastering prompt thinking then systems then automation.
+
+That’s how you go from developer AI augmented engineer." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/if-youre-just-starting-dont-aim-to-master-ai-overnight-start-by-mastering-prompt-thinking--2kmc" target="_blank">If you&#x27;re just starting, don’t aim to master AI overnight. Start by mastering prompt thinking then systems then automation.
+
+That’s how you go from developer AI augmented engineer.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 05:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2783386%2F5d010cf7-2936-43e5-94a6-e7ef470faa15.jpg" alt="Beyond Workarounds: A Journey to Refine Reactive Data Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf" target="_blank">There are sensitive internal links in the clear on GEO satellites [pdf]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-14 01:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mdshoagspace/green-building-practices-pathways-to-leed-and-well-certification-in-modern-architecture-3mod" target="_blank">Green Building Practices: Pathways to LEED and WELL Certification in Modern Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rwht7myd5yocawewur9.gif" alt="Why Your React App Breaks When You Refresh on Vercel (And the 2-Minute Fix)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abrahambishopcodes/why-your-react-app-breaks-when-you-refresh-on-vercel-and-the-2-minute-fix-1991" target="_blank">Why Your React App Breaks When You Refresh on Vercel (And the 2-Minute Fix)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-13 23:37</span>
             </div>
         </div>
 </div>
@@ -347,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
