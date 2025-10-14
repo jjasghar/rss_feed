@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 16:01:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-14 17:01:38 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/14/dramatic-day-sees-army-unit-claim-power-in-madagascar?traffic_source=rss" target="_blank">Dramatic day sees army unit claim power in Madagascar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 16:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2141/live/079f1750-a906-11f0-99b2-a3801a157d90.png" alt="&#x27;It&#x27;s not over,&#x27; says son of hostage whose body remains in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +101,29 @@
                 <span class="time">2025-10-14 13:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5574057/israel-hamas-ceasefire-gaza" target="_blank">Questions remain about deceased Israeli hostages in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-14 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/dgx_spark-500x500.jpg" alt="Nvidia sells tiny new computer that puts big AI on your desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/" target="_blank">Nvidia sells tiny new computer that puts big AI on your desktop</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-14 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/799237/california-ab483-law-early-termination-fees" target="_blank">California cracks down on ‘predatory’ early cancellation fees</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 16:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,20 @@
                 <span class="time">2025-10-14 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/14/less-than-4-days-left-visibility-traction-and-growth-start-at-your-techcrunch-disrupt-2025-exhibit-table/" target="_blank">Less than 4 days left: Visibility, traction, and growth start at your TechCrunch Disrupt 2025 exhibit table</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-14 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68eda666dcdf851d7805c96c/master/pass/The%20Best%20Advent%20Calendars%20of%202025.png" alt="The Best Advent Calendars (2025): We Opened Every Door" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-advent-calendar/" target="_blank">The Best Advent Calendars (2025): We Opened Every Door</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-14 14:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697533&w=600" alt="Advanced Snowflake SQL for Data Engineering Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/advanced-snowflake-sql-data-engineering-analytics" target="_blank">Advanced Snowflake SQL for Data Engineering Analytics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-14 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="time">2025-10-14 14:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlfray5c5jdhff2lm959.png" alt="🧪 The Anatomy of a Successful A/B Test at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mujtabat/the-anatomy-of-a-successful-ab-test-at-scale-371e" target="_blank">🧪 The Anatomy of a Successful A/B Test at Scale</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,20 +242,20 @@
                 <span class="time">2025-10-14 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html" target="_blank">Rewiring Democracy is Coming Soon</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-13 16:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump criticized Time cover photo, calling it super bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/14/trump-criticized-time-cover-photo-calling-it-super-bad.html" target="_blank">Trump criticized Time cover photo, calling it super bad</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-14 16:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/MiniGeekom-1280x853.jpg" alt="GEEKOM Ryzen 7 Gaming Mini PC Was Pricier Than a Mac Mini, Now It’s Cheaper and at Its Lowest Price Yet (32GB RAM, 1TB SSD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +301,6 @@
                 <span class="time">2025-10-14 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7FQ1SF53HQX9JEA2W38377H/hero-image.png" alt="What People Are Getting Wrong This Week: The Short Video to Conspiracy Theory Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-the-short-video-to-conspiracy-theory?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: The Short Video to Conspiracy Theory Pipeline</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-14 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -347,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
