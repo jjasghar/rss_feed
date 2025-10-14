@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 12:02:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-14 13:10:26 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5574057/israel-hamas-ceasefire-gaza" target="_blank">Questions remain about deceased Israeli hostages in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-14 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/madagascar-president-dissolves-parliament-after-fleeing-army-backed-protest?traffic_source=rss" target="_blank">Madagascar president dissolves parliament after fleeing army-backed protest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 12:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +104,20 @@
                 <span class="time">2025-10-14 09:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/13/madagascar-president-andry-rajoelina-flees-country-capsat" target="_blank">Madagascar president says he fled country in fear for his life</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-14 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/cameroons-issa-tchiroma-bakary-claims-presidential-election-victory?traffic_source=rss" target="_blank">Cameroon’s Issa Tchiroma Bakary claims presidential election victory</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-14 07:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/" target="_blank">Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-14 13:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +163,29 @@
                 <span class="time">2025-10-14 08:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11recap1-500x500.jpg" alt="SpaceX finally got exactly what it needed from Starship V2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/after-year-of-hardships-spacexs-starship-finally-flirts-with-perfection/" target="_blank">SpaceX finally got exactly what it needed from Starship V2</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-14 07:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18694857&w=600" alt="Making AI Better: A Deep Dive Across Users, Developers, and Businesses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/making-ai-better-a-deep-dive-across-users-develope-1" target="_blank">Making AI Better: A Deep Dive Across Users, Developers, and Businesses</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/del-wang/zenbox-react-state-management-that-feels-like-vue-vibes-in-react-mip" target="_blank">ZenBox - React State Management That Feels Like Vue Vibes in React</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +222,6 @@
                 <span class="time">2025-10-14 10:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/First-DRM-Misc-Next-Linux-6.19" target="_blank">Linux 6.19 Will Continue With More Rust Graphics Driver Preparations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-14 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eveliamaya/understanding-portable-power-stations-power-on-the-go-531b" target="_blank">Understanding Portable Power Stations: Power on the Go</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 09:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Hisense-1280x853.jpg" alt="Hisense’s Mini LED Smart Google TVs Get Up to $10,000 Off, Upgrade Season Even Bigger Than Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hisenses-mini-led-smart-google-tvs-get-up-to-10000-off-upgrade-season-even-bigger-than-black-friday-2000671879" target="_blank">Hisense’s Mini LED Smart Google TVs Get Up to $10,000 Off, Upgrade Season Even Bigger Than Black Friday</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-14 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/No-Kings-Protest.jpeg?fit=1080%2C772&amp;quality=60&amp;ssl=1" alt="Yes, protesting does make a difference! Here&#x27;s how" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/14/yes-protesting-does-make-a-difference-heres-how.html" target="_blank">Yes, protesting does make a difference! Here&#x27;s how</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-14 10:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/cybertruck.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Elon has SpaceX and his AI company buying up unsellable Cybertrucks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/tron-ares-spoilers-burning-questions-legacy-2000670394" target="_blank">All the Questions We Still Have After ‘Tron: Ares’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7FG9C5VVNT0VJ2B59TQE0AA/hero-image.png" alt="Why You Should Only Use Google’s NotebookLM in a Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-notebooklm-mobile-app-review?utm_medium=RSS" target="_blank">Why You Should Only Use Google’s NotebookLM in a Browser</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/openAI_oracle_stargate-1280x853.jpg" alt="Is the AI Conveyor Belt of Capital About to Stop?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/is-the-ai-conveyor-belt-of-capital-about-to-stop-2000671017" target="_blank">Is the AI Conveyor Belt of Capital About to Stop?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-13 19:40</span>
             </div>
         </div>
 </div>
@@ -330,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
