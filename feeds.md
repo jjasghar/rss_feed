@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 14:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-14 15:01:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/gaza-ceasefire-tested-as-israeli-forces-kill-five-palestinians?traffic_source=rss" target="_blank">Gaza ceasefire tested as Israeli forces kill five Palestinians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/14/cameroon-opposition-leader-declares-victory-presidential-election" target="_blank">Cameroon opposition leader declares victory in presidential election</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-14 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0586/live/bed91100-a906-11f0-99b2-a3801a157d90.jpg" alt="French PM backs freezing Macron&#x27;s pension reform to save government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crkldd02xg8o?at_medium=RSS&at_campaign=rss" target="_blank">French PM backs freezing Macron&#x27;s pension reform to save government</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-14 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/68968370-a8ef-11f0-92db-77261a15b9d2.jpg" alt="UK will be second-fastest-growing G7 economy, IMF predicts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn092p27xn0o?at_medium=RSS&at_campaign=rss" target="_blank">UK will be second-fastest-growing G7 economy, IMF predicts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-14 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5574057/israel-hamas-ceasefire-gaza" target="_blank">Questions remain about deceased Israeli hostages in Gaza</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -63,47 +102,29 @@
                 <span class="time">2025-10-14 12:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/14/g-s1-93331/up-first-newsletter-gaza-israel-trump-middle-east-ice" target="_blank">What&#x27;s next for Gaza. And, ICE tactics are reportedly becoming more violent</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-14 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/14/g-s1-93307/a-nobel-prize-for-explaining-when-technology-leads-to-growth" target="_blank">A Nobel Prize for explaining when technology leads to growth</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-14 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/fact-checking-donald-trumps-speech-in-israeli-parliament?traffic_source=rss" target="_blank">Fact-checking Donald Trump’s speech in Israeli parliament</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-14 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/donald-trump-12-gty-gmh-251013_1760353660308_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s not peace yet&#x27;: Experts react after Trump declares Israel-Hamas war is over" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-declares-end-israel-hamas-war-experts-hard/story?id=126482789" target="_blank">&#x27;It&#x27;s not peace yet&#x27;: Experts react after Trump declares Israel-Hamas war is over</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-14 09:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale" target="_blank">The latest Moto Razr Ultra foldable is an even better value at $999</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/14/less-than-4-days-left-visibility-traction-and-growth-start-at-your-techcrunch-disrupt-2025-exhibit-table/" target="_blank">Less than 4 days left: Visibility, traction, and growth start at your TechCrunch Disrupt 2025 exhibit table</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-14 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,29 @@
                 <span class="time">2025-10-14 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/14/instagram-defaults-to-pg-13-content-for-teens-adds-more-parental-controls/" target="_blank">Instagram to show PG-13 content by default to teens, adds more parental controls</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-14 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685a0f7ab6b088e62b023e71/master/pass/the%20best%20greens.png" alt="14 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-greens-powders/" target="_blank">14 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-14 10:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/56adeefe-5dfe-4244-992e-c5f99fbf1a45_1464x1000.png" alt="The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-2025-survey-part-3" target="_blank">The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 3</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-10-14 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlfray5c5jdhff2lm959.png" alt="🧪 The Anatomy of a Successful A/B Test at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mujtabat/the-anatomy-of-a-successful-ab-test-at-scale-371e" target="_blank">🧪 The Anatomy of a Successful A/B Test at Scale</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 14:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/qcon-sf-2025-ai-talks/en/headerimage/qcon-sf-2025-ai-talks-1760419829172.jpg" alt="10 AI-Related Standout Sessions at QCon San Francisco 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +220,6 @@
                 <span class="time">2025-10-14 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ktye.github.io/" target="_blank">Zoo of Array Languages</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-14 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/firefox-144.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 144 Adds Google Lens Support, Profile Manager + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/firefox-144-released-new-features" target="_blank">Firefox 144 Adds Google Lens Support, Profile Manager + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-14 10:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/trump-tariffs-e1744310308915.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="U.S. consumers paying most of the costs of Trump&#x27;s tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/14/u-s-consumers-paying-most-of-the-costs-of-trumps-tariffs.html" target="_blank">U.S. consumers paying most of the costs of Trump&#x27;s tariffs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-14 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7HJ45WWRZ7G4014MZ3XXJ2Q/hero-image.png" alt="These Beats Fit Pro Earbuds Are Less Than Half Their Original Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/beats-fit-pro-earbuds-stacksocial-sale-october-2025?utm_medium=RSS" target="_blank">These Beats Fit Pro Earbuds Are Less Than Half Their Original Price Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-14 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K7FQ1SF53HQX9JEA2W38377H/hero-image.png" alt="What People Are Getting Wrong This Week: The Short Video to Conspiracy Theory Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/14/yes-protesting-does-make-a-difference-heres-how.html" target="_blank">Yes, protesting does make a difference! Here&#x27;s how</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-14 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/cybertruck.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Elon has SpaceX and his AI company buying up unsellable Cybertrucks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/13/elon-has-spacex-and-his-ai-company-buying-up-unsellable-cybertrucks.html" target="_blank">Elon has SpaceX and his AI company buying up unsellable Cybertrucks</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-13 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/nextfest12-1280x720.jpg" alt="10 Of The Best Demos To Check Out In October’s Steam Next Fest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-free-demos-next-fest-painkiller-reanimal-steam-2000634620" target="_blank">10 Of The Best Demos To Check Out In October’s Steam Next Fest</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-13 21:34</span>
             </div>
         </div>
 </div>
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
