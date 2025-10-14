@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 13:10:26 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-14 14:02:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +107,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/798992/steelseries-nova-7-gen-2-gaming-headset-release-date-pricing" target="_blank">SteelSeries’ refreshed Nova 7 gaming headset gets a big battery life boost</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/14/save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise-in-less-than-4-days/" target="_blank">Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise in less than 4 days</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/" target="_blank">Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025</a></span>
                 <span class="feed">TechCrunch</span>
@@ -145,29 +158,29 @@
                 <span class="time">2025-10-14 10:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/798997/tivo-stops-dvr-hardware-production-sales" target="_blank">TiVo no longer makes DVRs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/" target="_blank">India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-14 08:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/qcon-sf-2025-ai-talks/en/headerimage/qcon-sf-2025-ai-talks-1760419829172.jpg" alt="10 AI-Related Standout Sessions at QCon San Francisco 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/qcon-sf-2025-ai-talks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">10 AI-Related Standout Sessions at QCon San Francisco 2025</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mai_vyly_ee49a19af579f4d/whats-the-difference-between-paid-and-free-backlink-generator-tools-nd1" target="_blank">What’s the Difference Between Paid and Free Backlink Generator Tools?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 13:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18694857&w=600" alt="Making AI Better: A Deep Dive Across Users, Developers, and Businesses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,30 +209,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/firefox-144.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 144 Released with Google Lens Support, Profile Manager + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/firefox-144.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 144 Adds Google Lens Support, Profile Manager + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/firefox-144-released-new-features" target="_blank">Firefox 144 Released with Google Lens Support, Profile Manager + More</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/firefox-144-released-new-features" target="_blank">Firefox 144 Adds Google Lens Support, Profile Manager + More</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-14 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/paper2agent/en/headerimage/generatedHeaderImage-1760438886575.jpg" alt="Paper2Agent Converts Scientific Papers Into Interactive AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/paper2agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Paper2Agent Converts Scientific Papers Into Interactive AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-14 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_c329f31b/security-is-not-a-feature-its-a-foundation-109o" target="_blank">Security-is-Not-a-Feature-Its-a-Foundation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 10:51</span>
             </div>
         </div>
 </div>
@@ -227,6 +222,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html" target="_blank">The Trump Administration’s Increased Use of Social Media Surveillance</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-14 11:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -241,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7FQ1SF53HQX9JEA2W38377H/hero-image.png" alt="What People Are Getting Wrong This Week: The Short Video to Conspiracy Theory Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-the-short-video-to-conspiracy-theory?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: The Short Video to Conspiracy Theory Pipeline</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/MS-1014-stranger-things-season-5-1280x853.jpg" alt="The Final Season of ‘Stranger Things’ Teases Its Lengthy Runtimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-season-5-runtimes-netflix-2000671694" target="_blank">The Final Season of ‘Stranger Things’ Teases Its Lengthy Runtimes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Hisense-1280x853.jpg" alt="Hisense’s Mini LED Smart Google TVs Get Up to $10,000 Off, Upgrade Season Even Bigger Than Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/best-free-demos-next-fest-painkiller-reanimal-steam-2000634620" target="_blank">10 Of The Best Demos To Check Out In October’s Steam Next Fest</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-13 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7FM51JTAQBF2TS41GS38N0N/hero-image.jpg" alt="You Can Now Hide Sponsored Ads in Google Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-hide-google-search-ads?utm_medium=RSS" target="_blank">You Can Now Hide Sponsored Ads in Google Search</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-13 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Tron-Ares-Greta-Lee-Lightcycle-1280x853.jpg" alt="All the Questions We Still Have After ‘Tron: Ares’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tron-ares-spoilers-burning-questions-legacy-2000670394" target="_blank">All the Questions We Still Have After ‘Tron: Ares’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-13 21:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
