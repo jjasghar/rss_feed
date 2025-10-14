@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 02:27:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-14 03:14:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 03:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/14/live-trump-signs-gaza-ceasefire-deal-with-leaders-of-qatar-egypt-turkiye?traffic_source=rss" target="_blank">LIVE: Trump signs Gaza ceasefire deal with leaders of Qatar, Egypt, Turkiye</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-14 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760397158767_nn_pal_trump_deal_251013_1920x1080-nfj52l.jpg" alt="Israeli and Mideast leaders celebrate Trump’s historic peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/israeli-and-mideast-leaders-celebrate-trump-s-historic-peace-deal-249811013661" target="_blank">Israeli and Mideast leaders celebrate Trump’s historic peace deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-13 23:12</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/13/g-s1-92838/ecuador-la-reinvencion-andina-de-la-cumbia" target="_blank">Ecuador: La reinvención andina de la cumbia</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-13 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/donald-trump-41-epa-gmh-251013_1760372818479_hpMain_4x3t_384.jpg" alt="Trump, world leaders gather in Egypt for ceasefire deal signing with Netanyahu absent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-world-leaders-gather-egypt-ceasefire-deal-signing/story?id=126477199" target="_blank">Trump, world leaders gather in Egypt for ceasefire deal signing with Netanyahu absent</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-13 18:17</span>
             </div>
         </div>
 </div>
@@ -172,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-14-2025-1ba1" target="_blank">Daily Artificial Intelligence Digest - Oct 14, 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 03:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8n8" target="_blank">COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-14 02:10</span>
@@ -211,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Fixes-Long-GPU-Mesa-Issue" target="_blank">Intel Lands Big Linux GPU Driver Fix: Fixing Rendering Issues &amp; Game Hangs/Crashes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18696460&w=600" alt="Operationalizing Responsible AI: Turning Ethics Into Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/responsible-ai-operationalization-ethics-to-engineering" target="_blank">Operationalizing Responsible AI: Turning Ethics Into Engineering</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-13 19:00</span>
             </div>
         </div>
 </div>
@@ -310,6 +309,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5676.png" alt="Neck And Neck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5676" target="_blank">Neck And Neck</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-14 00:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -350,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 03:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
