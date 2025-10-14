@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-14 21:02:01 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-14 22:01:41 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, October 14, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, October 14, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss" target="_blank">Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-14 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5535817/john-t-edge-memoir-mississippi" target="_blank">In new memoir, John T. Edge explores Southern identity and a troubled family history</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-14 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +99,20 @@
                 <span class="time">2025-10-14 18:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/14/elite-military-unit-says-it-has-seized-power-in-madagascar" target="_blank">Elite military unit says it has seized power in Madagascar</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-14 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2de/live/f8ca8c40-a910-11f0-92db-77261a15b9d2.jpg" alt="Bowen: Trump&#x27;s role in Gaza ceasefire was decisive, but not a roadmap to peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss" target="_blank">Bowen: Trump&#x27;s role in Gaza ceasefire was decisive, but not a roadmap to peace</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-14 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ee7c1021984a45f842f29d/master/pass/GettyImages-1570746389.jpg" alt="A Quarter of the CDC Is Gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/" target="_blank">A Quarter of the CDC Is Gone</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-14 21:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/bitcoin-romance-pig-butchering-scam-500x500.jpg" alt="Feds seize $15 billion from alleged forced labor scam built on “human suffering”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +158,38 @@
                 <span class="time">2025-10-14 18:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/" target="_blank">Spotify partners with Netflix for video podcast distribution deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-14 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrp5suo3cig6fns14br1.png" alt="EFS Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jumptotech/efs-amazon-i0c" target="_blank">EFS Amazon</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-14 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.lighthousereports.com/investigation/surveillance-secrets/" target="_blank">Surveillance Secrets</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-14 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697576&w=600" alt="Senior Developers, What to Read Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/senior-developers-what-to-read-next" target="_blank">Senior Developers, What to Read Next?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-14 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,33 +215,6 @@
                 <span class="title"><a href="https://boydkane.com/essays/boss" target="_blank">Why your boss isn&#x27;t worried about AI – &quot;can&#x27;t you just turn it off?&quot;</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-14 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://excamera.substack.com/p/how-bad-can-a-297-adc-be" target="_blank">How bad can a $2.97 ADC be?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-14 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/zorin-os-18-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18 Released with New Look, New Apps + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/zorin-os-18-released-with-new-look-new-apps-more" target="_blank">Zorin OS 18 Released with New Look, New Apps + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-14 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697533&w=600" alt="Advanced Snowflake SQL for Data Engineering Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/advanced-snowflake-sql-data-engineering-analytics" target="_blank">Advanced Snowflake SQL for Data Engineering Analytics</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-14 16:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/02/canada_flag_country_canadian_red_photo_free_image_royalty_free-634249.jpg?fit=640%2C480&amp;quality=60&amp;ssl=1" alt="Immigration consultant fraud leaves Chinese family broke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/14/immigration-consultant-fraud-leaves-chinese-family-broke.html" target="_blank">Immigration consultant fraud leaves Chinese family broke</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-14 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/02/0aef34005447b6e41de0bab118032655-1024x576.jpg" alt="Ohio Lawmaker Wants to Ban Marriage Between Humans and AI Chatbots" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +299,6 @@
                 <span class="time">2025-10-14 18:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Dispatch-Aaron-Paul-Video-Game-Interview-io9-template-2-A-1280x853.jpg" alt="Why Aaron Paul Finally Said Yes to a Video Game in ‘Dispatch’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/aaron-paul-dispatch-video-game-interview-2000672017" target="_blank">Why Aaron Paul Finally Said Yes to a Video Game in ‘Dispatch’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-14 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
