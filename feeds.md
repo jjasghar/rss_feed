@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 13:10:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-10-15 14:01:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/is-your-beef-linked-to-amazon-deforestation-a-report-highlights-loopholes?traffic_source=rss" target="_blank">Is your beef linked to Amazon deforestation? A report highlights loopholes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-15 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/israel-gaza-1-rt-gmh-251014_1760448196699_hpMain_4x3t_384.jpg" alt="&#x27;Race against time&#x27;: Workers encounter challenges in rush to get aid into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/humanitarian-workers-detail-challenges-aid-gaza-despite-ceasefire/story?id=126524019" target="_blank">&#x27;Race against time&#x27;: Workers encounter challenges in rush to get aid into Gaza</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-15 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria" target="_blank">Study: We&#x27;re losing the war against drug-resistant infections faster than we thought</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-15 12:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +101,6 @@
                 <span class="title"><a href="https://www.today.com/video/israel-hamas-ceasefire-becomes-fragile-amid-new-dispute-249920069721" target="_blank">Israel Threatens to Slow Aid Into Gaza Amid New Dispute</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-15 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/e3231dd0-a843-11f0-92db-77261a15b9d2.jpg" alt="Vets should be made to publish prices, watchdog says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c201r14z6r3o?at_medium=RSS&at_campaign=rss" target="_blank">Vets should be made to publish prices, watchdog says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-15 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5574953/israel-gaza-border-crossing-aid" target="_blank">Israel keeps Gaza border crossing closed while reducing aid deliveries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/israel-gaza-1-rt-gmh-251014_1760448196699_hpMain_4x3t_384.jpg" alt="Humanitarian workers detail challenges getting aid into Gaza despite ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/humanitarian-workers-detail-challenges-aid-gaza-despite-ceasefire/story?id=126524019" target="_blank">Humanitarian workers detail challenges getting aid into Gaza despite ceasefire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-15 10:05</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-M5" target="_blank">Apple Announces M5 With Much Faster GPU For AI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-15 13:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbi0o2jswn5d55htg2saz.jpg" alt="The #1 Cloud Security Mistake Law Firms Make: Not Protecting Client Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,20 +221,20 @@
                 <span class="time">2025-10-15 10:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohammad_owaisk_e95f45c/what-is-transcoding-and-how-does-it-work-why-is-it-important-for-streaming-3cj0" target="_blank">What is Transcoding and How Does It Work? Why is It Important for Streaming?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html" target="_blank">Apple’s Bug Bounty Program</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-15 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -244,6 +258,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_1982257796.jpg?fit=1000%2C702&amp;quality=60&amp;ssl=1" alt="Protein supplements full of lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/15/protein-supplements-full-of-lead.html" target="_blank">Protein supplements full of lead</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-15 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Apple-MacBook-Pro-14-in-hero-251015-1280x853.jpg" alt="Apple’s New MacBook Leaves the ‘Pro’ and ‘Max’ for Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apples-new-macbook-leaves-the-pro-and-max-for-later-2000672530" target="_blank">Apple’s New MacBook Leaves the ‘Pro’ and ‘Max’ for Later</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-15 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7JC9SYCTDBPQMVWXGQTWZJA/hero-image.png" alt="You Can Now Easily Verify Your Android Contacts&#x27; Identities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/verify-android-contacts-qr-code?utm_medium=RSS" target="_blank">You Can Now Easily Verify Your Android Contacts&#x27; Identities</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Avatar-20th-Century-Studios-1280x853.jpg" alt="Zoe Saldaña Thinks James Cameron Should Do an ‘Avatar’ Documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,33 +310,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/14/immigration-consultant-fraud-leaves-chinese-family-broke.html" target="_blank">Immigration consultant fraud leaves Chinese family broke</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-14 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.png" alt="‘Heavy Soda,’ ‘Venus Tummy,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS" target="_blank">‘Heavy Soda,’ ‘Venus Tummy,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/02/0aef34005447b6e41de0bab118032655-1024x576.jpg" alt="Ohio Lawmaker Wants to Ban Marriage Between Humans and AI Chatbots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ohio-lawmaker-wants-to-ban-marriage-between-humans-and-ai-chatbots-2000672216" target="_blank">Ohio Lawmaker Wants to Ban Marriage Between Humans and AI Chatbots</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-14 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/image-23.jpg" alt="FNAF Fans Greet Megan Fox Casting Reveal With Deafening Silence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/five-nights-freddys-2-megan-fox-toy-chica-comic-con-2000635402" target="_blank">FNAF Fans Greet Megan Fox Casting Reveal With Deafening Silence</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-14 20:33</span>
             </div>
         </div>
 </div>
@@ -335,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
