@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 02:28:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-15 03:16:35 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 02:28 UTC</div>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 03:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +42,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg" alt="Government under pressure to release China spy case evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss" target="_blank">Government under pressure to release China spy case evidence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 02:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg" alt="Labour under pressure to release China spy case evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss" target="_blank">Labour under pressure to release China spy case evidence</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-15 02:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-17-gty-gmh-251014_1760468664194_hpMain_4x3t_384.jpg" alt="Trump vows to disarm Hamas but won&#x27;t say how, avoids details on what&#x27;s next for Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-vows-disarm-hamas-avoids-details-gaza/story?id=126515552" target="_blank">Trump vows to disarm Hamas but won&#x27;t say how, avoids details on what&#x27;s next for Gaza</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-15 01:51</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5574210/trump-charlie-kirk-medal-of-freedom" target="_blank">Trump awards the Medal of Freedom posthumously to Charlie Kirk</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-14 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/14/how-will-donald-trump-enforce-his-plan-for-gaza?traffic_source=rss" target="_blank">How will Donald Trump enforce his plan for Gaza?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-14 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-hostages_7051249.jpg?20251014234954" alt="Trump threatens to &#x27;violently&#x27; disarm Hamas - as more bodies of hostages released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamas-releases-more-bodies-of-hostages-as-trump-threatens-violent-disarmament-13450311" target="_blank">Trump threatens to &#x27;violently&#x27; disarm Hamas - as more bodies of hostages released</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-14 22:12</span>
             </div>
         </div>
 </div>
@@ -165,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a" target="_blank">My First Dev Project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lucasbrdt268/isr-vs-ssg-when-your-app-wants-to-sleep-but-seo-wont-let-it-2ke4" target="_blank">ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-15 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-DLSS-NVK-Experimental" target="_blank">Valve Developer Gets Initial DLSS Support Working On Open-Source NVIDIA &quot;NVK&quot; Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-15 00:17</span>
             </div>
         </div>
 <div class="story">
@@ -182,37 +198,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.fsf.org/news/librephone-project" target="_blank">FSF announces Librephone project</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-14 23:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc" target="_blank">The Art of the Map: Navigating the Modern ORM Landscape</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-14 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FSF-LibrePhone-Project" target="_blank">FSF Announces The LibrePhone Project</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-14 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrp5suo3cig6fns14br1.png" alt="EFS Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jumptotech/efs-amazon-i0c" target="_blank">EFS Amazon</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.lighthousereports.com/investigation/surveillance-secrets/" target="_blank">Surveillance Secrets</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-14 20:36</span>
             </div>
         </div>
 </div>
@@ -312,6 +310,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5679.png" alt="Unmistaken Identity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5679" target="_blank">Unmistaken Identity</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-15 00:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1760405118-20251014.png" alt="Saturday Morning Breakfast Cereal - Ur" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
