@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 03:16:35 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-15 04:01:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 03:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ef/live/c6334f40-a94e-11f0-928c-71dbb8619e94.jpg" alt="Hamas returns four more bodies of hostages, Israeli military says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss" target="_blank">Hamas returns four more bodies of hostages, Israeli military says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 02:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg" alt="Government under pressure to release China spy case evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss" target="_blank">LIVE: Israel restricts aid into Gaza; Hamas releases bodies of 4 captives</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-15 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5574210/trump-charlie-kirk-medal-of-freedom" target="_blank">Trump awards the Medal of Freedom posthumously to Charlie Kirk</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-14 23:08</span>
             </div>
         </div>
 </div>
@@ -163,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39na" target="_blank">CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a" target="_blank">My First Dev Project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-15 02:55</span>
@@ -202,15 +219,6 @@
                 <span class="title"><a href="https://www.fsf.org/news/librephone-project" target="_blank">FSF announces Librephone project</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-14 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc" target="_blank">The Art of the Map: Navigating the Modern ORM Landscape</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-14 22:59</span>
             </div>
         </div>
 </div>
@@ -332,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 03:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
