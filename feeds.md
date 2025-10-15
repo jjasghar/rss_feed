@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 17:01:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-15 18:02:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5558287/michael-twitty-cookbook-recipes-from-the-american-south" target="_blank">A celebration of the South&#x27;s rich — and messy — heritage, delivered on a plate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-15 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/15/apple-to-increase-chinese-investments-amid-us-china-trade-tension?traffic_source=rss" target="_blank">Apple to increase Chinese investments amid US-China trade tension</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -59,6 +69,15 @@
                 <span class="title"><a href="https://news.sky.com/story/inter-arab-security-force-should-be-set-up-within-weeks-to-stop-hamas-retaking-gaza-ex-israeli-pm-says-13450513" target="_blank">Inter-Arab security force should be set up &#x27;within weeks&#x27; to stop Hamas retaking Gaza, ex-Israeli PM tells Sky News</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-10-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/208c/live/f92571e0-a9de-11f0-b2a1-6f537f66f9aa.jpg" alt="Funeral director admits 36 charges and denies others" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyplw17897o?at_medium=RSS&at_campaign=rss" target="_blank">Funeral director admits 36 charges and denies others</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 15:56</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +98,29 @@
                 <span class="time">2025-10-15 14:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/15/raila-odinga-former-kenya-pm-dies" target="_blank">Raila Odinga, towering Kenyan opposition figure, dies aged 80</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-15 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/is-your-beef-linked-to-amazon-deforestation-a-report-highlights-loopholes?traffic_source=rss" target="_blank">Is your beef linked to Amazon deforestation? A report highlights loopholes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe" target="_blank">Senate Democrats want to know: was YouTube’s Trump settlement a bribe?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-15 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/" target="_blank">Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-15 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Veo-3.1-500x500.png" alt="Google’s AI videos get a big upgrade with Veo 3.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +157,20 @@
                 <span class="time">2025-10-15 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68eece76eadc50eb0ecc741e/master/pass/Review-%20SteelSeries%20Arctis%20Nova%203%20Gaming%20Headset.png" alt="SteelSeries Arctis Nova 3 Review: The Best Budget Headset" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/steelseries-arctis-nova-3-review/" target="_blank">SteelSeries Arctis Nova 3 Review: The Best Budget Headset</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-15 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/799352/apple-ipad-pro-m5-price-release-date" target="_blank">Apple’s iPad Pro now has a new M5 processor inside</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-15 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699737&w=600" alt="Why Domain-Driven Design Is Still Essential in Modern Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/domain-driven-design-modern-software-development" target="_blank">Why Domain-Driven Design Is Still Essential in Modern Software Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-15 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699311&w=600" alt="Distributed Locking in Cloud-Native Applications: Ensuring Consistency Across Multiple Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="time">2025-10-15 13:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-M5" target="_blank">Apple Announces M5 With Much Faster GPU For AI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-15 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/pvsszzz-1280x720.jpg" alt="This New Plants Vs Zombies Remastered Trailer Is Hard To Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-plants-vs-zombies-remastered-replanted-trailer-cringe-fake-twitch-stream-2000635689" target="_blank">This New Plants Vs Zombies Remastered Trailer Is Hard To Watch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-15 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.png" alt="The Best Sales on Headphones and Earbuds Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-15 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_S5-1280x853.jpg" alt="‘Stranger Things’ Season 5 Will Finally Explain What the Hell the Upside Down Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +298,6 @@
                 <span class="time">2025-10-15 14:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7KQ469QX5RJMPHHYQZHW7ET/hero-image.png" alt="The JBL Flip 6 Bluetooth Speaker Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-flip-6-bluetooth-speaker-deal?utm_medium=RSS" target="_blank">The JBL Flip 6 Bluetooth Speaker Is $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-15 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_1982257796.jpg?fit=1000%2C702&amp;quality=60&amp;ssl=1" alt="Protein supplements full of lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/15/protein-supplements-full-of-lead.html" target="_blank">Protein supplements full of lead</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-15 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
