@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 00:04:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-15 01:29:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss" target="_blank">LIVE: Israel restricts aid into Gaza; Hamas releases bodies of 4 captives</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-15 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-hostages_7051249.jpg?20251014234954" alt="Trump threatens to &#x27;violently&#x27; disarm Hamas - as more bodies of hostages released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hamas-releases-more-bodies-of-hostages-as-trump-threatens-violent-disarmament-13450311" target="_blank">Trump threatens to &#x27;violently&#x27; disarm Hamas - as more bodies of hostages released</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-14 22:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-hostages_7051249.jpg?20251014234954" alt="Hamas releases more bodies of hostages - as Trump threatens &#x27;violent&#x27; disarmament" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -88,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss" target="_blank">Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-14 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5535817/john-t-edge-memoir-mississippi" target="_blank">In new memoir, John T. Edge explores Southern identity and a troubled family history</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-14 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/dozens-hospitalised-in-tunisias-gabes-amid-environmental-crisis?traffic_source=rss" target="_blank">Dozens hospitalised in Tunisia’s Gabes amid environmental crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-14 19:33</span>
             </div>
         </div>
 </div>
@@ -176,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lucasbrdt268/isr-vs-ssg-when-your-app-wants-to-sleep-but-seo-wont-let-it-2ke4" target="_blank">ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-send-help-official-trailer-2026-rachel-mcadams-dylan-obrien-3glm" target="_blank">IGN: Send Help - Official Trailer (2026) Rachel McAdams, Dylan O&#x27;Brien</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-15 00:03</span>
@@ -215,15 +217,6 @@
                 <span class="title"><a href="https://www.lighthousereports.com/investigation/surveillance-secrets/" target="_blank">Surveillance Secrets</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-14 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/nordvpn.jpg?resize=406%2C232&amp;ssl=1" alt="NordVPN Has Open-Sourced its Linux App GUI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/nordvpn-linux-gui-open-sourced" target="_blank">NordVPN Has Open-Sourced its Linux App GUI</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-14 19:00</span>
             </div>
         </div>
 </div>
@@ -322,22 +315,13 @@
                 <span class="time">2025-10-14 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5676.png" alt="Neck And Neck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5676" target="_blank">Neck And Neck</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-14 00:12</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
