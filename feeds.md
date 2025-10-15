@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 14:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-15 15:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/15/g-s1-93068/switzerland-rhone-glacier-melt-alps" target="_blank">Greetings from the Rhône Glacier, where a gash of pink highlights how it&#x27;s melting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-15 14:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/15/raila-odinga-former-kenya-pm-dies" target="_blank">Raila Odinga, towering Kenyan opposition figure, dies aged 80</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-15 13:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +100,38 @@
                 <span class="time">2025-10-15 12:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5574972/raila-odinga-kenya-prime-minister-dies" target="_blank">Raila Odinga, Kenya&#x27;s former Prime Minister, dies at 80</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760526657219_tdy_news_7a_haake_deceased_hostages_251015_1920x1080-bu2hbb.jpg" alt="Israel Threatens to Slow Aid Into Gaza Amid New Dispute" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-hamas-ceasefire-becomes-fragile-amid-new-dispute-249920069721" target="_blank">Israel Threatens to Slow Aid Into Gaza Amid New Dispute</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-15 11:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/799943/meta-threads-group-chat-messaging" target="_blank">Threads now has group chats</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-15 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-iPad-Pro-hero-251015-500x500.jpg" alt="Apple unveils M5 update for the 11- and 13-inch iPad Pros" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/apple-unveils-m5-update-for-the-11-and-13-inch-ipad-pros/" target="_blank">Apple unveils M5 update for the 11- and 13-inch iPad Pros</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-15 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68eece76eadc50eb0ecc741e/master/pass/Review-%20SteelSeries%20Arctis%20Nova%203%20Gaming%20Headset.png" alt="SteelSeries Arctis Nova 3 Review: The Best Budget Headset" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/steelseries-arctis-nova-3-review/" target="_blank">SteelSeries Arctis Nova 3 Review: The Best Budget Headset</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-15 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +159,47 @@
                 <span class="time">2025-10-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown" target="_blank">The government shutdown is strangling aviation</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683a3c62eb5a59a6dd926e02/master/pass/What%20Is%20Google%20One,%20and%20Should%20You%20Subscribe__.png" alt="What Is Google One? A Breakdown of Plans, Pricing, and Included Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-google-one/" target="_blank">What Is Google One? A Breakdown of Plans, Pricing, and Included Services</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-15 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d2b8a6ec02cfea46385bf5/master/pass/FacialRecognition_Illo.png" alt="When Face Recognition Doesn’t Know Your Face Is a Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/" target="_blank">When Face Recognition Doesn’t Know Your Face Is a Face</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-15 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/" target="_blank">Copilot: Faster, smarter, and built for how you work now</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-15 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ec2-m8a-amd-epyc-turin" target="_blank">AMD EPYC 9005 Brings Incredible Performance To The Cloud With Amazon M8a Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-15 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/" target="_blank">Secure coding in JavaScript</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/team-diversity-productivity/en/mediumimage/natan-zabkar-nordberg-medium-1757666105109.jpg" alt="Presentation: Creating Impactful Teams Across Diverse Work Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/team-diversity-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Creating Impactful Teams Across Diverse Work Environments</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-15 13:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,48 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbi0o2jswn5d55htg2saz.jpg" alt="The #1 Cloud Security Mistake Law Firms Make: Not Protecting Client Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/heyjoshlee/the-1-cloud-security-mistake-law-firms-make-protect-client-data-3i03" target="_blank">The #1 Cloud Security Mistake Law Firms Make: Not Protecting Client Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/agentic-ai-adoption-leadership/en/headerimage/generatedHeaderImage-1759847228981.jpg" alt="Testing Organizations&#x27; Widespread Adoption of Agentic AI, but Leadership Lags in Understanding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/agentic-ai-adoption-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Testing Organizations&#x27; Widespread Adoption of Agentic AI, but Leadership Lags in Understanding</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/" target="_blank">Ireland Is Making Basic Income for Artists Program Permanent</a></span>
+                <span class="title"><a href="https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/" target="_blank">Apple M5 chip</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-10-15 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Wildcat-Lake-Compilers" target="_blank">Intel Wildcat Lake &quot;-march=wildcatlake&quot; Added To GCC &amp; LLVM Clang Compilers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-15 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://wastedwind.energy/" target="_blank">Britain has wasted £1,112,293,718 switching off wind turbines in 2025</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-15 10:10</span>
+                <span class="time">2025-10-15 13:02</span>
             </div>
         </div>
 </div>
@@ -259,6 +256,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/GovveGamingPixelLight-1280x853.jpg" alt="Govee Gaming Pixel LED Light Panel Drops to Peanuts Pricing, Real-Time Info Display and 150+ Scenes Built In" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/govee-gaming-pixel-led-light-panel-drops-to-peanuts-pricing-real-time-info-display-and-150-scenes-built-in-2000635378" target="_blank">Govee Gaming Pixel LED Light Panel Drops to Peanuts Pricing, Real-Time Info Display and 150+ Scenes Built In</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-15 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7KQ469QX5RJMPHHYQZHW7ET/hero-image.png" alt="The JBL Flip 6 Bluetooth Speaker Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-flip-6-bluetooth-speaker-deal?utm_medium=RSS" target="_blank">The JBL Flip 6 Bluetooth Speaker Is $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_1982257796.jpg?fit=1000%2C702&amp;quality=60&amp;ssl=1" alt="Protein supplements full of lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -292,24 +307,6 @@
                 <span class="title"><a href="https://gizmodo.com/zoe-saldana-thinks-james-cameron-should-do-an-avatar-documentary-2000672300" target="_blank">Zoe Saldaña Thinks James Cameron Should Do an ‘Avatar’ Documentary</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-14 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Switch-2-Pokemon.jpg" alt="Pokémon Legends: Z-A Looks Hardly Any Different Running On Switch 1 Vs. Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-switch-2-comparison-framerate-upgrade-2000635404" target="_blank">Pokémon Legends: Z-A Looks Hardly Any Different Running On Switch 1 Vs. Switch 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-14 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/02/canada_flag_country_canadian_red_photo_free_image_royalty_free-634249.jpg?fit=640%2C480&amp;quality=60&amp;ssl=1" alt="Immigration consultant fraud leaves Chinese family broke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/14/immigration-consultant-fraud-leaves-chinese-family-broke.html" target="_blank">Immigration consultant fraud leaves Chinese family broke</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-14 21:01</span>
             </div>
         </div>
 </div>
@@ -349,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
