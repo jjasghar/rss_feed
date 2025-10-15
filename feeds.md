@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 06:02:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-15 07:01:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/" target="_blank">OpenAI has five years to turn $13 billion into $1 trillion</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-15 05:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="10% Off Dell Coupon Codes | October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,20 +159,20 @@
                 <span class="time">2025-10-14 21:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/bitcoin-romance-pig-butchering-scam-500x500.jpg" alt="Feds seize $15 billion from alleged forced labor scam built on “human suffering”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/" target="_blank">Feds seize $15 billion from alleged forced labor scam built on “human suffering”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-14 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/hashicorp-secrets/en/headerimage/generatedHeaderImage-1760469520249.jpg" alt="HashiCorp Warns Traditional Secret Scanning Tools Are Falling Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/hashicorp-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HashiCorp Warns Traditional Secret Scanning Tools Are Falling Behind</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-15 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/lucasbrdt268/isr-vs-ssg-when-your-app-wants-to-sleep-but-seo-wont-let-it-2ke4" target="_blank">ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-15 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-DLSS-NVK-Experimental" target="_blank">Valve Developer Gets Initial DLSS Support Working On Open-Source NVIDIA &quot;NVK&quot; Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-15 00:17</span>
             </div>
         </div>
 </div>
@@ -329,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
