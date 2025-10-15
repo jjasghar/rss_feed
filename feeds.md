@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 11:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-10-15 12:02:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5574972/raila-odinga-kenya-prime-minister-dies" target="_blank">Raila Odinga, Kenya&#x27;s former Prime Minister, dies at 80</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-15 11:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/e3231dd0-a843-11f0-92db-77261a15b9d2.jpg" alt="Vets should be made to publish prices, watchdog says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +99,6 @@
                 <span class="time">2025-10-15 08:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/10/15/surveillance-pricing-why-you-might-be-paying-more-than-your-neighbour?traffic_source=rss" target="_blank">‘Surveillance pricing’: Why you might be paying more than your neighbour</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 08:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -139,6 +135,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/15/waymo-plans-to-launch-a-robotaxi-service-in-london-in-2026/" target="_blank">Waymo plans to launch a robotaxi service in London in 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-15 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/" target="_blank">OpenAI has five years to turn $13 billion into $1 trillion</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-15 05:39</span>
@@ -153,20 +158,29 @@
                 <span class="time">2025-10-15 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open" target="_blank">Samsung officially teases Moohan headset launch for next week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/agentic-ai-adoption-leadership/en/headerimage/generatedHeaderImage-1759847228981.jpg" alt="Testing Organizations&#x27; Widespread Adoption of Agentic AI, but Leadership Lags in Understanding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/agentic-ai-adoption-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Testing Organizations&#x27; Widespread Adoption of Agentic AI, but Leadership Lags in Understanding</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Wildcat-Lake-Compilers" target="_blank">Intel Wildcat Lake &quot;-march=wildcatlake&quot; Added To GCC &amp; LLVM Clang Compilers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-15 10:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +217,6 @@
                 <span class="time">2025-10-15 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/hashicorp-secrets/en/headerimage/generatedHeaderImage-1760469520249.jpg" alt="HashiCorp Warns Traditional Secret Scanning Tools Are Falling Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/hashicorp-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HashiCorp Warns Traditional Secret Scanning Tools Are Falling Behind</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-15 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2" target="_blank">Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 04:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,15 +238,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/upcoming-speaking-engagements-49.html" target="_blank">Upcoming Speaking Engagements</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-10-14 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html" target="_blank">The Trump Administration’s Increased Use of Social Media Surveillance</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-14 11:09</span>
             </div>
         </div>
 </div>
@@ -349,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
