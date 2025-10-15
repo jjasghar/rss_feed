@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 04:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-10-15 05:01:49 UTC -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/trump-threatens-to-cut-democrat-programmes-extends-funding-to-military?traffic_source=rss" target="_blank">Trump threatens to cut ‘Democrat’ programmes, extends funding to military</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-15 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kristi-noem_1760492333377_hpMain_4x3t_384.jpg" alt="Which major airports are refusing to show DHS shutdown video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/major-airports-refuse-show-dhs-secretary-kristi-noems/story?id=126532056" target="_blank">Which major airports are refusing to show DHS shutdown video</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-15 03:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ef/live/c6334f40-a94e-11f0-928c-71dbb8619e94.jpg" alt="Hamas returns four more bodies of hostages, Israeli military says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-vows-disarm-hamas-avoids-details-gaza/story?id=126515552" target="_blank">Trump vows to disarm Hamas but won&#x27;t say how, avoids details on what&#x27;s next for Gaza</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-15 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5574469/cdc-shutdown-federal-layoffs" target="_blank">With new cuts at CDC, some fear there&#x27;s &#x27;nobody to answer the phone&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss" target="_blank">LIVE: Israel restricts aid into Gaza; Hamas releases bodies of 4 captives</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 00:00</span>
             </div>
         </div>
 </div>
@@ -171,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2" target="_blank">Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 04:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39na" target="_blank">CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-15 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/vmware-logo-now-free.jpg?resize=406%2C232&amp;ssl=1" alt="VMware Workstation Pro 25H2 Released with New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/vmware-workstation-pro-25h2-released" target="_blank">VMware Workstation Pro 25H2 Released with New Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-15 03:30</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-DLSS-NVK-Experimental" target="_blank">Valve Developer Gets Initial DLSS Support Working On Open-Source NVIDIA &quot;NVK&quot; Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-15 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-send-help-official-trailer-2026-rachel-mcadams-dylan-obrien-3glm" target="_blank">IGN: Send Help - Official Trailer (2026) Rachel McAdams, Dylan O&#x27;Brien</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.fsf.org/news/librephone-project" target="_blank">FSF announces Librephone project</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-14 23:47</span>
             </div>
         </div>
 </div>
@@ -340,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
