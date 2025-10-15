@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 19:01:42 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-10-15 20:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/scotus-4-rt-gmh-251015_1760538665011_hpMain_4x3t_384.jpg" alt="Supreme Court appears ready to limit key part of Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/supreme-court-appears-ready-limit-key-part-voting/story?id=126556613" target="_blank">Supreme Court appears ready to limit key part of Voting Rights Act</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-15 19:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2087/live/78584840-a9e2-11f0-b2dc-37eb57bf4de6.jpg" alt="UN humanitarian chief urges Israel to open more crossings into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +95,29 @@
                 <span class="time">2025-10-15 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/208c/live/f92571e0-a9de-11f0-b2a1-6f537f66f9aa.jpg" alt="Funeral director admits 36 charges and denies others" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyplw17897o?at_medium=RSS&at_campaign=rss" target="_blank">Funeral director admits 36 charges and denies others</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-15 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228551722-500x500.jpg" alt="CDC tormented: HR workers summoned from furlough to lay off themselves, others" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/cdc-tormented-hr-workers-summoned-from-furlough-to-lay-off-themselves-others/" target="_blank">CDC tormented: HR workers summoned from furlough to lay off themselves, others</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-15 19:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/15/apple-adds-650-megawatts-of-renewables-in-europe-with-more-coming-in-china/" target="_blank">Apple adds 650 megawatts of renewables in Europe with more coming in China</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-15 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68efda5ae7f63deb0177e5c2/master/pass/101525_AI-Lab-AI-Scaling-Obsession-5.jpg" alt="The AI Industry’s Scaling Obsession Is Headed for a Cliff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +154,29 @@
                 <span class="time">2025-10-15 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/12/openai-math-apples-500x500.jpg" alt="ChatGPT erotica coming soon with age verification, CEO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/" target="_blank">ChatGPT erotica coming soon with age verification, CEO says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-15 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/799943/meta-threads-group-chat-messaging" target="_blank">Threads now has group chats</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F225k3fcyjxfuvb1v29vi.png" alt="Surviving Dependency Hell: My First Full-Stack AI Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/advithiya_duddu_244c506a6/surviving-dependency-hell-my-first-full-stack-ai-project-58i4" target="_blank">Surviving Dependency Hell: My First Full-Stack AI Project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699839&w=600" alt="Centralized Configuration Management With Consul" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/centralized-configuration-management-with-consul" target="_blank">Centralized Configuration Management With Consul</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-15 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnccm9clmxwlu773f36i.png" alt="Testing AI Agents Like a Pro: A Complete Guide to Rogue 🔍" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +213,6 @@
                 <span class="time">2025-10-15 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699737&w=600" alt="Why Domain-Driven Design Is Still Essential in Modern Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/domain-driven-design-modern-software-development" target="_blank">Why Domain-Driven Design Is Still Essential in Modern Software Development</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-15 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/fastmail-linux-penguin.jpg?resize=406%2C232&amp;ssl=1" alt="Fastmail’s New Desktop App is Available on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/fastmail-desktop-app-for-linux" target="_blank">Fastmail’s New Desktop App is Available on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-15 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/KpopDemonHunters-2-1280x853.jpg" alt="Netflix Liked ‘KPop Demon Hunters’ in Theaters So Much, They’re Doing It Twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-theater-re-release-dates-2000672805" target="_blank">Netflix Liked ‘KPop Demon Hunters’ in Theaters So Much, They’re Doing It Twice</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Lego-Back-to-the-Future-Delorean-Speed-Champions-1280x853.jpg" alt="Great Scott, Lego’s New ‘Back to the Future’ Set Is Surprisingly Affordable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/lego-back-to-the-future-delorean-speed-champions-price-release-date-2000672690" target="_blank">Great Scott, Lego’s New ‘Back to the Future’ Set Is Surprisingly Affordable</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-15 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7MG1J6HKM4FJYWYRGZZJGHA/hero-image.png" alt="This 77-Inch Samsung OLED 4K TV Is Less Than $2k Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/77-inch-samsung-s95d-oled-4k-tv-deal?utm_medium=RSS" target="_blank">This 77-Inch Samsung OLED 4K TV Is Less Than $2k Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-15 18:01</span>
             </div>
         </div>
 <div class="story">
@@ -283,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-15 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_S5-1280x853.jpg" alt="‘Stranger Things’ Season 5 Will Finally Explain What the Hell the Upside Down Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-season-5-upside-down-explained-origins-netflix-2000672687" target="_blank">‘Stranger Things’ Season 5 Will Finally Explain What the Hell the Upside Down Is</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-15 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/legendofkhiimori.png?fit=1184%2C660&amp;quality=55&amp;ssl=1" alt="Mongolian horse courier game becomes surprise hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/15/mongolian-horse-courier-game-becomes-surprise-hit.html" target="_blank">Mongolian horse courier game becomes surprise hit</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-15 16:30</span>
             </div>
         </div>
 </div>
@@ -331,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
