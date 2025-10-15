@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 01:29:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-15 02:28:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg" alt="Labour under pressure to release China spy case evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss" target="_blank">Labour under pressure to release China spy case evidence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 02:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/14/nx-s1-5574469/cdc-shutdown-federal-layoffs" target="_blank">With new cuts at CDC, some fear there&#x27;s &#x27;nobody to answer the phone&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-15 00:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +97,6 @@
                 <span class="time">2025-10-14 22:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-hostages_7051249.jpg?20251014234954" alt="Hamas releases more bodies of hostages - as Trump threatens &#x27;violent&#x27; disarmament" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamas-releases-more-bodies-of-hostages-as-trump-threatens-violent-disarmament-13450311" target="_blank">Hamas releases more bodies of hostages - as Trump threatens &#x27;violent&#x27; disarmament</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-14 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss" target="_blank">Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-14 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +109,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open" target="_blank">Samsung officially teases Moohan headset launch for next week</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-14 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/" target="_blank">EVs take a backseat in Stellantis’ $13B US investment plan</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-14 22:36</span>
             </div>
         </div>
 <div class="story">
@@ -149,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/" target="_blank">Sam Altman says ChatGPT will soon allow erotica for adult users</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-14 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/799492/youtube-new-video-player-update-changes" target="_blank">YouTube has a new video player</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-14 20:42</span>
             </div>
         </div>
 </div>
@@ -224,6 +220,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/" target="_blank">Patch Tuesday, October 2025 ‘End of 10’ Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-10-14 22:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
