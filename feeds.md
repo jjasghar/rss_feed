@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 10:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-15 11:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/e3231dd0-a843-11f0-92db-77261a15b9d2.jpg" alt="Vets should be made to publish prices, watchdog says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c201r14z6r3o?at_medium=RSS&at_campaign=rss" target="_blank">Vets should be made to publish prices, watchdog says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5574953/israel-gaza-border-crossing-aid" target="_blank">Israel keeps Gaza border crossing closed while reducing aid deliveries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-15 10:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/israel-gaza-1-rt-gmh-251014_1760448196699_hpMain_4x3t_384.jpg" alt="Humanitarian workers detail challenges getting aid into Gaza despite ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/humanitarian-workers-detail-challenges-aid-gaza-despite-ceasefire/story?id=126524019" target="_blank">Humanitarian workers detail challenges getting aid into Gaza despite ceasefire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-15 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251014-louisiana-voting-vl-132p-da2134.jpg" alt="Supreme Court weighs whether to gut key provision of landmark Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-voting-rights-act-redistricting-congress-louisiana-rcna237565" target="_blank">Supreme Court weighs whether to gut key provision of landmark Voting Rights Act</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-15 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/rafah-embed_1760516130883_hpMain_2_4x3t_384.jpg" alt="Israel-Gaza live updates: Rafah crossing remains closed to aid, Israeli official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -58,47 +103,29 @@
                 <span class="time">2025-10-15 08:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0588/live/b5df6ad0-a993-11f0-928c-71dbb8619e94.jpg" alt="Hostage families confirm identities of three of four bodies handed over by Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss" target="_blank">Hostage families confirm identities of three of four bodies handed over by Hamas</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-15 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/oct/15/thousands-trapped-in-el-fasher-sudan-siege-on-edge-of-survival-says-report-rsf" target="_blank">Thousands trapped in El Fasher siege on ‘edge of survival’, says report</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-15 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5574929/supreme-court-alex-jones-defamation-judgment" target="_blank">Supreme Court rejects Alex Jones&#x27; appeal of Sandy Hook shooting defamation judgment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 05:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/us-revokes-six-visas-over-charlie-kirk-death-amid-social-media-crackdown?traffic_source=rss" target="_blank">US revokes six visas over Charlie Kirk death amid social media crackdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 05:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown" target="_blank">The government shutdown is strangling aviation</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/683a3c62eb5a59a6dd926e02/master/pass/What%20Is%20Google%20One,%20and%20Should%20You%20Subscribe__.png" alt="What Is Google One? A Breakdown of Plans, Pricing, and Included Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-is-google-one/" target="_blank">What Is Google One? A Breakdown of Plans, Pricing, and Included Services</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-15 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d2b8a6ec02cfea46385bf5/master/pass/FacialRecognition_Illo.png" alt="When Face Recognition Doesn’t Know Your Face Is a Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +162,20 @@
                 <span class="time">2025-10-14 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/" target="_blank">EVs take a backseat in Stellantis’ $13B US investment plan</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-14 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ee7c1021984a45f842f29d/master/pass/GettyImages-1570746389.jpg" alt="A Quarter of the CDC Is Gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/" target="_blank">A Quarter of the CDC Is Gone</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-14 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://wastedwind.energy/" target="_blank">Britain has wasted £1,112,293,718 switching off wind turbines in 2025</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-15 10:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2" target="_blank">Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-15 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39na" target="_blank">CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 04:01</span>
             </div>
         </div>
 </div>
@@ -340,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
