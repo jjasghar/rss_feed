@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 18:02:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-15 19:01:42 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2087/live/78584840-a9e2-11f0-b2dc-37eb57bf4de6.jpg" alt="UN humanitarian chief urges Israel to open more crossings into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c803rmdzjdjo?at_medium=RSS&at_campaign=rss" target="_blank">UN humanitarian chief urges Israel to open more crossings into Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 18:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -60,6 +74,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/15/apple-to-increase-chinese-investments-amid-us-china-trade-tension?traffic_source=rss" target="_blank">Apple to increase Chinese investments amid US-China trade tension</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-15 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-251014_1760464502474_hpMain_4x3t_384.jpg" alt="What to know about the Trump administration&#x27;s $20B bailout for Argentina" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-administrations-20b-bailout-argentina/story?id=126513232" target="_blank">What to know about the Trump administration&#x27;s $20B bailout for Argentina</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-15 16:24</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +103,20 @@
                 <span class="time">2025-10-15 15:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/15/g-s1-93545/pakistan-afghanistan-ceasefire-clashes" target="_blank">Pakistan and Afghanistan agree to a temporary ceasefire after days of deadly clashes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/15/g-s1-93068/switzerland-rhone-glacier-melt-alps" target="_blank">Greetings from the Rhône Glacier, where a gash of pink highlights how it&#x27;s melting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 14:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68efda5ae7f63deb0177e5c2/master/pass/101525_AI-Lab-AI-Scaling-Obsession-5.jpg" alt="The AI Industry’s Scaling Obsession Is Headed for a Cliff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/" target="_blank">The AI Industry’s Scaling Obsession Is Headed for a Cliff</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-15 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +162,47 @@
                 <span class="time">2025-10-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-iPad-Pro-hero-251015-500x500.jpg" alt="Apple unveils M5 update for the 11- and 13-inch iPad Pros" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/apple-unveils-m5-update-for-the-11-and-13-inch-ipad-pros/" target="_blank">Apple unveils M5 update for the 11- and 13-inch iPad Pros</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-15 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnccm9clmxwlu773f36i.png" alt="Testing AI Agents Like a Pro: A Complete Guide to Rogue 🔍" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drorivry/testing-ai-agents-like-a-pro-a-complete-guide-to-rogue-4npb" target="_blank">Testing AI Agents Like a Pro: A Complete Guide to Rogue 🔍</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://treyhunner.com/2025/10/handy-python-repl-modifications/" target="_blank">Modifying the Python REPL</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-15 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699814&w=600" alt="Building a Fault-Tolerant Microservices Architecture With Kubernetes, gRPC, and Circuit Breakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/microservices-kubernetes-grpc-circuit-breakers" target="_blank">Building a Fault-Tolerant Microservices Architecture With Kubernetes, gRPC, and Circuit Breakers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-15 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2.5-Released" target="_blank">Mesa 25.2.5 Released With Very Important Intel Driver Fix</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-15 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699737&w=600" alt="Why Domain-Driven Design Is Still Essential in Modern Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,48 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699311&w=600" alt="Distributed Locking in Cloud-Native Applications: Ensuring Consistency Across Multiple Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/fastmail-linux-penguin.jpg?resize=406%2C232&amp;ssl=1" alt="Fastmail’s New Desktop App is Available on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/distributed-locking-cloud-native-applications" target="_blank">Distributed Locking in Cloud-Native Applications: Ensuring Consistency Across Multiple Instances</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/" target="_blank">Copilot: Faster, smarter, and built for how you work now</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ec2-m8a-amd-epyc-turin" target="_blank">AMD EPYC 9005 Brings Incredible Performance To The Cloud With Amazon M8a Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-15 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/" target="_blank">Secure coding in JavaScript</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-15 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/team-diversity-productivity/en/mediumimage/natan-zabkar-nordberg-medium-1757666105109.jpg" alt="Presentation: Creating Impactful Teams Across Diverse Work Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/team-diversity-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Creating Impactful Teams Across Diverse Work Environments</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-15 13:40</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/fastmail-desktop-app-for-linux" target="_blank">Fastmail’s New Desktop App is Available on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-15 16:06</span>
             </div>
         </div>
 </div>
@@ -244,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Lego-Back-to-the-Future-Delorean-Speed-Champions-1280x853.jpg" alt="Great Scott, Lego’s New ‘Back to the Future’ Set Is Surprisingly Affordable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-back-to-the-future-delorean-speed-champions-price-release-date-2000672690" target="_blank">Great Scott, Lego’s New ‘Back to the Future’ Set Is Surprisingly Affordable</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-15 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="South Carolina measles outbreak sends over 150 unvaccinated, exposed children into quarantine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/15/south-carolina-measles-outbreak-sends-over-150-unvaccinated-exposed-children-into-quarantine.html" target="_blank">South Carolina measles outbreak sends over 150 unvaccinated, exposed children into quarantine</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-15 17:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/pvsszzz-1280x720.jpg" alt="This New Plants Vs Zombies Remastered Trailer Is Hard To Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +303,6 @@
                 <span class="time">2025-10-15 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/outerworldd2-1280x720.jpg" alt="The Only Reason Outer Worlds 2 Has A Third-Person Mode Is Because Fans Begged For It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/outer-worlds-2-third-person-option-first-person-new-vegas-fov-console-2000635681" target="_blank">The Only Reason Outer Worlds 2 Has A Third-Person Mode Is Because Fans Begged For It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-15 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/GovveGamingPixelLight-1280x853.jpg" alt="Govee Gaming Pixel LED Light Panel Drops to Peanuts Pricing, Real-Time Info Display and 150+ Scenes Built In" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/govee-gaming-pixel-led-light-panel-drops-to-peanuts-pricing-real-time-info-display-and-150-scenes-built-in-2000635378" target="_blank">Govee Gaming Pixel LED Light Panel Drops to Peanuts Pricing, Real-Time Info Display and 150+ Scenes Built In</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-15 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
