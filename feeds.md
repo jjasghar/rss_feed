@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 16:01:39 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-15 17:01:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/15/apple-to-increase-chinese-investments-amid-us-china-trade-tension?traffic_source=rss" target="_blank">Apple to increase Chinese investments amid US-China trade tension</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-15 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-ehud-barak-israel_7051819.jpg?20251015154432" alt="Inter-Arab security force should be set up &#x27;within weeks&#x27; to stop Hamas retaking Gaza, ex-Israeli PM tells Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/inter-arab-security-force-should-be-set-up-within-weeks-to-stop-hamas-retaking-gaza-ex-israeli-pm-says-13450513" target="_blank">Inter-Arab security force should be set up &#x27;within weeks&#x27; to stop Hamas retaking Gaza, ex-Israeli PM tells Sky News</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-15 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +97,20 @@
                 <span class="time">2025-10-15 13:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/israel-gaza-1-rt-gmh-251014_1760448196699_hpMain_4x3t_384.jpg" alt="&#x27;Race against time&#x27;: Workers encounter challenges in rush to get aid into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/humanitarian-workers-detail-challenges-aid-gaza-despite-ceasefire/story?id=126524019" target="_blank">&#x27;Race against time&#x27;: Workers encounter challenges in rush to get aid into Gaza</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-15 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria" target="_blank">Study: We&#x27;re losing the war against drug-resistant infections faster than we thought</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 12:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Veo-3.1-500x500.png" alt="Google’s AI videos get a big upgrade with Veo 3.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/10/googles-ai-videos-get-a-big-upgrade-with-veo-3-1/" target="_blank">Google’s AI videos get a big upgrade with Veo 3.1</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-15 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/12/openai-math-apples-500x500.jpg" alt="ChatGPT erotica coming soon with age verification, CEO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/799352/apple-ipad-pro-m5-price-release-date" target="_blank">Apple’s iPad Pro now has a new M5 processor inside</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-15 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/rogpromo-500x500-1760476764.jpg" alt="ROG Xbox Ally X: The Ars Technica review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/" target="_blank">ROG Xbox Ally X: The Ars Technica review</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-15 13:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +244,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_S5-1280x853.jpg" alt="‘Stranger Things’ Season 5 Will Finally Explain What the Hell the Upside Down Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-season-5-upside-down-explained-origins-netflix-2000672687" target="_blank">‘Stranger Things’ Season 5 Will Finally Explain What the Hell the Upside Down Is</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-15 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/legendofkhiimori.png?fit=1184%2C660&amp;quality=55&amp;ssl=1" alt="Mongolian horse courier game becomes surprise hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/15/mongolian-horse-courier-game-becomes-surprise-hit.html" target="_blank">Mongolian horse courier game becomes surprise hit</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-15 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/outerworldd2-1280x720.jpg" alt="The Only Reason Outer Worlds 2 Has A Third-Person Mode Is Because Fans Begged For It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,24 +297,6 @@
                 <span class="time">2025-10-15 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Apple-MacBook-Pro-14-in-hero-251015-1280x853.jpg" alt="Apple’s New MacBook Leaves the ‘Pro’ and ‘Max’ for Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apples-new-macbook-leaves-the-pro-and-max-for-later-2000672530" target="_blank">Apple’s New MacBook Leaves the ‘Pro’ and ‘Max’ for Later</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-15 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7JC9SYCTDBPQMVWXGQTWZJA/hero-image.png" alt="You Can Now Easily Verify Your Android Contacts&#x27; Identities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/verify-android-contacts-qr-code?utm_medium=RSS" target="_blank">You Can Now Easily Verify Your Android Contacts&#x27; Identities</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
