@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 20:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-15 21:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5575528/hegseth-order-troops-quantico-speech" target="_blank">Hegseth orders troops to watch his speech decrying a &#x27;woke&#x27; military</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-15 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/germany-pledges-2bn-in-military-aid-for-ukraine-as-kyiv-seeks-more-funds?traffic_source=rss" target="_blank">Germany pledges $2bn in military aid for Ukraine as Kyiv seeks more funds</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-15 20:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/scotus-4-rt-gmh-251015_1760538665011_hpMain_4x3t_384.jpg" alt="Supreme Court appears ready to limit key part of Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +98,29 @@
                 <span class="time">2025-10-15 16:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-251014_1760464502474_hpMain_4x3t_384.jpg" alt="What to know about the Trump administration&#x27;s $20B bailout for Argentina" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-administrations-20b-bailout-argentina/story?id=126513232" target="_blank">What to know about the Trump administration&#x27;s $20B bailout for Argentina</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-15 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-ehud-barak-israel_7051819.jpg?20251015154432" alt="Inter-Arab security force should be set up &#x27;within weeks&#x27; to stop Hamas retaking Gaza, ex-Israeli PM tells Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/inter-arab-security-force-should-be-set-up-within-weeks-to-stop-hamas-retaking-gaza-ex-israeli-pm-says-13450513" target="_blank">Inter-Arab security force should be set up &#x27;within weeks&#x27; to stop Hamas retaking Gaza, ex-Israeli PM tells Sky News</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-15 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/15/spotify-spotted-working-on-a-songdna-feature-that-showcases-the-people-behind-your-favorite-music/" target="_blank">Spotify spotted working on a ‘SongDNA’ feature that showcases the people behind your favorite music</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-15 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/nikon1-500x500.jpg" alt="Rice weevil on a grain of rice wins 2025 Nikon Small World contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/" target="_blank">Rice weevil on a grain of rice wins 2025 Nikon Small World contest</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-15 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228551722-500x500.jpg" alt="CDC tormented: HR workers summoned from furlough to lay off themselves, others" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +157,38 @@
                 <span class="time">2025-10-15 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/" target="_blank">Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-15 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Veo-3.1-500x500.png" alt="Google’s AI videos get a big upgrade with Veo 3.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/10/googles-ai-videos-get-a-big-upgrade-with-veo-3-1/" target="_blank">Google’s AI videos get a big upgrade with Veo 3.1</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-15 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/salah_elbouhlali_66fa9a7/common-mistakes-i-made-as-a-junior-backend-developer-l61" target="_blank">Common Mistakes I Made as a Junior Backend Developer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Valve-Fixes-2025-Hawaii-GPUs" target="_blank">Valve Developer Contributes Open-Source Driver Fixes For 12 Year Old Hawaii GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-15 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/googles-engineering-culture" target="_blank">Google’s engineering culture</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-10-15 20:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F225k3fcyjxfuvb1v29vi.png" alt="Surviving Dependency Hell: My First Full-Stack AI Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,48 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.platformatic.dev/bring-python-asgi-to-your-nodejs-applications" target="_blank">Bring Python ASGI to Your Node.js Applications</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-15 19:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699839&w=600" alt="Centralized Configuration Management With Consul" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/centralized-configuration-management-with-consul" target="_blank">Centralized Configuration Management With Consul</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-15 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnccm9clmxwlu773f36i.png" alt="Testing AI Agents Like a Pro: A Complete Guide to Rogue 🔍" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drorivry/testing-ai-agents-like-a-pro-a-complete-guide-to-rogue-4npb" target="_blank">Testing AI Agents Like a Pro: A Complete Guide to Rogue 🔍</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://treyhunner.com/2025/10/handy-python-repl-modifications/" target="_blank">Modifying the Python REPL</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-15 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699814&w=600" alt="Building a Fault-Tolerant Microservices Architecture With Kubernetes, gRPC, and Circuit Breakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/microservices-kubernetes-grpc-circuit-breakers" target="_blank">Building a Fault-Tolerant Microservices Architecture With Kubernetes, gRPC, and Circuit Breakers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-15 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2.5-Released" target="_blank">Mesa 25.2.5 Released With Very Important Intel Driver Fix</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-15 17:40</span>
             </div>
         </div>
 </div>
@@ -241,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/openworld-1280x720.jpg" alt="A Lot Of Great Open-World Games Are Super Cheap Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-lot-of-great-open-world-games-are-super-cheap-right-now-2000635704" target="_blank">A Lot Of Great Open-World Games Are Super Cheap Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-15 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/halloween-food-and-drink-hhn-east-wdw-final-1280x853.jpg" alt="The Best Halloween Food You’ll Find at Theme Parks This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/best-halloween-food-drink-theme-parks-disney-universal-knotts-2000670733" target="_blank">The Best Halloween Food You’ll Find at Theme Parks This Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-15 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/KpopDemonHunters-2-1280x853.jpg" alt="Netflix Liked ‘KPop Demon Hunters’ in Theaters So Much, They’re Doing It Twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +298,6 @@
                 <span class="time">2025-10-15 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/pvsszzz-1280x720.jpg" alt="This New Plants Vs Zombies Remastered Trailer Is Hard To Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-plants-vs-zombies-remastered-replanted-trailer-cringe-fake-twitch-stream-2000635689" target="_blank">This New Plants Vs Zombies Remastered Trailer Is Hard To Watch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-15 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.png" alt="The Best Sales on Headphones and Earbuds Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-15 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,6 +310,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/15/the-blessing-part-five" target="_blank">The Blessing, Part Five</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-10-15 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/physics_paths.png" alt="Physics Paths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3155/" target="_blank">Physics Paths</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-15 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -323,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
