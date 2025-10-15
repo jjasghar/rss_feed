@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 21:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-15 22:01:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg" alt="Government publishes key witness statements in collapsed China spy case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss" target="_blank">Government publishes key witness statements in collapsed China spy case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/15/aje-onl-glb_kushner_av_v3-151025?traffic_source=rss" target="_blank">What Jared Kushner’s Middle East diplomacy means for Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-15 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fd/live/a0ff9900-aa01-11f0-aa13-0b0479f6f42a.jpg" alt="Hamas returns two more bodies but says it cannot retrieve remaining dead hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3w9py9940go?at_medium=RSS&at_campaign=rss" target="_blank">Hamas returns two more bodies but says it cannot retrieve remaining dead hostages</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 20:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +96,20 @@
                 <span class="time">2025-10-15 19:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2087/live/78584840-a9e2-11f0-b2dc-37eb57bf4de6.jpg" alt="UN humanitarian chief urges Israel to open more crossings into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c803rmdzjdjo?at_medium=RSS&at_campaign=rss" target="_blank">UN humanitarian chief urges Israel to open more crossings into Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-15 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5558287/michael-twitty-cookbook-recipes-from-the-american-south" target="_blank">A celebration of the South&#x27;s rich — and messy — heritage, delivered on a plate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/15/apple-to-increase-chinese-investments-amid-us-china-trade-tension?traffic_source=rss" target="_blank">Apple to increase Chinese investments amid US-China trade tension</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2219849110-500x500.jpg" alt="Army general says he’s using AI to improve “decision-making”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/" target="_blank">Army general says he’s using AI to improve “decision-making”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-15 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +152,6 @@
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/" target="_blank">The AI Industry’s Scaling Obsession Is Headed for a Cliff</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2025-10-15 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe" target="_blank">Senate Democrats want to know: was YouTube’s Trump settlement a bribe?</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2025-10-15 18:00</span>
             </div>
         </div>
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
