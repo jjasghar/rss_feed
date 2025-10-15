@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 12:02:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-15 13:10:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria" target="_blank">Study: We&#x27;re losing the fight against drug-resistant infections faster we&#x27;d thought</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-15 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5574972/raila-odinga-kenya-prime-minister-dies" target="_blank">Raila Odinga, Kenya&#x27;s former Prime Minister, dies at 80</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-15 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760526657219_tdy_news_7a_haake_deceased_hostages_251015_1920x1080-bu2hbb.jpg" alt="Israel Threatens to Slow Aid Into Gaza Amid New Dispute" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/israel-hamas-ceasefire-becomes-fragile-amid-new-dispute-249920069721" target="_blank">Israel Threatens to Slow Aid Into Gaza Amid New Dispute</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-15 11:11</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +98,38 @@
                 <span class="time">2025-10-15 10:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251014-louisiana-voting-vl-132p-da2134.jpg" alt="Supreme Court weighs whether to gut key provision of landmark Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-voting-rights-act-redistricting-congress-louisiana-rcna237565" target="_blank">Supreme Court weighs whether to gut key provision of landmark Voting Rights Act</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-15 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/rafah-embed_1760516130883_hpMain_2_4x3t_384.jpg" alt="Israel-Gaza live updates: Rafah crossing remains closed to aid, Israeli official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: Rafah crossing remains closed to aid, Israeli official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-15 08:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/799352/apple-ipad-pro-m5-price-release-date" target="_blank">Apple’s iPad Pro now has a new M5 processor inside</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-15 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/rogpromo-500x500-1760476764.jpg" alt="ROG Xbox Ally X: The Ars Technica review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/" target="_blank">ROG Xbox Ally X: The Ars Technica review</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-15 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68eec838eadc50eb0ecc7418/master/pass/Review-%20Xbox%20ROG%20Ally%20X.png" alt="Xbox ROG Ally and ROG Ally X Review: High Performance, High Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/review-xbox-rog-ally-and-rog-ally-x/" target="_blank">Xbox ROG Ally and ROG Ally X Review: High Performance, High Price</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +157,20 @@
                 <span class="time">2025-10-15 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/15/waymo-plans-to-launch-a-robotaxi-service-in-london-in-2026/" target="_blank">Waymo plans to launch a robotaxi service in London in 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-15 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/" target="_blank">OpenAI has five years to turn $13 billion into $1 trillion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-15 05:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="10% Off Dell Coupon Codes | October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dell-coupon-code/" target="_blank">10% Off Dell Coupon Codes | October 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-15 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbi0o2jswn5d55htg2saz.jpg" alt="The #1 Cloud Security Mistake Law Firms Make: Not Protecting Client Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/heyjoshlee/the-1-cloud-security-mistake-law-firms-make-protect-client-data-3i03" target="_blank">The #1 Cloud Security Mistake Law Firms Make: Not Protecting Client Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/agentic-ai-adoption-leadership/en/headerimage/generatedHeaderImage-1759847228981.jpg" alt="Testing Organizations&#x27; Widespread Adoption of Agentic AI, but Leadership Lags in Understanding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,6 +178,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/agentic-ai-adoption-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Testing Organizations&#x27; Widespread Adoption of Agentic AI, but Leadership Lags in Understanding</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/" target="_blank">Ireland Is Making Basic Income for Artists Program Permanent</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-15 11:40</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/mohammad_owaisk_e95f45c/what-is-transcoding-and-how-does-it-work-why-is-it-important-for-streaming-3cj0" target="_blank">What is Transcoding and How Does It Work? Why is It Important for Streaming?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-15 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/buildert/build-vs-buy-pre-built-templates-vs-custom-middleware-for-sap-salesforce-integration-2fg1" target="_blank">Build vs. Buy: Pre-Built Templates vs. Custom Middleware for SAP-Salesforce Integration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-rules-of-engagement-the-grey-state-official-reveal-trailer-3733" target="_blank">IGN: Rules of Engagement: The Grey State - Official Reveal Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 08:01</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
