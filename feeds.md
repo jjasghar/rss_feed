@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 08:02:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-15 09:02:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 15, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/rafah-embed_1760516130883_hpMain_2_4x3t_384.jpg" alt="Israel-Gaza live updates: Rafah crossing remains closed to aid, Israeli official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=126446763" target="_blank">Israel-Gaza live updates: Rafah crossing remains closed to aid, Israeli official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-15 08:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/10/15/surveillance-pricing-why-you-might-be-paying-more-than-your-neighbour?traffic_source=rss" target="_blank">‘Surveillance pricing’: Why you might be paying more than your neighbour</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-15 08:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0588/live/b5df6ad0-a993-11f0-928c-71dbb8619e94.jpg" alt="Hostage families confirm identities of three of four bodies handed over by Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss" target="_blank">Hostage families confirm identities of three of four bodies handed over by Hamas</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-15 07:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/oct/15/thousands-trapped-in-el-fasher-sudan-siege-on-edge-of-survival-says-report-rsf" target="_blank">Thousands trapped in El Fasher siege on ‘edge of survival’, says report</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-15 07:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -60,42 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/us-revokes-six-visas-over-charlie-kirk-death-amid-social-media-crackdown?traffic_source=rss" target="_blank">US revokes six visas over Charlie Kirk death amid social media crackdown</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-15 05:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/trump-threatens-to-cut-democrat-programmes-extends-funding-to-military?traffic_source=rss" target="_blank">Trump threatens to cut ‘Democrat’ programmes, extends funding to military</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kristi-noem_1760492333377_hpMain_4x3t_384.jpg" alt="Which major airports are refusing to show DHS shutdown video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/major-airports-refuse-show-dhs-secretary-kristi-noems/story?id=126532056" target="_blank">Which major airports are refusing to show DHS shutdown video</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-15 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ef/live/c6334f40-a94e-11f0-928c-71dbb8619e94.jpg" alt="Hamas returns four more bodies of hostages, Israeli military says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss" target="_blank">Hamas returns four more bodies of hostages, Israeli military says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-15 02:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg" alt="Government under pressure to release China spy case evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss" target="_blank">Government under pressure to release China spy case evidence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-15 02:00</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/buildert/build-vs-buy-pre-built-templates-vs-custom-middleware-for-sap-salesforce-integration-2fg1" target="_blank">Build vs. Buy: Pre-Built Templates vs. Custom Middleware for SAP-Salesforce Integration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-15 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-rules-of-engagement-the-grey-state-official-reveal-trailer-3733" target="_blank">IGN: Rules of Engagement: The Grey State - Official Reveal Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-15 08:01</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/vmware-workstation-pro-25h2-released" target="_blank">VMware Workstation Pro 25H2 Released with New Features</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-15 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a" target="_blank">My First Dev Project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 02:55</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
