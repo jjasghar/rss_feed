@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 20:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 21:01:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93709/adelita-grijalva-mike-johnson-swearing-in" target="_blank">Adelita Grijalva can force a vote on the Epstein files, but she&#x27;s still not sworn in</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-16 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +94,29 @@
                 <span class="time">2025-10-16 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss" target="_blank">Who pays to rebuild Gaza after Israel’s devastating war?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f1155b7fe66c9366128ec2/master/pass/GettyImages-2226652563.jpg" alt="Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/f5-hack-networking-software-big-ip/" target="_blank">Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-16 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-500x500.jpg" alt="Nation-state hackers deliver malware from “bulletproof” blockchains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/" target="_blank">Nation-state hackers deliver malware from “bulletproof” blockchains</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-16 20:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/music-pirate-500x500-1732568013.jpg" alt="Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +153,20 @@
                 <span class="time">2025-10-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/gzdoom-500x500.png" alt="Open source GZDoom community splinters after creator inserts AI-generated code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/" target="_blank">Open source GZDoom community splinters after creator inserts AI-generated code</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-16 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/" target="_blank">A new wave of social media apps provide hope in a doomscrolling world</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-16 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-No-Go" target="_blank">Fedora 43 Is Not Ready For Release Next Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-16 19:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2900392%2F78ad1723-16ab-4e46-b39c-7f3feb416d23.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +212,6 @@
                 <span class="time">2025-10-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/skills" target="_blank">Claude Skills</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-16 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,11 +232,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-voyager-across-the-unknown-demo-impressions-1280x853.jpg" alt="I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-voyager-across-the-unknown-demo-impressions-2000673198" target="_blank">I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-16 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Lucas-1280x853.jpg" alt="George Lucas Knows You Freaks Want Some ‘Star Wars’ at His Big New Museum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/george-lucas-museum-star-wars-exhibit-2000673235" target="_blank">George Lucas Knows You Freaks Want Some ‘Star Wars’ at His Big New Museum</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7Q6SJMCKM035G4ZFZA375R2/hero-image.jpg" alt="Apple TV Subscribers Can Soon Add Peacock for $2 More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/apple-tv-peacock-bundle-offer?utm_medium=RSS" target="_blank">Apple TV Subscribers Can Soon Add Peacock for $2 More</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-16 20:00</span>
             </div>
         </div>
@@ -272,29 +285,20 @@
                 <span class="time">2025-10-16 18:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="The cost of endless war: almost every child in Gaza needs psychological care" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/16/the-cost-of-endless-war-almost-every-child-in-gaza-needs-psychological-care.html" target="_blank">The cost of endless war: almost every child in Gaza needs psychological care</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-16 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Video of Epstein when asked about Donald Trump and underage girls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/16/video-of-epstein-when-asked-about-donald-trump-and-underage-girls.html" target="_blank">Video of Epstein when asked about Donald Trump and underage girls</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-16 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1760645300-202510br.png" alt="Saturday Morning Breakfast Cereal - August 2025 Book Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/august-2025-book-reviews" target="_blank">Saturday Morning Breakfast Cereal - August 2025 Book Reviews</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-16 20:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5680.png" alt="The Great Unspoken" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -318,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
