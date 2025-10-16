@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 22:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 23:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,9 +62,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/16/g-s1-93866/in-pictures-remembering-susan-stamberg-one-of-nprs-founding-mothers" target="_blank">In Pictures: Remembering Susan Stamberg, one of NPR&#x27;s Founding Mothers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-16 21:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93709/adelita-grijalva-mike-johnson-swearing-in" target="_blank">Adelita Grijalva can force a vote on the Epstein files, but she&#x27;s still not sworn in</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-16 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-putin-alaska_6992429.jpg?20250816091711" alt="Trump says he&#x27;ll meet Putin in Hungary for Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-hell-meet-putin-in-hungary-for-ukraine-talks-after-productive-call-13451362" target="_blank">Trump says he&#x27;ll meet Putin in Hungary for Ukraine talks</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-16 19:56</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +103,20 @@
                 <span class="time">2025-10-16 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/0b0b5130-aabc-11f0-aa13-0b0479f6f42a.jpg" alt="Netanyahu &#x27;determined&#x27; to pressure Hamas to find remaining dead hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gkm0243wzo?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu &#x27;determined&#x27; to pressure Hamas to find remaining dead hostages</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-16 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/16/chaos-erupts-at-public-viewing-of-former-kenyan-pm-raila-odingas-body?traffic_source=rss" target="_blank">Chaos erupts at public viewing of former Kenyan PM Raila Odinga’s body</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1182820491-500x500.jpg" alt="RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/" target="_blank">RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-16 22:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f1155b7fe66c9366128ec2/master/pass/GettyImages-2226652563.jpg" alt="Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="time">2025-10-16 18:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f02d3e2611849cab159a7f/master/pass/PeridotBeyond_Multiplayer_square_noLogos.jpg" alt="Niantic’s Peridot, the Augmented Reality Alien Dog, Is Now a Talking Tour Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/niantic-peridot-augmented-reality-snap-spectacles/" target="_blank">Niantic’s Peridot, the Augmented Reality Alien Dog, Is Now a Talking Tour Guide</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-16 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/josejuarezjunior/javascript-closure-2an0" target="_blank">JavaScript | Closure</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-16 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.pixelmelt.dev/kindle-web-drm/" target="_blank">How I bypassed Amazon&#x27;s Kindle web DRM</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-16 20:22</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +221,6 @@
                 <span class="time">2025-10-16 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gaodalie_ai/rag-is-not-dead-no-chunking-no-vectors-just-vectorless-to-get-the-higher-accuracy-1iba" target="_blank">RAG is Not Dead! No Chunking, No Vectors, Just Vectorless to Get the Higher Accuracy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-16 17:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +246,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/star-trek-voyager-across-the-unknown-demo-impressions-2000673198" target="_blank">I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-16 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Visual-Studio-Professional-2022.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This MS Visual Studio Professional 2022 Course bundle has everything you need to learn to code for just $46" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/16/this-ms-visual-studio-professional-2022-course-bundle-has-everything-you-need-to-learn-to-code-for-just-46.html" target="_blank">This MS Visual Studio Professional 2022 Course bundle has everything you need to learn to code for just $46</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-16 21:00</span>
             </div>
         </div>
@@ -282,15 +294,6 @@
                 <span class="time">2025-10-16 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/pokemonza-1280x720.jpg" alt="Pokémon Legends Z-A’s Small, Boring Map Is Leaving Fans Disappointed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-z-small-boring-map-how-big-time-to-walk-around-2000636148" target="_blank">Pokémon Legends Z-A’s Small, Boring Map Is Leaving Fans Disappointed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-16 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +317,13 @@
                 <span class="time">2025-10-16 00:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/15/the-blessing-part-five" target="_blank">The Blessing, Part Five</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-15 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
