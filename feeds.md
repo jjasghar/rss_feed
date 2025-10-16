@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 01:29:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 02:27:59 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/rinderknecht-ht-er-251008_1759940812702_hpMain_2_4x3t_384.jpg" alt="Man suspected of starting Palisades Fire indicted; faces 45 years in prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/man-suspected-starting-palisades-fire-indicted-federal-charges/story?id=126565061" target="_blank">Man suspected of starting Palisades Fire indicted; faces 45 years in prison</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-16 00:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +102,20 @@
                 <span class="time">2025-10-15 21:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/15/aje-onl-glb_kushner_av_v3-151025?traffic_source=rss" target="_blank">What Jared Kushner’s Middle East diplomacy means for Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/15/seoul-weighs-approval-for-google-apple-high-resolution-map-requests/" target="_blank">Seoul weighs approval for Google, Apple high-resolution map requests</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-16 00:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +161,6 @@
                 <span class="time">2025-10-15 21:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/15/spotify-spotted-working-on-a-songdna-feature-that-showcases-the-people-behind-your-favorite-music/" target="_blank">Spotify spotted working on a ‘SongDNA’ feature that showcases the people behind your favorite music</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-15 20:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +173,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arm-Ethos-Gallium-Merged" target="_blank">Mesa Gallium3D Driver Merged For Arm Ethos NPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-16 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/onlyoffice-logo-hero.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE 9.1 Released with PDF Redact Tools + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/onlyoffice-9-1-new-features" target="_blank">ONLYOFFICE 9.1 Released with PDF Redact Tools + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-15 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +220,6 @@
                 <span class="time">2025-10-15 20:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/googles-engineering-culture" target="_blank">Google’s engineering culture</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-15 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +246,15 @@
                 <span class="title"><a href="https://gizmodo.com/the-knight-of-the-seven-kingdoms-showrunner-has-an-idea-for-an-unhinged-game-of-thrones-cameo-2000672904" target="_blank">The ‘Knight of the Seven Kingdoms’ Showrunner Has an Idea for an Unhinged ‘Game of Thrones’ Cameo</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-15 23:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7MX10ZWF8DV7PJHQTZB5WCY/hero-image.jpg" alt="I Tried the New LE Bluetooth Audio on the Sony WH-1000XM6 Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/le-bluetooth-audio-on-sony-wh-1000xm6-headphones?utm_medium=RSS" target="_blank">I Tried the New LE Bluetooth Audio on the Sony WH-1000XM6 Headphones</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-15 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -282,20 +293,20 @@
                 <span class="time">2025-10-15 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/KpopDemonHunters-2-1280x853.jpg" alt="Netflix Liked ‘KPop Demon Hunters’ in Theaters So Much, They’re Doing It Twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-theater-re-release-dates-2000672805" target="_blank">Netflix Liked ‘KPop Demon Hunters’ in Theaters So Much, They’re Doing It Twice</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-15 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5680.png" alt="The Great Unspoken" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5680" target="_blank">The Great Unspoken</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-16 00:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -328,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
