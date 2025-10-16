@@ -1,26 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 10:01:53 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-16 11:01:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 18 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/10/16/the-megadonor-hypocrisy?traffic_source=rss" target="_blank">The megadonor hypocrisy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Gaza-voices-two-gty-bh-251015_1760541948699_hpMain_4x3t_384.jpg" alt="&#x27;This is not Gaza&#x27;: Palestinians return to war-torn neighborhoods amid ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/gaza-palestinians-return-war-torn-neighborhoods-amid-fragile/story?id=126551546" target="_blank">&#x27;This is not Gaza&#x27;: Palestinians return to war-torn neighborhoods amid ceasefire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-16 10:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,29 +105,29 @@
                 <span class="time">2025-10-16 07:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/16/afghanistan-pakistan-enter-48-hour-truce-after-deadly-border-clashes?traffic_source=rss" target="_blank">Afghanistan, Pakistan enter 48-hour truce after deadly border clashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 05:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93677/trump-confirms-cia-operations-venezuela" target="_blank">Trump confirms the CIA is conducting covert operations inside Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-16 05:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f08db70078f51b4f545f5b/master/pass/22%20Fun%20Gifts%20for%20Babies%20(and%20Toddlers!).png" alt="Best Gifts for Babies and Toddlers, Tested and Approved by Our Own Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-baby-and-toddler-gifts/" target="_blank">Best Gifts for Babies and Toddlers, Tested and Approved by Our Own Kids</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-16 10:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/16/zepto-raises-450-million-at-7-billion-valuation-as-indian-quick-commerce-market-heats-up/" target="_blank">Zepto raises $450 million at $7 billion valuation as Indian quick commerce market heats up</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-16 10:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,29 +164,38 @@
                 <span class="time">2025-10-16 00:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/" target="_blank">Electric aircraft startup Beta Technologies seeks to raise $825M in IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-15 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/" target="_blank">This Thiel-backed venture allows doping in its own sports</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-15 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699962&w=600" alt="Porting From Perl to Go: Simplifying for Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/perl-to-go-migration-for-platform-engineering" target="_blank">Porting From Perl to Go: Simplifying for Platform Engineering</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-16 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oli_john_087e42c8f84/handling-challenges-in-cloud-migration-tools-for-ensuring-data-integrity-and-speed-3962" target="_blank">Handling Challenges in Cloud Migration: Tools for Ensuring Data Integrity and Speed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-16 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/aws-quick-suite/en/headerimage/generatedHeaderImage-1760539500887.jpg" alt="AWS Launches Amazon Quick Suite, an Agentic AI Workspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/aws-quick-suite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Amazon Quick Suite, an Agentic AI Workspace</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-16 10:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,33 +221,6 @@
                 <span class="title"><a href="https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12" target="_blank">Journalists turn in access badges, exit Pentagon rather than agreeing new rules</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-16 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs" target="_blank">Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-16 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/rteb-benchmark/en/headerimage/generatedHeaderImage-1760458049365.jpg" alt="Hugging Face Introduces RTEB, a New Benchmark for Evaluating Retrieval Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/rteb-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Introduces RTEB, a New Benchmark for Evaluating Retrieval Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-16 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ollama.com/blog/coding-models" target="_blank">New coding models and integrations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-16 05:46</span>
             </div>
         </div>
 </div>
@@ -309,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
