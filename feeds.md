@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 13:10:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-16 14:01:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -80,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760614274847_tdy_news_7a_engel_hostage_remains_251016_1920x1080-m9jvlw.jpg" alt="Hamas Says it Has Returned All the Hostage Bodies it Can Reach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/hamas-says-it-has-returned-all-the-hostage-bodies-it-can-reach-250003525577" target="_blank">Hamas Says it Has Returned All the Hostage Bodies it Can Reach</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-16 11:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -97,15 +102,6 @@
                 <span class="time">2025-10-16 10:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Gaza-voices-two-gty-bh-251015_1760541948699_hpMain_4x3t_384.jpg" alt="&#x27;This is not Gaza&#x27;: Palestinians return to war-torn neighborhoods amid ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/gaza-palestinians-return-war-torn-neighborhoods-amid-fragile/story?id=126551546" target="_blank">&#x27;This is not Gaza&#x27;: Palestinians return to war-torn neighborhoods amid ceasefire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-16 10:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -115,8 +111,26 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/800190/ev-tax-credit-auto-industry-cars-trump-tesla-china" target="_blank">The EV tax credit is gone — now the hard part begins</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-16 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral" target="_blank">The DIY and IRL energy of punk rock mutual aid</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2025-10-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f079360078f51b4f545f57/master/pass/Review-%20Yamaha%20True%20X%20Surround%2090a%20Dolby%20Atmos%20Soundbar%20System.png" alt="Yamaha True X Surround 90a Review: Not Quite Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/yamaha-true-x-surround-90a/" target="_blank">Yamaha True X Surround 90a Review: Not Quite Perfect</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2025-10-16 12:00</span>
             </div>
         </div>
@@ -147,29 +161,20 @@
                 <span class="time">2025-10-16 10:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/16/zepto-raises-450-million-at-7-billion-valuation-as-indian-quick-commerce-market-heats-up/" target="_blank">Zepto raises $450 million at $7 billion valuation as Indian quick commerce market heats up</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-16 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/" target="_blank">India’s Kuku snags $85M as mobile content wars intensify</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-16 06:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-tron-caravan-of-garbage-2gnb" target="_blank">Mr Sunday Movies: Tron - Caravan of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-16 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18562396&w=600" alt="Build AI Agents with Phidata: YouTube Summarizer Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,6 +182,15 @@
                 <span class="title"><a href="https://dzone.com/articles/getting-started-with-agentic-ai-build-your-first-a" target="_blank">Build AI Agents with Phidata: YouTube Summarizer Agent</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.thepythoncodingstack.com/p/creating-a-singleton-class-in-python" target="_blank">Creating a Singleton Class in Python And Why You (Probably) Don’t Need It</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-16 12:53</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/necatiozmen/-6m2" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-16 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/sustainable-digital-services/en/headerimage/sustainable-digital-services-header-1759494906807.jpg" alt="DevGreenOps: How to Design Sustainable Digital Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/sustainable-digital-services/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DevGreenOps: How to Design Sustainable Digital Services</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-16 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18699962&w=600" alt="Porting From Perl to Go: Simplifying for Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/perl-to-go-migration-for-platform-engineering" target="_blank">Porting From Perl to Go: Simplifying for Platform Engineering</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-16 11:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
