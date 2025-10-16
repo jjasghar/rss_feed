@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 15:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 16:02:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 35 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -117,6 +110,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/" target="_blank">Deel hits $17.3B valuation after raising $300M from big-name VCs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-16 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f066b93e4eaf53dcafe501/master/pass/The%20Best%20Gifts%20for%20Book%20Lovers.png" alt="The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gifts-for-book-lovers/" target="_blank">The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-16 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/16/microsoft-aws-and-google-are-trying-to-drastically-reduce-chinas-role-in-their-supply-chains/" target="_blank">Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-16 14:51</span>
@@ -149,29 +160,20 @@
                 <span class="time">2025-10-16 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f079360078f51b4f545f57/master/pass/Review-%20Yamaha%20True%20X%20Surround%2090a%20Dolby%20Atmos%20Soundbar%20System.png" alt="Yamaha True X Surround 90a Review: Not Quite Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/yamaha-true-x-surround-90a/" target="_blank">Yamaha True X Surround 90a Review: Not Quite Perfect</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/16/jack-jill-raises-20-million-to-bring-conversational-ai-to-job-hunting/" target="_blank">Jack &amp; Jill raises $20 million to bring conversational AI to job-hunting</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-16 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701242&w=600" alt="Deep Linking in Enterprise Android Apps: A Real-World, Scalable Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/deep-linking-in-enterprise-android-apps" target="_blank">Deep Linking in Enterprise Android Apps: A Real-World, Scalable Approach</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701235&w=600" alt="Crypto Agility for Developers: Build Agile Encryption Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -217,15 +219,6 @@
                 <span class="time">2025-10-16 14:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18562396&w=600" alt="Build AI Agents with Phidata: YouTube Summarizer Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/getting-started-with-agentic-ai-build-your-first-a" target="_blank">Build AI Agents with Phidata: YouTube Summarizer Agent</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-16 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dell-laptop-1280x853.jpg" alt="Dell Is Practically Giving Away This 5-Star Laptop Bundle at 62% Off With $400 Worth of Accessories Included" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dell-is-practically-paying-you-to-buy-this-5-star-laptop-bundle-62-off-with-400-worth-of-accessories-included-2000635767" target="_blank">Dell Is Practically Giving Away This 5-Star Laptop Bundle at 62% Off With $400 Worth of Accessories Included</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-16 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Street-Fighter-Burger.jpg" alt="McDonald’s Gets Street Fighter Burgers In Japan And I’m Very Jealous" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +292,6 @@
                 <span class="time">2025-10-16 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/airtag-4-pack-1280x853.jpg" alt="AirTags Are Selling for Pennies, and Amazon Gives You 2 Free with the 4-Pack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/airtags-are-selling-for-pennies-and-amazon-gives-you-2-free-with-the-4-pack-2000635985" target="_blank">AirTags Are Selling for Pennies, and Amazon Gives You 2 Free with the 4-Pack</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-16 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
