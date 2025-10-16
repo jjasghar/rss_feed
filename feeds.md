@@ -1,38 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 14:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 15:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 14 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/16/trump-confirms-covert-cia-operations-against-venezuela?traffic_source=rss" target="_blank">Trump confirms covert CIA operations against Venezuela</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d5/live/72375070-aa62-11f0-aa13-0b0479f6f42a.jpg" alt="MI5 chief &#x27;frustrated&#x27; over collapse of China spy case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss" target="_blank">MI5 chief &#x27;frustrated&#x27; over collapse of China spy case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-16 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93590/gaza-reconstruction-government" target="_blank">Some of the things Gaza needs: A government, security and tools to rebuild</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-16 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/israel-gaza-1-ap-gmh-251016_1760619018597_hpMain_4x3t_384.jpg" alt="US-led coordination center for Gaza to be operational in coming days: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/us-led-coordination-center-overseeing-gaza-rebuilding-operational/story?id=126577064" target="_blank">US-led coordination center for Gaza to be operational in coming days: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-16 13:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d5/live/72375070-aa62-11f0-aa13-0b0479f6f42a.jpg" alt="China spying a daily threat to UK, warns MI5 chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,47 +108,29 @@
                 <span class="time">2025-10-16 12:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d5/live/72375070-aa62-11f0-aa13-0b0479f6f42a.jpg" alt="Inquiry launched as pressure mounts over China spying case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss" target="_blank">Inquiry launched as pressure mounts over China spying case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-16 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760614274847_tdy_news_7a_engel_hostage_remains_251016_1920x1080-m9jvlw.jpg" alt="Hamas Says it Has Returned All the Hostage Bodies it Can Reach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/hamas-says-it-has-returned-all-the-hostage-bodies-it-can-reach-250003525577" target="_blank">Hamas Says it Has Returned All the Hostage Bodies it Can Reach</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-16 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93685/up-first-newsletter-venezuelan-boat-strikes-shutdown-layoffs-paused-military-pay" target="_blank">Trump escalates pressure on Venezuelan drug trade. And, judge pauses shutdown layoffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-16 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/10/16/the-megadonor-hypocrisy?traffic_source=rss" target="_blank">The megadonor hypocrisy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 10:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/16/microsoft-aws-and-google-are-trying-to-drastically-reduce-chinas-role-in-their-supply-chains/" target="_blank">Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-16 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/shoesmith-500x500.jpg" alt="Antarctica is starting to look a lot like Greenland—and that isn’t good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/antarctica-is-starting-to-look-a-lot-like-greenland-and-that-isnt-good/" target="_blank">Antarctica is starting to look a lot like Greenland—and that isn’t good</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-16 14:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +167,47 @@
                 <span class="time">2025-10-16 11:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Co-founder_and_CEO_of_Cloudflare_Matthew_Prince-500x500.jpg" alt="Inside the web infrastructure revolt over Google’s AI Overviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/" target="_blank">Inside the web infrastructure revolt over Google’s AI Overviews</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f08db70078f51b4f545f5b/master/pass/22%20Fun%20Gifts%20for%20Babies%20(and%20Toddlers!).png" alt="Best Gifts for Babies and Toddlers, Tested and Approved by Our Own Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-baby-and-toddler-gifts/" target="_blank">Best Gifts for Babies and Toddlers, Tested and Approved by Our Own Kids</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-16 10:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701235&w=600" alt="Crypto Agility for Developers: Build Agile Encryption Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/crypto-agility-for-developers" target="_blank">Crypto Agility for Developers: Build Agile Encryption Now</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sengseng/a-short-python-tutorial1-5c65" target="_blank">A Short Python Tutorial[1]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-16 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-618-intel-gnr" target="_blank">An Early Look At Linux 6.18 Performance With Intel Xeon 6 Granite Rapids</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-16 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.torproject.org/new-alpha-release-tor-browser-150a4/" target="_blank">Tor browser removing various Firefox AI features</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-16 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,42 +224,6 @@
                 <span class="title"><a href="https://dzone.com/articles/getting-started-with-agentic-ai-build-your-first-a" target="_blank">Build AI Agents with Phidata: YouTube Summarizer Agent</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.thepythoncodingstack.com/p/creating-a-singleton-class-in-python" target="_blank">Creating a Singleton Class in Python And Why You (Probably) Don’t Need It</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-16 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-NVK-NVK-Image-Handle" target="_blank">Mesa NVK Lands Support For VK_NVX_image_view_handle - Needed For NVIDIA DLSS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-16 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/dotnet-10-rc-2-release/en/headerimage/twitter_card+%2862%29-1760612655862.jpg" alt=".NET 10 Release Candidate 2: Finalizes SDK, MAUI Stabilization, and MSBuild Enhancements Ahead of GA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/dotnet-10-rc-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 10 Release Candidate 2: Finalizes SDK, MAUI Stabilization, and MSBuild Enhancements Ahead of GA</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-16 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F481886%2Fff64fa9b-dd77-4a9e-ba50-896385203e19.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/necatiozmen/-6m2" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-16 11:52</span>
             </div>
         </div>
 </div>
@@ -239,6 +245,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Street-Fighter-Burger.jpg" alt="McDonald’s Gets Street Fighter Burgers In Japan And I’m Very Jealous" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mcdonalds-street-fighter-6-burgers-japan-2000636050" target="_blank">McDonald’s Gets Street Fighter Burgers In Japan And I’m Very Jealous</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-16 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/03/shutterstock_330257822-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="The Kiss of Meth: 4-year ban for tennis player who blamed positive drug test on nightclub smooch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/16/the-kiss-of-meth-4-year-ban-for-tennis-player-who-blamed-positive-drug-test-on-nightclub-smooch.html" target="_blank">The Kiss of Meth: 4-year ban for tennis player who blamed positive drug test on nightclub smooch</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-16 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7NRKV7AAN2KDK9KCERA2XT1/hero-image.png" alt="This Two-Pack Wireless Security Camera Is on Sale for $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/arlo-pro-5s-2k-spotlight-camera-two-pack-sale?utm_medium=RSS" target="_blank">This Two-Pack Wireless Security Camera Is on Sale for $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/hp-17-laptop-2tb-1280x853.jpg" alt="Forget Budget Laptops, This HP with 64GB RAM and 2TB SSD Is Now 74% Off and Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/airtags-are-selling-for-pennies-and-amazon-gives-you-2-free-with-the-4-pack-2000635985" target="_blank">AirTags Are Selling for Pennies, and Amazon Gives You 2 Free with the 4-Pack</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-16 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/kiwifruit-1280x853.jpg" alt="Constipated? Here’s What Actually Works, According to Scientists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/constipated-heres-what-actually-works-according-to-scientists-2000672676" target="_blank">Constipated? Here’s What Actually Works, According to Scientists</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-16 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/nikolaj-coster-waldau-david-bradley-2-1280x853.jpg" alt="The ‘Knight of the Seven Kingdoms’ Showrunner Has an Idea for an Unhinged ‘Game of Thrones’ Cameo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-knight-of-the-seven-kingdoms-showrunner-has-an-idea-for-an-unhinged-game-of-thrones-cameo-2000672904" target="_blank">The ‘Knight of the Seven Kingdoms’ Showrunner Has an Idea for an Unhinged ‘Game of Thrones’ Cameo</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-15 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7MX10ZWF8DV7PJHQTZB5WCY/hero-image.jpg" alt="I Tried the New LE Bluetooth Audio on the Sony WH-1000XM6 Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/le-bluetooth-audio-on-sony-wh-1000xm6-headphones?utm_medium=RSS" target="_blank">I Tried the New LE Bluetooth Audio on the Sony WH-1000XM6 Headphones</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-15 22:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
