@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 05:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 06:02:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/16/afghanistan-pakistan-enter-48-hour-truce-after-deadly-border-clashes?traffic_source=rss" target="_blank">Afghanistan, Pakistan enter 48-hour truce after deadly border clashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 05:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/rinderknecht-ht-er-251008_1759940812702_hpMain_2_4x3t_384.jpg" alt="Man suspected of starting Palisades Fire indicted; faces 45 years in prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +98,20 @@
                 <span class="time">2025-10-15 22:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/15/whats-next-for-released-palestinian-prisoners?traffic_source=rss" target="_blank">What’s next for released Palestinian prisoners?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 22:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/15/co-founder-of-indian-social-network-koo-releases-a-new-photo-sharing-app/" target="_blank">Co-founder of Indian social network Koo releases a new photo sharing app</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-16 03:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +157,20 @@
                 <span class="time">2025-10-15 21:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2219849110-500x500.jpg" alt="Army general says he’s using AI to improve “decision-making”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/" target="_blank">Army general says he’s using AI to improve “decision-making”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-15 21:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ollama.com/blog/coding-models" target="_blank">New Coding Models and Integrations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-16 05:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +214,6 @@
                 <span class="title"><a href="https://www.vincentuden.xyz/blog/pdf-reader" target="_blank">I Hate Acrobat</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-15 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/salah_elbouhlali_66fa9a7/common-mistakes-i-made-as-a-junior-backend-developer-l61" target="_blank">Common Mistakes I Made as a Junior Backend Developer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 20:49</span>
             </div>
         </div>
 </div>
@@ -334,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
