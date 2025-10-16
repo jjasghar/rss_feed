@@ -1,36 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 09:02:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-16 10:01:53 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93593/trump-justice-targets-prosecution-costs" target="_blank">Targets of Trump&#x27;s Justice Department must pay up, even if they win</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-16 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d5/live/72375070-aa62-11f0-aa13-0b0479f6f42a.jpg" alt="&#x27;Large scale&#x27; Chinese spying in UK, says witness in collapsed trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +88,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93677/trump-confirms-cia-operations-venezuela" target="_blank">Trump confirms the CIA is conducting covert operations inside Venezuela</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-16 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/16/agnes-wanjiru-niece-urges-labour-extradite-ex-soldier-kenya" target="_blank">Agnes Wanjiru’s niece urges Labour to extradite ex-soldier while still in power</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-16 04:00</span>
             </div>
         </div>
 </div>
@@ -168,6 +158,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tripcat/chinese-dbas-story-sui-haifeng-grasp-the-two-most-important-five-year-periods-of-your-career-2274" target="_blank">Chinese DBA&#x27;s Story: Sui Haifeng - Grasp the two most important five-year periods of your career</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-16 09:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-24lj" target="_blank">** &quot;Keynote Speaker: The Complete Guide for 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-16 07:49</span>
@@ -205,15 +204,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://ollama.com/blog/coding-models" target="_blank">New coding models and integrations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-16 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ollama.com/blog/coding-models" target="_blank">New Coding Models and Integrations</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-16 05:46</span>
             </div>
@@ -319,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
