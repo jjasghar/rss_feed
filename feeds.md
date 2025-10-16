@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 02:27:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 03:16:13 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 02:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 03:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +50,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/man-suspected-starting-palisades-fire-indicted-federal-charges/story?id=126565061" target="_blank">Man suspected of starting Palisades Fire indicted; faces 45 years in prison</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-16 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fd/live/a0ff9900-aa01-11f0-aa13-0b0479f6f42a.jpg" alt="Hamas returns remains of two more hostages but says more time needed to reach others" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3w9py9940go?at_medium=RSS&at_campaign=rss" target="_blank">Hamas returns remains of two more hostages but says more time needed to reach others</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-16 00:21</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/15/whats-next-for-released-palestinian-prisoners?traffic_source=rss" target="_blank">What’s next for released Palestinian prisoners?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-15 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg" alt="Government publishes key witness statements in collapsed China spy case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss" target="_blank">Government publishes key witness statements in collapsed China spy case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-15 21:59</span>
             </div>
         </div>
 </div>
@@ -339,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 02:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 03:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
