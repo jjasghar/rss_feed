@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 07:01:55 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-16 08:02:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/16/trump-acknowledges-challenges-of-finding-gaza-captives-bodies?traffic_source=rss" target="_blank">Trump acknowledges challenges of finding Gaza captives’ bodies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 07:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss" target="_blank">LIVE: Gaza ceasefire fears as Israel demands return of all captives’ bodies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-16 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760569379582_nn_cku_us_venezuela_tensions_251015_1920x1080-1dddfx.jpg" alt="Trump authorized CIA action inside Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-authorized-cia-action-inside-venezuela-249975365974" target="_blank">Trump authorized CIA action inside Venezuela</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-15 23:03</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-24lj" target="_blank">** &quot;Keynote Speaker: The Complete Guide for 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-16 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12" target="_blank">Journalists turn in access badges, exit Pentagon rather than agreeing new rules</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-16 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/rteb-benchmark/en/headerimage/generatedHeaderImage-1760458049365.jpg" alt="Hugging Face Introduces RTEB, a New Benchmark for Evaluating Retrieval Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/rteb-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Introduces RTEB, a New Benchmark for Evaluating Retrieval Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-16 06:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://ollama.com/blog/coding-models" target="_blank">New coding models and integrations</a></span>
                 <span class="feed">Hacker News</span>
@@ -186,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-the-pout-pout-fish-official-trailer-2026-nick-offerman-jordin-sparks-amy-sedaris-3mn0" target="_blank">IGN: The Pout-Pout Fish - Official Trailer (2026) Nick Offerman, Jordin Sparks, Amy Sedaris</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-16 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arm-Ethos-Gallium-Merged" target="_blank">Mesa Gallium3D Driver Merged For Arm Ethos NPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-16 00:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/onlyoffice-logo-hero.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE 9.1 Released with PDF Redact Tools + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/onlyoffice-9-1-new-features" target="_blank">ONLYOFFICE 9.1 Released with PDF Redact Tools + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-15 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/onlyoffice-9.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE 9.1 Released with New PDF Editing Tools, Speed Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/onlyoffice-9-1-new-features" target="_blank">ONLYOFFICE 9.1 Released with New PDF Editing Tools, Speed Boost</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-15 22:59</span>
             </div>
         </div>
 </div>
@@ -316,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
