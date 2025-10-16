@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 17:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 18:02:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-putin-rt-gmh-251016_1760625822207_hpMain_4x3t_384.jpg" alt="Trump says he and Putin plan to meet again to discuss war in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-launches-300-drones-missiles-ukraine-kyiv-zelenskyy/story?id=126571402" target="_blank">Trump says he and Putin plan to meet again to discuss war in Ukraine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-16 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss" target="_blank">Who pays to rebuild Gaza after Israel’s devastating war?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 17:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +102,20 @@
                 <span class="time">2025-10-16 14:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93590/gaza-reconstruction-government" target="_blank">Some of the things Gaza needs: A government, security and tools to rebuild</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-16 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/israel-gaza-1-ap-gmh-251016_1760619018597_hpMain_4x3t_384.jpg" alt="US-led coordination center for Gaza to be operational in coming days: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/us-led-coordination-center-overseeing-gaza-rebuilding-operational/story?id=126577064" target="_blank">US-led coordination center for Gaza to be operational in coming days: Officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-16 13:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f02d3e2611849cab159a7f/master/pass/PeridotBeyond_Multiplayer_square_noLogos.jpg" alt="Niantic’s Peridot, the Augmented Reality Alien Dog, Is Now a Talking Tour Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/niantic-peridot-augmented-reality-snap-spectacles/" target="_blank">Niantic’s Peridot, the Augmented Reality Alien Dog, Is Now a Talking Tour Guide</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/gzdoom-500x500.png" alt="Open source GZDoom community splinters after creator inserts AI-generated code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +161,20 @@
                 <span class="time">2025-10-16 14:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/shoesmith-500x500.jpg" alt="Antarctica is starting to look a lot like Greenland—and that isn’t good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/antarctica-is-starting-to-look-a-lot-like-greenland-and-that-isnt-good/" target="_blank">Antarctica is starting to look a lot like Greenland—and that isn’t good</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-16 14:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gaodalie_ai/rag-is-not-dead-no-chunking-no-vectors-just-vectorless-to-get-the-higher-accuracy-1iba" target="_blank">RAG is Not Dead! No Chunking, No Vectors, Just Vectorless to Get the Higher Accuracy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-16 17:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701249&w=600" alt="The Ethics of AI Exploits: Are We Creating Our Own Cyber Doomsday?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/skills" target="_blank">Claude Skills</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-16 16:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701242&w=600" alt="Deep Linking in Enterprise Android Apps: A Real-World, Scalable Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://hyperflask.dev/" target="_blank">Hyperflask - Flask-based Web Framework Integrated with HTMX</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-16 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701235&w=600" alt="Crypto Agility for Developers: Build Agile Encryption Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/crypto-agility-for-developers" target="_blank">Crypto Agility for Developers: Build Agile Encryption Now</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sengseng/a-short-python-tutorial1-5c65" target="_blank">A Short Python Tutorial[1]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-16 14:47</span>
             </div>
         </div>
 </div>
@@ -238,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Video of Epstein when asked about Donald Trump and underage girls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/16/video-of-epstein-when-asked-about-donald-trump-and-underage-girls.html" target="_blank">Video of Epstein when asked about Donald Trump and underage girls</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-16 17:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K7PQAX0YVZ6XNZFEQJEQPKNQ/hero-image.png" alt="Check to See If Firefox Is Giving You a Free VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +293,6 @@
                 <span class="time">2025-10-16 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7NRKV7AAN2KDK9KCERA2XT1/hero-image.png" alt="This Two-Pack Wireless Security Camera Is on Sale for $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/arlo-pro-5s-2k-spotlight-camera-two-pack-sale?utm_medium=RSS" target="_blank">This Two-Pack Wireless Security Camera Is on Sale for $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-16 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
