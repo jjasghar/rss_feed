@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 08:02:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 09:02:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d5/live/72375070-aa62-11f0-aa13-0b0479f6f42a.jpg" alt="&#x27;Large scale&#x27; Chinese spying in UK, says witness in collapsed trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Large scale&#x27; Chinese spying in UK, says witness in collapsed trial</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-16 08:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/16/insurrection-act-what-is-it-and-does-us-president-have-plenary-authority?traffic_source=rss" target="_blank">Insurrection Act: What is it, and does US president have plenary authority?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 08:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/rinderknecht-ht-er-251008_1759940812702_hpMain_2_4x3t_384.jpg" alt="Man suspected of starting Palisades Fire indicted; faces 45 years in prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/man-suspected-starting-palisades-fire-indicted-federal-charges/story?id=126565061" target="_blank">Man suspected of starting Palisades Fire indicted; faces 45 years in prison</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-16 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fd/live/a0ff9900-aa01-11f0-aa13-0b0479f6f42a.jpg" alt="Hamas returns remains of two more hostages but says more time needed to reach others" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3w9py9940go?at_medium=RSS&at_campaign=rss" target="_blank">Hamas returns remains of two more hostages but says more time needed to reach others</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-16 00:21</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss" target="_blank">LIVE: Gaza ceasefire fears as Israel demands return of all captives’ bodies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 00:12</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/16/agnes-wanjiru-niece-urges-labour-extradite-ex-soldier-kenya" target="_blank">Agnes Wanjiru’s niece urges Labour to extradite ex-soldier while still in power</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-16 04:00</span>
             </div>
         </div>
 </div>
@@ -184,6 +183,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs" target="_blank">Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-16 06:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/rteb-benchmark/en/headerimage/generatedHeaderImage-1760458049365.jpg" alt="Hugging Face Introduces RTEB, a New Benchmark for Evaluating Retrieval Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://ollama.com/blog/coding-models" target="_blank">New Coding Models and Integrations</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-16 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-the-pout-pout-fish-official-trailer-2026-nick-offerman-jordin-sparks-amy-sedaris-3mn0" target="_blank">IGN: The Pout-Pout Fish - Official Trailer (2026) Nick Offerman, Jordin Sparks, Amy Sedaris</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-16 04:01</span>
             </div>
         </div>
 </div>
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
