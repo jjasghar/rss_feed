@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 19:01:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-16 20:01:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/16/1184880448/susan-stamberg-obituary" target="_blank">NPR &#x27;founding mother&#x27; Susan Stamberg has died</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-16 19:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/b-52-1-ht-gmh-251016_1760640085697_hpMain_4x3t_384.jpg" alt="B-52s fly off coast of Venezuela in show of force by Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +99,29 @@
                 <span class="time">2025-10-16 17:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/16/israels-relentless-bombing-of-gaza-hinders-recovery-of-captives-bodies?traffic_source=rss" target="_blank">Israel’s relentless bombing of Gaza hinders recovery of captives’ bodies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/music-pirate-500x500-1732568013.jpg" alt="Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers/" target="_blank">Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-16 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit" target="_blank">Unions are trying to stop Trump from kicking out immigrants over social media posts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-16 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/" target="_blank">A new wave of social media apps provide hope in a doomscrolling world</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-16 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/" target="_blank">Deel hits $17.3B valuation after raising $300M from big-name VCs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-16 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f066b93e4eaf53dcafe501/master/pass/The%20Best%20Gifts%20for%20Book%20Lovers.png" alt="The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gifts-for-book-lovers/" target="_blank">The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-16 15:33</span>
             </div>
         </div>
 </div>
@@ -238,11 +237,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Lucas-1280x853.jpg" alt="George Lucas Knows You Freaks Want Some ‘Star Wars’ at His Big New Museum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/george-lucas-museum-star-wars-exhibit-2000673235" target="_blank">George Lucas Knows You Freaks Want Some ‘Star Wars’ at His Big New Museum</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/predator-badlands-20th-century-1280x854.jpg" alt="‘Predator: Badlands’ Is Set Way After the Rest of the Movies, so You Don’t Have to Do Homework" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/predator-badlands-is-set-way-after-the-rest-of-the-movies-so-you-dont-have-to-do-homework-2000673223" target="_blank">‘Predator: Badlands’ Is Set Way After the Rest of the Movies, so You Don’t Have to Do Homework</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-16 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7Q4BQTGE1CH3N3HYK6HKF45/hero-image.png" alt="The Samsung Galaxy Z Flip7 FE Just Hit Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-z-flip-7-fe-sale?utm_medium=RSS" target="_blank">The Samsung Galaxy Z Flip7 FE Just Hit Its Lowest Price Ever</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-16 19:00</span>
             </div>
         </div>
@@ -273,24 +290,6 @@
                 <span class="time">2025-10-16 17:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7PQAX0YVZ6XNZFEQJEQPKNQ/hero-image.png" alt="Check to See If Firefox Is Giving You a Free VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/firefox-free-vpn?utm_medium=RSS" target="_blank">Check to See If Firefox Is Giving You a Free VPN</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-16 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Borderlands-4-review_jpg_75.jpg?fit=1200%2C720&amp;quality=60&amp;ssl=1" alt="Borderlands 4 goes on sale one month after CEO promised five-year wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/16/borderlands-4-goes-on-sale-one-month-after-ceo-promised-five-year-wait.html" target="_blank">Borderlands 4 goes on sale one month after CEO promised five-year wait</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-16 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
