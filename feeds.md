@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-15 23:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-16 00:04:31 UTC -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, October 15, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/au-suspends-madagascar-as-military-leader-to-be-sworn-in-as-president?traffic_source=rss" target="_blank">AU suspends Madagascar as military leader to be sworn in as president</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-15 22:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +96,20 @@
                 <span class="time">2025-10-15 20:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/15/germany-pledges-2bn-in-military-aid-for-ukraine-as-kyiv-seeks-more-funds?traffic_source=rss" target="_blank">Germany pledges $2bn in military aid for Ukraine as Kyiv seeks more funds</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-15 20:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/" target="_blank">Electric aircraft startup Beta Technologies seeks to raise $825M in IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-15 23:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +155,20 @@
                 <span class="time">2025-10-15 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228551722-500x500.jpg" alt="CDC tormented: HR workers summoned from furlough to lay off themselves, others" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/cdc-tormented-hr-workers-summoned-from-furlough-to-lay-off-themselves-others/" target="_blank">CDC tormented: HR workers summoned from furlough to lay off themselves, others</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-15 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/onlyoffice-9.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE 9.1 Released with New PDF Editing Tools, Speed Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/onlyoffice-9-1-new-features" target="_blank">ONLYOFFICE 9.1 Released with New PDF Editing Tools, Speed Boost</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-15 22:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="time">2025-10-15 19:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.platformatic.dev/bring-python-asgi-to-your-nodejs-applications" target="_blank">Bring Python ASGI to Your Node.js Applications</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-15 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/nikolaj-coster-waldau-david-bradley-2-1280x853.jpg" alt="The ‘Knight of the Seven Kingdoms’ Showrunner Has an Idea for an Unhinged ‘Game of Thrones’ Cameo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-knight-of-the-seven-kingdoms-showrunner-has-an-idea-for-an-unhinged-game-of-thrones-cameo-2000672904" target="_blank">The ‘Knight of the Seven Kingdoms’ Showrunner Has an Idea for an Unhinged ‘Game of Thrones’ Cameo</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-15 23:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-revenge-of-the-sith-novelization-deluxe-edition-anakin-obi-wan-1280x853.jpg" alt="The ‘Revenge of the Sith’ Novelization Is the Purest ‘Star Wars’ Fantasy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-theater-re-release-dates-2000672805" target="_blank">Netflix Liked ‘KPop Demon Hunters’ in Theaters So Much, They’re Doing It Twice</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Lego-Back-to-the-Future-Delorean-Speed-Champions-1280x853.jpg" alt="Great Scott, Lego’s New ‘Back to the Future’ Set Is Surprisingly Affordable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-back-to-the-future-delorean-speed-champions-price-release-date-2000672690" target="_blank">Great Scott, Lego’s New ‘Back to the Future’ Set Is Surprisingly Affordable</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-15 18:25</span>
             </div>
         </div>
 </div>
@@ -334,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
