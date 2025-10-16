@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 16:02:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-16 17:01:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/16/israels-relentless-bombing-of-gaza-hinders-recovery-of-captives-bodies?traffic_source=rss" target="_blank">Israel’s relentless bombing of Gaza hinders recovery of captives’ bodies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-thune-3-gty-gmh-251015_1760557554968_hpMain_4x3t_384.jpg" alt="Thune says he offered Dems a vote on Obamacare subsidies to end shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/thune-offered-democrats-vote-obamacare-subsidies-end-government/story?id=126578971" target="_blank">Thune says he offered Dems a vote on Obamacare subsidies to end shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-16 16:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2025-10-16 13:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d5/live/72375070-aa62-11f0-aa13-0b0479f6f42a.jpg" alt="China spying a daily threat to UK, warns MI5 chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss" target="_blank">China spying a daily threat to UK, warns MI5 chief</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-16 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/16/french-pm-lecornu-survives-no-confidence-parliament-vote-now-eyes-budget?traffic_source=rss" target="_blank">French PM Lecornu survives no-confidence parliament vote, now eyes budget</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/gzdoom-500x500.png" alt="Open source GZDoom community splinters after creator inserts AI-generated code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/" target="_blank">Open source GZDoom community splinters after creator inserts AI-generated code</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-16 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/" target="_blank">A new wave of social media apps provide hope in a doomscrolling world</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-16 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,29 @@
                 <span class="time">2025-10-16 14:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/800190/ev-tax-credit-auto-industry-cars-trump-tesla-china" target="_blank">The EV tax credit is gone — now the hard part begins</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-16 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral" target="_blank">The DIY and IRL energy of punk rock mutual aid</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701249&w=600" alt="The Ethics of AI Exploits: Are We Creating Our Own Cyber Doomsday?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ethics-of-ai-exploits" target="_blank">The Ethics of AI Exploits: Are We Creating Our Own Cyber Doomsday?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-16 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/pixnapping-android-attack/en/headerimage/android-pixnapping-1760628647506.jpeg" alt="Pixnapping: Side-Channel Vulnerability Allows Android Apps to Capture Sensitive Screen Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/pixnapping-android-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pixnapping: Side-Channel Vulnerability Allows Android Apps to Capture Sensitive Screen Data</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701242&w=600" alt="Deep Linking in Enterprise Android Apps: A Real-World, Scalable Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +190,15 @@
                 <span class="title"><a href="https://dzone.com/articles/deep-linking-in-enterprise-android-apps" target="_blank">Deep Linking in Enterprise Android Apps: A Real-World, Scalable Approach</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-16 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://hyperflask.dev/" target="_blank">Hyperflask - Flask-based Web Framework Integrated with HTMX</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-16 15:22</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/sengseng/a-short-python-tutorial1-5c65" target="_blank">A Short Python Tutorial[1]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-16 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-618-intel-gnr" target="_blank">An Early Look At Linux 6.18 Performance With Intel Xeon 6 Granite Rapids</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-16 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.torproject.org/new-alpha-release-tor-browser-150a4/" target="_blank">Tor browser removing various Firefox AI features</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-16 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-tron-caravan-of-garbage-2gnb" target="_blank">Mr Sunday Movies: Tron - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-16 14:01</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7PQAX0YVZ6XNZFEQJEQPKNQ/hero-image.png" alt="Check to See If Firefox Is Giving You a Free VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/firefox-free-vpn?utm_medium=RSS" target="_blank">Check to See If Firefox Is Giving You a Free VPN</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-16 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Borderlands-4-review_jpg_75.jpg?fit=1200%2C720&amp;quality=60&amp;ssl=1" alt="Borderlands 4 goes on sale one month after CEO promised five-year wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/16/borderlands-4-goes-on-sale-one-month-after-ceo-promised-five-year-wait.html" target="_blank">Borderlands 4 goes on sale one month after CEO promised five-year wait</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/dell-laptop-1280x853.jpg" alt="Dell Is Practically Giving Away This 5-Star Laptop Bundle at 62% Off With $400 Worth of Accessories Included" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +292,6 @@
                 <span class="time">2025-10-16 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hp-17-laptop-2tb-1280x853.jpg" alt="Forget Budget Laptops, This HP with 64GB RAM and 2TB SSD Is Now 74% Off and Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forget-budget-laptops-this-hp-with-64gb-ram-and-2tb-ssd-is-now-74-off-and-selling-for-pennies-2000635996" target="_blank">Forget Budget Laptops, This HP with 64GB RAM and 2TB SSD Is Now 74% Off and Selling for Pennies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-16 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HGGMS1MB2YBTSAHCJX6E8/hero-image.jpg" alt="Use the ‘REAP’ Method When Studying Brand New Information" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-reap-method-when-studying-new-material?utm_medium=RSS" target="_blank">Use the ‘REAP’ Method When Studying Brand New Information</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-16 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
