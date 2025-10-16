@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 21:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-16 22:01:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/16/marwan-barghoutis-son-says-family-fears-for-his-life-in-israeli-prison-2?traffic_source=rss" target="_blank">Marwan Barghouti’s son says family fears for his life in Israeli prison</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/16/chaos-erupts-at-public-viewing-of-former-kenyan-pm-raila-odingas-body?traffic_source=rss" target="_blank">Chaos erupts at public viewing of former Kenyan PM Raila Odinga’s body</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-16 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-putin-rt-gmh-251016_1760625822207_hpMain_4x3t_384.jpg" alt="Trump says he and Putin plan to meet again to discuss war in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-launches-300-drones-missiles-ukraine-kyiv-zelenskyy/story?id=126571402" target="_blank">Trump says he and Putin plan to meet again to discuss war in Ukraine</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-16 17:46</span>
             </div>
         </div>
 </div>
@@ -161,10 +167,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/josejuarezjunior/javascript-closure-2an0" target="_blank">JavaScript | Closure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-16 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-No-Go" target="_blank">Fedora 43 Is Not Ready For Release Next Week</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-16 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18700894&w=600" alt="From Ticking Time Bomb to Trustworthy AI: A Cohesive Blueprint for AI Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-agent-safety-blueprint-trustworthy-ai" target="_blank">From Ticking Time Bomb to Trustworthy AI: A Cohesive Blueprint for AI Safety</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-16 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/gaodalie_ai/rag-is-not-dead-no-chunking-no-vectors-just-vectorless-to-get-the-higher-accuracy-1iba" target="_blank">RAG is Not Dead! No Chunking, No Vectors, Just Vectorless to Get the Higher Accuracy</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-16 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701249&w=600" alt="The Ethics of AI Exploits: Are We Creating Our Own Cyber Doomsday?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ethics-of-ai-exploits" target="_blank">The Ethics of AI Exploits: Are We Creating Our Own Cyber Doomsday?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-16 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/pixnapping-android-attack/en/headerimage/android-pixnapping-1760628647506.jpeg" alt="Pixnapping: Side-Channel Vulnerability Allows Android Apps to Capture Sensitive Screen Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/pixnapping-android-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pixnapping: Side-Channel Vulnerability Allows Android Apps to Capture Sensitive Screen Data</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-16 17:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
