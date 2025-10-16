@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 00:04:31 UTC -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-10-16 01:29:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, October 16, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss" target="_blank">LIVE: Gaza ceasefire fears as Israel demands return of all captives’ bodies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760569379582_nn_cku_us_venezuela_tensions_251015_1920x1080-1dddfx.jpg" alt="Trump authorized CIA action inside Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-authorized-cia-action-inside-venezuela-249975365974" target="_blank">Trump authorized CIA action inside Venezuela</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-15 23:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +100,20 @@
                 <span class="time">2025-10-15 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fd/live/a0ff9900-aa01-11f0-aa13-0b0479f6f42a.jpg" alt="Hamas returns two more bodies but says it cannot retrieve remaining dead hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3w9py9940go?at_medium=RSS&at_campaign=rss" target="_blank">Hamas returns two more bodies but says it cannot retrieve remaining dead hostages</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-15 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/15/nx-s1-5575528/hegseth-order-troops-quantico-speech" target="_blank">Hegseth orders troops to watch his speech decrying a &#x27;woke&#x27; military</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-15 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">Here are the best AirPods deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-16 00:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,20 @@
                 <span class="time">2025-10-15 20:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/nikon1-500x500.jpg" alt="Rice weevil on a grain of rice wins 2025 Nikon Small World contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/" target="_blank">Rice weevil on a grain of rice wins 2025 Nikon Small World contest</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-15 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arm-Ethos-Gallium-Merged" target="_blank">Mesa Gallium3D Driver Merged For Arm Ethos NPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-16 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/onlyoffice-9.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE 9.1 Released with New PDF Editing Tools, Speed Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/googles-engineering-culture" target="_blank">Google’s engineering culture</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-10-15 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F225k3fcyjxfuvb1v29vi.png" alt="Surviving Dependency Hell: My First Full-Stack AI Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/advithiya_duddu_244c506a6/surviving-dependency-hell-my-first-full-stack-ai-project-58i4" target="_blank">Surviving Dependency Hell: My First Full-Stack AI Project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-15 19:57</span>
             </div>
         </div>
 </div>
@@ -319,22 +323,13 @@
                 <span class="time">2025-10-15 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5679.png" alt="Unmistaken Identity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5679" target="_blank">Unmistaken Identity</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-15 00:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
