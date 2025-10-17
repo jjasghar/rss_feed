@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 08:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-17 09:01:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/17/people-in-gaza-face-severe-shortages-despite-ceasefire-agreement?traffic_source=rss" target="_blank">People in Gaza face severe shortages despite ceasefire agreement</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 08:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/4896a750-ab0e-11f0-aa13-0b0479f6f42a.jpg" alt="Zelensky to make case for missiles at White House, after Trump and Putin agree meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +99,29 @@
                 <span class="time">2025-10-17 04:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ef/live/6f621420-aad5-11f0-a36f-5746963cc16d.jpg" alt="PM says it is &#x27;wrong decision&#x27; to block Tel Aviv fans from Aston Villa match" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss" target="_blank">PM says it is &#x27;wrong decision&#x27; to block Tel Aviv fans from Aston Villa match</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 04:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai" target="_blank">Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-17 08:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f129579cfbb979fe742628/master/pass/Review-%20Lelo%20Switch.png" alt="Lelo Switch Review: Dual-Ended Vibrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/lelo-switch/" target="_blank">Lelo Switch Review: Dual-Ended Vibrator</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-17 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +158,20 @@
                 <span class="time">2025-10-17 00:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1182820491-500x500.jpg" alt="RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/" target="_blank">RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-16 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/16/vc-legend-ron-conway-quits-salesforce-foundation-after-benioffs-national-guard-comments/" target="_blank">VC legend Ron Conway quits Salesforce Foundation after Benioff’s National Guard comments</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-16 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wisdomudo/understanding-truthy-and-falsy-values-in-javascript-beginners-guide-318k" target="_blank">Understanding Truthy and Falsy Values in JavaScript (Beginner’s Guide)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 08:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/giovanni786/creating-a-libras-recognizer-with-artificial-intelligence-and-teachable-machine-4npa" target="_blank">Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-17 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlli4iry52xd9lp92i19.png" alt="Event bubbling and Capturing in Java script" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arokiya_kithiyon_1f2bad36/event-bubbling-and-propagation-in-java-script-h2n" target="_blank">Event bubbling and Capturing in Java script</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 02:18</span>
             </div>
         </div>
 </div>
@@ -317,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
