@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-16 23:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-17 00:04:35 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 16, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-bolton-rt-jef-251013_1760361820830_hpMain_4x3t_384.jpg" alt="Former Trump adviser John Bolton indicted on classified documents charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/prosecutors-expected-seek-grand-jury-indictment-former-trump/story?id=126472878" target="_blank">Former Trump adviser John Bolton indicted on classified documents charges</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-16 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/16/centrist-us-democrat-says-he-returned-aipac-donations-cites-netanyahu-ties?traffic_source=rss" target="_blank">Centrist US Democrat says he returned AIPAC donations, cites Netanyahu ties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-16 23:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,39 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e7/live/eab30620-aabc-11f0-b2a1-6f537f66f9aa.jpg" alt="Trump says he will meet Putin in Hungary for Ukraine talks after &#x27;very productive&#x27; call" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will meet Putin in Hungary for Ukraine talks after &#x27;very productive&#x27; call</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-16 20:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/16/g-s1-93709/adelita-grijalva-mike-johnson-swearing-in" target="_blank">Adelita Grijalva can force a vote on the Epstein files, but she&#x27;s still not sworn in</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-16 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-putin-alaska_6992429.jpg?20250816091711" alt="Trump says he&#x27;ll meet Putin in Hungary for Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-says-hell-meet-putin-in-hungary-for-ukraine-talks-after-productive-call-13451362" target="_blank">Trump says he&#x27;ll meet Putin in Hungary for Ukraine talks</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-16 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/16/1184880448/susan-stamberg-obituary" target="_blank">NPR &#x27;founding mother&#x27; Susan Stamberg has died</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-16 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/b-52-1-ht-gmh-251016_1760640085697_hpMain_4x3t_384.jpg" alt="B-52s fly off coast of Venezuela in show of force by Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/52s-fly-off-coast-venezuela-show-force-trump/story?id=126589822" target="_blank">B-52s fly off coast of Venezuela in show of force by Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-16 18:58</span>
             </div>
         </div>
 </div>
@@ -115,6 +114,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/" target="_blank">RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-16 22:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/16/vc-legend-ron-conway-quits-salesforce-foundation-after-benioffs-national-guard-comments/" target="_blank">VC legend Ron Conway quits Salesforce Foundation after Benioff’s National Guard comments</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-16 20:57</span>
             </div>
         </div>
 <div class="story">
@@ -151,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit" target="_blank">Unions are trying to stop Trump from kicking out immigrants over social media posts</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-16 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/801098/fujifilm-instax-mini-liplay-plus-instant-camera-selfies" target="_blank">Fujifilm&amp;#8217;s bringing instant cameras into the selfie age</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-16 18:21</span>
             </div>
         </div>
 </div>
@@ -241,6 +240,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/kyy-portable-monitor-15-6-1280x853.jpg" alt="This 15″ Gaming Display for Switch, Xbox, and PC Is Nearly Free in Amazon’s Final Clearance Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-15-gaming-display-for-switch-xbox-and-pc-is-nearly-free-in-amazons-final-clearance-sale-2000636099" target="_blank">This 15″ Gaming Display for Switch, Xbox, and PC Is Nearly Free in Amazon’s Final Clearance Sale</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-16 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_S5-2-1280x853.jpg" alt="Finn Wolfhard Was Worried ‘Stranger Things’ Would Biff Its Finale Like ‘Game of Thrones’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/finn-wolfhard-was-worried-stranger-things-would-biff-its-finale-like-game-of-thrones-2000673360" target="_blank">Finn Wolfhard Was Worried ‘Stranger Things’ Would Biff Its Finale Like ‘Game of Thrones’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-16 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/IMG_5327.heic.jpeg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Giraffe-suited singer arrested at ICE protest sparks free speech fight. Defense fund nears $100,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/16/giraffe-suited-singer-arrested-at-ice-protest-sparks-free-speech-fight-defense-fund-nears-100000.html" target="_blank">Giraffe-suited singer arrested at ICE protest sparks free speech fight. Defense fund nears $100,000</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-16 21:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-voyager-across-the-unknown-demo-impressions-1280x853.jpg" alt="I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,33 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/george-lucas-museum-star-wars-exhibit-2000673235" target="_blank">George Lucas Knows You Freaks Want Some ‘Star Wars’ at His Big New Museum</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7Q6SJMCKM035G4ZFZA375R2/hero-image.jpg" alt="Apple TV Subscribers Can Soon Add Peacock for $2 More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/apple-tv-peacock-bundle-offer?utm_medium=RSS" target="_blank">Apple TV Subscribers Can Soon Add Peacock for $2 More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/predator-badlands-20th-century-1280x854.jpg" alt="‘Predator: Badlands’ Is Set Way After the Rest of the Movies, so You Don’t Have to Do Homework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/predator-badlands-is-set-way-after-the-rest-of-the-movies-so-you-dont-have-to-do-homework-2000673223" target="_blank">‘Predator: Badlands’ Is Set Way After the Rest of the Movies, so You Don’t Have to Do Homework</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7Q4BQTGE1CH3N3HYK6HKF45/hero-image.png" alt="The Samsung Galaxy Z Flip7 FE Just Hit Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-z-flip-7-fe-sale?utm_medium=RSS" target="_blank">The Samsung Galaxy Z Flip7 FE Just Hit Its Lowest Price Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-16 19:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
