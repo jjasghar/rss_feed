@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 16:02:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-17 17:01:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/USA-TRUMP-BOLTON_1760706688274_hpMain_4x3t_384.jpg" alt="Ex-Trump adviser John Bolton pleads not guilty to classified documents charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/john-bolton-federal-courthouse-1st-court-appearance-indictment/story?id=126613130" target="_blank">Ex-Trump adviser John Bolton pleads not guilty to classified documents charges</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-17 16:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +101,29 @@
                 <span class="time">2025-10-17 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8426/live/b75f8090-ab53-11f0-aa13-0b0479f6f42a.jpg" alt="Government loses bid to block Palestine Action ban appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce9dg5v43vmo?at_medium=RSS&at_campaign=rss" target="_blank">Government loses bid to block Palestine Action ban appeal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/orion_transfer_artii-500x500.jpg" alt="NASA’s next Moonship reaches last stop before launch pad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/nasas-next-moonship-reaches-last-stop-before-launch-pad/" target="_blank">NASA’s next Moonship reaches last stop before launch pad</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-17 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/" target="_blank">ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-17 16:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,6 +143,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68f1711918f493b619d097f7/master/pass/Backchannel-Corey-Doctorow-Business-1426357474.jpg" alt="Can AI Avoid the Enshittification Trap?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/can-ai-escape-enshittification-trap/" target="_blank">Can AI Avoid the Enshittification Trap?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -126,38 +160,29 @@
                 <span class="time">2025-10-17 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant" target="_blank">These AI glasses promised to make me smarter, and all I got was Clippy for my face</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686d7dd0f31ad9f082b64555/master/pass/The%20Best%20USB%20Hubs%20for%20Connecting%20All%20Your%20Gadgets.png" alt="8 Best USB Hubs (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-usb-hubs/" target="_blank">8 Best USB Hubs (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-17 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685dad5ad0ae2793acd7adf1/master/pass/Automatic%20Feeders.png" alt="These 8 Automatic Cat Feeders Were the Best We Tested (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-automatic-cat-feeders/" target="_blank">These 8 Automatic Cat Feeders Were the Best We Tested (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-17 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iceonfire/inglorious-store-a-redux-compatible-state-manager-inspired-by-ecs-58j0" target="_blank">Inglorious Store: a Redux-compatible state manager inspired by ECS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/" target="_blank">Accelerate developer productivity with these 9 open source AI and MCP projects</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +219,6 @@
                 <span class="time">2025-10-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/slack-aer-security-system/en/headerimage/twitter_card+%281%29-1759622294042.jpg" alt="Slack Security: Inside the New Anomaly Event Response Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/slack-aer-security-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Slack Security: Inside the New Anomaly Event Response Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-17 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-AES-GCM-AVX2-Faster" target="_blank">AES-GCM Crypto Performance Up To ~74% Faster For AMD Zen 3 With Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-17 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/samsung-pro-plus-1280x853.jpg" alt="Samsung PRO Plus microSD Card With Adapter Drops to Just $0.07 per GB, Likely Clearing Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-pro-plus-microsd-card-with-adapter-drops-to-just-0-07-per-gb-likely-clearing-out-stock-2000635774" target="_blank">Samsung PRO Plus microSD Card With Adapter Drops to Just $0.07 per GB, Likely Clearing Out Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-17 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/doctor-who-15th-doctor-reality-war-1280x853.jpg" alt="‘Doctor Who’ Producers Are Now Arguing Whether It’s Rude or Not to Ask If the Show’s Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +301,6 @@
                 <span class="time">2025-10-17 12:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/bg6-1280x720.jpg" alt="Battlefield 6 Devs Know The XP Grind Sucks So They’re Rolling Out Some Big Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-fastet-xp-farm-community-server-bots-update-2000636556" target="_blank">Battlefield 6 Devs Know The XP Grind Sucks So They’re Rolling Out Some Big Changes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-17 12:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,6 +322,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/17/watchers-of-thorns" target="_blank">Watchers of Thorns</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-10-17 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/planetary_rings.png" alt="Planetary Rings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3156/" target="_blank">Planetary Rings</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-17 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -340,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
