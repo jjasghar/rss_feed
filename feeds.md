@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 07:01:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-17 08:02:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/4896a750-ab0e-11f0-aa13-0b0479f6f42a.jpg" alt="Zelensky to make case for missiles at White House, after Trump and Putin agree meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky to make case for missiles at White House, after Trump and Putin agree meeting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-17 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9751/live/6a03aad0-ab1a-11f0-93f3-35cf52b1b510.jpg" alt="&#x27;Wrong decision&#x27; to block Tel Aviv fans from Aston Villa match, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Wrong decision&#x27; to block Tel Aviv fans from Aston Villa match, says PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-17 07:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss" target="_blank">PM says it is &#x27;wrong decision&#x27; to block Tel Aviv fans from Aston Villa match</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-17 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/4896a750-ab0e-11f0-aa13-0b0479f6f42a.jpg" alt="Zelensky to make missile case in US after Trump-Putin phone call" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky to make missile case in US after Trump-Putin phone call</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/us-carries-out-new-drug-boat-strike-as-admiral-announces-shock-resignation?traffic_source=rss" target="_blank">US carries out new drug boat strike in Caribbean, as admiral resigns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-17 02:33</span>
             </div>
         </div>
 </div>
@@ -238,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Swarm-1280x853.jpg" alt="Something Weird Is Happening to Earth’s Magnetic Field" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/something-weird-is-happening-to-earths-magnetic-field-2000673088" target="_blank">Something Weird Is Happening to Earth’s Magnetic Field</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 07:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/kyy-portable-monitor-15-6-1280x853.jpg" alt="This 15″ Gaming Display for Switch, Xbox, and PC Is Nearly Free in Amazon’s Final Clearance Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +289,6 @@
                 <span class="time">2025-10-16 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Visual-Studio-Professional-2022.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This MS Visual Studio Professional 2022 Course bundle has everything you need to learn to code for just $46" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/16/this-ms-visual-studio-professional-2022-course-bundle-has-everything-you-need-to-learn-to-code-for-just-46.html" target="_blank">This MS Visual Studio Professional 2022 Course bundle has everything you need to learn to code for just $46</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-16 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
