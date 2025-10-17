@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 20:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-17 21:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5577974/typhoon-halong-western-alaska-villages-damaged-yukon-kuskokwim-delta" target="_blank">What we know about the devastating storm in Western Alaska</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-17 20:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +97,38 @@
                 <span class="time">2025-10-17 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump meets with Ukraine&#x27;s Zelenskyy: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump meets with Ukraine&#x27;s Zelenskyy: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-17 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f27c6ac1e7317d086b3429/master/pass/One%20of%20our%20Favorite%20Noise-Canceling%20Headphones%20is%20$100%20Off%20if%20you%20Act%20Fast.png" alt="Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/" target="_blank">Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-17 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/801966/fictional-gadget-reviews" target="_blank">Fictional gadget reviews: exploring the latest in fantasy and sci-fi tech</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-17 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/" target="_blank">Your AI tools run on fracked gas and bulldozed Texas land</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-17 19:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +156,20 @@
                 <span class="time">2025-10-17 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/" target="_blank">ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-17 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/801041/steelseries-arctis-buds-rtx-5070-gpu-deal-sale" target="_blank">SteelSeries makes some of the best wireless gaming earbuds, and they’re 36 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285261327-500x500.jpg" alt="Lead poisoning has been a feature of our evolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/hominins-suffered-lead-poisoning-starting-at-least-2-million-years-ago/" target="_blank">Lead poisoning has been a feature of our evolution</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-17 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgndfx49ydzl1hne00s3.png" alt="I Just Started Learning to Code — Here&#x27;s How I Built My First ‘Vibe Project’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847" target="_blank">I Just Started Learning to Code — Here&#x27;s How I Built My First ‘Vibe Project’</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 20:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="time">2025-10-17 17:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701241&w=600" alt="Taming the Storm: How Chaotic Exploration Shapes Big Picture Event Storming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/taming-the-storm-how-chaotic-exploration-shapes-bi" target="_blank">Taming the Storm: How Chaotic Exploration Shapes Big Picture Event Storming</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-17 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/WikiHed-1280x853.jpg" alt="AI Is Killing Wikipedia’s Human Traffic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-is-killing-wikipedias-human-traffic-2000673686" target="_blank">AI Is Killing Wikipedia’s Human Traffic</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/watering-hole.jpg?fit=1200%2C677&amp;quality=60&amp;ssl=1" alt="Watch giraffes and cheetahs gather at  desert oasis in livecam video" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +297,6 @@
                 <span class="time">2025-10-17 18:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/MRI-LEGO-Scanner-image3_White.jpg?fit=1440%2C818&amp;quality=60&amp;ssl=1" alt="LEGO MRI machine makes the real thing less scary for kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/17/lego-mri-machine-makes-the-real-thing-less-scary-for-kids.html" target="_blank">LEGO MRI machine makes the real thing less scary for kids</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-17 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -343,22 +338,13 @@
                 <span class="time">2025-10-17 01:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1760645300-202510br.png" alt="Saturday Morning Breakfast Cereal - August 2025 Book Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/august-2025-book-reviews" target="_blank">Saturday Morning Breakfast Cereal - August 2025 Book Reviews</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-16 20:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
