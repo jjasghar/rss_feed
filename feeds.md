@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 02:27:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-17 03:14:49 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 02:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 03:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/us-carries-out-new-drug-boat-strike-as-admiral-announces-shock-resignation?traffic_source=rss" target="_blank">US carries out new drug boat strike in Caribbean, as admiral resigns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 02:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/john-bolton-rt-jef-251013_1760361820830_hpMain_4x3t_384.jpg" alt="Former Trump adviser John Bolton indicted on classified documents charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +102,6 @@
                 <span class="time">2025-10-16 21:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e7/live/eab30620-aabc-11f0-b2a1-6f537f66f9aa.jpg" alt="Trump says he will meet Putin in Hungary for Ukraine talks after &#x27;very productive&#x27; call" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will meet Putin in Hungary for Ukraine talks after &#x27;very productive&#x27; call</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-16 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +111,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/801370/ai-world-models-general-intuition-medal" target="_blank">Why world models are the next big thing in AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-17 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen" target="_blank">MacBook Pro rumor points to OLED, touchscreen upgrades next year</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-17 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/16/defunct-electric-aircraft-startup-liliums-tech-lives-on-over-at-archer/" target="_blank">Defunct electric aircraft startup Lilium’s tech lives on over at Archer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-17 00:19</span>
             </div>
         </div>
 <div class="story">
@@ -140,24 +161,6 @@
                 <span class="time">2025-10-16 20:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-500x500.jpg" alt="Nation-state hackers deliver malware from “bulletproof” blockchains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/" target="_blank">Nation-state hackers deliver malware from “bulletproof” blockchains</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-16 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/music-pirate-500x500-1732568013.jpg" alt="Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers/" target="_blank">Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-16 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/arokiya_kithiyon_1f2bad36/event-bubbling-and-propagation-in-java-script-h2n" target="_blank">Event bubbling and Capturing in Java script</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-17 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-Valve-Boost-Llama.cpp" target="_blank">Valve Developer Contributes Major Improvement To RADV Vulkan For Llama.cpp AI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-17 00:42</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-No-Go" target="_blank">Fedora 43 Is Not Ready For Release Next Week</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-16 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18700894&w=600" alt="From Ticking Time Bomb to Trustworthy AI: A Cohesive Blueprint for AI Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-agent-safety-blueprint-trustworthy-ai" target="_blank">From Ticking Time Bomb to Trustworthy AI: A Cohesive Blueprint for AI Safety</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-16 19:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 03:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
