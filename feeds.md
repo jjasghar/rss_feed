@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 18:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-17 19:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760724457090_now_brk_zel_tomahawks_251017_1920x1080-trhyiw.jpg" alt="Zelenskyy says he would give the U.S. drones in exchange for Tomahawk missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/zelenskyy-says-he-would-give-the-u-s-drones-in-exchange-for-tomahawk-missiles-250104389643" target="_blank">Zelenskyy says he would give the U.S. drones in exchange for Tomahawk missiles</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-17 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5efd/live/52b0ac90-ab7c-11f0-92a8-7dbabb20e321.jpg" alt="Prince Andrew gives up his title as Duke of York" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgqlyw9g7weo?at_medium=RSS&at_campaign=rss" target="_blank">Prince Andrew gives up his title as Duke of York</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbff/live/da86c3f0-ab6f-11f0-9045-ff945a3371d8.jpg" alt="Can Putin&#x27;s &#x27;Flying Kremlin&#x27; travel through EU airspace to Budapest?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgkd40yypwo?at_medium=RSS&at_campaign=rss" target="_blank">Can Putin&#x27;s &#x27;Flying Kremlin&#x27; travel through EU airspace to Budapest?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-17 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump meets with Ukraine&#x27;s Zelenskyy: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,33 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/john-bolton-federal-courthouse-1st-court-appearance-indictment/story?id=126613130" target="_blank">Ex-Trump adviser John Bolton pleads not guilty to classified documents charges</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-17 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5575533/chicago-patrol-neighborhoods-ice-and-help-migrants-escape" target="_blank">As tensions rise in Chicago, volunteers patrol neighborhoods to oppose ICE and help migrants escape</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-17 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/17/uk-police-under-pressure-to-end-ban-on-maccabi-tel-aviv-fans-at-aston-villa?traffic_source=rss" target="_blank">UK police under pressure to end ban on Maccabi Tel Aviv football fans</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-17 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5508232/rog-xbox-ally-x-review-handheld-gaming" target="_blank">ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft&#x27;s gaming strategy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-17 14:00</span>
             </div>
         </div>
 </div>
@@ -249,6 +245,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_Joyce-1280x853.jpg" alt="The ‘Stranger Things’ Spinoff Won’t Just Be More ‘Stranger Things’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-stranger-things-spinoff-wont-just-be-more-stranger-things-2000673675" target="_blank">The ‘Stranger Things’ Spinoff Won’t Just Be More ‘Stranger Things’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dreamcore2.jpg" alt="One Of The Creepiest Games Of The Year Is Pure Vibes, No Jump Scares" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dreamcore-indie-horror-liminal-backrooms-scary-2000636645" target="_blank">One Of The Creepiest Games Of The Year Is Pure Vibes, No Jump Scares</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-17 18:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/MRI-LEGO-Scanner-image3_White.jpg?fit=1440%2C818&amp;quality=60&amp;ssl=1" alt="LEGO MRI machine makes the real thing less scary for kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/samsung-pro-plus-microsd-card-with-adapter-drops-to-just-0-07-per-gb-likely-clearing-out-stock-2000635774" target="_blank">Samsung PRO Plus microSD Card With Adapter Drops to Just $0.07 per GB, Likely Clearing Out Stock</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-17 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/doctor-who-15th-doctor-reality-war-1280x853.jpg" alt="‘Doctor Who’ Producers Are Now Arguing Whether It’s Rude or Not to Ask If the Show’s Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-jane-tranter-rob-shearman-rude-bbc-disney-2000673593" target="_blank">‘Doctor Who’ Producers Are Now Arguing Whether It’s Rude or Not to Ask If the Show’s Dead</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/11/RTR1FVK1-e1760707921402.jpg?fit=974%2C623&amp;quality=60&amp;ssl=1" alt="Former Trump advisor John Bolton charged with sharing state secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/17/former-trump-advisor-john-bolton-charged-with-sharing-state-secrets.html" target="_blank">Former Trump advisor John Bolton charged with sharing state secrets</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-17 13:26</span>
             </div>
         </div>
 </div>
@@ -357,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
