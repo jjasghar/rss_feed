@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 05:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-17 06:02:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5577627/ex-marine-extradition-australia" target="_blank">Ex-Marine fights extradition from Australia to U.S. over training Chinese pilots</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-17 05:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/4896a750-ab0e-11f0-aa13-0b0479f6f42a.jpg" alt="Zelensky to make missile case in US after Trump-Putin phone call" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky to make missile case in US after Trump-Putin phone call</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-17 04:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/prosecutors-expected-seek-grand-jury-indictment-former-trump/story?id=126472878" target="_blank">Former Trump adviser John Bolton indicted on classified documents charges</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-16 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/16/centrist-us-democrat-says-he-returned-aipac-donations-cites-netanyahu-ties?traffic_source=rss" target="_blank">Centrist US Democrat says he returned AIPAC donations, cites Netanyahu ties</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760656153929_nn_Jarrett_Bolton_Indicted_251016_1920x1080-9dtzqb.jpg" alt="Former national security adviser John Bolton indicted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-national-security-adviser-john-bolton-indicted-250049093687" target="_blank">Former national security adviser John Bolton indicted</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-16 23:09</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/" target="_blank">Why rent a cloud when you can build one?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-17 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2963913%2F5a734b35-526a-44a8-be6c-70167c8b5bef.png" alt="The founder fought for fairness, not fame. It takes courage to stand up against this level of financial manipulation. People need to see what Porter Consulting did with public money." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eddiegordo/the-founder-fought-for-fairness-not-fame-it-takes-courage-to-stand-up-against-this-level-of-5de" target="_blank">The founder fought for fairness, not fame. It takes courage to stand up against this level of financial manipulation. People need to see what Porter Consulting did with public money.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 05:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96q41addv6377kngmm5o.png" alt="Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-17-2025-red-hat" target="_blank">Friday Five — October 17, 2025</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-10-17 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/josejuarezjunior/javascript-closure-2an0" target="_blank">JavaScript | Closure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-16 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.pixelmelt.dev/kindle-web-drm/" target="_blank">How I bypassed Amazon&#x27;s Kindle web DRM</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-16 20:22</span>
             </div>
         </div>
 </div>
@@ -255,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-16 21:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/IMG_5327.heic.jpeg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Giraffe-suited singer arrested at ICE protest sparks free speech fight. Defense fund nears $100,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -279,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/16/this-ms-visual-studio-professional-2022-course-bundle-has-everything-you-need-to-learn-to-code-for-just-46.html" target="_blank">This MS Visual Studio Professional 2022 Course bundle has everything you need to learn to code for just $46</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Lucas-1280x853.jpg" alt="George Lucas Knows You Freaks Want Some ‘Star Wars’ at His Big New Museum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/george-lucas-museum-star-wars-exhibit-2000673235" target="_blank">George Lucas Knows You Freaks Want Some ‘Star Wars’ at His Big New Museum</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-16 20:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
