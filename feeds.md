@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 19:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-17 20:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/10/17/are-16-year-olds-too-young-to-vote?traffic_source=rss" target="_blank">Are 16-year-olds too young to vote?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/donald-trump-1-gty-gmh-251017_1760722661467_hpMain_4x3t_384.jpg" alt="Zelenskyy, at White House, says Trump has &#x27;big chance&#x27; to end Russia&#x27;s war on Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-zelenskyy-meet-white-house-discuss-russia-ukraine/story?id=126621845" target="_blank">Zelenskyy, at White House, says Trump has &#x27;big chance&#x27; to end Russia&#x27;s war on Ukraine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-17 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760724457090_now_brk_zel_tomahawks_251017_1920x1080-trhyiw.jpg" alt="Zelenskyy says he would give the U.S. drones in exchange for Tomahawk missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump meets with Ukraine&#x27;s Zelenskyy: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-17 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/17/aje-onl-mdg_protests_av_v2_rev-171025?traffic_source=rss" target="_blank">Will Madagascar’s coup overshadow its Gen Z revolution?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-17 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/USA-TRUMP-BOLTON_1760706688274_hpMain_4x3t_384.jpg" alt="Ex-Trump adviser John Bolton pleads not guilty to classified documents charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/john-bolton-federal-courthouse-1st-court-appearance-indictment/story?id=126613130" target="_blank">Ex-Trump adviser John Bolton pleads not guilty to classified documents charges</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-17 16:37</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabeb03/build-an-ai-concierge-app-in-chatgpt-4gei" target="_blank">Build an AI Concierge App in ChatGPT</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703080&w=600" alt="Event-Driven Chaos Engineering: From Failure to Resilience in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/event-driven-chaos-engineering-for-kubernetes-resilience" target="_blank">Event-Driven Chaos Engineering: From Failure to Resilience in Kubernetes</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/openSFI" target="_blank">openSFI Is A Very Interesting Collaboration Between AMD &amp; Intel For Better Firmware Unification</a></span>
                 <span class="feed">Phoronix</span>
@@ -198,24 +220,6 @@
                 <span class="time">2025-10-17 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iceonfire/inglorious-store-a-redux-compatible-state-manager-inspired-by-ecs-58j0" target="_blank">Inglorious Store: a Redux-compatible state manager inspired by ECS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/" target="_blank">Accelerate developer productivity with these 9 open source AI and MCP projects</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-17 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/watering-hole.jpg?fit=1200%2C677&amp;quality=60&amp;ssl=1" alt="Watch giraffes and cheetahs gather at  desert oasis in livecam video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/17/watch-giraffes-and-cheetahs-gather-at-desert-oasis-in-livecam-video.html" target="_blank">Watch giraffes and cheetahs gather at  desert oasis in livecam video</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-17 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/POLARIS-Astrolight_NATO-DIANA-1280x853.jpg" alt="NATO Tests ‘Unjammable, Undetectable’ Laser Comms at Sea—and It Worked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nato-tests-unjammable-undetectable-laser-comms-at-sea-and-it-worked-2000673703" target="_blank">NATO Tests ‘Unjammable, Undetectable’ Laser Comms at Sea—and It Worked</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7SR3K3AM5WJVCXVF18XE83G/hero-image.png" alt="The M3 iPad Air Is $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/m3-ipad-air-deal?utm_medium=RSS" target="_blank">The M3 iPad Air Is $300 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-17 19:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_Joyce-1280x853.jpg" alt="The ‘Stranger Things’ Spinoff Won’t Just Be More ‘Stranger Things’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -269,33 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/17/lego-mri-machine-makes-the-real-thing-less-scary-for-kids.html" target="_blank">LEGO MRI machine makes the real thing less scary for kids</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-17 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I&#x27;m a Deals Writer, and These Are the Top 10 Tech Sales This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I&#x27;m a Deals Writer, and These Are the Top 10 Tech Sales This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-17 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/xbox-grinch-1280x720.jpg" alt="Xbox Game Pass’s New Grinch Game Is Receiving A Lot Of Angry And Horny Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-game-passs-grinch-game-angry-horny-weird-user-reviews-2000636631" target="_blank">Xbox Game Pass’s New Grinch Game Is Receiving A Lot Of Angry And Horny Reviews</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-17 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/samsung-pro-plus-1280x853.jpg" alt="Samsung PRO Plus microSD Card With Adapter Drops to Just $0.07 per GB, Likely Clearing Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-pro-plus-microsd-card-with-adapter-drops-to-just-0-07-per-gb-likely-clearing-out-stock-2000635774" target="_blank">Samsung PRO Plus microSD Card With Adapter Drops to Just $0.07 per GB, Likely Clearing Out Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-17 16:45</span>
             </div>
         </div>
 </div>
@@ -353,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
