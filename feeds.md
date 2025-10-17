@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 04:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-17 05:01:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/russia-ukraine-war-list-of-key-events-day-1331?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,331</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ef/live/6f621420-aad5-11f0-a36f-5746963cc16d.jpg" alt="PM says it is &#x27;wrong decision&#x27; to block Tel Aviv fans from Aston Villa match" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss" target="_blank">PM says it is &#x27;wrong decision&#x27; to block Tel Aviv fans from Aston Villa match</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-17 04:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +99,20 @@
                 <span class="time">2025-10-16 23:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/16/marwan-barghoutis-son-says-family-fears-for-his-life-in-israeli-prison-2?traffic_source=rss" target="_blank">Marwan Barghouti’s son says family fears for his life in Israeli prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-16 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/16/g-s1-93866/in-pictures-remembering-susan-stamberg-one-of-nprs-founding-mothers" target="_blank">In Pictures: Remembering Susan Stamberg, one of NPR&#x27;s Founding Mothers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-16 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/16/reddit-expands-its-ai-powered-search-to-five-new-languages/" target="_blank">Reddit expands its AI-powered search to five new languages</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-17 04:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +158,20 @@
                 <span class="time">2025-10-16 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f1155b7fe66c9366128ec2/master/pass/GettyImages-2226652563.jpg" alt="Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/f5-hack-networking-software-big-ip/" target="_blank">Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-16 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96q41addv6377kngmm5o.png" alt="Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/giovanni786/creating-a-libras-recognizer-with-artificial-intelligence-and-teachable-machine-4npa" target="_blank">Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 04:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlli4iry52xd9lp92i19.png" alt="Event bubbling and Capturing in Java script" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://blog.pixelmelt.dev/kindle-web-drm/" target="_blank">How I bypassed Amazon&#x27;s Kindle web DRM</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-16 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-No-Go" target="_blank">Fedora 43 Is Not Ready For Release Next Week</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-16 19:10</span>
             </div>
         </div>
 </div>
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
