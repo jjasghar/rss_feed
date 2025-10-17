@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 06:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-17 07:01:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/japan-pm-hopeful-takaichi-avoids-wwii-shrine-visit-amid-political-tussle?traffic_source=rss" target="_blank">Japan PM hopeful Takaichi avoids WWII shrine visit amid political tussle</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 06:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/us-carries-out-new-drug-boat-strike-as-admiral-announces-shock-resignation?traffic_source=rss" target="_blank">US carries out new drug boat strike in Caribbean, as admiral resigns</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-17 02:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-bolton-rt-jef-251013_1760361820830_hpMain_4x3t_384.jpg" alt="Former Trump adviser John Bolton indicted on classified documents charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/prosecutors-expected-seek-grand-jury-indictment-former-trump/story?id=126472878" target="_blank">Former Trump adviser John Bolton indicted on classified documents charges</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-16 23:56</span>
             </div>
         </div>
 </div>
@@ -172,12 +174,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-54a3" target="_blank">Balancing Confidence and Imposter Syndrome</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 06:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2963913%2F5a734b35-526a-44a8-be6c-70167c8b5bef.png" alt="The founder fought for fairness, not fame. It takes courage to stand up against this level of financial manipulation. People need to see what Porter Consulting did with public money." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/eddiegordo/the-founder-fought-for-fairness-not-fame-it-takes-courage-to-stand-up-against-this-level-of-5de" target="_blank">The founder fought for fairness, not fame. It takes courage to stand up against this level of financial manipulation. People need to see what Porter Consulting did with public money.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-17 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/open-source-ebook-readers-options/" target="_blank">Looking for Open Source Kindle Alternatives? Build it Yourself</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-17 05:20</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/arokiya_kithiyon_1f2bad36/event-bubbling-and-propagation-in-java-script-h2n" target="_blank">Event bubbling and Capturing in Java script</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-17 02:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-Valve-Boost-Llama.cpp" target="_blank">Valve Developer Contributes Major Improvement To RADV Vulkan For Llama.cpp AI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-17 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-17-2025-red-hat" target="_blank">Friday Five — October 17, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-10-17 00:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
