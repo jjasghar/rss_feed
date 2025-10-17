@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 17:01:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-17 18:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 14 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 17:02 UTC</div>
+    <div class="newspaper-date">Friday, October 17, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump meets with Ukraine&#x27;s Zelenskyy: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump meets with Ukraine&#x27;s Zelenskyy: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-17 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/17/aje-onl-mdg_protests_av_v2_rev-171025?traffic_source=rss" target="_blank">Will Madagascar’s coup overshadow its Gen Z revolution?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 17:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/USA-TRUMP-BOLTON_1760706688274_hpMain_4x3t_384.jpg" alt="Ex-Trump adviser John Bolton pleads not guilty to classified documents charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/john-bolton-federal-courthouse-1st-court-appearance-indictment/story?id=126613130" target="_blank">Ex-Trump adviser John Bolton pleads not guilty to classified documents charges</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-17 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5575533/chicago-patrol-neighborhoods-ice-and-help-migrants-escape" target="_blank">As tensions rise in Chicago, volunteers patrol neighborhoods to oppose ICE and help migrants escape</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-17 16:08</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +102,29 @@
                 <span class="time">2025-10-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/17/bolton-in-court-to-face-charges-of-mishandling-classified-documents?traffic_source=rss" target="_blank">Bolton in court to face charges of mishandling classified documents</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-17 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/USA-TRUMP-BOLTON_1760706688274_hpMain_4x3t_384.jpg" alt="John Bolton at federal courthouse for 1st court appearance following indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/john-bolton-federal-courthouse-1st-court-appearance-indictment/story?id=126613130" target="_blank">John Bolton at federal courthouse for 1st court appearance following indictment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-17 13:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3a/live/84b20170-ab5a-11f0-ba75-093eca1ac29b.jpg" alt="Government loses bid to block appeal against Palestine Action ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce9dg5v43vmo?at_medium=RSS&at_campaign=rss" target="_blank">Government loses bid to block appeal against Palestine Action ban</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/801856/amazon-ring-partners-flock-video" target="_blank">Amazon’s Ring now works with video surveillance company Flock</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-17 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/" target="_blank">Facebook’s AI can now suggest edits to the photos still on your phone</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-17 17:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/orion_transfer_artii-500x500.jpg" alt="NASA’s next Moonship reaches last stop before launch pad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +161,47 @@
                 <span class="time">2025-10-17 15:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f1711918f493b619d097f7/master/pass/Backchannel-Corey-Doctorow-Business-1426357474.jpg" alt="Can AI Avoid the Enshittification Trap?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/can-ai-escape-enshittification-trap/" target="_blank">Can AI Avoid the Enshittification Trap?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/801563/keeper-review-xbox-double-fine" target="_blank">This weirdo Xbox game about a walking lighthouse is a Keeper</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/openSFI" target="_blank">openSFI Is A Very Interesting Collaboration Between AMD &amp; Intel For Better Firmware Unification</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-17 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/talos-linux-kubernetes/en/headerimage/generatedHeaderImage-1760719266195.jpg" alt="Talos Linux: Bringing Immutability and Security to Kubernetes Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/talos-linux-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Talos Linux: Bringing Immutability and Security to Kubernetes Operations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-17 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dwarkesh.com/p/andrej-karpathy" target="_blank">Andrej Karpathy – AGI is still a decade away</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-17 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18701241&w=600" alt="Taming the Storm: How Chaotic Exploration Shapes Big Picture Event Storming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/taming-the-storm-how-chaotic-exploration-shapes-bi" target="_blank">Taming the Storm: How Chaotic Exploration Shapes Big Picture Event Storming</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-17 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,42 +218,6 @@
                 <span class="title"><a href="https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/" target="_blank">Accelerate developer productivity with these 9 open source AI and MCP projects</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-10-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/guardingpearsoftware/how-unity-revolutionized-game-development-4i32" target="_blank">How Unity Revolutionized Game Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2510-arm64" target="_blank">Ubuntu 25.10 Performance On System76 Thelio Astra / Ampere Altra</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-17 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-should-i-see-it-in-a-movie-theater-test-406f" target="_blank">Ringer Movies: The “Should I See It in a Movie Theater?” Test</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18702748&w=600" alt="PostgreSQL Full-Text Search vs. Pattern Matching: A Performance Comparison" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/postgresql-full-text-search-vs-pattern-matching" target="_blank">PostgreSQL Full-Text Search vs. Pattern Matching: A Performance Comparison</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-17 14:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/MRI-LEGO-Scanner-image3_White.jpg?fit=1440%2C818&amp;quality=60&amp;ssl=1" alt="LEGO MRI machine makes the real thing less scary for kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/17/lego-mri-machine-makes-the-real-thing-less-scary-for-kids.html" target="_blank">LEGO MRI machine makes the real thing less scary for kids</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-17 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I&#x27;m a Deals Writer, and These Are the Top 10 Tech Sales This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I&#x27;m a Deals Writer, and These Are the Top 10 Tech Sales This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-17 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/xbox-grinch-1280x720.jpg" alt="Xbox Game Pass’s New Grinch Game Is Receiving A Lot Of Angry And Horny Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-game-passs-grinch-game-angry-horny-weird-user-reviews-2000636631" target="_blank">Xbox Game Pass’s New Grinch Game Is Receiving A Lot Of Angry And Horny Reviews</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-17 17:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/samsung-pro-plus-1280x853.jpg" alt="Samsung PRO Plus microSD Card With Adapter Drops to Just $0.07 per GB, Likely Clearing Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,33 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/17/former-trump-advisor-john-bolton-charged-with-sharing-state-secrets.html" target="_blank">Former Trump advisor John Bolton charged with sharing state secrets</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-17 13:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/border-patrol-in-chicago-oct.-14-2025-1280x853.jpg" alt="Border Patrol Responds Like a Petulant Child to Controversy Over Its Antisemitic Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/border-patrol-responds-like-a-petulant-child-to-controversy-over-its-antisemitic-video-2000673314" target="_blank">Border Patrol Responds Like a Petulant Child to Controversy Over Its Antisemitic Video</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/wikipedia.png?fit=1548%2C972&amp;quality=55&amp;ssl=1" alt="Wikipedia losing traffic to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/17/wikipedia-losing-traffic-to-ai.html" target="_blank">Wikipedia losing traffic to AI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/pickleball-1280x853.jpg" alt="Supposedly Safe Pickleball Is Becoming a Contact Sport—For Your Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/supposedly-safe-pickleball-is-becoming-a-contact-sport-for-your-face-2000673356" target="_blank">Supposedly Safe Pickleball Is Becoming a Contact Sport—For Your Face</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 12:51</span>
             </div>
         </div>
 </div>
@@ -356,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
