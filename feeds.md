@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 22:01:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-17 23:01:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77b/live/0f8fc3a0-ab87-11f0-a7be-25e543799ac8.jpg" alt="Zelensky guarded on Tomahawk missile talks with Trump after White House meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky guarded on Tomahawk missile talks with Trump after White House meeting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-17 22:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +104,29 @@
                 <span class="time">2025-10-17 18:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5efd/live/52b0ac90-ab7c-11f0-92a8-7dbabb20e321.jpg" alt="Prince Andrew gives up his title as Duke of York" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgqlyw9g7weo?at_medium=RSS&at_campaign=rss" target="_blank">Prince Andrew gives up his title as Duke of York</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap" target="_blank">The US has a new roadmap for fusion energy, without the funds to back it up</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-17 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-588709290-500x500.jpg" alt="With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/" target="_blank">With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-17 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/801966/fictional-gadget-reviews" target="_blank">Fictional gadget reviews: exploring the latest in fantasy and sci-fi tech</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-17 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/" target="_blank">Your AI tools run on fracked gas and bulldozed Texas land</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-17 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/801856/amazon-ring-partners-flock-video" target="_blank">Amazon’s Ring now works with video surveillance company Flock</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 17:52</span>
             </div>
         </div>
 </div>
@@ -245,6 +251,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/black-bear-1-e1760739359403.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Watch a not-quite-as-smart-as-the-average bear fail to get a treat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/17/watch-a-not-quite-as-smart-as-the-average-bear-fail-to-get-a-treat.html" target="_blank">Watch a not-quite-as-smart-as-the-average bear fail to get a treat</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-17 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-strange-new-worlds-310-pike-bridge-1280x853.jpg" alt="The Final Seasons of ‘Strange New Worlds’ Will Move Away From ‘Outlier’ Episodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-season-4-more-adventure-2000673757" target="_blank">The Final Seasons of ‘Strange New Worlds’ Will Move Away From ‘Outlier’ Episodes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Morgan.jpg" alt="Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,24 +302,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/17/no-kings-day-is-for-patriots-red-blue-and-purple.html" target="_blank">No Kings Day is for patriots — red, blue, and purple</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-17 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/WikiHed-1280x853.jpg" alt="AI Is Killing Wikipedia’s Human Traffic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-is-killing-wikipedias-human-traffic-2000673686" target="_blank">AI Is Killing Wikipedia’s Human Traffic</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/watering-hole.jpg?fit=1200%2C677&amp;quality=60&amp;ssl=1" alt="Watch giraffes and cheetahs gather at  desert oasis in livecam video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/17/watch-giraffes-and-cheetahs-gather-at-desert-oasis-in-livecam-video.html" target="_blank">Watch giraffes and cheetahs gather at  desert oasis in livecam video</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-17 19:42</span>
             </div>
         </div>
 </div>
@@ -344,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
