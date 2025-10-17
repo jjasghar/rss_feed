@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 15:01:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-17 16:02:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +103,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/801041/steelseries-arctis-buds-rtx-5070-gpu-deal-sale" target="_blank">SteelSeries makes some of the best wireless gaming earbuds, and they’re 36 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-17 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285261327-500x500.jpg" alt="Lead poisoning has been a feature of our evolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/hominins-suffered-lead-poisoning-starting-at-least-2-million-years-ago/" target="_blank">Lead poisoning has been a feature of our evolution</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-17 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/801563/keeper-review-xbox-double-fine" target="_blank">This weirdo Xbox game about a walking lighthouse is a Keeper</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-17 15:00</span>
@@ -140,29 +153,29 @@
                 <span class="time">2025-10-17 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast" target="_blank">AI can’t even turn on the lights</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/17/sk-telecoms-ai-unit-offers-staff-voluntary-retirement-program-just-weeks-after-launch/" target="_blank">SK Telecom’s AI unit offers staff voluntary retirement program just weeks after launch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-17 11:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/guardingpearsoftware/how-unity-revolutionized-game-development-4i32" target="_blank">How Unity Revolutionized Game Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2510-arm64" target="_blank">Ubuntu 25.10 Performance On System76 Thelio Astra / Ampere Altra</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-17 14:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +212,6 @@
                 <span class="time">2025-10-17 13:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://hugovk.dev/blog/2025/free-threaded-python-on-github-actions/" target="_blank">Free-threaded Python on GitHub Actions</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-17 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/trayshmhirk/hng-13-backend-stage-0-building-a-simple-api-with-nodejs-and-express-3k55" target="_blank">HNG 13 Backend Stage 0 – Building a Simple API with Node.js and Express</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 11:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/doctor-who-15th-doctor-reality-war-1280x853.jpg" alt="‘Doctor Who’ Producers Are Now Arguing Whether It’s Rude or Not to Ask If the Show’s Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-jane-tranter-rob-shearman-rude-bbc-disney-2000673593" target="_blank">‘Doctor Who’ Producers Are Now Arguing Whether It’s Rude or Not to Ask If the Show’s Dead</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/11/RTR1FVK1-e1760707921402.jpg?fit=974%2C623&amp;quality=60&amp;ssl=1" alt="Former Trump advisor John Bolton charged with sharing state secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,20 +294,20 @@
                 <span class="time">2025-10-17 12:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/cote.jpg" alt="Former Assassin’s Creed Boss Says He Didn’t Jump, Ubisoft Pushed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/former-assassins-creed-boss-says-he-didnt-jump-ubisoft-pushed-2000636542" target="_blank">Former Assassin’s Creed Boss Says He Didn’t Jump, Ubisoft Pushed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-17 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1760645538-20251017.png" alt="Saturday Morning Breakfast Cereal - Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/order-2" target="_blank">Saturday Morning Breakfast Cereal - Order</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-17 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -336,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
