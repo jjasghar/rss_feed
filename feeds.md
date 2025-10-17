@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 21:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-17 22:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss" target="_blank">Hamas hands over remains of one more Israeli captive, vows to return rest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 21:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,29 @@
                 <span class="time">2025-10-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbff/live/da86c3f0-ab6f-11f0-9045-ff945a3371d8.jpg" alt="Can Putin&#x27;s &#x27;Flying Kremlin&#x27; travel through EU airspace to Budapest?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgkd40yypwo?at_medium=RSS&at_campaign=rss" target="_blank">Can Putin&#x27;s &#x27;Flying Kremlin&#x27; travel through EU airspace to Budapest?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/" target="_blank">Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-17 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688061d68203c2103d95c470/master/pass/We%20Tried%205%20of%20the%20Most%20Popular%20Indoor%20Gardening%20Systems.png" alt="Best Indoor Garden Systems: We&#x27;ve Been Testing All Year (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-indoor-gardening-systems/" target="_blank">Best Indoor Garden Systems: We&#x27;ve Been Testing All Year (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-17 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f27c6ac1e7317d086b3429/master/pass/One%20of%20our%20Favorite%20Noise-Canceling%20Headphones%20is%20$100%20Off%20if%20you%20Act%20Fast.png" alt="Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +157,6 @@
                 <span class="time">2025-10-17 17:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/" target="_blank">Facebook’s AI can now suggest edits to the photos still on your phone</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-17 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/orion_transfer_artii-500x500.jpg" alt="NASA’s next Moonship reaches last stop before launch pad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/nasas-next-moonship-reaches-last-stop-before-launch-pad/" target="_blank">NASA’s next Moonship reaches last stop before launch pad</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-17 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847" target="_blank">I Just Started Learning to Code — Here&#x27;s How I Built My First ‘Vibe Project’</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-17 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Lenspect-Threat-Scanner" target="_blank">GNOME Has A New Security Threat Scanner Powered By VirusTotal</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-17 20:32</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +216,6 @@
                 <span class="time">2025-10-17 17:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dwarkesh.com/p/andrej-karpathy" target="_blank">Andrej Karpathy – AGI is still a decade away</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-17 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +245,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Morgan.jpg" alt="Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690" target="_blank">Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-17 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7SXX823924BX5S4K387CJGH/hero-image.jpg" alt="Meta’s Upcoming AI Parental Controls Are Too Little, Too Late" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-ai-parental-controls-too-little-too-late?utm_medium=RSS" target="_blank">Meta’s Upcoming AI Parental Controls Are Too Little, Too Late</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-17 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2022/10/d19f64db91ad92c656d503ffb2819206-1024x576.jpg" alt="CNN Is Trying to Sell a Streaming Service Again (Only More Expensive This Time)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cnn-is-trying-to-sell-a-streaming-service-again-only-more-expensive-this-time-2000673714" target="_blank">CNN Is Trying to Sell a Streaming Service Again (Only More Expensive This Time)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Comet-2025-10-17-21.38.29.png?fit=1200%2C778&amp;quality=55&amp;ssl=1" alt="No Kings Day is for patriots — red, blue, and purple" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/17/no-kings-day-is-for-patriots-red-blue-and-purple.html" target="_blank">No Kings Day is for patriots — red, blue, and purple</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-17 20:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/WikiHed-1280x853.jpg" alt="AI Is Killing Wikipedia’s Human Traffic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -259,42 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/17/watch-giraffes-and-cheetahs-gather-at-desert-oasis-in-livecam-video.html" target="_blank">Watch giraffes and cheetahs gather at  desert oasis in livecam video</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-17 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/POLARIS-Astrolight_NATO-DIANA-1280x853.jpg" alt="NATO Tests ‘Unjammable, Undetectable’ Laser Comms at Sea—and It Worked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nato-tests-unjammable-undetectable-laser-comms-at-sea-and-it-worked-2000673703" target="_blank">NATO Tests ‘Unjammable, Undetectable’ Laser Comms at Sea—and It Worked</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7SR3K3AM5WJVCXVF18XE83G/hero-image.png" alt="The M3 iPad Air Is $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/m3-ipad-air-deal?utm_medium=RSS" target="_blank">The M3 iPad Air Is $300 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-17 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_Joyce-1280x853.jpg" alt="The ‘Stranger Things’ Spinoff Won’t Just Be More ‘Stranger Things’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-stranger-things-spinoff-wont-just-be-more-stranger-things-2000673675" target="_blank">The ‘Stranger Things’ Spinoff Won’t Just Be More ‘Stranger Things’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/dreamcore2.jpg" alt="One Of The Creepiest Games Of The Year Is Pure Vibes, No Jump Scares" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dreamcore-indie-horror-liminal-backrooms-scary-2000636645" target="_blank">One Of The Creepiest Games Of The Year Is Pure Vibes, No Jump Scares</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-17 18:27</span>
             </div>
         </div>
 </div>
@@ -343,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
