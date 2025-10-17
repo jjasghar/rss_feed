@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 12:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-17 13:09:13 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +53,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8426/live/b75f8090-ab53-11f0-aa13-0b0479f6f42a.jpg" alt="Government loses bid to block Palestine Action ban appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce9dg5v43vmo?at_medium=RSS&at_campaign=rss" target="_blank">Government loses bid to block Palestine Action ban appeal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-17 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5571014/bird-migration-collisions-glass-buildings" target="_blank">As hundreds of millions of birds head south, the invisible danger is glass</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-17 12:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760701054716_tdy_news_7a_welker_bolton_indictment_meaning_251016_1920x1080-drfd9o.jpg" alt="What is the Political Significance of the John Bolton Indictment?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/what-is-the-political-significance-of-the-john-bolton-indictment-250081349761" target="_blank">What is the Political Significance of the John Bolton Indictment?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-17 11:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/17/australia-vs-india-virat-kohli-and-rohit-sharma-in-odi-spotlight?traffic_source=rss" target="_blank">Australia vs India: Virat Kohli and Rohit Sharma in ODI spotlight</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-17 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-putin-vladimir-russia_7053122.jpg?20251017120718" alt="Hungary convenient for next Putin-Trump summit - but getting there might not be so straightforward" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hungary-convenient-for-next-putin-trump-summit-but-getting-there-might-not-be-so-straightforward-13451605" target="_blank">Hungary convenient for next Putin-Trump summit - but getting there might not be so straightforward</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-17 10:54</span>
             </div>
         </div>
 <div class="story">
@@ -62,47 +106,29 @@
                 <span class="time">2025-10-17 09:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tomahawk-file-DB-251007_1759844715701_hpMain_4x3t_384.jpg" alt="Tomahawks take center stage in Trump&#x27;s Russia-Ukraine diplomacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/tomahawks-center-stage-trumps-russia-ukraine-diplomacy/story?id=126596148" target="_blank">Tomahawks take center stage in Trump&#x27;s Russia-Ukraine diplomacy</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-17 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/17/people-in-gaza-face-severe-shortages-despite-ceasefire-agreement?traffic_source=rss" target="_blank">People in Gaza face severe shortages despite ceasefire agreement</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-17 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/4896a750-ab0e-11f0-aa13-0b0479f6f42a.jpg" alt="Zelensky to make case for missiles at White House, after Trump and Putin agree meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky to make case for missiles at White House, after Trump and Putin agree meeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9751/live/6a03aad0-ab1a-11f0-93f3-35cf52b1b510.jpg" alt="&#x27;Wrong decision&#x27; to block Tel Aviv fans from Aston Villa match, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Wrong decision&#x27; to block Tel Aviv fans from Aston Villa match, says PM</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 07:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685dad5ad0ae2793acd7adf1/master/pass/Automatic%20Feeders.png" alt="These 8 Automatic Cat Feeders Were the Best We Tested (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-automatic-cat-feeders/" target="_blank">These 8 Automatic Cat Feeders Were the Best We Tested (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-17 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast" target="_blank">AI can’t even turn on the lights</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-17 12:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +162,6 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram" target="_blank">Meta is adding more parental controls for teen AI use</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f15b2fbb40bd7a9ab61d10/master/pass/056A3200.jpg" alt="The Bourbon Industry Is in Turmoil. Could Tech Provide the Shot It Needs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/whiskey-house-bourbon/" target="_blank">The Bourbon Industry Is in Turmoil. Could Tech Provide the Shot It Needs?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/17/meta-previews-new-parental-controls-for-its-ai-experiences/" target="_blank">Meta previews new parental controls for its AI experiences</a></span>
-                <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-17 10:00</span>
             </div>
         </div>
@@ -245,6 +253,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/wikipedia.png?fit=1548%2C972&amp;quality=55&amp;ssl=1" alt="Wikipedia losing traffic to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/17/wikipedia-losing-traffic-to-ai.html" target="_blank">Wikipedia losing traffic to AI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/pickleball-1280x853.jpg" alt="Supposedly Safe Pickleball Is Becoming a Contact Sport—For Your Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/supposedly-safe-pickleball-is-becoming-a-contact-sport-for-your-face-2000673356" target="_blank">Supposedly Safe Pickleball Is Becoming a Contact Sport—For Your Face</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/bg6-1280x720.jpg" alt="Battlefield 6 Devs Know The XP Grind Sucks So They’re Rolling Out Some Big Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-fastet-xp-farm-community-server-bots-update-2000636556" target="_blank">Battlefield 6 Devs Know The XP Grind Sucks So They’re Rolling Out Some Big Changes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-17 12:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/cote.jpg" alt="Former Assassin’s Creed Boss Says He Didn’t Jump, Ubisoft Pushed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,33 +304,6 @@
                 <span class="title"><a href="https://gizmodo.com/something-weird-is-happening-to-earths-magnetic-field-2000673088" target="_blank">Something Weird Is Happening to Earth’s Magnetic Field</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-17 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/kyy-portable-monitor-15-6-1280x853.jpg" alt="This 15″ Gaming Display for Switch, Xbox, and PC Is Nearly Free in Amazon’s Final Clearance Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-15-gaming-display-for-switch-xbox-and-pc-is-nearly-free-in-amazons-final-clearance-sale-2000636099" target="_blank">This 15″ Gaming Display for Switch, Xbox, and PC Is Nearly Free in Amazon’s Final Clearance Sale</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-16 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_S5-2-1280x853.jpg" alt="Finn Wolfhard Was Worried ‘Stranger Things’ Would Biff Its Finale Like ‘Game of Thrones’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/finn-wolfhard-was-worried-stranger-things-would-biff-its-finale-like-game-of-thrones-2000673360" target="_blank">Finn Wolfhard Was Worried ‘Stranger Things’ Would Biff Its Finale Like ‘Game of Thrones’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-16 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-16 21:41</span>
             </div>
         </div>
 </div>
@@ -335,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
