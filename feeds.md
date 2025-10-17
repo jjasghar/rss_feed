@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 11:01:39 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-17 12:02:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/17/australia-vs-india-virat-kohli-and-rohit-sharma-in-odi-spotlight?traffic_source=rss" target="_blank">Australia vs India: Virat Kohli and Rohit Sharma in ODI spotlight</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 11:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,20 @@
                 <span class="time">2025-10-17 07:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/japan-pm-hopeful-takaichi-avoids-wwii-shrine-visit-amid-political-tussle?traffic_source=rss" target="_blank">Japan PM hopeful Takaichi avoids WWII shrine visit amid political tussle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-17 06:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/17/sk-telecoms-ai-unit-offers-staff-voluntary-retirement-program-just-weeks-after-launch/" target="_blank">SK Telecom’s AI unit offers staff voluntary retirement program just weeks after launch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-17 11:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68942d2a373978fb509086bb/master/pass/12%20Best%20Mattresses%20You%20Can%20Buy%20Online%20(2025).png" alt="Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +157,29 @@
                 <span class="time">2025-10-17 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai" target="_blank">Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 08:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/trayshmhirk/hng-13-backend-stage-0-building-a-simple-api-with-nodejs-and-express-3k55" target="_blank">HNG 13 Backend Stage 0 – Building a Simple API with Node.js and Express</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18700958&w=600" alt="DevEx Ambient Agent With Advanced Knowledge Graph" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/devex-ambient-agent-advanced-knowledge-graph" target="_blank">DevEx Ambient Agent With Advanced Knowledge Graph</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +216,6 @@
                 <span class="time">2025-10-17 08:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/" target="_blank">Why rent a cloud when you can build one?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-17 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-54a3" target="_blank">Balancing Confidence and Imposter Syndrome</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 06:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -223,10 +224,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/" target="_blank">Email Bombs Exploit Lax Authentication in Zendesk</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-10-17 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html" target="_blank">Cryptocurrency ATMs</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html" target="_blank">A Surprising Amount of Satellite Traffic Is Unencrypted</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-16 11:06</span>
+                <span class="time">2025-10-17 11:03</span>
             </div>
         </div>
 </div>
@@ -234,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/cote.jpg" alt="Former Assassin’s Creed Boss Says He Didn’t Jump, Ubisoft Pushed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/former-assassins-creed-boss-says-he-didnt-jump-ubisoft-pushed-2000636542" target="_blank">Former Assassin’s Creed Boss Says He Didn’t Jump, Ubisoft Pushed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/iphone-17-pro-1280x853.jpg" alt="This Is the Legit Way to Get a Free iPhone 17 and Apple’s Fine With It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +298,6 @@
                 <span class="time">2025-10-16 21:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/IMG_5327.heic.jpeg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Giraffe-suited singer arrested at ICE protest sparks free speech fight. Defense fund nears $100,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/16/giraffe-suited-singer-arrested-at-ice-protest-sparks-free-speech-fight-defense-fund-nears-100000.html" target="_blank">Giraffe-suited singer arrested at ICE protest sparks free speech fight. Defense fund nears $100,000</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-16 21:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
