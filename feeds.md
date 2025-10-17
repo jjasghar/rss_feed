@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 13:09:13 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-17 14:01:55 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, October 17, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/17/bolton-in-court-to-face-charges-of-mishandling-classified-documents?traffic_source=rss" target="_blank">Bolton in court to face charges of mishandling classified documents</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-17 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/USA-TRUMP-BOLTON_1760706688274_hpMain_4x3t_384.jpg" alt="John Bolton at federal courthouse for 1st court appearance following indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/john-bolton-federal-courthouse-1st-court-appearance-indictment/story?id=126613130" target="_blank">John Bolton at federal courthouse for 1st court appearance following indictment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-17 13:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8426/live/b75f8090-ab53-11f0-aa13-0b0479f6f42a.jpg" alt="Government loses bid to block Palestine Action ban appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +97,29 @@
                 <span class="time">2025-10-17 11:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-putin-vladimir-russia_7053122.jpg?20251017120718" alt="Hungary convenient for next Putin-Trump summit - but getting there might not be so straightforward" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hungary-convenient-for-next-putin-trump-summit-but-getting-there-might-not-be-so-straightforward-13451605" target="_blank">Hungary convenient for next Putin-Trump summit - but getting there might not be so straightforward</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-17 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5577652/japanese-pm-murayama-dead" target="_blank">Former Japanese PM Murayama, known for apology over wartime aggression, dies at 101</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-17 09:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant" target="_blank">These AI glasses promised to make me smarter, and all I got was Clippy for my face</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686d7dd0f31ad9f082b64555/master/pass/The%20Best%20USB%20Hubs%20for%20Connecting%20All%20Your%20Gadgets.png" alt="8 Best USB Hubs (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-usb-hubs/" target="_blank">8 Best USB Hubs (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-17 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685dad5ad0ae2793acd7adf1/master/pass/Automatic%20Feeders.png" alt="These 8 Automatic Cat Feeders Were the Best We Tested (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,30 +148,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/68942d2a373978fb509086bb/master/pass/12%20Best%20Mattresses%20You%20Can%20Buy%20Online%20(2025).png" alt="Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-mattresses/" target="_blank">Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-17 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory1-500x500.jpg" alt="Yes, everything online sucks now—but it doesn’t have to" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11-presplash-500x500.jpg" alt="Rocket Report: China launches with no advance warning; Europe’s drone ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/" target="_blank">Yes, everything online sucks now—but it doesn’t have to</a></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/rocket-report-a-nearly-perfect-flight-for-starship-chinas-surprise-launch/" target="_blank">Rocket Report: China launches with no advance warning; Europe’s drone ship</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-17 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram" target="_blank">Meta is adding more parental controls for teen AI use</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 10:00</span>
+                <span class="time">2025-10-17 11:00</span>
             </div>
         </div>
 </div>
@@ -170,6 +161,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-should-i-see-it-in-a-movie-theater-test-406f" target="_blank">Ringer Movies: The “Should I See It in a Movie Theater?” Test</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/slack-aer-security-system/en/headerimage/twitter_card+%281%29-1759622294042.jpg" alt="Slack Security: Inside the New Anomaly Event Response Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/slack-aer-security-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Slack Security: Inside the New Anomaly Event Response Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-AES-GCM-AVX2-Faster" target="_blank">AES-GCM Crypto Performance Up To ~74% Faster For AMD Zen 3 With Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-17 13:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/karthik_n/level-up-your-website-diving-into-immersive-experiences-with-webxr-1b0j" target="_blank">Level Up Your Website: Diving into Immersive Experiences with WebXR</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-17 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/" target="_blank">3x performance for 1/4 of the price by migrating from AWS to Hetzner</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/strategic-discussions/en/mediumimage/mark-allen-medium-1757668036306.jpg" alt="Presentation: How to Always Get Invited to Big Strategic Conversations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/strategic-discussions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: How to Always Get Invited to Big Strategic Conversations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-17 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wisdomudo/understanding-truthy-and-falsy-values-in-javascript-beginners-guide-318k" target="_blank">Understanding Truthy and Falsy Values in JavaScript (Beginner’s Guide)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 08:50</span>
             </div>
         </div>
 </div>
@@ -252,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/11/RTR1FVK1-e1760707921402.jpg?fit=974%2C623&amp;quality=60&amp;ssl=1" alt="Former Trump advisor John Bolton charged with sharing state secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/17/former-trump-advisor-john-bolton-charged-with-sharing-state-secrets.html" target="_blank">Former Trump advisor John Bolton charged with sharing state secrets</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-17 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/border-patrol-in-chicago-oct.-14-2025-1280x853.jpg" alt="Border Patrol Responds Like a Petulant Child to Controversy Over Its Antisemitic Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/border-patrol-responds-like-a-petulant-child-to-controversy-over-its-antisemitic-video-2000673314" target="_blank">Border Patrol Responds Like a Petulant Child to Controversy Over Its Antisemitic Video</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 13:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/wikipedia.png?fit=1548%2C972&amp;quality=55&amp;ssl=1" alt="Wikipedia losing traffic to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,24 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/former-assassins-creed-boss-says-he-didnt-jump-ubisoft-pushed-2000636542" target="_blank">Former Assassin’s Creed Boss Says He Didn’t Jump, Ubisoft Pushed</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/iphone-17-pro-1280x853.jpg" alt="This Is the Legit Way to Get a Free iPhone 17 and Apple’s Fine With It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-is-the-legit-way-to-get-a-free-iphone-17-and-apples-fine-with-it-2000673167" target="_blank">This Is the Legit Way to Get a Free iPhone 17 and Apple’s Fine With It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Swarm-1280x853.jpg" alt="Something Weird Is Happening to Earth’s Magnetic Field" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/something-weird-is-happening-to-earths-magnetic-field-2000673088" target="_blank">Something Weird Is Happening to Earth’s Magnetic Field</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 07:30</span>
             </div>
         </div>
 </div>
@@ -343,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
