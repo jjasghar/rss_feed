@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 19:01:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 20:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/no-kings-ny-03-gty-jt-251018_1760813255471_hpMain_4x3t_384.jpg" alt="What to know about nationwide &#x27;No Kings&#x27; rallies protesting Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/nationwide-kings-rallies-set-protest-trump/story?id=126611770" target="_blank">What to know about nationwide &#x27;No Kings&#x27; rallies protesting Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-18 19:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c40b/live/e104d7f0-ac44-11f0-b2a1-6f537f66f9aa.jpg" alt="Accuser&#x27;s brother urges King to strip Andrew of prince title" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdegkd00yz3o?at_medium=RSS&at_campaign=rss" target="_blank">Accuser&#x27;s brother urges King to strip Andrew of prince title</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-18 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/18/arsenal-beat-fulham-to-top-premier-league-after-man-city-down-everton?traffic_source=rss" target="_blank">Arsenal beat Fulham to top Premier League after Man City down Everton</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 18:58</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/18/in-the-occupied-west-bank-the-war-continues?traffic_source=rss" target="_blank">In the occupied West Bank, the war continues</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-18 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/18/nx-s1-5558173/redistricting-gerrymandering-missouri-ballot-texas" target="_blank">These voters want to overturn Missouri&#x27;s new gerrymandered congressional map</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-18 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/18/live-fulham-vs-arsenal-premier-league?traffic_source=rss" target="_blank">LIVE: Fulham vs Arsenal – Premier League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-18 13:18</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jucelinux/playbook-do-micro-saas-2k63" target="_blank">Playbook do Micro SaaS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-18 19:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz071s3vfzgzagglbym8.png" alt="Why curl and Your Browser Sometimes See Different Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo" target="_blank">Cybersecurity 101 : data sanitization</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-18 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Snapdragon-X2-Display-Support" target="_blank">Linux Display Driver Patches Posted For The Qualcomm Snapdragon X2 Elite</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-18 13:43</span>
             </div>
         </div>
 </div>
@@ -323,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
