@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 11:01:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-18 12:02:23 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +112,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/801684/meta-ray-ban-display-review-smart-glasses-ai-wearables" target="_blank">The future I saw through the Meta Ray-Ban Display amazes and terrifies me</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68f2c8bfd2acc70851f1f021/master/pass/Gear%20News%20of%20the%20Week-%20Honor%20Teases%20a%20Bizarre%20Robot%20Phone,%20and%20Kohler%20Debuts%20a%20Toilet%20Sensor.png" alt="Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +165,29 @@
                 <span class="time">2025-10-18 00:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f2c3e1d9a83ae21d13c680/master/pass/Home%20Depot%20Deals%20on%20Decor%20and%20Cookware%E2%80%94Plus%20BOGO%20Milwaukee%20Power%20Tools.png" alt="The Biggest Fall Deals at Home Depot (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-fall-savings-2025/" target="_blank">The Biggest Fall Deals at Home Depot (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-17 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/flipkart-prometheus-80million/en/headerimage/generatedHeaderImage-1759933956727.jpg" alt="Flipkart Scales Prometheus to 80 Million Metrics Using Hierarchical Federation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/flipkart-prometheus-80million/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Flipkart Scales Prometheus to 80 Million Metrics Using Hierarchical Federation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RDSEED-Disable-All-Zen-5" target="_blank">Updated Linux Patch Would Disable RDSEED For All AMD Zen 5 CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-18 10:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +224,6 @@
                 <span class="time">2025-10-18 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/OpenMixerProject/StageConnect" target="_blank">StageConnect: Behringer protocol is open source</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-18 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g" target="_blank">Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-18 04:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,24 +236,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html" target="_blank">Friday Squid Blogging: Squid Inks Philippines Fisherman</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-10-17 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/" target="_blank">Email Bombs Exploit Lax Authentication in Zendesk</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-10-17 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html" target="_blank">A Surprising Amount of Satellite Traffic Is Unencrypted</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-17 11:03</span>
             </div>
         </div>
 </div>
@@ -339,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
