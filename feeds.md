@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 14:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 15:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/18/in-the-occupied-west-bank-the-war-continues?traffic_source=rss" target="_blank">In the occupied West Bank, the war continues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/18/nx-s1-5558173/redistricting-gerrymandering-missouri-ballot-texas" target="_blank">These voters want to overturn Missouri&#x27;s new gerrymandered congressional map</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-18 13:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +104,38 @@
                 <span class="time">2025-10-18 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/santos-gty-er-251017_1760739275245_hpMain_4x3t_384.jpg" alt="George Santos released from prison after sentence commuted by Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/george-santos-prison-sentence-commuted-released-immediately-trump/story?id=126633000" target="_blank">George Santos released from prison after sentence commuted by Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-18 08:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/18/nx-s1-5578871/zelenskyy-meeting-trump-ukraine-russia-war" target="_blank">After Zelenskyy meeting, Trump calls on Ukraine and Russia to &#x27;stop where they are&#x27; and end the war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-18 08:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker" target="_blank">8BitDo’s new collection celebrates the NES’s 40th anniversary</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/" target="_blank">WhatsApp changes its terms to bar general purpose chatbots from its platform</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-18 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/683a532212003ad844092c4b/master/pass/Best%20Soundbar%20Update.png" alt="The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-soundbars/" target="_blank">The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68671d42a81e0ca3e81e8ddc/master/pass/Heat%20Protectors.png" alt="15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -125,38 +163,29 @@
                 <span class="time">2025-10-18 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/801684/meta-ray-ban-display-review-smart-glasses-ai-wearables" target="_blank">The future I saw through the Meta Ray-Ban Display amazes and terrifies me</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f136f3481311aaa91495ac/master/pass/Amazon-Prime-Movie-Guide-Nosferatu-Culture-4193_D015_00007_RC.jpg" alt="The 25 Best Movies on Amazon Prime Right Now (October 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-amazon-prime-movies/" target="_blank">The 25 Best Movies on Amazon Prime Right Now (October 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f2c8bfd2acc70851f1f021/master/pass/Gear%20News%20of%20the%20Week-%20Honor%20Teases%20a%20Bizarre%20Robot%20Phone,%20and%20Kohler%20Debuts%20a%20Toilet%20Sensor.png" alt="Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/" target="_blank">Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-18 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo" target="_blank">Cybersecurity 101 : data sanitization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-18 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/ec2-instance-attestation/en/headerimage/generatedHeaderImage-1759684151123.jpg" alt="AWS Introduces EC2 Instance Attestation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/ec2-instance-attestation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces EC2 Instance Attestation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-18 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/flipkart-prometheus-80million/en/headerimage/generatedHeaderImage-1759933956727.jpg" alt="Flipkart Scales Prometheus to 80 Million Metrics Using Hierarchical Federation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +222,6 @@
                 <span class="time">2025-10-18 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-1g3n" target="_blank">Mr Sunday Movies: Tron: Legacy - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/agentic-context-eng/en/headerimage/generatedHeaderImage-1760528000880.jpg" alt="Researchers Introduce ACE, a Framework for Self-Improving LLM Contexts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/agentic-context-eng/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Researchers Introduce ACE, a Framework for Self-Improving LLM Contexts</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-18 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Bugonia-Yorgos-Lanthimos-Emma-Stone-1280x853.jpg" alt="Wanna See ‘Bugonia’ Early? Go Bald!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wanna-see-bugonia-early-go-bald-2000673884" target="_blank">Wanna See ‘Bugonia’ Early? Go Bald!</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-18 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/02/9515a531afb1b893a4a9eaef175bb25e-1024x575.jpg" alt="Salesforce Billionaire Marc Benioff Apologizes for Suggesting National Guard Should Activate in San Francisco" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +295,6 @@
                 <span class="time">2025-10-17 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/black-bear-1-e1760739359403.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Watch a not-quite-as-smart-as-the-average bear fail to get a treat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/17/watch-a-not-quite-as-smart-as-the-average-bear-fail-to-get-a-treat.html" target="_blank">Watch a not-quite-as-smart-as-the-average bear fail to get a treat</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-17 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
