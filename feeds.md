@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 01:28:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 02:24:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 02:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/santos-gty-er-251017_1760739275245_hpMain_4x3t_384.jpg" alt="Here&#x27;s why Trump says he&#x27;s commuting prison sentence of ex-GOP Rep. George Santos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/george-santos-prison-sentence-commuted-released-immediately-trump/story?id=126633000" target="_blank">Here&#x27;s why Trump says he&#x27;s commuting prison sentence of ex-GOP Rep. George Santos</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-18 02:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/NUP_209020_00763-xwlss2-bjfezf.jpg" alt="Zelenskyy: ‘Trump didn&#x27;t say no’ but ‘didn&#x27;t say yes’ to Tomahawk missiles for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/scotus-2-gty-gmh-251007_1759844668168_hpMain_4x3t_384.jpg" alt="Trump administration asks Supreme Court to OK National Guard deployment in Illinois" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-volodymyr-zelenskyy_7053731.jpg?20251017233933" alt="US cools talk of delivering Tomahawk missiles to Ukraine over fears of &#x27;escalation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-administration-asks-supreme-court-national-guard-deployment/story?id=126630415" target="_blank">Trump administration asks Supreme Court to OK National Guard deployment in Illinois</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-17 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss" target="_blank">Hamas hands over remains of one more Israeli captive, vows to return rest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-17 21:43</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-cools-talk-of-delivering-tomahawk-missiles-to-ukraine-over-fears-of-escalation-13452052" target="_blank">US cools talk of delivering Tomahawk missiles to Ukraine over fears of &#x27;escalation&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-17 22:25</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gilsonsilvati/hot-reload-de-configuracoes-de-portal-manager-via-actuatorrefresh-no-spring-boot-2p14" target="_blank">Hot-Reload de Configurações de Portal Manager via /actuator/refresh no Spring Boot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-18 02:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="The future developer is not just a coder; they are an AI Operator.
 Someone who thinks in systems, speaks in prompts, and ships earlier.
 
@@ -214,15 +224,6 @@ If you start building this identity now, you’ll be years ahead of the majority
                 <span class="title"><a href="https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847" target="_blank">I Just Started Learning to Code — Here&#x27;s How I Built My First ‘Vibe Project’</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-17 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Lenspect-Threat-Scanner" target="_blank">GNOME Has A New Security Threat Scanner Powered By VirusTotal</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-17 20:32</span>
             </div>
         </div>
 </div>
@@ -322,6 +323,15 @@ If you start building this identity now, you’ll be years ahead of the majority
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/17/watchers-of-thorns" target="_blank">Watchers of Thorns</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-17 22:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1760645538-20251017.png" alt="Saturday Morning Breakfast Cereal - Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -353,8 +363,8 @@ If you start building this identity now, you’ll be years ahead of the majority
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 02:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
