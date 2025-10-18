@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 20:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-18 21:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/zimbabwes-governing-party-moves-to-extend-mnangagwa-presidency-to-2030?traffic_source=rss" target="_blank">Zimbabwe’s governing party moves to extend Mnangagwa presidency to 2030</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 20:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/no-kings-ny-03-gty-jt-251018_1760813255471_hpMain_4x3t_384.jpg" alt="What to know about nationwide &#x27;No Kings&#x27; rallies protesting Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/f_mo_lon_billnye_nokings_251018.00_00_08_25.Still001-q27cxb.jpg" alt="Bill Nye slams Trump as ‘petulant’ during ‘No Kings’ protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/bill-nye-slams-trump-as-petulant-during-no-kings-protest-250164293810" target="_blank">Bill Nye slams Trump as ‘petulant’ during ‘No Kings’ protest</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-18 18:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -82,29 +101,20 @@
                 <span class="time">2025-10-18 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/no-kings-dc-rt-jt-251018_1760803920526_hpMain_4x3t_384.jpg" alt="What to know about &#x27;No Kings&#x27; protests around US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/nationwide-kings-rallies-set-protest-trump/story?id=126611770" target="_blank">What to know about &#x27;No Kings&#x27; protests around US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-18 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/18/in-the-occupied-west-bank-the-war-continues?traffic_source=rss" target="_blank">In the occupied West Bank, the war continues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-18 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/" target="_blank">Spyware maker NSO Group blocked from WhatsApp</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-18 20:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/" target="_blank">WhatsApp changes its terms to bar general purpose chatbots from its platform</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-18 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683a532212003ad844092c4b/master/pass/Best%20Soundbar%20Update.png" alt="The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-soundbars/" target="_blank">The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-18 14:00</span>
             </div>
         </div>
 </div>
@@ -247,6 +248,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/gulfstream-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Kristi Noem buys herself two Gulfstream jets using $172 million in taxpayer money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/18/kristi-noem-buys-herself-two-gulfstream-jets-using-172-million-in-taxpayer-money.html" target="_blank">Kristi Noem buys herself two Gulfstream jets using $172 million in taxpayer money</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-18 15:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/cilice.jpg?fit=1200%2C875&amp;quality=60&amp;ssl=1" alt="Pope is about to dismantle scandal-plagued Opus Dei, says expert" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +292,6 @@
                 <span class="time">2025-10-18 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/dell-laptop-cat-1280x853.jpg" alt="Dell Offloads Laptops at 70% Off, But Only Quietly Through Amazon to Protect Its Brand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dell-offloads-laptops-at-70-off-but-only-quietly-through-amazon-to-protect-its-brand-2000636918" target="_blank">Dell Offloads Laptops at 70% Off, But Only Quietly Through Amazon to Protect Its Brand</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-18 12:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
