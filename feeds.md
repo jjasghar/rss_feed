@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 16:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 17:01:35 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/no-kings-dc-rt-jt-251018_1760803920526_hpMain_4x3t_384.jpg" alt="What to know about &#x27;No Kings&#x27; protests around US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/nationwide-kings-rallies-set-protest-trump/story?id=126611770" target="_blank">What to know about &#x27;No Kings&#x27; protests around US</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-18 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss" target="_blank">Iran says restrictions on nuclear programme ‘terminated’ as deal expires</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-18 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/18/nx-s1-5574349/dominion-voting-machines-sale-reaction" target="_blank">Does the sale of Dominion Voting Systems mean a transformation? Depends who&#x27;s asking</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-18 09:00</span>
             </div>
         </div>
 </div>
@@ -187,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and" target="_blank">The IDEs we had 30 years ago ... and we lost</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-18 12:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/flipkart-prometheus-80million/en/headerimage/generatedHeaderImage-1759933956727.jpg" alt="Flipkart Scales Prometheus to 80 Million Metrics Using Hierarchical Federation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/RDSEED-Disable-All-Zen-5" target="_blank">Updated Linux Patch Would Disable RDSEED For All AMD Zen 5 CPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-18 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/algon31/what-happens-when-u-click-googlecom-computer-networks-pmh" target="_blank">What happens when u click google.com - Computer Networks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-18 10:32</span>
             </div>
         </div>
 </div>
@@ -232,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/horizon-fw-1280x853.jpg" alt="Sony Wants Its ‘Horizon Zero Dawn’ Movie to Hit Theaters in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sony-wants-its-horizon-zero-dawn-movie-to-hit-theaters-in-2027-2000673716" target="_blank">Sony Wants Its ‘Horizon Zero Dawn’ Movie to Hit Theaters in 2027</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-18 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Bugonia-Yorgos-Lanthimos-Emma-Stone-1280x853.jpg" alt="Wanna See ‘Bugonia’ Early? Go Bald!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +291,6 @@
                 <span class="time">2025-10-17 23:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/george-santos-e1760740651442.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump commutes fellow fraudster George Santos&#x27;s sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/17/trump-commutes-fellow-fraudster-george-santoss-sentence.html" target="_blank">Trump commutes fellow fraudster George Santos&#x27;s sentence</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-17 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
