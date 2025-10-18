@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 02:24:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-18 03:10:10 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 02:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 03:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/lebanon-court-orders-son-of-late-libyan-leader-gaddafi-freed-on-11m-bail?traffic_source=rss" target="_blank">Lebanon court orders son of late Libyan leader Gaddafi freed on $11m bail</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 02:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/santos-gty-er-251017_1760739275245_hpMain_4x3t_384.jpg" alt="Here&#x27;s why Trump says he&#x27;s commuting prison sentence of ex-GOP Rep. George Santos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +97,20 @@
                 <span class="time">2025-10-17 22:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-volodymyr-zelenskyy_7053731.jpg?20251017233933" alt="US cools talk of delivering Tomahawk missiles to Ukraine over fears of &#x27;escalation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-cools-talk-of-delivering-tomahawk-missiles-to-ukraine-over-fears-of-escalation-13452052" target="_blank">US cools talk of delivering Tomahawk missiles to Ukraine over fears of &#x27;escalation&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-17 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/" target="_blank">Silicon Valley spooks the AI safety advocates</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-18 01:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f2c3e1d9a83ae21d13c680/master/pass/Home%20Depot%20Deals%20on%20Decor%20and%20Cookware%E2%80%94Plus%20BOGO%20Milwaukee%20Power%20Tools.png" alt="The Biggest Fall Deals at Home Depot (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-indoor-gardening-systems/" target="_blank">Best Indoor Garden Systems: We&#x27;ve Been Testing All Year (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-17 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f27c6ac1e7317d086b3429/master/pass/One%20of%20our%20Favorite%20Noise-Canceling%20Headphones%20is%20$100%20Off%20if%20you%20Act%20Fast.png" alt="Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/" target="_blank">Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-17 20:12</span>
             </div>
         </div>
 </div>
@@ -363,8 +358,8 @@ If you start building this identity now, you’ll be years ahead of the majority
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 02:24 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 03:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
