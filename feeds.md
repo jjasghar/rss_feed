@@ -1,42 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 12:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 13:05:57 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -115,9 +103,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/800733/easy-delivery-co-review-steam" target="_blank">Easy Delivery Co. is a cozy, Lynchian dream</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/801684/meta-ray-ban-display-review-smart-glasses-ai-wearables" target="_blank">The future I saw through the Meta Ray-Ban Display amazes and terrifies me</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f136f3481311aaa91495ac/master/pass/Amazon-Prime-Movie-Guide-Nosferatu-Culture-4193_D015_00007_RC.jpg" alt="The 25 Best Movies on Amazon Prime Right Now (October 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-amazon-prime-movies/" target="_blank">The 25 Best Movies on Amazon Prime Right Now (October 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-18 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -145,24 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/turbotax-coupon/" target="_blank">Top TurboTax Discount Codes &amp; Coupons October 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-18 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/" target="_blank">Silicon Valley spooks the AI safety advocates</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-18 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll" target="_blank">Facebook’s new button lets its AI look at photos you haven&amp;#8217;t uploaded yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-18 00:15</span>
             </div>
         </div>
 </div>
@@ -244,6 +232,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/elon_statue-1280x853.jpg" alt="Tech Bros Are Obsessed With Statue-Maxxing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tech-bros-are-obsessed-with-statue-maxxing-2000673718" target="_blank">Tech Bros Are Obsessed With Statue-Maxxing</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dell-laptop-cat-1280x853.jpg" alt="Dell Offloads Laptops at 70% Off, But Only Quietly Through Amazon to Protect Its Brand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dell-offloads-laptops-at-70-off-but-only-quietly-through-amazon-to-protect-its-brand-2000636918" target="_blank">Dell Offloads Laptops at 70% Off, But Only Quietly Through Amazon to Protect Its Brand</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-18 12:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/elon-musk-win-1024x681.jpg" alt="The Kremlin Wants Elon Musk to Build a Tunnel From Russia to the U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,24 +285,6 @@
                 <span class="time">2025-10-17 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Morgan.jpg" alt="Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690" target="_blank">Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-17 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7SXX823924BX5S4K387CJGH/hero-image.jpg" alt="Meta’s Upcoming AI Parental Controls Are Too Little, Too Late" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-ai-parental-controls-too-little-too-late?utm_medium=RSS" target="_blank">Meta’s Upcoming AI Parental Controls Are Too Little, Too Late</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-17 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
