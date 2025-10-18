@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 03:10:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 04:01:41 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 03:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215" target="_blank">IGN: Rooster Fighter - Official Anime Opening (What&#x27;s a Hero? by Daruma ROLLIN&#x27;)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-18 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gilsonsilvati/hot-reload-de-configuracoes-de-portal-manager-via-actuatorrefresh-no-spring-boot-2p14" target="_blank">Hot-Reload de Configurações de Portal Manager via /actuator/refresh no Spring Boot</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-18 02:21</span>
@@ -210,15 +221,6 @@ If you start building this identity now, you’ll be years ahead of the majority
                 <span class="title"><a href="https://dev.to/gilbert_dami/an-introduction-about-myself-47mh" target="_blank">An introduction about myself</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-17 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgndfx49ydzl1hne00s3.png" alt="I Just Started Learning to Code — Here&#x27;s How I Built My First ‘Vibe Project’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847" target="_blank">I Just Started Learning to Code — Here&#x27;s How I Built My First ‘Vibe Project’</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 20:50</span>
             </div>
         </div>
 </div>
@@ -344,22 +346,13 @@ If you start building this identity now, you’ll be years ahead of the majority
                 <span class="time">2025-10-17 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/planetary_rings.png" alt="Planetary Rings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3156/" target="_blank">Planetary Rings</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-10-17 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 03:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
