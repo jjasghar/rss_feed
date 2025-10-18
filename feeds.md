@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 05:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 06:02:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/does-each-boat-strike-off-the-coast-of-venezuela-save-25000-us-lives?traffic_source=rss" target="_blank">Does each boat strike off the coast of Venezuela save 25,000 US lives?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 04:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +96,6 @@
                 <span class="time">2025-10-17 23:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77b/live/0f8fc3a0-ab87-11f0-a7be-25e543799ac8.jpg" alt="Zelensky guarded on Tomahawk missile talks with Trump after White House meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky guarded on Tomahawk missile talks with Trump after White House meeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-17 22:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -117,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/" target="_blank">Silicon Valley spooks the AI safety advocates</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-18 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll" target="_blank">Facebook’s new button lets its AI look at photos you haven&amp;#8217;t uploaded yet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-18 00:15</span>
             </div>
         </div>
 <div class="story">
@@ -155,20 +155,20 @@
                 <span class="time">2025-10-17 21:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688061d68203c2103d95c470/master/pass/We%20Tried%205%20of%20the%20Most%20Popular%20Indoor%20Gardening%20Systems.png" alt="Best Indoor Garden Systems: We&#x27;ve Been Testing All Year (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-indoor-gardening-systems/" target="_blank">Best Indoor Garden Systems: We&#x27;ve Been Testing All Year (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-17 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/agentic-context-eng/en/headerimage/generatedHeaderImage-1760528000880.jpg" alt="Researchers Introduce ACE, a Framework for Self-Improving LLM Contexts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/agentic-context-eng/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Researchers Introduce ACE, a Framework for Self-Improving LLM Contexts</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-18 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -218,15 +218,6 @@ If you start building this identity now, you’ll be years ahead of the majority
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-10.17-Released" target="_blank">Wine 10.17 Now Defaults To EGL Renderer For OpenGL On X11</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-18 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/what-is-dracut.jpg?resize=406%2C232&amp;ssl=1" alt="Dracut in Ubuntu 25.10: What it is and Why it Matters (or Doesn’t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/what-is-dracut-ubuntu" target="_blank">Dracut in Ubuntu 25.10: What it is and Why it Matters (or Doesn’t)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-18 00:15</span>
             </div>
         </div>
 </div>
@@ -358,7 +349,7 @@ If you start building this identity now, you’ll be years ahead of the majority
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 05:01 UTC
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
