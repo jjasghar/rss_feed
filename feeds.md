@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-17 23:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 00:04:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, October 17, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +50,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky guarded on Tomahawk missile talks with Trump after White House meeting</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-17 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/scotus-2-gty-gmh-251007_1759844668168_hpMain_4x3t_384.jpg" alt="Trump administration asks Supreme Court to OK National Guard deployment in Illinois" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-administration-asks-supreme-court-national-guard-deployment/story?id=126630415" target="_blank">Trump administration asks Supreme Court to OK National Guard deployment in Illinois</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-17 21:49</span>
             </div>
         </div>
 <div class="story">
@@ -95,20 +97,20 @@
                 <span class="time">2025-10-17 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760724457090_now_brk_zel_tomahawks_251017_1920x1080-trhyiw.jpg" alt="Zelenskyy says he would give the U.S. drones in exchange for Tomahawk missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/zelenskyy-says-he-would-give-the-u-s-drones-in-exchange-for-tomahawk-missiles-250104389643" target="_blank">Zelenskyy says he would give the U.S. drones in exchange for Tomahawk missiles</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-17 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f2c3e1d9a83ae21d13c680/master/pass/Home%20Depot%20Deals%20on%20Decor%20and%20Cookware%E2%80%94Plus%20BOGO%20Milwaukee%20Power%20Tools.png" alt="The Biggest Fall Deals at Home Depot (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/home-depot-fall-savings-2025/" target="_blank">The Biggest Fall Deals at Home Depot (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-17 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +156,20 @@
                 <span class="time">2025-10-17 20:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/801966/fictional-gadget-reviews" target="_blank">Fictional gadget reviews: exploring the latest in fantasy and sci-fi tech</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gilbert_dami/an-introduction-about-myself-47mh" target="_blank">An introduction about myself</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-17 23:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgndfx49ydzl1hne00s3.png" alt="I Just Started Learning to Code — Here&#x27;s How I Built My First ‘Vibe Project’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +215,6 @@
                 <span class="time">2025-10-17 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/talos-linux-kubernetes/en/headerimage/generatedHeaderImage-1760719266195.jpg" alt="Talos Linux: Bringing Immutability and Security to Kubernetes Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/talos-linux-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Talos Linux: Bringing Immutability and Security to Kubernetes Operations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-17 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/elon-musk-win-1024x681.jpg" alt="The Kremlin Wants Elon Musk to Build a Tunnel From Russia to the U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-kremlin-wants-elon-musk-to-build-a-tunnel-from-russia-to-the-u-s-2000673752" target="_blank">The Kremlin Wants Elon Musk to Build a Tunnel From Russia to the U.S.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-17 23:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/black-bear-1-e1760739359403.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Watch a not-quite-as-smart-as-the-average bear fail to get a treat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/cnn-is-trying-to-sell-a-streaming-service-again-only-more-expensive-this-time-2000673714" target="_blank">CNN Is Trying to Sell a Streaming Service Again (Only More Expensive This Time)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-17 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Comet-2025-10-17-21.38.29.png?fit=1200%2C778&amp;quality=55&amp;ssl=1" alt="No Kings Day is for patriots — red, blue, and purple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/17/no-kings-day-is-for-patriots-red-blue-and-purple.html" target="_blank">No Kings Day is for patriots — red, blue, and purple</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-17 20:43</span>
             </div>
         </div>
 </div>
@@ -350,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
