@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 04:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-10-18 05:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g" target="_blank">Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-18 04:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215" target="_blank">IGN: Rooster Fighter - Official Anime Opening (What&#x27;s a Hero? by Daruma ROLLIN&#x27;)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-18 04:01</span>
@@ -212,15 +227,6 @@ If you start building this identity now, you’ll be years ahead of the majority
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/what-is-dracut-ubuntu" target="_blank">Dracut in Ubuntu 25.10: What it is and Why it Matters (or Doesn’t)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-18 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gilbert_dami/an-introduction-about-myself-47mh" target="_blank">An introduction about myself</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 23:39</span>
             </div>
         </div>
 </div>
@@ -351,8 +357,8 @@ If you start building this identity now, you’ll be years ahead of the majority
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
