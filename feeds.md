@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 21:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 22:01:37 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/2241858944-625vu9.jpg" alt="Illinois Gov. Pritzker addresses ‘No Kings’ rally in Chicago: ‘Democracy requires your courage’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/illinois-gov-pritzker-addresses-no-kings-rally-in-chicago-250167365576" target="_blank">Illinois Gov. Pritzker addresses ‘No Kings’ rally in Chicago: ‘Democracy requires your courage’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-18 20:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/bill-nye-slams-trump-as-petulant-during-no-kings-protest-250164293810" target="_blank">Bill Nye slams Trump as ‘petulant’ during ‘No Kings’ protest</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-18 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/18/israel-hamas-exchange-remains-of-the-deceased-under-new-ceasefire?traffic_source=rss" target="_blank">Israel, Hamas exchange remains of the deceased under new ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-18 18:00</span>
             </div>
         </div>
 </div>
@@ -168,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc2-Rust" target="_blank">New Code Merged For Linux 6.18 To Address Linus Torvalds&#x27; Rust Formatting Critique</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-18 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jucelinux/playbook-do-micro-saas-2k63" target="_blank">Playbook do Micro SaaS</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,34 +220,20 @@
                 <span class="time">2025-10-18 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo" target="_blank">Cybersecurity 101 : data sanitization</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-18 14:56</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html" target="_blank">Friday Squid Blogging: Squid Inks Philippines Fisherman</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-17 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/marvel-rivals-zombies-1280x853.jpg" alt="A New ‘Marvel Rivals’ Mode Brings in Some ‘Marvel Zombies’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-new-marvel-rivals-mode-brings-in-some-marvel-zombies-2000673723" target="_blank">A New ‘Marvel Rivals’ Mode Brings in Some ‘Marvel Zombies’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-18 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/horizon-fw-1280x853.jpg" alt="Sony Wants Its ‘Horizon Zero Dawn’ Movie to Hit Theaters in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +279,6 @@
                 <span class="time">2025-10-18 13:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/elon_statue-1280x853.jpg" alt="Tech Bros Are Obsessed With Statue-Maxxing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tech-bros-are-obsessed-with-statue-maxxing-2000673718" target="_blank">Tech Bros Are Obsessed With Statue-Maxxing</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
