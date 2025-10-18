@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 13:05:57 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-18 14:01:34 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/18/live-fulham-vs-arsenal-premier-league?traffic_source=rss" target="_blank">LIVE: Fulham vs Arsenal – Premier League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 13:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +93,20 @@
                 <span class="time">2025-10-18 08:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/trump-torpedoes-international-deal-to-reduce-shipping-emissions?traffic_source=rss" target="_blank">Trump torpedoes international deal to reduce shipping emissions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-18 07:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68671d42a81e0ca3e81e8ddc/master/pass/Heat%20Protectors.png" alt="15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-heat-protectants-for-hair/" target="_blank">15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -106,6 +114,15 @@
                 <span class="title"><a href="https://www.theverge.com/games/800733/easy-delivery-co-review-steam" target="_blank">Easy Delivery Co. is a cozy, Lynchian dream</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Colonels-Bequest-1-500x500-1760651718.jpg" alt="Roberta Williams’ The Colonel’s Bequest was a different type of adventure game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/" target="_blank">Roberta Williams’ The Colonel’s Bequest was a different type of adventure game</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-18 12:15</span>
             </div>
         </div>
 <div class="story">
@@ -133,24 +150,6 @@
                 <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/" target="_blank">Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-18 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f28c2dc1e7317d086b342d/master/pass/Review-%20Lovense%20Lush%20Mini.png" alt="Lovense Lush Mini Review: A Dual-Stimulation Vibrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lovense-lush-mini/" target="_blank">Lovense Lush Mini Review: A Dual-Stimulation Vibrator</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="Top TurboTax Discount Codes &amp; Coupons October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/turbotax-coupon/" target="_blank">Top TurboTax Discount Codes &amp; Coupons October 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-18 05:00</span>
             </div>
         </div>
 </div>
@@ -232,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/02/9515a531afb1b893a4a9eaef175bb25e-1024x575.jpg" alt="Salesforce Billionaire Marc Benioff Apologizes for Suggesting National Guard Should Activate in San Francisco" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/salesforce-benioff-apologizes-about-national-guard-2000673833" target="_blank">Salesforce Billionaire Marc Benioff Apologizes for Suggesting National Guard Should Activate in San Francisco</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-18 13:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/elon_statue-1280x853.jpg" alt="Tech Bros Are Obsessed With Statue-Maxxing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,15 +284,6 @@
                 <span class="time">2025-10-17 22:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/star-trek-strange-new-worlds-310-pike-bridge-1280x853.jpg" alt="The Final Seasons of ‘Strange New Worlds’ Will Move Away From ‘Outlier’ Episodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-season-4-more-adventure-2000673757" target="_blank">The Final Seasons of ‘Strange New Worlds’ Will Move Away From ‘Outlier’ Episodes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
