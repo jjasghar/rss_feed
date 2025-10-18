@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 09:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 10:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss" target="_blank">Iran says restrictions on nuclear programme ‘terminated’ as deal expires</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 09:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/18/nx-s1-5574349/dominion-voting-machines-sale-reaction" target="_blank">Does the sale of Dominion Voting Systems mean a transformation? Depends who&#x27;s asking</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-18 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/santos-gty-er-251017_1760739275245_hpMain_4x3t_384.jpg" alt="George Santos released from prison after sentence commuted by Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +104,20 @@
                 <span class="time">2025-10-18 06:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/does-each-boat-strike-off-the-coast-of-venezuela-save-25000-us-lives?traffic_source=rss" target="_blank">Does each boat strike off the coast of Venezuela save 25,000 US lives?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-18 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/lebanon-court-orders-son-of-late-libyan-leader-gaddafi-freed-on-11m-bail?traffic_source=rss" target="_blank">Lebanon court orders son of late Libyan leader Gaddafi freed on $11m bail</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-18 02:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f2c8bfd2acc70851f1f021/master/pass/Gear%20News%20of%20the%20Week-%20Honor%20Teases%20a%20Bizarre%20Robot%20Phone,%20and%20Kohler%20Debuts%20a%20Toilet%20Sensor.png" alt="Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/" target="_blank">Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-18 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f28c2dc1e7317d086b342d/master/pass/Review-%20Lovense%20Lush%20Mini.png" alt="Lovense Lush Mini Review: A Dual-Stimulation Vibrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +163,20 @@
                 <span class="time">2025-10-17 22:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap" target="_blank">The US has a new roadmap for fusion energy, without the funds to back it up</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-17 22:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/terraform-google-provider-7-ga/en/headerimage/header-1760566085966.jpeg" alt="Terraform Google Cloud Provider 7.0 Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/terraform-google-provider-7-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Terraform Google Cloud Provider 7.0 Reaches General Availability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-18 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215" target="_blank">IGN: Rooster Fighter - Official Anime Opening (What&#x27;s a Hero? by Daruma ROLLIN&#x27;)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-18 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gilsonsilvati/hot-reload-de-configuracoes-de-portal-manager-via-actuatorrefresh-no-spring-boot-2p14" target="_blank">Hot-Reload de Configurações de Portal Manager via /actuator/refresh no Spring Boot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-18 02:21</span>
             </div>
         </div>
 </div>
@@ -339,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
