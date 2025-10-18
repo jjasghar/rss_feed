@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 18:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 19:01:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c40b/live/e104d7f0-ac44-11f0-b2a1-6f537f66f9aa.jpg" alt="Accuser&#x27;s brother urges King to strip Andrew of prince title" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdegkd00yz3o?at_medium=RSS&at_campaign=rss" target="_blank">Accuser&#x27;s brother urges King to strip Andrew of prince title</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-18 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/18/israel-hamas-exchange-remains-of-the-deceased-under-new-ceasefire?traffic_source=rss" target="_blank">Israel, Hamas exchange remains of the deceased under new ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/no-kings-dc-rt-jt-251018_1760803920526_hpMain_4x3t_384.jpg" alt="What to know about &#x27;No Kings&#x27; protests around US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/18/live-fulham-vs-arsenal-premier-league?traffic_source=rss" target="_blank">LIVE: Fulham vs Arsenal – Premier League</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-18 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/18/nx-s1-5577977/no-kings-protests-trump-marches" target="_blank">No Kings protests: What to expect at Saturday&#x27;s marches around the country</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-18 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss" target="_blank">Iran says restrictions on nuclear programme ‘terminated’ as deal expires</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-18 09:21</span>
             </div>
         </div>
 </div>
@@ -162,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz071s3vfzgzagglbym8.png" alt="Why curl and Your Browser Sometimes See Different Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rijultp/why-curl-and-your-browser-sometimes-see-different-results-3h2l" target="_blank">Why curl and Your Browser Sometimes See Different Results</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-18 18:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -182,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">Free Programing Books</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-18 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo" target="_blank">Cybersecurity 101 : data sanitization</a></span>
                 <span class="feed">DEV Community</span>
@@ -189,30 +214,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/10/ec2-instance-attestation/en/headerimage/generatedHeaderImage-1759684151123.jpg" alt="AWS Introduces EC2 Instance Attestation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/ec2-instance-attestation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces EC2 Instance Attestation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-18 13:05</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and" target="_blank">The IDEs we had 30 years ago ... and we lost</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-18 12:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/flipkart-prometheus-80million/en/headerimage/generatedHeaderImage-1759933956727.jpg" alt="Flipkart Scales Prometheus to 80 Million Metrics Using Hierarchical Federation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/flipkart-prometheus-80million/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Flipkart Scales Prometheus to 80 Million Metrics Using Hierarchical Federation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-18 12:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Snapdragon-X2-Display-Support" target="_blank">Linux Display Driver Patches Posted For The Qualcomm Snapdragon X2 Elite</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-18 13:43</span>
             </div>
         </div>
 </div>
@@ -241,6 +248,15 @@
                 <span class="title"><a href="https://gizmodo.com/sony-wants-its-horizon-zero-dawn-movie-to-hit-theaters-in-2027-2000673716" target="_blank">Sony Wants Its ‘Horizon Zero Dawn’ Movie to Hit Theaters in 2027</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-18 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/cilice.jpg?fit=1200%2C875&amp;quality=60&amp;ssl=1" alt="Pope is about to dismantle scandal-plagued Opus Dei, says expert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/18/pope-is-about-to-dismantle-scandal-plagued-opus-dei-says-expert.html" target="_blank">Pope is about to dismantle scandal-plagued Opus Dei, says expert</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-18 15:33</span>
             </div>
         </div>
 <div class="story">
@@ -279,15 +295,6 @@
                 <span class="time">2025-10-18 12:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/elon-musk-win-1024x681.jpg" alt="The Kremlin Wants Elon Musk to Build a Tunnel From Russia to the U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-kremlin-wants-elon-musk-to-build-a-tunnel-from-russia-to-the-u-s-2000673752" target="_blank">The Kremlin Wants Elon Musk to Build a Tunnel From Russia to the U.S.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 23:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
