@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 00:04:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-18 01:28:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, October 18, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/NUP_209020_00763-xwlss2-bjfezf.jpg" alt="Zelenskyy: ‘Trump didn&#x27;t say no’ but ‘didn&#x27;t say yes’ to Tomahawk missiles for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/zelenskyy-trump-didn-t-say-no-but-didn-t-say-yes-to-tomahawk-missiles-for-ukraine-250137669955" target="_blank">Zelenskyy: ‘Trump didn&#x27;t say no’ but ‘didn&#x27;t say yes’ to Tomahawk missiles for Ukraine</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-18 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/russia-ukraine-war-list-of-key-events-day-1332?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,332</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-18 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5578304/trump-george-santos-prison-sentence-commuted" target="_blank">President Trump commutes the prison sentence of George Santos</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-17 23:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77b/live/0f8fc3a0-ab87-11f0-a7be-25e543799ac8.jpg" alt="Zelensky guarded on Tomahawk missile talks with Trump after White House meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss" target="_blank">Hamas hands over remains of one more Israeli captive, vows to return rest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-17 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/17/nx-s1-5577974/typhoon-halong-western-alaska-villages-damaged-yukon-kuskokwim-delta" target="_blank">What we know about the devastating storm in Western Alaska</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-17 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/10/17/are-16-year-olds-too-young-to-vote?traffic_source=rss" target="_blank">Are 16-year-olds too young to vote?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-17 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/donald-trump-1-gty-gmh-251017_1760722661467_hpMain_4x3t_384.jpg" alt="Zelenskyy, at White House, says Trump has &#x27;big chance&#x27; to end Russia&#x27;s war on Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-zelenskyy-meet-white-house-discuss-russia-ukraine/story?id=126621845" target="_blank">Zelenskyy, at White House, says Trump has &#x27;big chance&#x27; to end Russia&#x27;s war on Ukraine</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-17 19:15</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="The future developer is not just a coder; they are an AI Operator.
+Someone who thinks in systems, speaks in prompts, and ships earlier.
+
+If you start building this identity now, you’ll be years ahead of the majority of the industry." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/the-future-developer-is-not-just-a-coder-they-are-an-ai-operator-someone-who-thinks-in-systems-2m5e" target="_blank">The future developer is not just a coder; they are an AI Operator.
+Someone who thinks in systems, speaks in prompts, and ships earlier.
+
+If you start building this identity now, you’ll be years ahead of the majority of the industry.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-18 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.17-Released" target="_blank">Wine 10.17 Now Defaults To EGL Renderer For OpenGL On X11</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-18 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/what-is-dracut.jpg?resize=406%2C232&amp;ssl=1" alt="Dracut in Ubuntu 25.10: What it is and Why it Matters (or Doesn’t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/what-is-dracut-ubuntu" target="_blank">Dracut in Ubuntu 25.10: What it is and Why it Matters (or Doesn’t)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-18 00:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,38 +225,20 @@
                 <span class="time">2025-10-17 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabeb03/build-an-ai-concierge-app-in-chatgpt-4gei" target="_blank">Build an AI Concierge App in ChatGPT</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-17 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703080&w=600" alt="Event-Driven Chaos Engineering: From Failure to Resilience in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/event-driven-chaos-engineering-for-kubernetes-resilience" target="_blank">Event-Driven Chaos Engineering: From Failure to Resilience in Kubernetes</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-17 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/openSFI" target="_blank">openSFI Is A Very Interesting Collaboration Between AMD &amp; Intel For Better Firmware Unification</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-17 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html" target="_blank">Friday Squid Blogging: Squid Inks Philippines Fisherman</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-17 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -250,6 +269,15 @@
                 <span class="title"><a href="https://gizmodo.com/the-kremlin-wants-elon-musk-to-build-a-tunnel-from-russia-to-the-u-s-2000673752" target="_blank">The Kremlin Wants Elon Musk to Build a Tunnel From Russia to the U.S.</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-17 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/george-santos-e1760740651442.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump commutes fellow fraudster George Santos&#x27;s sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/17/trump-commutes-fellow-fraudster-george-santoss-sentence.html" target="_blank">Trump commutes fellow fraudster George Santos&#x27;s sentence</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-17 22:40</span>
             </div>
         </div>
 <div class="story">
@@ -288,15 +316,6 @@
                 <span class="time">2025-10-17 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/10/d19f64db91ad92c656d503ffb2819206-1024x576.jpg" alt="CNN Is Trying to Sell a Streaming Service Again (Only More Expensive This Time)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cnn-is-trying-to-sell-a-streaming-service-again-only-more-expensive-this-time-2000673714" target="_blank">CNN Is Trying to Sell a Streaming Service Again (Only More Expensive This Time)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-17 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,22 +348,13 @@
                 <span class="time">2025-10-17 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5681.png" alt="Bunch Of Poseurs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5681" target="_blank">Bunch Of Poseurs</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-17 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
