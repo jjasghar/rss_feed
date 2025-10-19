@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 22:01:40 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-19 23:01:41 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -123,6 +127,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/802474/x-is-launching-a-marketplace-for-inactive-handles" target="_blank">X is launching a marketplace for inactive handles</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-19 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/19/openais-embarrassing-math/" target="_blank">OpenAI’s ‘embarrassing’ math</a></span>
                 <span class="feed">TechCrunch</span>
@@ -145,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night" target="_blank">You need to read the epic Argentinian horror novel Our Share of Night</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-19 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/" target="_blank">TechCrunch Mobility: A takeover that might not be hostile</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-19 16:15</span>
             </div>
         </div>
 </div>
@@ -230,6 +234,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/nightmare-room-stine-1280x853.jpg" alt="R.L. Stine’s Cult TV Series ‘The Nightmare Room’ Has Hit Tubi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/r-l-stines-cult-tv-series-the-nightmare-room-has-hit-tubi-2000674048" target="_blank">R.L. Stine’s Cult TV Series ‘The Nightmare Room’ Has Hit Tubi</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-19 20:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/batgirl-hed-1280x853.jpg" alt="At Least One ‘Batgirl’ Star Still Hopes It’ll Come Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,22 +278,13 @@
                 <span class="time">2025-10-19 12:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/chellie_pingree-1280x853.jpg" alt="House Rep Demands Answers About Delayed EPA Report on Toxic Forever Chemical" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/house-rep-demands-answers-about-delayed-epa-report-on-toxic-forever-chemical-2000673823" target="_blank">House Rep Demands Answers About Delayed EPA Report on Toxic Forever Chemical</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-19 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
