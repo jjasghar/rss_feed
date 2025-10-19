@@ -1,39 +1,47 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 03:22:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-19 04:03:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 04:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +57,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/japan-coalition-set-to-back-takaichi-as-first-woman-prime-minister-reports?traffic_source=rss" target="_blank">Japan coalition set to back Takaichi as first woman prime minister: Reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 03:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/16c86f10-ac9e-11f0-ba75-093eca1ac29b.jpg" alt="More damaging reports on Andrew appear as King faces calls to strip him of prince title" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdegkd00yz3o?at_medium=RSS&at_campaign=rss" target="_blank">More damaging reports on Andrew appear as King faces calls to strip him of prince title</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-19 03:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +109,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/bosnias-republika-srpska-installs-temporary-president-as-dodik-steps-aside?traffic_source=rss" target="_blank">Bosnia’s Republika Srpska installs temporary president as Dodik steps aside</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-18 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a6/live/471bcad0-ac45-11f0-ba75-093eca1ac29b.jpg" alt="&#x27;No Kings&#x27; protests draw huge crowds as anti-Trump rallies sweep across US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;No Kings&#x27; protests draw huge crowds as anti-Trump rallies sweep across US</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-18 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/no-kings-dc-rt-jt-251018_1760803920526_hpMain_4x3t_384.jpg" alt="Streets filled across the country for &#x27;No Kings&#x27; peaceful rallies protesting Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/nationwide-kings-rallies-set-protest-trump/story?id=126611770" target="_blank">Streets filled across the country for &#x27;No Kings&#x27; peaceful rallies protesting Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-18 21:48</span>
             </div>
         </div>
 </div>
@@ -168,6 +176,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg0gtk0kxfdlfzocidm30.png" alt="Build Your Own Forum with FastAPI: Step 1 - A Minimal Forum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-1-a-minimal-forum-1apg" target="_blank">Build Your Own Forum with FastAPI: Step 1 - A Minimal Forum</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-19 03:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AhuH45ks-6laHlsrgySBVUQ.jpeg" alt="Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,20 +229,20 @@
                 <span class="time">2025-10-18 19:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz071s3vfzgzagglbym8.png" alt="Why curl and Your Browser Sometimes See Different Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rijultp/why-curl-and-your-browser-sometimes-see-different-results-3h2l" target="_blank">Why curl and Your Browser Sometimes See Different Results</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-18 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Lenovo-M0520-Wired-Desktop-Speaker-Set.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your listening experience with this $17 Lenovo Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/18/upgrade-your-listening-experience-with-this-17-lenovo-speaker.html" target="_blank">Upgrade your listening experience with this $17 Lenovo Speaker</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-18 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/marvel-rivals-zombies-1280x853.jpg" alt="A New ‘Marvel Rivals’ Mode Brings in Some ‘Marvel Zombies’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +288,6 @@
                 <span class="time">2025-10-18 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/02/9515a531afb1b893a4a9eaef175bb25e-1024x575.jpg" alt="Salesforce Billionaire Marc Benioff Apologizes for Suggesting National Guard Should Activate in San Francisco" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/salesforce-benioff-apologizes-about-national-guard-2000673833" target="_blank">Salesforce Billionaire Marc Benioff Apologizes for Suggesting National Guard Should Activate in San Francisco</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-18 13:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 04:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
