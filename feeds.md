@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 14:01:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-19 15:01:54 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/19/gazas-traumatised-children-urgently-need-the-hope-education-offers?traffic_source=rss" target="_blank">Gaza’s traumatised children urgently need the hope education offers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-MIKE-JOHNSON-20251019-ABC-JH_1760879653060_hpMain_4x3t_384.jpeg" alt="Johnson defends calling anti-Trump protests &#x27;hate America&#x27; rallies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/johnson-defends-calling-anti-trump-protests-hate-america/story?id=126658207" target="_blank">Johnson defends calling anti-Trump protests &#x27;hate America&#x27; rallies</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-19 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5579554/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza" target="_blank">Israel and Hamas accuse each other of breaching fragile ceasefire in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/louvre-main_1760869461699_hpMain_4x3t_384.jpg" alt="Louvre Museum closes after brazen theft of jewels with &#x27;inestimable&#x27; value" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +101,20 @@
                 <span class="time">2025-10-19 11:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5578303/pickleball-eye-injuries-protection" target="_blank">Grab the goggles. Pickleball eye injuries are on the rise</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/19/aje-onl-qt_mouin_rabbani-191025?traffic_source=rss" target="_blank">Israel sending gangs, militias to “wreak havoc” in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6b/live/0813ef50-acce-11f0-b2a1-6f537f66f9aa.jpg" alt="Louvre museum in Paris closed after robbery, French culture minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78z53v43g1o?at_medium=RSS&at_campaign=rss" target="_blank">Louvre museum in Paris closed after robbery, French culture minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-19 09:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests" target="_blank">Organizers say over 7 million showed up to No Kings protests</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-19 14:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,29 @@
                 <span class="time">2025-10-19 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/" target="_blank">Spyware maker NSO Group blocked from WhatsApp</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-18 20:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uratmangun/resume-ai-creator-building-an-intelligent-resume-platform-with-mcp-and-auth0-4039" target="_blank">Resume AI Creator: Building an Intelligent Resume Platform with MCP and Auth0</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-19 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/gimp-snap.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP Announce Official Snap Package for Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/official-gimp-snap-package-announced" target="_blank">GIMP Announce Official Snap Package for Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-19 14:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://demo.duckui.com" target="_blank">Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-19 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free" target="_blank">The future of Python web services looks GIL-free</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-19 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AYANEO-3-Linux-Platform-Driver" target="_blank">AYANEO 3 Modular Handheld Console Prepares For Better Linux Support With New Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-19 10:43</span>
             </div>
         </div>
 </div>
@@ -294,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
