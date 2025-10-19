@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 19:01:27 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-10-19 20:02:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/what-we-know-about-pakistan-afghanistan-ceasefire-will-it-hold?traffic_source=rss" target="_blank">What we know about Pakistan-Afghanistan ceasefire, will it hold?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-19 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5579565/sam-rivers-limp-bizkit-dies" target="_blank">Sam Rivers, bassist and founding member of Limp Bizkit, dies aged 48</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-19 18:19</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +101,29 @@
                 <span class="time">2025-10-19 14:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5579554/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza" target="_blank">Israel strikes Gaza as both IDF and Hamas accuse each other of breaching ceasefire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-19 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/19/openais-embarrassing-math/" target="_blank">OpenAI’s ‘embarrassing’ math</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-19 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/03/Boeing_737_MAX_7-1-1-500x500.jpg" alt="Something from “space” may have just struck a United Airlines flight over Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/" target="_blank">Something from “space” may have just struck a United Airlines flight over Utah</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-19 18:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/" target="_blank">11 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-19 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests" target="_blank">Organizers say over 7 million showed up to No Kings protests</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-19 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal" target="_blank">This weekend is your last chance to get a month of Disney Plus starting at $9.99</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-19 14:00</span>
             </div>
         </div>
 </div>
@@ -279,8 +283,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
