@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 09:01:33 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-19 10:01:44 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6b/live/0813ef50-acce-11f0-b2a1-6f537f66f9aa.jpg" alt="Louvre museum in Paris closed after robbery, French culture minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78z53v43g1o?at_medium=RSS&at_campaign=rss" target="_blank">Louvre museum in Paris closed after robbery, French culture minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-19 09:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb39/live/a2f6e9a0-acc9-11f0-8be0-edba131ad73f.jpg" alt="Met Police to look into claims Andrew sought information on accuser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3970mxwz9vo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police to look into claims Andrew sought information on accuser</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-19 09:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/19/week-in-pictures-from-death-of-ex-kenyan-pm-to-gaza-ceasefire?traffic_source=rss" target="_blank">Week in Pictures: From death of ex-Kenyan PM to Gaza ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 09:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdegkd00yz3o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew sought personal information about accuser, reports claim</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-19 07:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/japan-coalition-set-to-back-takaichi-as-first-woman-prime-minister-reports?traffic_source=rss" target="_blank">Japan coalition set to back Takaichi as first woman prime minister: Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/16c86f10-ac9e-11f0-ba75-093eca1ac29b.jpg" alt="More damaging reports on Andrew appear as King faces calls to strip him of prince title" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdegkd00yz3o?at_medium=RSS&at_campaign=rss" target="_blank">More damaging reports on Andrew appear as King faces calls to strip him of prince title</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-19 03:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/afghanistan-pakistan-agree-to-immediate-ceasefire-after-talks-in-doha?traffic_source=rss" target="_blank">Afghanistan, Pakistan agree to immediate ceasefire after talks in Doha</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 02:35</span>
             </div>
         </div>
 </div>
@@ -293,7 +291,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 09:01 UTC
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
