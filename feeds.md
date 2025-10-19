@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 16:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-19 17:01:36 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb39/live/a2f6e9a0-acc9-11f0-8be0-edba131ad73f.jpg" alt="Met Police looking into claims Andrew sought information on accuser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3970mxwz9vo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police looking into claims Andrew sought information on accuser</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-19 15:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,27 +82,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5579554/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza" target="_blank">Israel and Hamas accuse each other of breaching fragile ceasefire in Gaza</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5579554/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza" target="_blank">Israel strikes Gaza as both IDF and Hamas accuse each other of breaching ceasefire</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-19 14:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/louvre-main_1760869461699_hpMain_4x3t_384.jpg" alt="Louvre Museum closes after brazen theft of jewels with &#x27;inestimable&#x27; value" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/louvre-museum-closes-after-robbery-french-minister/story?id=126657104" target="_blank">Louvre Museum closes after brazen theft of jewels with &#x27;inestimable&#x27; value</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-19 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d90e/live/5febcae0-ac8d-11f0-aa13-0b0479f6f42a.jpg" alt="Israel launches air strikes in Gaza, accusing Hamas of &#x27;blatant violation of ceasefire&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss" target="_blank">Israel launches air strikes in Gaza, accusing Hamas of &#x27;blatant violation of ceasefire&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-19 12:46</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5579554/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza" target="_blank">Israel and Hamas accuse each other of breaching fragile ceasefire in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-19 14:00</span>
             </div>
         </div>
 </div>
@@ -104,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/" target="_blank">TechCrunch Mobility: A takeover that might not be hostile</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-19 16:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +155,20 @@
                 <span class="time">2025-10-19 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f341c2a5cfb8b859b484fd/master/pass/Review-%20Das%20Keyboard%20DeltaForce%2065.png" alt="Das Keyboard DeltaForce 65 Review: A Keyboard With Odd Layout Choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/das-keyboard-deltaforce-65/" target="_blank">Das Keyboard DeltaForce 65 Review: A Keyboard With Odd Layout Choices</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d" target="_blank">Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-19 16:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,6 +190,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://replacement.ai" target="_blank">Replacement.ai</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-19 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp" target="_blank">How to Build an Agent (in JavaScript)</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,29 +214,20 @@
                 <span class="time">2025-10-19 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev-tngsh/how-llms-will-always-praise-your-code-even-when-its-absurd-2017" target="_blank">How LLMs Will Always Praise Your Code, Even When It’s Absurd</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-19 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://demo.duckui.com" target="_blank">Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-19 11:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/jackery-power-station-1280x853.jpg" alt="Amazon Clears Out Jackery 1500W Power Station at a Record Low, No More Winter Power Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-clears-out-jackery-1500w-power-station-at-a-record-low-no-more-winter-power-issues-2000636942" target="_blank">Amazon Clears Out Jackery 1500W Power Station at a Record Low, No More Winter Power Issues</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-19 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/lego-f1-cars-build-1280x853.jpg" alt="Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,22 +264,13 @@
                 <span class="time">2025-10-18 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/horizon-fw-1280x853.jpg" alt="Sony Wants Its ‘Horizon Zero Dawn’ Movie to Hit Theaters in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sony-wants-its-horizon-zero-dawn-movie-to-hit-theaters-in-2027-2000673716" target="_blank">Sony Wants Its ‘Horizon Zero Dawn’ Movie to Hit Theaters in 2027</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-18 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
