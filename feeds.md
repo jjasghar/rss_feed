@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 20:02:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-10-19 21:01:40 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/19/will-pakistan-afghanistan-peace-agreement-hold?traffic_source=rss" target="_blank">Will the Pakistan-Afghanistan peace agreement hold?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d90e/live/5febcae0-ac8d-11f0-aa13-0b0479f6f42a.jpg" alt="Israel says it will return to ceasefire after Gaza strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss" target="_blank">Israel says it will return to ceasefire after Gaza strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-19 19:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/trump-calls-colombias-petro-a-drug-leader-says-us-to-cut-aid-to-country?traffic_source=rss" target="_blank">Trump calls Colombia’s Petro ‘a drug leader’, says US to cut aid to country</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-19 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/19/gazas-traumatised-children-urgently-need-the-hope-education-offers?traffic_source=rss" target="_blank">Gaza’s traumatised children urgently need the hope education offers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-MIKE-JOHNSON-20251019-ABC-JH_1760879653060_hpMain_4x3t_384.jpeg" alt="Johnson defends calling anti-Trump protests &#x27;hate America&#x27; rallies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/johnson-defends-calling-anti-trump-protests-hate-america/story?id=126658207" target="_blank">Johnson defends calling anti-Trump protests &#x27;hate America&#x27; rallies</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-19 14:25</span>
             </div>
         </div>
 </div>
@@ -166,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd0auzzx3dullb2adec3.png" alt="SREday SF 2025: Human Centered SRE In An AI World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dwayne_mcdaniel/sreday-sf-2025-human-centered-sre-in-an-ai-world-4a6k" target="_blank">SREday SF 2025: Human Centered SRE In An AI World</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-19 20:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/mirantis-k0rdent-12/en/headerimage/generatedHeaderImage-1760889488953.jpg" alt="Mirantis&#x27; Kubernetes Management Platform k0rdent Reaches v1.2.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -210,15 +213,6 @@
                 <span class="time">2025-10-19 14:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://replacement.ai" target="_blank">Replacement.ai</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-19 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -260,31 +254,13 @@
                 <span class="time">2025-10-19 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Lenovo-M0520-Wired-Desktop-Speaker-Set.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your listening experience with this $17 Lenovo Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/18/upgrade-your-listening-experience-with-this-17-lenovo-speaker.html" target="_blank">Upgrade your listening experience with this $17 Lenovo Speaker</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-18 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/marvel-rivals-zombies-1280x853.jpg" alt="A New ‘Marvel Rivals’ Mode Brings in Some ‘Marvel Zombies’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-new-marvel-rivals-mode-brings-in-some-marvel-zombies-2000673723" target="_blank">A New ‘Marvel Rivals’ Mode Brings in Some ‘Marvel Zombies’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-18 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
