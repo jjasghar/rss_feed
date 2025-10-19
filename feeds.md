@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 10:01:44 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-19 11:01:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/19/aje-onl-qt_mouin_rabbani-191025?traffic_source=rss" target="_blank">Israel sending gangs, militias to “wreak havoc” in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 10:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6b/live/0813ef50-acce-11f0-b2a1-6f537f66f9aa.jpg" alt="Louvre museum in Paris closed after robbery, French culture minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +96,20 @@
                 <span class="time">2025-10-19 07:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/16c86f10-ac9e-11f0-ba75-093eca1ac29b.jpg" alt="Andrew sought personal information about accuser, reports claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdegkd00yz3o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew sought personal information about accuser, reports claim</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-19 07:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f3327f62ad73fb8ea1f291/master/pass/Nest%20Indoor%20Cam%202K%20SOURCE%20Julian%20Chokkattu.PNG.jpg" alt="Gemini in Google Home Keeps Mistaking My Dog for a Cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gemini-in-google-home-keeps-mistaking-my-dog-for-a-cat/" target="_blank">Gemini in Google Home Keeps Mistaking My Dog for a Cat</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-19 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +155,29 @@
                 <span class="time">2025-10-18 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/" target="_blank">WhatsApp changes its terms to bar general purpose chatbots from its platform</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-18 14:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free" target="_blank">The future of Python web services looks GIL-free</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-19 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://welovesota.com/article/the-case-for-the-return-of-fine-tuning" target="_blank">The Case for the Return of Fine-Tuning</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-19 09:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2" target="_blank">Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-19 02:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html" target="_blank">Friendship Begins at Home</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-19 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Beta-2" target="_blank">FreeBSD 15.0 Beta 2 Released With Release Building Improvements, New &quot;Blocklist&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-19 00:25</span>
             </div>
         </div>
 </div>
@@ -291,7 +293,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:01 UTC
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
