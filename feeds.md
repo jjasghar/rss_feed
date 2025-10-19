@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 15:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-19 16:01:30 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/trump-calls-colombias-petro-a-drug-leader-says-us-to-cut-aid-to-country?traffic_source=rss" target="_blank">Trump calls Colombia’s Petro ‘a drug leader’, says US to cut aid to country</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,20 @@
                 <span class="time">2025-10-19 12:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/19/video-afghanistan-and-pakistan-agree-to-ceasefire-after-doha-talks?traffic_source=rss" target="_blank">Video: Afghanistan and Pakistan agree to ceasefire after Doha talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 11:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/" target="_blank">The White House is already one of the most blocked accounts on Bluesky</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-19 15:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/review/das-keyboard-deltaforce-65/" target="_blank">Das Keyboard DeltaForce 65 Review: A Keyboard With Odd Layout Choices</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f3327f62ad73fb8ea1f291/master/pass/Nest%20Indoor%20Cam%202K%20SOURCE%20Julian%20Chokkattu.PNG.jpg" alt="Gemini in Google Home Keeps Mistaking My Dog for a Cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gemini-in-google-home-keeps-mistaking-my-dog-for-a-cat/" target="_blank">Gemini in Google Home Keeps Mistaking My Dog for a Cat</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-19 10:30</span>
             </div>
         </div>
 </div>
@@ -269,36 +267,13 @@
                 <span class="time">2025-10-18 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/gulfstream-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Kristi Noem buys herself two Gulfstream jets using $172 million in taxpayer money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/18/kristi-noem-buys-herself-two-gulfstream-jets-using-172-million-in-taxpayer-money.html" target="_blank">Kristi Noem buys herself two Gulfstream jets using $172 million in taxpayer money</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-18 15:59</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1760733278-20251018.png" alt="Saturday Morning Breakfast Cereal - Irr" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/irr" target="_blank">Saturday Morning Breakfast Cereal - Irr</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-18 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
