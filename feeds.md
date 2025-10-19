@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 21:01:40 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-19 22:01:40 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +106,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/" target="_blank">Kohler unveils a camera for your toilet</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-19 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f54d436dbb311a3f54d8e9/master/pass/ENR_OctNoKings_12.jpg" alt="Scenes From Saturday&#x27;s Nationwide ‘No Kings’ Protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/no-kings-protests-photos/" target="_blank">Scenes From Saturday&#x27;s Nationwide ‘No Kings’ Protests</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-19 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/19/openais-embarrassing-math/" target="_blank">OpenAI’s ‘embarrassing’ math</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-19 18:56</span>
@@ -136,29 +156,20 @@
                 <span class="time">2025-10-19 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/" target="_blank">The White House is already one of the most blocked accounts on Bluesky</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-19 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f33148de9828658d5ac5e8/master/pass/Best%20Housewarming%20Gifts%20for%20Any%20Home.png" alt="11 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/" target="_blank">11 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-19 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adzhydra/claude-code-windows-shortcuts-plan-modeedit-mode-85d" target="_blank">Claude Code Windows Shortcuts Plan Mode/Edit Mode</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-19 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd0auzzx3dullb2adec3.png" alt="SREday SF 2025: Human Centered SRE In An AI World" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -166,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/dwayne_mcdaniel/sreday-sf-2025-human-centered-sre-in-an-ai-world-4a6k" target="_blank">SREday SF 2025: Human Centered SRE In An AI World</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-19 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake" target="_blank">Novo Nordisk&#x27;s Canadian Mistake</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-19 20:39</span>
             </div>
         </div>
 <div class="story">
@@ -195,29 +215,20 @@
                 <span class="time">2025-10-19 16:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uratmangun/resume-ai-creator-building-an-intelligent-resume-platform-with-mcp-and-auth0-4039" target="_blank">Resume AI Creator: Building an Intelligent Resume Platform with MCP and Auth0</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-19 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/gimp-snap.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP Announce Official Snap Package for Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/official-gimp-snap-package-announced" target="_blank">GIMP Announce Official Snap Package for Ubuntu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-19 14:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/roborock-qrevo-qv-35a-1280x853.jpg" alt="Roborock QV 35A Is Nearly 40% Off, Roborock Clears Out Prime Day Leftovers at a Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/roborock-qv-35a-is-nearly-40-off-roborock-clears-out-prime-day-leftovers-at-a-record-low-2000634453" target="_blank">Roborock QV 35A Is Nearly 40% Off, Roborock Clears Out Prime Day Leftovers at a Record Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-19 21:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/batgirl-hed-1280x853.jpg" alt="At Least One ‘Batgirl’ Star Still Hopes It’ll Come Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -234,6 +245,15 @@
                 <span class="title"><a href="https://kotaku.com/amazon-clears-out-jackery-1500w-power-station-at-a-record-low-no-more-winter-power-issues-2000636942" target="_blank">Amazon Clears Out Jackery 1500W Power Station at a Record Low, No More Winter Power Issues</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-19 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Give your kid&#x27;s screen time a glow-up with 75% off this Montessori-inspired app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/19/give-your-kids-screen-time-a-glow-up-with-75-off-this-montessori-inspired-app.html" target="_blank">Give your kid&#x27;s screen time a glow-up with 75% off this Montessori-inspired app</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-19 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -259,8 +279,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
