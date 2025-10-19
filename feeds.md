@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-18 23:01:54 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-19 00:04:50 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, October 18, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,12 +56,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a6/live/471bcad0-ac45-11f0-ba75-093eca1ac29b.jpg" alt="&#x27;No Kings&#x27; protests draw huge crowds as anti-Trump rallies sweep across US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;No Kings&#x27; protests draw huge crowds as anti-Trump rallies sweep across US</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-18 21:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/no-kings-dc-rt-jt-251018_1760803920526_hpMain_4x3t_384.jpg" alt="Streets filled across the country for &#x27;No Kings&#x27; peaceful rallies protesting Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/nationwide-kings-rallies-set-protest-trump/story?id=126611770" target="_blank">Streets filled across the country for &#x27;No Kings&#x27; peaceful rallies protesting Trump</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-18 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/10/18/nx-s1-5577704/photos-no-kings-protests" target="_blank">Photos: Scenes from the No Kings Protests</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-18 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -83,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/18/zimbabwes-governing-party-moves-to-extend-mnangagwa-presidency-to-2030?traffic_source=rss" target="_blank">Zimbabwe’s governing party moves to extend Mnangagwa presidency to 2030</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-18 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/no-kings-ny-03-gty-jt-251018_1760813255471_hpMain_4x3t_384.jpg" alt="What to know about nationwide &#x27;No Kings&#x27; rallies protesting Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/nationwide-kings-rallies-set-protest-trump/story?id=126611770" target="_blank">What to know about nationwide &#x27;No Kings&#x27; rallies protesting Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-18 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c40b/live/e104d7f0-ac44-11f0-b2a1-6f537f66f9aa.jpg" alt="Accuser&#x27;s brother urges King to strip Andrew of prince title" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdegkd00yz3o?at_medium=RSS&at_campaign=rss" target="_blank">Accuser&#x27;s brother urges King to strip Andrew of prince title</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-18 18:59</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felyucak8hzbzvjl7y1rw.png" alt="AI as Your Coding Coach: How Prompt Engineering Transforms Developers Into Lifelong Learners (with Research)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alvinveroy/ai-as-your-coding-coach-how-prompt-engineering-transforms-developers-into-lifelong-learners-with-4bfi" target="_blank">AI as Your Coding Coach: How Prompt Engineering Transforms Developers Into Lifelong Learners (with Research)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-18 23:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +216,6 @@
                 <span class="title"><a href="https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php" target="_blank">Tinnitus Neuromodulator</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-18 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1p1b" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-18 16:00</span>
             </div>
         </div>
 </div>
@@ -299,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
