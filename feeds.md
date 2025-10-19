@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 17:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-19 18:02:11 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +110,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night" target="_blank">You need to read the epic Argentinian horror novel Our Share of Night</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-19 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/" target="_blank">TechCrunch Mobility: A takeover that might not be hostile</a></span>
                 <span class="feed">TechCrunch</span>
@@ -117,6 +132,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/" target="_blank">The White House is already one of the most blocked accounts on Bluesky</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-19 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f33148de9828658d5ac5e8/master/pass/Best%20Housewarming%20Gifts%20for%20Any%20Home.png" alt="11 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/" target="_blank">11 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-19 15:03</span>
             </div>
         </div>
 <div class="story">
@@ -137,29 +161,20 @@
                 <span class="time">2025-10-19 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/801899/opera-neon-ai-browser-trial-run" target="_blank">Opera&amp;#8217;s Neon shows just how confusing AI browsers still are</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-19 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer" target="_blank">Time to catch ‘em all again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-19 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/mirantis-k0rdent-12/en/headerimage/generatedHeaderImage-1760889488953.jpg" alt="Mirantis&#x27; Kubernetes Management Platform k0rdent Reaches v1.2.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/mirantis-k0rdent-12/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mirantis&#x27; Kubernetes Management Platform k0rdent Reaches v1.2.0</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-19 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d" target="_blank">Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-19 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cs.stanford.edu/people/karpathy/advice.html" target="_blank">Doing well in your courses: Andrej&#x27;s advice for success (2013)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-19 16:31</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +218,6 @@
                 <span class="title"><a href="https://replacement.ai" target="_blank">Replacement.ai</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-19 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp" target="_blank">How to Build an Agent (in JavaScript)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-19 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc2-AMD-Reboot-Info" target="_blank">Linux 6.18-rc2 Will Make Sure To Wipe Stale Information About AMD System Reboots</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-19 13:00</span>
             </div>
         </div>
 </div>
@@ -269,8 +275,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
