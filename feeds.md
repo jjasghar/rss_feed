@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 11:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-19 12:02:22 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/19/video-afghanistan-and-pakistan-agree-to-ceasefire-after-doha-talks?traffic_source=rss" target="_blank">Video: Afghanistan and Pakistan agree to ceasefire after Doha talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 11:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5578303/pickleball-eye-injuries-protection" target="_blank">Grab the goggles. Pickleball eye injuries are on the rise</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +99,29 @@
                 <span class="time">2025-10-19 09:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/taiwan-opposition-elects-new-leader-who-wants-peace-with-china?traffic_source=rss" target="_blank">Taiwan opposition elects new leader who wants peace with China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 08:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/19/bernie-sanders-condemns-trump-and-billionaires-at-no-kings-rally?traffic_source=rss" target="_blank">Bernie Sanders condemns Trump and billionaires at ‘No Kings’ rally</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 07:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer" target="_blank">Time to catch ‘em all again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f341c2a5cfb8b859b484fd/master/pass/Review-%20Das%20Keyboard%20DeltaForce%2065.png" alt="Das Keyboard DeltaForce 65 Review: A Keyboard With Odd Layout Choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/das-keyboard-deltaforce-65/" target="_blank">Das Keyboard DeltaForce 65 Review: A Keyboard With Odd Layout Choices</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f3327f62ad73fb8ea1f291/master/pass/Nest%20Indoor%20Cam%202K%20SOURCE%20Julian%20Chokkattu.PNG.jpg" alt="Gemini in Google Home Keeps Mistaking My Dog for a Cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +158,6 @@
                 <span class="time">2025-10-18 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ed77d22e2c9b45248c9113/master/pass/Uncanny_Valley_GettyImages-912015482.jpg" alt="The New Power of Far-Right Influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-the-new-power-of-far-right-influencers/" target="_blank">The New Power of Far-Right Influencers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-18 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker" target="_blank">8BitDo’s new collection celebrates the NES’s 40th anniversary</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,9 +166,36 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev-tngsh/how-llms-will-always-praise-your-code-even-when-its-absurd-2017" target="_blank">How LLMs Will Always Praise Your Code, Even When It’s Absurd</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-19 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://demo.duckui.com" target="_blank">Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-19 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free" target="_blank">The future of Python web services looks GIL-free</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-19 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AYANEO-3-Linux-Platform-Driver" target="_blank">AYANEO 3 Modular Handheld Console Prepares For Better Linux Support With New Driver</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2025-10-19 10:43</span>
             </div>
         </div>
@@ -187,38 +217,20 @@
                 <span class="time">2025-10-19 05:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flmo5komlnz3kgkd0qsru.png" alt="🚫 Dopamine Detox - How I Rewired My Brain for Focus 💻" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nurthedev/dopamine-detox-how-i-rewired-my-brain-for-focus-553j" target="_blank">🚫 Dopamine Detox - How I Rewired My Brain for Focus 💻</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-19 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg0gtk0kxfdlfzocidm30.png" alt="Build Your Own Forum with FastAPI: Step 1 - A Minimal Forum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-1-a-minimal-forum-1apg" target="_blank">Build Your Own Forum with FastAPI: Step 1 - A Minimal Forum</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-19 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AhuH45ks-6laHlsrgySBVUQ.jpeg" alt="Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2" target="_blank">Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-19 02:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/chellie_pingree-1280x853.jpg" alt="House Rep Demands Answers About Delayed EPA Report on Toxic Forever Chemical" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/house-rep-demands-answers-about-delayed-epa-report-on-toxic-forever-chemical-2000673823" target="_blank">House Rep Demands Answers About Delayed EPA Report on Toxic Forever Chemical</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Lenovo-M0520-Wired-Desktop-Speaker-Set.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your listening experience with this $17 Lenovo Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +276,6 @@
                 <span class="time">2025-10-18 15:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Bugonia-Yorgos-Lanthimos-Emma-Stone-1280x853.jpg" alt="Wanna See ‘Bugonia’ Early? Go Bald!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wanna-see-bugonia-early-go-bald-2000673884" target="_blank">Wanna See ‘Bugonia’ Early? Go Bald!</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-18 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
