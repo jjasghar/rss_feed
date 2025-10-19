@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 13:05:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-19 14:01:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, October 19, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/louvre-main_1760869461699_hpMain_4x3t_384.jpg" alt="Louvre Museum closes after brazen theft of jewels with &#x27;inestimable&#x27; value" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/louvre-museum-closes-after-robbery-french-minister/story?id=126657104" target="_blank">Louvre Museum closes after brazen theft of jewels with &#x27;inestimable&#x27; value</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-19 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d90e/live/5febcae0-ac8d-11f0-aa13-0b0479f6f42a.jpg" alt="Israel launches air strikes in Gaza, accusing Hamas of &#x27;blatant violation of ceasefire&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss" target="_blank">Israel launches air strikes in Gaza, accusing Hamas of &#x27;blatant violation of ceasefire&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-19 12:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +98,20 @@
                 <span class="time">2025-10-19 09:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb39/live/a2f6e9a0-acc9-11f0-8be0-edba131ad73f.jpg" alt="Met Police to look into claims Andrew sought information on accuser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3970mxwz9vo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police to look into claims Andrew sought information on accuser</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-19 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/10/19/week-in-pictures-from-death-of-ex-kenyan-pm-to-gaza-ceasefire?traffic_source=rss" target="_blank">Week in Pictures: From death of ex-Kenyan PM to Gaza ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 09:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal" target="_blank">This weekend is your last chance to get a month of Disney Plus starting at $9.99</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/" target="_blank">Spyware maker NSO Group blocked from WhatsApp</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-18 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war" target="_blank">TiVo won the court battles, but lost the TV war</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-18 16:00</span>
             </div>
         </div>
 </div>
@@ -227,6 +222,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/lego-f1-cars-build-1280x853.jpg" alt="Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/formula-1-cars-are-selling-for-pennies-lego-offloads-remaining-stock-during-the-austin-gp-2000636932" target="_blank">Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-19 12:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/chellie_pingree-1280x853.jpg" alt="House Rep Demands Answers About Delayed EPA Report on Toxic Forever Chemical" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,15 +275,6 @@
                 <span class="time">2025-10-18 15:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/cilice.jpg?fit=1200%2C875&amp;quality=60&amp;ssl=1" alt="Pope is about to dismantle scandal-plagued Opus Dei, says expert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/18/pope-is-about-to-dismantle-scandal-plagued-opus-dei-says-expert.html" target="_blank">Pope is about to dismantle scandal-plagued Opus Dei, says expert</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-18 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
