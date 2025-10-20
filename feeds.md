@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-19 23:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-20 00:05:14 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, October 19, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/russia-ukraine-war-list-of-key-events-day-1334?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,334</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 23:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c3970mxwz9vo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police looking into claims Andrew sought information on accuser</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-19 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/trump-calls-colombias-petro-a-drug-leader-says-us-to-cut-aid-to-country?traffic_source=rss" target="_blank">Trump calls Colombia’s Petro ‘a drug leader’, says US to cut aid to country</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 14:52</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ishaan_agrawal/urgent-a-self-propagating-worm-is-hitting-vscode-extensions-right-now-heres-how-to-protect-3pdo" target="_blank">🚨URGENT: A Self-Propagating Worm Is Hitting VSCode Extensions Right Now— Here’s How to Protect Yourself</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/adzhydra/claude-code-windows-shortcuts-plan-modeedit-mode-85d" target="_blank">Claude Code Windows Shortcuts Plan Mode/Edit Mode</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-19 21:32</span>
@@ -208,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d" target="_blank">Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-19 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cs.stanford.edu/people/karpathy/advice.html" target="_blank">Doing well in your courses: Andrej&#x27;s advice for success (2013)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-19 16:31</span>
             </div>
         </div>
 </div>
@@ -283,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
