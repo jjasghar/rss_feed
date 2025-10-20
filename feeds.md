@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 01:29:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-20 02:31:00 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/japan-to-vote-for-new-pm-amid-political-uncertainty-all-you-need-to-know?traffic_source=rss" target="_blank">Japan to vote for new PM amid political uncertainty: All you need to know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 02:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/louvre-main_1760869461699_hpMain_4x3t_384.jpg" alt="Louvre Museum heist: Jewels with &#x27;inestimable&#x27; value stolen from Napoleon collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,30 +76,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760915349811_wnn_dha_gaza_ceasefire_in_jeopardy_251019_1920x1080-85de3s.jpg" alt="Israel and Hamas trade accusations of ceasefire violations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/israel-and-hamas-trade-accusations-of-ceasefire-violations-250198085758" target="_blank">Israel and Hamas trade accusations of ceasefire violations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-19 23:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea3/live/d65cdc80-ad34-11f0-b2a1-6f537f66f9aa.jpg" alt="Giuffre thought she might &#x27;die a sex slave&#x27; at hands of Epstein and his circle, memoir reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1e3leqx89zo?at_medium=RSS&at_campaign=rss" target="_blank">Giuffre thought she might &#x27;die a sex slave&#x27; at hands of Epstein and his circle, memoir reveals</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-19 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/19/will-pakistan-afghanistan-peace-agreement-hold?traffic_source=rss" target="_blank">Will the Pakistan-Afghanistan peace agreement hold?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d90e/live/5febcae0-ac8d-11f0-aa13-0b0479f6f42a.jpg" alt="Israel says it will return to ceasefire after Gaza strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss" target="_blank">Israel says it will return to ceasefire after Gaza strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-19 19:32</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc2-Released" target="_blank">Linux 6.18-rc2 Released: &quot;rc2 is on the bigger side&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-20 01:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hyperkai/list-functions-in-python-2-1nf2" target="_blank">List functions in Python (2)</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,20 +211,20 @@
                 <span class="time">2025-10-19 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake" target="_blank">Novo Nordisk&#x27;s Canadian Mistake</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-19 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dell-15-1-laptop-1280x853.jpg" alt="Dell Is Quietly Selling This 15″ 1TB Laptop for 63% Off on Amazon, Still Full Price on the Official Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dell-is-quietly-selling-this-15-1tb-laptop-for-70-off-on-amazon-still-full-price-on-the-official-site-2000634459" target="_blank">Dell Is Quietly Selling This 15″ 1TB Laptop for 63% Off on Amazon, Still Full Price on the Official Site</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-20 00:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/roborock-qrevo-qv-35a-1280x853.jpg" alt="Roborock QV 35A Is Nearly 40% Off, Roborock Clears Out Prime Day Leftovers at a Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,22 +270,13 @@
                 <span class="time">2025-10-19 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/lego-f1-cars-build-1280x853.jpg" alt="Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/formula-1-cars-are-selling-for-pennies-lego-offloads-remaining-stock-during-the-austin-gp-2000636932" target="_blank">Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-19 12:35</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
