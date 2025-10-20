@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 04:05:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 05:02:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 04:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/20/max-verstappen-wins-f1-us-grand-prix-cuts-piastri-standings-lead?traffic_source=rss" target="_blank">Max Verstappen wins F1 US Grand Prix; cuts Piastri standings lead</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 04:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc3f/live/ca65c050-ad6a-11f0-aa13-0b0479f6f42a.jpg" alt="Two dead after cargo plane skids off Hong Kong runway into sea" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0eeqz732o?at_medium=RSS&at_campaign=rss" target="_blank">Two dead after cargo plane skids off Hong Kong runway into sea</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-20 04:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/20/nx-s1-5579661/trump-tariffs-aid-colombia-amid-clash-drugs-petro" target="_blank">Trump announces tariffs and an end to U.S. aid to Colombia amid clash over drug trade</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-20 04:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss" target="_blank">Live: Israel kills 97 Palestinians in Gaza since start of ceasefire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-19 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/russia-ukraine-war-list-of-key-events-day-1334?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,334</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 23:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1760915349811_wnn_dha_gaza_ceasefire_in_jeopardy_251019_1920x1080-85de3s.jpg" alt="Israel and Hamas trade accusations of ceasefire violations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/israel-and-hamas-trade-accusations-of-ceasefire-violations-250198085758" target="_blank">Israel and Hamas trade accusations of ceasefire violations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-19 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea3/live/d65cdc80-ad34-11f0-b2a1-6f537f66f9aa.jpg" alt="Giuffre thought she might &#x27;die a sex slave&#x27; at hands of Epstein and his circle, memoir reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1e3leqx89zo?at_medium=RSS&at_campaign=rss" target="_blank">Giuffre thought she might &#x27;die a sex slave&#x27; at hands of Epstein and his circle, memoir reveals</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-19 21:17</span>
             </div>
         </div>
 </div>
@@ -242,6 +237,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/1-Year-Sams-Club-Membership-with-Auto-Renew-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Gifts, decor, and big savings — the holidays begin with a $15 Sam&#x27;s Club membership" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/19/gifts-decor-and-big-savings-the-holidays-begin-with-a-15-sams-club-membership.html" target="_blank">Gifts, decor, and big savings — the holidays begin with a $15 Sam&#x27;s Club membership</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-19 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/nightmare-room-stine-1280x853.jpg" alt="R.L. Stine’s Cult TV Series ‘The Nightmare Room’ Has Hit Tubi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,15 +272,6 @@
                 <span class="time">2025-10-19 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Give your kid&#x27;s screen time a glow-up with 75% off this Montessori-inspired app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/19/give-your-kids-screen-time-a-glow-up-with-75-off-this-montessori-inspired-app.html" target="_blank">Give your kid&#x27;s screen time a glow-up with 75% off this Montessori-inspired app</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,13 +286,22 @@
                 <span class="time">2025-10-20 01:04</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1760840493-20251019.png" alt="Saturday Morning Breakfast Cereal - Pray" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/pray-2" target="_blank">Saturday Morning Breakfast Cereal - Pray</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-19 15:20</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
