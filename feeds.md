@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 17:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-20 18:02:37 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/musk-cybertruck-500x500-1760980572.jpg" alt="Musk’s $1 trillion pay plan doesn’t force him to keep focus on Tesla, critics say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/musks-1-trillion-pay-plan-doesnt-force-him-to-keep-focus-on-tesla-critics-say/" target="_blank">Musk’s $1 trillion pay plan doesn’t force him to keep focus on Tesla, critics say</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-20 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale" target="_blank">Iniu&amp;#8217;s tiny 10,000mAh power bank is almost half off right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-20 17:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68f16b5af35e2b5038d3c8f8/master/pass/Uncanny-Valley-Federal-Workers-Pawns-Business-1363781664.jpg" alt="WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -134,29 +157,38 @@
                 <span class="time">2025-10-20 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2241837010-500x500.jpg" alt="F1 in Texas: Well, now the championship is exciting again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/f1-in-texas-well-now-the-championship-is-exciting-again/" target="_blank">F1 in Texas: Well, now the championship is exciting again</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-20 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f629ff6ae3c0e73f22fd3b/master/pass/GettyImages-2207320705.jpg" alt="What the Huge AWS Outage Reveals About the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/" target="_blank">What the Huge AWS Outage Reveals About the Internet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-20 14:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/softden_2005/the-art-of-speech-in-islam-wisdom-from-the-quran-and-hadith-3bln" target="_blank">The Art of Speech in Islam: Wisdom from the Quran and Hadith</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703611&w=600" alt="MultiCloudJ: Building Cloud-Agnostic Applications in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/multicloudj-cloud-agnostic-applications-java" target="_blank">MultiCloudJ: Building Cloud-Agnostic Applications in Java</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-20 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/" target="_blank">Inside the breach that broke the internet: The untold story of Log4Shell</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-20 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq4mndwimb7yrjcyph9e6.png" alt="All Data and AI Weekly #212: 20 Oct 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,33 +214,6 @@
                 <span class="title"><a href="https://nathan.rs/posts/roberta-diffusion/" target="_blank">BERT Is Just a Single Text Diffusion Step</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-20 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/windows-linux-amd-9950x-9950x3d" target="_blank">AMD Ryzen 9 9950X vs. 9950X3D On Windows 11 &amp; Ubuntu Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/" target="_blank">From multilingual semantic search to virtual assistants at Bosch Digital</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr70x2j886jkvylcntngs.png" alt="Day 7 | 50 Projects in 50 Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/augusta08/day-7-50-projects-in-50-days-4ga2" target="_blank">Day 7 | 50 Projects in 50 Days</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 13:58</span>
             </div>
         </div>
 </div>
@@ -312,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
