@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 15:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 16:01:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/mongolias-president-vetoes-effort-to-unseat-pm?traffic_source=rss" target="_blank">Mongolia’s president vetoes effort to unseat PM</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/eu-moves-to-ban-russian-energy-imports-by-2028?traffic_source=rss" target="_blank">EU moves to ban Russian energy imports by 2028</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-20 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/a06e0080-ada8-11f0-aa13-0b0479f6f42a.jpg" alt="Deadly Gaza flare-up tests Israel-Hamas ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czxk8k4xlv1o?at_medium=RSS&at_campaign=rss" target="_blank">Deadly Gaza flare-up tests Israel-Hamas ceasefire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-20 12:48</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +103,29 @@
                 <span class="time">2025-10-20 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/zelenskyy-eyes-invite-to-trump-putin-talks-in-budapest?traffic_source=rss" target="_blank">Zelenskyy eyes invite to Trump-Putin talks in Budapest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-20 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/20/tensions-mount-alassane-ouattara-seeks-fourth-term-ivory-coast-vote-president" target="_blank">Tensions mount as Alassane Ouattara seeks fourth term in Ivory Coast vote</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-20 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/20/regulators-probe-waymo-after-its-robotaxi-drove-around-a-stopped-school-bus/" target="_blank">Regulators probe Waymo after its robotaxi drove around a stopped school bus</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-20 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026" target="_blank">The Sims Mobile is shutting down next year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-20 15:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +162,29 @@
                 <span class="time">2025-10-20 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/" target="_blank">Final Countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png" alt="6 Best VPN Services (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-vpn/" target="_blank">6 Best VPN Services (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-20 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq4mndwimb7yrjcyph9e6.png" alt="All Data and AI Weekly #212: 20 Oct 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-212-20-oct-2025-3h6k" target="_blank">All Data and AI Weekly #212: 20 Oct 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703600&w=600" alt="Django Architecture vs FastAPI: A Learning Path" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/django-architecture-versus-fastapi" target="_blank">Django Architecture vs FastAPI: A Learning Path</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-20 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,6 +192,15 @@
                 <span class="title"><a href="https://nathan.rs/posts/roberta-diffusion/" target="_blank">BERT Is Just a Single Text Diffusion Step</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-20 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/windows-linux-amd-9950x-9950x3d" target="_blank">AMD Ryzen 9 9950X vs. 9950X3D On Windows 11 &amp; Ubuntu Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-20 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/augusta08/day-7-50-projects-in-50-days-4ga2" target="_blank">Day 7 | 50 Projects in 50 Days</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-20 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703567&w=600" alt="Should You Use Azure Data Factory?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-use-azure-data-factory" target="_blank">Should You Use Azure Data Factory?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-20 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/srivenkatareddy/aws-outage-chaos-lessons-in-resilience-and-how-configbee-stayed-unfazed-2f4a" target="_blank">AWS Outage Chaos: Lessons in Resilience and How ConfigBee Stayed Unfazed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Tenstorrent-Blackhole-Linux-619" target="_blank">Initial Tenstorrent Blackhole Support Aiming For Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-20 12:14</span>
             </div>
         </div>
 </div>
@@ -240,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/REOLINKsolar-1280x853.jpg" alt="Reolink Solar Powered Outdoor Security Camera Is Selling Out Fast at Its Lowest Price Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/reolink-solar-powered-outdoor-security-camera-is-selling-out-fast-at-its-lowest-price-yet-2000636710" target="_blank">Reolink Solar Powered Outdoor Security Camera Is Selling Out Fast at Its Lowest Price Yet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-20 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/tokamak-energy-nuclear-fusion-footage-capture-1280x853.jpg" alt="Ever Wondered What Nuclear Fusion Looks Like? We Have Pics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ever-wondered-what-nuclear-fusion-looks-like-we-have-pics-2000674325" target="_blank">Ever Wondered What Nuclear Fusion Looks Like? We Have Pics</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-20 15:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/meat-grocery-store-1280x853.jpg" alt="New Map Reveals the Carbon Cost of Meat in Every U.S. City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +294,6 @@
                 <span class="time">2025-10-20 12:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/shutterstock_309890969.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Never accept a puppy from a scammer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/20/never-accept-a-puppy-from-a-scammer.html" target="_blank">Never accept a puppy from a scammer</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-20 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/superman-shutterstock_2269342849-e1760962761204.jpg?fit=768%2C403&amp;quality=60&amp;ssl=1" alt="Christopher Reeve&#x27;s Superman costume is up for auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/20/christopher-reeves-superman-costume-is-up-for-auction.html" target="_blank">Christopher Reeve&#x27;s Superman costume is up for auction</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-20 12:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,22 +317,13 @@
                 <span class="time">2025-10-20 01:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1760840493-20251019.png" alt="Saturday Morning Breakfast Cereal - Pray" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/pray-2" target="_blank">Saturday Morning Breakfast Cereal - Pray</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-19 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
