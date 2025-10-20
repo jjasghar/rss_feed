@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 03:22:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 04:05:09 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/puter-js-ai-without-api/" target="_blank">I Used This Open Source Library to Integrate OpenAI, Claude, Gemini to Websites Without API Keys</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-20 03:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tony_chase_83955825282edc/pages-services-in-depth-analysis-why-regional-niche-providers-might-be-better-for-you-36c" target="_blank">Pages Services In-Depth Analysis: Why Regional Niche Providers Might Be Better for You</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/ishaan_agrawal/urgent-a-self-propagating-worm-is-hitting-vscode-extensions-right-now-heres-how-to-protect-3pdo" target="_blank">🚨URGENT: A Self-Propagating Worm Is Hitting VSCode Extensions Right Now— Here’s How to Protect Yourself</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-20 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adzhydra/claude-code-windows-shortcuts-plan-modeedit-mode-85d" target="_blank">Claude Code Windows Shortcuts Plan Mode/Edit Mode</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-19 21:32</span>
             </div>
         </div>
 </div>
@@ -277,11 +279,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5682.png" alt="No Ego-Searching" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5682" target="_blank">No Ego-Searching</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-20 01:04</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
