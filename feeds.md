@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 05:02:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 06:02:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/20/nx-s1-5580091/rodrigo-paz-bolivia-president" target="_blank">Centrist Rodrigo Paz wins Bolivia&#x27;s presidential runoff, topping right-wing rival</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-20 05:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +91,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/louvre-museum-closes-after-robbery-french-minister/story?id=126657104" target="_blank">Louvre Museum heist: Jewels with &#x27;inestimable&#x27; value stolen from Napoleon collection</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-20 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss" target="_blank">Live: Israel kills 97 Palestinians in Gaza since start of ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 23:58</span>
             </div>
         </div>
 </div>
@@ -162,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/subham_sagar_dev/for-those-whove-contributed-to-open-source-how-did-you-find-your-first-issue-17hk" target="_blank">For those who&#x27;ve contributed to open source, how did you find your first issue?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 05:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/puter-js-ai-without-api/" target="_blank">I Used This Open Source Library to Integrate OpenAI, Claude, Gemini to Websites Without API Keys</a></span>
                 <span class="feed">It's FOSS</span>
@@ -202,15 +209,6 @@
                 <span class="title"><a href="https://hugovk.dev/blog/2025/lazy-imports/" target="_blank">Three times faster with lazy imports</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-20 00:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ishaan_agrawal/urgent-a-self-propagating-worm-is-hitting-vscode-extensions-right-now-heres-how-to-protect-3pdo" target="_blank">🚨URGENT: A Self-Propagating Worm Is Hitting VSCode Extensions Right Now— Here’s How to Protect Yourself</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 00:03</span>
             </div>
         </div>
 </div>
@@ -300,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
