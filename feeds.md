@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 16:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 17:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/20/nx-s1-5580328/kenny-loggins-donald-trump-ai-video" target="_blank">Trump&#x27;s fake video featured &#x27;Danger Zone.&#x27; Musician Kenny Loggins wants it scrubbed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-20 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +93,20 @@
                 <span class="time">2025-10-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/20/g-s1-94232/up-first-newsletter-israel-gaza-government-shutdown-colombia-venezuela-boats" target="_blank">Gaza ceasefire deal violated. And, shutdown enters day 20 with no end in sight</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-20 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f16b5af35e2b5038d3c8f8/master/pass/Uncanny-Valley-Federal-Workers-Pawns-Business-1363781664.jpg" alt="WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-satellites-data-leak-cybertrucks-politicized-federal-workers/" target="_blank">WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-20 16:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +150,6 @@
                 <span class="title"><a href="https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/" target="_blank">What the Huge AWS Outage Reveals About the Internet</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-20 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors" target="_blank">Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-20 14:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +231,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/IMG_0117-1280x720.jpg" alt="Pokémon Legends: Z-A Pokes Fun At The Most Annoying Kind Of Fan, And It Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-society-battle-connoisseurs-jacinthe-2000637284" target="_blank">Pokémon Legends: Z-A Pokes Fun At The Most Annoying Kind Of Fan, And It Rules</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-20 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Kenny Loggins furious Trump used &quot;Danger Zone&quot; to accompany himself crapping on America" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/20/kenny-loggins-furious-trump-used-danger-zone-to-accompany-himself-crapping-on-america.html" target="_blank">Kenny Loggins furious Trump used &quot;Danger Zone&quot; to accompany himself crapping on America</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-20 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Colman-Domingo-Running-Man-1280x853.jpg" alt="And the Mystery Voice of the Cowardly Lion in ‘Wicked: For Good’ Is…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wicked-for-good-lion-voice-revealed-wizard-of-oz-2000674374" target="_blank">And the Mystery Voice of the Cowardly Lion in ‘Wicked: For Good’ Is…</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-20 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K811SVREYZ7TQE16PKAZQKTV/hero-image.jpg" alt="Microsoft’s Latest Windows Update Has a Bug That Makes It Harder to Fix Issues With Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-broke-windows-recovery-environment?utm_medium=RSS" target="_blank">Microsoft’s Latest Windows Update Has a Bug That Makes It Harder to Fix Issues With Your PC</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-20 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/REOLINKsolar-1280x853.jpg" alt="Reolink Solar Powered Outdoor Security Camera Is Selling Out Fast at Its Lowest Price Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -256,42 +282,6 @@
                 <span class="title"><a href="https://gizmodo.com/ever-wondered-what-nuclear-fusion-looks-like-we-have-pics-2000674325" target="_blank">Ever Wondered What Nuclear Fusion Looks Like? We Have Pics</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-20 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/meat-grocery-store-1280x853.jpg" alt="New Map Reveals the Carbon Cost of Meat in Every U.S. City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-map-reveals-the-carbon-cost-of-meat-in-every-u-s-city-2000674321" target="_blank">New Map Reveals the Carbon Cost of Meat in Every U.S. City</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/DJIMicMiniBundle-1280x853.jpg" alt="DJI Clears Out Mic Combo With Transmitter and Receiver, Make Better Content With Superior Audio for Nearly Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dji-clears-out-mic-combo-with-transmitter-and-receiver-for-practically-nothing-2000636220" target="_blank">DJI Clears Out Mic Combo With Transmitter and Receiver, Make Better Content With Superior Audio for Nearly Nothing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-20 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K80W0C7NFQRAP9GYQ5X4ACWK/hero-image.jpg" alt="The Global Aws Outage Is Over, but There&#x27;s Still Cause for Concern" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/global-aws-outage-fixed?utm_medium=RSS" target="_blank">The Global Aws Outage Is Over, but There&#x27;s Still Cause for Concern</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hp-lego-set-1280x853.jpg" alt="LEGO’s Hagrid’s Hut Set Just Got a Magical Price Drop for Harry Potter Fans, Practically Selling for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/legos-hagrids-hut-set-just-got-a-magical-price-drop-for-harry-potter-fans-practically-selling-for-peanuts-2000636957" target="_blank">LEGO’s Hagrid’s Hut Set Just Got a Magical Price Drop for Harry Potter Fans, Practically Selling for Peanuts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-20 12:45</span>
             </div>
         </div>
 </div>
@@ -322,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
