@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 12:02:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 13:09:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/OUTAGE-MAIN_1760952462460_hpMain_4x3t_384.jpg" alt="Widespread internet outage reported as Amazon Web Services works on issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/widespread-internet-outage-aws-monday/story?id=126672671" target="_blank">Widespread internet outage reported as Amazon Web Services works on issue</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-20 12:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +97,29 @@
                 <span class="time">2025-10-20 08:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/20/india-lose-to-england-by-four-runs-in-womens-world-cup-cricket?traffic_source=rss" target="_blank">India lose to England by four runs in ICC Women’s World Cup cricket</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-20 05:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/801920/ford-mustang-mach-e-california-special-specs" target="_blank">Ford’s Mustang Mach-E GT California Special blends the old with the new</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/20/oura-launches-redesigned-app-and-cumulative-stress-feature/" target="_blank">Oura launches redesigned app and ‘Cumulative Stress’ feature</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-20 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/pull-the-plug-500x500.jpg" alt="Should an AI copy of you help decide if you live or die?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +156,38 @@
                 <span class="time">2025-10-20 08:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app" target="_blank">X is changing how it handles links to try and keep you in the app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-19 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/" target="_blank">Kohler unveils a camera for your toilet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-19 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703567&w=600" alt="Should You Use Azure Data Factory?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-use-azure-data-factory" target="_blank">Should You Use Azure Data Factory?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/srivenkatareddy/aws-outage-chaos-lessons-in-resilience-and-how-configbee-stayed-unfazed-2f4a" target="_blank">AWS Outage Chaos: Lessons in Resilience and How ConfigBee Stayed Unfazed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Tenstorrent-Blackhole-Linux-619" target="_blank">Initial Tenstorrent Blackhole Support Aiming For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-20 12:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,31 +215,18 @@
                 <span class="time">2025-10-20 09:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhc7rqhcj37sqouvbl4o.png" alt="How Shorebird Works: Breaking Down Flutter’s Over-the-Air Update Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kiddo4lyf/how-shorebird-works-breaking-down-flutters-over-the-air-update-engine-4lc5" target="_blank">How Shorebird Works: Breaking Down Flutter’s Over-the-Air Update Engine</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 06:52</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/deepseek-ai/DeepSeek-OCR" target="_blank">DeepSeek OCR</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-20 06:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/subham_sagar_dev/for-those-whove-contributed-to-open-source-how-did-you-find-your-first-issue-17hk" target="_blank">For those who&#x27;ve contributed to open source, how did you find your first issue?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 05:33</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html" target="_blank">Agentic AI’s OODA Loop Problem</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-20 11:00</span>
             </div>
         </div>
 </div>
@@ -220,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/hp-lego-set-1280x853.jpg" alt="LEGO’s Hagrid’s Hut Set Just Got a Magical Price Drop for Harry Potter Fans, Practically Selling for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/legos-hagrids-hut-set-just-got-a-magical-price-drop-for-harry-potter-fans-practically-selling-for-peanuts-2000636957" target="_blank">LEGO’s Hagrid’s Hut Set Just Got a Magical Price Drop for Harry Potter Fans, Practically Selling for Peanuts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-20 12:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/MS-1020-star-wars-ahsoka-hera-1280x853.jpg" alt="Mary Elizabeth Winstead Teases Hera’s Bigger Role in ‘Ahsoka’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +288,6 @@
                 <span class="time">2025-10-20 00:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/roborock-qrevo-qv-35a-1280x853.jpg" alt="Roborock QV 35A Is Nearly 40% Off, Roborock Clears Out Prime Day Leftovers at a Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/roborock-qv-35a-is-nearly-40-off-roborock-clears-out-prime-day-leftovers-at-a-record-low-2000634453" target="_blank">Roborock QV 35A Is Nearly 40% Off, Roborock Clears Out Prime Day Leftovers at a Record Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-19 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
