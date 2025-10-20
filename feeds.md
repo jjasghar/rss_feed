@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 07:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 10:01:51 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/amazon-cloud-problems-spur-outage-of-global-websites-and-apps?traffic_source=rss" target="_blank">Amazon cloud problems spur outage of global websites and apps</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg" alt="Major outage takes leading websites and services offline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/amazon-web-services-outage-websites-offline-rcna238594" target="_blank">Major outage takes leading websites and services offline</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-20 08:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +99,29 @@
                 <span class="time">2025-10-20 04:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/20/nx-s1-5579661/trump-tariffs-aid-colombia-amid-clash-drugs-petro" target="_blank">Trump announces tariffs and an end to U.S. aid to Colombia amid clash over drug trade</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-20 04:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/japan-to-vote-for-new-pm-amid-political-uncertainty-all-you-need-to-know?traffic_source=rss" target="_blank">Japan to vote for new PM amid political uncertainty: All you need to know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-20 02:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite" target="_blank">SpaceX launches 10,000th Starlink internet satellite</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-20 09:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/" target="_blank">Scale AI alum raises $9M for AI serving critical industries in MENA</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-20 08:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +158,29 @@
                 <span class="time">2025-10-19 20:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/19/openais-embarrassing-math/" target="_blank">OpenAI’s ‘embarrassing’ math</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-19 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/03/Boeing_737_MAX_7-1-1-500x500.jpg" alt="Something from “space” may have just struck a United Airlines flight over Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/" target="_blank">Something from “space” may have just struck a United Airlines flight over Utah</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-19 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/aws-alb-url-host-header-rewrite/en/headerimage/generatedHeaderImage-1760697838161.jpg" alt="AWS ALBs Now Support Native URL and Host Header Rewriting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/aws-alb-url-host-header-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS ALBs Now Support Native URL and Host Header Rewriting</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tanelith/5-things-you-can-actually-buy-with-a-crypto-card-and-1-you-probably-shouldnt-2hk0" target="_blank">🛍️ 5 Things You Can Actually Buy with a Crypto Card (and 1 You Probably Shouldn’t)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 09:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhc7rqhcj37sqouvbl4o.png" alt="How Shorebird Works: Breaking Down Flutter’s Over-the-Air Update Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,29 +217,29 @@
                 <span class="time">2025-10-20 03:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc2-Released" target="_blank">Linux 6.18-rc2 Released: &quot;rc2 is on the bigger side&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-20 01:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hyperkai/list-functions-in-python-2-1nf2" target="_blank">List functions in Python (2)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 01:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/BLACK_PHONE_2-2-1280x853.jpg" alt="‘Black Phone 2’ Rings Up a Box Office Win for Blumhouse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/black-phone-2-rings-up-a-box-office-win-for-blumhouse-2000674197" target="_blank">‘Black Phone 2’ Rings Up a Box Office Win for Blumhouse</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/retrospecs-day_out_enterprise.png?fit=1280%2C1024&amp;quality=55&amp;ssl=1" alt="Retrospecs: system-accurate pixel art filter app for iOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/20/retrospecs-system-accurate-pixel-art-filter-app-for-ios.html" target="_blank">Retrospecs: system-accurate pixel art filter app for iOS</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-20 09:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/dell-15-1-laptop-1280x853.jpg" alt="Dell Is Quietly Selling This 15″ 1TB Laptop for 63% Off on Amazon, Still Full Price on the Official Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,29 +276,20 @@
                 <span class="time">2025-10-19 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/batgirl-hed-1280x853.jpg" alt="At Least One ‘Batgirl’ Star Still Hopes It’ll Come Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/at-least-one-batgirl-star-still-hopes-itll-come-out-2000674051" target="_blank">At Least One ‘Batgirl’ Star Still Hopes It’ll Come Out</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-19 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/jackery-power-station-1280x853.jpg" alt="Amazon Clears Out Jackery 1500W Power Station at a Record Low, No More Winter Power Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-clears-out-jackery-1500w-power-station-at-a-record-low-no-more-winter-power-issues-2000636942" target="_blank">Amazon Clears Out Jackery 1500W Power Station at a Record Low, No More Winter Power Issues</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-19 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/20/shit-detection" target="_blank">Shit Detection</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-20 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5682.png" alt="No Ego-Searching" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -306,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
