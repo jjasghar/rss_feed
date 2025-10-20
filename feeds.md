@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 18:02:37 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-20 19:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mike-johnson-6-epa-gmh-251020_1760977237874_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Johnson talks when he&#x27;d administer oath to Grijalva" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Johnson talks when he&#x27;d administer oath to Grijalva</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-20 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/20/us-australia-sign-rare-earth-mineral-agreement-as-china-tightens-supply?traffic_source=rss" target="_blank">US, Australia sign rare earth, mineral agreement as China tightens supply</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 17:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +104,20 @@
                 <span class="time">2025-10-20 12:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/OUTAGE-MAIN_1760952462460_hpMain_4x3t_384.jpg" alt="Widespread internet outage reported as Amazon Web Services works on issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/widespread-internet-outage-aws-monday/story?id=126672671" target="_blank">Widespread internet outage reported as Amazon Web Services works on issue</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-20 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9344/live/35f9b080-adb4-11f0-b2a1-6f537f66f9aa.jpg" alt="&#x27;It&#x27;s out of this world&#x27;: Life-changing eye implant helps blind patients read again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0qpz39jpj7o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It&#x27;s out of this world&#x27;: Life-changing eye implant helps blind patients read again</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-20 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlinkstack-500x500.jpg" alt="SpaceX launches 10,000th Starlink satellite, with no sign of slowing down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/spacex-launches-10000th-starlink-satellite-with-no-sign-of-slowing-down/" target="_blank">SpaceX launches 10,000th Starlink satellite, with no sign of slowing down</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-20 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/musk-cybertruck-500x500-1760980572.jpg" alt="Musk’s $1 trillion pay plan doesn’t force him to keep focus on Tesla, critics say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +163,29 @@
                 <span class="time">2025-10-20 15:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/802576/lenovo-legion-5-gaming-laptop-nvidia-rtx-deal-sale" target="_blank">Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-20 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703820&w=600" alt="AI-Driven Enhancements to Project Risk Management in the PMO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-driven-enhancements-to-project-risk-management" target="_blank">AI-Driven Enhancements to Project Risk Management in the PMO</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/llm-evalkit/en/headerimage/generatedHeaderImage-1760982159430.jpg" alt="Google Introduces LLM-Evalkit to Bring Order and Metrics to Prompt Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/llm-evalkit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces LLM-Evalkit to Bring Order and Metrics to Prompt Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-20 17:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +222,6 @@
                 <span class="time">2025-10-20 15:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703600&w=600" alt="Django Architecture vs FastAPI: A Learning Path" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/django-architecture-versus-fastapi" target="_blank">Django Architecture vs FastAPI: A Learning Path</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nathan.rs/posts/roberta-diffusion/" target="_blank">BERT Is Just a Single Text Diffusion Step</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-20 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/jimmy-kimmel-and-stephen-colbert-sept-30-2025-1280x853.jpg" alt="Disney+ and Hulu Subscription Cancellations Doubled After Jimmy Kimmel Suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-and-hulu-subscription-cancellations-doubled-after-jimmy-kimmel-suspension-2000674405" target="_blank">Disney+ and Hulu Subscription Cancellations Doubled After Jimmy Kimmel Suspension</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-20 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K819QHZ8QMG4WZW6JZJMKJM1/hero-image.jpg" alt="How to Sign Up to Test Oura’s New Blood Pressure Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/oura-is-testing-a-blood-pressure-feature?utm_medium=RSS" target="_blank">How to Sign Up to Test Oura’s New Blood Pressure Feature</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/springfieldsimpsons-1280x720.jpg" alt="Fortnite‘s Map Will Reportedly Turn Into Springfield From The Simpsons Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-simpsons-mini-season-springfield-update-leak-november-2000637296" target="_blank">Fortnite‘s Map Will Reportedly Turn Into Springfield From The Simpsons Next Month</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-20 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/IMG_0117-1280x720.jpg" alt="Pokémon Legends: Z-A Pokes Fun At The Most Annoying Kind Of Fan, And It Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,38 +295,20 @@
                 <span class="time">2025-10-20 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K811SVREYZ7TQE16PKAZQKTV/hero-image.jpg" alt="Microsoft’s Latest Windows Update Has a Bug That Makes It Harder to Fix Issues With Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-broke-windows-recovery-environment?utm_medium=RSS" target="_blank">Microsoft’s Latest Windows Update Has a Bug That Makes It Harder to Fix Issues With Your PC</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/REOLINKsolar-1280x853.jpg" alt="Reolink Solar Powered Outdoor Security Camera Is Selling Out Fast at Its Lowest Price Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/reolink-solar-powered-outdoor-security-camera-is-selling-out-fast-at-its-lowest-price-yet-2000636710" target="_blank">Reolink Solar Powered Outdoor Security Camera Is Selling Out Fast at Its Lowest Price Yet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-20 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/tokamak-energy-nuclear-fusion-footage-capture-1280x853.jpg" alt="Ever Wondered What Nuclear Fusion Looks Like? We Have Pics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ever-wondered-what-nuclear-fusion-looks-like-we-have-pics-2000674325" target="_blank">Ever Wondered What Nuclear Fusion Looks Like? We Have Pics</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-20 15:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1760935117-20251020.png" alt="Saturday Morning Breakfast Cereal - Signal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/signal-4" target="_blank">Saturday Morning Breakfast Cereal - Signal</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-20 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
