@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 21:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 22:01:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/20/who-can-enforce-the-gaza-ceasefire-deal?traffic_source=rss" target="_blank">Who can enforce the Gaza ceasefire deal?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/portland-troops-mo_1760992509553_hpMain_4x3t_384.jpg" alt="Trump administration can deploy National Guard to Portland, court rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +98,20 @@
                 <span class="time">2025-10-20 18:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/20/us-australia-sign-rare-earth-mineral-agreement-as-china-tightens-supply?traffic_source=rss" target="_blank">US, Australia sign rare earth, mineral agreement as China tightens supply</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-20 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/" target="_blank">Apple will let users roll back the Liquid Glass look with new ‘tinted’ option</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-20 21:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-20-at-3.36.24-PM-500x500.png" alt="Claude Code gets a web version—but it’s the new sandboxing that really matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +157,29 @@
                 <span class="time">2025-10-20 18:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/musk-cybertruck-500x500-1760980572.jpg" alt="Musk’s $1 trillion pay plan doesn’t force him to keep focus on Tesla, critics say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/musks-1-trillion-pay-plan-doesnt-force-him-to-keep-focus-on-tesla-critics-say/" target="_blank">Musk’s $1 trillion pay plan doesn’t force him to keep focus on Tesla, critics say</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-20 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1v5ck8ntbyhasjn1u6n.png" alt="Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theodora_e6f61d02577a5f06/creating-and-deploying-a-custom-docker-image-with-azure-container-registry-and-azure-container-3d80" target="_blank">Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Hibernation-Cancellation" target="_blank">Patches Posted To Allow Hibernation Cancellation On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-20 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F704kk4pwnd97nmto28ke.jpg" alt="Navigating the .NET Ecosystem: My Take on a Practical Roadmap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +216,6 @@
                 <span class="time">2025-10-20 18:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703820&w=600" alt="AI-Driven Enhancements to Project Risk Management in the PMO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-driven-enhancements-to-project-risk-management" target="_blank">AI-Driven Enhancements to Project Risk Management in the PMO</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/llm-evalkit/en/headerimage/generatedHeaderImage-1760982159430.jpg" alt="Google Introduces LLM-Evalkit to Bring Order and Metrics to Prompt Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/llm-evalkit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces LLM-Evalkit to Bring Order and Metrics to Prompt Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-20 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Halloween-Fan-Film-1280x853.jpg" alt="This 2-Hour ‘Halloween’ Fan Film Fills in a Gap Between ‘Kills’ and ‘Ends’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-2-hour-halloween-fan-film-fills-in-a-gap-between-kills-and-ends-2000674453" target="_blank">This 2-Hour ‘Halloween’ Fan Film Fills in a Gap Between ‘Kills’ and ‘Ends’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-20 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Bring your software into this decade with Microsoft Office 2021" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/20/bring-your-software-into-this-decade-with-microsoft-office-2021.html" target="_blank">Bring your software into this decade with Microsoft Office 2021</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-20 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/fearmain-1280x720.jpg" alt="Two Awesome FEAR Games Are On Sale Right Now (Oh, And FEAR 3 Is Too)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +289,6 @@
                 <span class="time">2025-10-20 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K819QHZ8QMG4WZW6JZJMKJM1/hero-image.jpg" alt="How to Sign Up to Test Oura’s New Blood Pressure Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/oura-is-testing-a-blood-pressure-feature?utm_medium=RSS" target="_blank">How to Sign Up to Test Oura’s New Blood Pressure Feature</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/springfieldsimpsons-1280x720.jpg" alt="Fortnite‘s Map Will Reportedly Turn Into Springfield From The Simpsons Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fortnite-simpsons-mini-season-springfield-update-leak-november-2000637296" target="_blank">Fortnite‘s Map Will Reportedly Turn Into Springfield From The Simpsons Next Month</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-20 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,6 +322,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/emperor_palpatine.png" alt="Emperor Palpatine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3157/" target="_blank">Emperor Palpatine</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-20 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5682.png" alt="No Ego-Searching" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -340,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
