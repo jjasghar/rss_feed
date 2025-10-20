@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 06:02:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-20 07:01:42 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 06:02 UTC</div>
+    <div class="newspaper-date">Monday, October 20, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/20/india-lose-to-england-by-four-runs-in-womens-world-cup-cricket?traffic_source=rss" target="_blank">India lose to England by four runs in ICC Women’s World Cup cricket</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 05:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/japan-to-vote-for-new-pm-amid-political-uncertainty-all-you-need-to-know?traffic_source=rss" target="_blank">Japan to vote for new PM amid political uncertainty: All you need to know</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-20 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/louvre-main_1760869461699_hpMain_4x3t_384.jpg" alt="Louvre Museum heist: Jewels with &#x27;inestimable&#x27; value stolen from Napoleon collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/louvre-museum-closes-after-robbery-french-minister/story?id=126657104" target="_blank">Louvre Museum heist: Jewels with &#x27;inestimable&#x27; value stolen from Napoleon collection</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-20 00:13</span>
             </div>
         </div>
 </div>
@@ -158,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhc7rqhcj37sqouvbl4o.png" alt="How Shorebird Works: Breaking Down Flutter’s Over-the-Air Update Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kiddo4lyf/how-shorebird-works-breaking-down-flutters-over-the-air-update-engine-4lc5" target="_blank">How Shorebird Works: Breaking Down Flutter’s Over-the-Air Update Engine</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 06:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/hyperkai/list-functions-in-python-2-1nf2" target="_blank">List functions in Python (2)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-20 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://hugovk.dev/blog/2025/lazy-imports/" target="_blank">Three times faster with lazy imports</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-20 00:28</span>
             </div>
         </div>
 </div>
@@ -298,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
