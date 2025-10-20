@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 22:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-20 23:01:35 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 22:02 UTC</div>
+    <div class="newspaper-date">Monday, October 20, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ef/live/286fa830-adfe-11f0-ba75-093eca1ac29b.jpg" alt="Lisbon funicular crash initial report reveals litany of failings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20pg8pzp2no?at_medium=RSS&at_campaign=rss" target="_blank">Lisbon funicular crash initial report reveals litany of failings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-20 21:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2025-10-20 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-troops-army-uk-brize-norton_7056769.jpg?20251020205441" alt="UK &#x27;ready to spend well over &amp;#163;100m&#x27; on possible deployment of British troops to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-ready-to-spend-well-over-163100m-on-possible-deployment-of-british-troops-to-ukraine-13454120" target="_blank">UK &#x27;ready to spend well over &amp;#163;100m&#x27; on possible deployment of British troops to Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-20 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc" target="_blank">Ninja Gaiden 4 is the perfect place to jump into the series</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-20 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-500x500.jpg" alt="NSO permanently barred from targeting WhatsApp users with Pegasus spyware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/" target="_blank">NSO permanently barred from targeting WhatsApp users with Pegasus spyware</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-20 22:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/mystery-space-object-strikes-united-airlines-flight-over-utah/" target="_blank">Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-20 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/" target="_blank">U.S. and Australia sign $3B critical minerals deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-20 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlinkstack-500x500.jpg" alt="SpaceX launches 10,000th Starlink satellite, with no sign of slowing down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/spacex-launches-10000th-starlink-satellite-with-no-sign-of-slowing-down/" target="_blank">SpaceX launches 10,000th Starlink satellite, with no sign of slowing down</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-20 18:38</span>
             </div>
         </div>
 </div>
@@ -236,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Adam-Driver-Ben-Solo-Star-Wars-1280x853.jpg" alt="‘Star Wars’ Tried to Bring Kylo Ren Back to Life in a Steven Soderbergh Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kylo-ren-movie-adam-driver-steven-soderbergh-2000674641" target="_blank">‘Star Wars’ Tried to Bring Kylo Ren Back to Life in a Steven Soderbergh Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-20 22:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Halloween-Fan-Film-1280x853.jpg" alt="This 2-Hour ‘Halloween’ Fan Film Fills in a Gap Between ‘Kills’ and ‘Ends’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/switch-2-sale-cyberpunk-2077-roguelike-eshop-deals-2000637360" target="_blank">A Ton Of Great Switch Games Are Ridiculously Cheap Right Now</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-20 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/jimmy-kimmel-and-stephen-colbert-sept-30-2025-1280x853.jpg" alt="Disney+ and Hulu Subscription Cancellations Doubled After Jimmy Kimmel Suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-and-hulu-subscription-cancellations-doubled-after-jimmy-kimmel-suspension-2000674405" target="_blank">Disney+ and Hulu Subscription Cancellations Doubled After Jimmy Kimmel Suspension</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-20 18:37</span>
             </div>
         </div>
 </div>
@@ -344,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
