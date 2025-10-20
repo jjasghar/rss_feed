@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 00:05:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 01:29:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +43,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/louvre-main_1760869461699_hpMain_4x3t_384.jpg" alt="Louvre Museum heist: Jewels with &#x27;inestimable&#x27; value stolen from Napoleon collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/louvre-museum-closes-after-robbery-french-minister/story?id=126657104" target="_blank">Louvre Museum heist: Jewels with &#x27;inestimable&#x27; value stolen from Napoleon collection</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-20 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss" target="_blank">Live: Israel kills 97 Palestinians in Gaza since start of ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-19 23:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/russia-ukraine-war-list-of-key-events-day-1334?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,334</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-19 23:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea3/live/d65cdc80-ad34-11f0-b2a1-6f537f66f9aa.jpg" alt="Giuffre thought she might &#x27;die a sex slave&#x27; at hands of Epstein and his circle, memoir reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1e3leqx89zo?at_medium=RSS&at_campaign=rss" target="_blank">Giuffre thought she might &#x27;die a sex slave&#x27; at hands of Epstein and his circle, memoir reveals</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-19 21:17</span>
             </div>
         </div>
 <div class="story">
@@ -68,38 +96,20 @@
                 <span class="time">2025-10-19 19:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/19/what-we-know-about-pakistan-afghanistan-ceasefire-will-it-hold?traffic_source=rss" target="_blank">What we know about Pakistan-Afghanistan ceasefire, will it hold?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-19 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/19/nx-s1-5579565/sam-rivers-limp-bizkit-dies" target="_blank">Sam Rivers, bassist and founding member of Limp Bizkit, dies aged 48</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-19 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb39/live/a2f6e9a0-acc9-11f0-8be0-edba131ad73f.jpg" alt="Met Police looking into claims Andrew sought information on accuser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3970mxwz9vo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police looking into claims Andrew sought information on accuser</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-19 15:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app" target="_blank">X is changing how it handles links to try and keep you in the app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-19 23:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +155,29 @@
                 <span class="time">2025-10-19 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night" target="_blank">You need to read the epic Argentinian horror novel Our Share of Night</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-19 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hyperkai/list-functions-in-python-2-1nf2" target="_blank">List functions in Python (2)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://hugovk.dev/blog/2025/lazy-imports/" target="_blank">Three times faster with lazy imports</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-20 00:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +212,6 @@
                 <span class="title"><a href="https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake" target="_blank">Novo Nordisk&#x27;s Canadian Mistake</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-19 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/mirantis-k0rdent-12/en/headerimage/generatedHeaderImage-1760889488953.jpg" alt="Mirantis&#x27; Kubernetes Management Platform k0rdent Reaches v1.2.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/mirantis-k0rdent-12/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mirantis&#x27; Kubernetes Management Platform k0rdent Reaches v1.2.0</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d" target="_blank">Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-19 16:57</span>
             </div>
         </div>
 </div>
@@ -277,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
