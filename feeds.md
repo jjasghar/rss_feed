@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 19:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 20:02:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +50,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Johnson talks when he&#x27;d administer oath to Grijalva</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-20 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-troops-army-uk-brize-norton_7056769.jpg?20251020205441" alt="UK &#x27;ready to spend well over &amp;#163;100m&#x27; on possible deployment of British troops to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/uk-ready-to-spend-well-over-163100m-on-possible-deployment-of-british-troops-to-ukraine-13454120" target="_blank">UK &#x27;ready to spend well over &amp;#163;100m&#x27; on possible deployment of British troops to Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-20 18:27</span>
             </div>
         </div>
 <div class="story">
@@ -95,20 +97,38 @@
                 <span class="time">2025-10-20 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/a06e0080-ada8-11f0-aa13-0b0479f6f42a.jpg" alt="Deadly Gaza flare-up tests Israel-Hamas ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czxk8k4xlv1o?at_medium=RSS&at_campaign=rss" target="_blank">Deadly Gaza flare-up tests Israel-Hamas ceasefire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-20 12:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1359528962-e1760988838500-500x500.jpg" alt="Breaking down rare earth element magnets for recycling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/" target="_blank">Breaking down rare earth element magnets for recycling</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-20 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f65dea692735b39dbd9c74/master/pass/Mystery-Object-From-%E2%80%98Space%E2%80%99-Science-2208683302.jpg" alt="Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mystery-space-object-strikes-united-airlines-flight-over-utah/" target="_blank">Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-20 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/" target="_blank">U.S. and Australia sign $3B critical minerals deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-20 18:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlinkstack-500x500.jpg" alt="SpaceX launches 10,000th Starlink satellite, with no sign of slowing down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,38 +156,20 @@
                 <span class="time">2025-10-20 17:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f16b5af35e2b5038d3c8f8/master/pass/Uncanny-Valley-Federal-Workers-Pawns-Business-1363781664.jpg" alt="WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-satellites-data-leak-cybertrucks-politicized-federal-workers/" target="_blank">WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-20 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/20/regulators-probe-waymo-after-its-robotaxi-drove-around-a-stopped-school-bus/" target="_blank">Regulators probe Waymo after its robotaxi drove around a stopped school bus</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-20 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026" target="_blank">The Sims Mobile is shutting down next year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-20 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=7azKz3YP7eA" target="_blank">Parallel programming and Cython</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-20 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703820&w=600" alt="AI-Driven Enhancements to Project Risk Management in the PMO" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +215,6 @@
                 <span class="time">2025-10-20 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq4mndwimb7yrjcyph9e6.png" alt="All Data and AI Weekly #212: 20 Oct 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-212-20-oct-2025-3h6k" target="_blank">All Data and AI Weekly #212: 20 Oct 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 15:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Switch.jpg" alt="A Ton Of Great Switch Games Are Ridiculously Cheap Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-sale-cyberpunk-2077-roguelike-eshop-deals-2000637360" target="_blank">A Ton Of Great Switch Games Are Ridiculously Cheap Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-20 19:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/jimmy-kimmel-and-stephen-colbert-sept-30-2025-1280x853.jpg" alt="Disney+ and Hulu Subscription Cancellations Doubled After Jimmy Kimmel Suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +288,6 @@
                 <span class="time">2025-10-20 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Colman-Domingo-Running-Man-1280x853.jpg" alt="And the Mystery Voice of the Cowardly Lion in ‘Wicked: For Good’ Is…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wicked-for-good-lion-voice-revealed-wizard-of-oz-2000674374" target="_blank">And the Mystery Voice of the Cowardly Lion in ‘Wicked: For Good’ Is…</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-20 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
