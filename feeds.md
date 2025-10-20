@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 11:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-20 12:02:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/zelenskyy-eyes-invite-to-trump-putin-talks-in-budapest?traffic_source=rss" target="_blank">Zelenskyy eyes invite to Trump-Putin talks in Budapest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/20/tensions-mount-alassane-ouattara-seeks-fourth-term-ivory-coast-vote-president" target="_blank">Tensions mount as Alassane Ouattara seeks fourth term in Ivory Coast vote</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-20 10:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +97,29 @@
                 <span class="time">2025-10-20 05:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/20/nx-s1-5580091/rodrigo-paz-bolivia-president" target="_blank">Centrist Rodrigo Paz wins Bolivia&#x27;s presidential runoff, topping right-wing rival</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-20 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/20/max-verstappen-wins-f1-us-grand-prix-cuts-piastri-standings-lead?traffic_source=rss" target="_blank">Max Verstappen wins F1 US Grand Prix; cuts Piastri standings lead</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-20 04:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/pull-the-plug-500x500.jpg" alt="Should an AI copy of you help decide if you live or die?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2025/10/should-an-ai-copy-of-you-help-decide-if-you-live-or-die/" target="_blank">Should an AI copy of you help decide if you live or die?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-20 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f5c8d8bdb77fe808115c8d/master/pass/Review-%20SteelSeries%20Arctis%20Nova%20Elite.png" alt="SteelSeries Arctis Nova Elite Review: Gaming Overkill?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/steelseries-arctis-elite/" target="_blank">SteelSeries Arctis Nova Elite Review: Gaming Overkill?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-20 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/" target="_blank">Kohler unveils a camera for your toilet</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-19 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f54d436dbb311a3f54d8e9/master/pass/ENR_OctNoKings_12.jpg" alt="Scenes From Saturday&#x27;s Nationwide ‘No Kings’ Protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/no-kings-protests-photos/" target="_blank">Scenes From Saturday&#x27;s Nationwide ‘No Kings’ Protests</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-19 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/802474/x-is-launching-a-marketplace-for-inactive-handles" target="_blank">X is launching a marketplace for inactive handles</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-19 20:44</span>
             </div>
         </div>
 </div>
@@ -227,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/MS-1020-star-wars-ahsoka-hera-1280x853.jpg" alt="Mary Elizabeth Winstead Teases Hera’s Bigger Role in ‘Ahsoka’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-ahsoka-season-2-more-hera-2000674200" target="_blank">Mary Elizabeth Winstead Teases Hera’s Bigger Role in ‘Ahsoka’ Season 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/BLACK_PHONE_2-2-1280x853.jpg" alt="‘Black Phone 2’ Rings Up a Box Office Win for Blumhouse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,15 +274,6 @@
                 <span class="time">2025-10-19 21:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/1-Year-Sams-Club-Membership-with-Auto-Renew-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Gifts, decor, and big savings — the holidays begin with a $15 Sam&#x27;s Club membership" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/19/gifts-decor-and-big-savings-the-holidays-begin-with-a-15-sams-club-membership.html" target="_blank">Gifts, decor, and big savings — the holidays begin with a $15 Sam&#x27;s Club membership</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-19 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,7 +312,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:01 UTC
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
