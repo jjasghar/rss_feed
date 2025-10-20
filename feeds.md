@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 13:09:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-20 14:01:38 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Business/widespread-internet-outage-aws-monday/story?id=126672671" target="_blank">Widespread internet outage reported as Amazon Web Services works on issue</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-20 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9344/live/35f9b080-adb4-11f0-b2a1-6f537f66f9aa.jpg" alt="&#x27;It&#x27;s out of this world&#x27;: Life-changing eye implant helps blind patients read again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0qpz39jpj7o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It&#x27;s out of this world&#x27;: Life-changing eye implant helps blind patients read again</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-20 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +96,38 @@
                 <span class="time">2025-10-20 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg" alt="Major outage takes leading websites and services offline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/amazon-web-services-outage-websites-offline-rcna238594" target="_blank">Major outage takes leading websites and services offline</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-20 08:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors" target="_blank">Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/" target="_blank">Final Countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png" alt="6 Best VPN Services (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-vpn/" target="_blank">6 Best VPN Services (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-20 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +155,20 @@
                 <span class="time">2025-10-20 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f5c8d8bdb77fe808115c8d/master/pass/Review-%20SteelSeries%20Arctis%20Nova%20Elite.png" alt="SteelSeries Arctis Nova Elite Review: Gaming Overkill?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/steelseries-arctis-elite/" target="_blank">SteelSeries Arctis Nova Elite Review: Gaming Overkill?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite" target="_blank">SpaceX launches 10,000th Starlink internet satellite</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-20 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/" target="_blank">Scale AI alum raises $9M for AI serving critical industries in MENA</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-20 08:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr70x2j886jkvylcntngs.png" alt="Day 7 | 50 Projects in 50 Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/augusta08/day-7-50-projects-in-50-days-4ga2" target="_blank">Day 7 | 50 Projects in 50 Days</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 13:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703567&w=600" alt="Should You Use Azure Data Factory?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="time">2025-10-20 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tanelith/5-things-you-can-actually-buy-with-a-crypto-card-and-1-you-probably-shouldnt-2hk0" target="_blank">🛍️ 5 Things You Can Actually Buy with a Crypto Card (and 1 You Probably Shouldn’t)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +240,15 @@
                 <span class="title"><a href="https://kotaku.com/legos-hagrids-hut-set-just-got-a-magical-price-drop-for-harry-potter-fans-practically-selling-for-peanuts-2000636957" target="_blank">LEGO’s Hagrid’s Hut Set Just Got a Magical Price Drop for Harry Potter Fans, Practically Selling for Peanuts</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-20 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/superman-shutterstock_2269342849-e1760962761204.jpg?fit=768%2C403&amp;quality=60&amp;ssl=1" alt="Christopher Reeve&#x27;s Superman costume is up for auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/20/christopher-reeves-superman-costume-is-up-for-auction.html" target="_blank">Christopher Reeve&#x27;s Superman costume is up for auction</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-20 12:19</span>
             </div>
         </div>
 <div class="story">
@@ -277,15 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/20/retrospecs-system-accurate-pixel-art-filter-app-for-ios.html" target="_blank">Retrospecs: system-accurate pixel art filter app for iOS</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-20 09:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/dell-15-1-laptop-1280x853.jpg" alt="Dell Is Quietly Selling This 15″ 1TB Laptop for 63% Off on Amazon, Still Full Price on the Official Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dell-is-quietly-selling-this-15-1tb-laptop-for-70-off-on-amazon-still-full-price-on-the-official-site-2000634459" target="_blank">Dell Is Quietly Selling This 15″ 1TB Laptop for 63% Off on Amazon, Still Full Price on the Official Site</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-20 00:17</span>
             </div>
         </div>
 </div>
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
