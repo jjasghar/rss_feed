@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 10:01:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-20 11:01:30 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, October 20, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/amazon-cloud-problems-spur-outage-of-global-websites-and-apps?traffic_source=rss" target="_blank">Amazon cloud problems spur outage of global websites and apps</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-20 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/20/nx-s1-5579618/trump-college-university-compact-uva-mit-dartmouth" target="_blank">As deadline for Trump&#x27;s colleges compact looms, schools signal dissent</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-20 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/20/max-verstappen-wins-f1-us-grand-prix-cuts-piastri-standings-lead?traffic_source=rss" target="_blank">Max Verstappen wins F1 US Grand Prix; cuts Piastri standings lead</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-20 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc3f/live/ca65c050-ad6a-11f0-aa13-0b0479f6f42a.jpg" alt="Two dead after cargo plane skids off Hong Kong runway into sea" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0eeqz732o?at_medium=RSS&at_campaign=rss" target="_blank">Two dead after cargo plane skids off Hong Kong runway into sea</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-20 04:11</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-NTFSPLUS-NTFS-Driver" target="_blank">NTFSPLUS Announced: A New Linux Driver For NTFS With Better Performance, More Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-20 10:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/aws-alb-url-host-header-rewrite/en/headerimage/generatedHeaderImage-1760697838161.jpg" alt="AWS ALBs Now Support Native URL and Host Header Rewriting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -193,28 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/deepseek-ai/DeepSeek-OCR" target="_blank">DeepSeek OCR</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-20 06:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/subham_sagar_dev/for-those-whove-contributed-to-open-source-how-did-you-find-your-first-issue-17hk" target="_blank">For those who&#x27;ve contributed to open source, how did you find your first issue?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-20 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/puter-js-ai-without-api/" target="_blank">I Used This Open Source Library to Integrate OpenAI, Claude, Gemini to Websites Without API Keys</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-20 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tony_chase_83955825282edc/pages-services-in-depth-analysis-why-regional-niche-providers-might-be-better-for-you-36c" target="_blank">Pages Services In-Depth Analysis: Why Regional Niche Providers Might Be Better for You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 03:13</span>
             </div>
         </div>
 </div>
@@ -229,6 +233,15 @@
                 <span class="title"><a href="https://gizmodo.com/black-phone-2-rings-up-a-box-office-win-for-blumhouse-2000674197" target="_blank">‘Black Phone 2’ Rings Up a Box Office Win for Blumhouse</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/c4997b20-ac1c-11f0-a20e-778f714a31ba.jpg.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="English townsfolk advised not to swim in the mysterious river foam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/20/english-townsfolk-advised-not-to-swim-in-the-mysterious-river-foam.html" target="_blank">English townsfolk advised not to swim in the mysterious river foam</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-20 09:55</span>
             </div>
         </div>
 <div class="story">
@@ -265,15 +278,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/19/gifts-decor-and-big-savings-the-holidays-begin-with-a-15-sams-club-membership.html" target="_blank">Gifts, decor, and big savings — the holidays begin with a $15 Sam&#x27;s Club membership</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-19 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/nightmare-room-stine-1280x853.jpg" alt="R.L. Stine’s Cult TV Series ‘The Nightmare Room’ Has Hit Tubi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/r-l-stines-cult-tv-series-the-nightmare-room-has-hit-tubi-2000674048" target="_blank">R.L. Stine’s Cult TV Series ‘The Nightmare Room’ Has Hit Tubi</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-19 20:15</span>
             </div>
         </div>
 </div>
@@ -313,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
