@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 22:02:06 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-10-21 23:01:58 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/21/aje-onl-pal_detaineeszoomin_av_v3-211025?traffic_source=rss" target="_blank">Inside Israel’s war of imprisonment against Palestinians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251021-donald-trump-mn-1045-300738.jpg" alt="Democrats call on &#x27;disengaged&#x27; Trump to get involved to end shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/democrats-call-disengaged-trump-get-involved-end-shutdown-rcna238873" target="_blank">Democrats call on &#x27;disengaged&#x27; Trump to get involved to end shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-21 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/21/arsenal-thump-atletico-in-champions-league-psg-and-barcelona-in-routs-too?traffic_source=rss" target="_blank">Arsenal thump Atletico in Champions League, PSG and Barcelona in routs too</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-21 21:39</span>
@@ -58,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-dublin-riot-asylum_7057749.jpg?20251021214224" alt="Bricks and bottles thrown at officers - and police helicopter targeted with lasers - as protests turn violent in Dublin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-van-ablaze-and-bottles-thrown-at-officers-as-protests-flare-outside-dublin-asylum-hotel-13454703" target="_blank">Bricks and bottles thrown at officers - and police helicopter targeted with lasers - as protests turn violent in Dublin</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-21 19:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -66,38 +96,20 @@
                 <span class="time">2025-10-21 19:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/21/israels-netanyahu-fires-national-security-chief-tzachi-hanegbi?traffic_source=rss" target="_blank">Israel’s Netanyahu fires national security chief Tzachi Hanegbi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-21 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-vladimir-putin_7052733.jpg?20251016202525" alt="Putin-Trump meeting in doubt as official says &#x27;no immediate plan&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/putin-trump-budapest-meeting-in-doubt-as-official-says-no-plan-for-immediate-future-13454654" target="_blank">Putin-Trump meeting in doubt as official says &#x27;no immediate plan&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-21 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/21/general-strike-shuts-down-tunisias-gabes-over-pollution-crisis?traffic_source=rss" target="_blank">General strike shuts down Tunisia’s Gabes over pollution crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-21 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings" target="_blank">Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-21 22:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-500x500.jpg" alt="FDA slows down on drug reviews, approvals amid Trump admin chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +155,6 @@
                 <span class="time">2025-10-21 19:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f2c1e063f7ddf18419e89a/master/pass/Lawyers-File-New-Claim-Against-Melania-Coin-Business.jpg" alt="Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/melania-trump-used-as-window-dressing-in-elaborate-memecoin-fraud-legal-filing-claims/" target="_blank">Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-21 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75" target="_blank">I Was Vibe Coding Before It Was Cool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-21 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/" target="_blank">Replacing a $3000/mo Heroku bill with a $55/mo server</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-21 20:28</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +214,6 @@
                 <span class="time">2025-10-21 16:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.voting.works/news/public-trust-demands-open-source-voting-systems" target="_blank">Public Trust Demands Open-Source Voting Systems</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-21 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/laptop-power-bank-anker-1280x853.jpg" alt="Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ankers-25000mah-laptop-power-bank-with-triple-100w-usb-c-is-now-selling-for-pennies-on-amazon-2000637801" target="_blank">Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-21 22:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/hp17-inch-laptop-1280x853.jpg" alt="HP 17-Inch High-End Laptop Drops $2230, Now It’s Cheaper Than a Budget Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +287,6 @@
                 <span class="time">2025-10-21 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/elon-salute.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Elon Musk&#x27;s cars can&#x27;t drive themselves, but they sure can drive lawsuits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/21/elon-musks-cars-cant-drive-themselves-but-they-sure-can-drive-lawsuits.html" target="_blank">Elon Musk&#x27;s cars can&#x27;t drive themselves, but they sure can drive lawsuits</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-21 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
