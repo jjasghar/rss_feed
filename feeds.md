@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 12:02:50 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-21 13:12:04 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 12:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +53,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761046835407_tdy_news_7a_bradley_vance_israel_251021_1920x1080-uguldn.jpg" alt="JD Vance Arrives in Israel as Gaza Deal Hangs in the Balance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/as-gaza-deal-hangs-in-the-balance-jd-vance-travels-to-israel-250290757868" target="_blank">JD Vance Arrives in Israel as Gaza Deal Hangs in the Balance</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-21 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49f/live/1082fdd0-ae67-11f0-b2a1-6f537f66f9aa.jpg" alt="French ex-president Sarkozy begins jail sentence for campaign finance conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss" target="_blank">French ex-president Sarkozy begins jail sentence for campaign finance conspiracy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-21 11:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/21/g-s1-94240/ants-disease-architecture" target="_blank">Some ant architects design a colony to cut the risk of disease. Humans, take note!</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-21 11:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -73,38 +97,20 @@
                 <span class="time">2025-10-21 09:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e86/live/032cf2b0-ae41-11f0-8c88-ef716e73d157.jpg" alt="Sanae Takaichi makes history as Japan&#x27;s first female prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c751z23n3n7o?at_medium=RSS&at_campaign=rss" target="_blank">Sanae Takaichi makes history as Japan&#x27;s first female prime minister</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-21 09:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5580619/new-jersey-governor-election-trump" target="_blank">Blue New Jersey is expecting a very close race for governor this November</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/doha-debates/2025/10/21/doha-debates-is-back-2?traffic_source=rss" target="_blank">Doha Debates is back</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-21 08:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/bigtechgreen-500x500.jpg" alt="Big Tech may fall short of green energy targets due to proposed rule changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/big-tech-may-fall-short-of-green-energy-targets-due-to-proposed-rule-changes/" target="_blank">Big Tech may fall short of green energy targets due to proposed rule changes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-21 13:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +156,29 @@
                 <span class="time">2025-10-21 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/" target="_blank">European AI rising star Nexos.ai raises $30M to unlock enterprise AI adoption</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0yc92b5mvrmnwj4myaad.png" alt="Git Bits: Symbols" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oculus42/git-bits-symbols-15ck" target="_blank">Git Bits: Symbols</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/deno-2-5-released/en/headerimage/header-1760887066399.jpg" alt="Deno 2.5 Brings Support for Permission Sets and Test API Hooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/deno-2-5-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Deno 2.5 Brings Support for Permission Sets and Test API Hooks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/rogeriorioli/como-usar-meta-campos-metafields-no-shopify-para-turbinar-suas-paginas-de-produto-guia-4mcd" target="_blank">Como Usar Meta Campos (Metafields) no Shopify para Turbinar suas Páginas de Produto. Guia Definitivo</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-21 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/three-questions-better-architecture/en/headerimage/Three-Questions-That-Help-You-Build-a-Better-Software-Architecture-header-image-1760608737355.jpg" alt="Article: Three Questions That Help You Build a Better Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/three-questions-better-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Three Questions That Help You Build a Better Software Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftp1jam57winadydxfyrn.png" alt="This Puzzle Shows Just How Far LLMs Have Progressed in a Little Over a Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thomas_reid_ebd566e4d12ce/this-puzzle-shows-just-how-far-llms-have-progressed-in-a-little-over-a-year-2o25" target="_blank">This Puzzle Shows Just How Far LLMs Have Progressed in a Little Over a Year</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 08:49</span>
             </div>
         </div>
 </div>
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
