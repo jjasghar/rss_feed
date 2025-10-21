@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 09:01:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-21 10:01:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/21/real-madrid-vs-juventus-uefa-champions-league-teams-start-and-lineups?traffic_source=rss" target="_blank">Real Madrid vs Juventus: UEFA Champions League – teams, start and lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 09:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e86/live/032cf2b0-ae41-11f0-8c88-ef716e73d157.jpg" alt="Sanae Takaichi makes history as Japan&#x27;s first female prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c751z23n3n7o?at_medium=RSS&at_campaign=rss" target="_blank">Sanae Takaichi makes history as Japan&#x27;s first female prime minister</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-21 09:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5580619/new-jersey-governor-election-trump" target="_blank">Blue New Jersey is expecting a very close race for governor this November</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-21 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +102,29 @@
                 <span class="time">2025-10-21 05:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss" target="_blank">Palestinian woman attacked by Israeli settler while harvesting olives</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-21 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-sanae-takaichi-japan_7056926.jpg?20251021060002" alt="Japan votes in country&#x27;s first ever female PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/japans-parliament-votes-in-countrys-first-ever-female-pm-13454229" target="_blank">Japan votes in country&#x27;s first ever female PM</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-21 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-sanae-takaichi-japan_7056926.jpg?20251021060002" alt="Japan&#x27;s parliament votes in country&#x27;s first ever female PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/japans-parliament-votes-in-countrys-first-ever-female-pm-13454229" target="_blank">Japan&#x27;s parliament votes in country&#x27;s first ever female PM</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-21 04:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/" target="_blank">Spiro raises $100M, the largest-ever investment in Africa’s e-mobility</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-21 09:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f12bbe0c68c00ae87a1d8e/master/pass/620497234" alt="Easter Island&#x27;s Moai Statues May Have Walked to Where They Now Stand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/easter-islands-moai-statues-may-have-walked-to-where-they-now-stand/" target="_blank">Easter Island&#x27;s Moai Statues May Have Walked to Where They Now Stand</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-21 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +161,20 @@
                 <span class="time">2025-10-21 02:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th" target="_blank">Google’s new deadline for Epic consequences is October 29th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-21 00:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc" target="_blank">Ninja Gaiden 4 is the perfect place to jump into the series</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-20 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rogeriorioli/como-usar-meta-campos-metafields-no-shopify-para-turbinar-suas-paginas-de-produto-guia-4mcd" target="_blank">Como Usar Meta Campos (Metafields) no Shopify para Turbinar suas Páginas de Produto. Guia Definitivo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 09:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/three-questions-better-architecture/en/headerimage/Three-Questions-That-Help-You-Build-a-Better-Software-Architecture-header-image-1760608737355.jpg" alt="Article: Three Questions That Help You Build a Better Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/" target="_blank">Open source is giving you choices with your agent systems</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-10-21 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foey0a35yclat1zdybevf.png" alt="⚡10 JavaScript Concepts You Thought You Knew (But Didn’t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb" target="_blank">⚡10 JavaScript Concepts You Thought You Knew (But Didn’t)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 06:54</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
