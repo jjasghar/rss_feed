@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 01:29:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 02:29:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/russia-ukraine-war-list-of-key-events-day-1335?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,335</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-20 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/oct/21/global-health-infectious-disease-aid-cuts-malaria-funding-cost-deaths-gdp-africa" target="_blank">Anti-malaria funding cuts could lead to ‘deadliest resurgence ever’, study warns</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-20 23:01</span>
             </div>
         </div>
 <div class="story">
@@ -83,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/trump-administration-deploy-national-guard-portland-court-rules/story?id=126696414" target="_blank">Trump administration can deploy National Guard to Portland, court rules</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-20 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251014-portland-protest-se-203p-56fff8.jpg" alt="Appeals court allows Trump&#x27;s deployment of National Guard in Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/appeals-court-allows-trumps-deployment-national-guard-portland-rcna236877" target="_blank">Appeals court allows Trump&#x27;s deployment of National Guard in Portland</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-20 19:37</span>
             </div>
         </div>
 </div>
@@ -168,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/zorin-os-18-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18 Broke Download Records on Windows 10 EOL Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/zorin-os-18-biggest-launch-ever" target="_blank">Zorin OS 18 Broke Download Records on Windows 10 EOL Day</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-20 22:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1v5ck8ntbyhasjn1u6n.png" alt="Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +219,6 @@
                 <span class="time">2025-10-20 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18706261&w=600" alt="Coarse Parallel Processing of Work Queues in Kubernetes: Advancing Optimization for Batch Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-work-queue-parallel-processing" target="_blank">Coarse Parallel Processing of Work Queues in Kubernetes: Advancing Optimization for Batch Processing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-20 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Kenny-Loggins-1280x853.jpg" alt="Kenny Loggins Doesn’t Want Any Part of Trump’s ‘No Kings’ ‘Poop’ Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kenny-loggins-doesnt-want-any-part-of-trumps-no-kings-poop-video-2000674663" target="_blank">Kenny Loggins Doesn’t Want Any Part of Trump’s ‘No Kings’ ‘Poop’ Video</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-21 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dyson-supersonic-1280x853.jpg" alt="Dyson Quietly Clears Out the Supersonic, Salon-Grade Hair Dryer Now Going for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dyson-quietly-clears-out-the-supersonic-salon-grade-hair-dryer-now-going-for-peanuts-2000637346" target="_blank">Dyson Quietly Clears Out the Supersonic, Salon-Grade Hair Dryer Now Going for Peanuts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-21 00:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Ninja-Gaiden-4-alt-1280x732.jpg" alt="Damn, It Feels So Good To Have Ninja Gaiden Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-2-hour-halloween-fan-film-fills-in-a-gap-between-kills-and-ends-2000674453" target="_blank">This 2-Hour ‘Halloween’ Fan Film Fills in a Gap Between ‘Kills’ and ‘Ends’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-20 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Bring your software into this decade with Microsoft Office 2021" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/20/bring-your-software-into-this-decade-with-microsoft-office-2021.html" target="_blank">Bring your software into this decade with Microsoft Office 2021</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-20 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/fearmain-1280x720.jpg" alt="Two Awesome FEAR Games Are On Sale Right Now (Oh, And FEAR 3 Is Too)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fear-project-origin-monolith-productions-mordor-2000637400" target="_blank">Two Awesome FEAR Games Are On Sale Right Now (Oh, And FEAR 3 Is Too)</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-20 20:38</span>
             </div>
         </div>
 </div>
@@ -331,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
