@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 08:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 09:01:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/doha-debates/2025/10/21/doha-debates-is-back-2?traffic_source=rss" target="_blank">Doha Debates is back</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 08:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b32/live/a6dc7630-ae53-11f0-ba75-093eca1ac29b.jpg" alt="French ex-president Sarkozy goes to  jail for campaign finance conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/japans-parliament-votes-in-countrys-first-ever-female-pm-13454229" target="_blank">Japan&#x27;s parliament votes in country&#x27;s first ever female PM</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-10-21 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5558323/miami-beach-reefline-underwater-art-installation-coral" target="_blank">Miami Beach puts the art in offshore artificial reef</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-21 04:01</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/three-questions-better-architecture/en/headerimage/Three-Questions-That-Help-You-Build-a-Better-Software-Architecture-header-image-1760608737355.jpg" alt="Article: Three Questions That Help You Build a Better Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/three-questions-better-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Three Questions That Help You Build a Better Software Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-21 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftp1jam57winadydxfyrn.png" alt="This Puzzle Shows Just How Far LLMs Have Progressed in a Little Over a Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thomas_reid_ebd566e4d12ce/this-puzzle-shows-just-how-far-llms-have-progressed-in-a-little-over-a-year-2o25" target="_blank">This Puzzle Shows Just How Far LLMs Have Progressed in a Little Over a Year</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-25-10-security-updates" target="_blank">What’s new in security for Ubuntu 25.10?</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-21 08:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb" target="_blank">⚡10 JavaScript Concepts You Thought You Knew (But Didn’t)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-21 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.marginalia.nu/log/a_126_multilingual/" target="_blank">Language Support for Marginalia Search</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-21 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbo1gc1xelw9noiteklns.png" alt="Kickstarting Our DSA Journey: Learning and Growing Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/we_are_broken_compilers/kickstarting-our-dsa-journey-learning-and-growing-together-2pf9" target="_blank">Kickstarting Our DSA Journey: Learning and Growing Together</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff3gadhvtu5xjzq0npqfi.gif" alt="Building my Personal Portfolio with Tailwind CSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sufalthakre/building-my-personal-portfolio-with-tailwind-css-3gkl" target="_blank">Building my Personal Portfolio with Tailwind CSS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 03:47</span>
             </div>
         </div>
 </div>
@@ -330,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
