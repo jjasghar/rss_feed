@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 16:02:48 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-21 17:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 16:03 UTC</div>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/21/warner-bros-discovery-explores-possible-sale?traffic_source=rss" target="_blank">Warner Bros Discovery explores possible sale</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761062709071_f_mo_dc_vance_deadline_hamas_251021_1920x1080-2x3kw9.jpg" alt="Vance does not give &#x27;explicit deadline&#x27; for Hamas to disarm or return dead hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/vance-does-not-give-explicit-deadline-for-hamas-to-disarm-or-return-dead-hostages-250308677748" target="_blank">Vance does not give &#x27;explicit deadline&#x27; for Hamas to disarm or return dead hostages</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-21 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Health/johnson-rt-er-251020_1760989553490_hpMain_4x3t_384.jpg" alt="Some Americans fear high health insurance premiums if ACA subsidies expire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +98,38 @@
                 <span class="time">2025-10-21 13:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/louvre-remains-closed_1761046662532_hpMain_4x3t_384.jpg" alt="Louvre director will appear before lawmakers to answer questions on theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/louvre-director-summoned-french-lawmakers-amid-ongoing-investigation/story?id=126713238" target="_blank">Louvre director will appear before lawmakers to answer questions on theft</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-21 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/louvre-remains-closed_1761046662532_hpMain_4x3t_384.jpg" alt="Louvre director summoned to appear before lawmakers to answer questions on theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/louvre-director-summoned-french-lawmakers-amid-ongoing-investigation/story?id=126713238" target="_blank">Louvre director summoned to appear before lawmakers to answer questions on theft</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review" target="_blank">Apple MacBook Pro M5 review: new chip, same greatness</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f6a93ad0fc611fc4919adc/master/pass/Model-Behavior-Santas-Helper-is-an-LLM-Business.jpg" alt="Forget SEO. Welcome to the World of Generative Engine Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/" target="_blank">Forget SEO. Welcome to the World of Generative Engine Optimization</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/" target="_blank">YouTube’s likeness detection technology has officially launched</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-21 15:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f6afa95a7f87dd7d81d184/master/pass/Top_Art_Digital_Illo.jpg" alt="The AWS Outage Was a Nightmare for College Students" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,33 +157,6 @@
                 <span class="time">2025-10-21 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/21/only-6-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/" target="_blank">Only 6 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/bigtechgreen-500x500.jpg" alt="Big Tech may fall short of green energy targets due to proposed rule changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/big-tech-may-fall-short-of-green-energy-targets-due-to-proposed-rule-changes/" target="_blank">Big Tech may fall short of green energy targets due to proposed rule changes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-21 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f6b8277d69a28856c00e63/master/pass/IMG_0006.JPG" alt="Apple iPad Pro (M5, 2025) Review: Tremendously Powerful" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/apple-ipad-pro-m5-2025/" target="_blank">Apple iPad Pro (M5, 2025) Review: Tremendously Powerful</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-21 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,10 +165,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.voting.works/news/public-trust-demands-open-source-voting-systems" target="_blank">Public Trust Demands Open-Source Voting Systems</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-21 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Nova-Lake-6th-Gen-NPU" target="_blank">Intel Nova Lake To Feature 6th Gen NPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-21 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/enric-ai/we-built-an-ai-code-assistant-that-actually-understands-your-repo-looking-for-testers-19f8" target="_blank">We built an AI code assistant that actually understands your repo. Looking for testers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-21 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/kde-plasma-6.5.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Plasma 6.5 Released with Rounded Corners, Clipboard Pinning + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/kde-plasma-6-5-new-features-changes-release" target="_blank">KDE Plasma 6.5 Released with Rounded Corners, Clipboard Pinning + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-21 15:22</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/automating-storage-tiering-and-lifecycle-policies" target="_blank">Automating Storage Tiering and Lifecycle Policies in AWS S3 Using Python (Boto3)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jdkhan/october-2025-ai-tool-roundup-a-developers-perspective-3ifh" target="_blank">October 2025 AI Tool Roundup: A Developer&#x27;s Perspective</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18706299&w=600" alt="The Dangerous Middle: Agile Roles That AI Will Erode First" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/dangerous-middle-agile-roles-ai-erosion" target="_blank">The Dangerous Middle: Agile Roles That AI Will Erode First</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0yc92b5mvrmnwj4myaad.png" alt="Git Bits: Symbols" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oculus42/git-bits-symbols-15ck" target="_blank">Git Bits: Symbols</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 12:59</span>
             </div>
         </div>
 </div>
@@ -233,11 +236,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/ConjuringLastRites-1280x853.jpg" alt="‘The Conjuring: Last Rites’ Director Explains Why the One Cameo You Actually Wanted Wasn’t in the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/conjuring-last-rights-sister-irene-cameo-2000674970" target="_blank">‘The Conjuring: Last Rites’ Director Explains Why the One Cameo You Actually Wanted Wasn’t in the Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-21 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/agilityrobotamazon-1280x853.jpg" alt="Leaked Amazon Plans Say Robots Will Help It Avoid Hiring 600,000 Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/leaked-amazon-plans-say-robots-will-help-it-avoid-hiring-600000-workers-2000674920" target="_blank">Leaked Amazon Plans Say Robots Will Help It Avoid Hiring 600,000 Workers</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K81CMY6VH0QKZ0NXRBGF10M9/hero-image.png" alt="The Next Boox Palma Is a Mini Digital Notebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/boox-palma-2-pro-announcement?utm_medium=RSS" target="_blank">The Next Boox Palma Is a Mini Digital Notebook</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-21 16:00</span>
             </div>
         </div>
@@ -268,24 +289,6 @@
                 <span class="time">2025-10-21 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/totenkopf.jpg?fit=1726%2C1150&amp;quality=60&amp;ssl=1" alt="&quot;Progressive populist&quot; Graham Platner has Nazi totenkopf tattoo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/21/progressive-populist-graham-platner-has-nazi-totenkopf-tattoo.html" target="_blank">&quot;Progressive populist&quot; Graham Platner has Nazi totenkopf tattoo</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-21 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/nasa_CHAPEA-1280x853.jpg" alt="Space Exploration in the Backyard, on a Budget—How NASA Simulates Conditions in Space Without Blasting Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/space-exploration-in-the-backyard-on-a-budget-how-nasa-simulates-conditions-in-space-without-blasting-off-2000674896" target="_blank">Space Exploration in the Backyard, on a Budget—How NASA Simulates Conditions in Space Without Blasting Off</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-21 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
