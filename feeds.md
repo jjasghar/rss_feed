@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 21:01:50 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-21 22:02:06 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/21/arsenal-thump-atletico-in-champions-league-psg-and-barcelona-in-routs-too?traffic_source=rss" target="_blank">Arsenal thump Atletico in Champions League, PSG and Barcelona in routs too</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 21:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-portland-3-ap-gmh-251021_1761072133967_hpMain_4x3t_384.jpg" alt="Trump admin seeks to dissolve remaining order blocking troop deployment to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +93,6 @@
                 <span class="time">2025-10-21 17:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae4/live/43fc4180-ae99-11f0-b305-65f4f8d88da9.jpg" alt="Plans for Trump-Putin meeting shelved days after Budapest talks proposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss" target="_blank">Plans for Trump-Putin meeting shelved days after Budapest talks proposed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-21 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +105,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/10/fda-slows-down-on-drug-reviews-approvals-amid-trump-admin-chaos/" target="_blank">FDA slows down on drug reviews, approvals amid Trump admin chaos</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-21 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f7c62248e48370f358662a/master/pass/This%20Smart%20Warming%20Mug%20is%20Marked%20Down%20by%20$60.png" alt="This Smart Warming Mug Is Marked Down by $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ember-travel-mug-deal-1025/" target="_blank">This Smart Warming Mug Is Marked Down by $60</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-21 20:04</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +152,20 @@
                 <span class="time">2025-10-21 19:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/21/bill-gatess-old-climate-lobbyists-launch-a-new-firm/" target="_blank">Bill Gates’s old climate lobbyists launch a new firm</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jack0lantern/from-impostor-syndrome-to-mentorship-how-what-shaped-my-growth-as-an-engineer-1kak" target="_blank">From Impostor Syndrome to Mentorship: How “WHAT” Shaped My Growth as an Engineer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 21:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +211,6 @@
                 <span class="time">2025-10-21 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/" target="_blank">How to update community health files with AI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-21 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/hp17-inch-laptop-1280x853.jpg" alt="HP 17-Inch High-End Laptop Drops $2230, Now It’s Cheaper Than a Budget Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-17-inch-high-end-laptop-drops-2230-now-its-cheaper-than-a-budget-laptop-2000637790" target="_blank">HP 17-Inch High-End Laptop Drops $2230, Now It’s Cheaper Than a Budget Laptop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-21 21:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Apple-Vision-Pro-M5-14-1280x853.jpg" alt="Apple Vision Pro (M5) Review: The Crown of the Dorks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,21 +276,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Keeperrv-1280x720.jpg" alt="Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/elon-salute.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Elon Musk&#x27;s cars can&#x27;t drive themselves, but they sure can drive lawsuits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/keeper-the-kotaku-review-xbox-game-pass-how-long-is-it-good-price-2000637702" target="_blank">Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-21 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K83TEM1FRXAP8294NHN99FT8/hero-image.png" alt="My Favorite Amazon Deal of the Day: This 75-inch Toshiba C350 Smart TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/75-inch-toshiba-c350-smart-tv-deal?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: This 75-inch Toshiba C350 Smart TV</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-21 17:30</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/21/elon-musks-cars-cant-drive-themselves-but-they-sure-can-drive-lawsuits.html" target="_blank">Elon Musk&#x27;s cars can&#x27;t drive themselves, but they sure can drive lawsuits</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-21 18:27</span>
             </div>
         </div>
 </div>
@@ -317,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
