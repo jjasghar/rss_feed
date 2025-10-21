@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 14:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 15:02:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/21/wfp-says-food-supplies-to-gaza-below-targets-urges-more-crossings-to-open?traffic_source=rss" target="_blank">WFP says food supplies to Gaza below targets, urges more crossings to open</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 14:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +100,6 @@
                 <span class="time">2025-10-21 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/21/g-s1-94240/ants-disease-architecture" target="_blank">Some ant architects design a colony to cut the risk of disease. Humans, take note!</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-21 11:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -124,6 +121,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/big-tech-may-fall-short-of-green-energy-targets-due-to-proposed-rule-changes/" target="_blank">Big Tech may fall short of green energy targets due to proposed rule changes</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-21 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f6b8277d69a28856c00e63/master/pass/IMG_0006.JPG" alt="Apple iPad Pro (M5, 2025) Review: Tremendously Powerful" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/apple-ipad-pro-m5-2025/" target="_blank">Apple iPad Pro (M5, 2025) Review: Tremendously Powerful</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-21 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -153,20 +159,29 @@
                 <span class="time">2025-10-21 09:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f12bbe0c68c00ae87a1d8e/master/pass/620497234" alt="Easter Island&#x27;s Moai Statues May Have Walked to Where They Now Stand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/easter-islands-moai-statues-may-have-walked-to-where-they-now-stand/" target="_blank">Easter Island&#x27;s Moai Statues May Have Walked to Where They Now Stand</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-21 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rociogarciavf/how-to-tackle-numpy-matrix-operations-in-2025-35g6" target="_blank">How to Tackle Numpy Matrix Operations in 2025?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18706318&w=600" alt="Automating Storage Tiering and Lifecycle Policies in AWS S3 Using Python (Boto3)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automating-storage-tiering-and-lifecycle-policies" target="_blank">Automating Storage Tiering and Lifecycle Policies in AWS S3 Using Python (Boto3)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-21 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +218,6 @@
                 <span class="time">2025-10-21 12:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/deno-2-5-released/en/headerimage/header-1760887066399.jpg" alt="Deno 2.5 Brings Support for Permission Sets and Test API Hooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/deno-2-5-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Deno 2.5 Brings Support for Permission Sets and Test API Hooks</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-21 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yaseen_tech/the-ice-cream-illusion-how-founders-confuse-product-delivery-with-performance-4k4d" target="_blank">The Ice Cream Illusion: How Founders Confuse Product Delivery With Performance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 11:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/yakuza-1280x720.jpg" alt="Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dont-download-ps-pluss-latest-batch-of-games-until-youve-read-this-2000637598" target="_blank">Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-21 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K83AS6Z5J6M2G24C8WFAVA32/hero-image.png" alt="These JBL Noise-Cancelling Headphones Are $40 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/noise-cancelling-on-ear-jbl-headphones-sale?utm_medium=RSS" target="_blank">These JBL Noise-Cancelling Headphones Are $40 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-21 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/totenkopf.jpg?fit=1726%2C1150&amp;quality=60&amp;ssl=1" alt="&quot;Progressive populist&quot; Graham Platner has Nazi totenkopf tattoo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/21/progressive-populist-graham-platner-has-nazi-totenkopf-tattoo.html" target="_blank">&quot;Progressive populist&quot; Graham Platner has Nazi totenkopf tattoo</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-21 14:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/nasa_CHAPEA-1280x853.jpg" alt="Space Exploration in the Backyard, on a Budget—How NASA Simulates Conditions in Space Without Blasting Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/21/6-pound-steel-phone-case.html" target="_blank">6 pound steel phone case</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-21 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Screamboat-poster-1920-1280x853.jpg" alt="‘Screamboat 2’ Will Sink Its White-Gloved Claws Into Minnie Mouse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/screamboat-2-will-sink-its-white-gloved-claws-into-minnie-mouse-2000674681" target="_blank">‘Screamboat 2’ Will Sink Its White-Gloved Claws Into Minnie Mouse</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Kenny-Loggins-1280x853.jpg" alt="Kenny Loggins Doesn’t Want Any Part of Trump’s ‘No Kings’ ‘Poop’ Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kenny-loggins-doesnt-want-any-part-of-trumps-no-kings-poop-video-2000674663" target="_blank">Kenny Loggins Doesn’t Want Any Part of Trump’s ‘No Kings’ ‘Poop’ Video</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-21 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/dyson-supersonic-1280x853.jpg" alt="Dyson Quietly Clears Out the Supersonic, Salon-Grade Hair Dryer Now Going for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dyson-quietly-clears-out-the-supersonic-salon-grade-hair-dryer-now-going-for-peanuts-2000637346" target="_blank">Dyson Quietly Clears Out the Supersonic, Salon-Grade Hair Dryer Now Going for Peanuts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-21 00:44</span>
             </div>
         </div>
 </div>
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
