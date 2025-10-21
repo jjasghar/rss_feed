@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 11:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-10-21 12:02:50 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/louvre-remains-closed_1761046662532_hpMain_4x3t_384.jpg" alt="Louvre director summoned to appear before lawmakers to answer questions on theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/louvre-director-summoned-french-lawmakers-amid-ongoing-investigation/story?id=126713238" target="_blank">Louvre director summoned to appear before lawmakers to answer questions on theft</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +100,29 @@
                 <span class="time">2025-10-21 08:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b32/live/a6dc7630-ae53-11f0-ba75-093eca1ac29b.jpg" alt="French ex-president Sarkozy goes to  jail for campaign finance conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss" target="_blank">French ex-president Sarkozy goes to  jail for campaign finance conspiracy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-21 07:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/" target="_blank">Airbnb is becoming more social by allowing users to connect with fellow travelers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f6bd33e90e58c5e36c216f/master/pass/Review-%20Luminkey%20Magger68%20Plus%20HE.png" alt="Luminkey Magger68 Plus HE Review: Mechanical Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/luminkey-magger68-plus-he/" target="_blank">Luminkey Magger68 Plus HE Review: Mechanical Heart</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +159,29 @@
                 <span class="time">2025-10-21 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/" target="_blank">YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/68a6ba53499bdd827f510e35_54fca9353dfe2c2a33bb46167c61cd64_payload-block3-500x500-1761015083.png" alt="It wasn’t space debris that struck a United Airlines plane—it was a weather balloon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/" target="_blank">It wasn’t space debris that struck a United Airlines plane—it was a weather balloon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-21 02:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yaseen_tech/the-ice-cream-illusion-how-founders-confuse-product-delivery-with-performance-4k4d" target="_blank">The Ice Cream Illusion: How Founders Confuse Product Delivery With Performance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18706281&w=600" alt="A Practical Guide to Deploying Microservices on Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/practical-guide-deploying-microservices-kubernetes" target="_blank">A Practical Guide to Deploying Microservices on Kubernetes</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,22 +218,18 @@
                 <span class="time">2025-10-21 08:49</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-25-10-security-updates" target="_blank">What’s new in security for Ubuntu 25.10?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-21 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mjnz/peanuts-engineering-a-practical-guide-to-build-fast-and-scale-effectively-part-0-the-philosophy-jb" target="_blank">Peanuts engineering: A practical guide to build fast and scale effectively. Part 0: The philosophy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 07:52</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/a-cybersecurity-merit-badge.html" target="_blank">A Cybersecurity Merit Badge</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-21 11:07</span>
             </div>
         </div>
 </div>
@@ -312,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
