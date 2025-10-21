@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 00:04:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 01:29:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/russia-ukraine-war-list-of-key-events-day-1335?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,335</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-20 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/chicago-3-rt-gmh-251009_1760018589781_hpMain_4x3t_384.jpg" alt="Illinois, Chicago urge Supreme Court to uphold block on National Guard deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/illinois-chicago-urge-supreme-court-uphold-block-national/story?id=126699774" target="_blank">Illinois, Chicago urge Supreme Court to uphold block on National Guard deployment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-20 21:46</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +94,20 @@
                 <span class="time">2025-10-20 19:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/20/nx-s1-5564797/ninth-circuit-decision-portland-national-guard-tro-president-trump" target="_blank">9th Circuit rules that National Guard can deploy to Portland</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-20 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th" target="_blank">Google’s new deadline for Epic consequences is October 29th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-21 00:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/" target="_blank">Breaking down rare earth element magnets for recycling</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-20 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f65dea692735b39dbd9c74/master/pass/Mystery-Object-From-%E2%80%98Space%E2%80%99-Science-2208683302.jpg" alt="Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mystery-space-object-strikes-united-airlines-flight-over-utah/" target="_blank">Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-20 19:00</span>
             </div>
         </div>
 </div>
@@ -331,22 +326,13 @@
                 <span class="time">2025-10-20 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5682.png" alt="No Ego-Searching" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5682" target="_blank">No Ego-Searching</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-20 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
