@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 15:02:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-21 16:02:48 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/johnson-rt-er-251020_1760989553490_hpMain_4x3t_384.jpg" alt="Some Americans fear high health insurance premiums if ACA subsidies expire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/americans-fear-high-premiums-aca-enhanced-subsidies-expire/story?id=126613026" target="_blank">Some Americans fear high health insurance premiums if ACA subsidies expire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-21 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05dd/live/3d85dc50-ae8d-11f0-aa13-0b0479f6f42a.jpg" alt="Third survivor quits grooming gang inquiry panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwykd173l3vo?at_medium=RSS&at_campaign=rss" target="_blank">Third survivor quits grooming gang inquiry panel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-21 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +95,38 @@
                 <span class="time">2025-10-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761046835407_tdy_news_7a_bradley_vance_israel_251021_1920x1080-uguldn.jpg" alt="JD Vance Arrives in Israel as Gaza Deal Hangs in the Balance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/as-gaza-deal-hangs-in-the-balance-jd-vance-travels-to-israel-250290757868" target="_blank">JD Vance Arrives in Israel as Gaza Deal Hangs in the Balance</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-21 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49f/live/1082fdd0-ae67-11f0-b2a1-6f537f66f9aa.jpg" alt="French ex-president Sarkozy begins jail sentence for campaign finance conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss" target="_blank">French ex-president Sarkozy begins jail sentence for campaign finance conspiracy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-21 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f6afa95a7f87dd7d81d184/master/pass/Top_Art_Digital_Illo.jpg" alt="The AWS Outage Was a Nightmare for College Students" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-aws-outage-was-a-nightmare-for-college-students/" target="_blank">The AWS Outage Was a Nightmare for College Students</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-21 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/803481/openai-web-browser-ai-announcement-teaser" target="_blank">It looks like OpenAI is about to announce its AI web browser</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-21 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2206876894-500x500.jpg" alt="Even with protections, wolves still fear humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/even-with-protections-wolves-still-fear-humans/" target="_blank">Even with protections, wolves still fear humans</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-21 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +154,20 @@
                 <span class="time">2025-10-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/" target="_blank">Airbnb is becoming more social by allowing users to connect with fellow travelers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f6bd33e90e58c5e36c216f/master/pass/Review-%20Luminkey%20Magger68%20Plus%20HE.png" alt="Luminkey Magger68 Plus HE Review: Mechanical Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/luminkey-magger68-plus-he/" target="_blank">Luminkey Magger68 Plus HE Review: Mechanical Heart</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/" target="_blank">Spiro raises $100M, the largest-ever investment in Africa’s e-mobility</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 09:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/enric-ai/we-built-an-ai-code-assistant-that-actually-understands-your-repo-looking-for-testers-19f8" target="_blank">We built an AI code assistant that actually understands your repo. Looking for testers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 15:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="time">2025-10-21 12:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kyutai.org/next/codec-explainer" target="_blank">Neural audio codecs: how to get audio into LLMs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-21 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/agilityrobotamazon-1280x853.jpg" alt="Leaked Amazon Plans Say Robots Will Help It Avoid Hiring 600,000 Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/leaked-amazon-plans-say-robots-will-help-it-avoid-hiring-600000-workers-2000674920" target="_blank">Leaked Amazon Plans Say Robots Will Help It Avoid Hiring 600,000 Workers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K82E26Q1WBC31QGRYBV1SWR6/hero-image.png" alt="What People Are Getting Wrong This Week: Are Aliens Invading in November?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-alien-invasion-in-november?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Are Aliens Invading in November?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-21 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/yakuza-1280x720.jpg" alt="Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +286,6 @@
                 <span class="time">2025-10-21 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8324HG7F6TCP1RKTQE81EN5/hero-image.png" alt="This JBL PartyBox Speaker Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-partybox-110-bluetooth-speaker-sale?utm_medium=RSS" target="_blank">This JBL PartyBox Speaker Is Over $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-21 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Image-Matter-Neuroscience.jpg?fit=1080%2C606&amp;quality=60&amp;ssl=1" alt="6 pound steel phone case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/21/6-pound-steel-phone-case.html" target="_blank">6 pound steel phone case</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-21 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +309,13 @@
                 <span class="time">2025-10-20 18:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1760935117-20251020.png" alt="Saturday Morning Breakfast Cereal - Signal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/signal-4" target="_blank">Saturday Morning Breakfast Cereal - Signal</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
