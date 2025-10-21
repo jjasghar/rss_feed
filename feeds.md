@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 03:17:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 04:02:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 03:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +112,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/" target="_blank">YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-21 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/68a6ba53499bdd827f510e35_54fca9353dfe2c2a33bb46167c61cd64_payload-block3-500x500-1761015083.png" alt="It wasn’t space debris that struck a United Airlines plane—it was a weather balloon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/" target="_blank">It wasn’t space debris that struck a United Airlines plane—it was a weather balloon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-21 02:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th" target="_blank">Google’s new deadline for Epic consequences is October 29th</a></span>
                 <span class="feed">The Verge</span>
@@ -134,29 +163,29 @@
                 <span class="time">2025-10-20 21:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-20-at-3.36.24-PM-500x500.png" alt="Claude Code gets a web version—but it’s the new sandboxing that really matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/claude-code-gets-a-web-version-but-its-the-new-sandboxing-that-really-matters/" target="_blank">Claude Code gets a web version—but it’s the new sandboxing that really matters</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-20 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1359528962-e1760988838500-500x500.jpg" alt="Breaking down rare earth element magnets for recycling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/" target="_blank">Breaking down rare earth element magnets for recycling</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-20 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff3gadhvtu5xjzq0npqfi.gif" alt="Building my Personal Portfolio with Tailwind CSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sufalthakre/building-my-personal-portfolio-with-tailwind-css-3gkl" target="_blank">Building my Personal Portfolio with Tailwind CSS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 03:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.9-Strix-Halo" target="_blank">AMD ROCm 7.9 Running In Early Tests On Ryzen AI Max &quot;Strix Halo&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-21 01:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Hibernation-Cancellation" target="_blank">Patches Posted To Allow Hibernation Cancellation On Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-20 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F704kk4pwnd97nmto28ke.jpg" alt="Navigating the .NET Ecosystem: My Take on a Practical Roadmap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eli77rhm/navigating-the-net-ecosystem-my-take-on-a-practical-roadmap-463o" target="_blank">Navigating the .NET Ecosystem: My Take on a Practical Roadmap</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=7azKz3YP7eA" target="_blank">Parallel programming and Cython</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-20 19:19</span>
             </div>
         </div>
 </div>
@@ -325,22 +336,13 @@
                 <span class="time">2025-10-20 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/emperor_palpatine.png" alt="Emperor Palpatine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3157/" target="_blank">Emperor Palpatine</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-10-20 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 03:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
