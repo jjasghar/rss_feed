@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 06:02:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 07:01:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 06:03 UTC</div>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +56,24 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5581173/chess-daniel-naroditsky-dies" target="_blank">American chess grandmaster Daniel Naroditsky dies at 29</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-21 05:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss" target="_blank">Palestinian woman attacked by Israeli settler while harvesting olives</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-sanae-takaichi-japan_7056926.jpg?20251021060002" alt="Japan votes in country&#x27;s first ever female PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/japans-parliament-votes-in-countrys-first-ever-female-pm-13454229" target="_blank">Japan votes in country&#x27;s first ever female PM</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-21 04:09</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/21/what-caused-amazons-aws-outage-and-why-did-so-many-major-apps-go-offline?traffic_source=rss" target="_blank">What caused Amazon’s AWS outage, and why did so many major apps go offline?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-21 02:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/20/g-s1-94315/white-house-demolishing-east-wing-trump-ballroom" target="_blank">The White House starts demolishing part of the East Wing to build Trump&#x27;s ballroom</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-21 00:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d38f/live/a4681fa0-adf7-11f0-b2a1-6f537f66f9aa.jpg" alt="Virginia Giuffre would see Prince Andrew giving up titles as a victory, co-author says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c201k3wd65yo?at_medium=RSS&at_campaign=rss" target="_blank">Virginia Giuffre would see Prince Andrew giving up titles as a victory, co-author says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-20 23:45</span>
             </div>
         </div>
 </div>
@@ -170,6 +177,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foey0a35yclat1zdybevf.png" alt="⚡10 JavaScript Concepts You Thought You Knew (But Didn’t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb" target="_blank">⚡10 JavaScript Concepts You Thought You Knew (But Didn’t)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 06:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbo1gc1xelw9noiteklns.png" alt="Kickstarting Our DSA Journey: Learning and Growing Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-parents-at-a-party-2b35" target="_blank">Things to do when bored for parents at a party</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-20 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/zorin-os-18-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18 Broke Download Records on Windows 10 EOL Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/zorin-os-18-biggest-launch-ever" target="_blank">Zorin OS 18 Broke Download Records on Windows 10 EOL Day</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-20 22:11</span>
             </div>
         </div>
 </div>
@@ -319,22 +326,13 @@
                 <span class="time">2025-10-20 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/20/shit-detection" target="_blank">Shit Detection</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-20 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
