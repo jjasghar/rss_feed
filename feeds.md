@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 05:01:59 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-21 06:02:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5581173/chess-daniel-naroditsky-dies" target="_blank">American chess grandmaster Daniel Naroditsky dies at 29</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-21 05:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-sanae-takaichi-japan_7056926.jpg?20251021060002" alt="Japan&#x27;s parliament votes in country&#x27;s first ever female PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/japans-parliament-votes-in-countrys-first-ever-female-pm-13454229" target="_blank">Japan&#x27;s parliament votes in country&#x27;s first ever female PM</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-21 04:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d38f/live/a4681fa0-adf7-11f0-b2a1-6f537f66f9aa.jpg" alt="Virginia Giuffre would see Prince Andrew giving up titles as a victory, co-author says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/russia-ukraine-war-list-of-key-events-day-1335?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,335</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-20 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/oct/21/global-health-infectious-disease-aid-cuts-malaria-funding-cost-deaths-gdp-africa" target="_blank">Anti-malaria funding cuts could lead to ‘deadliest resurgence ever’, study warns</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-20 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/chicago-3-rt-gmh-251009_1760018589781_hpMain_4x3t_384.jpg" alt="Illinois, Chicago urge Supreme Court to uphold block on National Guard deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/illinois-chicago-urge-supreme-court-uphold-block-national/story?id=126699774" target="_blank">Illinois, Chicago urge Supreme Court to uphold block on National Guard deployment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-20 21:46</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c201k3wd65yo?at_medium=RSS&at_campaign=rss" target="_blank">Virginia Giuffre would see Prince Andrew giving up titles as a victory, co-author says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-20 23:45</span>
             </div>
         </div>
 </div>
@@ -102,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/" target="_blank">European AI rising star Nexos.ai raises $30M to unlock enterprise AI adoption</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-21 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +155,20 @@
                 <span class="time">2025-10-20 22:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/" target="_blank">Apple will let users roll back the Liquid Glass look with new ‘tinted’ option</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-20 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/" target="_blank">Open source is giving you choices with your agent systems</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-21 07:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbo1gc1xelw9noiteklns.png" alt="Kickstarting Our DSA Journey: Learning and Growing Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/zorin-os-18-biggest-launch-ever" target="_blank">Zorin OS 18 Broke Download Records on Windows 10 EOL Day</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-20 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1v5ck8ntbyhasjn1u6n.png" alt="Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/theodora_e6f61d02577a5f06/creating-and-deploying-a-custom-docker-image-with-azure-container-registry-and-azure-container-3d80" target="_blank">Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-20 21:49</span>
             </div>
         </div>
 </div>
@@ -334,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
