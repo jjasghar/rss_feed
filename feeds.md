@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 10:01:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-21 11:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/10/21/g-s1-94264/a-theory-why-the-internet-is-going-down-the-toilet" target="_blank">A theory why the internet is going down the toilet</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-21 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss" target="_blank">French ex-president Sarkozy goes to  jail for campaign finance conspiracy</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-21 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5581173/chess-daniel-naroditsky-dies" target="_blank">American chess grandmaster Daniel Naroditsky dies at 29</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-21 05:54</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-PMF-Linux-SystemDeck" target="_blank">AMD PMF Linux Driver Working On AMD SystemDeck Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-21 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rogeriorioli/como-usar-meta-campos-metafields-no-shopify-para-turbinar-suas-paginas-de-produto-guia-4mcd" target="_blank">Como Usar Meta Campos (Metafields) no Shopify para Turbinar suas Páginas de Produto. Guia Definitivo</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,34 +216,20 @@
                 <span class="time">2025-10-21 07:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/" target="_blank">Open source is giving you choices with your agent systems</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-21 07:40</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html" target="_blank">Agentic AI’s OODA Loop Problem</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-20 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Screamboat-poster-1920-1280x853.jpg" alt="‘Screamboat 2’ Will Sink Its White-Gloved Claws Into Minnie Mouse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/screamboat-2-will-sink-its-white-gloved-claws-into-minnie-mouse-2000674681" target="_blank">‘Screamboat 2’ Will Sink Its White-Gloved Claws Into Minnie Mouse</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Kenny-Loggins-1280x853.jpg" alt="Kenny Loggins Doesn’t Want Any Part of Trump’s ‘No Kings’ ‘Poop’ Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +275,6 @@
                 <span class="time">2025-10-20 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Halloween-Fan-Film-1280x853.jpg" alt="This 2-Hour ‘Halloween’ Fan Film Fills in a Gap Between ‘Kills’ and ‘Ends’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-2-hour-halloween-fan-film-fills-in-a-gap-between-kills-and-ends-2000674453" target="_blank">This 2-Hour ‘Halloween’ Fan Film Fills in a Gap Between ‘Kills’ and ‘Ends’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-20 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
