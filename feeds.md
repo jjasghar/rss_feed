@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-20 23:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 00:04:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, October 20, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/20/russia-ukraine-war-list-of-key-events-day-1335?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,335</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-20 23:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ef/live/286fa830-adfe-11f0-ba75-093eca1ac29b.jpg" alt="Lisbon funicular crash initial report reveals litany of failings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/20/nx-s1-5564797/ninth-circuit-decision-portland-national-guard-tro-president-trump" target="_blank">9th Circuit rules that National Guard can deploy to Portland</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-20 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mike-johnson-6-epa-gmh-251020_1760977237874_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Johnson talks when he&#x27;d administer oath to Grijalva" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Johnson talks when he&#x27;d administer oath to Grijalva</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-20 18:58</span>
             </div>
         </div>
 </div>
@@ -162,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-parents-at-a-party-2b35" target="_blank">Things to do when bored for parents at a party</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-20 23:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1v5ck8ntbyhasjn1u6n.png" alt="Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +217,6 @@
                 <span class="time">2025-10-20 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KosmicKrisp-Merged-Mesa-26.0" target="_blank">KosmicKrisp Vulkan To Apple Metal Driver Merged For Mesa 26.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-20 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,12 +237,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Ninja-Gaiden-4-alt-1280x732.jpg" alt="Damn, It Feels So Good To Have Ninja Gaiden Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ninja-gaiden-4-review-ryu-weapons-combat-story-2000637393" target="_blank">Damn, It Feels So Good To Have Ninja Gaiden Back</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-20 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Adam-Driver-Ben-Solo-Star-Wars-1280x853.jpg" alt="‘Star Wars’ Tried to Bring Kylo Ren Back to Life in a Steven Soderbergh Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/kylo-ren-movie-adam-driver-steven-soderbergh-2000674641" target="_blank">‘Star Wars’ Tried to Bring Kylo Ren Back to Life in a Steven Soderbergh Movie</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-20 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K81QYSWSW78HM2TJY1ZEFF85/hero-image.jpg" alt="Why an AWS Outage Can Break the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-is-aws?utm_medium=RSS" target="_blank">Why an AWS Outage Can Break the Internet</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-20 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -268,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/fear-project-origin-monolith-productions-mordor-2000637400" target="_blank">Two Awesome FEAR Games Are On Sale Right Now (Oh, And FEAR 3 Is Too)</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-20 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/stranger-things-catalyst-review-vr-1280x853.jpg" alt="The New ‘Stranger Things’ VR Experience Puts Eleven’s Power in Your Disembodied Hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-catalyst-vr-review-netflix-sandbox-2000674414" target="_blank">The New ‘Stranger Things’ VR Experience Puts Eleven’s Power in Your Disembodied Hands</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-20 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Switch.jpg" alt="A Ton Of Great Switch Games Are Ridiculously Cheap Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-sale-cyberpunk-2077-roguelike-eshop-deals-2000637360" target="_blank">A Ton Of Great Switch Games Are Ridiculously Cheap Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-20 19:59</span>
             </div>
         </div>
 </div>
@@ -343,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
