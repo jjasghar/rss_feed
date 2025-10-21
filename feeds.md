@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 19:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 20:01:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/21/g-s1-94359/january-6-rioter-pardon-hakeem-jeffries-threat" target="_blank">Pardoned Capitol rioter arrested for allegedly threatening to kill Hakeem Jeffries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-21 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/21/israels-netanyahu-fires-national-security-chief-tzachi-hanegbi?traffic_source=rss" target="_blank">Israel’s Netanyahu fires national security chief Tzachi Hanegbi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-vladimir-putin_7052733.jpg?20251016202525" alt="Putin-Trump meeting in doubt as official says &#x27;no immediate plan&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/putin-trump-budapest-meeting-in-doubt-as-official-says-no-plan-for-immediate-future-13454654" target="_blank">Putin-Trump meeting in doubt as official says &#x27;no immediate plan&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-21 18:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +108,47 @@
                 <span class="time">2025-10-21 17:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/21/warner-bros-discovery-explores-possible-sale?traffic_source=rss" target="_blank">Warner Bros Discovery explores possible sale</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-21 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761062709071_f_mo_dc_vance_deadline_hamas_251021_1920x1080-2x3kw9.jpg" alt="Vance does not give &#x27;explicit deadline&#x27; for Hamas to disarm or return dead hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/vance-does-not-give-explicit-deadline-for-hamas-to-disarm-or-return-dead-hostages-250308677748" target="_blank">Vance does not give &#x27;explicit deadline&#x27; for Hamas to disarm or return dead hostages</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-21 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/johnson-rt-er-251020_1760989553490_hpMain_4x3t_384.jpg" alt="Some Americans fear high health insurance premiums if ACA subsidies expire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/americans-fear-high-premiums-aca-enhanced-subsidies-expire/story?id=126613026" target="_blank">Some Americans fear high health insurance premiums if ACA subsidies expire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-21 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/troll1-500x500-1761073842.jpg" alt="Troll 2 trailer is a Godzilla-inspired monster mash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/10/troll-2-trailer-is-a-godzilla-inspired-monster-mash/" target="_blank">Troll 2 trailer is a Godzilla-inspired monster mash</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-21 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale" target="_blank">Anker’s latest noise-canceling sleep earbuds are nearly $40 off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-21 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/" target="_blank">Cloudflare CEO Matthew Prince is pushing UK regulator to unbundle Google’s search and AI crawlers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-21 19:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f2c1e063f7ddf18419e89a/master/pass/Lawyers-File-New-Claim-Against-Melania-Coin-Business.jpg" alt="Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/melania-trump-used-as-window-dressing-in-elaborate-memecoin-fraud-legal-filing-claims/" target="_blank">Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-21 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,47 +167,20 @@
                 <span class="time">2025-10-21 18:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review" target="_blank">Apple MacBook Pro M5 review: new chip, same greatness</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f6a93ad0fc611fc4919adc/master/pass/Model-Behavior-Santas-Helper-is-an-LLM-Business.jpg" alt="Forget SEO. Welcome to the World of Generative Engine Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/" target="_blank">Forget SEO. Welcome to the World of Generative Engine Optimization</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-21 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/" target="_blank">YouTube’s likeness detection technology has officially launched</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f6afa95a7f87dd7d81d184/master/pass/Top_Art_Digital_Illo.jpg" alt="The AWS Outage Was a Nightmare for College Students" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-aws-outage-was-a-nightmare-for-college-students/" target="_blank">The AWS Outage Was a Nightmare for College Students</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-21 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.1-Btrfs-Plans" target="_blank">AlmaLinux 10.1 Will Support The Btrfs File-System</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-21 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz071s3vfzgzagglbym8.png" alt="Getting Started with AWSCurl: Making Authenticated AWS API Requests Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +226,6 @@
                 <span class="time">2025-10-21 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/enric-ai/we-built-an-ai-code-assistant-that-actually-understands-your-repo-looking-for-testers-19f8" target="_blank">We built an AI code assistant that actually understands your repo. Looking for testers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 15:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/PS2game-1280x720.jpg" alt="This PS2 Game Is Still Sitting On A Delaware Walmart Shelf 16 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/unsold-ps2-game-walmart-reddit-pbr-bull-riding-weird-reddit-2000637727" target="_blank">This PS2 Game Is Still Sitting On A Delaware Walmart Shelf 16 Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-21 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K83RN0KFSZ6FCFSSRE3GZ7T4/hero-image.jpg" alt="AWS Isn&#x27;t the Only Company Holding Up the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/aws-isnt-the-only-company-holding-up-the-internet?utm_medium=RSS" target="_blank">AWS Isn&#x27;t the Only Company Holding Up the Internet</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-21 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-rise-of-skywalker-kylo-ren-shrug-1280x853.jpg" alt="A List of Ways You Can Cheat Death in ‘Star Wars’ That Someone Should Show Bob Iger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +299,6 @@
                 <span class="time">2025-10-21 16:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/ConjuringLastRites-1280x853.jpg" alt="‘The Conjuring: Last Rites’ Director Explains Why the One Cameo You Actually Wanted Wasn’t in the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/conjuring-last-rights-sister-irene-cameo-2000674970" target="_blank">‘The Conjuring: Last Rites’ Director Explains Why the One Cameo You Actually Wanted Wasn’t in the Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-21 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/agilityrobotamazon-1280x853.jpg" alt="Leaked Amazon Plans Say Robots Will Help It Avoid Hiring 600,000 Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/leaked-amazon-plans-say-robots-will-help-it-avoid-hiring-600000-workers-2000674920" target="_blank">Leaked Amazon Plans Say Robots Will Help It Avoid Hiring 600,000 Workers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-21 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
