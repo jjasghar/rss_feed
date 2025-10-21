@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 18:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-21 19:02:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 18:01 UTC</div>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +107,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/21/bill-gatess-old-climate-lobbyists-launch-a-new-firm/" target="_blank">Bill Gates’s old climate lobbyists launch a new firm</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-21 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/803728/hallmark-keepsake-ornament-microsoft-xbox-360-console-halo-3-theme" target="_blank">Hallmark’s glowing Xbox 360 ornament plays the Halo theme</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-21 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review" target="_blank">Apple MacBook Pro M5 review: new chip, same greatness</a></span>
                 <span class="feed">The Verge</span>
@@ -137,24 +158,6 @@
                 <span class="time">2025-10-21 15:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/803481/openai-web-browser-ai-announcement-teaser" target="_blank">It looks like OpenAI is about to announce its AI web browser</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-21 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2206876894-500x500.jpg" alt="Even with protections, wolves still fear humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/even-with-protections-wolves-still-fear-humans/" target="_blank">Even with protections, wolves still fear humans</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-21 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/rijultp/getting-started-with-awscurl-making-authenticated-aws-api-requests-easy-18ok" target="_blank">Getting Started with AWSCurl: Making Authenticated AWS API Requests Easy</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-21 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!BrG3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3ef84c3-a8e2-4161-b346-5a58332a7361_1418x1094.png" alt="What is good software architecture?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-good-software-architecture" target="_blank">What is good software architecture?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-10-21 16:10</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +217,6 @@
                 <span class="time">2025-10-21 15:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/kde-plasma-6.5.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Plasma 6.5 Released with Rounded Corners, Clipboard Pinning + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/kde-plasma-6-5-new-features-changes-release" target="_blank">KDE Plasma 6.5 Released with Rounded Corners, Clipboard Pinning + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-21 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-rise-of-skywalker-kylo-ren-shrug-1280x853.jpg" alt="A List of Ways You Can Cheat Death in ‘Star Wars’ That Someone Should Show Bob Iger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-ways-to-cheat-death-ben-solo-movie-bob-iger-2000674908" target="_blank">A List of Ways You Can Cheat Death in ‘Star Wars’ That Someone Should Show Bob Iger</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-21 18:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Keeperrv-1280x720.jpg" alt="Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -252,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/02/432-park-avenue.jpg?fit=887%2C463&amp;quality=60&amp;ssl=1" alt="When your billion-dollar condo&#x27;s skin starts falling off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/21/when-your-billion-dollar-condos-skin-starts-falling-off.html" target="_blank">When your billion-dollar condo&#x27;s skin starts falling off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-21 16:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/ConjuringLastRites-1280x853.jpg" alt="‘The Conjuring: Last Rites’ Director Explains Why the One Cameo You Actually Wanted Wasn’t in the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/leaked-amazon-plans-say-robots-will-help-it-avoid-hiring-600000-workers-2000674920" target="_blank">Leaked Amazon Plans Say Robots Will Help It Avoid Hiring 600,000 Workers</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-21 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K81CMY6VH0QKZ0NXRBGF10M9/hero-image.png" alt="The Next Boox Palma Is a Mini Digital Notebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/boox-palma-2-pro-announcement?utm_medium=RSS" target="_blank">The Next Boox Palma Is a Mini Digital Notebook</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-21 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K82E26Q1WBC31QGRYBV1SWR6/hero-image.png" alt="What People Are Getting Wrong This Week: Are Aliens Invading in November?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-alien-invasion-in-november?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Are Aliens Invading in November?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-21 15:00</span>
             </div>
         </div>
 </div>
@@ -310,22 +313,13 @@
                 <span class="time">2025-10-21 00:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/20/shit-detection" target="_blank">Shit Detection</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-20 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
