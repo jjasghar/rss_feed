@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 17:01:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-21 18:01:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, October 21, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/21/general-strike-shuts-down-tunisias-gabes-over-pollution-crisis?traffic_source=rss" target="_blank">General strike shuts down Tunisia’s Gabes over pollution crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-21 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae4/live/43fc4180-ae99-11f0-b305-65f4f8d88da9.jpg" alt="Plans for Trump-Putin meeting shelved days after Budapest talks proposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss" target="_blank">Plans for Trump-Putin meeting shelved days after Budapest talks proposed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-21 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5580351/israel-humanitarian-aid-ngos-gaza-west-bank" target="_blank">Israel takes steps to shut down international aid groups in Gaza and the West Bank</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-21 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Health/americans-fear-high-premiums-aca-enhanced-subsidies-expire/story?id=126613026" target="_blank">Some Americans fear high health insurance premiums if ACA subsidies expire</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-21 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05dd/live/3d85dc50-ae8d-11f0-aa13-0b0479f6f42a.jpg" alt="Third survivor quits grooming gang inquiry panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwykd173l3vo?at_medium=RSS&at_campaign=rss" target="_blank">Third survivor quits grooming gang inquiry panel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-21 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/21/wfp-says-food-supplies-to-gaza-below-targets-urges-more-crossings-to-open?traffic_source=rss" target="_blank">WFP says food supplies to Gaza below targets, urges more crossings to open</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-21 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5506141/ai-code-software-productivity-claims" target="_blank">Tech CEOs say the era of &#x27;code by AI&#x27; is here. Some software engineers are skeptical</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-21 13:17</span>
             </div>
         </div>
 </div>
@@ -163,12 +161,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz071s3vfzgzagglbym8.png" alt="Getting Started with AWSCurl: Making Authenticated AWS API Requests Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rijultp/getting-started-with-awscurl-making-authenticated-aws-api-requests-easy-18ok" target="_blank">Getting Started with AWSCurl: Making Authenticated AWS API Requests Easy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-21 17:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.voting.works/news/public-trust-demands-open-source-voting-systems" target="_blank">Public Trust Demands Open-Source Voting Systems</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-21 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/" target="_blank">How to update community health files with AI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-21 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +214,6 @@
                 <span class="time">2025-10-21 15:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rociogarciavf/how-to-tackle-numpy-matrix-operations-in-2025-35g6" target="_blank">How to Tackle Numpy Matrix Operations in 2025?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18706318&w=600" alt="Automating Storage Tiering and Lifecycle Policies in AWS S3 Using Python (Boto3)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-storage-tiering-and-lifecycle-policies" target="_blank">Automating Storage Tiering and Lifecycle Policies in AWS S3 Using Python (Boto3)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-21 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Keeperrv-1280x720.jpg" alt="Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/keeper-the-kotaku-review-xbox-game-pass-how-long-is-it-good-price-2000637702" target="_blank">Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-21 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K83TEM1FRXAP8294NHN99FT8/hero-image.png" alt="My Favorite Amazon Deal of the Day: This 75-inch Toshiba C350 Smart TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/75-inch-toshiba-c350-smart-tv-deal?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: This 75-inch Toshiba C350 Smart TV</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-21 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/ConjuringLastRites-1280x853.jpg" alt="‘The Conjuring: Last Rites’ Director Explains Why the One Cameo You Actually Wanted Wasn’t in the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +287,20 @@
                 <span class="time">2025-10-21 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/yakuza-1280x720.jpg" alt="Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dont-download-ps-pluss-latest-batch-of-games-until-youve-read-this-2000637598" target="_blank">Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-21 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K83AS6Z5J6M2G24C8WFAVA32/hero-image.png" alt="These JBL Noise-Cancelling Headphones Are $40 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/noise-cancelling-on-ear-jbl-headphones-sale?utm_medium=RSS" target="_blank">These JBL Noise-Cancelling Headphones Are $40 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-21 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1761007680-20251021.png" alt="Saturday Morning Breakfast Cereal - Witch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/witch" target="_blank">Saturday Morning Breakfast Cereal - Witch</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-21 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5683.png" alt="They All Live Together Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
