@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 10:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-22 11:01:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/22/video-londoners-join-viral-scream-squad-to-let-off-steam?traffic_source=rss" target="_blank">Video: Londoners join viral ‘Scream Squad’ to let off steam</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6299/live/4f762c70-af29-11f0-b9f9-e5c1839c872f.jpg" alt="Children among victims in Russian air strikes, hours after Trump-Putin talks shelved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss" target="_blank">Children among victims in Russian air strikes, hours after Trump-Putin talks shelved</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-22 10:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/22/nx-s1-5581409/mental-exercise-reverse-brain-change-aging-acetylcholine" target="_blank">Mental exercise can reverse a brain change linked to aging, study finds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-22 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6299/live/4f762c70-af29-11f0-b9f9-e5c1839c872f.jpg" alt="Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,38 +97,29 @@
                 <span class="time">2025-10-22 08:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/state-of-emergency-declared-in-perus-capital-lima-amid-protests?traffic_source=rss" target="_blank">State of emergency declared in Peru’s capital Lima amid protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 07:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/22/live-gaza-palestinians-say-no-change-with-ceasefire-as-israel-blocks-aid?traffic_source=rss" target="_blank">LIVE: Gaza Palestinians say ‘no change’ with ceasefire as Israel blocks aid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/22/g-s1-94444/spanish-league-cancels-barcelona-match-miami" target="_blank">Spanish league cancels plans for Barcelona to play regular-season match in Miami</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-22 05:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/" target="_blank">One startup’s quest to store electricity in the ocean</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f8437597b55db8635d5b02/master/pass/What%20Should%20Be%20in%20Your%20Emergency%20Kit%20Before%20Disaster%20Strikes_.png" alt="Essential Gear for an Emergency Kit—for Cars or Go-Bags" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/" target="_blank">Essential Gear for an Emergency Kit—for Cars or Go-Bags</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-22 10:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f7cabfd7b0b6e1b9e53c99/master/pass/NASA-Boss-Shook-Up-Moon-Landing-Plans-Science-2231496815.jpg" alt="NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +156,29 @@
                 <span class="time">2025-10-22 02:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f69800ae96f92366d7b48f/master/pass/DSC_6443.jpg" alt="Samsung’s Galaxy XR Mixed Reality Headset Is Here: Price, Release Date, Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsung-galaxy-xr-gemini-android-xr-mixed-reality-headset/" target="_blank">Samsung’s Galaxy XR Mixed Reality Headset Is Here: Price, Release Date, Features</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-22 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings" target="_blank">Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-21 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20dth4lg40u3ojxgmrh5.png" alt="Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh" target="_blank">Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/alibaba-damo-academy-and-canonical" target="_blank">Alibaba Damo Academy and Canonical partner to deliver Ubuntu on XuanTie and drive RISC-V innovation</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-22 10:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +213,6 @@
                 <span class="title"><a href="https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service" target="_blank">Greenland Ditches Starlink for French Satellite Service</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-22 07:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/arduino-alternative-microcontroller-boards/" target="_blank">Arduino Alternative Microcontroller Boards for Your DIY Projects in the Post-Qualcomm Era</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-22 07:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arvind_sundararajan/digital-alchemy-turning-ideas-into-interactive-worlds-with-ai-j37" target="_blank">Digital Alchemy: Turning Ideas into Interactive Worlds with AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 06:02</span>
             </div>
         </div>
 </div>
@@ -332,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
