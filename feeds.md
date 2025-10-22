@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 15:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 16:02:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Error processing https://www.smbc-comics.com/rss.php: The read operation timed out -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/22/live-real-madrid-vs-juventus-uefa-champions-league?traffic_source=rss" target="_blank">LIVE: Real Madrid vs Juventus – UEFA Champions League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 15:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +100,20 @@
                 <span class="time">2025-10-22 11:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/22/g-s1-94462/up-first-newsletter-jd-vance-israel-gaza-government-shutdown-white-house-ballroom" target="_blank">VP Vance tries to progress Gaza ceasefire. And, White House demolition draws critics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-22 11:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/" target="_blank">GM is bringing Google Gemini-powered AI assistant to cars in 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-22 15:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +159,47 @@
                 <span class="time">2025-10-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f838f9ca694516647e4962/master/pass/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png" alt="Best Kitchen Composters and Food Recyclers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-composters-buying-guide/" target="_blank">Best Kitchen Composters and Food Recyclers (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-22 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/STF-2026-systemd-PHP" target="_blank">Sovereign Tech Agency Making 2026 Investments In systemd, PHP, Servo &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-22 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/" target="_blank">Google demonstrates &#x27;verifiable quantum advantage&#x27; with their Willow processor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-22 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://slint.dev/blog/slint-1.14-released" target="_blank">Slint 1.14 Released</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-22 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18708482&w=600" alt="Exploring Best Practices and Modern Trends in CI/CD" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cicd-modern-practices-and-trends" target="_blank">Exploring Best Practices and Modern Trends in CI/CD</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,42 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/all-about-end-to-end-testing" target="_blank">What Is End-to-End Testing?</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-4i2g" target="_blank">Transforming AI Monetization: The Future of LLM-Powered Applications</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/contributed/disaggregated-routing-with-sonic-and-vpp-architecture-and-integration-part-one/" target="_blank">Disaggregated Routing with SONiC and VPP: Architecture and Integration – Part One</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2025-10-22 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/thelinuxfoundation/disaggregated-routing-with-sonic-and-vpp-architecture-and-integration-part-one/" target="_blank">Disaggregated Routing with SONiC and VPP: Architecture and Integration – Part One</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2025-10-22 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Overdue-Znver4-Tuning" target="_blank">LLVM Lands Some Long Overdue Tuning Optimizations For AMD Zen 4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-22 13:36</span>
             </div>
         </div>
 </div>
@@ -232,6 +238,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Derryreviewtopart-1280x853.jpg" alt="‘It: Welcome to Derry’ Is a Harrowing Expansion of Stephen King’s Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-review-hbo-pennywise-stephen-king-2000673860" target="_blank">‘It: Welcome to Derry’ Is a Harrowing Expansion of Stephen King’s Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-22 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Marvel-invasion.jpg" alt="The Marvel Beat-Em-Up I’ve Been Waiting For All Year Finally Has A Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-marvel-beat-em-up-ive-been-waiting-for-all-year-finally-has-a-release-date-2000638215" target="_blank">The Marvel Beat-Em-Up I’ve Been Waiting For All Year Finally Has A Release Date</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-22 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/EDU-Unlimited-by-StackSkills.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="EDU Unlimited: Amp up your skills without losing your mind (or money—it&#x27;s just $20)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/22/edu-unlimited-amp-up-your-skills-without-losing-your-mind-or-money-its-just-20.html" target="_blank">EDU Unlimited: Amp up your skills without losing your mind (or money—it&#x27;s just $20)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Image-Nuphy.jpg?fit=1080%2C661&amp;quality=60&amp;ssl=1" alt="Nuphy&#x27;s Node75 mechanical keyboard loses the knob, gets a screenless touchbar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -241,48 +274,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K85TVKWF1DM6HD8A29B3T7M5/hero-image.png" alt="The Meta Quest Pro Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-quest-pro-mr-vr-headset-sale?utm_medium=RSS" target="_blank">The Meta Quest Pro Is $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-22 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/gmktec-mini-pc-k8-1280x853.jpg" alt="Gaming Mini PC with Ryzen 7, 32GB DDR5 RAM, 1TB Is Cheaper Than a Mac Mini, Amazon Clears Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/gaming-mini-pc-with-ryzen-7-32gb-ddr5-ram-1tb-is-cheaper-than-a-mac-mini-amazon-clears-out-stock-2000638156" target="_blank">Gaming Mini PC with Ryzen 7, 32GB DDR5 RAM, 1TB Is Cheaper Than a Mac Mini, Amazon Clears Out Stock</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-22 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/halloween-streaming-best-movies-texas-chainsaw-massacre-insidious-sinister-it-follows-1280x853.jpg" alt="10 Actually Scary Movies You Can Stream This Halloween" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scariest-movies-to-stream-halloween-2000674615" target="_blank">10 Actually Scary Movies You Can Stream This Halloween</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/Futurama-Fry-Shut-Up-And-Take-My-Money.jpg?fit=1920%2C1080&amp;quality=60&amp;ssl=1" alt="Futurama is finally getting a decent game, kinda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/22/futurama-is-finally-getting-a-decent-game-kinda.html" target="_blank">Futurama is finally getting a decent game, kinda</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-22 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HJPVW992ZCZ89JBAMG1VW/hero-image.jpg" alt="The Best Mind-Mapping Techniques and Tools for Studying" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-use-mind-mapping-to-study?utm_medium=RSS" target="_blank">The Best Mind-Mapping Techniques and Tools for Studying</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-22 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GMC15VMJWNQ6QNJ4C0CE3/hero-image.jpg" alt="How ‘Parkinson’s Law’ Is Making You Unproductive, and What to Do About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-parkinsons-law-is-making-you-unproductive-and-what-to-do-about-it?utm_medium=RSS" target="_blank">How ‘Parkinson’s Law’ Is Making You Unproductive, and What to Do About It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-22 12:00</span>
             </div>
         </div>
 </div>
@@ -308,22 +314,13 @@
                 <span class="time">2025-10-22 00:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1761007680-20251021.png" alt="Saturday Morning Breakfast Cereal - Witch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/witch" target="_blank">Saturday Morning Breakfast Cereal - Witch</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
