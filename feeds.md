@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 03:20:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 04:02:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 03:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5581714/paul-ingrassia-nomination-withdrawal" target="_blank">Trump pick to lead watchdog agency withdraws after offensive text messages revealed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-22 03:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/national_1761094344400_hpMain_4x3t_384.jpg" alt="National Guard could stay in Washington, DC, through summer 2026: Lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +98,6 @@
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/democrats-call-disengaged-trump-get-involved-end-shutdown-rcna238873" target="_blank">Democrats call on &#x27;disengaged&#x27; Trump to get involved to end shutdown</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-21 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/21/arsenal-thump-atletico-in-champions-league-psg-and-barcelona-in-routs-too?traffic_source=rss" target="_blank">Arsenal thump Atletico in Champions League, PSG and Barcelona in routs too</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-21 21:39</span>
             </div>
         </div>
@@ -232,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/11/1459654863_07249fe0d7_o-e1756930023896.jpg?fit=768%2C514&amp;quality=60&amp;ssl=1" alt="Shockingly, Republicans turned on a Trump nominee who called himself a Nazi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/21/shockingly-republicans-turned-on-a-trump-nominee-who-called-himself-a-nazi.html" target="_blank">Shockingly, Republicans turned on a Trump nominee who called himself a Nazi</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 00:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/mar-a-lago-aerial-view-sm-1280x853.jpg" alt="FAA Imposes New Flight Restrictions Over Mar-a-Lago (Whether Trump Is There or Not)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,15 +292,6 @@
                 <span class="time">2025-10-21 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hp17-inch-laptop-1280x853.jpg" alt="HP 17-Inch High-End Laptop Drops $2230, Now It’s Cheaper Than a Budget Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-17-inch-high-end-laptop-drops-2230-now-its-cheaper-than-a-budget-laptop-2000637790" target="_blank">HP 17-Inch High-End Laptop Drops $2230, Now It’s Cheaper Than a Budget Laptop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-21 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 03:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
