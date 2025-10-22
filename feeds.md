@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 20:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 21:01:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +104,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/804889/amazon-rivian-also-tmq-quad-ebike-delivery" target="_blank">Amazon wants to buy ‘thousands’ of Rivian’s pedal-assist cargo bikes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-22 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1149297973-500x500-1761164122.jpg" alt="This may be the most bonkers tech job listing I’ve ever seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/" target="_blank">This may be the most bonkers tech job listing I’ve ever seen</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-22 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/22954554/best-video-doorbell-camera" target="_blank">The best doorbell cameras</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-22 20:01</span>
@@ -144,29 +154,29 @@
                 <span class="time">2025-10-22 18:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/804531/sharge-icemag-3-magsafe-qi-2-2-sony-cybershot" target="_blank">This magnetic Qi 2.2 powerbank looks like a classic Sony Cybershot</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-22 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f844f35168e4a1c2576d47/master/pass/Wide_Bench%20_ALSO.jpg" alt="Also TM-B Ebike: Specs, Release Date, Price, and Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rivian-also-tm-b-modular-repairable-electric-bike/" target="_blank">Also TM-B Ebike: Specs, Release Date, Price, and Features</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-22 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp" target="_blank">The Best Vegetarian Sources of Protein</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/" target="_blank">From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-22 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/virtualbox-logo-on-white.jpg?resize=406%2C232&amp;ssl=1" alt="VirtualBox 7.2.4 Released But Won’t Run on Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +184,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/virtualbox-7-2-4-release-libxml2-error-ubuntu-25-10" target="_blank">VirtualBox 7.2.4 Released But Won’t Run on Ubuntu 25.10</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-22 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-XP-PEN-Artist-24-Pro" target="_blank">Linux 6.19 To Support The XP-PEN Artist 24 Pro Drawing Tablet</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-22 19:40</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +211,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/deepseek-ocr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DeepSeek AI Unveils DeepSeek-OCR: Vision-Based Context Compression Redefines Long-Text Processing</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-22 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18706884&w=600" alt="From Platform Cowboys to Governance Marshals: Taming the AI Wild West" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/taming-the-ai-wild-west" target="_blank">From Platform Cowboys to Governance Marshals: Taming the AI Wild West</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/top-security-researcher-shares-their-bug-bounty-process/" target="_blank">Top security researcher shares their bug bounty process</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/google-coral-npu-platform/en/headerimage/google-coral-npu-platform-1761146206964.jpeg" alt="Google Research Open-Sources the Coral NPU Platform to Help Build AI into Wearables and Edge Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/google-coral-npu-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Research Open-Sources the Coral NPU Platform to Help Build AI into Wearables and Edge Devices</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-22 16:00</span>
             </div>
         </div>
 </div>
@@ -259,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/pcocklogo.webp?fit=320%2C320&amp;quality=55&amp;ssl=1" alt="Office fans owe it to themselves subscribe to Peacock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/22/office-fans-owe-it-to-themselves-subscribe-to-meet-the-man-who-inspired-the-creation-of-homer-simpson.html" target="_blank">Office fans owe it to themselves subscribe to Peacock</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 19:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K86HEEV4RQYJDEHXN6QQ82K4/hero-image.png" alt="You Can Now Limit How Many YouTube Shorts You Watch in a Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -292,15 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/bugonia-bald-screening-recap-emma-stone-2000675539" target="_blank">Not Everyone at the All-Bald ‘Bugonia’ Screening Had to Go Bald</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-22 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/10/fa2a45197d10860d3a32eb7a12ebec49-1280x720.jpg" alt="Ubisoft Asks Devs At Star Wars Outlaws Studio To Lay Themselves Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ubisoft-massive-layoffs-division-3-star-wars-outlaws-2000638264" target="_blank">Ubisoft Asks Devs At Star Wars Outlaws Studio To Lay Themselves Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-22 16:56</span>
             </div>
         </div>
 </div>
@@ -340,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
