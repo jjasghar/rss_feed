@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-21 23:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 00:04:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, October 21, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/21/aje-onl-pal_detaineeszoomin_av_v3-211025?traffic_source=rss" target="_blank">Inside Israel’s war of imprisonment against Palestinians</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-21 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8352/live/ea8348d0-aec8-11f0-b2a1-6f537f66f9aa.jpg" alt="Trump says he did not want &#x27;wasted meeting&#x27; after plan for Putin talks shelved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he did not want &#x27;wasted meeting&#x27; after plan for Putin talks shelved</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-21 21:57</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +100,6 @@
                 <span class="time">2025-10-21 19:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/21/g-s1-94359/january-6-rioter-pardon-hakeem-jeffries-threat" target="_blank">Pardoned Capitol rioter arrested for allegedly threatening to kill Hakeem Jeffries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-21 19:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +112,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings" target="_blank">Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-21 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/" target="_blank">Netflix goes ‘all in’ on generative AI as entertainment industry remains divided</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-21 22:21</span>
             </div>
         </div>
 <div class="story">
@@ -146,20 +159,20 @@
                 <span class="time">2025-10-21 19:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/" target="_blank">Cloudflare CEO Matthew Prince is pushing UK regulator to unbundle Google’s search and AI crawlers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-48m2" target="_blank">Ringer Movies: The 10 Best Horror Movies of 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 00:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +218,6 @@
                 <span class="time">2025-10-21 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!BrG3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3ef84c3-a8e2-4161-b346-5a58332a7361_1418x1094.png" alt="What is good software architecture?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-good-software-architecture" target="_blank">What is good software architecture?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-21 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/mar-a-lago-aerial-view-sm-1280x853.jpg" alt="FAA Imposes New Flight Restrictions Over Mar-a-Lago (Whether Trump Is There or Not)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/faa-new-restrictions-mar-a-lago-2000675254" target="_blank">FAA Imposes New Flight Restrictions Over Mar-a-Lago (Whether Trump Is There or Not)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-21 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/lenovo-idea-pad-1280x853.jpg" alt="Lenovo Laptop (40GB RAM, 1TB SSD, i7) Down 74% on Amazon, and It’s Not Refurbished" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lenovo-laptop-40gb-ram-1tb-ssd-i7-down-74-on-amazon-and-its-not-refurbished-2000637810" target="_blank">Lenovo Laptop (40GB RAM, 1TB SSD, i7) Down 74% on Amazon, and It’s Not Refurbished</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-21 23:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/laptop-power-bank-anker-1280x853.jpg" alt="Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +291,6 @@
                 <span class="time">2025-10-21 19:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K83RN0KFSZ6FCFSSRE3GZ7T4/hero-image.jpg" alt="AWS Isn&#x27;t the Only Company Holding Up the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/aws-isnt-the-only-company-holding-up-the-internet?utm_medium=RSS" target="_blank">AWS Isn&#x27;t the Only Company Holding Up the Internet</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-21 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-rise-of-skywalker-kylo-ren-shrug-1280x853.jpg" alt="A List of Ways You Can Cheat Death in ‘Star Wars’ That Someone Should Show Bob Iger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-ways-to-cheat-death-ben-solo-movie-bob-iger-2000674908" target="_blank">A List of Ways You Can Cheat Death in ‘Star Wars’ That Someone Should Show Bob Iger</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-21 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
