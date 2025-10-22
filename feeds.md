@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 00:04:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-22 01:29:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/north-korea-fires-unidentified-ballistic-missiles-towards-east-sea-seoul?traffic_source=rss" target="_blank">North Korea fires ‘unidentified’ ballistic missiles towards East Sea: Seoul</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 01:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/trump-administration-seeks-dissolve-remaining-order-blocking-national/story?id=126729762" target="_blank">Trump admin seeks to dissolve remaining order blocking troop deployment to Portland</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-21 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-dublin-riot-asylum_7057749.jpg?20251021214224" alt="Bricks and bottles thrown at officers - and police helicopter targeted with lasers - as protests turn violent in Dublin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/police-van-ablaze-and-bottles-thrown-at-officers-as-protests-flare-outside-dublin-asylum-hotel-13454703" target="_blank">Bricks and bottles thrown at officers - and police helicopter targeted with lasers - as protests turn violent in Dublin</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-21 19:57</span>
             </div>
         </div>
 </div>
@@ -167,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.1-Beta" target="_blank">AlmaLinux 10.1 Beta Released For Popular RHEL 10 Community Distribution</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-22 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-48m2" target="_blank">Ringer Movies: The 10 Best Horror Movies of 2025</a></span>
                 <span class="feed">DEV Community</span>
@@ -185,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h" target="_blank">rlsw – Raylib software OpenGL renderer in less than 5k LOC</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-21 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75" target="_blank">I Was Vibe Coding Before It Was Cool</a></span>
                 <span class="feed">DEV Community</span>
@@ -198,24 +220,6 @@
                 <span class="title"><a href="https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/" target="_blank">Replacing a $3000/mo Heroku bill with a $55/mo server</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-21 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.1-Btrfs-Plans" target="_blank">AlmaLinux 10.1 Will Support The Btrfs File-System</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-21 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foz071s3vfzgzagglbym8.png" alt="Getting Started with AWSCurl: Making Authenticated AWS API Requests Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rijultp/getting-started-with-awscurl-making-authenticated-aws-api-requests-easy-18ok" target="_blank">Getting Started with AWSCurl: Making Authenticated AWS API Requests Easy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 17:55</span>
             </div>
         </div>
 </div>
@@ -256,12 +260,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-2025-10-21-at-6.57.35-PM.png?fit=1118%2C786&amp;quality=55&amp;ssl=1" alt="10 PRINT: a book about a one-line Commodore 64 BASIC program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/21/10-print-a-book-about-a-one-line-commodore-64-basic-program.html" target="_blank">10 PRINT: a book about a one-line Commodore 64 BASIC program</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-21 23:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/laptop-power-bank-anker-1280x853.jpg" alt="Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/ankers-25000mah-laptop-power-bank-with-triple-100w-usb-c-is-now-selling-for-pennies-on-amazon-2000637801" target="_blank">Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-21 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5YNNQ10DDZ11323ZC061X37/hero-image.jpg" alt="Here&#x27;s Everything New in iOS 26.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/everything-new-in-ios-261?utm_medium=RSS" target="_blank">Here&#x27;s Everything New in iOS 26.1</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-21 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -273,29 +295,20 @@
                 <span class="time">2025-10-21 21:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Apple-Vision-Pro-M5-14-1280x853.jpg" alt="Apple Vision Pro (M5) Review: The Crown of the Dorks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-vision-pro-m5-review-the-crown-of-the-dorks-2000675079" target="_blank">Apple Vision Pro (M5) Review: The Crown of the Dorks</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-21 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/PS2game-1280x720.jpg" alt="This PS2 Game Is Still Sitting On A Delaware Walmart Shelf 16 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/unsold-ps2-game-walmart-reddit-pbr-bull-riding-weird-reddit-2000637727" target="_blank">This PS2 Game Is Still Sitting On A Delaware Walmart Shelf 16 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-21 19:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5684.png" alt="A Weight Has Lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5684" target="_blank">A Weight Has Lifted</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-22 00:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1761007680-20251021.png" alt="Saturday Morning Breakfast Cereal - Witch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,22 +318,13 @@
                 <span class="time">2025-10-21 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5683.png" alt="They All Live Together Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5683" target="_blank">They All Live Together Now</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-21 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
