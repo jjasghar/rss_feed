@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 17:01:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-22 18:02:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d98c/live/70f5da80-af6a-11f0-ba75-093eca1ac29b.jpg" alt="Harvey Willgoose killer sentenced to at least 16 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg7ezmly8lo?at_medium=RSS&at_campaign=rss" target="_blank">Harvey Willgoose killer sentenced to at least 16 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-22 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/22/nx-s1-5581578/confused-by-the-u-s-economy-youre-not-alone" target="_blank">Confused by the U.S. economy? You&#x27;re not alone</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-22 15:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,29 @@
                 <span class="time">2025-10-22 13:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/457f/live/3f6c8950-af1f-11f0-9f87-dd1917f781b7.png" alt="Second candidate to chair grooming inquiry pulls out after survivors quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss" target="_blank">Second candidate to chair grooming inquiry pulls out after survivors quit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-22 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/457f/live/3f6c8950-af1f-11f0-9f87-dd1917f781b7.png" alt="PM insists grooming inquiry won&#x27;t be watered down as fourth survivor quits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss" target="_blank">PM insists grooming inquiry won&#x27;t be watered down as fourth survivor quits</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-22 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/804531/sharge-icemag-3-magsafe-qi-2-2-sony-cybershot" target="_blank">This magnetic Qi 2.2 powerbank looks like a classic Sony Cybershot</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-22 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f844f35168e4a1c2576d47/master/pass/Wide_Bench%20_ALSO.jpg" alt="Also TM-B Ebike: Specs, Release Date, Price, and Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rivian-also-tm-b-modular-repairable-electric-bike/" target="_blank">Also TM-B Ebike: Specs, Release Date, Price, and Features</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-22 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/804174/casio-ring-digital-watch-g-shock-nano-dwn-5600" target="_blank">Casio’ new ring watch straps a durable G-Shock to your finger</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-22 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/landroverline-500x500.jpg" alt="Jaguar Land Rover looking at $2.5 billion price tag from crippling cyberattack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/10/jaguar-land-rover-struggling-8-weeks-after-most-expensive-uk-cyberattack/" target="_blank">Jaguar Land Rover looking at $2.5 billion price tag from crippling cyberattack</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-22 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f837ed956978b16ed49b59/master/pass/The%20Best%20Gifts%20for%20Rock%20Climbers.png" alt="The Best Gifts for Rock Climbers (2025): Coros, Meta, Gramicci" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-rock-climbers/" target="_blank">The Best Gifts for Rock Climbers (2025): Coros, Meta, Gramicci</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-22 13:02</span>
             </div>
         </div>
 </div>
@@ -195,6 +193,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/" target="_blank">Willow quantum chip demonstrates verifiable quantum advantage on hardware</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-22 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/" target="_blank">Google demonstrates &#x27;verifiable quantum advantage&#x27; with their Willow processor</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-22 15:16</span>
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://slint.dev/blog/slint-1.14-released" target="_blank">Slint 1.14 Released</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-22 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18708482&w=600" alt="Exploring Best Practices and Modern Trends in CI/CD" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cicd-modern-practices-and-trends" target="_blank">Exploring Best Practices and Modern Trends in CI/CD</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-22 15:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/the-vampire-lestat-interview-with-the-vampire-season-3-1280x853.jpg" alt="You’ll Get to Hear Lestat’s Music Career Kick Off on ‘Talamasca’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/talamasca-lestat-music-easter-egg-interview-with-the-vampire-2000675556" target="_blank">You’ll Get to Hear Lestat’s Music Career Kick Off on ‘Talamasca’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-22 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/pimin-3-1280x722.jpg" alt="Nintendo’s Being Real Weird About Pikmin All Of A Sudden" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pikmin-5-free-update-sequel-switch-2-miyamoto-2000638244" target="_blank">Nintendo’s Being Real Weird About Pikmin All Of A Sudden</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-22 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Emma-Stone-Bald-Bugonia-1280x853.jpg" alt="Not Everyone at the All-Bald ‘Bugonia’ Screening Had to Go Bald" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-review-hbo-pennywise-stephen-king-2000673860" target="_blank">‘It: Welcome to Derry’ Is a Harrowing Expansion of Stephen King’s Story</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Marvel-invasion.jpg" alt="The Marvel Beat-Em-Up I’ve Been Waiting For All Year Finally Has A Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-marvel-beat-em-up-ive-been-waiting-for-all-year-finally-has-a-release-date-2000638215" target="_blank">The Marvel Beat-Em-Up I’ve Been Waiting For All Year Finally Has A Release Date</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-22 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/EDU-Unlimited-by-StackSkills.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="EDU Unlimited: Amp up your skills without losing your mind (or money—it&#x27;s just $20)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/22/edu-unlimited-amp-up-your-skills-without-losing-your-mind-or-money-its-just-20.html" target="_blank">EDU Unlimited: Amp up your skills without losing your mind (or money—it&#x27;s just $20)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-22 15:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
