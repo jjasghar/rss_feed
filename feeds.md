@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 12:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 13:11:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +103,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/803399/metroid-prime-visual-retrospective-art-book-review" target="_blank">The new Metroid Prime art book offers rare insight into Nintendo&amp;#8217;s design process</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/" target="_blank">Life360 ventures into pet tech with the launch of a new GPS tracker</a></span>
                 <span class="feed">TechCrunch</span>
@@ -147,20 +154,29 @@
                 <span class="time">2025-10-22 09:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="OnePlus Promo Code: $100 Off  | October 2025 | WIRED" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/oneplus-promo-code/" target="_blank">OnePlus Promo Code: $100 Off  | October 2025 | WIRED</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-22 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/connectalamin/premium-courses-you-can-access-for-free-as-a-student-37lh" target="_blank">Premium Courses You Can Access for Free as a Student</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://vknight.org/2025/10/21/rrr.html" target="_blank">Reviving, reproducing, and revisiting Axelrod’s second tournament</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-22 11:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20dth4lg40u3ojxgmrh5.png" alt="Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,29 +213,29 @@
                 <span class="time">2025-10-22 10:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/alibaba-damo-academy-and-canonical" target="_blank">Alibaba Damo Academy and Canonical partner to deliver Ubuntu on XuanTie and drive RISC-V innovation</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-22 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/roscon-2025" target="_blank">Discover your fully open source robotics observability at ROSCon 2025</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-22 08:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/halloween-streaming-best-movies-texas-chainsaw-massacre-insidious-sinister-it-follows-1280x853.jpg" alt="10 Actually Scary Movies You Can Stream This Halloween" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scariest-movies-to-stream-halloween-2000674615" target="_blank">10 Actually Scary Movies You Can Stream This Halloween</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/Futurama-Fry-Shut-Up-And-Take-My-Money.jpg?fit=1920%2C1080&amp;quality=60&amp;ssl=1" alt="Futurama is finally getting a decent game, kinda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/22/futurama-is-finally-getting-a-decent-game-kinda.html" target="_blank">Futurama is finally getting a decent game, kinda</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 12:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2GMC15VMJWNQ6QNJ4C0CE3/hero-image.jpg" alt="How ‘Parkinson’s Law’ Is Making You Unproductive, and What to Do About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,24 +270,6 @@
                 <span class="title"><a href="https://gizmodo.com/netflixs-ai-implementation-is-going-way-up-2000675360" target="_blank">Netflix’s Stock Drops on Lackluster Earnings, but Its AI Implementation Is Going Way Up</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-22 04:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/11/1459654863_07249fe0d7_o-e1756930023896.jpg?fit=768%2C514&amp;quality=60&amp;ssl=1" alt="Shockingly, Republicans turned on a Trump nominee who called himself a Nazi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/21/shockingly-republicans-turned-on-a-trump-nominee-who-called-himself-a-nazi.html" target="_blank">Shockingly, Republicans turned on a Trump nominee who called himself a Nazi</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-22 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/mar-a-lago-aerial-view-sm-1280x853.jpg" alt="FAA Imposes New Flight Restrictions Over Mar-a-Lago (Whether Trump Is There or Not)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/faa-new-restrictions-mar-a-lago-2000675254" target="_blank">FAA Imposes New Flight Restrictions Over Mar-a-Lago (Whether Trump Is There or Not)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-21 23:28</span>
             </div>
         </div>
 </div>
@@ -311,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
