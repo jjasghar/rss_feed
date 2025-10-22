@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 21:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 22:02:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss" target="_blank">US lawmakers urge Trump admin to secure release of American teen in Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +93,29 @@
                 <span class="time">2025-10-22 16:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/22/nx-s1-5581578/confused-by-the-u-s-economy-youre-not-alone" target="_blank">Confused by the U.S. economy? You&#x27;re not alone</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-22 15:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/tesladown-500x500.jpg" alt="Tesla profits fall 37% in Q3 despite healthy sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/" target="_blank">Tesla profits fall 37% in Q3 despite healthy sales</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-22 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/" target="_blank">Snapchat makes its first open prompt AI Lens available for free in the US</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-22 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +152,20 @@
                 <span class="time">2025-10-22 19:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/" target="_blank">OpenAI’s Atlas is more about ChatGPT than the web</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-22 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-myanmar-500x500-1761154379.jpg" alt="SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/" target="_blank">SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-22 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nuccithegreat/postman-the-unsung-hero-of-everyday-api-development-273h" target="_blank">Postman: The Unsung Hero of Everyday API Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 21:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,10 +178,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/" target="_blank">Django 6.0 beta 1 released</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-22 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/" target="_blank">From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-10-22 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/virtualbox-logo-on-white.jpg?resize=406%2C232&amp;ssl=1" alt="VirtualBox 7.2.4 Released (But Won’t Install on Ubuntu 25.10)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/virtualbox-7-2-4-release-libxml2-error-ubuntu-25-10" target="_blank">VirtualBox 7.2.4 Released (But Won’t Install on Ubuntu 25.10)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-22 19:57</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +209,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/virtualbox-7-2-4-release-libxml2-error-ubuntu-25-10" target="_blank">VirtualBox 7.2.4 Released But Won’t Run on Ubuntu 25.10</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-22 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-XP-PEN-Artist-24-Pro" target="_blank">Linux 6.19 To Support The XP-PEN Artist 24 Pro Drawing Tablet</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-22 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leeca/modules-and-java-and-windows-oh-my-2o94" target="_blank">Modules, and Java, and Windows, Oh My!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/deepseek-ocr/en/headerimage/generatedHeaderImage-1761156698877.jpg" alt="DeepSeek AI Unveils DeepSeek-OCR: Vision-Based Context Compression Redefines Long-Text Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/deepseek-ocr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DeepSeek AI Unveils DeepSeek-OCR: Vision-Based Context Compression Redefines Long-Text Processing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-22 18:35</span>
             </div>
         </div>
 </div>
@@ -301,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/22/new-hanna-art" target="_blank">New Hanna Art!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-22 17:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1761110133-20251022.png" alt="Saturday Morning Breakfast Cereal - Dedication" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
