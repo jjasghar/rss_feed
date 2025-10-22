@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 09:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 10:01:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6299/live/4f762c70-af29-11f0-b9f9-e5c1839c872f.jpg" alt="Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss" target="_blank">Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-22 09:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/22/g-s1-94389/government-shutdown" target="_blank">The federal government is still shut down. Here&#x27;s what that means across the country</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-22 09:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +104,20 @@
                 <span class="time">2025-10-22 05:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f682/live/e8b84da0-ae98-11f0-aa13-0b0479f6f42a.png" alt="300 people tell BBC of police misogyny and racism after undercover investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq0jx7ljn9o?at_medium=RSS&at_campaign=rss" target="_blank">300 people tell BBC of police misogyny and racism after undercover investigation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-22 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/22/ai-models-misrepresent-news-events-nearly-half-the-time-study-says?traffic_source=rss" target="_blank">AI models misrepresent news events nearly half the time, study says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 04:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f7cabfd7b0b6e1b9e53c99/master/pass/NASA-Boss-Shook-Up-Moon-Landing-Plans-Science-2231496815.jpg" alt="NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nasas-boss-just-shook-up-the-agencys-plans-to-land-on-the-moon/" target="_blank">NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-22 09:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="OnePlus Promo Code: $100 Off  | October 2025 | WIRED" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings" target="_blank">Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-21 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/" target="_blank">Netflix goes ‘all in’ on generative AI as entertainment industry remains divided</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-21 22:21</span>
             </div>
         </div>
 </div>
@@ -200,19 +207,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/arduino-alternative-microcontroller-boards/" target="_blank">Arduino Alternative Microcontroller Boards for Your DIY Projects in the Post-Qualcomm Era</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-22 07:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arvind_sundararajan/digital-alchemy-turning-ideas-into-interactive-worlds-with-ai-j37" target="_blank">Digital Alchemy: Turning Ideas into Interactive Worlds with AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd6qi3nn7buzonejvgvwb.jpg" alt="Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh" target="_blank">Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 05:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Sinners_song-1280x853.jpg" alt="Hell Yeah, That Excellent ‘Sinners’ Song Is Being Put Up for the Oscars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hell-yeah-that-excellent-sinners-song-is-being-put-up-for-the-oscars-2000675309" target="_blank">Hell Yeah, That Excellent ‘Sinners’ Song Is Being Put Up for the Oscars</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-22 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/netflix-building-1280x858.jpg" alt="Netflix’s Stock Drops on Lackluster Earnings, but Its AI Implementation Is Going Way Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +295,6 @@
                 <span class="time">2025-10-21 23:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/laptop-power-bank-anker-1280x853.jpg" alt="Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ankers-25000mah-laptop-power-bank-with-triple-100w-usb-c-is-now-selling-for-pennies-on-amazon-2000637801" target="_blank">Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-21 22:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
