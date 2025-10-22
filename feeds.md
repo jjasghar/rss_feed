@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 05:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 06:02:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/22/g-s1-94444/spanish-league-cancels-barcelona-match-miami" target="_blank">Spanish league cancels plans for Barcelona to play regular-season match in Miami</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-22 05:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/north-korea-fires-unidentified-ballistic-missiles-towards-east-sea-seoul?traffic_source=rss" target="_blank">North Korea fires ‘unidentified’ ballistic missiles towards East Sea: Seoul</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-22 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/10/21/aje-onl-pal_detaineeszoomin_av_v3-211025?traffic_source=rss" target="_blank">Inside Israel’s war of imprisonment against Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-21 22:21</span>
             </div>
         </div>
 </div>
@@ -169,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arvind_sundararajan/digital-alchemy-turning-ideas-into-interactive-worlds-with-ai-j37" target="_blank">Digital Alchemy: Turning Ideas into Interactive Worlds with AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 06:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd6qi3nn7buzonejvgvwb.jpg" alt="Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh" target="_blank">Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://chipsandcheese.com/p/evaluating-the-infinity-cache-in" target="_blank">Evaluating the Infinity Cache in AMD Strix Halo</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-22 04:20</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +216,6 @@
                 <span class="time">2025-10-22 02:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.1-Beta" target="_blank">AlmaLinux 10.1 Beta Released For Popular RHEL 10 Community Distribution</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-22 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-48m2" target="_blank">Ringer Movies: The 10 Best Horror Movies of 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 00:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/netflix-building-1280x858.jpg" alt="Netflix’s Stock Drops on Lackluster Earnings, but Its AI Implementation Is Going Way Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflixs-ai-implementation-is-going-way-up-2000675360" target="_blank">Netflix’s Stock Drops on Lackluster Earnings, but Its AI Implementation Is Going Way Up</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-22 04:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/11/1459654863_07249fe0d7_o-e1756930023896.jpg?fit=768%2C514&amp;quality=60&amp;ssl=1" alt="Shockingly, Republicans turned on a Trump nominee who called himself a Nazi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +289,6 @@
                 <span class="time">2025-10-21 22:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5YNNQ10DDZ11323ZC061X37/hero-image.jpg" alt="Here&#x27;s Everything New in iOS 26.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/everything-new-in-ios-261?utm_medium=RSS" target="_blank">Here&#x27;s Everything New in iOS 26.1</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-21 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
