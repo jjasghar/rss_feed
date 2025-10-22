@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 18:02:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 19:01:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/after-icj-ruling-can-un-relief-agency-unrwa-resume-full-gaza-operations?traffic_source=rss" target="_blank">After ICJ ruling, can UN relief agency UNRWA resume full Gaza operations?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/white-house-5-ap-gmh-251022_1761143716514_hpMain_4x3t_384.jpg" alt="&#x27;Entirety&#x27; of East Wing to be &#x27;modernized&#x27; to build Trump ballroom: WH official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/entirety-east-wing-modernized-build-trump-ballroom-white/story?id=126755761" target="_blank">&#x27;Entirety&#x27; of East Wing to be &#x27;modernized&#x27; to build Trump ballroom: WH official</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-22 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d98c/live/70f5da80-af6a-11f0-ba75-093eca1ac29b.jpg" alt="Harvey Willgoose killer sentenced to at least 16 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +100,29 @@
                 <span class="time">2025-10-22 15:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/22/live-trump-to-host-nato-chief-as-putin-meeting-collapses?traffic_source=rss" target="_blank">LIVE: Trump to host NATO chief as Putin meeting collapses</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/f_mo_lon_vance_toddler_251022.00_00_12_26.Still001-8murvg.jpg" alt="Vance says Israel trip not about monitoring ceasefire like ‘a toddler’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/vance-says-israel-trip-not-about-monitoring-ceasefire-like-a-toddler-250369605892" target="_blank">Vance says Israel trip not about monitoring ceasefire like ‘a toddler’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-22 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/" target="_blank">OpenAI’s Atlas is more about ChatGPT than the web</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-22 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-myanmar-500x500-1761154379.jpg" alt="SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/" target="_blank">SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-22 18:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,35 +159,44 @@
                 <span class="time">2025-10-22 16:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/" target="_blank">GM is bringing Google Gemini-powered AI assistant to cars in 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-22 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/804174/casio-ring-digital-watch-g-shock-nano-dwn-5600" target="_blank">Casio’ new ring watch straps a durable G-Shock to your finger</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-22 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leeca/modules-and-java-and-windows-oh-my-2o94" target="_blank">Modules, and Java, and Windows, Oh My!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/deepseek-ocr/en/headerimage/generatedHeaderImage-1761156698877.jpg" alt="DeepSeek AI Unveils DeepSeek-OCR: Vision-Based Context Compression Redefines Long-Text Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/deepseek-ocr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DeepSeek AI Unveils DeepSeek-OCR: Vision-Based Context Compression Redefines Long-Text Processing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-22 18:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18706884&w=600" alt="From Platform Cowboys to Governance Marshals: Taming the AI Wild West" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/taming-the-ai-wild-west" target="_blank">From Platform Cowboys to Governance Marshals: Taming the AI Wild West</a></span>
                 <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-22 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/top-security-researcher-shares-their-bug-bounty-process/" target="_blank">Top security researcher shares their bug bounty process</a></span>
+                <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-10-22 16:00</span>
             </div>
         </div>
@@ -189,38 +218,20 @@
                 <span class="time">2025-10-22 15:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/" target="_blank">Willow quantum chip demonstrates verifiable quantum advantage on hardware</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-22 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/" target="_blank">Google demonstrates &#x27;verifiable quantum advantage&#x27; with their Willow processor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-22 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://slint.dev/blog/slint-1.14-released" target="_blank">Slint 1.14 Released</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-22 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/" target="_blank">Canada Fines Cybercrime Friendly Cryptomus $176M</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-10-22 17:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -272,21 +283,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/IMG_2632-scaled-e1761150799134.jpeg?fit=768%2C834&amp;quality=60&amp;ssl=1" alt="Keep a soft cone of shame around for your pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/22/keep-a-soft-cone-of-shame-around-for-your-pets.html" target="_blank">Keep a soft cone of shame around for your pets</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 16:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K868HAEN1NM914DERVP9N3XP/hero-image.png" alt="Steam&#x27;s Calendar View Is a Convenient and Personalized Way to Track New Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/steams-calendar-view-is-the-best-way-to-make-sure-you-dont-miss-new-games?utm_medium=RSS" target="_blank">Steam&#x27;s Calendar View Is a Convenient and Personalized Way to Track New Games</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-22 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Derryreviewtopart-1280x853.jpg" alt="‘It: Welcome to Derry’ Is a Harrowing Expansion of Stephen King’s Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-review-hbo-pennywise-stephen-king-2000673860" target="_blank">‘It: Welcome to Derry’ Is a Harrowing Expansion of Stephen King’s Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-22 16:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
