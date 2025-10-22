@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 07:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 08:02:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/state-of-emergency-declared-in-perus-capital-lima-amid-protests?traffic_source=rss" target="_blank">State of emergency declared in Peru’s capital Lima amid protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 07:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss" target="_blank">Focus of grooming inquiry &#x27;will not change&#x27;, home secretary insists</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-22 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/national_1761094344400_hpMain_4x3t_384.jpg" alt="National Guard could stay in Washington, DC, through summer 2026: Lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/national-guard-stay-washington-dc-summer-2026-lawsuit/story?id=126739403" target="_blank">National Guard could stay in Washington, DC, through summer 2026: Lawsuit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-22 01:31</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-20ok" target="_blank">Ringer Movies: The 10 Best Horror Movies of 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/joouha/modshim" target="_blank">modshim: Override and customize Python packages without touching their code</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-22 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service" target="_blank">Greenland Ditches Starlink for French Satellite Service</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-22 07:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arvind_sundararajan/digital-alchemy-turning-ideas-into-interactive-worlds-with-ai-j37" target="_blank">Digital Alchemy: Turning Ideas into Interactive Worlds with AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 06:02</span>
@@ -188,33 +212,6 @@
                 <span class="title"><a href="https://chipsandcheese.com/p/evaluating-the-infinity-cache-in" target="_blank">Evaluating the Infinity Cache in AMD Strix Halo</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-22 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1qoui63r3etgwsuakyo7.png" alt="Blockchain in 2025: Evolving Beyond Cryptocurrencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m" target="_blank">Blockchain in 2025: Evolving Beyond Cryptocurrencies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/supertuxkart-logo-CARRINO.jpg?resize=406%2C232&amp;ssl=1" alt="SuperTuxKart 1.5 Released with Improved Graphics + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/supertuxkart-1-5-released" target="_blank">SuperTuxKart 1.5 Released with Improved Graphics + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-22 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arvind_sundararajan/adaptive-rank-personalization-that-learns-your-changing-mind-by-arvind-sundararajan-1d64" target="_blank">Adaptive Rank: Personalization That Learns Your Changing Mind by Arvind Sundararajan</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 02:02</span>
             </div>
         </div>
 </div>
@@ -318,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
