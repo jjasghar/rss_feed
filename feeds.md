@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 04:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 05:02:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +53,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/22/ai-models-misrepresent-news-events-nearly-half-the-time-study-says?traffic_source=rss" target="_blank">AI models misrepresent news events nearly half the time, study says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 04:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/21/nx-s1-5581714/paul-ingrassia-nomination-withdrawal" target="_blank">Trump pick to lead watchdog agency withdraws after offensive text messages revealed</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-22 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9904/live/74990b70-aec6-11f0-aac8-33fb9543690b.jpg" alt="Focus of grooming inquiry &#x27;will not change&#x27;, home secretary insists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss" target="_blank">Focus of grooming inquiry &#x27;will not change&#x27;, home secretary insists</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-22 02:22</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +104,20 @@
                 <span class="time">2025-10-21 22:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8352/live/ea8348d0-aec8-11f0-b2a1-6f537f66f9aa.jpg" alt="Trump says he did not want &#x27;wasted meeting&#x27; after plan for Putin talks shelved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he did not want &#x27;wasted meeting&#x27; after plan for Putin talks shelved</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-21 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251021-donald-trump-mn-1045-300738.jpg" alt="Democrats call on &#x27;disengaged&#x27; Trump to get involved to end shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/democrats-call-disengaged-trump-get-involved-end-shutdown-rcna238873" target="_blank">Democrats call on &#x27;disengaged&#x27; Trump to get involved to end shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-21 21:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f67b35328039a7a6b7066c/master/pass/World-Not-Doing-Anything-About-Climate-Change-Science-2205540770.jpg" alt="New Report Finds Efforts to Slow Climate Change Are Working—Just Not Fast Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/new-report-finds-efforts-to-slow-climate-change-are-working-just-not-fast-enough/" target="_blank">New Report Finds Efforts to Slow Climate Change Are Working—Just Not Fast Enough</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-22 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2025-10-21 20:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f7c62248e48370f358662a/master/pass/This%20Smart%20Warming%20Mug%20is%20Marked%20Down%20by%20$60.png" alt="This Smart Warming Mug Is Marked Down by $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ember-travel-mug-deal-1025/" target="_blank">This Smart Warming Mug Is Marked Down by $60</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-21 20:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd6qi3nn7buzonejvgvwb.jpg" alt="Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh" target="_blank">Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1qoui63r3etgwsuakyo7.png" alt="Blockchain in 2025: Evolving Beyond Cryptocurrencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m" target="_blank">Blockchain in 2025: Evolving Beyond Cryptocurrencies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 03:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/supertuxkart-logo-CARRINO.jpg?resize=406%2C232&amp;ssl=1" alt="SuperTuxKart 1.5 Released with Improved Graphics + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/supertuxkart-1-5-released" target="_blank">SuperTuxKart 1.5 Released with Improved Graphics + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-22 02:35</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-48m2" target="_blank">Ringer Movies: The 10 Best Horror Movies of 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jack0lantern/from-impostor-syndrome-to-mentorship-how-what-shaped-my-growth-as-an-engineer-1kak" target="_blank">From Impostor Syndrome to Mentorship: How “WHAT” Shaped My Growth as an Engineer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h" target="_blank">rlsw – Raylib software OpenGL renderer in less than 5k LOC</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-21 21:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
