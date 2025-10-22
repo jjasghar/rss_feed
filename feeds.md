@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 02:29:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 03:20:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 03:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date" target="_blank">Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-22 02:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68f69800ae96f92366d7b48f/master/pass/DSC_6443.jpg" alt="Samsung’s Galaxy XR Mixed Reality Headset Is Here: Price, Release Date, Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -144,20 +153,20 @@
                 <span class="time">2025-10-21 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/troll1-500x500-1761073842.jpg" alt="Troll 2 trailer is a Godzilla-inspired monster mash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/10/troll-2-trailer-is-a-godzilla-inspired-monster-mash/" target="_blank">Troll 2 trailer is a Godzilla-inspired monster mash</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-21 19:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1qoui63r3etgwsuakyo7.png" alt="Blockchain in 2025: Evolving Beyond Cryptocurrencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m" target="_blank">Blockchain in 2025: Evolving Beyond Cryptocurrencies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 03:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +210,6 @@
                 <span class="title"><a href="https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h" target="_blank">rlsw – Raylib software OpenGL renderer in less than 5k LOC</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-21 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75" target="_blank">I Was Vibe Coding Before It Was Cool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-21 20:55</span>
             </div>
         </div>
 </div>
@@ -313,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 03:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
