@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 01:29:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-22 02:29:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/national_1761094344400_hpMain_4x3t_384.jpg" alt="National Guard could stay in Washington, DC, through summer 2026: Lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/national-guard-stay-washington-dc-summer-2026-lawsuit/story?id=126739403" target="_blank">National Guard could stay in Washington, DC, through summer 2026: Lawsuit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-22 01:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +94,20 @@
                 <span class="time">2025-10-21 21:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-portland-3-ap-gmh-251021_1761072133967_hpMain_4x3t_384.jpg" alt="Trump admin seeks to dissolve remaining order blocking troop deployment to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-administration-seeks-dissolve-remaining-order-blocking-national/story?id=126729762" target="_blank">Trump admin seeks to dissolve remaining order blocking troop deployment to Portland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-21 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f69800ae96f92366d7b48f/master/pass/DSC_6443.jpg" alt="Samsung’s Galaxy XR Mixed Reality Headset Is Here: Price, Release Date, Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsung-galaxy-xr-gemini-android-xr-mixed-reality-headset/" target="_blank">Samsung’s Galaxy XR Mixed Reality Headset Is Here: Price, Release Date, Features</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-22 02:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +153,20 @@
                 <span class="time">2025-10-21 19:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale" target="_blank">Anker’s latest noise-canceling sleep earbuds are nearly $40 off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-21 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arvind_sundararajan/adaptive-rank-personalization-that-learns-your-changing-mind-by-arvind-sundararajan-1d64" target="_blank">Adaptive Rank: Personalization That Learns Your Changing Mind by Arvind Sundararajan</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 02:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75" target="_blank">I Was Vibe Coding Before It Was Cool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-21 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/" target="_blank">Replacing a $3000/mo Heroku bill with a $55/mo server</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-21 20:28</span>
             </div>
         </div>
 </div>
@@ -323,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
