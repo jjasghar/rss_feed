@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 19:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 20:01:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +53,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/22/tropical-storm-melissa-batters-dominican-republic-with-torrential-rain?traffic_source=rss" target="_blank">Tropical Storm Melissa batters Dominican Republic with torrential rain</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/after-icj-ruling-can-un-relief-agency-unrwa-resume-full-gaza-operations?traffic_source=rss" target="_blank">After ICJ ruling, can UN relief agency UNRWA resume full Gaza operations?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-22 18:41</span>
@@ -62,6 +74,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/entirety-east-wing-modernized-build-trump-ballroom-white/story?id=126755761" target="_blank">&#x27;Entirety&#x27; of East Wing to be &#x27;modernized&#x27; to build Trump ballroom: WH official</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-22 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251022-north-carolina-redistricting-mn-1350-7cc22d.jpg" alt="North Carolina lawmakers pass new map designed to give GOP an extra House seat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/north-carolina-lawmakers-pass-new-map-designed-give-gop-extra-house-se-rcna238702" target="_blank">North Carolina lawmakers pass new map designed to give GOP an extra House seat</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-22 17:05</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +103,29 @@
                 <span class="time">2025-10-22 15:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/22/live-real-madrid-vs-juventus-uefa-champions-league?traffic_source=rss" target="_blank">LIVE: Real Madrid vs Juventus – UEFA Champions League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef85/live/77168c20-af56-11f0-8c56-6315cfcbbba0.png" alt="Child abuse expert pulls out of grooming inquiry over political &#x27;point scoring&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss" target="_blank">Child abuse expert pulls out of grooming inquiry over political &#x27;point scoring&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-22 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22954554/best-video-doorbell-camera" target="_blank">The best doorbell cameras</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-22 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2214872699-500x500.jpg" alt="When sycophancy and bias meet medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/when-sycophancy-and-bias-meet-medicine/" target="_blank">When sycophancy and bias meet medicine</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-22 19:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +162,20 @@
                 <span class="time">2025-10-22 17:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/22/tinder-will-require-new-users-in-the-us-to-verify-their-identity-with-a-selfie/" target="_blank">Tinder will require new users in the US to verify their identity with a selfie</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-22 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f797ba47df21d17483d0ea/master/pass/sec-aws-outage-2161832042.jpg" alt="The Long Tail of the AWS Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/aws-cloud-outage-long-tail/" target="_blank">The Long Tail of the AWS Outage</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-22 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/virtualbox-logo-on-white.jpg?resize=406%2C232&amp;ssl=1" alt="VirtualBox 7.2.4 Released But Won’t Run on Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/virtualbox-7-2-4-release-libxml2-error-ubuntu-25-10" target="_blank">VirtualBox 7.2.4 Released But Won’t Run on Ubuntu 25.10</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-22 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +221,6 @@
                 <span class="time">2025-10-22 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/STF-2026-systemd-PHP" target="_blank">Sovereign Tech Agency Making 2026 Investments In systemd, PHP, Servo &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-22 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Ben-Solo-Rey-Rise-of-Skywalker-1280x853.jpg" alt="What Incredible Timing for ‘Star Wars’ to Post Ben Solo’s Best Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-ben-solo-movie-youtube-clip-2000675618" target="_blank">What Incredible Timing for ‘Star Wars’ to Post Ben Solo’s Best Clip</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-22 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K86HEEV4RQYJDEHXN6QQ82K4/hero-image.png" alt="You Can Now Limit How Many YouTube Shorts You Watch in a Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/youtube-shorts-limit-added?utm_medium=RSS" target="_blank">You Can Now Limit How Many YouTube Shorts You Watch in a Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-22 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/the-vampire-lestat-interview-with-the-vampire-season-3-1280x853.jpg" alt="You’ll Get to Hear Lestat’s Music Career Kick Off on ‘Talamasca’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/ubisoft-massive-layoffs-division-3-star-wars-outlaws-2000638264" target="_blank">Ubisoft Asks Devs At Star Wars Outlaws Studio To Lay Themselves Off</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-22 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/IMG_2632-scaled-e1761150799134.jpeg?fit=768%2C834&amp;quality=60&amp;ssl=1" alt="Keep a soft cone of shame around for your pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/22/keep-a-soft-cone-of-shame-around-for-your-pets.html" target="_blank">Keep a soft cone of shame around for your pets</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-22 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K868HAEN1NM914DERVP9N3XP/hero-image.png" alt="Steam&#x27;s Calendar View Is a Convenient and Personalized Way to Track New Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/steams-calendar-view-is-the-best-way-to-make-sure-you-dont-miss-new-games?utm_medium=RSS" target="_blank">Steam&#x27;s Calendar View Is a Convenient and Personalized Way to Track New Games</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-22 16:30</span>
             </div>
         </div>
 </div>
@@ -337,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
