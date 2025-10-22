@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 22:02:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-22 23:01:51 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +42,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c70/live/3b154940-af84-11f0-8cf5-47a716327516.jpg" alt="Trump says Putin talks &#x27;don&#x27;t go anywhere&#x27; as he imposes new sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Putin talks &#x27;don&#x27;t go anywhere&#x27; as he imposes new sanctions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-22 22:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss" target="_blank">US lawmakers urge Trump admin to secure release of American teen in Israel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-22 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time" target="_blank">Iceland reports the presence of mosquitoes for the first time, as climate warms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-22 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-dublin-protests_7058997.jpg?20251023000023" alt="&#x27;It got ugly - and fast&#x27;: Prams filled with fireworks as teenagers clash with police outside Dublin hotel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-officers-hurt-in-second-night-of-violence-in-dublin-13455441" target="_blank">&#x27;It got ugly - and fast&#x27;: Prams filled with fireworks as teenagers clash with police outside Dublin hotel</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-22 19:56</span>
             </div>
         </div>
 <div class="story">
@@ -66,38 +95,20 @@
                 <span class="time">2025-10-22 18:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/white-house-5-ap-gmh-251022_1761143716514_hpMain_4x3t_384.jpg" alt="&#x27;Entirety&#x27; of East Wing to be &#x27;modernized&#x27; to build Trump ballroom: WH official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/entirety-east-wing-modernized-build-trump-ballroom-white/story?id=126755761" target="_blank">&#x27;Entirety&#x27; of East Wing to be &#x27;modernized&#x27; to build Trump ballroom: WH official</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-22 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251022-north-carolina-redistricting-mn-1350-7cc22d.jpg" alt="North Carolina lawmakers pass new map designed to give GOP an extra House seat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/north-carolina-lawmakers-pass-new-map-designed-give-gop-extra-house-se-rcna238702" target="_blank">North Carolina lawmakers pass new map designed to give GOP an extra House seat</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-22 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d98c/live/70f5da80-af6a-11f0-ba75-093eca1ac29b.jpg" alt="Harvey Willgoose killer sentenced to at least 16 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg7ezmly8lo?at_medium=RSS&at_campaign=rss" target="_blank">Harvey Willgoose killer sentenced to at least 16 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-22 16:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages" target="_blank">Here are Amazon’s smart delivery glasses that guide drivers and scan packages</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-22 22:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/tesladown-500x500.jpg" alt="Tesla profits fall 37% in Q3 despite healthy sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/22954554/best-video-doorbell-camera" target="_blank">The best doorbell cameras</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-22 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2214872699-500x500.jpg" alt="When sycophancy and bias meet medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/when-sycophancy-and-bias-meet-medicine/" target="_blank">When sycophancy and bias meet medicine</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-22 19:46</span>
             </div>
         </div>
 </div>
@@ -339,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
