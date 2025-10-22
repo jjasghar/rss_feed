@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 14:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 15:01:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/22/live-trump-to-host-nato-chief-as-putin-meeting-collapses?traffic_source=rss" target="_blank">LIVE: Trump to host NATO chief as Putin meeting collapses</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-22 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/f_mo_lon_vance_toddler_251022.00_00_12_26.Still001-8murvg.jpg" alt="Vance says Israel trip not about monitoring ceasefire like ‘a toddler’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/vance-says-israel-trip-not-about-monitoring-ceasefire-like-a-toddler-250369605892" target="_blank">Vance says Israel trip not about monitoring ceasefire like ‘a toddler’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-22 13:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/457f/live/3f6c8950-af1f-11f0-9f87-dd1917f781b7.png" alt="Second candidate to chair grooming inquiry pulls out after survivors quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/22/g-s1-94462/up-first-newsletter-jd-vance-israel-gaza-government-shutdown-white-house-ballroom" target="_blank">VP Vance tries to progress Gaza ceasefire. And, White House demolition draws critics</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-22 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/22/video-londoners-join-viral-scream-squad-to-let-off-steam?traffic_source=rss" target="_blank">Video: Londoners join viral ‘Scream Squad’ to let off steam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 10:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6299/live/4f762c70-af29-11f0-b9f9-e5c1839c872f.jpg" alt="Children among victims in Russian strikes, hours after Trump-Putin talks shelved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss" target="_blank">Children among victims in Russian strikes, hours after Trump-Putin talks shelved</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-22 10:37</span>
             </div>
         </div>
 </div>
@@ -171,10 +161,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.jetbrains.com/kotlin/2025/10/from-python-to-kotlin-a-transition-worth-making/" target="_blank">From Python to Kotlin: A Transition Worth Making</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-22 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18708465&w=600" alt="What Is End-to-End Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/all-about-end-to-end-testing" target="_blank">What Is End-to-End Testing?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-22 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-4i2g" target="_blank">Transforming AI Monetization: The Future of LLM-Powered Applications</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/contributed/disaggregated-routing-with-sonic-and-vpp-architecture-and-integration-part-one/" target="_blank">Disaggregated Routing with SONiC and VPP: Architecture and Integration – Part One</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2025-10-22 13:44</span>
             </div>
         </div>
 <div class="story">
@@ -189,37 +206,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2509.26507" target="_blank">A Brain-like LLM to replace Transformers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18708450&w=600" alt="GraphQL vs REST API: Which Is Better for Your Project in 2025?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/graphql-vs-rest-for-your-project" target="_blank">GraphQL vs REST API: Which Is Better for Your Project in 2025?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/connectalamin/premium-courses-you-can-access-for-free-as-a-student-37lh" target="_blank">Premium Courses You Can Access for Free as a Student</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/google-cloud-secure-mcp/en/headerimage/generatedHeaderImage-1759937164841.jpg" alt="Google Cloud Outlines Key Strategies for Securing Remote MCP Servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/google-cloud-secure-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Outlines Key Strategies for Securing Remote MCP Servers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-22 12:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Overdue-Znver4-Tuning" target="_blank">LLVM Lands Some Long Overdue Tuning Optimizations For AMD Zen 4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-22 13:36</span>
             </div>
         </div>
 </div>
@@ -241,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Image-Nuphy.jpg?fit=1080%2C661&amp;quality=60&amp;ssl=1" alt="Nuphy&#x27;s Node75 mechanical keyboard loses the knob, gets a screenless touchbar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/22/nuphys-node75-mechanical-keyboard-loses-the-knob-gets-a-screenless-touchbar.html" target="_blank">Nuphy&#x27;s Node75 mechanical keyboard loses the knob, gets a screenless touchbar</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 14:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/gmktec-mini-pc-k8-1280x853.jpg" alt="Gaming Mini PC with Ryzen 7, 32GB DDR5 RAM, 1TB Is Cheaper Than a Mac Mini, Amazon Clears Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +285,6 @@
                 <span class="time">2025-10-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/aura.jpg?fit=776%2C556&amp;quality=60&amp;ssl=1" alt="Aura Ink: a pricey color e-ink digital photo frame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/22/aura-ink-a-pricey-color-e-ink-digital-photo-frame.html" target="_blank">Aura Ink: a pricey color e-ink digital photo frame</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-22 11:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
