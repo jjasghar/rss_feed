@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 11:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-22 12:02:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/457f/live/3f6c8950-af1f-11f0-9f87-dd1917f781b7.png" alt="PM insists grooming inquiry won&#x27;t be watered down as fourth survivor quits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss" target="_blank">PM insists grooming inquiry won&#x27;t be watered down as fourth survivor quits</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-22 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/22/g-s1-94462/up-first-newsletter-jd-vance-israel-gaza-government-shutdown-white-house-ballroom" target="_blank">VP Vance tries to progress Gaza ceasefire. And, White House demolition draws critics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-22 11:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/22/video-londoners-join-viral-scream-squad-to-let-off-steam?traffic_source=rss" target="_blank">Video: Londoners join viral ‘Scream Squad’ to let off steam</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-22 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6299/live/4f762c70-af29-11f0-b9f9-e5c1839c872f.jpg" alt="Children among victims in Russian strikes, hours after Trump-Putin talks shelved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss" target="_blank">Children among victims in Russian strikes, hours after Trump-Putin talks shelved</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-22 10:37</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +97,29 @@
                 <span class="time">2025-10-22 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6299/live/4f762c70-af29-11f0-b9f9-e5c1839c872f.jpg" alt="Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss" target="_blank">Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-22 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/22/g-s1-94389/government-shutdown" target="_blank">The federal government is still shut down. Here&#x27;s what that means across the country</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-22 09:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/bus-collision-on-highway-near-ugandas-capital-kampala-kills-63-people?traffic_source=rss" target="_blank">Bus collision on highway near Uganda’s capital Kampala kills 63 people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/" target="_blank">Life360 ventures into pet tech with the launch of a new GPS tracker</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f838f9ca694516647e4962/master/pass/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png" alt="Best Kitchen Composters and Food Recyclers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/home-composters-buying-guide/" target="_blank">Best Kitchen Composters and Food Recyclers (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-22 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +156,6 @@
                 <span class="time">2025-10-22 05:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f67b35328039a7a6b7066c/master/pass/World-Not-Doing-Anything-About-Climate-Change-Science-2205540770.jpg" alt="New Report Finds Efforts to Slow Climate Change Are Working—Just Not Fast Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-report-finds-efforts-to-slow-climate-change-are-working-just-not-fast-enough/" target="_blank">New Report Finds Efforts to Slow Climate Change Are Working—Just Not Fast Enough</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-22 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date" target="_blank">Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-22 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +168,33 @@
                 <span class="title"><a href="https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh" target="_blank">Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18708421&w=600" alt="Building Scalable CRM Systems: Architecture Patterns and Data Modeling Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scalable-crm-architecture-and-data-modeling" target="_blank">Building Scalable CRM Systems: Architecture Patterns and Data Modeling Strategies</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/cloud-devops-trends-2025/en/headerimage/cloud-devops-header-1760962856380.jpg" alt="Article: InfoQ Cloud and DevOps Trends Report - 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/cloud-devops-trends-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: InfoQ Cloud and DevOps Trends Report - 2025</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-LPD-Display-Linux" target="_blank">Intel Xe3P_LPD Display Support For Linux Being Built Out Ahead Of Nova Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-22 10:27</span>
             </div>
         </div>
 <div class="story">
@@ -188,52 +215,29 @@
                 <span class="time">2025-10-22 08:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-20ok" target="_blank">Ringer Movies: The 10 Best Horror Movies of 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 08:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/joouha/modshim" target="_blank">modshim: Override and customize Python packages without touching their code</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-22 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service" target="_blank">Greenland Ditches Starlink for French Satellite Service</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-22 07:14</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/a-cybersecurity-merit-badge.html" target="_blank">A Cybersecurity Merit Badge</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-21 11:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GMC15VMJWNQ6QNJ4C0CE3/hero-image.jpg" alt="How ‘Parkinson’s Law’ Is Making You Unproductive, and What to Do About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-parkinsons-law-is-making-you-unproductive-and-what-to-do-about-it?utm_medium=RSS" target="_blank">How ‘Parkinson’s Law’ Is Making You Unproductive, and What to Do About It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/aura.jpg?fit=776%2C556&amp;quality=60&amp;ssl=1" alt="Aura Ink: a pricey color e-ink digital photo frame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/22/aura-ink-a-pricey-color-e-ink-digital-photo-frame.html" target="_blank">Aura Ink: a pricey color e-ink digital photo frame</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 11:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Sinners_song-1280x853.jpg" alt="Hell Yeah, That Excellent ‘Sinners’ Song Is Being Put Up for the Oscars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +272,6 @@
                 <span class="title"><a href="https://gizmodo.com/faa-new-restrictions-mar-a-lago-2000675254" target="_blank">FAA Imposes New Flight Restrictions Over Mar-a-Lago (Whether Trump Is There or Not)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-21 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/lenovo-idea-pad-1280x853.jpg" alt="Lenovo Laptop (40GB RAM, 1TB SSD, i7) Down 74% on Amazon, and It’s Not Refurbished" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lenovo-laptop-40gb-ram-1tb-ssd-i7-down-74-on-amazon-and-its-not-refurbished-2000637810" target="_blank">Lenovo Laptop (40GB RAM, 1TB SSD, i7) Down 74% on Amazon, and It’s Not Refurbished</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-21 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-2025-10-21-at-6.57.35-PM.png?fit=1118%2C786&amp;quality=55&amp;ssl=1" alt="10 PRINT: a book about a one-line Commodore 64 BASIC program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/21/10-print-a-book-about-a-one-line-commodore-64-basic-program.html" target="_blank">10 PRINT: a book about a one-line Commodore 64 BASIC program</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-21 23:14</span>
             </div>
         </div>
 </div>
@@ -325,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
