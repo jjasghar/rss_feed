@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 16:02:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-22 17:01:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Error processing https://www.smbc-comics.com/rss.php: The read operation timed out -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, October 22, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/22/live-real-madrid-vs-juventus-uefa-champions-league?traffic_source=rss" target="_blank">LIVE: Real Madrid vs Juventus – UEFA Champions League</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-22 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef85/live/77168c20-af56-11f0-8c56-6315cfcbbba0.png" alt="Child abuse expert pulls out of grooming inquiry over political &#x27;point scoring&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss" target="_blank">Child abuse expert pulls out of grooming inquiry over political &#x27;point scoring&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-22 15:17</span>
             </div>
         </div>
 <div class="story">
@@ -91,20 +100,29 @@
                 <span class="time">2025-10-22 11:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/22/cuban-man-roberto-mosquera-del-peral-deported-from-us-to-eswatini-on-hunger-strike-in-prison" target="_blank">Cuban man deported from US to Eswatini goes on hunger strike in prison</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-22 11:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/22/tinder-will-require-new-users-in-the-us-to-verify-their-identity-with-a-selfie/" target="_blank">Tinder will require new users in the US to verify their identity with a selfie</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-22 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f797ba47df21d17483d0ea/master/pass/sec-aws-outage-2161832042.jpg" alt="The Long Tail of the AWS Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/aws-cloud-outage-long-tail/" target="_blank">The Long Tail of the AWS Outage</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-22 16:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +159,29 @@
                 <span class="time">2025-10-22 13:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/803399/metroid-prime-visual-retrospective-art-book-review" target="_blank">The new Metroid Prime art book offers rare insight into Nintendo&amp;#8217;s design process</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/" target="_blank">Life360 ventures into pet tech with the launch of a new GPS tracker</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-22 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18706884&w=600" alt="From Platform Cowboys to Governance Marshals: Taming the AI Wild West" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/taming-the-ai-wild-west" target="_blank">From Platform Cowboys to Governance Marshals: Taming the AI Wild West</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-22 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/google-coral-npu-platform/en/headerimage/google-coral-npu-platform-1761146206964.jpeg" alt="Google Research Open-Sources the Coral NPU Platform to Help Build AI into Wearables and Edge Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/google-coral-npu-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Research Open-Sources the Coral NPU Platform to Help Build AI into Wearables and Edge Devices</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-22 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="time">2025-10-22 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.jetbrains.com/kotlin/2025/10/from-python-to-kotlin-a-transition-worth-making/" target="_blank">From Python to Kotlin: A Transition Worth Making</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-22 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18708465&w=600" alt="What Is End-to-End Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/all-about-end-to-end-testing" target="_blank">What Is End-to-End Testing?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-22 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Emma-Stone-Bald-Bugonia-1280x853.jpg" alt="Not Everyone at the All-Bald ‘Bugonia’ Screening Had to Go Bald" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bugonia-bald-screening-recap-emma-stone-2000675539" target="_blank">Not Everyone at the All-Bald ‘Bugonia’ Screening Had to Go Bald</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-22 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/10/fa2a45197d10860d3a32eb7a12ebec49-1280x720.jpg" alt="Ubisoft Asks Devs At Star Wars Outlaws Studio To Lay Themselves Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ubisoft-massive-layoffs-division-3-star-wars-outlaws-2000638264" target="_blank">Ubisoft Asks Devs At Star Wars Outlaws Studio To Lay Themselves Off</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-22 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K868HAEN1NM914DERVP9N3XP/hero-image.png" alt="Steam&#x27;s Calendar View Is a Convenient and Personalized Way to Track New Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/steams-calendar-view-is-the-best-way-to-make-sure-you-dont-miss-new-games?utm_medium=RSS" target="_blank">Steam&#x27;s Calendar View Is a Convenient and Personalized Way to Track New Games</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-22 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Derryreviewtopart-1280x853.jpg" alt="‘It: Welcome to Derry’ Is a Harrowing Expansion of Stephen King’s Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,38 +291,20 @@
                 <span class="time">2025-10-22 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Image-Nuphy.jpg?fit=1080%2C661&amp;quality=60&amp;ssl=1" alt="Nuphy&#x27;s Node75 mechanical keyboard loses the knob, gets a screenless touchbar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/22/nuphys-node75-mechanical-keyboard-loses-the-knob-gets-a-screenless-touchbar.html" target="_blank">Nuphy&#x27;s Node75 mechanical keyboard loses the knob, gets a screenless touchbar</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-22 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K85TVKWF1DM6HD8A29B3T7M5/hero-image.png" alt="The Meta Quest Pro Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-quest-pro-mr-vr-headset-sale?utm_medium=RSS" target="_blank">The Meta Quest Pro Is $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-22 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/gmktec-mini-pc-k8-1280x853.jpg" alt="Gaming Mini PC with Ryzen 7, 32GB DDR5 RAM, 1TB Is Cheaper Than a Mac Mini, Amazon Clears Out Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gaming-mini-pc-with-ryzen-7-32gb-ddr5-ram-1tb-is-cheaper-than-a-mac-mini-amazon-clears-out-stock-2000638156" target="_blank">Gaming Mini PC with Ryzen 7, 32GB DDR5 RAM, 1TB Is Cheaper Than a Mac Mini, Amazon Clears Out Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-22 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1761110133-20251022.png" alt="Saturday Morning Breakfast Cereal - Dedication" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dedication" target="_blank">Saturday Morning Breakfast Cereal - Dedication</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-22 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -319,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
