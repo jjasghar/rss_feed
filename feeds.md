@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 00:04:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 01:29:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/russia-ukraine-war-list-of-key-events-day-1337?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,337</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-ap-gmh-251022_1761138828030_hpMain_4x3t_384.jpg" alt="Here&#x27;s what Trump has said about seeking $230M settlement from DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-seeking-230m-settlement-doj/story?id=126772259" target="_blank">Here&#x27;s what Trump has said about seeking $230M settlement from DOJ</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-23 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761174334580_nn_ksi_trump_putin_meeting_delayed_251022_1920x1080-vqvpzx.jpg" alt="Trump slaps new sanctions on Russia’s two largest oil companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +99,6 @@
                 <span class="time">2025-10-22 21:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time" target="_blank">Iceland reports the presence of mosquitoes for the first time, as climate warms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-22 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-dublin-protests_7058997.jpg?20251023000023" alt="&#x27;It got ugly - and fast&#x27;: Prams filled with fireworks as teenagers clash with police outside Dublin hotel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/police-officers-hurt-in-second-night-of-violence-in-dublin-13455441" target="_blank">&#x27;It got ugly - and fast&#x27;: Prams filled with fireworks as teenagers clash with police outside Dublin hotel</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-22 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +111,24 @@
                 <span class="title"><a href="https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/" target="_blank">Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-22 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/" target="_blank">Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-22 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-500x500.jpg" alt="Cache poisoning vulnerabilities found in 2 DNS resolving apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/" target="_blank">Cache poisoning vulnerabilities found in 2 DNS resolving apps</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-22 22:35</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +158,20 @@
                 <span class="time">2025-10-22 21:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/804889/amazon-rivian-also-tmq-quad-ebike-delivery" target="_blank">Amazon wants to buy ‘thousands’ of Rivian’s pedal-assist cargo bikes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-22 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1149297973-500x500-1761164122.jpg" alt="This may be the most bonkers tech job listing I’ve ever seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/" target="_blank">This may be the most bonkers tech job listing I’ve ever seen</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-22 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/oracle-e6-amd-epyc-cloud" target="_blank">Oracle OCI Compute E6 Benchmarks For Leading AMD EPYC Turin Performance In The Cloud</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-23 00:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +217,6 @@
                 <span class="time">2025-10-22 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/virtualbox-logo-on-white.jpg?resize=406%2C232&amp;ssl=1" alt="VirtualBox 7.2.4 Released (But Won’t Install on Ubuntu 25.10)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/virtualbox-7-2-4-release-libxml2-error-ubuntu-25-10" target="_blank">VirtualBox 7.2.4 Released (But Won’t Install on Ubuntu 25.10)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-22 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2403657211-1280x854.jpg" alt="‘Corporate Terrorists’ May Stand in the Way of Elon Musk’s Trillionaire Status, He Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/corporate-terrorists-may-stand-in-the-way-of-elon-musks-trillionaire-status-he-claims-2000675753" target="_blank">‘Corporate Terrorists’ May Stand in the Way of Elon Musk’s Trillionaire Status, He Claims</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-23 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/ring-alarm-14-1280x853.jpg" alt="This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-ring-alarm-for-3-bedrooms-hits-a-new-record-low-amazon-dumps-stock-of-its-own-brand-2000638348" target="_blank">This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-23 00:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/PDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This PDF Editor is now only $25 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +299,20 @@
                 <span class="time">2025-10-22 19:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K86HEEV4RQYJDEHXN6QQ82K4/hero-image.png" alt="You Can Now Limit How Many YouTube Shorts You Watch in a Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/youtube-shorts-limit-added?utm_medium=RSS" target="_blank">You Can Now Limit How Many YouTube Shorts You Watch in a Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-22 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/the-vampire-lestat-interview-with-the-vampire-season-3-1280x853.jpg" alt="You’ll Get to Hear Lestat’s Music Career Kick Off on ‘Talamasca’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/talamasca-lestat-music-easter-egg-interview-with-the-vampire-2000675556" target="_blank">You’ll Get to Hear Lestat’s Music Career Kick Off on ‘Talamasca’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-22 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5685.png" alt="For Goodness&#x27; Sake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5685" target="_blank">For Goodness&#x27; Sake</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-23 01:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -326,22 +340,13 @@
                 <span class="time">2025-10-22 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5684.png" alt="A Weight Has Lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5684" target="_blank">A Weight Has Lifted</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-22 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
