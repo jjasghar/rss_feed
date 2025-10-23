@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 03:16:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 04:02:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 03:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/us-colombia-tensions-surge-as-presidents-trump-petro-trade-threats?traffic_source=rss" target="_blank">US, Colombia tensions surge as Presidents Trump, Petro trade threats</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 03:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +102,20 @@
                 <span class="time">2025-10-23 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761174334580_nn_ksi_trump_putin_meeting_delayed_251022_1920x1080-vqvpzx.jpg" alt="Trump slaps new sanctions on Russia’s two largest oil companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-slaps-new-sanctions-on-russia-s-two-largest-oil-companies-250418245697" target="_blank">Trump slaps new sanctions on Russia’s two largest oil companies</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-22 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/805098/amazon-robots-ai-warehouses" target="_blank">Amazon claims the headline isn&amp;#8217;t robots taking jobs as it reveals new cost-cutting robots</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-23 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f95e720de6419f85f31569/master/pass/GettyImages-1239416791.jpg" alt="Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +161,20 @@
                 <span class="time">2025-10-22 21:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/" target="_blank">Snapchat makes its first open prompt AI Lens available for free in the US</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-22 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph" target="_blank">Show/Hide Form Fields Conditionally with Form Show If Component</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 03:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/nuccithegreat/postman-the-unsung-hero-of-everyday-api-development-273h" target="_blank">Postman: The Unsung Hero of Everyday API Development</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp" target="_blank">The Best Vegetarian Sources of Protein</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 20:52</span>
             </div>
         </div>
 </div>
@@ -351,22 +352,13 @@
                 <span class="time">2025-10-22 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/shielding_chart.png" alt="Shielding Chart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3158/" target="_blank">Shielding Chart</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-10-22 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 03:16 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
