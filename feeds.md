@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 08:02:30 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-23 09:02:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +48,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/graveyards-are-now-last-option-shelters-in-gaza-for-palestinians-amid-ruins?traffic_source=rss" target="_blank">Graveyards are now last option shelters in Gaza for Palestinians amid ruins</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 08:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e5/live/9578b340-afa7-11f0-b2a1-6f537f66f9aa.jpg" alt="Four survivors say minister must quit for them to rejoin grooming inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly285e5ljyo?at_medium=RSS&at_campaign=rss" target="_blank">Four survivors say minister must quit for them to rejoin grooming inquiry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-23 08:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/tropical-storm-melissa-takes-aim-at-caribbean-islands-on-alert?traffic_source=rss" target="_blank">Tropical Storm Melissa takes aim at Caribbean, islands on alert</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-23 06:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5583519/trump-sanctions-russia-oil-ukraine" target="_blank">Trump levies new sanctions on Russian oil giants in a push to end Ukraine war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-23 06:24</span>
             </div>
         </div>
 <div class="story">
@@ -64,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss" target="_blank">Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-23 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-251022_1761168942169_hpMain_4x3t_384.jpg" alt="What we know about the donors funding the White House ballroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/donors-funding-white-house-ballroom/story?id=126778550" target="_blank">What we know about the donors funding the White House ballroom</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-23 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/us-colombia-tensions-surge-as-presidents-trump-petro-trade-threats?traffic_source=rss" target="_blank">US, Colombia tensions surge as Presidents Trump, Petro trade threats</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 03:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/mamdani-cuomo-clash-in-final-nyc-mayoral-debate-key-takeaways?traffic_source=rss" target="_blank">Mamdani, Cuomo clash in final NYC mayoral debate: Key takeaways</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 02:37</span>
             </div>
         </div>
 </div>
@@ -339,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
