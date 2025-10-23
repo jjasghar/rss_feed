@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 22:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-23 23:01:44 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +102,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68f80331302a4fd65a7729e9/master/pass/Intel-Earnnings-Business-2235610687.jpg" alt="Trump&#x27;s Investment in Intel Is Paying Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/" target="_blank">Trump&#x27;s Investment in Intel Is Paying Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-23 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/openai-sky-500x500.webp" alt="With new acquisition, OpenAI signals plans to integrate deeper into the OS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/" target="_blank">With new acquisition, OpenAI signals plans to integrate deeper into the OS</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-23 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch" target="_blank">Microsoft Edge’s new Copilot Mode turns on more AI features</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-23 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2236792840-500x500.jpg" alt="Reddit sues to block Perplexity from scraping Google search results" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -135,33 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/keurig-k-mini-deal-1025/" target="_blank">Our Favorite Compact Pod Coffee Maker Is $30 Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-23 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-23 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Mico-1-500x500.jpeg" alt="Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/" target="_blank">Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-23 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/805387/warner-bros-sale-netflix-amazon-apple-interested" target="_blank">Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-23 17:18</span>
             </div>
         </div>
 </div>
@@ -252,6 +243,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-23 21:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/fallout5-1280x720.jpg" alt="Todd Howard Can’t Wait To Tell You All About Fallout 5, But Not Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -285,15 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/23/rest-assured-trumps-top-priority-is-the-great-ballroom-of-people-who-can-afford-the-cover-charge.html" target="_blank">Rest assured, Trump&#x27;s top priority is The Great Ballroom of People Who Can Afford the Cover Charge</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-23 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/1997bc03c7217-screenshotUrl-1280x720.jpg" alt="Bizarre Final Fantasy Tactics: The Ivalice Chronicles Glitch Instantly Pops Every Achievement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-glitch-achievements-platinum-trophy-2000638646" target="_blank">Bizarre Final Fantasy Tactics: The Ivalice Chronicles Glitch Instantly Pops Every Achievement</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-23 18:40</span>
             </div>
         </div>
 </div>
@@ -342,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
