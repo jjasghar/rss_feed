@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 10:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 11:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +105,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates" target="_blank">OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-23 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work" target="_blank">The Espresso Pro portable monitor is a revolution for remote work</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-23 09:56</span>
@@ -150,15 +155,6 @@
                 <span class="time">2025-10-22 23:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-500x500.jpg" alt="Cache poisoning vulnerabilities found in 2 DNS resolving apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/" target="_blank">Cache poisoning vulnerabilities found in 2 DNS resolving apps</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-22 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,9 +164,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-6-rest-api-application-h42" target="_blank">Micronaut 4 application on AWS Lambda- Part 6 REST API application</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yimajo/running-asynchronous-setup-side-effects-in-test-with-swift-testing-13e6" target="_blank">Running Asynchronous Setup Side Effects in `@Test` with Swift Testing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-23 07:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/" target="_blank">What leaders need to know from the 2025 Stack Overflow Developer Survey</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-23 07:40</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/sizan_mahmud0_e7c3fd0cb68/database-indexing-done-right-why-your-optimized-queries-might-be-slower-than-before-4l39" target="_blank">Database Indexing Done Right: Why Your &quot;Optimized&quot; Queries Might Be Slower Than Before</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-23 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988" target="_blank">VST3 audio plugin format is now MIT</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-23 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho" target="_blank">11 Best iOS Development Courses to Learn in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 04:50</span>
             </div>
         </div>
 </div>
@@ -246,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Stranger-Things-Gaten-Matarazzo-Netflix-1280x853.jpg" alt="‘Stranger Things’ Star Gaten Matarazzo on How He’s Brought Depth to Dustin Over the Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-star-gaten-matarazzo-on-how-hes-brought-depth-to-dustin-over-the-years-2000675830" target="_blank">‘Stranger Things’ Star Gaten Matarazzo on How He’s Brought Depth to Dustin Over the Years</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2403657211-1280x854.jpg" alt="‘Corporate Terrorists’ May Stand in the Way of Elon Musk’s Trillionaire Status, He Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-openais-new-chatgpt-web-browser?utm_medium=RSS" target="_blank">OpenAI&#x27;s New Web Browser Comes With Some Serious Security Risks</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-22 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Ben-Solo-Rey-Rise-of-Skywalker-1280x853.jpg" alt="What Incredible Timing for ‘Star Wars’ to Post Ben Solo’s Best Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-ben-solo-movie-youtube-clip-2000675618" target="_blank">What Incredible Timing for ‘Star Wars’ to Post Ben Solo’s Best Clip</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-22 20:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
