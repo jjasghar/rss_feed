@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 16:02:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-23 17:01:47 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 16:02 UTC</div>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,10 +102,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/23/trump-pardons-binance-founder-changpeng-zhao/" target="_blank">Trump pardons Binance founder Changpeng Zhao</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-23 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy" target="_blank">Meet Mico, Microsoft&amp;#8217;s AI version of Clippy</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f94378aa2cef79087697eb/master/pass/GettyImages-2242265447.jpg" alt="White House Staffers Couldn’t Care Less About the East Wing Demolition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/white-house-staffers-east-wing-demolition/" target="_blank">White House Staffers Couldn’t Care Less About the East Wing Demolition</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-23 15:47</span>
             </div>
         </div>
 <div class="story">
@@ -145,29 +153,29 @@
                 <span class="time">2025-10-23 13:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f9214e97e4f3bdd30d238d/master/pass/003_project-amplify-1.jpg" alt="Nike’s Robotic Shoe Gets Humans One Step Closer to Cyborg" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nike-project-amplify/" target="_blank">Nike’s Robotic Shoe Gets Humans One Step Closer to Cyborg</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/" target="_blank">Redwood Materials raises another $350M to power up its energy storage business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-23 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/raghubathi_rajatk_6f274/rng-aliasing-synthetic-dvfs-driven-rng-obfuscation-5d58" target="_blank">RNG-Aliasing: Synthetic DVFS-Driven RNG Obfuscation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709496&w=600" alt="LangGraph Beginner to Advanced: Part 2 — Hello World Graph in LangGraph" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hello-world-graph-in-langgraph" target="_blank">LangGraph Beginner to Advanced: Part 2 — Hello World Graph in LangGraph</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +212,6 @@
                 <span class="time">2025-10-23 14:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709451&w=600" alt="Ranking Full-Text Search Results in PostgreSQL Using ts_rank and ts_rank_cd With Hibernate 6 and posjsonhelper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rank-full-text-search-results-postgresql-hibernate" target="_blank">Ranking Full-Text Search Results in PostgreSQL Using ts_rank and ts_rank_cd With Hibernate 6 and posjsonhelper</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-23 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709413&w=600" alt="Applying Domain-Driven Design With Enterprise Java: A Behavior-Driven Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/domain-driven-design-enterprise-java" target="_blank">Applying Domain-Driven Design With Enterprise Java: A Behavior-Driven Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-23 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/image-25-1280x720.jpg" alt="Overwatch 2 Just Gave Its Robot War Criminal A Penis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-2-ramattra-season-19-skin-preserver-penis-2000638613" target="_blank">Overwatch 2 Just Gave Its Robot War Criminal A Penis</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K88T45RANTNACXKC58TCKG56/hero-image.png" alt="The Spotify App Is Crashing on Android, but There Are Workarounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-spotify-app-crashing-on-android?utm_medium=RSS" target="_blank">The Spotify App Is Crashing on Android, but There Are Workarounds</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-23 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K88R3FXB3Z4XKH73YQ5B9HV5/hero-image.jpg" alt="Check This Database to See If Your Email Credentials Have Been Leaked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/cybercrime-is-tricky-protecting-yourself-and-saving-50-with-webroot-is-a-treat-2000675346" target="_blank">Webroot Total Protection at 50% Off Is the Easiest and Cheapest Way to Outsmart Cybercriminals This Cybersecurity Awareness Month</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-23 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K87W3CKGTH8HRP5HXCQ2VV87/hero-image.png" alt="This Vizio 4K Smart TV Is Under $350 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/vizio-65-inch-4k-smart-tv-sale?utm_medium=RSS" target="_blank">This Vizio 4K Smart TV Is Under $350 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H9V45EXZNT8KTZ6NXVPPZ/hero-image.jpg" alt="Use the Two Minute Rule to Stop Procrastinating" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-use-the-two-minute-rule-to-stop-procrastinating?utm_medium=RSS" target="_blank">Use the Two Minute Rule to Stop Procrastinating</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-23 12:30</span>
             </div>
         </div>
 </div>
@@ -350,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
