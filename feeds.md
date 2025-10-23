@@ -1,30 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 17:01:47 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-23 18:02:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 10 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5583959/white-house-east-wing-demolition-ballroom-trump" target="_blank">The East Wing could fully be demolished soon, as preservationists urge caution</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-23 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-jerusalem_7049965.jpg?20251013143215" alt="Power of sanctions against Russia lies in US financial system that greases the wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/power-of-russia-sanctions-lies-in-us-financial-system-that-greases-the-wheels-13455878" target="_blank">Power of sanctions against Russia lies in US financial system that greases the wheels</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-23 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5054/live/10b69000-b01f-11f0-8261-4d7901038185.jpg" alt="Not guilty verdict for Soldier F in Bloody Sunday murder trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +92,29 @@
                 <span class="time">2025-10-23 14:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761229456158_now_brk_patel_fbi_arrests_nba_251023_1920x1080-k9qfl4.jpg" alt="&#x27;The fraud is mind-boggling&#x27;: Patel details arrests in gambling-related investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-dir-patel-details-arrests-connected-to-gambling-related-investigation-250463301813" target="_blank">&#x27;The fraud is mind-boggling&#x27;: Patel details arrests in gambling-related investigation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-23 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/23/mixed-messaging-from-white-house-over-gaza-ceasefire?traffic_source=rss" target="_blank">“Mixed messaging” from White House over Gaza ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/805387/warner-bros-sale-netflix-amazon-apple-interested" target="_blank">Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-23 17:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/" target="_blank">Microsoft’s Mico is a ‘Clippy’ for the AI era</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-23 17:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +151,20 @@
                 <span class="time">2025-10-23 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/23/only-4-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/" target="_blank">Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-23 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/bloodlands1-500x500-1761226856.jpg" alt="An outcast faces a deadly alien world in Predator: Badlands trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/10/an-outcast-faces-a-deadly-alien-world-in-predator-badlands-trailer/" target="_blank">An outcast faces a deadly alien world in Predator: Badlands trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-23 13:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709752&w=600" alt="Data Quality at Write Time: Engineering Reliability With Delta Expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/delta-expectations-write-time-data-quality" target="_blank">Data Quality at Write Time: Engineering Reliability With Delta Expectations</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-23 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -165,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/raghubathi_rajatk_6f274/rng-aliasing-synthetic-dvfs-driven-rng-obfuscation-5d58" target="_blank">RNG-Aliasing: Synthetic DVFS-Driven RNG Obfuscation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-23 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/8bd6854e-40ef-4522-b9cb-65ff2edf62bf_1802x1408.png" alt="The Pulse: AWS takes down a good part of the internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-aws-takes-down-a-good-part" target="_blank">The Pulse: AWS takes down a good part of the internet</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-10-23 16:17</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +210,6 @@
                 <span class="time">2025-10-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/cache-aware-scheduling-amd-turin" target="_blank">Linux&#x27;s Proposed Cache Aware Scheduling Benchmarks Show Big Potential On AMD EPYC Turin</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-23 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqx30vnwd4do" target="_blank">US axes website for reporting human rights abuses by US-armed foreign forces</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-23 14:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,20 +224,29 @@
                 <span class="time">2025-10-23 11:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/" target="_blank">Canada Fines Cybercrime Friendly Cryptomus $176M</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-10-22 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Xbox-Series-X-Controller-1-1280x853.jpg" alt="Xbox Is Suffering for the Dumbest Reason Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/xbox-is-suffering-for-the-dumbest-reason-possible-2000676268" target="_blank">Xbox Is Suffering for the Dumbest Reason Possible</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-23 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Escape-From-Duckov-1280x720.jpg" alt="There’s A Damned Good Reason Escape From Duckov Has Sold A Million Copies In A Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/theres-a-damned-good-reason-escape-from-duckov-has-sold-a-million-copies-in-a-week-2000638588" target="_blank">There’s A Damned Good Reason Escape From Duckov Has Sold A Million Copies In A Week</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-23 17:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/image-25-1280x720.jpg" alt="Overwatch 2 Just Gave Its Robot War Criminal A Penis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +283,20 @@
                 <span class="time">2025-10-23 14:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/lomo-mca__black__quarter-left__uv-filter__on-grey.jpg?fit=715%2C582&amp;quality=60&amp;ssl=1" alt="A new film camera from Lomo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/23/a-new-film-camera-from-lomo.html" target="_blank">A new film camera from Lomo</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-23 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/otcs-fy26-webroot-blog-cam-1-800x400-en-1280x851.jpg" alt="Webroot Total Protection at 50% Off Is the Easiest and Cheapest Way to Outsmart Cybercriminals This Cybersecurity Awareness Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cybercrime-is-tricky-protecting-yourself-and-saving-50-with-webroot-is-a-treat-2000675346" target="_blank">Webroot Total Protection at 50% Off Is the Easiest and Cheapest Way to Outsmart Cybercriminals This Cybersecurity Awareness Month</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-23 13:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/take-me-seriously/" target="_blank">Take Me Seriously</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-10-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1761110174-20251023.png" alt="Saturday Morning Breakfast Cereal - Ethics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -326,22 +324,13 @@
                 <span class="time">2025-10-22 23:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/22/new-hanna-art" target="_blank">New Hanna Art!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-22 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
