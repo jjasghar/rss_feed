@@ -1,12 +1,14 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 15:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 16:02:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
@@ -15,23 +17,24 @@
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5054/live/10b69000-b01f-11f0-8261-4d7901038185.jpg" alt="Not guilty verdict for Soldier F in Bloody Sunday murder trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c993nlken18o?at_medium=RSS&at_campaign=rss" target="_blank">Not guilty verdict for Soldier F in Bloody Sunday murder trial</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-23 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/23/displaced-palestinians-forced-to-live-in-gazas-graveyards?traffic_source=rss" target="_blank">Displaced Palestinians forced to live in Gaza’s graveyards</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 14:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Sports/chauney-billups-mo_1761222369181_hpMain_4x3t_384.jpg" alt="Charges announced in gambling probe tied to NBA player, coaches" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761229456158_now_brk_patel_fbi_arrests_nba_251023_1920x1080-k9qfl4.jpg" alt="&#x27;The fraud is mind-boggling&#x27;: Patel details arrests in gambling-related investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-dir-patel-details-arrests-connected-to-gambling-related-investigation-250463301813" target="_blank">&#x27;The fraud is mind-boggling&#x27;: Patel details arrests in gambling-related investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-23 14:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -74,38 +104,20 @@
                 <span class="time">2025-10-23 13:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9cc/live/d57e7c70-299f-11ef-b3b8-ed2dd2d12607.jpg" alt="Not guilty verdict in Bloody Sunday murder trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c993nlken18o?at_medium=RSS&at_campaign=rss" target="_blank">Not guilty verdict in Bloody Sunday murder trial</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-23 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Sports/chauney-billups-mo_1761222369181_hpMain_4x3t_384.jpg" alt="NBA head coach charged in illegal poker operation tied to Mafia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/miami-heat-terry-rozier-charged-nba-betting/story?id=126789368" target="_blank">NBA head coach charged in illegal poker operation tied to Mafia</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-23 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/23/us-dismisses-israeli-parliament-vote-on-annexing-occupied-west-bank?traffic_source=rss" target="_blank">US dismisses Israeli parliament vote on annexing occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 12:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy" target="_blank">Meet Mico, Microsoft&amp;#8217;s AI version of Clippy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f930279b7885126c50ccf2/master/pass/GettyImages-2231350405.jpg" alt="The Andrew Cuomo Campaign Is All in on MAGA Influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2025-10-23 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/news-102225a-lg-500x500.jpg" alt="Texas lawmakers double down on Discovery, call for DOJ investigation into Smithsonian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/texas-lawmakers-double-down-on-discovery-call-for-doj-investigation-into-smithsonian/" target="_blank">Texas lawmakers double down on Discovery, call for DOJ investigation into Smithsonian</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-23 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/rubik-pi-3-thundercomm-canonical" target="_blank">Canonical announces new optimized Ubuntu image for Thundercomm RUBIK Pi 3</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-23 15:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +222,6 @@
                 <span class="time">2025-10-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/" target="_blank">I spent a year of my life making an ASN.1 compiler in D</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-23 12:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K88R3FXB3Z4XKH73YQ5B9HV5/hero-image.jpg" alt="Check This Database to See If Your Email Credentials Have Been Leaked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/leaked-email-credentials-in-database?utm_medium=RSS" target="_blank">Check This Database to See If Your Email Credentials Have Been Leaked</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-23 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-Plants-vs.-Zombies-e1761231144772.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Skip Replanted and buy Plants vs. Zombies GOTY instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,20 +304,20 @@
                 <span class="time">2025-10-23 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Stranger-Things-Gaten-Matarazzo-Netflix-1280x853.jpg" alt="‘Stranger Things’ Star Gaten Matarazzo on How He’s Brought Depth to Dustin Over the Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-star-gaten-matarazzo-on-how-hes-brought-depth-to-dustin-over-the-years-2000675830" target="_blank">‘Stranger Things’ Star Gaten Matarazzo on How He’s Brought Depth to Dustin Over the Years</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1761110174-20251023.png" alt="Saturday Morning Breakfast Cereal - Ethics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ethics-8" target="_blank">Saturday Morning Breakfast Cereal - Ethics</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-23 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5685.png" alt="For Goodness&#x27; Sake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -333,22 +345,13 @@
                 <span class="time">2025-10-22 17:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1761110133-20251022.png" alt="Saturday Morning Breakfast Cereal - Dedication" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dedication" target="_blank">Saturday Morning Breakfast Cereal - Dedication</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
