@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 01:29:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 02:28:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/russia-ukraine-war-list-of-key-events-day-1337?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,337</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-23 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297e/live/9fdf2c40-af90-11f0-b913-f3ce4c5c6c56.jpg" alt="Mahmood says Home Office &#x27;not yet fit for purpose&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyl20gw4y2o?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood says Home Office &#x27;not yet fit for purpose&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-23 01:02</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss" target="_blank">US lawmakers urge Trump admin to secure release of American teen in Israel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-22 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-sanctions_7058998.jpg?20251023000042" alt="Trump imposes sanctions against Russia&#x27;s two biggest oil companies over Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-imposes-sanctions-against-russias-two-biggest-oil-companies-as-frustration-grows-with-vladimir-putin-over-the-ukraine-war-13455515" target="_blank">Trump imposes sanctions against Russia&#x27;s two biggest oil companies over Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-22 21:21</span>
             </div>
         </div>
 </div>
@@ -164,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn8zlmy8mo6udzakm2l9p.png" alt="Two Databases, No Drama: The Story of a Calm Migration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debojit_kaushik_cc7d957b2/two-databases-no-drama-the-story-of-a-calm-migration-3o72" target="_blank">Two Databases, No Drama: The Story of a Calm Migration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 02:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -206,15 +210,6 @@
                 <span class="title"><a href="https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/" target="_blank">Django 6.0 beta 1 released</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-22 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/" target="_blank">From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-22 20:30</span>
             </div>
         </div>
 </div>
@@ -317,6 +312,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/22/eats-chutes-and-leaves" target="_blank">Eats, Chutes, And Leaves</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-22 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/22/new-hanna-art" target="_blank">New Hanna Art!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-10-22 17:06</span>
@@ -340,13 +344,22 @@
                 <span class="time">2025-10-22 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/shielding_chart.png" alt="Shielding Chart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3158/" target="_blank">Shielding Chart</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-22 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
