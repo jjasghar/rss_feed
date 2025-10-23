@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 05:01:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-23 06:02:33 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,9 +46,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/23/us-national-debt-surpasses-a-record-38-trillion?traffic_source=rss" target="_blank">US national debt surpasses a record $38 trillion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 04:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss" target="_blank">Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-23 03:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-251022_1761168942169_hpMain_4x3t_384.jpg" alt="What we know about the donors funding the White House ballroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/donors-funding-white-house-ballroom/story?id=126778550" target="_blank">What we know about the donors funding the White House ballroom</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-23 03:27</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +96,20 @@
                 <span class="time">2025-10-23 01:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297e/live/9fdf2c40-af90-11f0-b913-f3ce4c5c6c56.jpg" alt="Mahmood says Home Office &#x27;not yet fit for purpose&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyl20gw4y2o?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood says Home Office &#x27;not yet fit for purpose&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-23 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/22/g-s1-94470/cancer-rates-deaths-lebanon" target="_blank">This nation has the fastest rising rate of cancer cases -- and deaths -- in the world</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-23 00:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/" target="_blank">As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-23 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +155,29 @@
                 <span class="time">2025-10-22 22:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/tesladown-500x500.jpg" alt="Tesla profits fall 37% in Q3 despite healthy sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/" target="_blank">Tesla profits fall 37% in Q3 despite healthy sales</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-22 21:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/visual-studio-mcp-ga/en/headerimage/header-1760906110319.jpg" alt="MCP Support in Visual Studio Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/visual-studio-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MCP Support in Visual Studio Reaches General Availability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-23 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sizan_mahmud0_e7c3fd0cb68/database-indexing-done-right-why-your-optimized-queries-might-be-slower-than-before-4l39" target="_blank">Database Indexing Done Right: Why Your &quot;Optimized&quot; Queries Might Be Slower Than Before</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 05:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,37 +199,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.loopwerk.io/articles/2025/async-django-why/" target="_blank">Async Django: a solution in search of a problem?</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-23 03:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph" target="_blank">Show/Hide Form Fields Conditionally with Form Show If Component</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-23 03:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-2-485g" target="_blank">React, Git[Hub], and VS Code for Beginners - Video 2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 03:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn8zlmy8mo6udzakm2l9p.png" alt="Two Databases, No Drama: The Story of a Calm Migration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debojit_kaushik_cc7d957b2/two-databases-no-drama-the-story-of-a-calm-migration-3o72" target="_blank">Two Databases, No Drama: The Story of a Calm Migration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/oracle-e6-amd-epyc-cloud" target="_blank">Oracle OCI Compute E6 Benchmarks For Leading AMD EPYC Turin Performance In The Cloud</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-23 00:40</span>
             </div>
         </div>
 </div>
@@ -349,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
