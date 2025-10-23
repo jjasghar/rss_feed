@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 02:28:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing 54 RSS feeds at 2025-10-23 03:16:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 02:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 03:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/mamdani-cuomo-clash-in-final-nyc-mayoral-debate-key-takeaways?traffic_source=rss" target="_blank">Mamdani, Cuomo clash in final NYC mayoral debate: Key takeaways</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/russia-ukraine-war-list-of-key-events-day-1337?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,337</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-23 01:10</span>
@@ -56,6 +72,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clyl20gw4y2o?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood says Home Office &#x27;not yet fit for purpose&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-23 01:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/22/g-s1-94470/cancer-rates-deaths-lebanon" target="_blank">This nation has the fastest rising rate of cancer cases -- and deaths -- in the world</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-23 00:49</span>
             </div>
         </div>
 <div class="story">
@@ -74,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-slaps-new-sanctions-on-russia-s-two-largest-oil-companies-250418245697" target="_blank">Trump slaps new sanctions on Russia’s two largest oil companies</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-22 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c70/live/3b154940-af84-11f0-8cf5-47a716327516.jpg" alt="Trump says Putin talks &#x27;don&#x27;t go anywhere&#x27; as he imposes new sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Putin talks &#x27;don&#x27;t go anywhere&#x27; as he imposes new sanctions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-22 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss" target="_blank">US lawmakers urge Trump admin to secure release of American teen in Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 21:25</span>
             </div>
         </div>
 </div>
@@ -159,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-2-485g" target="_blank">React, Git[Hub], and VS Code for Beginners - Video 2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 03:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn8zlmy8mo6udzakm2l9p.png" alt="Two Databases, No Drama: The Story of a Calm Migration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp" target="_blank">The Best Vegetarian Sources of Protein</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-22 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/" target="_blank">Django 6.0 beta 1 released</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-22 20:49</span>
             </div>
         </div>
 </div>
@@ -259,6 +266,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/05/fox-news.jpg?fit=1164%2C654&amp;quality=60&amp;ssl=1" alt="Fox host suggests White House honor the most notorious traitor in US history to own the libs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/22/fox-host-suggests-white-house-honor-the-most-notorious-traitor-in-us-history-to-own-the-libs.html" target="_blank">Fox host suggests White House honor the most notorious traitor in US history to own the libs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 22:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/PDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This PDF Editor is now only $25 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-wars-ben-solo-movie-youtube-clip-2000675618" target="_blank">What Incredible Timing for ‘Star Wars’ to Post Ben Solo’s Best Clip</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/pcocklogo.webp?fit=320%2C320&amp;quality=55&amp;ssl=1" alt="Office fans owe it to themselves subscribe to Peacock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/22/office-fans-owe-it-to-themselves-subscribe-to-meet-the-man-who-inspired-the-creation-of-homer-simpson.html" target="_blank">Office fans owe it to themselves subscribe to Peacock</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-22 19:47</span>
             </div>
         </div>
 </div>
@@ -358,8 +365,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 02:28 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 03:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
