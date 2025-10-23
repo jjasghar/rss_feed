@@ -1,36 +1,22 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 12:02:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-23 13:11:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 14 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +32,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Sports/chauney-billups-mo_1761222369181_hpMain_4x3t_384.jpg" alt="NBA head coach charged in illegal poker operation tied to Mafia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/miami-heat-terry-rozier-charged-nba-betting/story?id=126789368" target="_blank">NBA head coach charged in illegal poker operation tied to Mafia</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-23 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/23/us-dismisses-israeli-parliament-vote-on-annexing-occupied-west-bank?traffic_source=rss" target="_blank">US dismisses Israeli parliament vote on annexing occupied West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 12:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +84,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5582370/mail-in-ballot-postmark" target="_blank">Your ballot or other mail may not get postmarked by USPS the day it&#x27;s dropped off</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-23 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/graveyards-are-now-last-option-shelters-in-gaza-for-palestinians-amid-ruins?traffic_source=rss" target="_blank">Graveyards are now last option shelters in Gaza for Palestinians amid ruins</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e5/live/9578b340-afa7-11f0-b2a1-6f537f66f9aa.jpg" alt="Four survivors say minister must quit for them to rejoin grooming inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly285e5ljyo?at_medium=RSS&at_campaign=rss" target="_blank">Four survivors say minister must quit for them to rejoin grooming inquiry</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-23 08:28</span>
             </div>
         </div>
 </div>
@@ -247,6 +233,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/otcs-fy26-webroot-blog-cam-1-800x400-en-1280x851.jpg" alt="Webroot Total Protection at 50% Off Is the Easiest and Cheapest Way to Outsmart Cybercriminals This Cybersecurity Awareness Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cybercrime-is-tricky-protecting-yourself-and-saving-50-with-webroot-is-a-treat-2000675346" target="_blank">Webroot Total Protection at 50% Off Is the Easiest and Cheapest Way to Outsmart Cybercriminals This Cybersecurity Awareness Month</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-23 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H9V45EXZNT8KTZ6NXVPPZ/hero-image.jpg" alt="Use the Two Minute Rule to Stop Procrastinating" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-use-the-two-minute-rule-to-stop-procrastinating?utm_medium=RSS" target="_blank">Use the Two Minute Rule to Stop Procrastinating</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-23 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Stranger-Things-Gaten-Matarazzo-Netflix-1280x853.jpg" alt="‘Stranger Things’ Star Gaten Matarazzo on How He’s Brought Depth to Dustin Over the Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,24 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/22/fox-host-suggests-white-house-honor-the-most-notorious-traitor-in-us-history-to-own-the-libs.html" target="_blank">Fox host suggests White House honor the most notorious traitor in US history to own the libs</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-22 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/PDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This PDF Editor is now only $25 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/22/this-pdf-editor-is-now-only-25-for-life.html" target="_blank">This PDF Editor is now only $25 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-22 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K86PZ6Z797NMX3THWRPX0VAK/hero-image.jpg" alt="OpenAI&#x27;s New Web Browser Comes With Some Serious Security Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-openais-new-chatgpt-web-browser?utm_medium=RSS" target="_blank">OpenAI&#x27;s New Web Browser Comes With Some Serious Security Risks</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-22 21:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
