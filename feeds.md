@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 04:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 05:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss" target="_blank">Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 03:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/22/g-s1-94470/cancer-rates-deaths-lebanon" target="_blank">This nation has the fastest rising rate of cancer cases -- and deaths -- in the world</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-23 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-ap-gmh-251022_1761138828030_hpMain_4x3t_384.jpg" alt="Here&#x27;s what Trump has said about seeking $230M settlement from DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-seeking-230m-settlement-doj/story?id=126772259" target="_blank">Here&#x27;s what Trump has said about seeking $230M settlement from DOJ</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-23 00:00</span>
             </div>
         </div>
 </div>
@@ -170,6 +162,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho" target="_blank">11 Best iOS Development Courses to Learn in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-43/" target="_blank">FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-23 04:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph" target="_blank">Show/Hide Form Fields Conditionally with Form Show If Component</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-23 03:46</span>
@@ -200,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/oracle-e6-amd-epyc-cloud" target="_blank">Oracle OCI Compute E6 Benchmarks For Leading AMD EPYC Turin Performance In The Cloud</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-23 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yuripeixinho/descomplicando-xunit-para-net-5672" target="_blank">Testes com xUnit</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nuccithegreat/postman-the-unsung-hero-of-everyday-api-development-273h" target="_blank">Postman: The Unsung Hero of Everyday API Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-22 21:57</span>
             </div>
         </div>
 </div>
@@ -357,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
