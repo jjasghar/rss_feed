@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 09:02:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-23 10:02:05 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5582370/mail-in-ballot-postmark" target="_blank">Your ballot or other mail may not get postmarked by USPS the day it&#x27;s dropped off</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-23 09:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +100,20 @@
                 <span class="time">2025-10-23 04:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss" target="_blank">Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 03:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work" target="_blank">The Espresso Pro portable monitor is a revolution for remote work</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-23 09:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/" target="_blank">Cache poisoning vulnerabilities found in 2 DNS resolving apps</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-22 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages" target="_blank">Here are Amazon’s smart delivery glasses that guide drivers and scan packages</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-22 22:27</span>
             </div>
         </div>
 </div>
@@ -201,19 +203,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho" target="_blank">11 Best iOS Development Courses to Learn in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 04:50</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988" target="_blank">VST3 audio plugin format is now MIT</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-23 05:48</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-43/" target="_blank">FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-23 04:29</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho" target="_blank">11 Best iOS Development Courses to Learn in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 04:50</span>
             </div>
         </div>
 </div>
@@ -344,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
