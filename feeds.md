@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 06:02:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 07:02:28 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Error processing https://www.girlgeniusonline.com/ggmain/strips/ggmain.rss: The read operation timed out -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2n2ez0fn9e3zvogr7wsc.png" alt="🧩 Two Minor UI Glitches I Came Across on DEV 🙂" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/usman_awan/two-minor-ui-glitches-i-came-across-on-dev-af2" target="_blank">🧩 Two Minor UI Glitches I Came Across on DEV 🙂</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 06:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/visual-studio-mcp-ga/en/headerimage/header-1760906110319.jpg" alt="MCP Support in Visual Studio Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://www.loopwerk.io/articles/2025/async-django-why/" target="_blank">Async Django: a solution in search of a problem?</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-10-23 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph" target="_blank">Show/Hide Form Fields Conditionally with Form Show If Component</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 03:46</span>
             </div>
         </div>
 </div>
@@ -337,22 +337,13 @@
                 <span class="time">2025-10-22 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/22/eats-chutes-and-leaves" target="_blank">Eats, Chutes, And Leaves</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-22 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
