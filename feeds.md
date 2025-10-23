@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 14:01:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-23 15:01:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 14:02 UTC</div>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Sports/chauney-billups-mo_1761222369181_hpMain_4x3t_384.jpg" alt="Charges announced in gambling probe tied to NBA player, coaches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/miami-heat-terry-rozier-charged-nba-betting/story?id=126789368" target="_blank">Charges announced in gambling probe tied to NBA player, coaches</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-23 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/23/g-s1-94599/anglican-church-archbishop-accused-of-sexual-misconduct" target="_blank">Anglican Church Archbishop accused of sexual misconduct</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-23 14:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +101,20 @@
                 <span class="time">2025-10-23 12:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/23/g-s1-94585/up-first-newsletter-national-guard-pentagon-reporters-ukraine" target="_blank">Court to rule on troop deployment. And, a new Pentagon press corps emerges</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-23 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/23/mamdani-says-hell-fight-trump-on-ice-raids-in-final-nyc-debate?traffic_source=rss" target="_blank">Mamdani says he’ll fight Trump on ICE raids in final NYC debate</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f930279b7885126c50ccf2/master/pass/GettyImages-2231350405.jpg" alt="The Andrew Cuomo Campaign Is All in on MAGA Influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/andrew-cuomo-campaign-maga-influencers/" target="_blank">The Andrew Cuomo Campaign Is All in on MAGA Influencers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-23 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +160,47 @@
                 <span class="time">2025-10-23 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates" target="_blank">OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-23 10:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/introducing-canonical-academy" target="_blank">Introducing Canonical Academy</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/cache-aware-scheduling-amd-turin" target="_blank">Linux&#x27;s Proposed Cache Aware Scheduling Benchmarks Show Big Potential On AMD EPYC Turin</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-23 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqx30vnwd4do" target="_blank">US axes website for reporting human rights abuses by US-armed foreign forces</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-23 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709451&w=600" alt="Ranking Full-Text Search Results in PostgreSQL Using ts_rank and ts_rank_cd With Hibernate 6 and posjsonhelper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rank-full-text-search-results-postgresql-hibernate" target="_blank">Ranking Full-Text Search Results in PostgreSQL Using ts_rank and ts_rank_cd With Hibernate 6 and posjsonhelper</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-23 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709413&w=600" alt="Applying Domain-Driven Design With Enterprise Java: A Behavior-Driven Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,42 +217,6 @@
                 <span class="title"><a href="https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/" target="_blank">I spent a year of my life making an ASN.1 compiler in D</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-23 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://vsevolod.net/claude-debug/" target="_blank">The Owl, The Scientific Method, and Claude Code: A Debugging Story</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-23 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/felipemattioli/organizing-and-improving-message-production-and-consumption-in-azure-service-bus-with-asbflow-3pi7" target="_blank">Organizing and Improving Message Production and Consumption in Azure Service Bus with AsbFlow</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/testing-distributed-system/en/headerimage/testing-distributed-system-header-1759497417696.jpg" alt="How to Enable Testing a Distributed System on a Single Environment Using Proxy Routing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/testing-distributed-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How to Enable Testing a Distributed System on a Single Environment Using Proxy Routing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-23 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709385&w=600" alt="How to Build an MCP Server and Client With Spring AI MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/spring-ai-mcp-server-client-tutorial" target="_blank">How to Build an MCP Server and Client With Spring AI MCP</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-23 11:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-Plants-vs.-Zombies-e1761231144772.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Skip Replanted and buy Plants vs. Zombies GOTY instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/23/skip-replanted-and-buy-plants-vs-zombies-goty-instead.html" target="_blank">Skip Replanted and buy Plants vs. Zombies GOTY instead</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-23 14:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/lomo-mca__black__quarter-left__uv-filter__on-grey.jpg?fit=715%2C582&amp;quality=60&amp;ssl=1" alt="A new film camera from Lomo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/stranger-things-star-gaten-matarazzo-on-how-hes-brought-depth-to-dustin-over-the-years-2000675830" target="_blank">‘Stranger Things’ Star Gaten Matarazzo on How He’s Brought Depth to Dustin Over the Years</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2403657211-1280x854.jpg" alt="‘Corporate Terrorists’ May Stand in the Way of Elon Musk’s Trillionaire Status, He Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/corporate-terrorists-may-stand-in-the-way-of-elon-musks-trillionaire-status-he-claims-2000675753" target="_blank">‘Corporate Terrorists’ May Stand in the Way of Elon Musk’s Trillionaire Status, He Claims</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-23 00:53</span>
             </div>
         </div>
 </div>
@@ -351,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
