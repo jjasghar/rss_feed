@@ -1,28 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 21:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 22:01:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,6 +111,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2236792840-500x500.jpg" alt="Reddit sues to block Perplexity from scraping Google search results" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/" target="_blank">Reddit sues to block Perplexity from scraping Google search results</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-23 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/" target="_blank">Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-23 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68fa61560af2899c38989d89/master/pass/K-Mini%20DEAL.png" alt="Our Favorite Compact Pod Coffee Maker Is $30 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/keurig-k-mini-deal-1025/" target="_blank">Our Favorite Compact Pod Coffee Maker Is $30 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-23 20:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -124,38 +164,20 @@
                 <span class="time">2025-10-23 17:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/" target="_blank">Microsoft’s Mico is a ‘Clippy’ for the AI era</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-23 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/23/trump-pardons-binance-founder-changpeng-zhao/" target="_blank">Trump pardons Binance founder Changpeng Zhao</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-23 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy" target="_blank">Meet Mico, Microsoft&amp;#8217;s AI version of Clippy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-23 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vitramir/cli-story-from-our-ai-agents-31bn" target="_blank">CLI Story from Our AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +223,6 @@
                 <span class="time">2025-10-23 18:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.5-Overlay-Planes-KWin" target="_blank">KDE Plasma 6.5&#x27;s Overlay Planes Support Yields Significant Power Savings</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-23 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +243,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Gen-V-Season-2-io9-2025-review-1280x853.jpg" alt="5 Things We Liked, and 5 We Didn’t, About ‘Gen V’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/5-things-we-liked-and-5-we-didnt-about-gen-v-season-2-2000659924" target="_blank">5 Things We Liked, and 5 We Didn’t, About ‘Gen V’ Season 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-23 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/fallout5-1280x720.jpg" alt="Todd Howard Can’t Wait To Tell You All About Fallout 5, But Not Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/todd-howard-bethesda-fallout-day-fallout-5-tease-event-remaster-2000638661" target="_blank">Todd Howard Can’t Wait To Tell You All About Fallout 5, But Not Today</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-23 21:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Bluey-video-game-ludo-studio-1280x853.jpg" alt="The New ‘Bluey’ Game Marks the End of an Era as We Know It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -248,39 +279,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Rest assured, Trump&#x27;s top priority is The Great Ballroom of People Who Can Afford the Cover Charge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/23/rest-assured-trumps-top-priority-is-the-great-ballroom-of-people-who-can-afford-the-cover-charge.html" target="_blank">Rest assured, Trump&#x27;s top priority is The Great Ballroom of People Who Can Afford the Cover Charge</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-23 19:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/1997bc03c7217-screenshotUrl-1280x720.jpg" alt="Bizarre Final Fantasy Tactics: The Ivalice Chronicles Glitch Instantly Pops Every Achievement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-glitch-achievements-platinum-trophy-2000638646" target="_blank">Bizarre Final Fantasy Tactics: The Ivalice Chronicles Glitch Instantly Pops Every Achievement</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-23 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Xbox-Series-X-Controller-1-1280x853.jpg" alt="Xbox Is Suffering for the Dumbest Reason Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/xbox-is-suffering-for-the-dumbest-reason-possible-2000676268" target="_blank">Xbox Is Suffering for the Dumbest Reason Possible</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-23 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="Idaho races Florida to see who can bring back polio first" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/23/idaho-races-florida-to-see-who-can-bring-back-polio-first.html" target="_blank">Idaho races Florida to see who can bring back polio first</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-23 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Escape-From-Duckov-1280x720.jpg" alt="There’s A Damned Good Reason Escape From Duckov Has Sold A Million Copies In A Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/theres-a-damned-good-reason-escape-from-duckov-has-sold-a-million-copies-in-a-week-2000638588" target="_blank">There’s A Damned Good Reason Escape From Duckov Has Sold A Million Copies In A Week</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-23 17:08</span>
             </div>
         </div>
 </div>
@@ -329,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
