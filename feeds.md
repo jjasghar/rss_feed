@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 07:02:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 08:02:30 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Error processing https://www.girlgeniusonline.com/ggmain/strips/ggmain.rss: The read operation timed out -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/tropical-storm-melissa-takes-aim-at-caribbean-islands-on-alert?traffic_source=rss" target="_blank">Tropical Storm Melissa takes aim at Caribbean, islands on alert</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 06:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/mamdani-cuomo-clash-in-final-nyc-mayoral-debate-key-takeaways?traffic_source=rss" target="_blank">Mamdani, Cuomo clash in final NYC mayoral debate: Key takeaways</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-23 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/russia-ukraine-war-list-of-key-events-day-1337?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,337</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 01:10</span>
             </div>
         </div>
 </div>
@@ -161,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yimajo/running-asynchronous-setup-side-effects-in-test-with-swift-testing-13e6" target="_blank">Running Asynchronous Setup Side Effects in `@Test` with Swift Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 07:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2n2ez0fn9e3zvogr7wsc.png" alt="🧩 Two Minor UI Glitches I Came Across on DEV 🙂" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +209,6 @@
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-43/" target="_blank">FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-10-23 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.loopwerk.io/articles/2025/async-django-why/" target="_blank">Async Django: a solution in search of a problem?</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-23 03:51</span>
             </div>
         </div>
 </div>
@@ -342,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
