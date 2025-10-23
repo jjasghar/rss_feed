@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 18:02:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-23 19:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/white-house-13-jt-gmh-251023_1761243779548_hpMain_4x3t_384.jpg" alt="White House East Wing demolished, new images appear to show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/new-images-show-entire-white-house-east-wing/story?id=126800684" target="_blank">White House East Wing demolished, new images appear to show</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-23 18:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -54,6 +67,15 @@
                 <span class="title"><a href="https://news.sky.com/story/power-of-russia-sanctions-lies-in-us-financial-system-that-greases-the-wheels-13455878" target="_blank">Power of sanctions against Russia lies in US financial system that greases the wheels</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-10-23 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b7/live/30e4cec0-b027-11f0-a375-75de819286d1.jpg" alt="Ukraine urges EU to back loan using frozen Russian cash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine urges EU to back loan using frozen Russian cash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-23 16:06</span>
             </div>
         </div>
 <div class="story">
@@ -74,29 +96,20 @@
                 <span class="time">2025-10-23 14:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Sports/chauney-billups-mo_1761222369181_hpMain_4x3t_384.jpg" alt="Charges announced in gambling probe tied to NBA player, coaches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/miami-heat-terry-rozier-charged-nba-betting/story?id=126789368" target="_blank">Charges announced in gambling probe tied to NBA player, coaches</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-23 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/23/g-s1-94599/anglican-church-archbishop-accused-of-sexual-misconduct" target="_blank">Anglican Church Archbishop accused of sexual misconduct</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-23 14:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Mico-1-500x500.jpeg" alt="Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/" target="_blank">Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-23 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +155,29 @@
                 <span class="time">2025-10-23 15:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f930279b7885126c50ccf2/master/pass/GettyImages-2231350405.jpg" alt="The Andrew Cuomo Campaign Is All in on MAGA Influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/andrew-cuomo-campaign-maga-influencers/" target="_blank">The Andrew Cuomo Campaign Is All in on MAGA Influencers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-23 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.5-Overlay-Planes-KWin" target="_blank">KDE Plasma 6.5&#x27;s Overlay Planes Support Yields Significant Power Savings</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-23 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="DeepSeek and Qwen AI Models Now Available as Ubuntu Snaps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/deepseek-qwen-ubuntu-snaps" target="_blank">DeepSeek and Qwen AI Models Now Available as Ubuntu Snaps</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-23 17:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709752&w=600" alt="Data Quality at Write Time: Engineering Reliability With Delta Expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,24 +214,6 @@
                 <span class="time">2025-10-23 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/rubik-pi-3-thundercomm-canonical" target="_blank">Canonical announces new optimized Ubuntu image for Thundercomm RUBIK Pi 3</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-23 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/introducing-canonical-academy" target="_blank">Introducing Canonical Academy</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,12 +234,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/1997bc03c7217-screenshotUrl-1280x720.jpg" alt="Bizarre Final Fantasy Tactics: The Ivalice Chronicles Glitch Instantly Pops Every Achievement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-glitch-achievements-platinum-trophy-2000638646" target="_blank">Bizarre Final Fantasy Tactics: The Ivalice Chronicles Glitch Instantly Pops Every Achievement</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-23 18:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Xbox-Series-X-Controller-1-1280x853.jpg" alt="Xbox Is Suffering for the Dumbest Reason Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/xbox-is-suffering-for-the-dumbest-reason-possible-2000676268" target="_blank">Xbox Is Suffering for the Dumbest Reason Possible</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-23 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="Idaho races Florida to see who can bring back polio first" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/23/idaho-races-florida-to-see-who-can-bring-back-polio-first.html" target="_blank">Idaho races Florida to see who can bring back polio first</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-23 17:43</span>
             </div>
         </div>
 <div class="story">
@@ -257,30 +279,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K88T45RANTNACXKC58TCKG56/hero-image.png" alt="The Spotify App Is Crashing on Android, but There Are Workarounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01K88X6MG6FCTN6RWNDDSNGQ9B/hero-image.jpg" alt="Sora Will Soon Let You Make Cameos of Your Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-spotify-app-crashing-on-android?utm_medium=RSS" target="_blank">The Spotify App Is Crashing on Android, but There Are Workarounds</a></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sora-will-soon-let-you-make-cameos-of-your-pets?utm_medium=RSS" target="_blank">Sora Will Soon Let You Make Cameos of Your Pets</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-23 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K88R3FXB3Z4XKH73YQ5B9HV5/hero-image.jpg" alt="Check This Database to See If Your Email Credentials Have Been Leaked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/leaked-email-credentials-in-database?utm_medium=RSS" target="_blank">Check This Database to See If Your Email Credentials Have Been Leaked</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-23 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-Plants-vs.-Zombies-e1761231144772.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Skip Replanted and buy Plants vs. Zombies GOTY instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/23/skip-replanted-and-buy-plants-vs-zombies-goty-instead.html" target="_blank">Skip Replanted and buy Plants vs. Zombies GOTY instead</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-23 14:53</span>
+                <span class="time">2025-10-23 17:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
