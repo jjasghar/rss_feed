@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 11:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-23 12:02:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 11:01 UTC</div>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/23/g-s1-94585/up-first-newsletter-national-guard-pentagon-reporters-ukraine" target="_blank">Court to rule on troop deployment. And, a new Pentagon press corps emerges</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-23 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/23/mamdani-says-hell-fight-trump-on-ice-raids-in-final-nyc-debate?traffic_source=rss" target="_blank">Mamdani says he’ll fight Trump on ICE raids in final NYC debate</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251023-hebron-rs-546275.jpg" alt="Marco Rubio warns Israel&#x27;s attempts to annex West Bank could imperil peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/rubio-warns-israels-moves-west-bank-annexation-imperil-peace-talks-rcna239293" target="_blank">Marco Rubio warns Israel&#x27;s attempts to annex West Bank could imperil peace talks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-23 10:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +100,29 @@
                 <span class="time">2025-10-23 08:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/tropical-storm-melissa-takes-aim-at-caribbean-islands-on-alert?traffic_source=rss" target="_blank">Tropical Storm Melissa takes aim at Caribbean, islands on alert</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 06:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5583519/trump-sanctions-russia-oil-ukraine" target="_blank">Trump levies new sanctions on Russian oil giants in a push to end Ukraine war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-23 06:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/23/us-national-debt-surpasses-a-record-38-trillion?traffic_source=rss" target="_blank">US national debt surpasses a record $38 trillion</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 04:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/" target="_blank">Redwood Materials raises another $350M to power up its energy storage business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/news-102225a-lg-500x500.jpg" alt="Texas lawmakers double down on Discovery, call for DOJ investigation into Smithsonian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/texas-lawmakers-double-down-on-discovery-call-for-doj-investigation-into-smithsonian/" target="_blank">Texas lawmakers double down on Discovery, call for DOJ investigation into Smithsonian</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-23 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +159,38 @@
                 <span class="time">2025-10-23 00:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f95e720de6419f85f31569/master/pass/GettyImages-1239416791.jpg" alt="Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/" target="_blank">Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-22 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/" target="_blank">Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-22 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://vsevolod.net/claude-debug/" target="_blank">The Owl, The Scientific Method, and Claude Code: A Debugging Story</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-23 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/felipemattioli/organizing-and-improving-message-production-and-consumption-in-azure-service-bus-with-asbflow-3pi7" target="_blank">Organizing and Improving Message Production and Consumption in Azure Service Bus with AsbFlow</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-23 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709385&w=600" alt="How to Build an MCP Server and Client With Spring AI MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/spring-ai-mcp-server-client-tutorial" target="_blank">How to Build an MCP Server and Client With Spring AI MCP</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,46 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ESWIN-EBC7702-Mini-DTX-RISC-V" target="_blank">ESWIN Launching EBC7702 Mini-DTX RISC-V Board With Dual-Die EIC7702X SoC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-23 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yimajo/running-asynchronous-setup-side-effects-in-test-with-swift-testing-13e6" target="_blank">Running Asynchronous Setup Side Effects in `@Test` with Swift Testing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-23 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/" target="_blank">What leaders need to know from the 2025 Stack Overflow Developer Survey</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-23 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2n2ez0fn9e3zvogr7wsc.png" alt="🧩 Two Minor UI Glitches I Came Across on DEV 🙂" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/usman_awan/two-minor-ui-glitches-i-came-across-on-dev-af2" target="_blank">🧩 Two Minor UI Glitches I Came Across on DEV 🙂</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/visual-studio-mcp-ga/en/headerimage/header-1760906110319.jpg" alt="MCP Support in Visual Studio Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/visual-studio-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MCP Support in Visual Studio Reaches General Availability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-23 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sizan_mahmud0_e7c3fd0cb68/database-indexing-done-right-why-your-optimized-queries-might-be-slower-than-before-4l39" target="_blank">Database Indexing Done Right: Why Your &quot;Optimized&quot; Queries Might Be Slower Than Before</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 05:50</span>
             </div>
         </div>
 </div>
@@ -222,19 +226,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/" target="_blank">Canada Fines Cybercrime Friendly Cryptomus $176M</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-10-22 17:21</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html" target="_blank">Serious F5 Breach</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-23 11:04</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html" target="_blank">Failures in Face Recognition</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-22 11:03</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/" target="_blank">Canada Fines Cybercrime Friendly Cryptomus $176M</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-10-22 17:21</span>
             </div>
         </div>
 </div>
@@ -342,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
