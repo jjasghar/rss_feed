@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-22 23:01:51 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-23 00:04:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, October 22, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 23, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761174334580_nn_ksi_trump_putin_meeting_delayed_251022_1920x1080-vqvpzx.jpg" alt="Trump slaps new sanctions on Russia’s two largest oil companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-slaps-new-sanctions-on-russia-s-two-largest-oil-companies-250418245697" target="_blank">Trump slaps new sanctions on Russia’s two largest oil companies</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-22 23:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c70/live/3b154940-af84-11f0-8cf5-47a716327516.jpg" alt="Trump says Putin talks &#x27;don&#x27;t go anywhere&#x27; as he imposes new sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -57,6 +65,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss" target="_blank">US lawmakers urge Trump admin to secure release of American teen in Israel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-22 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-sanctions_7058998.jpg?20251023000042" alt="Trump imposes sanctions against Russia&#x27;s two biggest oil companies over Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/donald-trump-imposes-sanctions-against-russias-two-biggest-oil-companies-as-frustration-grows-with-vladimir-putin-over-the-ukraine-war-13455515" target="_blank">Trump imposes sanctions against Russia&#x27;s two biggest oil companies over Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-22 21:21</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +94,20 @@
                 <span class="time">2025-10-22 19:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/22/tropical-storm-melissa-batters-dominican-republic-with-torrential-rain?traffic_source=rss" target="_blank">Tropical Storm Melissa batters Dominican Republic with torrential rain</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/22/after-icj-ruling-can-un-relief-agency-unrwa-resume-full-gaza-operations?traffic_source=rss" target="_blank">After ICJ ruling, can UN relief agency UNRWA resume full Gaza operations?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-22 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f95e720de6419f85f31569/master/pass/GettyImages-1239416791.jpg" alt="Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/" target="_blank">Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-22 23:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +153,20 @@
                 <span class="time">2025-10-22 20:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22954554/best-video-doorbell-camera" target="_blank">The best doorbell cameras</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-22 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yuripeixinho/descomplicando-xunit-para-net-5672" target="_blank">Testes com xUnit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-22 23:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +212,6 @@
                 <span class="time">2025-10-22 19:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/virtualbox-logo-on-white.jpg?resize=406%2C232&amp;ssl=1" alt="VirtualBox 7.2.4 Released But Won’t Run on Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/virtualbox-7-2-4-release-libxml2-error-ubuntu-25-10" target="_blank">VirtualBox 7.2.4 Released But Won’t Run on Ubuntu 25.10</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-22 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/PDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This PDF Editor is now only $25 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/22/this-pdf-editor-is-now-only-25-for-life.html" target="_blank">This PDF Editor is now only $25 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-22 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K86PZ6Z797NMX3THWRPX0VAK/hero-image.jpg" alt="OpenAI&#x27;s New Web Browser Comes With Some Serious Security Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-openais-new-chatgpt-web-browser?utm_medium=RSS" target="_blank">OpenAI&#x27;s New Web Browser Comes With Some Serious Security Risks</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-22 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Ben-Solo-Rey-Rise-of-Skywalker-1280x853.jpg" alt="What Incredible Timing for ‘Star Wars’ to Post Ben Solo’s Best Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/talamasca-lestat-music-easter-egg-interview-with-the-vampire-2000675556" target="_blank">You’ll Get to Hear Lestat’s Music Career Kick Off on ‘Talamasca’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-22 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/pimin-3-1280x722.jpg" alt="Nintendo’s Being Real Weird About Pikmin All Of A Sudden" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pikmin-5-free-update-sequel-switch-2-miyamoto-2000638244" target="_blank">Nintendo’s Being Real Weird About Pikmin All Of A Sudden</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-22 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Emma-Stone-Bald-Bugonia-1280x853.jpg" alt="Not Everyone at the All-Bald ‘Bugonia’ Screening Had to Go Bald" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bugonia-bald-screening-recap-emma-stone-2000675539" target="_blank">Not Everyone at the All-Bald ‘Bugonia’ Screening Had to Go Bald</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-22 17:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
