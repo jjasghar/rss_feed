@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 12:02:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-24 13:10:31 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 12:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5584959/inflation-september-shutdown-social-security" target="_blank">Inflation rose less than expected in September, the U.S. belatedly reports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 12:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Key China spy case witness removed &#x27;enemy&#x27; from evidence under Tories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +96,20 @@
                 <span class="time">2025-10-24 09:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5580534/house-of-dynamite-experts-review" target="_blank">Here&#x27;s what experts say &#x27;A House of Dynamite&#x27; gets wrong (and right) about nuclear war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/805679/dispatch-review-steam-ps5" target="_blank">Dispatch offers a rare unique twist on superhero stories</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +155,38 @@
                 <span class="time">2025-10-24 00:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/" target="_blank">With an Intel recovery underway, all eyes turn to its foundry business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-24 00:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyc6bfsm4k9tfupdcvrub.jpg" alt="5 Questions Every Managing Partner Should Ask Before Adopting AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/heyjoshlee/5-questions-every-managing-partner-should-ask-before-adopting-ai-57nj" target="_blank">5 Questions Every Managing Partner Should Ask Before Adopting AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703062&w=600" alt="Diagnosing and Fixing a Page Fault Performance Issue With Arm64 Atomics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/arm64-atomics-page-fault-performance-issue" target="_blank">Diagnosing and Fixing a Page Fault Performance Issue With Arm64 Atomics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/linagora/twake-drive" target="_blank">Twake Drive – An open-source alternative to Google Drive</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-24 10:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +214,6 @@
                 <span class="time">2025-10-24 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ml318097/compete-learn-grow-g27" target="_blank">🚀 Compete. Learn. Grow.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/" target="_blank">Your runbooks are obsolete in the age of agents</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-24 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bdfro93tuuu1z1cl5a2.png" alt="Integration Guide: Connecting Your Portfolio to Our Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/globridge-tech/integration-guide-connecting-your-portfolio-to-our-platform-2cmj" target="_blank">Integration Guide: Connecting Your Portfolio to Our Platform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 05:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Fantastic-Four-Exclusive-1280x853.jpg" alt="Here’s When ‘The Fantastic Four: First Steps’ Is Coming to Disney+ (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fantastic-four-streaming-date-disney-plus-marvel-2000675878" target="_blank">Here’s When ‘The Fantastic Four: First Steps’ Is Coming to Disney+ (Exclusive)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GNJPPQER0BNX0MMSX8XCE/hero-image.jpg" alt="Why You Should ‘Eat the Frog’ First Thing in the Morning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/eat-the-frog-method?utm_medium=RSS" target="_blank">Why You Should ‘Eat the Frog’ First Thing in the Morning</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-24 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Seagate4TBHardDrive-1280x853.jpg" alt="Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-wolfeyvgc-wolfe-glick-youtube-leaving-competitive-2000638677" target="_blank">One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-24 01:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/DHS-portland-little-dark-age-1280x853.jpg" alt="DHS Posts Video Featuring Song Popular With Nazi Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dhs-little-dark-age-nazi-video-2000676359" target="_blank">DHS Posts Video Featuring Song Popular With Nazi Creators</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Gen-V-Season-2-io9-2025-review-1280x853.jpg" alt="5 Things We Liked, and 5 We Didn’t, About ‘Gen V’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/5-things-we-liked-and-5-we-didnt-about-gen-v-season-2-2000659924" target="_blank">5 Things We Liked, and 5 We Didn’t, About ‘Gen V’ Season 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-23 22:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
