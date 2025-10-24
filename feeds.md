@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-23 23:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-24 00:04:12 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, October 23, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-putin-russia_7060030.jpg?20251024003159" alt="Putin criticises Trump&#x27;s sanctions on oil firms - as Russian jets &#x27;briefly enter NATO airspace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/defiant-putin-insists-trumps-sanctions-on-oil-companies-wont-affect-russias-economy-13456221" target="_blank">Putin criticises Trump&#x27;s sanctions on oil firms - as Russian jets &#x27;briefly enter NATO airspace&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-23 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/white-house-13-jt-gmh-251023_1761243779548_hpMain_4x3t_384.jpg" alt="White House East Wing demolished, new images appear to show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine urges EU to back loan using frozen Russian cash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-23 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5054/live/10b69000-b01f-11f0-8261-4d7901038185.jpg" alt="Not guilty verdict for Soldier F in Bloody Sunday murder trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c993nlken18o?at_medium=RSS&at_campaign=rss" target="_blank">Not guilty verdict for Soldier F in Bloody Sunday murder trial</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-23 15:19</span>
             </div>
         </div>
 </div>
@@ -319,22 +322,13 @@
                 <span class="time">2025-10-23 01:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/22/eats-chutes-and-leaves" target="_blank">Eats, Chutes, And Leaves</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-22 23:44</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
