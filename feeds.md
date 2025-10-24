@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 09:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-24 10:02:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/capitol-building-gty-jef-251023_1761243646013_hpMain_4x3t_384.jpg" alt="Could the government shutdown tip the US into a recession? Experts weigh in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/government-shutdown-tip-us-recession-experts-weigh/story?id=126752206" target="_blank">Could the government shutdown tip the US into a recession? Experts weigh in</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-24 09:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5580534/house-of-dynamite-experts-review" target="_blank">Here&#x27;s what experts say &#x27;A House of Dynamite&#x27; gets wrong (and right) about nuclear war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/24/deaths-arrests-amid-cameroon-election-crackdown" target="_blank">Two dead and dozens arrested amid Cameroon election crackdown</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-24 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +98,20 @@
                 <span class="time">2025-10-24 07:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/oct/24/bae-ends-support-atp-aircraft-caa-airworthiness-aid-deliveries-south-sudan-somalia-drc" target="_blank">UK’s biggest weapons firm BAE grounds ‘lifeline’ aircraft delivering food aid</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-24 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/24/at-least-25-killed-in-india-after-bus-catches-fire-in-crash-with-motorcycle?traffic_source=rss" target="_blank">At least 25 killed in India after bus catches fire in crash with motorcycle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-24 05:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8de/live/b6ba84a0-b04e-11f0-aa13-0b0479f6f42a.jpg" alt="NBA stars and mafia among dozens arrested in illegal gambling crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgmpp3x5x5o?at_medium=RSS&at_campaign=rss" target="_blank">NBA stars and mafia among dozens arrested in illegal gambling crackdown</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 05:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68fa86a6990dd48e2caff084/master/pass/102725_Palestine-Robotics-V2.jpg" alt="Meet the Palestinian Teens Trying to Win Robotics Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meet-the-palestinian-teens-trying-to-win-robotics-gold/" target="_blank">Meet the Palestinian Teens Trying to Win Robotics Gold</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +157,20 @@
                 <span class="time">2025-10-23 22:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/openai-sky-500x500.webp" alt="With new acquisition, OpenAI signals plans to integrate deeper into the OS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/" target="_blank">With new acquisition, OpenAI signals plans to integrate deeper into the OS</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-23 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/aws-ebs-volume-clones/en/headerimage/generatedHeaderImage-1761121039062.jpg" alt="AWS Launches EBS Volume Clones for Instant, Crash-Consistent Data Copies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/aws-ebs-volume-clones/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches EBS Volume Clones for Instant, Crash-Consistent Data Copies</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/technical-excellence-leadership/en/smallimage/engineering-culture-podcast-thumbnail-1760960105377.jpg" alt="Podcast: From Technical Excellence to Leadership: Understanding Yourself First" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="time">2025-10-24 04:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tahamjp/why-micro-frontends-failed-us-and-what-were-trying-next-43oo" target="_blank">💥 Why Micro-Frontends Failed Us (and What We’re Trying Next)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 03:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/blackhole-2-1280x853.jpg" alt="The Director of ‘I Saw the TV Glow’ Will Bring a Cult-Beloved Graphic Novel to Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/black-hole-comic-tv-series-jane-schoenbrun-i-saw-the-tv-glow-2000676372" target="_blank">The Director of ‘I Saw the TV Glow’ Will Bring a Cult-Beloved Graphic Novel to Netflix</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Gkf4SVWXwAAKzAi-1280x591.jpg" alt="One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/todd-howard-bethesda-fallout-day-fallout-5-tease-event-remaster-2000638661" target="_blank">Todd Howard Can’t Wait To Tell You All About Fallout 5, But Not Today</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-23 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Visio-2021-Professional.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Never fear another presentation with Microsoft&#x27;s go-to diagramming tool, now just $15 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/23/never-fear-another-presentation-with-microsofts-go-to-diagramming-tool-now-just-15-for-life.html" target="_blank">Never fear another presentation with Microsoft&#x27;s go-to diagramming tool, now just $15 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-23 21:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
