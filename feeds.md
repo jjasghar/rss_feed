@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 22:01:37 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-24 23:01:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/24/nearly-two-thirds-of-south-sudanese-children-in-child-labour-report?traffic_source=rss" target="_blank">Nearly two-thirds of South Sudanese children in child labour: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-24 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4591/live/1eb6d0e0-b121-11f0-b2a1-6f537f66f9aa.jpg" alt="US sends world&#x27;s largest warship towards Caribbean as it ramps up military presence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/24/are-us-israeli-relations-experiencing-upheaval-under-trump?traffic_source=rss" target="_blank">Are US-Israeli relations experiencing upheaval under Trump?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-24 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/white-house-1-ap-gmh-251024_1761313105558_hpMain_4x3t_384.jpg" alt="2 historic magnolia trees, Kennedy Garden appear to have been removed for WH ballroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/historic-magnolia-trees-kennedy-garden-removed-east-wing/story?id=126822108" target="_blank">2 historic magnolia trees, Kennedy Garden appear to have been removed for WH ballroom</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-24 17:39</span>
             </div>
         </div>
 </div>
@@ -165,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/raymond_zhao_2270803eb9c8/create-popular-memes-the-ultimate-ai-powered-meme-generator-for-viral-content-1k92" target="_blank">Create Popular Memes: The Ultimate AI-Powered Meme Generator for Viral Content</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-24th-october-2025-24i1" target="_blank">Security news weekly round-up - 24th October 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-24 21:55</span>
@@ -206,15 +223,6 @@
                 <span class="time">2025-10-24 18:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/imrrobot/urllib-python-standard-library-for-url-handling-jjj" target="_blank">urllib – Python Standard Library for URL Handling</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +261,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-rise-of-skywalker-kylo-ren-1280x853.jpg" alt="Report: ‘The Hunt for Ben Solo’ Had a Greenlit Script Before Disney Killed It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-hunt-for-ben-solo-greenlit-disney-cancelation-2000676887" target="_blank">Report: ‘The Hunt for Ben Solo’ Had a Greenlit Script Before Disney Killed It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 21:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8BY594J33K2J5Q3D41GQHPD/hero-image.png" alt="How I Used Smart Glasses to Trick a Bartender Into Giving Me a Free Drink" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -286,15 +303,6 @@
                 <span class="title"><a href="https://kotaku.com/halo-1-remake-combat-evolved-trailer-hwc-teaser-xbox-ps5-2000638911" target="_blank">25 Years Later, Halo Is Finally Coming To PlayStation</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-24 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/President-Trump-takes-a-swing.-Photo-L.E.MORMIL.jpg?fit=1080%2C876&amp;quality=60&amp;ssl=1" alt="White House rubble dumped on golf course" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/24/white-house-rubble-dumped-on-golf-course.html" target="_blank">White House rubble dumped on golf course</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-24 19:59</span>
             </div>
         </div>
 </div>
@@ -343,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
