@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 03:14:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-24 04:02:15 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 03:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5584161/chess-fide-investigation-naroditsky-kramnik" target="_blank">Chess body investigating ex-world champion who accused Daniel Naroditsky of cheating</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-23 22:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-putin-russia_7060030.jpg?20251024003159" alt="Putin criticises Trump&#x27;s sanctions on oil firms - as Russian jets &#x27;briefly enter NATO airspace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/demolition-white-houses-entire-east-wing-stopped/story?id=126788526" target="_blank">Could the demolition of the White House&#x27;s entire East Wing have been stopped?</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-23 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/white-house-13-jt-gmh-251023_1761243779548_hpMain_4x3t_384.jpg" alt="White House East Wing demolished, new images appear to show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/new-images-show-entire-white-house-east-wing/story?id=126800684" target="_blank">White House East Wing demolished, new images appear to show</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-23 18:56</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tahamjp/why-micro-frontends-failed-us-and-what-were-trying-next-43oo" target="_blank">💥 Why Micro-Frontends Failed Us (and What We’re Trying Next)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 03:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/manhvanvu/solve-alias-problem-in-elixir-ml9" target="_blank">Solve alias problem in Elixir</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-24 03:04</span>
@@ -192,28 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Nova-Lake-Mesa-Xe3P" target="_blank">Intel Begins Adding Nova Lake Xe3P To Linux OpenGL/Vulkan Drivers - Some Will Lack Ray-Tracing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-24 00:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-24-2025-red-hat" target="_blank">Friday Five — October 24, 2025</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-10-24 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vitramir/cli-story-from-our-ai-agents-31bn" target="_blank">CLI Story from Our AI Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/query_filter_591122b53770/print-tree2-2pjc" target="_blank">print tree2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 20:51</span>
             </div>
         </div>
 </div>
@@ -295,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5686.png" alt="Mama I&#x27;m Comin&#x27; Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5686" target="_blank">Mama I&#x27;m Comin&#x27; Home</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-24 01:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
@@ -317,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
