@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 05:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-24 06:02:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +46,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/24/at-least-25-killed-in-india-after-bus-catches-fire-in-crash-with-motorcycle?traffic_source=rss" target="_blank">At least 25 killed in India after bus catches fire in crash with motorcycle</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-24 05:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8de/live/b6ba84a0-b04e-11f0-aa13-0b0479f6f42a.jpg" alt="NBA stars and mafia among dozens arrested in illegal gambling crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgmpp3x5x5o?at_medium=RSS&at_campaign=rss" target="_blank">NBA stars and mafia among dozens arrested in illegal gambling crackdown</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-24 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5584890/trump-trade-talks-canada" target="_blank">Trump says he&#x27;s ending trade talks with Canada over TV ads</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 05:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5584883/trump-alaska-wildlife-refuge-oil-gas-drilling" target="_blank">Trump administration finalizes plan to open pristine Alaska wildlife refuge to oil and gas drilling</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-24 04:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trum-carney_1761276773407_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;s terminating trade talks with Canada over TV ad about tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-terminating-trade-talks-canada-tv-ad-tariffs/story?id=126821528" target="_blank">Trump says he&#x27;s terminating trade talks with Canada over TV ad about tariffs</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-24 04:01</span>
             </div>
         </div>
 <div class="story">
@@ -62,42 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss" target="_blank">EU fails to back frozen Russian cash loan - but vows to support Ukraine</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-24 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/donald-trump-backtracks-on-plans-to-surge-military-to-san-francisco?traffic_source=rss" target="_blank">Donald Trump backtracks on plans to ‘surge’ military to San Francisco</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-23 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/ChaunceyBillups-suboci.jpg" alt="FBI: Mafia involved in NBA gambling scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/fbi-mafia-involved-in-nba-gambling-scandal-250506309777" target="_blank">FBI: Mafia involved in NBA gambling scandal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-23 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5584161/chess-fide-investigation-naroditsky-kramnik" target="_blank">Chess body investigating ex-world champion who accused Daniel Naroditsky of cheating</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-23 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-putin-russia_7060030.jpg?20251024003159" alt="Putin criticises Trump&#x27;s sanctions on oil firms - as Russian jets &#x27;briefly enter NATO airspace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/defiant-putin-insists-trumps-sanctions-on-oil-companies-wont-affect-russias-economy-13456221" target="_blank">Putin criticises Trump&#x27;s sanctions on oil firms - as Russian jets &#x27;briefly enter NATO airspace&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-23 21:57</span>
             </div>
         </div>
 </div>
@@ -174,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bdfro93tuuu1z1cl5a2.png" alt="Integration Guide: Connecting Your Portfolio to Our Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/globridge-tech/integration-guide-connecting-your-portfolio-to-our-platform-2cmj" target="_blank">Integration Guide: Connecting Your Portfolio to Our Platform</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 05:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,19 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/technoblogger14o3/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-4nfg" target="_blank">Armed police swarm student after AI mistakes bag of Doritos for a weapon</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 02:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2uu207tebuqtzv5pu8xg.gif" alt="Introduction to Github" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/demilade/introduction-to-github-2hd9" target="_blank">Introduction to Github</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 01:20</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://roc.camera/" target="_blank">Roc Camera</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-24 02:54</span>
             </div>
         </div>
 </div>
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
