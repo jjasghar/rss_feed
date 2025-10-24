@@ -1,8 +1,8 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 14:01:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-24 15:01:58 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
@@ -10,31 +10,23 @@
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 14:02 UTC</div>
+    <div class="newspaper-date">Friday, October 24, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4d/live/46ab9560-b08e-11f0-9030-57c222c79f8b.jpg" alt="Carney says Canada is ready to pick up trade talks when &#x27;Americans are ready&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdjrlmd4pmeo?at_medium=RSS&at_campaign=rss" target="_blank">Carney says Canada is ready to pick up trade talks when &#x27;Americans are ready&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-24 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5581432/boston-bar-whitey-bulger-mobster-stephen-flemmi-gordon-ramsay" target="_blank">Boston bar stirs outrage with its mobster mugshots as decor</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/10/24/returning-to-gaza-city-a-family-finds-bulldozed-graves-and-little-hope?traffic_source=rss" target="_blank">Returning to Gaza City, a family finds bulldozed graves and little hope</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-24 14:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +96,20 @@
                 <span class="time">2025-10-24 11:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/24/us-allies-seek-to-keep-trump-invested-in-asia-trip-talks?traffic_source=rss" target="_blank">US allies seek to keep Trump “invested” in Asia trip talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-24 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-94789/up-first-newsletter-government-shutdown-paycheck-nba-gambling-russia" target="_blank">Federal workers go without pay today. And, NBA stars arrested for illegal gambling</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5582259/halloween-candy-prices-chocolate-cacao" target="_blank">Boo to spooky chocolate prices! It&#x27;s the year of chewy, fruity Halloween treats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/682d0fa19f36acb81c1e4fcd/master/pass/Best-Gaming-Headsets.png" alt="The Best Gaming Headsets for Xbox, PS5, Switch, and PC (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-headsets/" target="_blank">The Best Gaming Headsets for Xbox, PS5, Switch, and PC (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-24 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +155,6 @@
                 <span class="time">2025-10-24 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fa86a6990dd48e2caff084/master/pass/102725_Palestine-Robotics-V2.jpg" alt="Meet the Palestinian Teens Trying to Win Robotics Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meet-the-palestinian-teens-trying-to-win-robotics-gold/" target="_blank">Meet the Palestinian Teens Trying to Win Robotics Gold</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-24 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -205,20 +197,20 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge" target="_blank">A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-24 12:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18703062&w=600" alt="Diagnosing and Fixing a Page Fault Performance Issue With Arm64 Atomics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/arm64-atomics-page-fault-performance-issue" target="_blank">Diagnosing and Fixing a Page Fault Performance Issue With Arm64 Atomics</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/docusaurus-3-9-ai-search/en/headerimage/generatedHeaderImage-1761135399273.jpg" alt="Meta Releases Docusaurus 3.9 with New AI Search Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/docusaurus-3-9-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Releases Docusaurus 3.9 with New AI Search Feature</a></span>
-                <span class="feed">InfoQ</span>
                 <span class="time">2025-10-24 12:00</span>
             </div>
         </div>
@@ -241,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/image-3-1280x720.jpg" alt="Sims 4 YouTubers Abandon EA Creator Program Over Saudi Arabia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sims-4-youtubers-pokemon-legends-z-a-sales-2000638834" target="_blank">Sims 4 YouTubers Abandon EA Creator Program Over Saudi Arabia</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-24 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2542323815-scaled.jpg?fit=2560%2C1742&amp;quality=60&amp;ssl=1" alt="Left-leaning Plaid Cymru crushes Labour Party in Welsh by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/24/left-leaning-plaid-cymru-crushes-labour-party-in-welsh-by-election.html" target="_blank">Left-leaning Plaid Cymru crushes Labour Party in Welsh by-election</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-24 14:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Bugonia-review-1280x853.jpg" alt="‘Bugonia’ Is Fun as Hell, Incredibly of the Moment, and Impossible to Forget" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/eat-the-frog-method?utm_medium=RSS" target="_blank">Why You Should ‘Eat the Frog’ First Thing in the Morning</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-24 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Seagate4TBHardDrive-1280x853.jpg" alt="Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seagate-4tb-portable-hard-drive-hits-0-02-per-gb-the-cheapest-way-to-expand-xbox-or-playstation-storage-yet-2000638557" target="_blank">Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-24 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Godzilla-le-chonk-Toho-Co.-Ltd-1280x853.jpg" alt="Tokyo’s Biggest Airport Is Getting Its Own Big-Ass Godzilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tokyos-biggest-airport-is-getting-its-own-big-ass-godzilla-2000676373" target="_blank">Tokyo’s Biggest Airport Is Getting Its Own Big-Ass Godzilla</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 11:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
