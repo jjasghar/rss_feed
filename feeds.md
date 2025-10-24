@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 01:29:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-24 02:27:02 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b7/live/30e4cec0-b027-11f0-a375-75de819286d1.jpg" alt="EU fails to back frozen Russian cash loan - but vows to support Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss" target="_blank">EU fails to back frozen Russian cash loan - but vows to support Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-24 00:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +96,6 @@
                 <span class="time">2025-10-23 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5501530/why-does-my-toddler-your-kiddos-most-confounding-behavior-decoded" target="_blank">&#x27;Why does my toddler … ?&#x27; Your kiddo&#x27;s most confounding behavior, decoded</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-23 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +108,15 @@
                 <span class="title"><a href="https://www.wired.com/story/san-francisco-troops-protests-ice/" target="_blank">The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-24 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/" target="_blank">With an Intel recovery underway, all eyes turn to its foundry business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-24 00:09</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +155,20 @@
                 <span class="time">2025-10-23 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/" target="_blank">Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-23 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/technoblogger14o3/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-4nfg" target="_blank">Armed police swarm student after AI mistakes bag of Doritos for a weapon</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 02:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2uu207tebuqtzv5pu8xg.gif" alt="Introduction to Github" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="time">2025-10-23 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Radeon-AI-PRO-R9700-1299" target="_blank">AMD Radeon AI PRO R9700 Hitting Retailers Next Week For $1299 USD</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-23 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Gkf4SVWXwAAKzAi-1280x591.jpg" alt="One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-wolfeyvgc-wolfe-glick-youtube-leaving-competitive-2000638677" target="_blank">One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-24 01:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Gen-V-Season-2-io9-2025-review-1280x853.jpg" alt="5 Things We Liked, and 5 We Didn’t, About ‘Gen V’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +287,6 @@
                 <span class="time">2025-10-23 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Rest assured, Trump&#x27;s top priority is The Great Ballroom of People Who Can Afford the Cover Charge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/23/rest-assured-trumps-top-priority-is-the-great-ballroom-of-people-who-can-afford-the-cover-charge.html" target="_blank">Rest assured, Trump&#x27;s top priority is The Great Ballroom of People Who Can Afford the Cover Charge</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-23 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
