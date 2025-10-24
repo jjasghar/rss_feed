@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 13:10:31 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-10-24 14:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/24/ivorians-protest-flawed-and-rigged-system-as-pivotal-election-looms?traffic_source=rss" target="_blank">Ivorians protest ‘flawed and rigged’ system as pivotal election looms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-24 13:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +104,29 @@
                 <span class="time">2025-10-24 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/capitol-building-gty-jef-251023_1761243646013_hpMain_4x3t_384.jpg" alt="Could the government shutdown tip the US into a recession? Experts weigh in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/government-shutdown-tip-us-recession-experts-weigh/story?id=126752206" target="_blank">Could the government shutdown tip the US into a recession? Experts weigh in</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-24 09:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/24/can-steroids-combat-population-collapse-the-enhanced-games-wants-to-find-out/" target="_blank">Can steroids combat population collapse? The Enhanced Games wants to find out.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/806093/dji-osmo-mobile-8-smartphone-gimbal-tracking-module" target="_blank">DJI’s new Osmo Mobile 8 adds pet tracking and 360-degree camera pans</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-24 13:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +163,38 @@
                 <span class="time">2025-10-24 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/" target="_blank">Big tech is paying for Trump’s White House ballroom</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-24 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68faab5b196a5b8bbe906185/master/pass/PXL_20251023_192515241.jpg" alt="The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/san-francisco-troops-protests-ice/" target="_blank">The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-24 00:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mikehtmlallthethings/apis-explained-http-vs-rpc-1gd7" target="_blank">API’s Explained | HTTP vs RPC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.330-Released" target="_blank">Vulkan 1.4.330 Released With Five New Extensions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-24 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709912&w=600" alt="Cloud Agnostic MLOps: How to Build and Deploy AI Models Across Azure, AWS, and Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cloud-agnostic-mlops-ai-model-deployment" target="_blank">Cloud Agnostic MLOps: How to Build and Deploy AI Models Across Azure, AWS, and Open Source</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyc6bfsm4k9tfupdcvrub.jpg" alt="5 Questions Every Managing Partner Should Ask Before Adopting AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,39 +214,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/linagora/twake-drive" target="_blank">Twake Drive – An open-source alternative to Google Drive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-24 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/linagora/twake-drive" target="_blank">Twake Drive – The open-source alternative to Google Drive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-24 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/aws-ebs-volume-clones/en/headerimage/generatedHeaderImage-1761121039062.jpg" alt="AWS Launches EBS Volume Clones for Instant, Crash-Consistent Data Copies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2025/10/docusaurus-3-9-ai-search/en/headerimage/generatedHeaderImage-1761135399273.jpg" alt="Meta Releases Docusaurus 3.9 with New AI Search Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/aws-ebs-volume-clones/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches EBS Volume Clones for Instant, Crash-Consistent Data Copies</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/docusaurus-3-9-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Releases Docusaurus 3.9 with New AI Search Feature</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2025-10-24 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/technical-excellence-leadership/en/smallimage/engineering-culture-podcast-thumbnail-1760960105377.jpg" alt="Podcast: From Technical Excellence to Leadership: Understanding Yourself First" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/technical-excellence-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: From Technical Excellence to Leadership: Understanding Yourself First</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-24 09:00</span>
+                <span class="time">2025-10-24 12:00</span>
             </div>
         </div>
 </div>
@@ -234,11 +242,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Bugonia-review-1280x853.jpg" alt="‘Bugonia’ Is Fun as Hell, Incredibly of the Moment, and Impossible to Forget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bugonia-movie-review-lanthimos-emma-stone-2000675308" target="_blank">‘Bugonia’ Is Fun as Hell, Incredibly of the Moment, and Impossible to Forget</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Fantastic-Four-Exclusive-1280x853.jpg" alt="Here’s When ‘The Fantastic Four: First Steps’ Is Coming to Disney+ (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/fantastic-four-streaming-date-disney-plus-marvel-2000675878" target="_blank">Here’s When ‘The Fantastic Four: First Steps’ Is Coming to Disney+ (Exclusive)</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8AQH74SGV207J8WK25591H0/hero-image.png" alt="The Samsung Galaxy Tab S10 FE Is Over $150 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-tab-s10-fe-sale?utm_medium=RSS" target="_blank">The Samsung Galaxy Tab S10 FE Is Over $150 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-24 13:00</span>
             </div>
         </div>
@@ -267,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/tokyos-biggest-airport-is-getting-its-own-big-ass-godzilla-2000676373" target="_blank">Tokyo’s Biggest Airport Is Getting Its Own Big-Ass Godzilla</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/blackhole-2-1280x853.jpg" alt="The Director of ‘I Saw the TV Glow’ Will Bring a Cult-Beloved Graphic Novel to Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/black-hole-comic-tv-series-jane-schoenbrun-i-saw-the-tv-glow-2000676372" target="_blank">The Director of ‘I Saw the TV Glow’ Will Bring a Cult-Beloved Graphic Novel to Netflix</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Gkf4SVWXwAAKzAi-1280x591.jpg" alt="One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-wolfeyvgc-wolfe-glick-youtube-leaving-competitive-2000638677" target="_blank">One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-24 01:47</span>
             </div>
         </div>
 </div>
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
