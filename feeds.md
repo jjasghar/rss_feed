@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 10:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-24 11:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5582259/halloween-candy-prices-chocolate-cacao" target="_blank">Boo to spooky chocolate prices! It&#x27;s the year of chewy, fruity Halloween treats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/capitol-building-gty-jef-251023_1761243646013_hpMain_4x3t_384.jpg" alt="Could the government shutdown tip the US into a recession? Experts weigh in" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdjrlmd4pmeo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says trade talks with Canada &#x27;terminated&#x27; over anti-tariffs advert</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-24 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5583593/an-enduring-love-born-amidst-early-alzheimers" target="_blank">An enduring love born amidst early Alzheimer&#x27;s</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 07:37</span>
             </div>
         </div>
 </div>
@@ -163,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/linagora/twake-drive" target="_blank">Twake Drive – The open-source alternative to Google Drive</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-24 10:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/aws-ebs-volume-clones/en/headerimage/generatedHeaderImage-1761121039062.jpg" alt="AWS Launches EBS Volume Clones for Instant, Crash-Consistent Data Copies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,15 +215,6 @@
                 <span class="time">2025-10-24 05:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd" target="_blank">My First Time Vibe Coding: A Skeptic&#x27;s Journey</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 04:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Godzilla-le-chonk-Toho-Co.-Ltd-1280x853.jpg" alt="Tokyo’s Biggest Airport Is Getting Its Own Big-Ass Godzilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tokyos-biggest-airport-is-getting-its-own-big-ass-godzilla-2000676373" target="_blank">Tokyo’s Biggest Airport Is Getting Its Own Big-Ass Godzilla</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/blackhole-2-1280x853.jpg" alt="The Director of ‘I Saw the TV Glow’ Will Bring a Cult-Beloved Graphic Novel to Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-23 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/fallout5-1280x720.jpg" alt="Todd Howard Can’t Wait To Tell You All About Fallout 5, But Not Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/todd-howard-bethesda-fallout-day-fallout-5-tease-event-remaster-2000638661" target="_blank">Todd Howard Can’t Wait To Tell You All About Fallout 5, But Not Today</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-23 21:33</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
