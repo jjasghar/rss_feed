@@ -1,27 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 08:02:01 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-24 09:02:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/24/rsf-drones-target-sudans-khartoum-in-fourth-day-of-sustained-attacks?traffic_source=rss" target="_blank">RSF drones target Sudan’s Khartoum in fourth day of sustained attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-24 08:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4d/live/46ab9560-b08e-11f0-9030-57c222c79f8b.jpg" alt="Trump says trade talks with Canada &#x27;terminated&#x27; over anti-tariffs advert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdjrlmd4pmeo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says trade talks with Canada &#x27;terminated&#x27; over anti-tariffs advert</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-24 08:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5583593/an-enduring-love-born-amidst-early-alzheimers" target="_blank">An enduring love born amidst early Alzheimer&#x27;s</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 07:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/oct/24/bae-ends-support-atp-aircraft-caa-airworthiness-aid-deliveries-south-sudan-somalia-drc" target="_blank">UK’s biggest weapons firm BAE grounds ‘lifeline’ aircraft delivering food aid</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-24 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/24/at-least-25-killed-in-india-after-bus-catches-fire-in-crash-with-motorcycle?traffic_source=rss" target="_blank">At least 25 killed in India after bus catches fire in crash with motorcycle</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-24 05:54</span>
@@ -53,42 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgmpp3x5x5o?at_medium=RSS&at_campaign=rss" target="_blank">NBA stars and mafia among dozens arrested in illegal gambling crackdown</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-24 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac25/live/44acd540-b038-11f0-ba75-093eca1ac29b.jpg" alt="Reports of OCD among under-25s triple in 10 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdr612zrl0no?at_medium=RSS&at_campaign=rss" target="_blank">Reports of OCD among under-25s triple in 10 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 05:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5584890/trump-trade-talks-canada" target="_blank">Trump says he&#x27;s ending trade talks with Canada over TV ads</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5584883/trump-alaska-wildlife-refuge-oil-gas-drilling" target="_blank">Trump administration finalizes plan to open pristine Alaska wildlife refuge to oil and gas drilling</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 04:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trum-carney_1761276773407_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;s terminating trade talks with Canada over TV ad about tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-terminating-trade-talks-canada-tv-ad-tariffs/story?id=126821528" target="_blank">Trump says he&#x27;s terminating trade talks with Canada over TV ad about tariffs</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-24 04:01</span>
             </div>
         </div>
 </div>
@@ -156,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/podcasts/technical-excellence-leadership/en/smallimage/engineering-culture-podcast-thumbnail-1760960105377.jpg" alt="Podcast: From Technical Excellence to Leadership: Understanding Yourself First" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/technical-excellence-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: From Technical Excellence to Leadership: Understanding Yourself First</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-24 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/tahamjp/why-micro-frontends-failed-us-and-what-were-trying-next-43oo" target="_blank">💥 Why Micro-Frontends Failed Us (and What We’re Trying Next)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-24 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manhvanvu/solve-alias-problem-in-elixir-ml9" target="_blank">Solve alias problem in Elixir</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 03:04</span>
             </div>
         </div>
 </div>
@@ -328,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
