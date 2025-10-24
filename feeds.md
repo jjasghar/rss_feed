@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 11:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-24 12:02:46 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg" alt="Key China spy case witness removed &#x27;enemy&#x27; from evidence under Tories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn095n9qd87o?at_medium=RSS&at_campaign=rss" target="_blank">Key China spy case witness removed &#x27;enemy&#x27; from evidence under Tories</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-24 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/10/24/us-allies-seek-to-keep-trump-invested-in-asia-trip-talks?traffic_source=rss" target="_blank">US allies seek to keep Trump “invested” in Asia trip talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-24 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-94789/up-first-newsletter-government-shutdown-paycheck-nba-gambling-russia" target="_blank">Federal workers go without pay today. And, NBA stars arrested for illegal gambling</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 11:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +104,29 @@
                 <span class="time">2025-10-24 09:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/24/deaths-arrests-amid-cameroon-election-crackdown" target="_blank">Two dead and dozens arrested amid Cameroon election crackdown</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/24/rsf-drones-target-sudans-khartoum-in-fourth-day-of-sustained-attacks?traffic_source=rss" target="_blank">RSF drones target Sudan’s Khartoum in fourth day of sustained attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-24 08:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4d/live/46ab9560-b08e-11f0-9030-57c222c79f8b.jpg" alt="Trump says trade talks with Canada &#x27;terminated&#x27; over anti-tariffs advert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdjrlmd4pmeo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says trade talks with Canada &#x27;terminated&#x27; over anti-tariffs advert</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 08:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/806027/trumps-got-big-tech-and-crypto-bankrolling-white-house-ballroom" target="_blank">Trump’s got Big Tech and crypto bankrolling White House ballroom</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-24 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/artemisiistacked-500x500.jpg" alt="Rocket Report: China tests Falcon 9 lookalike; NASA’s Moon rocket fully stacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/10/rocket-report-china-tests-falcon-9-lookalike-nasas-moon-rocket-fully-stacked/" target="_blank">Rocket Report: China tests Falcon 9 lookalike; NASA’s Moon rocket fully stacked</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-24 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68fa86a6990dd48e2caff084/master/pass/102725_Palestine-Robotics-V2.jpg" alt="Meet the Palestinian Teens Trying to Win Robotics Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/" target="_blank">With an Intel recovery underway, all eyes turn to its foundry business</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-24 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/805652/intel-q3-2025-earnings-18a-panther-lake-ai-gpus-annual" target="_blank">Intel’s tick-tock isn’t coming back, and everything else I just learned</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-23 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f80331302a4fd65a7729e9/master/pass/Intel-Earnnings-Business-2235610687.jpg" alt="Trump&#x27;s Investment in Intel Is Paying Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/" target="_blank">Trump&#x27;s Investment in Intel Is Paying Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-23 22:48</span>
             </div>
         </div>
 </div>
@@ -224,9 +231,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html" target="_blank">Serious F5 Breach</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html" target="_blank">Part Four of The Kryptos Sculpture</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-23 11:04</span>
+                <span class="time">2025-10-24 11:01</span>
             </div>
         </div>
 </div>
@@ -234,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Seagate4TBHardDrive-1280x853.jpg" alt="Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seagate-4tb-portable-hard-drive-hits-0-02-per-gb-the-cheapest-way-to-expand-xbox-or-playstation-storage-yet-2000638557" target="_blank">Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-24 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Godzilla-le-chonk-Toho-Co.-Ltd-1280x853.jpg" alt="Tokyo’s Biggest Airport Is Getting Its Own Big-Ass Godzilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/5-things-we-liked-and-5-we-didnt-about-gen-v-season-2-2000659924" target="_blank">5 Things We Liked, and 5 We Didn’t, About ‘Gen V’ Season 2</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-23 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-23 21:35</span>
             </div>
         </div>
 </div>
@@ -334,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
