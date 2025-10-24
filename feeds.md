@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 17:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-24 18:02:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 18 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/white-house-1-ap-gmh-251024_1761313105558_hpMain_4x3t_384.jpg" alt="2 historic magnolia trees, Kennedy Garden appear to have been removed for WH ballroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/historic-magnolia-trees-kennedy-garden-removed-east-wing/story?id=126822108" target="_blank">2 historic magnolia trees, Kennedy Garden appear to have been removed for WH ballroom</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-24 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-94806/government-shutdown" target="_blank">The federal government is still shut down. Here&#x27;s what that means across the country</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9740/live/9875d610-b0f9-11f0-ba75-093eca1ac29b.jpg" alt="Manhunt after jailed Epping hotel asylum seeker mistakenly released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,29 +99,20 @@
                 <span class="time">2025-10-24 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4d/live/46ab9560-b08e-11f0-9030-57c222c79f8b.jpg" alt="Canada will restart trade talks when &#x27;Americans are ready&#x27;, says Carney" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdjrlmd4pmeo?at_medium=RSS&at_campaign=rss" target="_blank">Canada will restart trade talks when &#x27;Americans are ready&#x27;, says Carney</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4d/live/46ab9560-b08e-11f0-9030-57c222c79f8b.jpg" alt="Carney says Canada is ready to pick up trade talks when &#x27;Americans are ready&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdjrlmd4pmeo?at_medium=RSS&at_campaign=rss" target="_blank">Carney says Canada is ready to pick up trade talks when &#x27;Americans are ready&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-500x500-1761323862.png" alt="Microsoft’s Mico heightens the risks of parasocial LLM relationships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/" target="_blank">Microsoft’s Mico heightens the risks of parasocial LLM relationships</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-24 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -120,6 +120,15 @@
                 <span class="title"><a href="https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2" target="_blank">Kirby Air Riders&amp;#8217; impressive accessibility features are a rarity for Nintendo</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-24 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/" target="_blank">Instagram’s latest feature lets you go back see your watched Reels</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-24 16:38</span>
             </div>
         </div>
 <div class="story">
@@ -149,29 +158,20 @@
                 <span class="time">2025-10-24 15:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/682d0fa19f36acb81c1e4fcd/master/pass/Best-Gaming-Headsets.png" alt="The Best Gaming Headsets for Xbox, PS5, Switch, and PC (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-headsets/" target="_blank">The Best Gaming Headsets for Xbox, PS5, Switch, and PC (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-24 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/24/can-steroids-combat-population-collapse-the-enhanced-games-wants-to-find-out/" target="_blank">Can steroids combat population collapse? The Enhanced Games wants to find out.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-24 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imrrobot/urllib-python-standard-library-for-url-handling-jjj" target="_blank">urllib – Python Standard Library for URL Handling</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 17:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +217,6 @@
                 <span class="time">2025-10-24 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/pytorch-monarch/en/headerimage/generatedHeaderImage-1761319536959.jpg" alt="PyTorch Monarch Simplifies Distributed AI Workflows with a Single-Controller Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/pytorch-monarch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PyTorch Monarch Simplifies Distributed AI Workflows with a Single-Controller Model</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-24 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Chiron_in_Celestia-1280x853.jpg" alt="A Small World in the Outer Solar System Might Be Forming Rings Before Our Very Eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-small-world-in-the-outer-solar-system-might-be-forming-rings-before-our-very-eyes-2000676658" target="_blank">A Small World in the Outer Solar System Might Be Forming Rings Before Our Very Eyes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I&#x27;m a Deals Writer, and These Are the Top 10 Tech Sales This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I&#x27;m a Deals Writer, and These Are the Top 10 Tech Sales This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-24 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/E.-annectens-1-1280x853.jpg" alt="Rare Dinosaur ‘Mummies’ Show Their Features as We’ve Never Seen Them Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/24/neal-stephenson-and-weta-workshops-new-project-is-something.html" target="_blank">Neal Stephenson and Weta Workshop&#x27;s new project is… something?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-24 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HAA4EPN6RTQFW5EHG8HX0/hero-image.png" alt="You Can Use Your iPhone As an ID in These 12 States" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states?utm_medium=RSS" target="_blank">You Can Use Your iPhone As an ID in These 12 States</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-24 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/bd-1280x720.jpg" alt="Nobody Seems To Like The New Halloween Event In Borderlands 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-halloween-event-borderlands-4-sucks-bad-horrors-of-kairos-2000638842" target="_blank">Nobody Seems To Like The New Halloween Event In Borderlands 4</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-24 15:05</span>
             </div>
         </div>
 </div>
@@ -345,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
