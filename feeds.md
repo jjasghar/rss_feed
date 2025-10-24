@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 02:27:02 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-24 03:14:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 03:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/" target="_blank">Big tech is paying for Trump’s White House ballroom</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-24 02:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68faab5b196a5b8bbe906185/master/pass/PXL_20251023_192515241.jpg" alt="The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -117,6 +128,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/" target="_blank">With an Intel recovery underway, all eyes turn to its foundry business</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-24 00:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/805652/intel-q3-2025-earnings-18a-panther-lake-ai-gpus-annual" target="_blank">Intel’s tick-tock isn’t coming back, and everything else I just learned</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-23 23:18</span>
             </div>
         </div>
 <div class="story">
@@ -137,29 +157,20 @@
                 <span class="time">2025-10-23 22:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch" target="_blank">Microsoft Edge’s new Copilot Mode turns on more AI features</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-23 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2236792840-500x500.jpg" alt="Reddit sues to block Perplexity from scraping Google search results" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/" target="_blank">Reddit sues to block Perplexity from scraping Google search results</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-23 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manhvanvu/solve-alias-problem-in-elixir-ml9" target="_blank">Solve alias problem in Elixir</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 03:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="time">2025-10-23 20:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-ie4" target="_blank">CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-23 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +242,15 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-wolfeyvgc-wolfe-glick-youtube-leaving-competitive-2000638677" target="_blank">One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-24 01:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/DHS-portland-little-dark-age-1280x853.jpg" alt="DHS Posts Video Featuring Song Popular With Nazi Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dhs-little-dark-age-nazi-video-2000676359" target="_blank">DHS Posts Video Featuring Song Popular With Nazi Creators</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 00:26</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +289,6 @@
                 <span class="time">2025-10-23 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/LXHatEAWMpvzktv3GFC7kb-1280x720.jpg" alt="All Video Game Controllers Need Back Paddles, Damn It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/god-of-war-20th-anniversary-dualsense-edge-controller-2000638652" target="_blank">All Video Game Controllers Need Back Paddles, Damn It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-23 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
