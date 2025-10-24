@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 04:02:15 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-24 05:02:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 04:02 UTC</div>
+    <div class="newspaper-date">Friday, October 24, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/nx-s1-5584883/trump-alaska-wildlife-refuge-oil-gas-drilling" target="_blank">Trump administration finalizes plan to open pristine Alaska wildlife refuge to oil and gas drilling</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 04:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b7/live/30e4cec0-b027-11f0-a375-75de819286d1.jpg" alt="EU fails to back frozen Russian cash loan - but vows to support Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://news.sky.com/story/defiant-putin-insists-trumps-sanctions-on-oil-companies-wont-affect-russias-economy-13456221" target="_blank">Putin criticises Trump&#x27;s sanctions on oil firms - as Russian jets &#x27;briefly enter NATO airspace&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-10-23 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/white-house-8-ap-gmh-251023_1761238556810_hpMain_4x3t_384.jpg" alt="Could the demolition of the White House&#x27;s entire East Wing have been stopped?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/demolition-white-houses-entire-east-wing-stopped/story?id=126788526" target="_blank">Could the demolition of the White House&#x27;s entire East Wing have been stopped?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-23 19:04</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/" target="_blank">Your runbooks are obsolete in the age of agents</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-24 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd" target="_blank">My First Time Vibe Coding: A Skeptic&#x27;s Journey</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 04:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tahamjp/why-micro-frontends-failed-us-and-what-were-trying-next-43oo" target="_blank">💥 Why Micro-Frontends Failed Us (and What We’re Trying Next)</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/demilade/introduction-to-github-2hd9" target="_blank">Introduction to Github</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-24 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Nova-Lake-Mesa-Xe3P" target="_blank">Intel Begins Adding Nova Lake Xe3P To Linux OpenGL/Vulkan Drivers - Some Will Lack Ray-Tracing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-24 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-24-2025-red-hat" target="_blank">Friday Five — October 24, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-10-24 00:00</span>
             </div>
         </div>
 </div>
@@ -280,12 +283,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Bluey-video-game-ludo-studio-1280x853.jpg" alt="The New ‘Bluey’ Game Marks the End of an Era as We Know It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Visio-2021-Professional.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Never fear another presentation with Microsoft&#x27;s go-to diagramming tool, now just $15 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-bluey-game-marks-the-end-of-an-era-as-we-know-it-2000676293" target="_blank">The New ‘Bluey’ Game Marks the End of an Era as We Know It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-23 20:00</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/23/never-fear-another-presentation-with-microsofts-go-to-diagramming-tool-now-just-15-for-life.html" target="_blank">Never fear another presentation with Microsoft&#x27;s go-to diagramming tool, now just $15 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-23 21:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
