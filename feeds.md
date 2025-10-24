@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 07:02:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-24 08:02:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +56,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac25/live/44acd540-b038-11f0-ba75-093eca1ac29b.jpg" alt="Reports of OCD among under-25s triple in 10 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdr612zrl0no?at_medium=RSS&at_campaign=rss" target="_blank">Reports of OCD among under-25s triple in 10 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-24 05:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -88,15 +89,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-terminating-trade-talks-canada-tv-ad-tariffs/story?id=126821528" target="_blank">Trump says he&#x27;s terminating trade talks with Canada over TV ad about tariffs</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-24 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b7/live/30e4cec0-b027-11f0-a375-75de819286d1.jpg" alt="EU fails to back frozen Russian cash loan - but vows to support Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss" target="_blank">EU fails to back frozen Russian cash loan - but vows to support Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 00:29</span>
             </div>
         </div>
 </div>
@@ -166,6 +158,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ml318097/compete-learn-grow-g27" target="_blank">🚀 Compete. Learn. Grow.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 07:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/" target="_blank">Your runbooks are obsolete in the age of agents</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -206,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/manhvanvu/solve-alias-problem-in-elixir-ml9" target="_blank">Solve alias problem in Elixir</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-24 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://roc.camera/" target="_blank">Roc Camera</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-24 02:54</span>
             </div>
         </div>
 </div>
@@ -296,6 +288,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/24/descent-2" target="_blank">Descent 2</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-24 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5686.png" alt="Mama I&#x27;m Comin&#x27; Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
