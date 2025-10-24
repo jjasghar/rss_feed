@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 18:02:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-24 19:01:40 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/24/are-us-israeli-relations-experiencing-upheaval-under-trump?traffic_source=rss" target="_blank">Are US-Israeli relations experiencing upheaval under Trump?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-24 18:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/white-house-1-ap-gmh-251024_1761313105558_hpMain_4x3t_384.jpg" alt="2 historic magnolia trees, Kennedy Garden appear to have been removed for WH ballroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +100,20 @@
                 <span class="time">2025-10-24 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/24/whats-available-and-at-what-prices-in-gazas-markets?traffic_source=rss" target="_blank">What’s available, and at what prices, in Gaza’s markets</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-24 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale" target="_blank">Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-24 18:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-500x500-1761323862.png" alt="Microsoft’s Mico heightens the risks of parasocial LLM relationships" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +159,20 @@
                 <span class="time">2025-10-24 15:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fa75f840d57adab1938301/master/pass/Backchannel-What-Went-Down-With-Kryptos-Key-Business-564117411.jpg" alt="Inside the Messy, Accidental Kryptos Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kryptos-code-reveal/" target="_blank">Inside the Messy, Accidental Kryptos Reveal</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-24 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fne9j6b2pnzoelci1yo9x.png" alt="Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prevailexcellent/meet-claude-desktop-a-lightweight-distraction-free-way-to-use-claude-ai-295c" target="_blank">Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="time">2025-10-24 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/simranshaikh20_50/haunted-halloween-bash-2025-a-spooky-interactive-landing-page-3c9g" target="_blank">🎃 Haunted Halloween Bash 2025 - A Spooky Interactive Landing Page</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/satarrr-1280x720.jpg" alt="Holy Crap, It Looks Like Disney Is Finally Restoring And Releasing The Original Version Of Star Wars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-original-theatrical-cut-4k-restoration-leaks-screenshot-disney-2027-2000638887" target="_blank">Holy Crap, It Looks Like Disney Is Finally Restoring And Releasing The Original Version Of Star Wars</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-24 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/johnboyega-1280x720.jpg" alt="John Boyega Thinks ‘Star Wars’ Could Learn From All That ‘Star Trek’ Talking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/john-boyega-prefers-star-wars-over-trek-because-of-all-the-talking-2000676738" target="_blank">John Boyega Thinks ‘Star Wars’ Could Learn From All That ‘Star Trek’ Talking</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 18:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Chiron_in_Celestia-1280x853.jpg" alt="A Small World in the Outer Solar System Might Be Forming Rings Before Our Very Eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -255,39 +274,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/WHHO_Commemorative-Trees_Jacqueline-Kennedy-Garden_20230821_NKing_01.webp?fit=1300%2C867&amp;quality=55&amp;ssl=1" alt="Jacqueline Kennedy Garden at White House destroyed to make space for $350m &quot;Epstein Ballroom&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/24/jacqueline-kennedy-garden-at-white-house-destroyed-to-make-space-for-350m-epstein-ballroom.html" target="_blank">Jacqueline Kennedy Garden at White House destroyed to make space for $350m &quot;Epstein Ballroom&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-24 17:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/E.-annectens-1-1280x853.jpg" alt="Rare Dinosaur ‘Mummies’ Show Their Features as We’ve Never Seen Them Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/rare-dinosaur-mummies-show-their-features-as-weve-never-seen-them-before-2000676678" target="_blank">Rare Dinosaur ‘Mummies’ Show Their Features as We’ve Never Seen Them Before</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-24 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/20229_Leica_M_EV1_front_1920px__75644.jpg?fit=1169%2C698&amp;quality=60&amp;ssl=1" alt="New Leica M EV1 loses the rangefinder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/24/new-leica-m-ev1-loses-the-rangefinder.html" target="_blank">New Leica M EV1 loses the rangefinder</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-24 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8BAGXMPW4T1G3SSAM4EGVA9/hero-image.png" alt="Apple Removed the Controversial &#x27;Tea&#x27; and &#x27;TeaOnHer&#x27; Apps From the App Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-removes-tea-and-teaonher-apps?utm_medium=RSS" target="_blank">Apple Removed the Controversial &#x27;Tea&#x27; and &#x27;TeaOnHer&#x27; Apps From the App Store</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Image-greenbutterfly-Shutterstock.jpg?fit=1080%2C421&amp;quality=60&amp;ssl=1" alt="Neal Stephenson and Weta Workshop&#x27;s new project is… something?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/24/neal-stephenson-and-weta-workshops-new-project-is-something.html" target="_blank">Neal Stephenson and Weta Workshop&#x27;s new project is… something?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-24 15:50</span>
             </div>
         </div>
 </div>
@@ -336,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
