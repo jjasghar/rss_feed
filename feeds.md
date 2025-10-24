@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 20:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-24 21:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 20:01 UTC</div>
+    <div class="newspaper-date">Friday, October 24, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +109,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/abstractdna-500x500.jpg" alt="DNA and jolts of electricity get people to make optimal antibodies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/dna-and-jolts-of-electricity-get-people-to-make-optimal-antibodies/" target="_blank">DNA and jolts of electricity get people to make optimal antibodies</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-24 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/" target="_blank">A comprehensive list of 2025 tech layoffs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-24 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68fba1020ccbd1fff4e3c0ea/master/pass/biz-sora-daveshotchicken-2217857004.jpg" alt="OpenAI&#x27;s Sora Loses Its Top App Store Ranking to Dave&#x27;s Hot Chicken" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sora-app-store-daves-hot-chicken/" target="_blank">OpenAI&#x27;s Sora Loses Its Top App Store Ranking to Dave&#x27;s Hot Chicken</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-24 19:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -127,38 +162,29 @@
                 <span class="time">2025-10-24 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/" target="_blank">Instagram’s latest feature lets you go back see your watched Reels</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-24 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/rivian-assembly-scaled-500x500-1761322088.jpg" alt="Rivian is settling $250 million lawsuit to focus on next year’s R2 EV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/rivian-settles-shareholder-lawsuit-for-250-million-denies-allegations/" target="_blank">Rivian is settling $250 million lawsuit to focus on next year’s R2 EV</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-24 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/napoleon2-500x500-1760798550.jpg" alt="DNA analysis reveals likely pathogens that killed Napoleon’s army" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/dna-analysis-reveals-likely-pathogens-that-killed-napoleons-army/" target="_blank">DNA analysis reveals likely pathogens that killed Napoleon’s army</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-24 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdo1ln1qmiihbvusxhkvh.png" alt="Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-2ah5" target="_blank">Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/" target="_blank">The Swift SDK for Android</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-24 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fne9j6b2pnzoelci1yo9x.png" alt="Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +221,6 @@
                 <span class="time">2025-10-24 16:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18639997&w=600" alt="Performance Testing 101: A Beginner&#x27;s Guide to Building Robust Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/performance-testing-guide" target="_blank">Performance Testing 101: A Beginner&#x27;s Guide to Building Robust Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/" target="_blank">How to find, install, and manage MCP servers with the GitHub MCP Registry</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +241,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/magnetballs-1280x853.jpg" alt="Boy Swallows 100 Magnets Bought From Temu, Hospital Trip Ensues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/boy-swallows-100-magnets-bought-from-temu-hospital-trip-ensues-2000676751" target="_blank">Boy Swallows 100 Magnets Bought From Temu, Hospital Trip Ensues</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8BQ233DESR1BWZPBF4ZZWHN/hero-image.png" alt="ChatGPT&#x27;s AI Browser Has a Nasty Security Vulnerability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-atlas-clipboard-injection-vulnerability?utm_medium=RSS" target="_blank">ChatGPT&#x27;s AI Browser Has a Nasty Security Vulnerability</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-24 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/217361ffc60d494bdd0baaecebe6dc44-1280x720.jpg" alt="25 Years Later, Halo Is Finally Coming To PlayStation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/halo-1-remake-combat-evolved-trailer-hwc-teaser-xbox-ps5-2000638911" target="_blank">25 Years Later, Halo Is Finally Coming To PlayStation</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-24 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/President-Trump-takes-a-swing.-Photo-L.E.MORMIL.jpg?fit=1080%2C876&amp;quality=60&amp;ssl=1" alt="White House rubble dumped on golf course" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/24/white-house-rubble-dumped-on-golf-course.html" target="_blank">White House rubble dumped on golf course</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-24 19:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/lost-woolly-rat-comparison-1280x853.jpg" alt="‘Lost’ for 30 Years, This Giant Woolly Rat Just Showed Up in the Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -248,42 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/silent-hill-f-shf-hinako-voice-actress-japanese-konatsu-kato-2000638912" target="_blank">Silent Hill f Actor Looks Completely Freaked Out While Streaming The Game For The First Time</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-24 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8BQ6F3YPK699ZVVVH6WZ8ER/hero-image.png" alt="The Massive 75-inch &#x27;The Frame&#x27; TV Is $1,100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/75-inch-the-frame-tv-deal?utm_medium=RSS" target="_blank">The Massive 75-inch &#x27;The Frame&#x27; TV Is $1,100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-24 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/satarrr-1280x720.jpg" alt="Holy Crap, It Looks Like Disney Is Finally Restoring And Releasing The Original Version Of Star Wars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-original-theatrical-cut-4k-restoration-leaks-screenshot-disney-2027-2000638887" target="_blank">Holy Crap, It Looks Like Disney Is Finally Restoring And Releasing The Original Version Of Star Wars</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-24 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/johnboyega-1280x720.jpg" alt="John Boyega Thinks ‘Star Wars’ Could Learn From All That ‘Star Trek’ Talking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/john-boyega-prefers-star-wars-over-trek-because-of-all-the-talking-2000676738" target="_blank">John Boyega Thinks ‘Star Wars’ Could Learn From All That ‘Star Trek’ Talking</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Chiron_in_Celestia-1280x853.jpg" alt="A Small World in the Outer Solar System Might Be Forming Rings Before Our Very Eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-small-world-in-the-outer-solar-system-might-be-forming-rings-before-our-very-eyes-2000676658" target="_blank">A Small World in the Outer Solar System Might Be Forming Rings Before Our Very Eyes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 18:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
