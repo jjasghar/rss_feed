@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 19:01:40 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-24 20:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-94904/pakistan-bans-islamist-tlp-party" target="_blank">Pakistan bans hard-line Islamist party known for its fierce anti-blasphemy stance</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b089/live/22cc7040-b10d-11f0-ba75-093eca1ac29b.jpg" alt="Ukraine allies pledge to take Russian oil and gas off global market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c17p54edxljo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine allies pledge to take Russian oil and gas off global market</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-24 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-251022_1761168942169_hpMain_4x3t_384.jpg" alt="Trump likely to name White House ballroom after himself, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-white-house-ballroom-after-officials/story?id=126843455" target="_blank">Trump likely to name White House ballroom after himself, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-24 19:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-94806/government-shutdown" target="_blank">The federal government is still shut down. Here&#x27;s what that means across the country</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-24 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9740/live/9875d610-b0f9-11f0-ba75-093eca1ac29b.jpg" alt="Manhunt after jailed Epping hotel asylum seeker mistakenly released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2d5rl36vgo?at_medium=RSS&at_campaign=rss" target="_blank">Manhunt after jailed Epping hotel asylum seeker mistakenly released</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/10/24/g-s1-94701/some-viruses-can-play-a-deadly-game-of-hide-and-seek" target="_blank">Some viruses can play a deadly game of hide and seek</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761321504378_now_brk_james_statement_251024_1920x1080-wqce9v.jpg" alt="&#x27;I will not be deterred&#x27;: NY AG Letitia James speaks after pleading not guilty to bank fraud charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/ny-ag-letitia-james-speaks-after-pleading-not-guilty-to-bank-fraud-charges-250566213777" target="_blank">&#x27;I will not be deterred&#x27;: NY AG Letitia James speaks after pleading not guilty to bank fraud charges</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-24 15:58</span>
             </div>
         </div>
 </div>
@@ -238,6 +233,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/lost-woolly-rat-comparison-1280x853.jpg" alt="‘Lost’ for 30 Years, This Giant Woolly Rat Just Showed Up in the Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lost-for-30-years-this-giant-woolly-rat-just-showed-up-in-the-wild-2000676737" target="_blank">‘Lost’ for 30 Years, This Giant Woolly Rat Just Showed Up in the Wild</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/SILENT-HILL-f-1-加藤小夏-YouTube-0-56-12-1280x720.jpeg" alt="Silent Hill f Actor Looks Completely Freaked Out While Streaming The Game For The First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/silent-hill-f-shf-hinako-voice-actress-japanese-konatsu-kato-2000638912" target="_blank">Silent Hill f Actor Looks Completely Freaked Out While Streaming The Game For The First Time</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-24 19:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8BQ6F3YPK699ZVVVH6WZ8ER/hero-image.png" alt="The Massive 75-inch &#x27;The Frame&#x27; TV Is $1,100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/75-inch-the-frame-tv-deal?utm_medium=RSS" target="_blank">The Massive 75-inch &#x27;The Frame&#x27; TV Is $1,100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-24 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/satarrr-1280x720.jpg" alt="Holy Crap, It Looks Like Disney Is Finally Restoring And Releasing The Original Version Of Star Wars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -262,33 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/a-small-world-in-the-outer-solar-system-might-be-forming-rings-before-our-very-eyes-2000676658" target="_blank">A Small World in the Outer Solar System Might Be Forming Rings Before Our Very Eyes</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-24 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I&#x27;m a Deals Writer, and These Are the Top 10 Tech Sales This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I&#x27;m a Deals Writer, and These Are the Top 10 Tech Sales This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-24 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/WHHO_Commemorative-Trees_Jacqueline-Kennedy-Garden_20230821_NKing_01.webp?fit=1300%2C867&amp;quality=55&amp;ssl=1" alt="Jacqueline Kennedy Garden at White House destroyed to make space for $350m &quot;Epstein Ballroom&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/24/jacqueline-kennedy-garden-at-white-house-destroyed-to-make-space-for-350m-epstein-ballroom.html" target="_blank">Jacqueline Kennedy Garden at White House destroyed to make space for $350m &quot;Epstein Ballroom&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-24 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/E.-annectens-1-1280x853.jpg" alt="Rare Dinosaur ‘Mummies’ Show Their Features as We’ve Never Seen Them Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rare-dinosaur-mummies-show-their-features-as-weve-never-seen-them-before-2000676678" target="_blank">Rare Dinosaur ‘Mummies’ Show Their Features as We’ve Never Seen Them Before</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 16:47</span>
             </div>
         </div>
 </div>
@@ -337,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
