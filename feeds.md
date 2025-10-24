@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 00:04:12 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-24 01:29:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, October 24, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/23/donald-trump-backtracks-on-plans-to-surge-military-to-san-francisco?traffic_source=rss" target="_blank">Donald Trump backtracks on plans to ‘surge’ military to San Francisco</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-23 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/ChaunceyBillups-suboci.jpg" alt="FBI: Mafia involved in NBA gambling scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/fbi-mafia-involved-in-nba-gambling-scandal-250506309777" target="_blank">FBI: Mafia involved in NBA gambling scandal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-23 23:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-putin-russia_7060030.jpg?20251024003159" alt="Putin criticises Trump&#x27;s sanctions on oil firms - as Russian jets &#x27;briefly enter NATO airspace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/defiant-putin-insists-trumps-sanctions-on-oil-companies-wont-affect-russias-economy-13456221" target="_blank">Putin criticises Trump&#x27;s sanctions on oil firms - as Russian jets &#x27;briefly enter NATO airspace&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-10-23 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/white-house-8-ap-gmh-251023_1761238556810_hpMain_4x3t_384.jpg" alt="Could the demolition of the White House&#x27;s entire East Wing have been stopped?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/demolition-white-houses-entire-east-wing-stopped/story?id=126788526" target="_blank">Could the demolition of the White House&#x27;s entire East Wing have been stopped?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-23 19:04</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +102,20 @@
                 <span class="time">2025-10-23 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/23/nx-s1-5583959/white-house-east-wing-demolition-ballroom-trump" target="_blank">The East Wing could fully be demolished soon, as preservationists urge caution</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-23 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-jerusalem_7049965.jpg?20251013143215" alt="Power of sanctions against Russia lies in US financial system that greases the wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/power-of-russia-sanctions-lies-in-us-financial-system-that-greases-the-wheels-13455878" target="_blank">Power of sanctions against Russia lies in US financial system that greases the wheels</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-23 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b7/live/30e4cec0-b027-11f0-a375-75de819286d1.jpg" alt="Ukraine urges EU to back loan using frozen Russian cash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine urges EU to back loan using frozen Russian cash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-23 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68faab5b196a5b8bbe906185/master/pass/PXL_20251023_192515241.jpg" alt="The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/san-francisco-troops-protests-ice/" target="_blank">The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-24 00:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f80331302a4fd65a7729e9/master/pass/Intel-Earnnings-Business-2235610687.jpg" alt="Trump&#x27;s Investment in Intel Is Paying Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +161,29 @@
                 <span class="time">2025-10-23 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fa61560af2899c38989d89/master/pass/K-Mini%20DEAL.png" alt="Our Favorite Compact Pod Coffee Maker Is $30 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/keurig-k-mini-deal-1025/" target="_blank">Our Favorite Compact Pod Coffee Maker Is $30 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-23 20:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2uu207tebuqtzv5pu8xg.gif" alt="Introduction to Github" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/demilade/introduction-to-github-2hd9" target="_blank">Introduction to Github</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-24 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-24-2025-red-hat" target="_blank">Friday Five — October 24, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-10-24 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Radeon-AI-PRO-R9700-1299" target="_blank">AMD Radeon AI PRO R9700 Hitting Retailers Next Week For $1299 USD</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-23 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709867&w=600" alt="Evolving Golden Paths: Upgrades Without Disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/evolving-golden-paths-upgrades-without-disruption" target="_blank">Evolving Golden Paths: Upgrades Without Disruption</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-23 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/the-road-to-better-completions-building-a-faster-smarter-github-copilot-with-a-new-custom-model/" target="_blank">The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-23 18:31</span>
             </div>
         </div>
 </div>
@@ -313,22 +316,13 @@
                 <span class="time">2025-10-23 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5685.png" alt="For Goodness&#x27; Sake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5685" target="_blank">For Goodness&#x27; Sake</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-23 01:14</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
