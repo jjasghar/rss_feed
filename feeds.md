@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 10:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 11:01:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5907/live/97c60870-b185-11f0-9072-b5a32de3c808.jpg" alt="Lucy Powell elected Labour&#x27;s deputy leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c620g2gj0x5o?at_medium=RSS&at_campaign=rss" target="_blank">Lucy Powell elected Labour&#x27;s deputy leader</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-25 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/25/nx-s1-5583978/family-holidays-memories-traditions" target="_blank">What are your unique holiday traditions? NPR wants to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-25 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/25/canadians-pull-reagan-advertisement-after-furious-trump-halts-trade-talks?traffic_source=rss" target="_blank">Canadians pull Reagan advertisement after furious Trump halts trade talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-25 06:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19f/live/b5953180-9873-11f0-928c-71dbb8619e94.png" alt="Manhunt continues for Epping hotel asylum seeker mistakenly released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdx4k2d5yxlo?at_medium=RSS&at_campaign=rss" target="_blank">Manhunt continues for Epping hotel asylum seeker mistakenly released</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-25 05:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/25/g-s1-95069/blue-jays-rout-dodgers-in-world-series-opener" target="_blank">Blue Jays rout Dodgers 11-4 in World Series opener</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-25 04:31</span>
             </div>
         </div>
 </div>
@@ -165,6 +171,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/joente/optimizing-meta-data-retrieval-with-thingsdb-176-205k" target="_blank">🚀 Optimizing Meta Data Retrieval with ThingsDB 1.7.6</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-25 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://missing.csail.mit.edu/" target="_blank">The Missing Semester of Your CS Education (2020)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-25 10:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Nova-Next-Gen-Boot42" target="_blank">NVIDIA Starts Posting Open-Source Nova Driver Patches To Prep For Next-Gen GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-25 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/anthropic-claude-skills/en/headerimage/generatedHeaderImage-1761149624341.jpg" alt="Anthropic Introduces Skills for Custom Claude Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/anthropic-claude-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Introduces Skills for Custom Claude Tasks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-25 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://claudeskills.cc" target="_blank">Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills</a></span>
                 <span class="feed">Hacker News</span>
@@ -180,42 +222,6 @@
                 <span class="time">2025-10-25 05:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-ifi" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-25 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.3-Released" target="_blank">Rust Coreutils 0.3 Released With Some Major Speed-Ups, Better GNU Compatibility</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-25 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/raymond_zhao_2270803eb9c8/create-popular-memes-the-ultimate-ai-powered-meme-generator-for-viral-content-1k92" target="_blank">Create Popular Memes: The Ultimate AI-Powered Meme Generator for Viral Content</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-24th-october-2025-24i1" target="_blank">Security news weekly round-up - 24th October 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,15 +234,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html" target="_blank">Friday Squid Blogging: “El Pulpo The Squid”</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-10-24 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html" target="_blank">Part Four of The Kryptos Sculpture</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-24 11:01</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
