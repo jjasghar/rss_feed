@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 17:01:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-25 18:01:57 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +109,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs" target="_blank">Tech left teens fighting over scraps, and now it wants those too</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale" target="_blank">AirTags and cheap gaming laptops headline our favorite deals this week</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-25 15:09</span>
@@ -147,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/" target="_blank">India, the market BlaBlaCar once walked away from, is now its biggest</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-25 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fc2323ee3985e8f4f63f47/master/pass/Review-%20Baseus%20Inspire%20XC1%20Open%20Earbuds.png" alt="Baseus Inspire XC1 Review: Excellent Open Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/baseus-inspire-xc1/" target="_blank">Baseus Inspire XC1 Review: Excellent Open Earbuds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-25 12:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/twin-peaks-e1761409521635.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Silver Pines looks like the Twin Peaks video game we never got" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/25/silver-pines-looks-like-the-twin-peaks-video-game-we-never-got.html" target="_blank">Silver Pines looks like the Twin Peaks video game we never got</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-25 16:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/ledger_nano_gen_5-1280x853.jpg" alt="Ledger Wants Its Latest Crypto Wallet to Take on Sam Altman’s Eyeball-Scanning Orb" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,15 +291,6 @@
                 <span class="time">2025-10-25 00:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/jacob-elordi-frankenstein-1280x853.jpg" alt="For Your ‘Hear Me Out’ Consideration: Jacob Elordi’s Full ‘Frankenstein’ Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jacob-elordi-frankenstein-monster-creature-makeup-2000676850" target="_blank">For Your ‘Hear Me Out’ Consideration: Jacob Elordi’s Full ‘Frankenstein’ Monster</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
