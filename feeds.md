@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 00:04:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 01:29:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/25/russia-ukraine-war-list-of-key-events-day-1339?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,339</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-25 00:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4591/live/1eb6d0e0-b121-11f0-b2a1-6f537f66f9aa.jpg" alt="Venezuela&#x27;s Maduro says US &#x27;fabricating war&#x27; as it deploys world&#x27;s largest warship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela&#x27;s Maduro says US &#x27;fabricating war&#x27; as it deploys world&#x27;s largest warship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-24 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +94,20 @@
                 <span class="time">2025-10-24 21:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-94904/pakistan-bans-islamist-tlp-party" target="_blank">Pakistan bans hard-line Islamist party known for its fierce anti-blasphemy stance</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b089/live/22cc7040-b10d-11f0-ba75-093eca1ac29b.jpg" alt="Ukraine allies pledge to take Russian oil and gas off global market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c17p54edxljo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine allies pledge to take Russian oil and gas off global market</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2195752979-500x500.jpg" alt="Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/" target="_blank">Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-24 22:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/abstractdna-500x500.jpg" alt="DNA and jolts of electricity get people to make optimal antibodies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/" target="_blank">Microsoft’s Mico heightens the risks of parasocial LLM relationships</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-24 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2" target="_blank">Kirby Air Riders&amp;#8217; impressive accessibility features are a rarity for Nintendo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-24 17:00</span>
             </div>
         </div>
 </div>
@@ -245,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/AirPods-2-Pro-1280x853.jpg" alt="AirPods Pro With ANC Are Going for Pennies, Now 3x Cheaper Than the AirPods Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/airpods-pro-with-anc-are-going-for-pennies-now-3x-cheaper-than-the-airpods-max-2000638986" target="_blank">AirPods Pro With ANC Are Going for Pennies, Now 3x Cheaper Than the AirPods Max</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-25 00:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/jacob-elordi-frankenstein-1280x853.jpg" alt="For Your ‘Hear Me Out’ Consideration: Jacob Elordi’s Full ‘Frankenstein’ Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,15 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/used-smart-glasses-to-trick-a-bartender?utm_medium=RSS" target="_blank">How I Used Smart Glasses to Trick a Bartender Into Giving Me a Free Drink</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-24 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/magnetballs-1280x853.jpg" alt="Boy Swallows 100 Magnets Bought From Temu, Hospital Trip Ensues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/boy-swallows-100-magnets-bought-from-temu-hospital-trip-ensues-2000676751" target="_blank">Boy Swallows 100 Magnets Bought From Temu, Hospital Trip Ensues</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 20:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
