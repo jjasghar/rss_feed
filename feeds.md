@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 04:02:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-25 05:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/10/25/young-people-are-tired-of-being-ruled-by-elites?traffic_source=rss" target="_blank">Young people are tired of being ruled by elites</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-25 04:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-hegseth-pay_1761363110868_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Pentagon accepts $130M donation to help pay troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +98,20 @@
                 <span class="time">2025-10-25 00:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4591/live/1eb6d0e0-b121-11f0-b2a1-6f537f66f9aa.jpg" alt="Venezuela&#x27;s Maduro says US &#x27;fabricating war&#x27; as it deploys world&#x27;s largest warship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela&#x27;s Maduro says US &#x27;fabricating war&#x27; as it deploys world&#x27;s largest warship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 23:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs" target="_blank">Bored Ape Yacht Club is making a comeback — as a metaverse</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-25 03:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +157,6 @@
                 <span class="time">2025-10-24 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fba1020ccbd1fff4e3c0ea/master/pass/biz-sora-daveshotchicken-2217857004.jpg" alt="OpenAI&#x27;s Sora Loses Its Top App Store Ranking to Dave&#x27;s Hot Chicken" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sora-app-store-daves-hot-chicken/" target="_blank">OpenAI&#x27;s Sora Loses Its Top App Store Ranking to Dave&#x27;s Hot Chicken</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-24 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-ifi" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-25 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.3-Released" target="_blank">Rust Coreutils 0.3 Released With Some Major Speed-Ups, Better GNU Compatibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-25 00:21</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/OpenGL-October-2025-Extensions" target="_blank">OpenGL Sees New Extensions Added To The Registry</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-24 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/" target="_blank">The Swift SDK for Android</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-24 20:06</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
