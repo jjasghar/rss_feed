@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 01:29:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-25 02:27:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-95054/aircraft-carrier-uss-gerald-ford-south-america" target="_blank">U.S. sends aircraft carrier to South America in major escalation of military firepower</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-25 01:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +98,29 @@
                 <span class="time">2025-10-24 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4591/live/1eb6d0e0-b121-11f0-b2a1-6f537f66f9aa.jpg" alt="US sends world&#x27;s largest warship towards Caribbean as it ramps up military presence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss" target="_blank">US sends world&#x27;s largest warship towards Caribbean as it ramps up military presence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-24 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire" target="_blank">Sam Altman’s next startup eyes using sound waves to read your brain</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68fbd6e0b0ba213f49416b9d/master/pass/CBP-Signs-Contract-for-Mobile-Surveillance-Units-Security-2238631814.jpg" alt="DHS Wants a Fleet of AI-Powered Surveillance Trucks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/" target="_blank">DHS Wants a Fleet of AI-Powered Surveillance Trucks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-24 22:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2195752979-500x500.jpg" alt="Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/sora-app-store-daves-hot-chicken/" target="_blank">OpenAI&#x27;s Sora Loses Its Top App Store Ranking to Dave&#x27;s Hot Chicken</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-24 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale" target="_blank">Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-24 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-500x500-1761323862.png" alt="Microsoft’s Mico heightens the risks of parasocial LLM relationships" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/" target="_blank">Microsoft’s Mico heightens the risks of parasocial LLM relationships</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-24 17:07</span>
             </div>
         </div>
 </div>
@@ -300,6 +304,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/24/descent-2" target="_blank">Descent 2</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-24 22:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1761280038-20251024.png" alt="Saturday Morning Breakfast Cereal - Asteroid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -326,22 +339,13 @@
                 <span class="time">2025-10-24 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5686.png" alt="Mama I&#x27;m Comin&#x27; Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5686" target="_blank">Mama I&#x27;m Comin&#x27; Home</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-24 01:40</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
