@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 03:16:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 04:02:15 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 03:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-hegseth-pay_1761363110868_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Pentagon accepts $130M donation to help pay troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587" target="_blank">Government shutdown updates: Pentagon accepts $130M donation to help pay troops</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-25 03:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/25/zohran-mamdani-defends-his-muslim-faith-against-racist-baseless-attacks?traffic_source=rss" target="_blank">Zohran Mamdani defends his Muslim faith amid ‘racist, baseless attacks’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-25 03:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela&#x27;s Maduro says US &#x27;fabricating war&#x27; as it deploys world&#x27;s largest warship</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-24 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-95027/doj-hires-immigration-judges" target="_blank">DOJ hires immigration judges after months of layoffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-24 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-teaser-dxf-gaza_7060759.png?20251025034158" alt="The &#x27;New Gaza&#x27; plan - and the four militias Israel is backing to defeat Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/revealed-the-plan-for-a-new-gaza-and-the-four-militias-israel-is-backing-to-defeat-hamas-13456416" target="_blank">The &#x27;New Gaza&#x27; plan - and the four militias Israel is backing to defeat Hamas</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-24 23:01</span>
             </div>
         </div>
 </div>
@@ -172,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-ifi" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-25 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/raymond_zhao_2270803eb9c8/create-popular-memes-the-ultimate-ai-powered-meme-generator-for-viral-content-1k92" target="_blank">Create Popular Memes: The Ultimate AI-Powered Meme Generator for Viral Content</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-24 22:49</span>
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/" target="_blank">The Swift SDK for Android</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-24 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709971&w=600" alt="Kubernetes Debugging Recipe: Practical Steps to Diagnose Pods Like a Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/debugging-kubernetes-pods-like-a-pro" target="_blank">Kubernetes Debugging Recipe: Practical Steps to Diagnose Pods Like a Pro</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-24 19:00</span>
             </div>
         </div>
 </div>
@@ -336,22 +330,13 @@
                 <span class="time">2025-10-24 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/continents.png" alt="Continents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3159/" target="_blank">Continents</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-10-24 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
