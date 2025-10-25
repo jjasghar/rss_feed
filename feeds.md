@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 05:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 06:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19f/live/b5953180-9873-11f0-928c-71dbb8619e94.png" alt="Manhunt continues for Epping hotel asylum seeker mistakenly released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdx4k2d5yxlo?at_medium=RSS&at_campaign=rss" target="_blank">Manhunt continues for Epping hotel asylum seeker mistakenly released</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-25 05:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/25/g-s1-95069/blue-jays-rout-dodgers-in-world-series-opener" target="_blank">Blue Jays rout Dodgers 11-4 in World Series opener</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-25 04:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/10/25/young-people-are-tired-of-being-ruled-by-elites?traffic_source=rss" target="_blank">Young people are tired of being ruled by elites</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-25 04:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/25/turkey-gaza-stabilisation-force-israeli-objection" target="_blank">Turkey likely to be excluded from Gaza stabilisation force after Israeli objection</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-25 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +101,20 @@
                 <span class="time">2025-10-25 03:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/25/ivory-coast-presidential-election-whos-standing-and-whats-at-stake?traffic_source=rss" target="_blank">Ivory Coast presidential election: Who’s standing and what’s at stake?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-25 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-95054/aircraft-carrier-uss-gerald-ford-south-america" target="_blank">U.S. sends aircraft carrier to South America in major escalation of military firepower</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-25 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/25/russia-ukraine-war-list-of-key-events-day-1339?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,339</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-25 00:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="AT&amp;T Promo Codes and Bundle Deals: Save $50 in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/att-promo-code/" target="_blank">AT&amp;T Promo Codes and Bundle Deals: Save $50 in November</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-25 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,20 @@
                 <span class="time">2025-10-24 20:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/" target="_blank">A comprehensive list of 2025 tech layoffs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-24 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ekantiktechnologies/diwali-special-offer-light-up-your-career-with-flutter-app-development-gl1" target="_blank">Diwali Special Offer: Light Up Your Career with Flutter App Development!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-25 05:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-2ah5" target="_blank">Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-24 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenGL-October-2025-Extensions" target="_blank">OpenGL Sees New Extensions Added To The Registry</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-24 20:11</span>
             </div>
         </div>
 </div>
@@ -335,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
