@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-24 23:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 00:04:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, October 24, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/24/g-s1-95027/doj-hires-immigration-judges" target="_blank">DOJ hires immigration judges after months of layoffs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-24 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/24/trump-administration-investigating-chinas-compliance-with-2020-trade-deal?traffic_source=rss" target="_blank">Trump administration investigating China’s compliance with 2020 trade deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-24 22:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c17p54edxljo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine allies pledge to take Russian oil and gas off global market</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-24 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-251022_1761168942169_hpMain_4x3t_384.jpg" alt="Trump likely to name White House ballroom after himself, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-white-house-ballroom-after-officials/story?id=126843455" target="_blank">Trump likely to name White House ballroom after himself, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-24 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/24/are-us-israeli-relations-experiencing-upheaval-under-trump?traffic_source=rss" target="_blank">Are US-Israeli relations experiencing upheaval under Trump?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-24 18:17</span>
             </div>
         </div>
 </div>
@@ -215,12 +208,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fne9j6b2pnzoelci1yo9x.png" alt="Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18709971&w=600" alt="Kubernetes Debugging Recipe: Practical Steps to Diagnose Pods Like a Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prevailexcellent/meet-claude-desktop-a-lightweight-distraction-free-way-to-use-claude-ai-295c" target="_blank">Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-24 18:48</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/debugging-kubernetes-pods-like-a-pro" target="_blank">Kubernetes Debugging Recipe: Practical Steps to Diagnose Pods Like a Pro</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-24 19:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/jacob-elordi-frankenstein-1280x853.jpg" alt="For Your ‘Hear Me Out’ Consideration: Jacob Elordi’s Full ‘Frankenstein’ Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jacob-elordi-frankenstein-monster-creature-makeup-2000676850" target="_blank">For Your ‘Hear Me Out’ Consideration: Jacob Elordi’s Full ‘Frankenstein’ Monster</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-24 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dell-3535-laptop-1280x853.jpg" alt="This 2TB Laptop Is 75% Off on Amazon, Dell Quietly Drops $2,700 From the Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-2tb-laptop-is-75-off-on-amazon-dell-quietly-drops-2700-from-the-original-price-2000638980" target="_blank">This 2TB Laptop Is 75% Off on Amazon, Dell Quietly Drops $2,700 From the Original Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-24 23:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/HCE-General_4K-05-1d4f24bfb456245a47e2-1280x720.jpg" alt="Halo’s Worst Level Is Getting Changed In The New PS5 Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/boy-swallows-100-magnets-bought-from-temu-hospital-trip-ensues-2000676751" target="_blank">Boy Swallows 100 Magnets Bought From Temu, Hospital Trip Ensues</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-24 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8BQ233DESR1BWZPBF4ZZWHN/hero-image.png" alt="ChatGPT&#x27;s AI Browser Has a Nasty Security Vulnerability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-atlas-clipboard-injection-vulnerability?utm_medium=RSS" target="_blank">ChatGPT&#x27;s AI Browser Has a Nasty Security Vulnerability</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-24 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/217361ffc60d494bdd0baaecebe6dc44-1280x720.jpg" alt="25 Years Later, Halo Is Finally Coming To PlayStation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/halo-1-remake-combat-evolved-trailer-hwc-teaser-xbox-ps5-2000638911" target="_blank">25 Years Later, Halo Is Finally Coming To PlayStation</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-24 20:18</span>
             </div>
         </div>
 </div>
@@ -351,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
