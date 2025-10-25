@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 12:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 13:06:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46d/live/24d72c00-b11b-11f0-aa13-0b0479f6f42a.jpg" alt="&#x27;I am not done&#x27; - Kamala Harris tells BBC she may run for president again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2n7k2veywo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I am not done&#x27; - Kamala Harris tells BBC she may run for president again</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/25/trump-comments-on-jimmy-lai-canada-and-kim-jong-un-as-he-begins-asia-tour?traffic_source=rss" target="_blank">Trump comments on Jimmy Lai, Canada and Kim Jong Un as he begins Asia tour</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-25 08:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19f/live/b5953180-9873-11f0-928c-71dbb8619e94.png" alt="Police hunt Epping migrant sex offender released in error" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdx4k2d5yxlo?at_medium=RSS&at_campaign=rss" target="_blank">Police hunt Epping migrant sex offender released in error</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-25 07:19</span>
             </div>
         </div>
 </div>
@@ -174,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/__b63657/span-kai-memory-181c" target="_blank">Span και Memory</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-25 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/itsmstfbysl/case-study-gravity-forms-google-sheets-automation-4l1o" target="_blank">Case Study: Gravity Forms Google Sheets Automation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-25 11:50</span>
@@ -215,15 +215,6 @@
                 <span class="time">2025-10-25 10:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://claudeskills.cc" target="_blank">Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-25 05:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/VZR-Model-One-MK2-review-03-1280x853.jpg" alt="You Want an Audiophile Gaming Headset, but Just Not This One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/vzr-model-one-mkii-review-this-is-not-the-nearly-400-gaming-headset-youre-looking-for-2000675686" target="_blank">You Want an Audiophile Gaming Headset, but Just Not This One</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-25 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/asteroid-2025-sc79-1280x853.jpg" alt="Astronomers Just Found a Sneaky Asteroid Near the Sun—and It Highlights a Dangerous Blind Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +288,6 @@
                 <span class="time">2025-10-24 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/HCE-General_4K-05-1d4f24bfb456245a47e2-1280x720.jpg" alt="Halo’s Worst Level Is Getting Changed In The New PS5 Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/halos-worst-level-is-getting-changed-in-the-new-ps5-remake-2000638963" target="_blank">Halo’s Worst Level Is Getting Changed In The New PS5 Remake</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-24 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
