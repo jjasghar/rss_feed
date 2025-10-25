@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 20:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 21:01:51 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 20:01 UTC</div>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/25/what-is-trumps-strategy-to-tackle-the-uss-illegal-drug-problem?traffic_source=rss" target="_blank">What is Trump’s strategy to tackle the US’s illegal drug problem?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-25 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/25/maduro-accuses-trump-of-fabricating-war-as-us-deploys-largest-warship?traffic_source=rss" target="_blank">Maduro accuses Trump of ‘fabricating war’ as US deploys largest warship</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-25 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5512/live/4f8ac910-b19e-11f0-b33e-69e560da4e1d.jpg" alt="Trump hopes China will help push Russia towards Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn51yk9vgrko?at_medium=RSS&at_campaign=rss" target="_blank">Trump hopes China will help push Russia towards Ukraine peace talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-25 13:07</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://amit.prasad.me/blog/before-main" target="_blank">The Journey Before main()</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-25 19:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9a5fe7jzeax2r0j33pf0.png" alt="AWS Strands Multi-Agent Patterns for the Enterprise Part-I" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +222,6 @@
                 <span class="time">2025-10-25 13:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/__b63657/span-kai-memory-181c" target="_blank">Span και Memory</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-25 12:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/netflix-guillermo-del-toro-frankenstein-1280x853.jpg" alt="You Can Read Guillermo del Toro’s ‘Frankenstein’ Script Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/you-can-read-guillermo-del-toros-frankenstein-script-next-month-2000677104" target="_blank">You Can Read Guillermo del Toro’s ‘Frankenstein’ Script Next Month</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-25 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/04/paulie.jpg?fit=648%2C324&amp;quality=60&amp;ssl=1" alt="The Sopranos creator&#x27;s next project will be about MKUltra" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/25/the-sopranos-creators-next-project-will-be-about-mkultra.html" target="_blank">The Sopranos creator&#x27;s next project will be about MKUltra</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-25 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/twin-peaks-e1761409521635.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Silver Pines looks like the Twin Peaks video game we never got" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +295,6 @@
                 <span class="time">2025-10-25 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/joro-spider-beauty-shot-1280x853.jpg" alt="They’re Huge, They’re Creepy, and They’re Back—An Expert’s Tips for Joro Spider Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/theyre-huge-theyre-creepy-and-theyre-back-an-experts-tips-for-joro-spider-season-2000675683" target="_blank">They’re Huge, They’re Creepy, and They’re Back—An Expert’s Tips for Joro Spider Season</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-25 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/AirPods-2-Pro-1280x853.jpg" alt="AirPods Pro With ANC Are Going for Pennies, Now 3x Cheaper Than the AirPods Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/airpods-pro-with-anc-are-going-for-pennies-now-3x-cheaper-than-the-airpods-max-2000638986" target="_blank">AirPods Pro With ANC Are Going for Pennies, Now 3x Cheaper Than the AirPods Max</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-25 00:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
