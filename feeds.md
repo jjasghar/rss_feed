@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 15:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 16:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/25/zohran-mamdani-condemns-islamophobic-attacks-in-nyc-mayoral-race?traffic_source=rss" target="_blank">Zohran Mamdani condemns Islamophobic attacks in NYC mayoral race</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-25 14:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c620g2gj0x5o?at_medium=RSS&at_campaign=rss" target="_blank">Lucy Powell elected Labour&#x27;s deputy leader</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-25 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/25/nx-s1-5583978/family-holidays-memories-traditions" target="_blank">What are your unique holiday traditions? NPR wants to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-25 10:00</span>
             </div>
         </div>
 </div>
@@ -172,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1m3a" target="_blank">Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge" target="_blank">Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation</a></span>
                 <span class="feed">Hacker News</span>
@@ -212,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/joente/optimizing-meta-data-retrieval-with-thingsdb-176-205k" target="_blank">🚀 Optimizing Meta Data Retrieval with ThingsDB 1.7.6</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-25 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://missing.csail.mit.edu/" target="_blank">The Missing Semester of Your CS Education (2020)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-25 10:36</span>
             </div>
         </div>
 </div>
@@ -310,22 +307,13 @@
                 <span class="time">2025-10-24 22:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1761280038-20251024.png" alt="Saturday Morning Breakfast Cereal - Asteroid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/asteroid" target="_blank">Saturday Morning Breakfast Cereal - Asteroid</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-24 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
