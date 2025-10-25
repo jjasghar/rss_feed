@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-25 11:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-25 12:02:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, October 25, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, October 25, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/25/russian-attacks-on-ukraine-kill-4-as-kyivs-allies-renew-pressure-on-moscow?traffic_source=rss" target="_blank">Russian attacks on Ukraine kill 4 as Kyiv’s allies renew pressure on Moscow</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-25 11:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5907/live/97c60870-b185-11f0-9072-b5a32de3c808.jpg" alt="Lucy Powell elected Labour&#x27;s deputy leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +106,47 @@
                 <span class="time">2025-10-25 07:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/25/canadians-pull-reagan-advertisement-after-furious-trump-halts-trade-talks?traffic_source=rss" target="_blank">Canadians pull Reagan advertisement after furious Trump halts trade talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-25 06:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68fc2323ee3985e8f4f63f47/master/pass/Review-%20Baseus%20Inspire%20XC1%20Open%20Earbuds.png" alt="Baseus Inspire XC1 Review: Excellent Open Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/baseus-inspire-xc1/" target="_blank">Baseus Inspire XC1 Review: Excellent Open Earbuds</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing" target="_blank">Is Waymo ready for winter?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/" target="_blank">The glaring security risks with AI browser agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/whale1-500x500-1741439774.jpg" alt="Whale and dolphin migrations are being disrupted by climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/whale-and-dolphin-migrations-are-being-disrupted-by-climate-change/" target="_blank">Whale and dolphin migrations are being disrupted by climate change</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,47 +165,20 @@
                 <span class="time">2025-10-25 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs" target="_blank">Bored Ape Yacht Club is making a comeback — as a metaverse</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-25 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire" target="_blank">Sam Altman’s next startup eyes using sound waves to read your brain</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-25 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fbd6e0b0ba213f49416b9d/master/pass/CBP-Signs-Contract-for-Mobile-Surveillance-Units-Security-2238631814.jpg" alt="DHS Wants a Fleet of AI-Powered Surveillance Trucks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/" target="_blank">DHS Wants a Fleet of AI-Powered Surveillance Trucks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-24 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2195752979-500x500.jpg" alt="Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/" target="_blank">Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-24 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itsmstfbysl/case-study-gravity-forms-google-sheets-automation-4l1o" target="_blank">Case Study: Gravity Forms Google Sheets Automation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-25 11:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +224,6 @@
                 <span class="time">2025-10-25 05:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ekantiktechnologies/diwali-special-offer-light-up-your-career-with-flutter-app-development-gl1" target="_blank">Diwali Special Offer: Light Up Your Career with Flutter App Development!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-25 05:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/asteroid-2025-sc79-1280x853.jpg" alt="Astronomers Just Found a Sneaky Asteroid Near the Sun—and It Highlights a Dangerous Blind Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/astronomers-just-found-a-sneaky-asteroid-near-the-sun-and-it-highlights-a-dangerous-blind-spot-2000675481" target="_blank">Astronomers Just Found a Sneaky Asteroid Near the Sun—and It Highlights a Dangerous Blind Spot</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/joro-spider-beauty-shot-1280x853.jpg" alt="They’re Huge, They’re Creepy, and They’re Back—An Expert’s Tips for Joro Spider Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +297,6 @@
                 <span class="time">2025-10-24 21:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-rise-of-skywalker-kylo-ren-1280x853.jpg" alt="Report: ‘The Hunt for Ben Solo’ Had a Greenlit Script Before Disney Killed It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-hunt-for-ben-solo-greenlit-disney-cancelation-2000676887" target="_blank">Report: ‘The Hunt for Ben Solo’ Had a Greenlit Script Before Disney Killed It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-24 21:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
