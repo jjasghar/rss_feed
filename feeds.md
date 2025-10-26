@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 02:30:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 03:18:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 03:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/221a/live/aaf6f740-b213-11f0-aa13-0b0479f6f42a.jpg" alt="Trump&#x27;s week in Asia: BBC correspondents on the wins and potential losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9d6jnn37l2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s week in Asia: BBC correspondents on the wins and potential losses</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-26 02:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/25/nx-s1-5586110/white-house-movie-theater-cultural-history-demolition" target="_blank">The White House movie theater demolition ends a storied era in presidential history</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-25 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss" target="_blank">Trump announces additional 10-percent Canada tariff over Reagan ad brouhaha</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-25 20:56</span>
             </div>
         </div>
 </div>
@@ -191,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Linux-6.19-First" target="_blank">AMD Begins Sending In &quot;New Stuff&quot; For Their Graphics Driver In Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-26 00:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1k8lbw5a37ijnfswwsf.png" alt="Agent-Ledger: Proof of Leverage on Agentic Postgres (BINFLOW x Tiger)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://www.0xkato.xyz/linux-boot/" target="_blank">The Linux Boot Process: From Power Button to Kernel</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-25 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbl64bns2pu9xpqnmwg0o.png" alt="How I Performance Optimised My Next.js App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rumendimov/how-i-performance-optimised-my-nextjs-app-3d56" target="_blank">How I Performance Optimised My Next.js App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-25 21:52</span>
             </div>
         </div>
 </div>
@@ -295,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 03:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
