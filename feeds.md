@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 20:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 21:01:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -180,6 +184,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4" target="_blank">Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-26 17:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="Reducing Request Counts in Static Astro Sites: A Guide for Heavy Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,20 +219,38 @@
                 <span class="time">2025-10-26 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/ghostty-terminal-features/" target="_blank">Ghostty Terminal: Never Understood the Hype Until I tried it</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-26 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/baseus-100w-1280x853.jpg" alt="Anker Rival Baseus 100W USB-C Charger Now Selling for Pennies on the Dollar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anker-rival-baseus-100w-usb-c-charger-now-selling-for-pennies-on-the-dollar-2000639113" target="_blank">Anker Rival Baseus 100W USB-C Charger Now Selling for Pennies on the Dollar</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-26 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/pt-demo-1280x853.jpg" alt="Hideo Kojima’s ‘P.T.’ Demo is Helping Japanese Kids Learn English" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hideo-kojimas-p-t-demo-is-helping-japanese-kids-learn-english-2000677223" target="_blank">Hideo Kojima’s ‘P.T.’ Demo is Helping Japanese Kids Learn English</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-26 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/1-Year-Sams-Club.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Save 70% on a Sam&#x27;s Club membership and shop smarter all year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/26/save-70-on-a-sams-club-membership-and-shop-smarter-all-year.html" target="_blank">Save 70% on a Sam&#x27;s Club membership and shop smarter all year</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-26 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Carpa-uasi-1280x853.jpg" alt="The Inca Built This Three-Walled Building to Shape Sound, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,24 +278,6 @@
                 <span class="time">2025-10-26 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Curiosity-Stream-Standard-Plan.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="Try the streaming site that actually cures your brain rot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/25/try-the-streaming-site-that-actually-cures-your-brain-rot.html" target="_blank">Try the streaming site that actually cures your brain rot</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-25 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/netflix-guillermo-del-toro-frankenstein-1280x853.jpg" alt="You Can Read Guillermo del Toro’s ‘Frankenstein’ Script Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/you-can-read-guillermo-del-toros-frankenstein-script-next-month-2000677104" target="_blank">You Can Read Guillermo del Toro’s ‘Frankenstein’ Script Next Month</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-25 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -284,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
