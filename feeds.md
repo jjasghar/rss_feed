@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 16:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 17:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed6/live/c792e810-b28a-11f0-aa13-0b0479f6f42a.jpg" alt="Epping migrant sex offender will be deported &#x27;this week&#x27;, says Justice Secretary Lammy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyng49vv10o?at_medium=RSS&at_campaign=rss" target="_blank">Epping migrant sex offender will be deported &#x27;this week&#x27;, says Justice Secretary Lammy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-26 16:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +97,20 @@
                 <span class="time">2025-10-26 12:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4891/live/a1284710-b24e-11f0-ba75-093eca1ac29b.jpg" alt="Suspects arrested over theft of jewels at Louvre museum in Paris" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss" target="_blank">Suspects arrested over theft of jewels at Louvre museum in Paris</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-26 10:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/" target="_blank">TechCrunch Mobility: The ‘robot army’ argument</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-26 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +156,6 @@
                 <span class="time">2025-10-25 19:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs" target="_blank">Tech left teens fighting over scraps, and now it wants those too</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-25 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +168,24 @@
                 <span class="title"><a href="https://dev.to/hakan_onder/phantomcoin-an-absolutely-deterministic-rule-based-l1-dag-abft-eutxo-first-building-block-1id5" target="_blank">Phantom.Coin – an absolutely deterministic, rule-based L1 (DAG + aBFT, eUTXO). First building block of an open ecosystem.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-26 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/ghostty-terminal-features/" target="_blank">Ghostty Terminal: Never Understood the Hype Until I tried it</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-26 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-bug.jpg?resize=406%2C232&amp;ssl=1" alt="Rust Bug Broke Ubuntu 25.10 Automatic Update Checks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-rust-coreutils-date-bug" target="_blank">Rust Bug Broke Ubuntu 25.10 Automatic Update Checks</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-26 14:29</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Debian-Archive-License-Pkg-Team" target="_blank">Debian Establishes Archive Operations Team, Licensing &amp; New Packages Team</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-26 12:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1f2f" target="_blank">Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-26 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/cloud-kms-post-quantum-kem/en/headerimage/generatedHeaderImage-1761126772296.jpg" alt="Google Cloud KMS Launches Post-Quantum KEM Support to Combat &quot;Harvest Now, Decrypt Later&quot; Threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/cloud-kms-post-quantum-kem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud KMS Launches Post-Quantum KEM Support to Combat &quot;Harvest Now, Decrypt Later&quot; Threat</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-26 10:00</span>
             </div>
         </div>
 </div>
@@ -296,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
