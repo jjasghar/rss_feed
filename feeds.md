@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 10:01:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-26 11:01:39 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4891/live/a1284710-b24e-11f0-ba75-093eca1ac29b.jpg" alt="Suspects arrested over theft of jewels at Louvre museum in Paris" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss" target="_blank">Suspects arrested over theft of jewels at Louvre museum in Paris</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-26 10:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250411-xi-trump-mn-0745-262066.jpg" alt="U.S. and China could reach trade deal to avoid 100% tariffs, Scott Bessent says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/us-china-trade-deal-avoid-100-tariffs-scott-bessent-rcna239822" target="_blank">U.S. and China could reach trade deal to avoid 100% tariffs, Scott Bessent says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-26 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/26/trumps-visit-to-malaysia-met-with-protests-over-war-in-gaza?traffic_source=rss" target="_blank">Trump’s visit to Malaysia met with protests over war in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-26 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586598/suspects-arrest-paris-louvre-museum-theft" target="_blank">Suspects arrested over the theft of crown jewels from Paris&#x27; Louvre museum</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-26 10:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4891/live/a1284710-b24e-11f0-ba75-093eca1ac29b.jpg" alt="Two arrested over theft of jewels at Louvre museum in Paris" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -62,42 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn51y0p6ne2o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender arrested after being released from prison in error</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-26 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586583/trump-ceasefire-ceremony-thailand-cambodia-malaysia-visit" target="_blank">Trump attends ceasefire ceremony with Thailand and Cambodia during Malaysia visit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-26 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/26/trump-dances-with-performers-after-landing-in-malaysia?traffic_source=rss" target="_blank">Trump dances with performers after landing in Malaysia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/20251026-trump-malaysia-jj-223a-0cc680.jpg" alt="Trump touts his peacemaking skills as Thailand and Cambodia sign ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/asia/trump-thailand-cambodia-peace-deal-rcna239816" target="_blank">Trump touts his peacemaking skills as Thailand and Cambodia sign ceasefire deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-26 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead?traffic_source=rss" target="_blank">LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 05:53</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1f2f" target="_blank">Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-26 10:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/cloud-kms-post-quantum-kem/en/headerimage/generatedHeaderImage-1761126772296.jpg" alt="Google Cloud KMS Launches Post-Quantum KEM Support to Combat &quot;Harvest Now, Decrypt Later&quot; Threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE" target="_blank">A worker fell into a nuclear reactor pool</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-26 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm7k1vp1wzrz0slfktp9m.png" alt="Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/keneojiteli/automating-infrastructure-provisioning-with-terraform-aws-s3-remote-backend-and-github-actions-2k5b" target="_blank">Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-26 01:01</span>
             </div>
         </div>
 </div>
@@ -296,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
