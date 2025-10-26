@@ -1,33 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 18:02:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-26 19:01:43 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/26/djibouti-lifts-presidential-age-limit-paving-way-for-sixth-guelleh-term?traffic_source=rss" target="_blank">Djibouti lifts presidential age limit, paving way for sixth Guelleh term</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-26 18:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-gaza-bodies_7062843.jpg?20251026154221" alt="Israel allows Red Cross and Egyptian teams into Gaza as search for bodies of hostages widens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-allows-red-cross-and-egyptian-teams-into-gaza-as-search-for-bodies-of-hostages-widens-13458151" target="_blank">Israel allows Red Cross and Egyptian teams into Gaza as search for bodies of hostages widens</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-26 15:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -77,24 +88,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2025/10/26/estonias-top-diplomat-russia-testing-nato-resolve-amid-trump-uncertainty?traffic_source=rss" target="_blank">Estonia’s top diplomat: Russia testing NATO resolve amid Trump uncertainty</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-26 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/louvre-two-theft-gty-bh-251023_1761255159775_hpMain_4x3t_384.jpg" alt="French police arrest 2 Louvre jewel heist suspects amid manhunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/french-police-arrest-2-louvre-jewel-heist-suspects/story?id=126873453" target="_blank">French police arrest 2 Louvre jewel heist suspects amid manhunt</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-26 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761483300663_mtp_full_bessent_251026_1920x1080-evxjwn.jpg" alt="Scott Bessent says China ‘ready to make a deal’ to avoid new 100% tariff: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-china-ready-to-make-a-deal-to-avoid-new-100-tariff-full-interview-250647109766" target="_blank">Scott Bessent says China ‘ready to make a deal’ to avoid new 100% tariff: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-26 12:55</span>
             </div>
         </div>
 </div>
@@ -162,6 +155,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2510.18212" target="_blank">A Definition of AGI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-26 18:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="Reducing Request Counts in Static Astro Sites: A Guide for Heavy Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +206,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-rust-coreutils-date-bug" target="_blank">Rust Bug Broke Ubuntu 25.10 Automatic Update Checks</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-26 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6" target="_blank">🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-26 13:03</span>
             </div>
         </div>
 </div>
@@ -284,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
