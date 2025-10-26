@@ -1,42 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 12:02:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 13:06:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/26/a-pakistan-foreign-policy-renaissance-not-quite?traffic_source=rss" target="_blank">A Pakistan foreign policy renaissance? Not quite</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-26 12:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4891/live/a1284710-b24e-11f0-ba75-093eca1ac29b.jpg" alt="Suspects arrested over theft of jewels at Louvre museum in Paris" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +94,20 @@
                 <span class="time">2025-10-26 10:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586598/suspects-arrest-paris-louvre-museum-theft" target="_blank">Suspects arrested over the theft of crown jewels from Paris&#x27; Louvre museum</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-26 10:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a91d240ff15a77d5c4a427/master/pass/Which%20GoPro%20Hero%20Camera%20Should%20You%20Buy_.png" alt="Best GoPro Camera (2025): Compact, Budget, Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gopro-hero-camera/" target="_blank">Best GoPro Camera (2025): Compact, Budget, Accessories</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-26 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +153,29 @@
                 <span class="time">2025-10-25 15:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review" target="_blank">What does nearly $6,000 of gaming laptop get you?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-25 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6" target="_blank">🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-26 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-Archive-License-Pkg-Team" target="_blank">Debian Establishes Archive Operations Team, Licensing &amp; New Packages Team</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-26 12:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,29 +212,20 @@
                 <span class="time">2025-10-26 02:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/apple/pico-banana-400k" target="_blank">Pico-Banana-400k</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-26 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE" target="_blank">A worker fell into a nuclear reactor pool</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-26 01:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/tiktokphone-1280x853.jpg" alt="Social Media Might Not Be Rotting Our Brains as Much as We Think, Twin Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/social-media-might-not-be-rotting-our-brains-as-much-as-we-think-twin-study-finds-2000675576" target="_blank">Social Media Might Not Be Rotting Our Brains as Much as We Think, Twin Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/bored-ape-1280x853.jpg" alt="The Ape Pivot Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +271,6 @@
                 <span class="time">2025-10-25 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/ledger_nano_gen_5-1280x853.jpg" alt="Ledger Wants Its Latest Crypto Wallet to Take on Sam Altman’s Eyeball-Scanning Orb" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ledger-wants-its-latest-crypto-wallet-to-take-on-sam-altmans-eyeball-scanning-orb-2000676617" target="_blank">Ledger Wants Its Latest Crypto Wallet to Take on Sam Altman’s Eyeball-Scanning Orb</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-25 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
