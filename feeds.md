@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 11:01:39 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-26 12:02:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250411-xi-trump-mn-0745-262066.jpg" alt="U.S. and China are likely to reach a deal to avert new 100% tariffs, Treasury secretary says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/us-china-trade-deal-avoid-100-tariffs-scott-bessent-rcna239822" target="_blank">U.S. and China are likely to reach a deal to avert new 100% tariffs, Treasury secretary says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-26 10:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250411-xi-trump-mn-0745-262066.jpg" alt="U.S. and China could reach trade deal to avoid 100% tariffs, Scott Bessent says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -80,27 +92,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586598/suspects-arrest-paris-louvre-museum-theft" target="_blank">Suspects arrested over the theft of crown jewels from Paris&#x27; Louvre museum</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586598/suspects-arrest-paris-louvre-museum-theft" target="_blank">Suspects arrested over the theft of crown jewels from the Louvre museum in Paris</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-26 10:21</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4891/live/a1284710-b24e-11f0-ba75-093eca1ac29b.jpg" alt="Two arrested over theft of jewels at Louvre museum in Paris" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss" target="_blank">Two arrested over theft of jewels at Louvre museum in Paris</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-26 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c863/live/469a1e60-b23d-11f0-963a-290fd190a9e6.png" alt="Migrant sex offender arrested after being released from prison in error" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn51y0p6ne2o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender arrested after being released from prison in error</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-26 09:53</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586598/suspects-arrest-paris-louvre-museum-theft" target="_blank">Suspects arrested over the theft of crown jewels from Paris&#x27; Louvre museum</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-26 10:21</span>
             </div>
         </div>
 </div>
@@ -108,6 +111,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai" target="_blank">The next legal frontier is your face and AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68fc29e7dac61bc831c0a1c0/master/pass/DSC_6495.jpg" alt="A First Ride With the Maeving RM2 Electric Motorcycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review" target="_blank">What does nearly $6,000 of gaming laptop get you?</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2025-10-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/" target="_blank">TikTok robot star Rizzbot gave me the middle finger</a></span>
-                <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-25 15:00</span>
             </div>
         </div>
@@ -299,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
