@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 13:06:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 14:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/louvre-two-theft-gty-bh-251023_1761255159775_hpMain_4x3t_384.jpg" alt="French police arrest 2 Louvre jewel heist suspects amid manhunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/french-police-arrest-2-louvre-jewel-heist-suspects/story?id=126873453" target="_blank">French police arrest 2 Louvre jewel heist suspects amid manhunt</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-26 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761483300663_mtp_full_bessent_251026_1920x1080-evxjwn.jpg" alt="Scott Bessent says China ‘ready to make a deal’ to avoid new 100% tariff: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-china-ready-to-make-a-deal-to-avoid-new-100-tariff-full-interview-250647109766" target="_blank">Scott Bessent says China ‘ready to make a deal’ to avoid new 100% tariff: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-26 12:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/us-china-trade-deal-avoid-100-tariffs-scott-bessent-rcna239822" target="_blank">U.S. and China could reach trade deal to avoid 100% tariffs, Scott Bessent says</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-26 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/26/trumps-visit-to-malaysia-met-with-protests-over-war-in-gaza?traffic_source=rss" target="_blank">Trump’s visit to Malaysia met with protests over war in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586598/suspects-arrest-paris-louvre-museum-theft" target="_blank">Suspects arrested over the theft of crown jewels from the Louvre museum in Paris</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-26 10:21</span>
             </div>
         </div>
 </div>
@@ -170,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html" target="_blank">Let&#x27;s Help NetBSD Cross the Finish Line Before 2025 Ends</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-26 12:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Debian-Archive-License-Pkg-Team" target="_blank">Debian Establishes Archive Operations Team, Licensing &amp; New Packages Team</a></span>
                 <span class="feed">Phoronix</span>
@@ -203,20 +220,20 @@
                 <span class="time">2025-10-26 04:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/technoblogger14o3/the-journey-before-main-58jm" target="_blank">The Journey Before main()</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-26 02:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Carpa-uasi-1280x853.jpg" alt="The Inca Built This Three-Walled Building to Shape Sound, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-inca-built-this-three-walled-building-to-shape-sound-study-suggests-2000676478" target="_blank">The Inca Built This Three-Walled Building to Shape Sound, Study Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-26 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/tiktokphone-1280x853.jpg" alt="Social Media Might Not Be Rotting Our Brains as Much as We Think, Twin Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +279,6 @@
                 <span class="time">2025-10-25 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/twin-peaks-e1761409521635.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Silver Pines looks like the Twin Peaks video game we never got" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/25/silver-pines-looks-like-the-twin-peaks-video-game-we-never-got.html" target="_blank">Silver Pines looks like the Twin Peaks video game we never got</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-25 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
