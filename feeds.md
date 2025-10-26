@@ -1,26 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 19:01:43 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-26 20:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 18 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/26/two-killed-in-cameroon-protests-ahead-of-election-results-opposition-says?traffic_source=rss" target="_blank">Two killed in Cameroon protests ahead of election results, opposition says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-26 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +97,20 @@
                 <span class="time">2025-10-26 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2025/10/26/estonias-top-diplomat-russia-testing-nato-resolve-amid-trump-uncertainty?traffic_source=rss" target="_blank">Estonia’s top diplomat: Russia testing NATO resolve amid Trump uncertainty</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/26/ads-might-be-coming-to-apple-maps-next-year/" target="_blank">Ads might be coming to Apple Maps next year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-26 19:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,20 +156,20 @@
                 <span class="time">2025-10-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fc29e7dac61bc831c0a1c0/master/pass/DSC_6495.jpg" alt="A First Ride With the Maeving RM2 Electric Motorcycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/maeving-rm2-electric-motorcycle/" target="_blank">A First Ride With the Maeving RM2 Electric Motorcycle</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-26 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fedtti/turso-a-bright-future-for-sqlite-written-from-scratch-in-rust-22ij" target="_blank">Turso, a Bright Future for SQLite Written From Scratch in Rust</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-26 19:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,15 +213,6 @@
                 <span class="title"><a href="https://itsfoss.com/ghostty-terminal-features/" target="_blank">Ghostty Terminal: Never Understood the Hype Until I tried it</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-10-26 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-bug.jpg?resize=406%2C232&amp;ssl=1" alt="Rust Bug Broke Ubuntu 25.10 Automatic Update Checks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/ubuntu-25-10-rust-coreutils-date-bug" target="_blank">Rust Bug Broke Ubuntu 25.10 Automatic Update Checks</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-26 14:29</span>
             </div>
         </div>
 </div>
@@ -277,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
