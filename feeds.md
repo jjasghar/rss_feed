@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 00:05:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-26 01:29:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm7k1vp1wzrz0slfktp9m.png" alt="Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/keneojiteli/automating-infrastructure-provisioning-with-terraform-aws-s3-remote-backend-and-github-actions-2k5b" target="_blank">Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-26 01:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1k8lbw5a37ijnfswwsf.png" alt="Agent-Ledger: Proof of Leverage on Agentic Postgres (BINFLOW x Tiger)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/p_thabiwa_0ca34c2f83/agent-ledger-proof-of-leverage-on-agentic-postgres-binflow-x-tiger-41n3" target="_blank">Agent-Ledger: Proof of Leverage on Agentic Postgres (BINFLOW x Tiger)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-25 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.0xkato.xyz/linux-boot/" target="_blank">The Linux Boot Process: From Power Button to Kernel</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-25 23:04</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/sreeni5018/aws-strands-multi-agent-patterns-for-the-enterprise-part-i-3jna" target="_blank">AWS Strands Multi-Agent Patterns for the Enterprise Part-I</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-25 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1m3a" target="_blank">Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/10/kubuntu-logo-upgrade.jpg?resize=406%2C232&amp;ssl=1" alt="How to Upgrade to KDE Plasma 6.5 on Kubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/how-to-upgrade-kde-plasma-6-5-kubuntu-25-10" target="_blank">How to Upgrade to KDE Plasma 6.5 on Kubuntu 25.10</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-25 14:28</span>
             </div>
         </div>
 </div>
@@ -300,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
