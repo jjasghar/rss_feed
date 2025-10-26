@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 04:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 05:01:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/26/yamamoto-dodgers-level-mlb-world-series-against-blue-jays-in-game-2?traffic_source=rss" target="_blank">Yamamoto, Dodgers level MLB World Series against Blue Jays in Game 2</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-26 04:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/MalaysiaUSTrump_1761446618200_hpMain_4x3t_384.jpg" alt="Trump arrives in Asia for week of key talks -- including with China&#x27;s Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2ljgrm78zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump raises tariffs on Canadian goods in response to Reagan advert</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-25 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-251022_1761168592394_hpMain_4x3t_384.jpg" alt="Trump raises tariffs on Canada 10% after Reagan ad airs during World Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-raises-tariffs-canada-10-after-reagan-ad/story?id=126866712" target="_blank">Trump raises tariffs on Canada 10% after Reagan ad airs during World Series</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-25 22:39</span>
             </div>
         </div>
 </div>
@@ -165,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/munna_kumar_a4c97c55d2ee2/kuku-fm-se-499-cut-jaaye-to-kya-karen-ldp" target="_blank">Kuku FM se 499 cut jaaye to kya Karen</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-26 04:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/technoblogger14o3/the-journey-before-main-58jm" target="_blank">The Journey Before main()</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-26 02:20</span>
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/p_thabiwa_0ca34c2f83/agent-ledger-proof-of-leverage-on-agentic-postgres-binflow-x-tiger-41n3" target="_blank">Agent-Ledger: Proof of Leverage on Agentic Postgres (BINFLOW x Tiger)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-25 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.0xkato.xyz/linux-boot/" target="_blank">The Linux Boot Process: From Power Button to Kernel</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-25 23:04</span>
             </div>
         </div>
 </div>
@@ -293,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
