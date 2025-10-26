@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 17:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 18:02:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586670/german-police-bust-an-art-forgery-ring-trying-to-sell-fake-picasso-rembrandt-works" target="_blank">German police bust an art forgery ring trying to sell fake Picasso, Rembrandt works</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-26 17:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed6/live/c792e810-b28a-11f0-aa13-0b0479f6f42a.jpg" alt="Epping migrant sex offender will be deported &#x27;this week&#x27;, says Justice Secretary Lammy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +97,20 @@
                 <span class="time">2025-10-26 12:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/26/a-pakistan-foreign-policy-renaissance-not-quite?traffic_source=rss" target="_blank">A Pakistan foreign policy renaissance? Not quite</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/26/trump-and-xi-will-consummate-tiktok-deal-on-thursday-treasury-secretary-says/" target="_blank">Trump and Xi will ‘consummate’ TikTok deal on Thursday, treasury secretary says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-26 17:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +156,29 @@
                 <span class="time">2025-10-26 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/" target="_blank">OpenAI reportedly developing new generative music tool</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-25 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="Reducing Request Counts in Static Astro Sites: A Guide for Heavy Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/reducing-request-counts-in-static-astro-sites-a-guide-for-heavy-websites-4k0c" target="_blank">Reducing Request Counts in Static Astro Sites: A Guide for Heavy Websites</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-26 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good" target="_blank">Movie Posters from Africa That Are So Bad, They&#x27;re Good</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-26 15:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6" target="_blank">🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-26 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html" target="_blank">Let&#x27;s Help NetBSD Cross the Finish Line Before 2025 Ends</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-26 12:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-Archive-License-Pkg-Team" target="_blank">Debian Establishes Archive Operations Team, Licensing &amp; New Packages Team</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-26 12:08</span>
             </div>
         </div>
 </div>
@@ -265,15 +265,6 @@
                 <span class="time">2025-10-25 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/04/paulie.jpg?fit=648%2C324&amp;quality=60&amp;ssl=1" alt="The Sopranos creator&#x27;s next project will be about MKUltra" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/25/the-sopranos-creators-next-project-will-be-about-mkultra.html" target="_blank">The Sopranos creator&#x27;s next project will be about MKUltra</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-25 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
