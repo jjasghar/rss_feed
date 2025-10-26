@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 08:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-26 09:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586583/trump-ceasefire-ceremony-thailand-cambodia-malaysia-visit" target="_blank">Trump attends ceasefire ceremony with Thailand and Cambodia during Malaysia visit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-26 07:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/26/trump-dances-with-performers-after-landing-in-malaysia?traffic_source=rss" target="_blank">Trump dances with performers after landing in Malaysia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-26 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/20251026-trump-malaysia-jj-223a-0cc680.jpg" alt="Trump touts his peacemaking skills as Thailand and Cambodia sign ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/asia/trump-thailand-cambodia-peace-deal-rcna239816" target="_blank">Trump touts his peacemaking skills as Thailand and Cambodia sign ceasefire deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-26 06:25</span>
             </div>
         </div>
 <div class="story">
@@ -74,24 +100,6 @@
                 <span class="title"><a href="https://news.sky.com/story/trump-oversees-signing-of-historic-thailand-cambodia-ceasefire-deal-13457827" target="_blank">Trump oversees signing of &#x27;historic&#x27; Thailand-Cambodia ceasefire deal</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-10-26 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5561008/how-the-craft-flour-movement-could-be-a-boon-to-farmers-and-indian-country" target="_blank">How the craft flour movement could be a boon to farmers and Indian Country</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-26 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/MalaysiaUSTrump_1761446618200_hpMain_4x3t_384.jpg" alt="Trump arrives in Asia for week of key talks -- including with China&#x27;s Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-heads-asia-talk-trade-deal-chinas-xi/story?id=126800165" target="_blank">Trump arrives in Asia for week of key talks -- including with China&#x27;s Xi</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-26 02:54</span>
             </div>
         </div>
 </div>
@@ -218,6 +226,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/bored-ape-1280x853.jpg" alt="The Ape Pivot Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bored-ape-pivot-has-arrived-2000677106" target="_blank">The Ape Pivot Has Arrived</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-26 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Curiosity-Stream-Standard-Plan.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="Try the streaming site that actually cures your brain rot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -262,15 +279,6 @@
                 <span class="time">2025-10-25 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/VZR-Model-One-MK2-review-03-1280x853.jpg" alt="You Want an Audiophile Gaming Headset, but Just Not This One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/vzr-model-one-mkii-review-this-is-not-the-nearly-400-gaming-headset-youre-looking-for-2000675686" target="_blank">You Want an Audiophile Gaming Headset, but Just Not This One</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-25 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
