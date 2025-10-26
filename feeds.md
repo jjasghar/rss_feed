@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 09:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 10:01:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4891/live/a1284710-b24e-11f0-ba75-093eca1ac29b.jpg" alt="Two arrested over theft of jewels at Louvre museum in Paris" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss" target="_blank">Two arrested over theft of jewels at Louvre museum in Paris</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-26 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c863/live/469a1e60-b23d-11f0-963a-290fd190a9e6.png" alt="Migrant sex offender arrested after being released from prison in error" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn51y0p6ne2o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender arrested after being released from prison in error</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-26 09:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +100,20 @@
                 <span class="time">2025-10-26 05:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/26/yamamoto-dodgers-level-mlb-world-series-against-blue-jays-in-game-2?traffic_source=rss" target="_blank">Yamamoto, Dodgers level MLB World Series against Blue Jays in Game 2</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 04:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-malaysia_7062338.jpg?20251026070528" alt="Trump oversees signing of &#x27;historic&#x27; Thailand-Cambodia ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-oversees-signing-of-historic-thailand-cambodia-ceasefire-deal-13457827" target="_blank">Trump oversees signing of &#x27;historic&#x27; Thailand-Cambodia ceasefire deal</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-26 04:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68fc29e7dac61bc831c0a1c0/master/pass/DSC_6495.jpg" alt="A First Ride With the Maeving RM2 Electric Motorcycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/maeving-rm2-electric-motorcycle/" target="_blank">A First Ride With the Maeving RM2 Electric Motorcycle</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-26 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +159,20 @@
                 <span class="time">2025-10-25 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault" target="_blank">ICE is building a social media panopticon</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-25 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/cloud-kms-post-quantum-kem/en/headerimage/generatedHeaderImage-1761126772296.jpg" alt="Google Cloud KMS Launches Post-Quantum KEM Support to Combat &quot;Harvest Now, Decrypt Later&quot; Threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/cloud-kms-post-quantum-kem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud KMS Launches Post-Quantum KEM Support to Combat &quot;Harvest Now, Decrypt Later&quot; Threat</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-26 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/keneojiteli/automating-infrastructure-provisioning-with-terraform-aws-s3-remote-backend-and-github-actions-2k5b" target="_blank">Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-26 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Linux-6.19-First" target="_blank">AMD Begins Sending In &quot;New Stuff&quot; For Their Graphics Driver In Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-26 00:25</span>
             </div>
         </div>
 </div>
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
