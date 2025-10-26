@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-26 07:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-26 08:01:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, October 26, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, October 26, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/26/trump-dances-with-performers-after-landing-in-malaysia?traffic_source=rss" target="_blank">Trump dances with performers after landing in Malaysia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-26 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead?traffic_source=rss" target="_blank">LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-26 05:53</span>
@@ -59,6 +65,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/26/yamamoto-dodgers-level-mlb-world-series-against-blue-jays-in-game-2?traffic_source=rss" target="_blank">Yamamoto, Dodgers level MLB World Series against Blue Jays in Game 2</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-26 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-donald-trump-malaysia_7062338.jpg?20251026070528" alt="Trump oversees signing of &#x27;historic&#x27; Thailand-Cambodia ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-oversees-signing-of-historic-thailand-cambodia-ceasefire-deal-13457827" target="_blank">Trump oversees signing of &#x27;historic&#x27; Thailand-Cambodia ceasefire deal</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-26 04:29</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +92,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-heads-asia-talk-trade-deal-chinas-xi/story?id=126800165" target="_blank">Trump arrives in Asia for week of key talks -- including with China&#x27;s Xi</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-26 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/221a/live/aaf6f740-b213-11f0-aa13-0b0479f6f42a.jpg" alt="Trump&#x27;s week in Asia: BBC correspondents on the wins and potential losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9d6jnn37l2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s week in Asia: BBC correspondents on the wins and potential losses</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-26 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/25/nx-s1-5586114/melissa-expected-to-rapidly-intensify-into-major-hurricane-in-the-caribbean" target="_blank">Melissa expected to rapidly intensify into major hurricane in the Caribbean</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-26 01:31</span>
             </div>
         </div>
 </div>
@@ -293,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
