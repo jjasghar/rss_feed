@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 16:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 17:01:41 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/27/donald-trump-won-in-argentina?traffic_source=rss" target="_blank">Donald Trump won in Argentina</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 16:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251027-putin-rs-21a380.jpg" alt="Is Russia&#x27;s test of a new nuclear-powered weapon actually a threat?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/russia/russia-burevestnik-missile-trump-putin-test-inappropriate-ukraine-rcna239984" target="_blank">Is Russia&#x27;s test of a new nuclear-powered weapon actually a threat?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-27 14:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -86,29 +102,29 @@
                 <span class="time">2025-10-27 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-emmanuel-macron-brigitte-macron_6927910.jpg?20250704103104" alt="Ten go on trial over claims Brigitte Macron is a man" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ten-on-trial-over-malicious-online-comments-claiming-brigitte-macron-is-a-man-13458789" target="_blank">Ten go on trial over claims Brigitte Macron is a man</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-27 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/27/cameroon-paul-biya-oldest-serving-head-of-state-declared-winner-in-election" target="_blank">World’s oldest serving head of state declared winner in Cameroon election</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-27 11:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/789188/beats-powerbeats-pro-2-workout-earbuds-deal-sale" target="_blank">Beats’ Powerbeats Pro 2 are nearly matching their best price to date</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2243465873-500x500.jpg" alt="F1 in Mexico City: We have a new championship leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/f1-in-mexico-city-we-have-a-new-championship-leader/" target="_blank">F1 in Mexico City: We have a new championship leader</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-27 16:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +161,38 @@
                 <span class="time">2025-10-27 14:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fc07b1447a84ea202250cb/master/pass/The%207%20Best%20Sunrise%20Alarm%20Clocks%20to%20Help%20You%20Rise%20and%20Shine.png" alt="7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-sunrise-alarm-clocks/" target="_blank">7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-27 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/fakereceiptsbro-500x500.jpg" alt="New image-generating AIs are being used for fake expense reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/ai-generated-receipts-make-submitting-fake-expenses-easier/" target="_blank">New image-generating AIs are being used for fake expense reports</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-27 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg" target="_blank">Build and Host a Website from a Prompt Using Orchids.app</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html" target="_blank">The PSF has withdrawn a $1.5 million proposal to US government grant program</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-27 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Unity-25.10-Troubles" target="_blank">Ubuntu Unity In Need Of More Developers To Survive</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-27 16:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +218,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/" target="_blank">AI agents will succeed because one tool is better than ten</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-10-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mehwish_malik_4f29ff7fb04/from-devops-to-data-ethics-why-every-engineer-needs-gdpr-training-3g0b" target="_blank">From DevOps to Data Ethics: Why Every Engineer Needs GDPR Training</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18712480&w=600" alt="Enterprise-Grade Document Intelligence: Cloud Big Data AI With YOLOv9 and Spark on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/document-intelligence-yolov9-spark-aws" target="_blank">Enterprise-Grade Document Intelligence: Cloud Big Data AI With YOLOv9 and Spark on AWS</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-radeon-ai-pro-r9700" target="_blank">AMD Radeon AI PRO R9700 Linux Performance For Single &amp; Dual GPU Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-27 13:00</span>
             </div>
         </div>
 </div>
@@ -250,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Costco-1280x855.jpg" alt="Costco’s 1-Year Membership Now Comes With a Digital Shop Card That Almost Covers the Cost, Making It Basically Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/costcos-1-year-membership-now-comes-with-a-digital-shop-card-that-almost-covers-the-cost-making-it-basically-free-2000639092" target="_blank">Costco’s 1-Year Membership Now Comes With a Digital Shop Card That Almost Covers the Cost, Making It Basically Free</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/hp-laptop-1280x853.jpg" alt="HP Drops Another Bestseller, 15.6″ Laptop (32GB RAM, 1TB SSD) Now Over 70% Off and Preloaded With Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,20 +302,20 @@
                 <span class="time">2025-10-27 14:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Apple-2024-MacBook-Pro-Laptop-with-M4-chip-1280x853.jpg" alt="Apple Quietly Clears Out the M4 MacBook Pro With Hundreds Off After the M5 Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-m4-macbook-pro-is-being-pushed-onto-the-sales-rack-go-grab-one-now-2000639133" target="_blank">Apple Quietly Clears Out the M4 MacBook Pro With Hundreds Off After the M5 Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1761521776-20251027 (1).png" alt="Saturday Morning Breakfast Cereal - Addition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/addition" target="_blank">Saturday Morning Breakfast Cereal - Addition</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-27 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
