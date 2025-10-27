@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 15:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 16:02:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/27/g-s1-95210/ireland-catherine-connolly-president-gaza" target="_blank">Ireland&#x27;s president-elect is a left-wing, anti-establishment figure who is outspoken on Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-27 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/putin-meets-top-north-korean-diplomat-says-ties-developing-as-planned?traffic_source=rss" target="_blank">Putin meets top North Korean diplomat, says ties developing as planned</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 15:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +104,29 @@
                 <span class="time">2025-10-27 11:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761565859402_tdy_news_7a_peter_trump_china_deal_251027_1920x1080-pzrx8z.jpg" alt="US, China Agree to Trade Deal &#x27;Framework:&#x27; Treasury Secretary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/treasury-secretary-says-100-tariff-on-china-is-now-off-the-table-250685509693" target="_blank">US, China Agree to Trade Deal &#x27;Framework:&#x27; Treasury Secretary</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-27 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/27/g-s1-95176/up-first-newsletter-trump-asia-trip-military-caribbean-shutdown" target="_blank">Trump&#x27;s agenda for Asia trip. And, government shutdown threatens food benefits</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-27 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/27/threads-adds-ghost-posts-that-disappear-after-24-hours-and-responses-go-to-dms/" target="_blank">Threads adds ‘ghost posts’ that disappear after 24 hours</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/1000x1000-500x500.jpg" alt="Melissa set to be the strongest hurricane to ever strike Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/melissa-set-to-be-the-strongest-hurricane-to-ever-strike-jamaica/" target="_blank">Melissa set to be the strongest hurricane to ever strike Jamaica</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-27 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +163,20 @@
                 <span class="time">2025-10-27 13:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683f7e7e3188facfa0309eda/master/pass/Update-%20Best%20Gifts%20for%20Coworkers_.png" alt="17 Thoughtful Gifts for Coworkers They&#x27;ll Appreciate in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-coworkers/" target="_blank">17 Thoughtful Gifts for Coworkers They&#x27;ll Appreciate in 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/27/workout-app-ladder-launches-nutrition-tracking-experience/" target="_blank">Workout app Ladder launches  nutrition-tracking experience</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-27 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf" target="_blank">Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-27 15:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,20 +222,20 @@
                 <span class="time">2025-10-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/rag-with-spring-mongo-open-ai/en/headerimage/rag-with-spring-mongo-open-ai-header-1761292137478.jpg" alt="Article: Building a RAG Application with Spring Boot, Spring AI, MongoDB Atlas Vector Search, and OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/rag-with-spring-mongo-open-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building a RAG Application with Spring Boot, Spring AI, MongoDB Atlas Vector Search, and OpenAI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-27 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html" target="_blank">Louvre Jewel Heist</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-27 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,6 +250,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/hp-laptop-1280x853.jpg" alt="HP Drops Another Bestseller, 15.6″ Laptop (32GB RAM, 1TB SSD) Now Over 70% Off and Preloaded With Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-drops-another-bestseller-15-6%e2%80%b3-laptop-32gb-ram-1tb-ssd-now-over-70-off-and-preloaded-with-windows-11-pro-2000638657" target="_blank">HP Drops Another Bestseller, 15.6″ Laptop (32GB RAM, 1TB SSD) Now Over 70% Off and Preloaded With Windows 11 Pro</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/it-welcome-to-derry-episode-1-ending-lily-1280x853.jpg" alt="‘Welcome to Derry’ Creators Reveal Why They Went for That Shocking Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-episode-1-ending-explained-lily-ronnie-baby-2000677493" target="_blank">‘Welcome to Derry’ Creators Reveal Why They Went for That Shocking Ending</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-27 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Lenovo-11.6-3.jpg?fit=1900%2C1427&amp;quality=60&amp;ssl=1" alt="Here&#x27;s how to get a 2-in-1 laptop and tablet for 84% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/27/heres-how-to-get-a-2-in-1-laptop-and-tablet-for-84-off.html" target="_blank">Here&#x27;s how to get a 2-in-1 laptop and tablet for 84% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-27 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/MacBook-Air-M4-Blue-Color-2-1280x853.jpg" alt="The Next MacBook Air Might Have a Big Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +304,6 @@
                 <span class="time">2025-10-27 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8JXYXC3H9CHFPWX4S0GZ7EG/hero-image.jpg" alt="X Is Getting Rid of ‘Twitter,’ and It Might Affect Your Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/x-is-getting-rid-of-twitter-and-it-might-affect-your-account?utm_medium=RSS" target="_blank">X Is Getting Rid of ‘Twitter,’ and It Might Affect Your Account</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-27 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Emiru2.jpg" alt="Emiru Calls Assault Investigation A ‘Huge Mess’ As Twitch Admits ‘We Failed’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/emiru-twitch-dan-clancy-assault-safety-investigation-2000639234" target="_blank">Emiru Calls Assault Investigation A ‘Huge Mess’ As Twitch Admits ‘We Failed’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/airline-seat-window-1280x853.jpg" alt="Flying Is Safe Thanks to Data and Cooperation—What the AI Industry Could Learn From Airlines on Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/flying-is-safe-thanks-to-data-and-cooperation-what-the-ai-industry-could-learn-from-airlines-on-safety-2000677427" target="_blank">Flying Is Safe Thanks to Data and Cooperation—What the AI Industry Could Learn From Airlines on Safety</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-27 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +327,13 @@
                 <span class="time">2025-10-27 01:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1761451058-20251026.png" alt="Saturday Morning Breakfast Cereal - Intuition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/intuition" target="_blank">Saturday Morning Breakfast Cereal - Intuition</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
