@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 20:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-27 21:01:33 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-mpox-virus-uk_7064009.jpg?20251027161418" alt="Vaccine reminder as mpox strain spreads in Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/vaccine-reminder-as-mpox-strain-spreads-in-europe-13458940" target="_blank">Vaccine reminder as mpox strain spreads in Europe</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-27 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/hurricane-melissa-satellite-ht-jef-251027_1761567206714_hpMain_4x3t_384.jpg" alt="Hurricane Melissa path: Where and when Melissa will make landfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/hurricane-melissa-path-track-category-5-storm/story?id=126893988" target="_blank">Hurricane Melissa path: Where and when Melissa will make landfall</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-27 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/27/alassane-ouattara-wins-landslide-fourth-term-as-ivory-coasts-president" target="_blank">Alassane Ouattara wins landslide fourth term as Ivory Coast’s president</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-27 19:48</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +99,29 @@
                 <span class="time">2025-10-27 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/27/nx-s1-5587665/el-fasher-darfur-sudan-genocide" target="_blank">&#x27;Trapped and terrified&#x27;: warnings as Sudanese militia advance on Darfur city</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-27 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/melissa-6-rt-gmh-251027_1761582159493_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Jamaica braces for worst storm in its history" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Jamaica braces for worst storm in its history</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-27 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/27/waymo-co-ceo-on-robotaxi-vandalism-were-not-standing-for-it/" target="_blank">Waymo co-CEO on robotaxi vandalism: ‘We’re not standing for it’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-27 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ffd002912f31ccdaa888c6/master/pass/All%20Clad%20Glass%20Pizza%20OVen.png" alt="The All-Clad Pizza Oven Is $800 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/" target="_blank">The All-Clad Pizza Oven Is $800 Off Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-27 20:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ffc53f4e6d80728dd90cdc/master/pass/20250201_kaf_discharge_008_srgb.jpg" alt="Man Has Pig Kidney Removed After Living With It for a Record 9 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/789188/beats-powerbeats-pro-2-workout-earbuds-deal-sale" target="_blank">Beats’ Powerbeats Pro 2 are nearly matching their best price to date</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2243465873-500x500.jpg" alt="F1 in Mexico City: We have a new championship leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/f1-in-mexico-city-we-have-a-new-championship-leader/" target="_blank">F1 in Mexico City: We have a new championship leader</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-27 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/27/threads-adds-ghost-posts-that-disappear-after-24-hours-and-responses-go-to-dms/" target="_blank">Threads adds ‘ghost posts’ that disappear after 24 hours</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-27 16:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +246,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/10/2489ccab6d4921c8b6ef0ba76d6cde5c.jpg" alt="Every Halloween Candy, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251" target="_blank">Every Halloween Candy, Ranked From Worst To Best</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 20:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/waistmeasurement-1280x853.jpg" alt="Skinny Is the New Fat: Plenty of People Have ‘Normal’ BMI but Hidden Obesity, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -295,15 +299,6 @@
                 <span class="time">2025-10-27 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Costco-1280x855.jpg" alt="Costco’s 1-Year Membership Now Comes With a Digital Shop Card That Almost Covers the Cost, Making It Basically Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/costcos-1-year-membership-now-comes-with-a-digital-shop-card-that-almost-covers-the-cost-making-it-basically-free-2000639092" target="_blank">Costco’s 1-Year Membership Now Comes With a Digital Shop Card That Almost Covers the Cost, Making It Basically Free</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
