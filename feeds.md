@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 14:01:55 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-27 15:01:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 14 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/road-out-of-el-fasher-ransom-violence-and-the-price-of-survival-in-sudan?traffic_source=rss" target="_blank">Road out of el-Fasher: Ransom, violence and the price of survival in Sudan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/27/nx-s1-5536836/population-family-birth-rate-babies-europe-finland-baby-box" target="_blank">Finland&#x27;s stubbornly low birth rate shows why a population shift may be inevitable</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-27 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-emmanuel-macron-brigitte-macron_6927910.jpg?20250704103104" alt="Ten go on trial over claims Brigitte Macron is a man" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ten-on-trial-over-malicious-online-comments-claiming-brigitte-macron-is-a-man-13458789" target="_blank">Ten go on trial over claims Brigitte Macron is a man</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-27 12:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +102,47 @@
                 <span class="time">2025-10-27 11:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761563710922_tdy_news_7a_solis_hurricane_melissa_251027_1920x1080-o09ela.jpg" alt="Hurricane Melissa Strengthens to Category 5 as it Nears Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/hurricane-melissa-grows-to-a-category-5-threatening-jamaica-250681413864" target="_blank">Hurricane Melissa Strengthens to Category 5 as it Nears Jamaica</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-27 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-Japan-DB-251027_1761558181048_hpMain_4x3t_384.jpg" alt="Trump refuses to rule out 3rd term, says he got &#x27;perfect&#x27; MRI at Walter Reed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-refuses-rule-3rd-term-perfect-mri-walter/story?id=126891128" target="_blank">Trump refuses to rule out 3rd term, says he got &#x27;perfect&#x27; MRI at Walter Reed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-27 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/27/fears-civilians-sudan-paramilitary-rsf-capture-el-fasher" target="_blank">Grave fears for civilians after Sudanese paramilitary claims capture of El Fasher</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-27 09:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/27/the-2025-startup-battlefield-top-20-are-here-let-the-competition-begin/" target="_blank">The 2025 Startup Battlefield Top 20 are here. Let the competition begin.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-27 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/806949/ps5-ps-plus-premium-console-bundle-deal-sale" target="_blank">The PS5 bundle that includes two years of PS Plus Premium is $170 off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-27 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68fc07b1447a84ea202250cb/master/pass/The%207%20Best%20Sunrise%20Alarm%20Clocks%20to%20Help%20You%20Rise%20and%20Shine.png" alt="7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-sunrise-alarm-clocks/" target="_blank">7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-27 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/fakereceiptsbro-500x500.jpg" alt="New image-generating AIs are being used for fake expense reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/ai-generated-receipts-make-submitting-fake-expenses-easier/" target="_blank">New image-generating AIs are being used for fake expense reports</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-27 13:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/683f7e7e3188facfa0309eda/master/pass/Update-%20Best%20Gifts%20for%20Coworkers_.png" alt="17 Thoughtful Gifts for Coworkers They&#x27;ll Appreciate in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -118,47 +161,29 @@
                 <span class="time">2025-10-27 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/lockpick-death-500x500.jpg" alt="10M people watched a YouTuber shim a lock; the lock company sued him. Bad idea." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/" target="_blank">10M people watched a YouTuber shim a lock; the lock company sued him. Bad idea.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-27 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fb65b6f2565237e4a7b4dd/master/pass/102725_Kids-Careers-In-Tech.jpg" alt="Are Kids Still Looking for Careers in Tech?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/teens-stem-school-career-artificial-intelligence/" target="_blank">Are Kids Still Looking for Careers in Tech?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-27 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cb465cdb9cd0e442a2080a/master/pass/neuralviz_1.gif" alt="The Future of AI Isn&#x27;t Just Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-future-of-ai-media-parody-of-the-apocalypse-guy-named-josh/" target="_blank">The Future of AI Isn&#x27;t Just Slop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-27 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/806797/samsung-family-hub-smart-fridge-ads-opt-out" target="_blank">Here’s what ads on your $2,000 Samsung smart fridge will look like</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-27 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-On-AMD-EPYC-Turin" target="_blank">AMD EPYC 9965 &quot;Turin&quot; 2P Performance Seeing Some Gains On Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-27 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/" target="_blank">AI agents will succeed because one tool is better than ten</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-27 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,22 +220,18 @@
                 <span class="time">2025-10-27 11:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Turbosqueeze-1.0" target="_blank">Turbosqueeze Realtime Multi-Threaded Compression Aims To Compete With Zstd, Snappy</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-27 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/longbridge/gpui-component" target="_blank">Rust cross-platform GPUI components</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-27 09:44</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html" target="_blank">First Wap: A Surveillance Computer You’ve Never Heard Of</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-27 11:08</span>
             </div>
         </div>
 </div>
@@ -218,6 +239,42 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/MacBook-Air-M4-Blue-Color-2-1280x853.jpg" alt="The Next MacBook Air Might Have a Big Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/m5-macbook-may-have-big-problem-2000677459" target="_blank">The Next MacBook Air Might Have a Big Problem</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-27 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-from-TEAC-tube-TV-.jpg?fit=1080%2C529&amp;quality=60&amp;ssl=1" alt="Old Teac tube TV has retrogame-style screen saver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/27/old-teac-tube-tv-has-strange-retrogame-style-screen-saver.html" target="_blank">Old Teac tube TV has retrogame-style screen saver</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-27 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Apple-2024-MacBook-Pro-Laptop-with-M4-chip-1280x853.jpg" alt="Apple Quietly Clears Out the M4 MacBook Pro With Hundreds Off After the M5 Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-m4-macbook-pro-is-being-pushed-onto-the-sales-rack-go-grab-one-now-2000639133" target="_blank">Apple Quietly Clears Out the M4 MacBook Pro With Hundreds Off After the M5 Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8JXYXC3H9CHFPWX4S0GZ7EG/hero-image.jpg" alt="X Is Getting Rid of ‘Twitter,’ and It Might Affect Your Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/x-is-getting-rid-of-twitter-and-it-might-affect-your-account?utm_medium=RSS" target="_blank">X Is Getting Rid of ‘Twitter,’ and It Might Affect Your Account</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-27 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Emiru2.jpg" alt="Emiru Calls Assault Investigation A ‘Huge Mess’ As Twitch Admits ‘We Failed’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -234,42 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/flying-is-safe-thanks-to-data-and-cooperation-what-the-ai-industry-could-learn-from-airlines-on-safety-2000677427" target="_blank">Flying Is Safe Thanks to Data and Cooperation—What the AI Industry Could Learn From Airlines on Safety</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-27 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Xbox-Game-Pass-Ultimate-e1759850321837.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Microsoft sends Halo to PlayStation after losing hardware war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/27/microsoft-sends-halo-to-playstation-after-losing-hardware-war.html" target="_blank">Microsoft sends Halo to PlayStation after losing hardware war</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-27 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Messenger.png?fit=1576%2C843&amp;quality=55&amp;ssl=1" alt="Messenger is the coolest browser game I&#x27;ve ever played" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/27/messenger-is-the-coolest-browser-game-ive-ever-played.html" target="_blank">Messenger is the coolest browser game I&#x27;ve ever played</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8J7M3AJ3Z79HPHP9H5JFJ0E/hero-image.png" alt="This Subscription-Free Eufy Outdoor Security Camera Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eufy-solocam-s340-security-camera-sale?utm_medium=RSS" target="_blank">This Subscription-Free Eufy Outdoor Security Camera Is Over $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/1S44P9z3Sv5ugIj3uERGuLbkNkBR_sKX.jpg" alt="Lectric eBikes Slash Prices for the Holidays, Perfect Gifts That Practically Pay for Themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lectric-ebikes-slash-prices-for-the-holidays-perfect-gifts-that-practically-pay-for-themselves-2000672938" target="_blank">Lectric eBikes Slash Prices for the Holidays, Perfect Gifts That Practically Pay for Themselves</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-27 12:55</span>
             </div>
         </div>
 </div>
@@ -309,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
