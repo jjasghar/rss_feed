@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 10:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 11:01:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Trump-Japan-DB-251027_1761558181048_hpMain_4x3t_384.jpg" alt="Trump refuses to rule out 3rd term, says he got &#x27;perfect&#x27; MRI at Walter Reed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-refuses-rule-3rd-term-perfect-mri-walter/story?id=126891128" target="_blank">Trump refuses to rule out 3rd term, says he got &#x27;perfect&#x27; MRI at Walter Reed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-27 10:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/27/fears-civilians-sudan-paramilitary-rsf-capture-el-fasher" target="_blank">Grave fears for civilians after Sudanese paramilitary claims capture of El Fasher</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-27 09:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/why-riek-machars-trial-brings-existentially-high-stakes-for-south-sudan?traffic_source=rss" target="_blank">Why Riek Machar’s trial brings ‘existentially high’ stakes for South Sudan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-27 08:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bcd/live/40e727d0-b303-11f0-b2a1-6f537f66f9aa.jpg" alt="International troops won&#x27;t want to enforce Gaza peace, says King of Jordan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cge5ngz11xpo?at_medium=RSS&at_campaign=rss" target="_blank">International troops won&#x27;t want to enforce Gaza peace, says King of Jordan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-27 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/corruption-mismanagement-in-spotlight-as-iran-dissolves-major-private-bank?traffic_source=rss" target="_blank">Corruption, mismanagement in spotlight as Iran dissolves major private bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 05:49</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Turbosqueeze-1.0" target="_blank">Turbosqueeze Realtime Multi-Threaded Compression Aims To Compete With Zstd, Snappy</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-27 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/longbridge/gpui-component" target="_blank">Rust cross-platform GPUI components</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-27 09:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pascal_cescato_692b7a8a20/agentkit-how-efficient-laziness-fixes-fragile-llm-workflows-3291" target="_blank">AgentKit: How Efficient Laziness Fixes Fragile LLM Workflows</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/async_dime/assistant0-secure-ai-personal-assistant-l11" target="_blank">Assistant0 - Secure AI Personal Assistant</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-27 06:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-17em" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/chatgpt-atlas/en/headerimage/generatedHeaderImage-1761389748946.jpg" alt="OpenAI Launches ChatGPT Atlas, a Browser With ChatGPT Built In" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/chatgpt-atlas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Launches ChatGPT Atlas, a Browser With ChatGPT Built In</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-27 06:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
