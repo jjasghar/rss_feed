@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 12:02:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 13:10:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18712480&w=600" alt="Enterprise-Grade Document Intelligence: Cloud Big Data AI With YOLOv9 and Spark on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/document-intelligence-yolov9-spark-aws" target="_blank">Enterprise-Grade Document Intelligence: Cloud Big Data AI With YOLOv9 and Spark on AWS</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-radeon-ai-pro-r9700" target="_blank">AMD Radeon AI PRO R9700 Linux Performance For Single &amp; Dual GPU Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/rag-with-spring-mongo-open-ai/en/headerimage/rag-with-spring-mongo-open-ai-header-1761292137478.jpg" alt="Article: Building a RAG Application with Spring Boot, Spring AI, MongoDB Atlas Vector Search, and OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -199,29 +218,38 @@
                 <span class="time">2025-10-27 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/localization-testing" target="_blank">Global-ready from day one</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-27 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/community-strikes-back-with-forks/" target="_blank">Community Strikes Back: 12 Open Source Projects Born from Resistance</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-10-27 07:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Messenger.png?fit=1576%2C843&amp;quality=55&amp;ssl=1" alt="Messenger is the coolest browser game I&#x27;ve ever played" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/27/messenger-is-the-coolest-browser-game-ive-ever-played.html" target="_blank">Messenger is the coolest browser game I&#x27;ve ever played</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8J7M3AJ3Z79HPHP9H5JFJ0E/hero-image.png" alt="This Subscription-Free Eufy Outdoor Security Camera Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eufy-solocam-s340-security-camera-sale?utm_medium=RSS" target="_blank">This Subscription-Free Eufy Outdoor Security Camera Is Over $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/1S44P9z3Sv5ugIj3uERGuLbkNkBR_sKX.jpg" alt="Lectric eBikes Slash Prices for the Holidays, Perfect Gifts That Practically Pay for Themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lectric-ebikes-slash-prices-for-the-holidays-perfect-gifts-that-practically-pay-for-themselves-2000672938" target="_blank">Lectric eBikes Slash Prices for the Holidays, Perfect Gifts That Practically Pay for Themselves</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-27 12:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/backrooms.jpg?fit=1200%2C522&amp;quality=60&amp;ssl=1" alt="Researchers create AI for infinite soulless 3D worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,33 +275,6 @@
                 <span class="title"><a href="https://kotaku.com/new-ecoflow-delta-3-goes-for-peanuts-amazon-clears-out-4-7-rated-portable-power-station-2000639124" target="_blank">New EcoFlow Delta 3 Goes for Peanuts, Amazon Clears Out 4.7-Rated Portable Power Station</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-26 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Internxt-Cloud-Storage.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Take control of your data with 20TB of cloud storage for 90% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/26/take-control-of-your-data-with-20tb-of-cloud-storage-for-90-off.html" target="_blank">Take control of your data with 20TB of cloud storage for 90% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-26 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/baseus-100w-1280x853.jpg" alt="Anker Rival Baseus 100W USB-C Charger Now Selling for Pennies on the Dollar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-rival-baseus-100w-usb-c-charger-now-selling-for-pennies-on-the-dollar-2000639113" target="_blank">Anker Rival Baseus 100W USB-C Charger Now Selling for Pennies on the Dollar</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-26 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/pt-demo-1280x853.jpg" alt="Hideo Kojima’s ‘P.T.’ Demo is Helping Japanese Kids Learn English" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hideo-kojimas-p-t-demo-is-helping-japanese-kids-learn-english-2000677223" target="_blank">Hideo Kojima’s ‘P.T.’ Demo is Helping Japanese Kids Learn English</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-26 20:15</span>
             </div>
         </div>
 </div>
@@ -313,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
