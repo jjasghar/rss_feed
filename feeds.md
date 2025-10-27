@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 19:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 20:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/hurricane-melissa-satellite-ht-jef-251027_1761567206714_hpMain_4x3t_384.jpg" alt="Hurricane Melissa path: Where and when Melissa will make landfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/hurricane-melissa-path-track-category-5-storm/story?id=126893988" target="_blank">Hurricane Melissa path: Where and when Melissa will make landfall</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-27 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/27/jamaica-readies-for-catastrophic-hazards-from-hurricane-melissa?traffic_source=rss" target="_blank">Jamaica readies for ‘catastrophic’ hazards from Hurricane Melissa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8721/live/02b294f0-b357-11f0-ba75-093eca1ac29b.jpg" alt="Jamaica in path of &#x27;life-threatening&#x27; category five Hurricane Melissa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss" target="_blank">Jamaica in path of &#x27;life-threatening&#x27; category five Hurricane Melissa</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-27 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae3b/live/43b5cf30-b366-11f0-aa13-0b0479f6f42a.png" alt="Migrant sex offender released due to human error, Lammy tells MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq503p7yjypo?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender released due to human error, Lammy tells MPs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-27 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/27/nx-s1-5587665/el-fasher-darfur-sudan-genocide" target="_blank">&#x27;Trapped and terrified&#x27;: warnings as Sudanese militia advance on Darfur city</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-27 18:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/melissa-6-rt-gmh-251027_1761582159493_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Jamaica braces for worst storm in its history" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -57,56 +104,20 @@
                 <span class="time">2025-10-27 17:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d5/live/57e311e0-b350-11f0-ba75-093eca1ac29b.jpg" alt="Alleged McCann stalker &#x27;still questions who she is&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj0emv1r33do?at_medium=RSS&at_campaign=rss" target="_blank">Alleged McCann stalker &#x27;still questions who she is&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-27 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/10/27/donald-trump-won-in-argentina?traffic_source=rss" target="_blank">Donald Trump won in Argentina</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/27/g-s1-95210/ireland-catherine-connolly-president-gaza" target="_blank">Ireland&#x27;s president-elect is a left-wing, anti-establishment figure who is outspoken on Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-27 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/putin-meets-top-north-korean-diplomat-says-ties-developing-as-planned?traffic_source=rss" target="_blank">Putin meets top North Korean diplomat, says ties developing as planned</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/road-out-of-el-fasher-ransom-violence-and-the-price-of-survival-in-sudan?traffic_source=rss" target="_blank">Road out of el-Fasher: Ransom, violence and the price of survival in Sudan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ffc53f4e6d80728dd90cdc/master/pass/20250201_kaf_discharge_008_srgb.jpg" alt="Man Has Pig Kidney Removed After Living With It for a Record 9 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/man-has-pig-kidney-removed-after-living-with-it-for-a-record-9-months/" target="_blank">Man Has Pig Kidney Removed After Living With It for a Record 9 Months</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-27 19:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +163,20 @@
                 <span class="time">2025-10-27 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/1000x1000-500x500.jpg" alt="Melissa set to be the strongest hurricane to ever strike Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/melissa-set-to-be-the-strongest-hurricane-to-ever-strike-jamaica/" target="_blank">Melissa set to be the strongest hurricane to ever strike Jamaica</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-27 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F717whlnmzld0zbw0b93m.png" alt="Angular&#x27;s Testing Revolution: Vitest, Fake Timers &amp; Testronaut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rainerhahnekamp/angulars-testing-revolution-vitest-fake-timers-testronaut-2bnj" target="_blank">Angular&#x27;s Testing Revolution: Vitest, Fake Timers &amp; Testronaut</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 19:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +222,6 @@
                 <span class="time">2025-10-27 16:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.claude.com/claude-for-excel" target="_blank">Claude for Excel</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-27 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +251,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/waistmeasurement-1280x853.jpg" alt="Skinny Is the New Fat: Plenty of People Have ‘Normal’ BMI but Hidden Obesity, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/skinny-is-the-new-fat-plenty-of-people-have-normal-bmi-but-hidden-obesity-study-finds-2000677510" target="_blank">Skinny Is the New Fat: Plenty of People Have ‘Normal’ BMI but Hidden Obesity, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-27 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/disne-1280x720.jpg" alt="No, Disney Parks Aren’t Removing Villain Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disney-parks-removing-villain-characters-evil-queen-real-true-rumors-debunked-2000639339" target="_blank">No, Disney Parks Aren’t Removing Villain Characters</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8KEGGPX565ZPK5W6JEM6D2W/hero-image.webp" alt="Threads Now Has Self-Deleting &#x27;Ghost Posts&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/threads-now-has-self-deleting-posts?utm_medium=RSS" target="_blank">Threads Now Has Self-Deleting &#x27;Ghost Posts&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-27 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/StarWarsNewHope-2-1280x853.jpg" alt="‘Star Wars’ Is Coming to IMAX in 2027, but Will Han Shoot First?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -273,33 +302,6 @@
                 <span class="title"><a href="https://kotaku.com/costcos-1-year-membership-now-comes-with-a-digital-shop-card-that-almost-covers-the-cost-making-it-basically-free-2000639092" target="_blank">Costco’s 1-Year Membership Now Comes With a Digital Shop Card That Almost Covers the Cost, Making It Basically Free</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-27 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/hp-laptop-1280x853.jpg" alt="HP Drops Another Bestseller, 15.6″ Laptop (32GB RAM, 1TB SSD) Now Over 70% Off and Preloaded With Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-drops-another-bestseller-15-6%e2%80%b3-laptop-32gb-ram-1tb-ssd-now-over-70-off-and-preloaded-with-windows-11-pro-2000638657" target="_blank">HP Drops Another Bestseller, 15.6″ Laptop (32GB RAM, 1TB SSD) Now Over 70% Off and Preloaded With Windows 11 Pro</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/it-welcome-to-derry-episode-1-ending-lily-1280x853.jpg" alt="‘Welcome to Derry’ Creators Reveal Why They Went for That Shocking Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-episode-1-ending-explained-lily-ronnie-baby-2000677493" target="_blank">‘Welcome to Derry’ Creators Reveal Why They Went for That Shocking Ending</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-27 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/duck.jpg?fit=1200%2C712&amp;quality=60&amp;ssl=1" alt="How to cook duck with as much collateral damage as possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/27/how-to-cook-duck-with-as-much-collateral-damage-as-possible.html" target="_blank">How to cook duck with as much collateral damage as possible</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-27 15:15</span>
             </div>
         </div>
 </div>
@@ -339,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
