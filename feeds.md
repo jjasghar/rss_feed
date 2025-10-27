@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 18:02:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-27 19:01:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +111,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale" target="_blank">The last-gen Kindle is a steal at just $65 refurbished</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-27 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/" target="_blank">COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-27 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/789188/beats-powerbeats-pro-2-workout-earbuds-deal-sale" target="_blank">Beats’ Powerbeats Pro 2 are nearly matching their best price to date</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-27 17:00</span>
@@ -134,29 +161,29 @@
                 <span class="time">2025-10-27 15:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/27/the-2025-startup-battlefield-top-20-are-here-let-the-competition-begin/" target="_blank">The 2025 Startup Battlefield Top 20 are here. Let the competition begin.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/806949/ps5-ps-plus-premium-console-bundle-deal-sale" target="_blank">The PS5 bundle that includes two years of PS Plus Premium is $170 off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-27 14:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Goes-Reproducible" target="_blank">FreeBSD Celebrates The Milestone Of Reproducible Builds &amp; No Root Needed</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-27 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18716151&w=600" alt="Mastering Fluent Bit: Top Tip Using Telemetry Pipeline Parsers for Developers (Part 8)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/telemetry-pipeline-parsers-for-developers" target="_blank">Mastering Fluent Bit: Top Tip Using Telemetry Pipeline Parsers for Developers (Part 8)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-27 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,27 +215,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf" target="_blank">Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]</a></span>
+                <span class="title"><a href="https://www.claude.com/claude-for-excel" target="_blank">Claude for Excel</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-10-27 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-On-AMD-EPYC-Turin" target="_blank">AMD EPYC 9965 &quot;Turin&quot; 2P Performance Seeing Some Gains On Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/" target="_blank">AI agents will succeed because one tool is better than ten</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-27 14:00</span>
+                <span class="time">2025-10-27 16:09</span>
             </div>
         </div>
 </div>
@@ -239,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/StarWarsNewHope-2-1280x853.jpg" alt="‘Star Wars’ Is Coming to IMAX in 2027, but Will Han Shoot First?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-50th-anniversary-imax-original-cut-restoration-2000677535" target="_blank">‘Star Wars’ Is Coming to IMAX in 2027, but Will Han Shoot First?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-27 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8KBA02F26MD9KQBQYVQT2BR/hero-image.jpg" alt="Apple Maps Might Be Getting Ads Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-maps-might-be-getting-ads-next-year?utm_medium=RSS" target="_blank">Apple Maps Might Be Getting Ads Next Year</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-27 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Costco-1280x855.jpg" alt="Costco’s 1-Year Membership Now Comes With a Digital Shop Card That Almost Covers the Cost, Making It Basically Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/27/how-to-cook-duck-with-as-much-collateral-damage-as-possible.html" target="_blank">How to cook duck with as much collateral damage as possible</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-27 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Lenovo-11.6-3.jpg?fit=1900%2C1427&amp;quality=60&amp;ssl=1" alt="Here&#x27;s how to get a 2-in-1 laptop and tablet for 84% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/27/heres-how-to-get-a-2-in-1-laptop-and-tablet-for-84-off.html" target="_blank">Here&#x27;s how to get a 2-in-1 laptop and tablet for 84% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/MacBook-Air-M4-Blue-Color-2-1280x853.jpg" alt="The Next MacBook Air Might Have a Big Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/m5-macbook-may-have-big-problem-2000677459" target="_blank">The Next MacBook Air Might Have a Big Problem</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-27 14:58</span>
             </div>
         </div>
 </div>
@@ -330,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
