@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 02:31:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 03:26:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 03:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +117,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/" target="_blank">Accel and Prosus team up to back early-stage Indian startups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-26 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/26/ads-might-be-coming-to-apple-maps-next-year/" target="_blank">Ads might be coming to Apple Maps next year</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-26 19:38</span>
@@ -148,20 +167,20 @@
                 <span class="time">2025-10-26 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a91d240ff15a77d5c4a427/master/pass/Which%20GoPro%20Hero%20Camera%20Should%20You%20Buy_.png" alt="Best GoPro Camera (2025): Compact, Budget, Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gopro-hero-camera/" target="_blank">Best GoPro Camera (2025): Compact, Budget, Accessories</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-26 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Floating Mini Panel Gains New Vertical Orientation Option" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/floating-mini-panel-vertical-mode" target="_blank">Floating Mini Panel Gains New Vertical Orientation Option</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-27 02:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr3f44xunua02laa6y1nf.webp" alt="Como Construí uma Calculadora de Horas e Por Que Todo Freelancer Precisa de Uma" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +224,6 @@
                 <span class="title"><a href="https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/" target="_blank">Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-26 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/dvir-biton/MyraOS" target="_blank">Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-26 20:43</span>
             </div>
         </div>
 </div>
@@ -303,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 03:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
