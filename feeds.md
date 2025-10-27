@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 22:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 23:01:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/27/magnitude-6-1-earthquake-strikes-western-turkiye?traffic_source=rss" target="_blank">Magnitude 6.1 earthquake strikes western Turkiye</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 22:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c553/live/2eb44630-b374-11f0-b2a1-6f537f66f9aa.jpg" alt="Prince Andrew hosted Epstein, Maxwell and Weinstein at Royal Lodge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/oct/27/alassane-ouattara-wins-landslide-fourth-term-as-ivory-coasts-president" target="_blank">Alassane Ouattara wins landslide fourth term as Ivory Coast’s president</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-10-27 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/27/jamaica-readies-for-catastrophic-hazards-from-hurricane-melissa?traffic_source=rss" target="_blank">Jamaica readies for ‘catastrophic’ hazards from Hurricane Melissa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 19:18</span>
             </div>
         </div>
 </div>
@@ -247,6 +247,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/beats-pill-black-1280x853.jpg" alt="Beats Pill Selling for Pennies, Amazon Liquidates the Iconic Bluetooth Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/beats-pill-selling-for-pennies-amazon-liquidates-the-iconic-bluetooth-speaker-2000639295" target="_blank">Beats Pill Selling for Pennies, Amazon Liquidates the Iconic Bluetooth Speaker</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106-1024x683.jpg" alt="OpenAI Data Shows Hundreds of Thousands of Users Display Signs of Mental Health Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-data-shows-hundreds-of-thousands-of-users-display-signs-of-mental-health-challenges-2000677589" target="_blank">OpenAI Data Shows Hundreds of Thousands of Users Display Signs of Mental Health Challenges</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-27 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/02/180700c4c018ae976ce6a9119c00f35e-1280x720.jpg" alt="Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -280,24 +298,6 @@
                 <span class="title"><a href="https://gizmodo.com/skinny-is-the-new-fat-plenty-of-people-have-normal-bmi-but-hidden-obesity-study-finds-2000677510" target="_blank">Skinny Is the New Fat: Plenty of People Have ‘Normal’ BMI but Hidden Obesity, Study Finds</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-27 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/disne-1280x720.jpg" alt="No, Disney Parks Aren’t Removing Villain Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/disney-parks-removing-villain-characters-evil-queen-real-true-rumors-debunked-2000639339" target="_blank">No, Disney Parks Aren’t Removing Villain Characters</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8KEGGPX565ZPK5W6JEM6D2W/hero-image.webp" alt="Threads Now Has Self-Deleting &#x27;Ghost Posts&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/threads-now-has-self-deleting-posts?utm_medium=RSS" target="_blank">Threads Now Has Self-Deleting &#x27;Ghost Posts&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-27 19:30</span>
             </div>
         </div>
 </div>
@@ -355,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
