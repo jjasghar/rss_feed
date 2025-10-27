@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 08:02:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 09:02:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/why-riek-machars-trial-brings-existentially-high-stakes-for-south-sudan?traffic_source=rss" target="_blank">Why Riek Machar’s trial brings ‘existentially high’ stakes for South Sudan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 08:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bcd/live/40e727d0-b303-11f0-b2a1-6f537f66f9aa.jpg" alt="International troops won&#x27;t want to enforce Gaza peace, says King of Jordan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,28 +89,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/27/us-china-hail-progress-in-trade-talks-as-trump-and-xi-set-to-weigh-deal?traffic_source=rss" target="_blank">US, China hail progress in trade talks as Trump and Xi set to weigh deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 02:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/GettyImages-2185205595_1761523266380_hpMain_4x3t_384.jpg" alt="Navy helicopter, fighter jet both go down in South China Sea: Navy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/navy-helicopter-fighter-jet-south-china-sea-navy/story?id=126884335" target="_blank">Navy helicopter, fighter jet both go down in South China Sea: Navy</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-27 01:21</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/27/g-s1-95158/milei-triumphs-argentine-midterm-elections" target="_blank">Milei triumphs in Argentine midterm elections closely watched by Washington</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-27 05:07</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/mileis-party-wins-big-in-argentina-midterm-elections-early-results-show?traffic_source=rss" target="_blank">Milei’s party wins big in high-stakes Argentina polls, early results show</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/27/us-china-hail-progress-in-trade-talks-as-trump-and-xi-set-to-weigh-deal?traffic_source=rss" target="_blank">US, China hail progress in trade talks as Trump and Xi set to weigh deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 01:18</span>
+                <span class="time">2025-10-27 02:45</span>
             </div>
         </div>
 </div>
@@ -104,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68fbfd7f131861cc7f65b812/master/pass/Chatbots-Pushing-Russian-Sanctioned-Propaganda-Business.jpg" alt="Chatbots Are Pushing Sanctioned Russian Propaganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/" target="_blank">Chatbots Are Pushing Sanctioned Russian Propaganda</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-27 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +163,20 @@
                 <span class="time">2025-10-26 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/" target="_blank">Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-26 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pascal_cescato_692b7a8a20/agentkit-how-efficient-laziness-fixes-fragile-llm-workflows-3291" target="_blank">AgentKit: How Efficient Laziness Fixes Fragile LLM Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 08:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/udara_dananjaya/complete-guide-automating-deployment-with-github-webhooks-nginx-and-shell-scripts-gp0" target="_blank">Complete Guide: Automating Deployment with GitHub Webhooks, Nginx, and Shell Scripts</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-27 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4n54" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 04:02</span>
             </div>
         </div>
 </div>
@@ -313,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
