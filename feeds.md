@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 06:02:55 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-27 07:02:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 06:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +58,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/corruption-mismanagement-in-spotlight-as-iran-dissolves-major-private-bank?traffic_source=rss" target="_blank">Corruption, mismanagement in spotlight as Iran dissolves major private bank</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-27 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d4/live/967717f0-b2fe-11f0-acc3-1d368c3eeffb.jpg" alt="Home Office squandered billions on asylum hotels, MPs say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr43ww32xx0o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office squandered billions on asylum hotels, MPs say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-27 05:13</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +103,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/treasury-secretary-says-u-s-and-china-agree-to-a-trade-deal-framework-250661445557" target="_blank">Treasury Secretary says U.S. and China agree to a trade deal &#x27;framework&#x27;</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-26 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586746/california-gray-wolf-livestock-attacks-euthanized-cattle" target="_blank">California euthanizes 4 gray wolves after &#x27;unprecedented&#x27; surge in livestock kills</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-26 22:37</span>
             </div>
         </div>
 </div>
@@ -163,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkqhrc5dxjfk6dullbvu.png" alt="Assistant0 - Secure AI Personal Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/async_dime/assistant0-secure-ai-personal-assistant-l11" target="_blank">Assistant0 - Secure AI Personal Assistant</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 06:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +221,6 @@
                 <span class="title"><a href="https://github.com/microsoft/vscode/issues/272155" target="_blank">Severe performance penalty found in VSCode rendering loop</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-27 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Floating Mini Panel Gains New Vertical Orientation Option" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/floating-mini-panel-vertical-mode" target="_blank">Floating Mini Panel Gains New Vertical Orientation Option</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-27 02:36</span>
             </div>
         </div>
 </div>
@@ -303,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
