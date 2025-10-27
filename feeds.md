@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 13:10:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-27 14:01:55 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/27/cameroon-paul-biya-oldest-serving-head-of-state-declared-winner-in-election" target="_blank">World’s oldest serving head of state declared winner in Cameroon election</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-27 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761565859402_tdy_news_7a_peter_trump_china_deal_251027_1920x1080-pzrx8z.jpg" alt="US, China Agree to Trade Deal &#x27;Framework:&#x27; Treasury Secretary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/treasury-secretary-says-100-tariff-on-china-is-now-off-the-table-250685509693" target="_blank">US, China Agree to Trade Deal &#x27;Framework:&#x27; Treasury Secretary</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-27 11:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +95,20 @@
                 <span class="time">2025-10-27 09:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/27/g-s1-95164/melissa-category-5-hurricane" target="_blank">Melissa strengthens to a Category 5 hurricane as it nears Jamaica</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-27 09:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/mali-shuts-schools-as-fuel-blockade-imposed-by-fighters-paralyses-country?traffic_source=rss" target="_blank">Mali shuts schools as fuel blockade imposed by fighters paralyses country</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 08:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/683f7e7e3188facfa0309eda/master/pass/Update-%20Best%20Gifts%20for%20Coworkers_.png" alt="17 Thoughtful Gifts for Coworkers They&#x27;ll Appreciate in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-coworkers/" target="_blank">17 Thoughtful Gifts for Coworkers They&#x27;ll Appreciate in 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +154,20 @@
                 <span class="time">2025-10-27 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fbfd7f131861cc7f65b812/master/pass/Chatbots-Pushing-Russian-Sanctioned-Propaganda-Business.jpg" alt="Chatbots Are Pushing Sanctioned Russian Propaganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/" target="_blank">Chatbots Are Pushing Sanctioned Russian Propaganda</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-27 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mehwish_malik_4f29ff7fb04/from-devops-to-data-ethics-why-every-engineer-needs-gdpr-training-3g0b" target="_blank">From DevOps to Data Ethics: Why Every Engineer Needs GDPR Training</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 13:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18712480&w=600" alt="Enterprise-Grade Document Intelligence: Cloud Big Data AI With YOLOv9 and Spark on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,20 +213,38 @@
                 <span class="time">2025-10-27 09:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pascal_cescato_692b7a8a20/agentkit-how-efficient-laziness-fixes-fragile-llm-workflows-3291" target="_blank">AgentKit: How Efficient Laziness Fixes Fragile LLM Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 08:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Emiru2.jpg" alt="Emiru Calls Assault Investigation A ‘Huge Mess’ As Twitch Admits ‘We Failed’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/emiru-twitch-dan-clancy-assault-safety-investigation-2000639234" target="_blank">Emiru Calls Assault Investigation A ‘Huge Mess’ As Twitch Admits ‘We Failed’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/airline-seat-window-1280x853.jpg" alt="Flying Is Safe Thanks to Data and Cooperation—What the AI Industry Could Learn From Airlines on Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/flying-is-safe-thanks-to-data-and-cooperation-what-the-ai-industry-could-learn-from-airlines-on-safety-2000677427" target="_blank">Flying Is Safe Thanks to Data and Cooperation—What the AI Industry Could Learn From Airlines on Safety</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-27 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Xbox-Game-Pass-Ultimate-e1759850321837.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Microsoft sends Halo to PlayStation after losing hardware war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/27/microsoft-sends-halo-to-playstation-after-losing-hardware-war.html" target="_blank">Microsoft sends Halo to PlayStation after losing hardware war</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-27 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Messenger.png?fit=1576%2C843&amp;quality=55&amp;ssl=1" alt="Messenger is the coolest browser game I&#x27;ve ever played" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,33 +270,6 @@
                 <span class="title"><a href="https://gizmodo.com/lectric-ebikes-slash-prices-for-the-holidays-perfect-gifts-that-practically-pay-for-themselves-2000672938" target="_blank">Lectric eBikes Slash Prices for the Holidays, Perfect Gifts That Practically Pay for Themselves</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-27 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/backrooms.jpg?fit=1200%2C522&amp;quality=60&amp;ssl=1" alt="Researchers create AI for infinite soulless 3D worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/27/researchers-create-ai-for-infinite-soulless-3d-worlds.html" target="_blank">Researchers create AI for infinite soulless 3D worlds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-27 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/wildwood-hed-1280x853.jpg" alt="Laika’s Latest ‘Wildwood’ Footage Is a Technical Marvel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/laikas-latest-wildwood-footage-is-a-technical-marvel-2000677292" target="_blank">Laika’s Latest ‘Wildwood’ Footage Is a Technical Marvel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-27 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/delta-3-ecoflow-1280x853.jpg" alt="New EcoFlow Delta 3 Goes for Peanuts, Amazon Clears Out 4.7-Rated Portable Power Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-ecoflow-delta-3-goes-for-peanuts-amazon-clears-out-4-7-rated-portable-power-station-2000639124" target="_blank">New EcoFlow Delta 3 Goes for Peanuts, Amazon Clears Out 4.7-Rated Portable Power Station</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-26 21:31</span>
             </div>
         </div>
 </div>
@@ -314,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
