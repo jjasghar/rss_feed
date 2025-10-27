@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 09:02:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-27 10:02:27 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/27/g-s1-95164/melissa-category-5-hurricane" target="_blank">Melissa strengthens to a Category 5 hurricane as it nears Jamaica</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-27 09:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/mali-shuts-schools-as-fuel-blockade-imposed-by-fighters-paralyses-country?traffic_source=rss" target="_blank">Mali shuts schools as fuel blockade imposed by fighters paralyses country</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 08:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-hurricane-melissa-jamaica_7063631.png?20251027094232" alt="&#x27;Life-threatening storm&#x27; set to strike Jamaica as Hurricane Melissa strengthens to category 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/life-threatening-storm-set-to-strike-jamaica-as-hurricane-melissa-strengthens-to-category-5-13458671" target="_blank">&#x27;Life-threatening storm&#x27; set to strike Jamaica as Hurricane Melissa strengthens to category 5</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-27 08:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +101,29 @@
                 <span class="time">2025-10-27 05:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d4/live/967717f0-b2fe-11f0-acc3-1d368c3eeffb.jpg" alt="Home Office squandered billions on asylum hotels, MPs say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr43ww32xx0o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office squandered billions on asylum hotels, MPs say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-27 05:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/27/g-s1-95158/milei-triumphs-argentine-midterm-elections" target="_blank">Milei triumphs in Argentine midterm elections closely watched by Washington</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-27 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/27/us-china-hail-progress-in-trade-talks-as-trump-and-xi-set-to-weigh-deal?traffic_source=rss" target="_blank">US, China hail progress in trade talks as Trump and Xi set to weigh deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 02:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68cb465cdb9cd0e442a2080a/master/pass/neuralviz_1.gif" alt="The Future of AI Isn&#x27;t Just Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-future-of-ai-media-parody-of-the-apocalypse-guy-named-josh/" target="_blank">The Future of AI Isn&#x27;t Just Slop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-27 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/806797/samsung-family-hub-smart-fridge-ads-opt-out" target="_blank">Here’s what ads on your $2,000 Samsung smart fridge will look like</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-27 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68fbfd7f131861cc7f65b812/master/pass/Chatbots-Pushing-Russian-Sanctioned-Propaganda-Business.jpg" alt="Chatbots Are Pushing Sanctioned Russian Propaganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,24 +160,6 @@
                 <span class="time">2025-10-26 17:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/" target="_blank">TechCrunch Mobility: The ‘robot army’ argument</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-26 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/806767/you-need-to-listen-to-the-body-ive-seen-all-i-need-to-see" target="_blank">You need to listen to the brutally oppressive I’ve Seen All I Need to See</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-26 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/pascal_cescato_692b7a8a20/agentkit-how-efficient-laziness-fixes-fragile-llm-workflows-3291" target="_blank">AgentKit: How Efficient Laziness Fixes Fragile LLM Workflows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-27 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/localization-testing" target="_blank">Global-ready from day one</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-27 08:00</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/chatgpt-atlas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Launches ChatGPT Atlas, a Browser With ChatGPT Built In</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-27 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/udara_dananjaya/complete-guide-automating-deployment-with-github-webhooks-nginx-and-shell-scripts-gp0" target="_blank">Complete Guide: Automating Deployment with GitHub Webhooks, Nginx, and Shell Scripts</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 04:51</span>
             </div>
         </div>
 </div>
@@ -318,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
