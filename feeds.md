@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 00:05:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 01:29:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/mileis-party-wins-big-in-argentina-midterm-elections-early-results-show?traffic_source=rss" target="_blank">Milei’s party wins big in high-stakes Argentina polls, early results show</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761518957132_wnn_ggu_us_china_trade_deal_framework_251026_1920x1080-bb8dda.jpg" alt="Treasury Secretary says U.S. and China agree to a trade deal &#x27;framework&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/treasury-secretary-says-u-s-and-china-agree-to-a-trade-deal-framework-250661445557" target="_blank">Treasury Secretary says U.S. and China agree to a trade deal &#x27;framework&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-26 22:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/26/djibouti-lifts-presidential-age-limit-paving-way-for-sixth-guelleh-term?traffic_source=rss" target="_blank">Djibouti lifts presidential age limit, paving way for sixth Guelleh term</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-26 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586670/german-police-bust-an-art-forgery-ring-trying-to-sell-fake-picasso-rembrandt-works" target="_blank">German police bust an art forgery ring trying to sell fake Picasso, Rembrandt works</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-26 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed6/live/c792e810-b28a-11f0-aa13-0b0479f6f42a.jpg" alt="Epping migrant sex offender will be deported &#x27;this week&#x27;, says Justice Secretary Lammy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyng49vv10o?at_medium=RSS&at_campaign=rss" target="_blank">Epping migrant sex offender will be deported &#x27;this week&#x27;, says Justice Secretary Lammy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-26 16:44</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi" target="_blank">Como construí meu próprio sistema OTA (Over-the-Air Updates) para o Nutrilow com ExpressJS e Expo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3g8b" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-27 00:00</span>
@@ -183,6 +193,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/" target="_blank">Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-26 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/dvir-biton/MyraOS" target="_blank">Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-26 20:43</span>
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/fedtti/turso-a-bright-future-for-sqlite-written-from-scratch-in-rust-22ij" target="_blank">Turso, a Bright Future for SQLite Written From Scratch in Rust</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-26 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2510.18212" target="_blank">A Definition of AGI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-26 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4" target="_blank">Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-26 17:53</span>
             </div>
         </div>
 </div>
@@ -280,6 +281,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5687.png" alt="Bedroom Assignments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5687" target="_blank">Bedroom Assignments</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-27 01:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1761451058-20251026.png" alt="Saturday Morning Breakfast Cereal - Intuition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -293,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
