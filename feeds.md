@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 17:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 18:02:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/melissa-6-rt-gmh-251027_1761582159493_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Jamaica braces for worst storm in its history" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Jamaica braces for worst storm in its history</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-27 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d5/live/57e311e0-b350-11f0-ba75-093eca1ac29b.jpg" alt="Alleged McCann stalker &#x27;still questions who she is&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj0emv1r33do?at_medium=RSS&at_campaign=rss" target="_blank">Alleged McCann stalker &#x27;still questions who she is&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-27 17:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/road-out-of-el-fasher-ransom-violence-and-the-price-of-survival-in-sudan?traffic_source=rss" target="_blank">Road out of el-Fasher: Ransom, violence and the price of survival in Sudan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-27 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251027-putin-rs-21a380.jpg" alt="Is Russia&#x27;s test of a new nuclear-powered weapon actually a threat?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/russia/russia-burevestnik-missile-trump-putin-test-inappropriate-ukraine-rcna239984" target="_blank">Is Russia&#x27;s test of a new nuclear-powered weapon actually a threat?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-27 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/27/nx-s1-5536836/population-family-birth-rate-babies-europe-finland-baby-box" target="_blank">Finland&#x27;s stubbornly low birth rate shows why a population shift may be inevitable</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-27 14:00</span>
             </div>
         </div>
 </div>
@@ -276,6 +267,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/duck.jpg?fit=1200%2C712&amp;quality=60&amp;ssl=1" alt="How to cook duck with as much collateral damage as possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/27/how-to-cook-duck-with-as-much-collateral-damage-as-possible.html" target="_blank">How to cook duck with as much collateral damage as possible</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-27 15:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Lenovo-11.6-3.jpg?fit=1900%2C1427&amp;quality=60&amp;ssl=1" alt="Here&#x27;s how to get a 2-in-1 laptop and tablet for 84% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -291,15 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/m5-macbook-may-have-big-problem-2000677459" target="_blank">The Next MacBook Air Might Have a Big Problem</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-27 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-from-TEAC-tube-TV-.jpg?fit=1080%2C529&amp;quality=60&amp;ssl=1" alt="Old Teac tube TV has retrogame-style screen saver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/27/old-teac-tube-tv-has-strange-retrogame-style-screen-saver.html" target="_blank">Old Teac tube TV has retrogame-style screen saver</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-27 14:53</span>
             </div>
         </div>
 </div>
@@ -339,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
