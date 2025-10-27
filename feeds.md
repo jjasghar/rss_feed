@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 05:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 06:02:55 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/27/corruption-mismanagement-in-spotlight-as-iran-dissolves-major-private-bank?traffic_source=rss" target="_blank">Corruption, mismanagement in spotlight as Iran dissolves major private bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 05:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/26/nx-s1-5586746/california-gray-wolf-livestock-attacks-euthanized-cattle" target="_blank">California euthanizes 4 gray wolves after &#x27;unprecedented&#x27; surge in livestock kills</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-26 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff9/live/1ec54d50-b275-11f0-b2a1-6f537f66f9aa.jpg" alt="Inside Syria&#x27;s jail for IS suspects as officials say attacks by group are rising" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cze6y5x8np8o?at_medium=RSS&at_campaign=rss" target="_blank">Inside Syria&#x27;s jail for IS suspects as officials say attacks by group are rising</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-26 22:04</span>
             </div>
         </div>
 </div>
@@ -170,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-17em" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/chatgpt-atlas/en/headerimage/generatedHeaderImage-1761389748946.jpg" alt="OpenAI Launches ChatGPT Atlas, a Browser With ChatGPT Built In" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/chatgpt-atlas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Launches ChatGPT Atlas, a Browser With ChatGPT Built In</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-27 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/udara_dananjaya/complete-guide-automating-deployment-with-github-webhooks-nginx-and-shell-scripts-gp0" target="_blank">Complete Guide: Automating Deployment with GitHub Webhooks, Nginx, and Shell Scripts</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-27 04:51</span>
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/floating-mini-panel-vertical-mode" target="_blank">Floating Mini Panel Gains New Vertical Orientation Option</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-27 02:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr3f44xunua02laa6y1nf.webp" alt="Como Construí uma Calculadora de Horas e Por Que Todo Freelancer Precisa de Uma" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/james-smithh/como-construi-uma-calculadora-de-horas-e-por-que-todo-freelancer-precisa-de-uma-184p" target="_blank">Como Construí uma Calculadora de Horas e Por Que Todo Freelancer Precisa de Uma</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi" target="_blank">Como construí meu próprio sistema OTA (Over-the-Air Updates) para o Nutrilow com ExpressJS e Expo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 01:21</span>
             </div>
         </div>
 </div>
@@ -307,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
