@@ -1,44 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 03:26:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 04:07:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 35 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 03:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/27/us-china-hail-progress-in-trade-talks-as-trump-and-xi-set-to-weigh-deal?traffic_source=rss" target="_blank">US, China hail progress in trade talks as Trump and Xi set to weigh deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-27 02:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/GettyImages-2185205595_1761523266380_hpMain_4x3t_384.jpg" alt="Navy helicopter, fighter jet both go down in South China Sea: Navy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/navy-helicopter-fighter-jet-south-china-sea-navy/story?id=126884335" target="_blank">Navy helicopter, fighter jet both go down in South China Sea: Navy</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-27 01:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff9/live/1ec54d50-b275-11f0-b2a1-6f537f66f9aa.jpg" alt="Inside Syria&#x27;s jail for IS suspects as officials say attacks by group are rising" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/26/gaza-tribunal-calls-for-israeli-perpetrators-and-enablers-to-face-justice?traffic_source=rss" target="_blank">Gaza Tribunal calls for ‘Israeli perpetrators and enablers’ to face justice</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/26/two-killed-in-cameroon-protests-ahead-of-election-results-opposition-says?traffic_source=rss" target="_blank">Two killed in Cameroon protests ahead of election results, opposition says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/26/djibouti-lifts-presidential-age-limit-paving-way-for-sixth-guelleh-term?traffic_source=rss" target="_blank">Djibouti lifts presidential age limit, paving way for sixth Guelleh term</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-26 18:26</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cze6y5x8np8o?at_medium=RSS&at_campaign=rss" target="_blank">Inside Syria&#x27;s jail for IS suspects as officials say attacks by group are rising</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-26 22:04</span>
             </div>
         </div>
 </div>
@@ -173,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4n54" target="_blank">CinemaSins: Everything Wrong With Every Saw Movie EVER (That We&#x27;ve Sinned So Far)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 04:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Floating Mini Panel Gains New Vertical Orientation Option" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -217,15 +222,6 @@
                 <span class="time">2025-10-26 23:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/" target="_blank">Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-26 22:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -238,6 +234,15 @@
                 <span class="title"><a href="https://kotaku.com/new-ecoflow-delta-3-goes-for-peanuts-amazon-clears-out-4-7-rated-portable-power-station-2000639124" target="_blank">New EcoFlow Delta 3 Goes for Peanuts, Amazon Clears Out 4.7-Rated Portable Power Station</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-26 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Internxt-Cloud-Storage.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Take control of your data with 20TB of cloud storage for 90% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/26/take-control-of-your-data-with-20tb-of-cloud-storage-for-90-off.html" target="_blank">Take control of your data with 20TB of cloud storage for 90% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-26 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -276,15 +281,6 @@
                 <span class="time">2025-10-26 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/tiktokphone-1280x853.jpg" alt="Social Media Might Not Be Rotting Our Brains as Much as We Think, Twin Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/social-media-might-not-be-rotting-our-brains-as-much-as-we-think-twin-study-finds-2000675576" target="_blank">Social Media Might Not Be Rotting Our Brains as Much as We Think, Twin Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 03:26 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
