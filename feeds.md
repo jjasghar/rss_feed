@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 21:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-27 22:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, October 27, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c553/live/2eb44630-b374-11f0-b2a1-6f537f66f9aa.jpg" alt="Prince Andrew hosted Epstein, Maxwell and Weinstein at Royal Lodge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g7d39n6vgo?at_medium=RSS&at_campaign=rss" target="_blank">Prince Andrew hosted Epstein, Maxwell and Weinstein at Royal Lodge</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-27 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/27/nx-s1-5587824/confederate-statue-albert-pike-trump" target="_blank">A Confederate statue toppled in Washington, D.C., in 2020 has been reinstalled</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-27 20:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-mpox-virus-uk_7064009.jpg?20251027161418" alt="Vaccine reminder as mpox strain spreads in Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="time">2025-10-27 19:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8721/live/02b294f0-b357-11f0-ba75-093eca1ac29b.jpg" alt="Jamaica in path of &#x27;life-threatening&#x27; category five Hurricane Melissa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss" target="_blank">Jamaica in path of &#x27;life-threatening&#x27; category five Hurricane Melissa</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-27 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae3b/live/43b5cf30-b366-11f0-aa13-0b0479f6f42a.png" alt="Migrant sex offender released due to human error, Lammy tells MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq503p7yjypo?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender released due to human error, Lammy tells MPs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-27 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +109,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/" target="_blank">Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-27 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/27/waymo-co-ceo-on-robotaxi-vandalism-were-not-standing-for-it/" target="_blank">Waymo co-CEO on robotaxi vandalism: ‘We’re not standing for it’</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-27 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts" target="_blank">Spotify finally brings video podcasts and music videos to its Apple TV app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-27 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-500x500.jpg" alt="AI-powered search engines rely on “less popular” sources, researchers find" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/" target="_blank">AI-powered search engines rely on “less popular” sources, researchers find</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-27 20:18</span>
             </div>
         </div>
 <div class="story">
@@ -131,38 +159,29 @@
                 <span class="time">2025-10-27 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale" target="_blank">The last-gen Kindle is a steal at just $65 refurbished</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-27 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/" target="_blank">COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-27 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/789188/beats-powerbeats-pro-2-workout-earbuds-deal-sale" target="_blank">Beats’ Powerbeats Pro 2 are nearly matching their best price to date</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-27 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/from-seconds-to-milliseconds-fixing-python-cold-starts-with-snapstart-59mn" target="_blank">From Seconds to Milliseconds: Fixing Python Cold Starts with SnapStart</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-27 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dramforever.github.io/easyriscv/" target="_blank">Easy RISC-V: An interactive introduction to RISC-V assembly programming</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-27 20:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F717whlnmzld0zbw0b93m.png" alt="Angular&#x27;s Testing Revolution: Vitest, Fake Timers &amp; Testronaut" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,6 +189,15 @@
                 <span class="title"><a href="https://dev.to/rainerhahnekamp/angulars-testing-revolution-vitest-fake-timers-testronaut-2bnj" target="_blank">Angular&#x27;s Testing Revolution: Vitest, Fake Timers &amp; Testronaut</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-27 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18716173&w=600" alt="Writing (Slightly) Cleaner Code With Collections and Optionals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cleaner-code-with-collections-and-optionals" target="_blank">Writing (Slightly) Cleaner Code With Collections and Optionals</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-27 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/telemetry-pipeline-parsers-for-developers" target="_blank">Mastering Fluent Bit: Top Tip Using Telemetry Pipeline Parsers for Developers (Part 8)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg" target="_blank">Build and Host a Website from a Prompt Using Orchids.app</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html" target="_blank">The PSF has withdrawn a $1.5 million proposal to US government grant program</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-27 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Unity-25.10-Troubles" target="_blank">Ubuntu Unity In Need Of More Developers To Survive</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-27 16:27</span>
             </div>
         </div>
 </div>
@@ -245,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/02/180700c4c018ae976ce6a9119c00f35e-1280x720.jpg" alt="Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-making-crash-bandicoot-animated-series-talking-report-cartoon-2000639396" target="_blank">Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6A2B82HMG1K4WMF3H08330T/hero-image.png" alt="This 2-in-1 Microsoft Surface Pro 7 Is on Sale for Just $660 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-surface-pro-7-stacksocial-sale-october-2025?utm_medium=RSS" target="_blank">This 2-in-1 Microsoft Surface Pro 7 Is on Sale for Just $660 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-27 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/10/2489ccab6d4921c8b6ef0ba76d6cde5c.jpg" alt="Every Halloween Candy, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +300,20 @@
                 <span class="time">2025-10-27 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/StarWarsNewHope-2-1280x853.jpg" alt="‘Star Wars’ Is Coming to IMAX in 2027, but Will Han Shoot First?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-50th-anniversary-imax-original-cut-restoration-2000677535" target="_blank">‘Star Wars’ Is Coming to IMAX in 2027, but Will Han Shoot First?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-27 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8KBA02F26MD9KQBQYVQT2BR/hero-image.jpg" alt="Apple Maps Might Be Getting Ads Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-maps-might-be-getting-ads-next-year?utm_medium=RSS" target="_blank">Apple Maps Might Be Getting Ads Next Year</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-27 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/27/by-the-gracie-of-god" target="_blank">By The Gracie Of God</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-27 20:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1761521776-20251027 (1).png" alt="Saturday Morning Breakfast Cereal - Addition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,6 +333,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/document_forgery.png" alt="Document Forgery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3160/" target="_blank">Document Forgery</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-27 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5687.png" alt="Bedroom Assignments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -336,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
