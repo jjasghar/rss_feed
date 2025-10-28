@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 11:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 12:02:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyskwe3ffyka3xtqy0l9y.png" alt="When I send a METHOD request to &quot;endpoint&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/webshipco/when-i-send-a-method-request-to-endpoint-nme" target="_blank">When I send a METHOD request to &quot;endpoint&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 11:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18716265&w=600" alt="Unpacking MCP Security: What You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/unpacking-mcp-security-what-you-need-to-know" target="_blank">Unpacking MCP Security: What You Need to Know</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-28 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -199,24 +213,6 @@
                 <span class="time">2025-10-28 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/" target="_blank">Craft and quality beat speed and scale, with or without agents</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-28 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lostghost/distributed-applications-4p87" target="_blank">Distributed Applications</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 05:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,20 +236,29 @@
                 <span class="time">2025-10-27 15:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html" target="_blank">First Wap: A Surveillance Computer You’ve Never Heard Of</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-27 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/sunset.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;What do you live for?&quot; Share your answer on this website" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/28/what-do-you-live-for-share-your-answer-on-this-website.html" target="_blank">&quot;What do you live for?&quot; Share your answer on this website</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-28 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Best-Tech-Awards-2025-Featured-Image-1280x853.jpg" alt="Gizmodo’s Best Tech of 2025 Awards: Our Favorite Phones, Laptops, Gaming Gear, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gizmodo-best-tech-of-2025-awards-2000676084" target="_blank">Gizmodo’s Best Tech of 2025 Awards: Our Favorite Phones, Laptops, Gaming Gear, and More</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-28 11:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-written-languages-1280x853.jpg" alt="How the Written Word Evolved in ‘Star Wars’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,24 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/this-windows-11-mini-pc-sells-for-pennies-on-amazon-now-3x-cheaper-than-mac-mini-2000639301" target="_blank">This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-27 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/beats-pill-black-1280x853.jpg" alt="Beats Pill Selling for Pennies, Amazon Liquidates the Iconic Bluetooth Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/beats-pill-selling-for-pennies-amazon-liquidates-the-iconic-bluetooth-speaker-2000639295" target="_blank">Beats Pill Selling for Pennies, Amazon Liquidates the Iconic Bluetooth Speaker</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106-1024x683.jpg" alt="OpenAI Data Shows Hundreds of Thousands of Users Display Signs of Mental Health Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-data-shows-hundreds-of-thousands-of-users-display-signs-of-mental-health-challenges-2000677589" target="_blank">OpenAI Data Shows Hundreds of Thousands of Users Display Signs of Mental Health Challenges</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-27 22:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
