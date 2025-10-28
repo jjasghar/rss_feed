@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 16:02:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-28 17:01:59 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss" target="_blank">Who are the 95 Palestinian healthcare workers held captive by Israel?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-28 16:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +96,20 @@
                 <span class="time">2025-10-28 13:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e0/live/bb7a5090-b3c5-11f0-8c4c-65922189bc37.jpg" alt="Sudan&#x27;s army loses key city of el-Fasher to paramilitary RSF after 18-month siege" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyld9w0283o?at_medium=RSS&at_campaign=rss" target="_blank">Sudan&#x27;s army loses key city of el-Fasher to paramilitary RSF after 18-month siege</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-28 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-how-to-watch-vinod-khosla-netflix-slate-auto-and-startup-battlefield/" target="_blank">TechCrunch Disrupt 2025: How to watch Vinod Khosla, Netflix, Slate Auto, and Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-28 15:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +155,29 @@
                 <span class="time">2025-10-28 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/807858/zillow-messaging-feature-dms-launch" target="_blank">Zillow adds DMs so you can chat about homes you&amp;#8217;ll never buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-28 12:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/bcadf8fa-7ef1-4d60-bb81-a64472d81d6f_2000x1000.png" alt="San Francisco is back as the world’s leading tech hub" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/san-francisco-is-back" target="_blank">San Francisco is back as the world’s leading tech hub</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-10-28 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18717487&w=600" alt="Optimizing Search: A Patent-Backed Approach to Perceived Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/optimizing-search-with-patent-backed-perceived-speed" target="_blank">Optimizing Search: A Patent-Backed Approach to Perceived Speed</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-28 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18717478&w=600" alt="Production-Ready Multi-Agent Systems: From Theory to Enterprise Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +214,6 @@
                 <span class="time">2025-10-28 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/java-news-roundup-oct20-2025/en/headerimage/java-istock-image-01-1761659405617.jpg" alt="Java News Roundup: Oracle Critical Patch Update, BellSoft, Grails, Hazelcast, Langchain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/java-news-roundup-oct20-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Oracle Critical Patch Update, BellSoft, Grails, Hazelcast, Langchain4j</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-28 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-3-Vuln-Oct-2025" target="_blank">Three More X.Org Server &amp; XWayland Security Vulnerabilities Made Public</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-28 13:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/amazon-prime-video-horror-streaming-1280x853.jpg" alt="The 10 Most Unhinged Horror Titles We Found on Prime Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-10-most-unhinged-horror-titles-we-found-on-prime-video-2000677600" target="_blank">The 10 Most Unhinged Horror Titles We Found on Prime Video</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-28 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/zinelandia-cover.jpeg?fit=881%2C1200&amp;quality=60&amp;ssl=1" alt="New book documents the golden age of zine publishing from 1982 – 1998" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,20 +287,20 @@
                 <span class="time">2025-10-28 12:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/ycba_2d2f4c89-ac1f-4b9d-b43c-a642ed44a6f7-edit2.webp?fit=1200%2C799&amp;quality=55&amp;ssl=1" alt="Earth-bathing: the 18th-century doctor who believed burying yourself in dirt could heal the body" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/28/earth-bathing-the-18th-century-doctor-who-believed-burying-yourself-in-dirt-could-heal-the-body.html" target="_blank">Earth-bathing: the 18th-century doctor who believed burying yourself in dirt could heal the body</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-28 11:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/cautionary-tale/" target="_blank">Cautionary Tale</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-10-28 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1761620443-20251028.png" alt="Saturday Morning Breakfast Cereal - Screenplay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -331,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
