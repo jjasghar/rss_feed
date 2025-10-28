@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 09:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 10:02:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties" target="_blank">&#x27;Washington Post&#x27; editorials omit a key disclosure: Bezos&#x27; financial ties</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-28 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +101,20 @@
                 <span class="time">2025-10-28 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/china-asean-sign-enhanced-free-trade-pact-as-trumps-tariffs-linger?traffic_source=rss" target="_blank">China, ASEAN sign enhanced free trade pact amid Trump tariffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69000a15912f31ccdaa888cf/master/pass/Review-%20Skylight%20Smart%20Calendar%20Max.png" alt="Skylight Smart Calendar Max Review: Family Planning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/skylight-smart-calendar-max/" target="_blank">Skylight Smart Calendar Max Review: Family Planning</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-28 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,20 @@
                 <span class="time">2025-10-28 01:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied" target="_blank">Elon Musk’s Grokipedia contains copied Wikipedia pages</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-28 00:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Patches-Allow-Glibc-Clang" target="_blank">59 Patches Allow Finally Building Glibc With LLVM&#x27;s Clang Compiler</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-28 09:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +219,6 @@
                 <span class="time">2025-10-28 04:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/david_rivera_8d845b35931e/osd600-lab-6-repomixs-token-count-tree-feature-and-its-prototyping-in-rust-2a2m" target="_blank">OSD600: Lab 6 — Repomix&#x27;s token count tree feature and its prototyping in Rust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 03:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-written-languages-1280x853.jpg" alt="How the Written Word Evolved in ‘Star Wars’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-writing-font-languages-explained-2000676430" target="_blank">How the Written Word Evolved in ‘Star Wars’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/elon-1280x853.jpg" alt="Elon Musk’s Version of Wikipedia Is Live. Here’s What the Difference Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +301,6 @@
                 <span class="time">2025-10-27 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/02/180700c4c018ae976ce6a9119c00f35e-1280x720.jpg" alt="Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-making-crash-bandicoot-animated-series-talking-report-cartoon-2000639396" target="_blank">Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
