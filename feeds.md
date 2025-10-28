@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 13:10:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-28 14:01:46 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/campaigning-begins-in-military-run-myanmar-ahead-of-sham-elections?traffic_source=rss" target="_blank">Campaigning begins in military-run Myanmar ahead of ‘sham’ elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-28 13:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3be/live/f41732c0-b397-11f0-ba75-093eca1ac29b.jpg" alt="Two military sites earmarked as asylum seeker accommodation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjr0lx7n0y3o?at_medium=RSS&at_campaign=rss" target="_blank">Two military sites earmarked as asylum seeker accommodation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-28 13:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e0/live/bb7a5090-b3c5-11f0-8c4c-65922189bc37.jpg" alt="Sudan&#x27;s army loses key city of el-Fasher to paramilitary RSF after 18-month siege" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,36 +86,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/10/28/g-s1-94960/americas-immigration-crackdown-is-disrupting-the-global-remittance-market" target="_blank">America&#x27;s immigration crackdown is disrupting the global remittance market</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/28/g-s1-95325/up-first-newsletter-food-assistance-benefits-trump-japan-hurricane-melissa" target="_blank">SNAP benefits set to expire this week. And, Jamaica braces for a Category 5 storm</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Melissa-DB-251028_1761635812893_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: &#x27;Catastrophic&#x27; weather expected in Jamaica, NHC says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: &#x27;Catastrophic&#x27; weather expected in Jamaica, NHC says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-28 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/suspect-pleads-guilty-to-murdering-former-japanese-pm-abe?traffic_source=rss" target="_blank">Suspect pleads guilty to murdering former Japanese PM Abe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 09:58</span>
+                <span class="time">2025-10-28 11:10</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties" target="_blank">&#x27;Washington Post&#x27; editorials omit a key disclosure: Bezos&#x27; financial ties</a></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/10/28/g-s1-94960/americas-immigration-crackdown-is-disrupting-the-global-remittance-market" target="_blank">America&#x27;s immigration crackdown is disrupting the global remittance market</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 09:00</span>
+                <span class="time">2025-10-28 10:30</span>
             </div>
         </div>
 </div>
@@ -108,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687821298737a6ea217333bf/master/pass/The%20Best%20Music%20Streaming%20Services%20to%20Get%20Your%20Groove%20On.png" alt="4 Best Music Streaming Services (2025): Spotify, Apple Music, and More Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-music-streaming-apps/" target="_blank">4 Best Music Streaming Services (2025): Spotify, Apple Music, and More Compared</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-day-2/" target="_blank">TechCrunch Disrupt 2025: Day 2</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-28 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,6 +142,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2185840924-500x500.jpg" alt="Trump’s UCLA deal: Pay us $1B+, and we can still cut your grants again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/trumps-ucla-deal-pay-us-1b-and-we-can-still-cut-your-grants-again/" target="_blank">Trump’s UCLA deal: Pay us $1B+, and we can still cut your grants again</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-28 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68f2d44889fd0a7e7062ae7c/master/pass/Big-Interview-UV-Solo-Nick-Thompson-Business-2183750049.jpg" alt="Why Nicholas Thompson Made a Custom GPT to Run Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -135,38 +159,20 @@
                 <span class="time">2025-10-28 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69000a15912f31ccdaa888cf/master/pass/Review-%20Skylight%20Smart%20Calendar%20Max.png" alt="Skylight Smart Calendar Max Review: Family Planning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/skylight-smart-calendar-max/" target="_blank">Skylight Smart Calendar Max Review: Family Planning</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-28 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look" target="_blank">First look: DJI’s Romo robot vacuum</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-28 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/" target="_blank">OpenAI offers free ChatGPT Go for one year to all users in India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-28 06:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/java-news-roundup-oct20-2025/en/headerimage/java-istock-image-01-1761659405617.jpg" alt="Java News Roundup: Oracle Critical Patch Update, BellSoft, Grails, Hazelcast, Langchain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/java-news-roundup-oct20-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Oracle Critical Patch Update, BellSoft, Grails, Hazelcast, Langchain4j</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-28 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuxfrnpwfxioj453h6si.png" alt="FlashVSR: Real-Time Video Super-Resolution Made Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2025-10-28 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Release-Day" target="_blank">Fedora Linux 43 Now Available For Download</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-28 10:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/SamsungGalaxyTags-1280x853.jpg" alt="Forget AirTags, Samsung’s SmartTag 2 (4-Pack) Goes for Peanuts Per Tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/these-samsung-bluetooth-trackers-make-for-wonderful-stocking-stuffers-at-just-16-per-smarttag2-2000639338" target="_blank">Forget AirTags, Samsung’s SmartTag 2 (4-Pack) Goes for Peanuts Per Tracker</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-28 13:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Talamasca_Schwartzman-1280x853.jpg" alt="How ‘Talamasca: The Secret Order’ Made Jason Schwartzman’s Character an ‘Unexpected Vampire’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +300,6 @@
                 <span class="time">2025-10-28 11:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-written-languages-1280x853.jpg" alt="How the Written Word Evolved in ‘Star Wars’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-writing-font-languages-explained-2000676430" target="_blank">How the Written Word Evolved in ‘Star Wars’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-28 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
