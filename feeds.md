@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 05:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 06:02:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/28/live-israeli-attack-kills-2-in-gaza-as-hamas-returns-body-of-captive?traffic_source=rss" target="_blank">LIVE: Israeli attack kills 2 in Gaza as Hamas returns body of captive</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-28 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/oct/28/uk-military-equipment-rapid-support-forces-rsf-militia-accused-genocide-found-sudan-united-nations" target="_blank">UK military equipment used by militia accused of genocide found in Sudan, UN told</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-28 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/27/nx-s1-5587928/hurricane-melissa-jamaica-cuba-category-5" target="_blank">Why Hurricane Melissa&#x27;s intensity and slow-moving speed are a recipe for disaster</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-28 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251027-boarder-control-gk-bbfa3c.jpg" alt="Trump plans to install Border Patrol officials to lead a more aggressive migrant crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/immigration/trump-plans-install-border-patrol-officials-lead-aggressive-migrant-cr-rcna240102" target="_blank">Trump plans to install Border Patrol officials to lead a more aggressive migrant crackdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-27 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/27/magnitude-6-1-earthquake-strikes-western-turkiye?traffic_source=rss" target="_blank">Magnitude 6.1 earthquake strikes western Turkiye</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-27 22:28</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/" target="_blank">Craft and quality beat speed and scale, with or without agents</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-28 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lostghost/distributed-applications-4p87" target="_blank">Distributed Applications</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 05:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6lsksxrvnmvriycfatxd.jpg" alt="I Tried This New AI Art Generator… The Results Left Me Speechless!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-206g" target="_blank">Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-28 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/from-seconds-to-milliseconds-fixing-python-cold-starts-with-snapstart-59mn" target="_blank">From Seconds to Milliseconds: Fixing Python Cold Starts with SnapStart</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-27 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dramforever.github.io/easyriscv/" target="_blank">Easy RISC-V</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-27 20:57</span>
             </div>
         </div>
 </div>
@@ -346,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
