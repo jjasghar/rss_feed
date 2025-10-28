@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 15:01:52 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-28 16:02:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5581399/shein-fashion-paris-french-reaction" target="_blank">Shein is opening a store in Paris. Many French are saying &#x27;non&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-28 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761663612123_now_brk_cat5_melissa_jamaica_251028_1920x1080-ap6xjq.jpg" alt="‘Little that can stop a Category 5:’ Jamaican officials warn to seek shelter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/-little-that-can-stop-a-category-5-jamaican-officials-warn-to-seek-shelter-250777669817" target="_blank">‘Little that can stop a Category 5:’ Jamaican officials warn to seek shelter</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-28 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df88/live/3e9888c0-b407-11f0-a6f4-9daf525f5af5.jpg" alt="US kills 14 in strikes on four alleged drug boats in Pacific" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +103,38 @@
                 <span class="time">2025-10-28 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/28/mass-killings-reported-el-fasher-sudan-paramilitary-group-rapid-support-forces" target="_blank">Mass killings reported in Sudanese city seized by paramilitary group</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-28 12:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761650238385_tdy_news_7a_solis_hurricane_melissa_looms_251028_1920x1080-i3ajnb.jpg" alt="Hurricane Melissa: TODAY&#x27;s Al Roker Tracks the Category 5 Storm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/hurricane-melissa-inches-toward-catastrophic-landfall-in-jamaica-250763845633" target="_blank">Hurricane Melissa: TODAY&#x27;s Al Roker Tracks the Category 5 Storm</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-28 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/807957/msi-mag271qp-x28-oled-monitor-razer-kishi-ultra-deal-sale" target="_blank">MSI&amp;#8217;s QD-OLED gaming monitor is very fast and $130 off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-28 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6900e1b7e23b1e54ef10eb45/master/pass/GettyImages-2243296389.jpg" alt="Hurricane Melissa Has Meteorologists Terrified" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hurricane-melissa-has-meteorologists-terrified/" target="_blank">Hurricane Melissa Has Meteorologists Terrified</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-28 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/AMD-mendocino-500x500.jpg" alt="AMD shores up its budget laptop CPUs by renaming more years-old silicon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/" target="_blank">AMD shores up its budget laptop CPUs by renaming more years-old silicon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-28 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687821298737a6ea217333bf/master/pass/The%20Best%20Music%20Streaming%20Services%20to%20Get%20Your%20Groove%20On.png" alt="4 Best Music Streaming Services (2025): Spotify, Apple Music, and More Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +162,29 @@
                 <span class="time">2025-10-28 12:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/" target="_blank">Adobe Firefly Image 5 brings support for layers, will let creators make custom models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2185840924-500x500.jpg" alt="Trump’s UCLA deal: Pay us $1B+, and we can still cut your grants again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/trumps-ucla-deal-pay-us-1b-and-we-can-still-cut-your-grants-again/" target="_blank">Trump’s UCLA deal: Pay us $1B+, and we can still cut your grants again</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-28 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f2d44889fd0a7e7062ae7c/master/pass/Big-Interview-UV-Solo-Nick-Thompson-Business-2183750049.jpg" alt="Why Nicholas Thompson Made a Custom GPT to Run Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-nicholas-thompson/" target="_blank">Why Nicholas Thompson Made a Custom GPT to Run Faster</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-28 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18717478&w=600" alt="Production-Ready Multi-Agent Systems: From Theory to Enterprise Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-production-ready-multi-agent-systems" target="_blank">Production-Ready Multi-Agent Systems: From Theory to Enterprise Deployment</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://eurollm.io/" target="_blank">EuroLLM: LLM made in Europe built to support all 24 official EU languages</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-28 14:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkppxboei37znk0c6b7jo.png" alt="From job offer to malware: developers, be cautious!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +221,6 @@
                 <span class="time">2025-10-28 13:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/7mind/sick" target="_blank">Sick: Indexed deduplicated binary storage for JSON-like data structures</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-28 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuxfrnpwfxioj453h6si.png" alt="FlashVSR: Real-Time Video Super-Resolution Made Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/localfaceswap/flashvsr-real-time-video-super-resolution-made-simple-2fjc" target="_blank">FlashVSR: Real-Time Video Super-Resolution Made Simple</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,20 +235,20 @@
                 <span class="time">2025-10-28 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html" target="_blank">Louvre Jewel Heist</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-27 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/zinelandia-cover.jpeg?fit=881%2C1200&amp;quality=60&amp;ssl=1" alt="New book documents the golden age of zine publishing from 1982 – 1998" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/28/new-book-documents-the-golden-age-of-zine-publishing-from-1982-1998.html" target="_blank">New book documents the golden age of zine publishing from 1982 – 1998</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-28 15:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Fionna-and-cake-int-AM-1280x853.jpg" alt="How ‘Fionna and Cake’ Reflects the Legacy of ‘Adventure Time’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,20 +294,20 @@
                 <span class="time">2025-10-28 11:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/sunset.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;What do you live for?&quot; Share your answer on this website" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/28/what-do-you-live-for-share-your-answer-on-this-website.html" target="_blank">&quot;What do you live for?&quot; Share your answer on this website</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-28 11:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1761620443-20251028.png" alt="Saturday Morning Breakfast Cereal - Screenplay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/screenplay" target="_blank">Saturday Morning Breakfast Cereal - Screenplay</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-28 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5688.png" alt="Flashback OVER" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,22 +326,13 @@
                 <span class="time">2025-10-27 20:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1761521776-20251027 (1).png" alt="Saturday Morning Breakfast Cereal - Addition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/addition" target="_blank">Saturday Morning Breakfast Cereal - Addition</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-27 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
