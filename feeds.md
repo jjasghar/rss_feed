@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 14:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 15:01:52 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df88/live/3e9888c0-b407-11f0-a6f4-9daf525f5af5.jpg" alt="US kills 14 in strikes on four alleged drug boats in Pacific" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0ex94eeljeo?at_medium=RSS&at_campaign=rss" target="_blank">US kills 14 in strikes on four alleged drug boats in Pacific</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-28 14:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761650238385_tdy_news_7a_solis_hurricane_melissa_looms_251028_1920x1080-i3ajnb.jpg" alt="Hurricane Melissa: TODAY&#x27;s Al Roker Tracks the Category 5 Storm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/g-s1-95325/up-first-newsletter-food-assistance-benefits-trump-japan-hurricane-melissa" target="_blank">SNAP benefits set to expire this week. And, Jamaica braces for a Category 5 storm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/10/28/g-s1-94960/americas-immigration-crackdown-is-disrupting-the-global-remittance-market" target="_blank">America&#x27;s immigration crackdown is disrupting the global remittance market</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 10:30</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/hurricane-melissa-inches-toward-catastrophic-landfall-in-jamaica-250763845633" target="_blank">Hurricane Melissa: TODAY&#x27;s Al Roker Tracks the Category 5 Storm</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-28 11:17</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkppxboei37znk0c6b7jo.png" alt="From job offer to malware: developers, be cautious!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/perisicnikola37/from-job-offer-to-malware-developers-be-cautious-35dc" target="_blank">From job offer to malware: developers, be cautious!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18717281&w=600" alt="Amazon Bedrock Guardrails for GenAI Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/amazon-bedrock-guardrails-for-genai-applications" target="_blank">Amazon Bedrock Guardrails for GenAI Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/java-news-roundup-oct20-2025/en/headerimage/java-istock-image-01-1761659405617.jpg" alt="Java News Roundup: Oracle Critical Patch Update, BellSoft, Grails, Hazelcast, Langchain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -174,48 +188,30 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuxfrnpwfxioj453h6si.png" alt="FlashVSR: Real-Time Video Super-Resolution Made Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/localfaceswap/flashvsr-real-time-video-super-resolution-made-simple-2fjc" target="_blank">FlashVSR: Real-Time Video Super-Resolution Made Simple</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 13:07</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Crescent-Island-Linux-619" target="_blank">Initial Intel Crescent Island &quot;CRI&quot; Support Being Submitted For Linux 6.19</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-3-Vuln-Oct-2025" target="_blank">Three More X.Org Server &amp; XWayland Security Vulnerabilities Made Public</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-10-28 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyskwe3ffyka3xtqy0l9y.png" alt="When I send a METHOD request to &quot;endpoint&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/webshipco/when-i-send-a-method-request-to-endpoint-nme" target="_blank">When I send a METHOD request to &quot;endpoint&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 11:54</span>
+                <span class="time">2025-10-28 13:32</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/" target="_blank">Understanding the Worst .NET Vulnerability</a></span>
+                <span class="title"><a href="https://github.com/7mind/sick" target="_blank">Sick: Indexed deduplicated binary storage for JSON-like data structures</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-10-28 11:03</span>
+                <span class="time">2025-10-28 13:22</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18716265&w=600" alt="Unpacking MCP Security: What You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuxfrnpwfxioj453h6si.png" alt="FlashVSR: Real-Time Video Super-Resolution Made Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/unpacking-mcp-security-what-you-need-to-know" target="_blank">Unpacking MCP Security: What You Need to Know</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-28 11:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/localfaceswap/flashvsr-real-time-video-super-resolution-made-simple-2fjc" target="_blank">FlashVSR: Real-Time Video Super-Resolution Made Simple</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 13:07</span>
             </div>
         </div>
 </div>
@@ -246,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Fionna-and-cake-int-AM-1280x853.jpg" alt="How ‘Fionna and Cake’ Reflects the Legacy of ‘Adventure Time’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-fionna-and-cake-reflects-the-legacy-of-adventure-time-2000676812" target="_blank">How ‘Fionna and Cake’ Reflects the Legacy of ‘Adventure Time’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-28 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/SamsungGalaxyTags-1280x853.jpg" alt="Forget AirTags, Samsung’s SmartTag 2 (4-Pack) Goes for Peanuts Per Tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +296,6 @@
                 <span class="time">2025-10-28 11:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Best-Tech-Awards-2025-Featured-Image-1280x853.jpg" alt="Gizmodo’s Best Tech of 2025 Awards: Our Favorite Phones, Laptops, Gaming Gear, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gizmodo-best-tech-of-2025-awards-2000676084" target="_blank">Gizmodo’s Best Tech of 2025 Awards: Our Favorite Phones, Laptops, Gaming Gear, and More</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-28 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
