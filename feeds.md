@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 00:04:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 01:29:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 00:04 UTC</div>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +109,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/" target="_blank">Venture capital is not an asset class, says Sequoia’s Roelof Botha</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-28 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied" target="_blank">Elon Musk’s Grokipedia contains copied Wikipedia pages</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-28 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/2026-Porsche-911-Turbo-S-first-drive-005-500x500.jpg" alt="Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/" target="_blank">Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-27 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/" target="_blank">Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-27 21:45</span>
@@ -129,33 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts" target="_blank">Spotify finally brings video podcasts and music videos to its Apple TV app</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-27 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-500x500.jpg" alt="AI-powered search engines rely on “less popular” sources, researchers find" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/" target="_blank">AI-powered search engines rely on “less popular” sources, researchers find</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-27 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ffd002912f31ccdaa888c6/master/pass/All%20Clad%20Glass%20Pizza%20OVen.png" alt="The All-Clad Pizza Oven Is $800 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/" target="_blank">The All-Clad Pizza Oven Is $800 Off Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-27 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ffc53f4e6d80728dd90cdc/master/pass/20250201_kaf_discharge_008_srgb.jpg" alt="Man Has Pig Kidney Removed After Living With It for a Record 9 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/man-has-pig-kidney-removed-after-living-with-it-for-a-record-9-months/" target="_blank">Man Has Pig Kidney Removed After Living With It for a Record 9 Months</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-27 19:26</span>
             </div>
         </div>
 </div>
@@ -246,6 +247,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/roborock-q10-s5pluss-1280x853.jpg" alt="This 10,000 Pa Robot Vacuum and Mop with 70-Day Self-Emptying Is Selling for Peanuts, Roborock Demolishes the Competition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-10000-pa-robot-vacuum-and-mop-with-70-day-self-emptying-is-selling-for-peanuts-roborock-demolishes-the-competition-2000639314" target="_blank">This 10,000 Pa Robot Vacuum and Mop with 70-Day Self-Emptying Is Selling for Peanuts, Roborock Demolishes the Competition</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-28 00:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/gmktec-mini-pc-grey-1280x853.jpg" alt="This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -290,15 +300,6 @@
                 <span class="time">2025-10-27 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/10/2489ccab6d4921c8b6ef0ba76d6cde5c.jpg" alt="Every Halloween Candy, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251" target="_blank">Every Halloween Candy, Ranked From Worst To Best</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,22 +341,13 @@
                 <span class="time">2025-10-27 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5687.png" alt="Bedroom Assignments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5687" target="_blank">Bedroom Assignments</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-27 01:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
