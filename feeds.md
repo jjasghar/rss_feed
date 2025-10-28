@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 21:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 22:01:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/melissa-4-ap-gmh-251028_1761664401464_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Storm having catastrophic effect on western Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Storm having catastrophic effect on western Jamaica</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-28 21:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +101,6 @@
                 <span class="time">2025-10-28 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761671721281_now_brk_landfall_melissa_251028_1920x1080-qhaxad.jpg" alt="Hurricane Melissa makes landfall as a Category 5 storm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/hurricane-melissa-makes-landfall-as-a-category-5-storm-250786885881" target="_blank">Hurricane Melissa makes landfall as a Category 5 storm</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-28 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -102,10 +109,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/" target="_blank">Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-28 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale" target="_blank">Nothing’s Ear Open earbuds are back under $100 right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-28 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2150327872-500x500.jpg" alt="If things in America weren’t stupid enough, Texas is suing Tylenol maker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/10/if-things-in-america-werent-stupid-enough-texas-is-suing-tylenol-maker/" target="_blank">If things in America weren’t stupid enough, Texas is suing Tylenol maker</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-28 19:12</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +160,29 @@
                 <span class="time">2025-10-28 18:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/EMBARGO_Lucid_NVIDIA-GTC_IMAGE-500x500.jpg" alt="An autonomous car for consumers? Lucid says it’s happening." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/an-autonomous-car-for-consumers-lucid-says-its-happening/" target="_blank">An autonomous car for consumers? Lucid says it’s happening.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-28 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/808183/disney-bbc-doctor-who-partnership-ending" target="_blank">Disney is breaking up with Doctor Who</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-28 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toozuuu/ngxsmk-datatable-v110-type-safe-angular-tables-with-virtual-scrolling-frozen-columns-9k5" target="_blank">ngxsmk-datatable v1.1.0 – Type-Safe Angular Tables with Virtual Scrolling &amp; Frozen Columns</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://muhammadraza.me/2024/building-container-runtime-python/" target="_blank">Understanding Docker Internals: Building a Container Runtime in Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-28 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +217,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-and-nvidia-bluefield-4-a-foundation-for-zero-trust-high-performance-infrastructure" target="_blank">Canonical and NVIDIA BlueField-4: a foundation for zero-trust high performance infrastructure</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-10-28 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18717507&w=600" alt="Building Cloud Ecosystems With Autonomous AI Agents: The Future of Scalable Data Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-cloud-ecosystems-with-autonomous-ai-agents" target="_blank">Building Cloud Ecosystems With Autonomous AI Agents: The Future of Scalable Data Solutions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-28 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/bcadf8fa-7ef1-4d60-bb81-a64472d81d6f_2000x1000.png" alt="San Francisco is back as the world’s leading tech hub" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/san-francisco-is-back" target="_blank">San Francisco is back as the world’s leading tech hub</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-28 16:55</span>
             </div>
         </div>
 </div>
@@ -322,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
