@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 08:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 09:01:41 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/28/g-s1-95314/trump-japan-visit" target="_blank">Trump praises Japan&#x27;s new prime minister during visit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-28 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/28/supporters-celebrate-ivory-coast-presidents-massive-election-victory?traffic_source=rss" target="_blank">Supporters celebrate Ivory Coast president’s massive election victory</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-28 08:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Melissa-DB-251028_1761635812893_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Conditions deteriorating in Jamaica, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/china-asean-sign-enhanced-free-trade-pact-as-trumps-tariffs-linger?traffic_source=rss" target="_blank">China, ASEAN sign enhanced free trade pact amid Trump tariffs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-28 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/trump-japans-takaichi-sign-deal-to-secure-rare-earths-supply?traffic_source=rss" target="_blank">Trump, Japan’s Takaichi sign deal to secure rare earths supply</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982b/live/f93b55c0-b3a0-11f0-aa13-0b0479f6f42a.jpg" alt="Hurricane Melissa: Jamaica braces for world&#x27;s strongest storm of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss" target="_blank">Hurricane Melissa: Jamaica braces for world&#x27;s strongest storm of 2025</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-28 01:55</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ayoolasolomon/designing-deployable-voice-ai-playbooks-p95-300-ms-preflight-bluegreen-55eh" target="_blank">Designing Deployable Voice-AI Playbooks (p95 &lt; 300 ms, preflight blue/green)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/" target="_blank">Craft and quality beat speed and scale, with or without agents</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -202,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/david_rivera_8d845b35931e/osd600-lab-6-repomixs-token-count-tree-feature-and-its-prototyping-in-rust-2a2m" target="_blank">OSD600: Lab 6 — Repomix&#x27;s token count tree feature and its prototyping in Rust</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-28 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenRazer-3.11-Released" target="_blank">OpenRazer 3.11 Released With Linux Driver Support For Newer Razer Devices</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-28 00:21</span>
             </div>
         </div>
 </div>
@@ -332,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
