@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 20:01:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-28 21:01:39 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5570902-e1/a-matchmaking-site-helps-farmers-find-buyers-for-their-land" target="_blank">A matchmaking site helps farmers find buyers for their land</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-28 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/28/grandparents-raising-36-children-after-losing-sons-in-gaza-war?traffic_source=rss" target="_blank">Grandparents raising 36 children after losing sons in Gaza war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-28 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +94,20 @@
                 <span class="time">2025-10-28 17:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss" target="_blank">Who are the 95 Palestinian healthcare workers held captive by Israel?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5581399/shein-fashion-paris-french-reaction" target="_blank">Shein is opening a store in Paris. Many French are saying &#x27;non&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale" target="_blank">Nothing’s Ear Open earbuds are back under $100 right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-28 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ffcd33912f31ccdaa888c4/master/pass/HBO-Show-Guide-Culture-IT-bill-skarsgard.jpg" alt="The 50 Best Shows on HBO Max Right Now (November 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +153,29 @@
                 <span class="time">2025-10-28 17:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ffeb3a8fdb4736bd882bac/master/pass/Oppo%20Find%20X9%20Pro%201%20SOURCE%20Simon%20Hill.jpg" alt="The Oppo Find X9 Pro Has a Crazy-Long Detachable Zoom Lens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/oppo-find-x9-pro-detachable-camera/" target="_blank">The Oppo Find X9 Pro Has a Crazy-Long Detachable Zoom Lens</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-28 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nahla_thabet_54e011e4cb76/kustomization-tutorial-4m32" target="_blank">Kustomization Tutorial</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://tommyodland.com/articles/2025/monte-carlo-modeling-in-python-with-probabilit/" target="_blank">Monte Carlo modeling in Python with probabilit</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-10-28 20:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="New Infrastructure-as-Code Tool &quot;formae&quot; Takes Aim at Terraform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +183,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/iac-formae/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Infrastructure-as-Code Tool &quot;formae&quot; Takes Aim at Terraform</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-28 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-and-nvidia-bluefield-4-a-foundation-for-zero-trust-high-performance-infrastructure" target="_blank">Canonical and NVIDIA BlueField-4: a foundation for zero-trust high performance infrastructure</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-28 19:24</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +210,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/san-francisco-is-back" target="_blank">San Francisco is back as the world’s leading tech hub</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-10-28 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/welcome-home-agents/" target="_blank">Introducing Agent HQ: Any agent, any way you work</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-28 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Azure-Linux-3.0.20251021" target="_blank">Microsoft&#x27;s Azure Linux 3.0.20251021 Pulls In AppArmor &amp; Other Updates</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-28 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18717487&w=600" alt="Optimizing Search: A Patent-Backed Approach to Perceived Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/optimizing-search-with-patent-backed-perceived-speed" target="_blank">Optimizing Search: A Patent-Backed Approach to Perceived Speed</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-28 16:00</span>
             </div>
         </div>
 </div>
@@ -325,22 +317,13 @@
                 <span class="time">2025-10-28 00:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/27/by-the-gracie-of-god" target="_blank">By The Gracie Of God</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-27 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
