@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 06:02:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 07:01:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +112,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/" target="_blank">OpenAI offers free ChatGPT Go for one year to all users in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-28 06:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="20% Off LG Promo Code &amp; Coupons | October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">20% Off LG Promo Code &amp; Coupons | October 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-28 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/" target="_blank">Venture capital is not an asset class, says Sequoia’s Roelof Botha</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-28 01:24</span>
@@ -140,24 +162,6 @@
                 <span class="time">2025-10-27 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/" target="_blank">Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-27 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/27/waymo-co-ceo-on-robotaxi-vandalism-were-not-standing-for-it/" target="_blank">Waymo co-CEO on robotaxi vandalism: ‘We’re not standing for it’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-27 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/lostghost/distributed-applications-4p87" target="_blank">Distributed Applications</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-28 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.lorenstew.art/blog/10-kanban-boards/" target="_blank">I built the same app 10 times: Evaluating frameworks for mobile performance</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-28 05:22</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/OpenRazer-3.11-Released" target="_blank">OpenRazer 3.11 Released With Linux Driver Support For Newer Razer Devices</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-28 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-206g" target="_blank">Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 00:00</span>
             </div>
         </div>
 </div>
@@ -331,22 +335,13 @@
                 <span class="time">2025-10-27 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/27/by-the-gracie-of-god" target="_blank">By The Gracie Of God</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-27 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
