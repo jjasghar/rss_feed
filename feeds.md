@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 18:02:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 19:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +104,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/sam-altman-says-openai-will-have-a-legitimate-ai-researcher-by-2028/" target="_blank">Sam Altman says OpenAI will have a ‘legitimate AI researcher’ by 2028</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-28 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/EMBARGO_Lucid_NVIDIA-GTC_IMAGE-500x500.jpg" alt="An autonomous car for consumers? Lucid says it’s happening." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/an-autonomous-car-for-consumers-lucid-says-its-happening/" target="_blank">An autonomous car for consumers? Lucid says it’s happening.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-28 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/808183/disney-bbc-doctor-who-partnership-ending" target="_blank">Disney is breaking up with Doctor Who</a></span>
                 <span class="feed">The Verge</span>
@@ -138,29 +155,20 @@
                 <span class="time">2025-10-28 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6900e1b7e23b1e54ef10eb45/master/pass/GettyImages-2243296389.jpg" alt="Hurricane Melissa Has Meteorologists Terrified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hurricane-melissa-has-meteorologists-terrified/" target="_blank">Hurricane Melissa Has Meteorologists Terrified</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-28 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/AMD-mendocino-500x500.jpg" alt="AMD shores up its budget laptop CPUs by renaming more years-old silicon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/" target="_blank">AMD shores up its budget laptop CPUs by renaming more years-old silicon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-28 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18717507&w=600" alt="Building Cloud Ecosystems With Autonomous AI Agents: The Future of Scalable Data Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-cloud-ecosystems-with-autonomous-ai-agents" target="_blank">Building Cloud Ecosystems With Autonomous AI Agents: The Future of Scalable Data Solutions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-28 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/bcadf8fa-7ef1-4d60-bb81-a64472d81d6f_2000x1000.png" alt="San Francisco is back as the world’s leading tech hub" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +176,15 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/san-francisco-is-back" target="_blank">San Francisco is back as the world’s leading tech hub</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-10-28 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/welcome-home-agents/" target="_blank">Introducing Agent HQ: Any agent, any way you work</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-28 16:08</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw" target="_blank">Using AI to negotiate a $195k hospital bill down to $33k</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-28 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/quokka-mascot-dark.jpg?resize=406%2C232&amp;ssl=1" alt="How to Run Scripts and Commands at Login in Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/how-to-autostart-apps-custom-scripts-ubuntu" target="_blank">How to Run Scripts and Commands at Login in Ubuntu 25.10</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-28 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18717478&w=600" alt="Production-Ready Multi-Agent Systems: From Theory to Enterprise Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-production-ready-multi-agent-systems" target="_blank">Production-Ready Multi-Agent Systems: From Theory to Enterprise Deployment</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-28 15:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
