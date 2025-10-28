@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 22:01:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-28 23:01:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +55,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8081/live/82f75f60-b43d-11f0-8619-03f374390a48.jpg" alt="Israel strikes Gaza after accusing Hamas of ceasefire violations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss" target="_blank">Israel strikes Gaza after accusing Hamas of ceasefire violations</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-28 21:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/trump-administration-strips-nigerian-nobel-winner-wole-soyinka-of-us-visa?traffic_source=rss" target="_blank">Trump administration strips Nigerian Nobel winner Wole Soyinka of US visa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-28 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-hurricane-melissa-kingston_7065397.jpg?20251028225010" alt="&#x27;Very nervous&#x27;: British tourists in Jamaica tell of Hurricane Melissa ordeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/very-nervous-british-tourists-in-jamaica-tell-of-scary-hurricane-melissa-ordeal-13459602" target="_blank">&#x27;Very nervous&#x27;: British tourists in Jamaica tell of Hurricane Melissa ordeal</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-28 20:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -72,33 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/28/grandparents-raising-36-children-after-losing-sons-in-gaza-war?traffic_source=rss" target="_blank">Grandparents raising 36 children after losing sons in Gaza war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-28 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5566664/israel-gaza-war-peace" target="_blank">How Israel is winning the wars and losing the peace</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/melissa-3-ap-gmh-251028_1761656031312_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Category 5 hurricane makes landfall in Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Category 5 hurricane makes landfall in Jamaica</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-28 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/g-s1-95381/hurricane-melissa-jamaica-landfall" target="_blank">Hurricane Melissa&#x27;s eye rolls ashore as Jamaicans shelter and wait</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 17:48</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gentos/how-to-onboard-engineers-faster-306g" target="_blank">How to onboard engineers 10x faster</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-Distribute-CUDA-RHEL" target="_blank">Red Hat Affirms Plans To Distribute NVIDIA CUDA Across RHEL, Red Hat AI &amp; OpenShift</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-28 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/toozuuu/ngxsmk-datatable-v110-type-safe-angular-tables-with-virtual-scrolling-frozen-columns-9k5" target="_blank">ngxsmk-datatable v1.1.0 – Type-Safe Angular Tables with Virtual Scrolling &amp; Frozen Columns</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-28 21:45</span>
@@ -184,39 +200,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/cloudflare-rust-proxy/en/headerimage/cloudflare-fl2-rust-1761684333887.jpeg" alt="Rust Rewrite Enables Cloudflare to Boost CDN Performance and Enhance Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/cloudflare-rust-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rust Rewrite Enables Cloudflare to Boost CDN Performance and Enhance Security</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-28 21:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nahla_thabet_54e011e4cb76/kustomization-tutorial-4m32" target="_blank">Kustomization Tutorial</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-28 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://tommyodland.com/articles/2025/monte-carlo-modeling-in-python-with-probabilit/" target="_blank">Monte Carlo modeling in Python with probabilit</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-28 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="New Infrastructure-as-Code Tool &quot;formae&quot; Takes Aim at Terraform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/iac-formae/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Infrastructure-as-Code Tool &quot;formae&quot; Takes Aim at Terraform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-28 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-and-nvidia-bluefield-4-a-foundation-for-zero-trust-high-performance-infrastructure" target="_blank">Canonical and NVIDIA BlueField-4: a foundation for zero-trust high performance infrastructure</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-28 19:24</span>
             </div>
         </div>
 </div>
@@ -238,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/creep-tapes-s2-1280x853.jpg" alt="‘The Creep Tapes’ Season 2 Will Dig Even Further Into the Madness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-creep-tapes-season-2-will-dig-even-further-into-the-madness-2000678239" target="_blank">‘The Creep Tapes’ Season 2 Will Dig Even Further Into the Madness</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-28 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8NTA3FFRC35AS760TH590R4/hero-image.jpg" alt="Elon Musk’s &#x27;Grokipedia&#x27; Is Certainly No Wikipedia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/grokipedia-is-real-and-you-should-not-use-it?utm_medium=RSS" target="_blank">Elon Musk’s &#x27;Grokipedia&#x27; Is Certainly No Wikipedia</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-28 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/rat-bat-preying-midair-1280x853.jpg" alt="Horrifying Video Shows Rats Snatching Bats Midair, and Scientists Are Seriously Concerned" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-10-most-unhinged-horror-titles-we-found-on-prime-video-2000677600" target="_blank">The 10 Most Unhinged Horror Titles We Found on Prime Video</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-28 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8NNZE5RATDTD04X6A1DXYJR/hero-image.jpg" alt="Zillow Now Has DMs, and They Might Actually Be Useful" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/zillow-now-has-dms?utm_medium=RSS" target="_blank">Zillow Now Has DMs, and They Might Actually Be Useful</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-28 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/zinelandia-cover.jpeg?fit=881%2C1200&amp;quality=60&amp;ssl=1" alt="New book documents the golden age of zine publishing from 1982 – 1998" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/28/new-book-documents-the-golden-age-of-zine-publishing-from-1982-1998.html" target="_blank">New book documents the golden age of zine publishing from 1982 – 1998</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-28 15:43</span>
             </div>
         </div>
 </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
