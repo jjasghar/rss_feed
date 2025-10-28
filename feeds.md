@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 01:29:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-28 02:28:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982b/live/f93b55c0-b3a0-11f0-aa13-0b0479f6f42a.jpg" alt="Hurricane Melissa: Jamaica braces for world&#x27;s strongest storm of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss" target="_blank">Hurricane Melissa: Jamaica braces for world&#x27;s strongest storm of 2025</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-28 01:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/27/nx-s1-5587928/hurricane-melissa-jamaica-cuba-category-5" target="_blank">Why Hurricane Melissa&#x27;s intensity and slow-moving speed are a recipe for disaster</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-28 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251027-boarder-control-gk-bbfa3c.jpg" alt="Trump plans to install Border Patrol officials to lead a more aggressive migrant crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/immigration/trump-plans-install-border-patrol-officials-lead-aggressive-migrant-cr-rcna240102" target="_blank">Trump plans to install Border Patrol officials to lead a more aggressive migrant crackdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-27 23:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +101,6 @@
                 <span class="time">2025-10-27 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-mpox-virus-uk_7064009.jpg?20251027161418" alt="Vaccine reminder as mpox strain spreads in Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/vaccine-reminder-as-mpox-strain-spreads-in-europe-13458940" target="_blank">Vaccine reminder as mpox strain spreads in Europe</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-27 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hurricane-melissa-satellite-ht-jef-251027_1761567206714_hpMain_4x3t_384.jpg" alt="Hurricane Melissa path: Where and when Melissa will make landfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/hurricane-melissa-path-track-category-5-storm/story?id=126893988" target="_blank">Hurricane Melissa path: Where and when Melissa will make landfall</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-27 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/27/alassane-ouattara-wins-landslide-fourth-term-as-ivory-coasts-president" target="_blank">Alassane Ouattara wins landslide fourth term as Ivory Coast’s president</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-27 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/" target="_blank">Venture capital is not an asset class, says Sequoia’s Roelof Botha</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-28 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68fffc5c27ce16d6b52e8044/master/pass/Grokipedia-Business-2212189919.jpg" alt="Elon Musk&#x27;s Grokipedia Pushes Far-Right Talking Points" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/" target="_blank">Elon Musk&#x27;s Grokipedia Pushes Far-Right Talking Points</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-28 01:22</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +160,6 @@
                 <span class="time">2025-10-27 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts" target="_blank">Spotify finally brings video podcasts and music videos to its Apple TV app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-27 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -186,6 +187,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dramforever.github.io/easyriscv/" target="_blank">Easy RISC-V</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-27 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://dramforever.github.io/easyriscv/" target="_blank">Easy RISC-V: An interactive introduction to RISC-V assembly programming</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-27 20:57</span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/cleaner-code-with-collections-and-optionals" target="_blank">Writing (Slightly) Cleaner Code With Collections and Optionals</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-27 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Goes-Reproducible" target="_blank">FreeBSD Celebrates The Milestone Of Reproducible Builds &amp; No Root Needed</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-27 18:50</span>
             </div>
         </div>
 </div>
@@ -346,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
