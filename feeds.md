@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 12:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 13:10:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e0/live/bb7a5090-b3c5-11f0-8c4c-65922189bc37.jpg" alt="Sudan&#x27;s army loses key city of el-Fasher to paramilitary RSF after 18-month siege" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyld9w0283o?at_medium=RSS&at_campaign=rss" target="_blank">Sudan&#x27;s army loses key city of el-Fasher to paramilitary RSF after 18-month siege</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-28 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/28/mass-killings-reported-el-fasher-sudan-paramilitary-group-rapid-support-forces" target="_blank">Mass killings reported in Sudanese city seized by paramilitary group</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-28 12:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +103,29 @@
                 <span class="time">2025-10-28 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/g-s1-95314/trump-japan-visit" target="_blank">Trump praises Japan&#x27;s new prime minister during visit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/28/supporters-celebrate-ivory-coast-presidents-massive-election-victory?traffic_source=rss" target="_blank">Supporters celebrate Ivory Coast president’s massive election victory</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 08:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/807858/zillow-messaging-feature-dms-launch" target="_blank">Zillow adds DMs so you can chat about homes you&amp;#8217;ll never buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-28 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/" target="_blank">Adobe Firefly Image 5 brings support for layers, will let creators make custom models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f2d44889fd0a7e7062ae7c/master/pass/Big-Interview-UV-Solo-Nick-Thompson-Business-2183750049.jpg" alt="Why Nicholas Thompson Made a Custom GPT to Run Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +162,29 @@
                 <span class="time">2025-10-28 06:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="20% Off LG Promo Code &amp; Coupons | October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">20% Off LG Promo Code &amp; Coupons | October 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-28 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/" target="_blank">Venture capital is not an asset class, says Sequoia’s Roelof Botha</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-28 01:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuxfrnpwfxioj453h6si.png" alt="FlashVSR: Real-Time Video Super-Resolution Made Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/localfaceswap/flashvsr-real-time-video-super-resolution-made-simple-2fjc" target="_blank">FlashVSR: Real-Time Video Super-Resolution Made Simple</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Crescent-Island-Linux-619" target="_blank">Initial Intel Crescent Island &quot;CRI&quot; Support Being Submitted For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-28 11:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyskwe3ffyka3xtqy0l9y.png" alt="When I send a METHOD request to &quot;endpoint&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -166,6 +192,15 @@
                 <span class="title"><a href="https://dev.to/webshipco/when-i-send-a-method-request-to-endpoint-nme" target="_blank">When I send a METHOD request to &quot;endpoint&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-28 11:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/" target="_blank">Understanding the Worst .NET Vulnerability</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-28 11:03</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Release-Day" target="_blank">Fedora Linux 43 Now Available For Download</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-28 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/openzl-structured-compression/en/headerimage/generatedHeaderImage-1761485239719.jpg" alt="Meta Open Sources OpenZL: A Universal Compression Framework for Structured Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/openzl-structured-compression/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Open Sources OpenZL: A Universal Compression Framework for Structured Data</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Patches-Allow-Glibc-Clang" target="_blank">59 Patches Allow Finally Building Glibc With LLVM&#x27;s Clang Compiler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-28 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ayoolasolomon/designing-deployable-voice-ai-playbooks-p95-300-ms-preflight-bluegreen-55eh" target="_blank">Designing Deployable Voice-AI Playbooks (p95 &lt; 300 ms, preflight blue/green)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 08:54</span>
             </div>
         </div>
 </div>
@@ -242,6 +250,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Talamasca_Schwartzman-1280x853.jpg" alt="How ‘Talamasca: The Secret Order’ Made Jason Schwartzman’s Character an ‘Unexpected Vampire’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-talamasca-the-secret-order-made-jason-schwartzmans-character-an-unexpected-vampire-2000677785" target="_blank">How ‘Talamasca: The Secret Order’ Made Jason Schwartzman’s Character an ‘Unexpected Vampire’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/SamsungEVOPlus-1280x853.jpg" alt="Samsung 990 EVO Plus 1TB SSD Is Now Down to $0.07 per GB, Practically a Giveaway for Top-Tier Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-990-evo-plus-1tb-ssd-is-now-down-to-0-07-per-gb-practically-a-giveaway-for-top-tier-speed-2000639330" target="_blank">Samsung 990 EVO Plus 1TB SSD Is Now Down to $0.07 per GB, Practically a Giveaway for Top-Tier Speed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-28 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/ycba_2d2f4c89-ac1f-4b9d-b43c-a642ed44a6f7-edit2.webp?fit=1200%2C799&amp;quality=55&amp;ssl=1" alt="Earth-bathing: the 18th-century doctor who believed burying yourself in dirt could heal the body" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/28/earth-bathing-the-18th-century-doctor-who-believed-burying-yourself-in-dirt-could-heal-the-body.html" target="_blank">Earth-bathing: the 18th-century doctor who believed burying yourself in dirt could heal the body</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-28 11:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/sunset.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;What do you live for?&quot; Share your answer on this website" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -266,33 +301,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-wars-writing-font-languages-explained-2000676430" target="_blank">How the Written Word Evolved in ‘Star Wars’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/elon-1280x853.jpg" alt="Elon Musk’s Version of Wikipedia Is Live. Here’s What the Difference Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-version-of-wikipedia-is-live-heres-what-the-difference-is-2000677654" target="_blank">Elon Musk’s Version of Wikipedia Is Live. Here’s What the Difference Is</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-28 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/roborock-q10-s5pluss-1280x853.jpg" alt="This 10,000 Pa Robot Vacuum and Mop with 70-Day Self-Emptying Is Selling for Peanuts, Roborock Demolishes the Competition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-10000-pa-robot-vacuum-and-mop-with-70-day-self-emptying-is-selling-for-peanuts-roborock-demolishes-the-competition-2000639314" target="_blank">This 10,000 Pa Robot Vacuum and Mop with 70-Day Self-Emptying Is Selling for Peanuts, Roborock Demolishes the Competition</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-28 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/gmktec-mini-pc-grey-1280x853.jpg" alt="This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-windows-11-mini-pc-sells-for-pennies-on-amazon-now-3x-cheaper-than-mac-mini-2000639301" target="_blank">This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-27 23:45</span>
             </div>
         </div>
 </div>
@@ -332,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
