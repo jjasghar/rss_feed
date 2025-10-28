@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-27 23:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 00:04:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, October 27, 2025 - 23:01 UTC</div>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-206g" target="_blank">Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-28 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/from-seconds-to-milliseconds-fixing-python-cold-starts-with-snapstart-59mn" target="_blank">From Seconds to Milliseconds: Fixing Python Cold Starts with SnapStart</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-27 21:49</span>
@@ -209,15 +217,6 @@
                 <span class="time">2025-10-27 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18716151&w=600" alt="Mastering Fluent Bit: Top Tip Using Telemetry Pipeline Parsers for Developers (Part 8)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/telemetry-pipeline-parsers-for-developers" target="_blank">Mastering Fluent Bit: Top Tip Using Telemetry Pipeline Parsers for Developers (Part 8)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-27 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/gmktec-mini-pc-grey-1280x853.jpg" alt="This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-windows-11-mini-pc-sells-for-pennies-on-amazon-now-3x-cheaper-than-mac-mini-2000639301" target="_blank">This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-27 23:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/beats-pill-black-1280x853.jpg" alt="Beats Pill Selling for Pennies, Amazon Liquidates the Iconic Bluetooth Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251" target="_blank">Every Halloween Candy, Ranked From Worst To Best</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-27 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/waistmeasurement-1280x853.jpg" alt="Skinny Is the New Fat: Plenty of People Have ‘Normal’ BMI but Hidden Obesity, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/skinny-is-the-new-fat-plenty-of-people-have-normal-bmi-but-hidden-obesity-study-finds-2000677510" target="_blank">Skinny Is the New Fat: Plenty of People Have ‘Normal’ BMI but Hidden Obesity, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-27 20:00</span>
             </div>
         </div>
 </div>
@@ -355,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
