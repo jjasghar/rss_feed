@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 10:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-28 11:01:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, October 28, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/10/28/g-s1-94960/americas-immigration-crackdown-is-disrupting-the-global-remittance-market" target="_blank">America&#x27;s immigration crackdown is disrupting the global remittance market</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-28 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Melissa-DB-251028_1761635812893_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: &#x27;Catastrophic&#x27; weather expected in Jamaica, NHC says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: &#x27;Catastrophic&#x27; weather expected in Jamaica, NHC says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-28 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/suspect-pleads-guilty-to-murdering-former-japanese-pm-abe?traffic_source=rss" target="_blank">Suspect pleads guilty to murdering former Japanese PM Abe</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-28 09:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +99,20 @@
                 <span class="time">2025-10-28 08:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Melissa-DB-251028_1761635812893_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Conditions deteriorating in Jamaica, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Conditions deteriorating in Jamaica, PM says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-28 07:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/10/28/live-israeli-attack-kills-2-in-gaza-as-hamas-returns-body-of-captive?traffic_source=rss" target="_blank">LIVE: Israeli attack kills 2 in Gaza as Hamas returns body of captive</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/oct/28/uk-military-equipment-rapid-support-forces-rsf-militia-accused-genocide-found-sudan-united-nations" target="_blank">UK military equipment used by militia accused of genocide found in Sudan, UN told</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-28 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f2d44889fd0a7e7062ae7c/master/pass/Big-Interview-UV-Solo-Nick-Thompson-Business-2183750049.jpg" alt="Why Nicholas Thompson Made a Custom GPT to Run Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-nicholas-thompson/" target="_blank">Why Nicholas Thompson Made a Custom GPT to Run Faster</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-28 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69000a15912f31ccdaa888cf/master/pass/Review-%20Skylight%20Smart%20Calendar%20Max.png" alt="Skylight Smart Calendar Max Review: Family Planning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +158,29 @@
                 <span class="time">2025-10-28 01:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fffc5c27ce16d6b52e8044/master/pass/Grokipedia-Business-2212189919.jpg" alt="Elon Musk&#x27;s Grokipedia Pushes Far-Right Talking Points" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/" target="_blank">Elon Musk&#x27;s Grokipedia Pushes Far-Right Talking Points</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-28 01:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Release-Day" target="_blank">Fedora Linux 43 Now Available For Download</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-28 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/openzl-structured-compression/en/headerimage/generatedHeaderImage-1761485239719.jpg" alt="Meta Open Sources OpenZL: A Universal Compression Framework for Structured Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/openzl-structured-compression/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Open Sources OpenZL: A Universal Compression Framework for Structured Data</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +217,20 @@
                 <span class="time">2025-10-28 05:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.lorenstew.art/blog/10-kanban-boards/" target="_blank">I built the same app 10 times: Evaluating frameworks for mobile performance</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-28 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6lsksxrvnmvriycfatxd.jpg" alt="I Tried This New AI Art Generator… The Results Left Me Speechless!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mrpraise/i-tried-this-new-ai-art-generator-the-results-left-me-speechless-4in5" target="_blank">I Tried This New AI Art Generator… The Results Left Me Speechless!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 04:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html" target="_blank">Social Engineering People’s Credit Card Details</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-28 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -338,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
