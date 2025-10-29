@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 06:02:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-29 07:01:44 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/29/trump-says-he-expects-great-deal-with-china-at-summit-with-xi?traffic_source=rss" target="_blank">Trump says he expects ‘great deal’ with China at summit with Xi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 06:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png" alt="Migrant sex offender deported from UK, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender deported from UK, government says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-29 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5589702/north-korea-missile-tests-trump-south-korea" target="_blank">North Korea touts missile tests as Trump visits South Korea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-29 05:45</span>
             </div>
         </div>
 <div class="story">
@@ -72,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1lqeqv9j9no?at_medium=RSS&at_campaign=rss" target="_blank">Ben &amp; Jerry&#x27;s co-founder says Unilever blocked Palestine-themed ice cream</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-29 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/melissa-4-ap-gmh-251028_1761664401464_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Strengthens to Category 4 as it barrels toward Cuba" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Strengthens to Category 4 as it barrels toward Cuba</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-29 03:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power" target="_blank">Tanzanian president poised to retain power as rivals barred from election</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-29 03:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
