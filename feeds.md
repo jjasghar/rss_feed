@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 15:01:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-29 16:01:44 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/sudanese-activist-sees-his-executed-uncles-in-rsf-videos-from-el-fasher?traffic_source=rss" target="_blank">Sudanese activist sees his executed uncles in RSF videos from el-Fasher</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 15:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffc/live/1c03cf10-b4b4-11f0-b245-913f6e55314b.jpg" alt="Jamaicans start to reveal devastation as hurricane causes floods, power cuts and splits city in two" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +102,20 @@
                 <span class="time">2025-10-29 12:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/melissa-damage-epa-jef-251028_1761679502855_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Storm strikes Cuba after tearing through Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Storm strikes Cuba after tearing through Jamaica</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-29 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/29/nvidia-becomes-first-public-company-worth-5-trillion/" target="_blank">Nvidia becomes first public company worth $5 trillion</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 15:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-500x500.jpg" alt="Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +161,38 @@
                 <span class="time">2025-10-29 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/flipkarts-super-money-teams-up-with-kotak-bank-to-make-indias-free-upi-payments-pay/" target="_blank">Flipkart’s Super.money teams up with Kotak811 to make India’s free UPI payments pay</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4iaso0w8m5rphyr8g10.png" alt="🔥Top 7 Open-Source CLI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_kiran/top-7-open-source-cli-tools-4dnl" target="_blank">🔥Top 7 Open-Source CLI Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18718566&w=600" alt="End of Static Knowledge Bases? How MCP Enables Live RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/live-rag-with-mcp-end-of-static-knowledge-bases" target="_blank">End of Static Knowledge Bases? How MCP Enables Live RAG</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-29 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/staff-professional-growth/en/mediumimage/suhail-patel-medium-1761032465849.jpg" alt="Presentation: Shine Bright as an IC: Growing Yourself As Your Company Grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/staff-professional-growth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Shine Bright as an IC: Growing Yourself As Your Company Grows</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-29 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-openSIL-October-2025" target="_blank">AMD On Track With openSIL For Zen 6 Platforms, openSIL FAS 1.0 Published</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-29 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/contributed/disaggregated-routing-with-sonic-and-vpp-lab-demo-and-performance-insights-part-two/" target="_blank">Disaggregated Routing with SONiC and VPP: Lab Demo and Performance Insights – Part Two</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2025-10-29 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/ai-agent-orchestration/en/headerimage/AI-Agents-Header-1761736950529.jpg" alt="The Architectural Shift: AI Agents Become Execution Engines While Backends Retreat to Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/ai-agent-orchestration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The Architectural Shift: AI Agents Become Execution Engines While Backends Retreat to Governance</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-29 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-m08" target="_blank">Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-29 12:00</span>
             </div>
         </div>
 </div>
@@ -250,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/feature-Front-cover-4-22-FINAL.jpg?fit=1200%2C702&amp;quality=60&amp;ssl=1" alt="Cartoonist Peter Kuper wishes we weren&#x27;t here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/29/cartoonist-peter-kuper-wishes-we-werent-here.html" target="_blank">Cartoonist Peter Kuper wishes we weren&#x27;t here</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-29 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/pixel-buds-2a-vs-oneplus-buds-4-1280x853.jpg" alt="Google Pixel Buds 2a vs. OnePlus Buds 4: Which Wireless Earbuds Win?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-pixel-buds-2a-vs-oneplus-buds-4-which-wireless-earbuds-win-2000677664" target="_blank">Google Pixel Buds 2a vs. OnePlus Buds 4: Which Wireless Earbuds Win?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-29 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/mornchckc-1280x720.jpg" alt="Breath Of The Wild‘s $180+ Vinyl Box Set Is A Test To See If Fans Want Physical Nintendo Soundtracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/breath-of-the-wilds-zelda-record-box-set-price-nintendo-apple-mario-update-switch-2-2000639847" target="_blank">Breath Of The Wild‘s $180+ Vinyl Box Set Is A Test To See If Fans Want Physical Nintendo Soundtracks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-29 15:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/main1-1280x720.jpg" alt="12 Things I Wish I Knew Before Playing Escape From Duckov" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -276,33 +302,6 @@
                 <span class="time">2025-10-29 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GKB0YMPSPYF5MGD2T6P1Z/hero-image.jpg" alt="&#x27;Mind Maps&#x27; Are an Excellent Productivity Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-mind-maps-can-increase-productivity?utm_medium=RSS" target="_blank">&#x27;Mind Maps&#x27; Are an Excellent Productivity Hack</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/data-center-1280x853.jpg" alt="An AI Data Center Is Coming for Your Backyard. Here’s What That Means for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/an-ai-data-center-is-coming-for-your-backyard-heres-what-that-means-for-you-2000676889" target="_blank">An AI Data Center Is Coming for Your Backyard. Here’s What That Means for You</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/11/2e54019cbc50bbdf8d21e7ea1ba020f2-1024x576.jpg" alt="Chip Startup Backed by Peter Thiel and In-Q-Tel Seeks to Revolutionize the Semiconductor Biz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chip-startup-backed-by-peter-thiel-and-in-q-tel-seeks-to-revolutionize-the-semiconductor-biz-2000678236" target="_blank">Chip Startup Backed by Peter Thiel and In-Q-Tel Seeks to Revolutionize the Semiconductor Biz</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,31 +325,13 @@
                 <span class="time">2025-10-29 01:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/cautionary-tale/" target="_blank">Cautionary Tale</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-10-28 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1761620443-20251028.png" alt="Saturday Morning Breakfast Cereal - Screenplay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/screenplay" target="_blank">Saturday Morning Breakfast Cereal - Screenplay</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-28 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
