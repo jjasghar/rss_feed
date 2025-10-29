@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 00:04:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-29 01:29:43 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/last-ditch-push-pakistan-afghanistan-talks-falter-amid-deep-mistrust?traffic_source=rss" target="_blank">‘Last-ditch push’: Pakistan-Afghanistan talks falter amid deep mistrust</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 00:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3627/live/b2daf0a0-b458-11f0-a1fb-bd25202eee60.jpg" alt="Reeves vows to &#x27;defy&#x27; gloomy economic forecasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cql9ez5grpqo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves vows to &#x27;defy&#x27; gloomy economic forecasts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-29 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,39 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f568/live/499421f0-b455-11f0-aa13-0b0479f6f42a.jpg" alt="At least 64 killed in Rio&#x27;s largest police raid on gangs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8x155engwpo?at_medium=RSS&at_campaign=rss" target="_blank">At least 64 killed in Rio&#x27;s largest police raid on gangs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-28 23:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/venezuela-declares-trinidad-and-tobagos-prime-minister-persona-non-grata?traffic_source=rss" target="_blank">Venezuela declares Trinidad and Tobago’s prime minister persona non grata</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-28 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/melissa-4-ap-gmh-251028_1761664401464_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Storm having catastrophic effect on western Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Storm having catastrophic effect on western Jamaica</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-28 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8081/live/82f75f60-b43d-11f0-8619-03f374390a48.jpg" alt="Israel strikes Gaza after accusing Hamas of ceasefire violations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss" target="_blank">Israel strikes Gaza after accusing Hamas of ceasefire violations</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-28 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/trump-administration-strips-nigerian-nobel-winner-wole-soyinka-of-us-visa?traffic_source=rss" target="_blank">Trump administration strips Nigerian Nobel winner Wole Soyinka of US visa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 21:33</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/divsmart/debian-first-aid-kit-2llm" target="_blank">Debian First Aid Kit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 01:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn05wnpmyzolu362vf77f.png" alt="Playable Ads: The Secret Weapon Boosting Mobile Game Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +218,6 @@
                 <span class="time">2025-10-28 21:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/cloudflare-rust-proxy/en/headerimage/cloudflare-fl2-rust-1761684333887.jpeg" alt="Rust Rewrite Enables Cloudflare to Boost CDN Performance and Enhance Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/cloudflare-rust-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rust Rewrite Enables Cloudflare to Boost CDN Performance and Enhance Security</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-28 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/truth-social-1280x853.jpg" alt="Trump’s Media Company Set To Roll Out Polymarket-Like Prediction Market on Truth Social" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/truth-social-prediction-market-2000677813" target="_blank">Trump’s Media Company Set To Roll Out Polymarket-Like Prediction Market on Truth Social</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-29 00:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2688189269-1280x720.jpg" alt="Nvidia and Oracle Are Planning the ‘Largest Supercomputer’ in America for Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +291,20 @@
                 <span class="time">2025-10-28 19:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8NZZC91GF99AF4D6ADK01YW/hero-image.png" alt="Why Now Is the Best Time to Buy a Peloton With a Referral Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/why-you-should-use-or-give-a-peloton-referral-code?utm_medium=RSS" target="_blank">Why Now Is the Best Time to Buy a Peloton With a Referral Code</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-28 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5689.png" alt="Laundry Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5689" target="_blank">Laundry Day</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-29 01:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,22 +323,13 @@
                 <span class="time">2025-10-28 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5688.png" alt="Flashback OVER" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5688" target="_blank">Flashback OVER</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-28 00:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
