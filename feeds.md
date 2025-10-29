@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 01:29:43 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-29 02:31:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/tata-motors-confirms-it-fixed-security-flaws-that-exposed-company-and-customer-data/" target="_blank">Tata Motors confirms it fixed security flaws, which exposed company and customer data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/" target="_blank">‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-29 00:00</span>
@@ -150,15 +158,6 @@
                 <span class="time">2025-10-28 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2150327872-500x500.jpg" alt="If things in America weren’t stupid enough, Texas is suing Tylenol maker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/if-things-in-america-werent-stupid-enough-texas-is-suing-tylenol-maker/" target="_blank">If things in America weren’t stupid enough, Texas is suing Tylenol maker</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-28 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/divsmart/debian-first-aid-kit-2llm" target="_blank">Debian First Aid Kit</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-29 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arm-Ethos-NPU-For-Linux-6.19" target="_blank">Arm Ethos NPU Accelerator Driver Expected To Be Merged For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-29 00:41</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +217,6 @@
                 <span class="time">2025-10-28 21:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://muhammadraza.me/2024/building-container-runtime-python/" target="_blank">Understanding Docker Internals: Building a Container Runtime in Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-28 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/ninja-xl-air-fryer-1280x853.jpg" alt="Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ninja-offloads-the-6-in-1-dualzone-air-fryer-now-50-off-if-you-buy-on-amazon-2000639745" target="_blank">Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-29 01:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/truth-social-1280x853.jpg" alt="Trump’s Media Company Set To Roll Out Polymarket-Like Prediction Market on Truth Social" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +290,6 @@
                 <span class="time">2025-10-28 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/the-frog.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Portland frog costumes are effective psychological warfare against authoritarianism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/28/portland-frog-costumes-are-effective-psychological-warfare-against-authoritarianism.html" target="_blank">Portland frog costumes are effective psychological warfare against authoritarianism</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-28 19:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
