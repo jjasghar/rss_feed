@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 05:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-10-29 06:02:38 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png" alt="Migrant sex offender deported from UK, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender deported from UK, government says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-29 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/29/live-australia-vs-india-first-t20-international?traffic_source=rss" target="_blank">LIVE: Australia vs India – first T20 international</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 05:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +92,20 @@
                 <span class="time">2025-10-29 03:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/as-trump-and-xi-near-deal-few-see-letup-in-heated-us-china-rivalry?traffic_source=rss" target="_blank">As Trump and Xi near deal, few see letup in heated US-China rivalry</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 02:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5589220/shame-competence-medicine-doctors-blame-patients" target="_blank">These doctors want to break the cycle of shame and blame in medicine</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-29 01:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/" target="_blank">CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +149,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/" target="_blank">‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-29 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-28 23:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Weddell-Sea-Expedition-2019-1280x853.jpg" alt="Scientists Went Looking for Shackleton’s Endurance. They found a Hidden Fish City in Perfect Formation Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-went-looking-for-shackletons-endurance-they-found-a-hidden-fish-city-in-perfect-formation-instead-2000678100" target="_blank">Scientists Went Looking for Shackleton’s Endurance. They found a Hidden Fish City in Perfect Formation Instead</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-29 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/ninja-xl-air-fryer-1280x853.jpg" alt="Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -287,15 +292,6 @@
                 <span class="time">2025-10-28 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Apple-MacBook-Air-13.3.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Buying refurbished? This Apple MacBook Air is the real deal." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/28/buying-refurbished-this-apple-macbook-air-is-the-real-deal.html" target="_blank">Buying refurbished? This Apple MacBook Air is the real deal.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-28 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
