@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 21:01:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-10-29 22:01:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +55,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/sonya-massey-murder-trial-juror-massey-family-cry/story?id=126936377" target="_blank">Former deputy guilty of murder in Sonya Massey&#x27;s death</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-29 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5588695/wikipedia-grokipedia-comparison" target="_blank">What Wikipedia and Grokipedia are saying about each other</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-29 19:37</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +102,20 @@
                 <span class="time">2025-10-29 18:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-hurricane-jamaica_7065285.jpg?20251028212241" alt="What we know about Hurricane Melissa that &#x27;ravaged&#x27; Jamaica before hitting Cuba" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hurricane-melissa-what-we-know-about-the-powerful-storm-approaching-jamaica-13459190" target="_blank">What we know about Hurricane Melissa that &#x27;ravaged&#x27; Jamaica before hitting Cuba</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-29 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted" target="_blank">Trump administration charges influencer and congressional candidate over ICE protests</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-29 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69025f9c42a73fc665080443/master/pass/sec-microsoft-azure--2190627170.jpg" alt="The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +161,20 @@
                 <span class="time">2025-10-29 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6902575aba6da1ec470b32b3/master/pass/The%20Pixel%20Watch%203%20is%20$100%20Off.png" alt="The Pixel Watch 3 Is $100 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pixel-watch-3-deal-1025/" target="_blank">The Pixel Watch 3 Is $100 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-29 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anderson_leite/why-devsecops-isnt-a-role-its-a-responsibility-69m" target="_blank">Why DevSecOps Isn&#x27;t a Role. It&#x27;s a Responsibility</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="time">2025-10-29 18:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18718540&w=600" alt="Emerging Patterns in Large-Scale Event-Driven AI Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-real-time-event-driven-systems-with-agent" target="_blank">Emerging Patterns in Large-Scale Event-Driven AI Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-29 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Desktop-Defender-Hed-1280x720.jpg" alt="Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-next-fests-most-unlikely-breakout-only-requires-a-fraction-of-your-screen-and-attention-2000639943" target="_blank">Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-29 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/doctor-who-billie-piper-16th-doctor-the-moment-1280x853.jpg" alt="9 People Billie Piper Could Play in ‘Doctor Who’ Now That ‘Doctor Who’ Probably Needs to Figure That Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/billie-piper-doctor-who-2026-identity-2000678833" target="_blank">9 People Billie Piper Could Play in ‘Doctor Who’ Now That ‘Doctor Who’ Probably Needs to Figure That Out</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-29 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/everythingMAIN-1280x720.jpg" alt="Arc Raiders: Everything You Need To Know Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/29/louvre-ladder-company-makes-ad-campaign-of-heist.html" target="_blank">Louvre ladder company makes ad campaign of heist</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-29 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8RK1K2S6K9BYVV72H26R2KP/hero-image.png" alt="YouTube Will Use AI to Upscale Low-Res Videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/youtube-ai-upscaling?utm_medium=RSS" target="_blank">YouTube Will Use AI to Upscale Low-Res Videos</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-29 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Colin-Farrell-Penguin-1280x853.jpg" alt="Colin Farrell Thinks ‘Batman Part II’ Is Great—and ‘Sgt. Rock’ Could’ve Been, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/colin-farrell-batman-part-2-sgt-rock-2000678798" target="_blank">Colin Farrell Thinks ‘Batman Part II’ Is Great—and ‘Sgt. Rock’ Could’ve Been, Too</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 19:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
