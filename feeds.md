@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 02:31:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-29 03:22:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 03:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/as-trump-and-xi-near-deal-few-see-letup-in-heated-us-china-rivalry?traffic_source=rss" target="_blank">As Trump and Xi near deal, few see letup in heated US-China rivalry</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5589220/shame-competence-medicine-doctors-blame-patients" target="_blank">These doctors want to break the cycle of shame and blame in medicine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-29 01:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +92,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/hurricane-melissa-ranks-strongest-atlantic-storms-make-landfall/story?id=126943257" target="_blank">Melissa ties with 2 other storms for strongest hurricane to make landfall in Atlantic</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-28 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f568/live/499421f0-b455-11f0-aa13-0b0479f6f42a.jpg" alt="At least 64 killed in Rio&#x27;s largest police raid on gangs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8x155engwpo?at_medium=RSS&at_campaign=rss" target="_blank">At least 64 killed in Rio&#x27;s largest police raid on gangs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-28 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/venezuela-declares-trinidad-and-tobagos-prime-minister-persona-non-grata?traffic_source=rss" target="_blank">Venezuela declares Trinidad and Tobago’s prime minister persona non grata</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 23:16</span>
             </div>
         </div>
 </div>
@@ -225,6 +220,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/" target="_blank">Aisuru Botnet Shifts from DDoS to Residential Proxies</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-10-29 00:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html" target="_blank">Social Engineering People’s Credit Card Details</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -282,12 +286,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/rat-bat-preying-midair-1280x853.jpg" alt="Horrifying Video Shows Rats Snatching Bats Midair, and Scientists Are Seriously Concerned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Apple-MacBook-Air-13.3.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Buying refurbished? This Apple MacBook Air is the real deal." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/horrifying-video-shows-rats-snatching-bats-midair-and-scientists-are-seriously-concerned-2000678056" target="_blank">Horrifying Video Shows Rats Snatching Bats Midair, and Scientists Are Seriously Concerned</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-28 20:01</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/28/buying-refurbished-this-apple-macbook-air-is-the-real-deal.html" target="_blank">Buying refurbished? This Apple MacBook Air is the real deal.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-28 21:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 03:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
