@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 09:02:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-29 10:02:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5589165/furloughed-federal-employee-hot-dog-stand" target="_blank">This furloughed IRS lawyer is living out his dream of being a hot dog vendor</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-29 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/fact-checking-a-viral-chart-on-us-food-stamps-recipients-race-ethnicity?traffic_source=rss" target="_blank">Fact checking a viral chart on US food stamps recipients’ race, ethnicity</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 09:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Cuba-Melissa-DB-251029_1761724181490_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Storm makes landfall on Cuba at Category 3 status" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender deported from UK after mistaken release</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-29 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/29/trump-says-he-expects-great-deal-with-china-at-summit-with-xi?traffic_source=rss" target="_blank">Trump says he expects ‘great deal’ with China at summit with Xi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png" alt="Migrant sex offender deported from UK, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender deported from UK, government says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 06:01</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3l8j" target="_blank">Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 10:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/duolingo-finops-engineering/en/headerimage/header-1761578797848.jpeg" alt="Inside Duolingo’s FinOps Journey: Turning Cloud Spend into Engineering Insight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arm-Ethos-NPU-For-Linux-6.19" target="_blank">Arm Ethos NPU Accelerator Driver Expected To Be Merged For Linux 6.19</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-29 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn05wnpmyzolu362vf77f.png" alt="Playable Ads: The Secret Weapon Boosting Mobile Game Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gamepill/playable-ads-the-secret-weapon-boosting-mobile-game-success-2iab" target="_blank">Playable Ads: The Secret Weapon Boosting Mobile Game Success</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-29 00:02</span>
             </div>
         </div>
 </div>
@@ -347,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
