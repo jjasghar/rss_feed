@@ -1,27 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 04:04:59 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-29 05:01:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 04:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/29/guerrero-jr-blue-jays-smash-dodgers-in-game-4-to-even-world-series?traffic_source=rss" target="_blank">Guerrero Jr, Blue Jays smash Dodgers in Game 4 to even World Series</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 04:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4c/live/b3d3d5f0-b460-11f0-85b2-cb0a7dd6ae85.jpg" alt="Ben &amp; Jerry&#x27;s co-founder says Unilever blocked Palestine-themed ice cream" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1lqeqv9j9no?at_medium=RSS&at_campaign=rss" target="_blank">Ben &amp; Jerry&#x27;s co-founder says Unilever blocked Palestine-themed ice cream</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-10-29 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/melissa-4-ap-gmh-251028_1761664401464_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Strengthens to Category 4 as it barrels toward Cuba" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Strengthens to Category 4 as it barrels toward Cuba</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-29 03:36</span>
             </div>
         </div>
 <div class="story">
@@ -73,29 +96,20 @@
                 <span class="time">2025-10-29 01:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/last-ditch-push-pakistan-afghanistan-talks-falter-amid-deep-mistrust?traffic_source=rss" target="_blank">‘Last-ditch push’: Pakistan-Afghanistan talks falter amid deep mistrust</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3627/live/b2daf0a0-b458-11f0-a1fb-bd25202eee60.jpg" alt="Reeves vows to &#x27;defy&#x27; gloomy economic forecasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cql9ez5grpqo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves vows to &#x27;defy&#x27; gloomy economic forecasts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/808381/withings-u-scan-toilet-urine-test-health-nutrio-calci" target="_blank">Withings’ urine scanning health tracker is now available for $350</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-29 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +155,20 @@
                 <span class="time">2025-10-28 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-526258466-500x500.jpg" alt="Westinghouse is claiming a nuclear deal would see $80B of new reactors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/westinghouse-is-claiming-a-nuclear-deal-would-see-80b-of-new-reactors/" target="_blank">Westinghouse is claiming a nuclear deal would see $80B of new reactors</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-28 22:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asifa_azad_codex/creepy-helloween-party-invitation-card-helloween-css-art-46mf" target="_blank">Creepy Helloween Party Invitation card - Helloween Css Art</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 04:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-Distribute-CUDA-RHEL" target="_blank">Red Hat Affirms Plans To Distribute NVIDIA CUDA Across RHEL, Red Hat AI &amp; OpenShift</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-28 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toozuuu/ngxsmk-datatable-v110-type-safe-angular-tables-with-virtual-scrolling-frozen-columns-9k5" target="_blank">ngxsmk-datatable v1.1.0 – Type-Safe Angular Tables with Virtual Scrolling &amp; Frozen Columns</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 21:45</span>
             </div>
         </div>
 </div>
@@ -328,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
