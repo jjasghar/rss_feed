@@ -1,30 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 03:22:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-29 04:04:59 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4c/live/b3d3d5f0-b460-11f0-85b2-cb0a7dd6ae85.jpg" alt="Ben &amp; Jerry&#x27;s co-founder says Unilever blocked Palestine-themed ice cream" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1lqeqv9j9no?at_medium=RSS&at_campaign=rss" target="_blank">Ben &amp; Jerry&#x27;s co-founder says Unilever blocked Palestine-themed ice cream</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-29 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power" target="_blank">Tanzanian president poised to retain power as rivals barred from election</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-29 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +91,29 @@
                 <span class="time">2025-10-29 00:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5589180/trump-tariffs-senate-vote" target="_blank">Senate Republicans deal Trump a rare rebuke on trade with vote against Brazil tariffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/melissa-1-ap-er-251028_1761677193062_hpMain_4x3t_384.jpg" alt="Melissa ties with 2 other storms for strongest hurricane to make landfall in Atlantic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/hurricane-melissa-ranks-strongest-atlantic-storms-make-landfall/story?id=126943257" target="_blank">Melissa ties with 2 other storms for strongest hurricane to make landfall in Atlantic</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-28 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/lg-uplus-is-latest-south-korean-telco-to-confirm-cybersecurity-incident/" target="_blank">LG Uplus is latest South Korean telco to confirm cybersecurity incident</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 03:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/MAZDA_VISION_MODEL_3-X-COUPE-500x500.jpg" alt="Mazda shows a rotary hybrid concept for Tokyo with evolved design language" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/mazda-shows-a-rotary-hybrid-concept-for-tokyo-with-evolved-design-language/" target="_blank">Mazda shows a rotary hybrid concept for Tokyo with evolved design language</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-29 03:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,24 +148,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/10/westinghouse-is-claiming-a-nuclear-deal-would-see-80b-of-new-reactors/" target="_blank">Westinghouse is claiming a nuclear deal would see $80B of new reactors</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-28 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/" target="_blank">Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-28 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale" target="_blank">Nothing’s Ear Open earbuds are back under $100 right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-28 21:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
