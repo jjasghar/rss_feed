@@ -1,40 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 17:02:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-29 18:02:31 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/united-nations-calls-for-end-to-us-embargo-on-cuba-again?traffic_source=rss" target="_blank">United Nations calls for end to US embargo on Cuba, again</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/melissa-14-ap-gmh-251029_1761754850340_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Widespread destruction reported in Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +92,20 @@
                 <span class="time">2025-10-29 14:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/fuel-crisis-in-mali-spirals-as-armed-group-chokes-off-supplies-to-capital?traffic_source=rss" target="_blank">Mali fuel crisis spirals amid armed group blocking supplies to capital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/29/former-l3harris-trenchant-boss-pleads-guilty-to-selling-zero-day-exploits-to-russian-broker/" target="_blank">Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 17:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +149,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2025/10/nvidia-hits-record-5-trillion-mark-as-ceo-dismisses-ai-bubble-concerns/" target="_blank">Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-29 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68980a005a4ac78474e61637/master/pass/The%20Best%20Tents%20for%20Camping%20in%20Any%20Weather.png" alt="9 Best Tents (2025), Tested: Camping, Family, and Outdoor Palaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-camping-tents/" target="_blank">9 Best Tents (2025), Tested: Camping, Family, and Outdoor Palaces</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-29 14:30</span>
             </div>
         </div>
 </div>
@@ -251,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HHCW2Z6JNJK4TT27HS3X8KNB/hero-image.png" alt="The Best iPad for Most People Is on Sale for Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10th-generation-ipad-sale?utm_medium=RSS" target="_blank">The Best iPad for Most People Is on Sale for Its Lowest Price Ever</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-29 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/AOL-disks.-Copyright-c-2021-rblfmr-Shutterstoc.jpg?fit=1080%2C718&amp;quality=60&amp;ssl=1" alt="Italian company pays $1.5B for America&#x27;s most embarrassing email domain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/29/bending-spoons-pays-1-5b-for-americas-most-embarrassing-email-domain.html" target="_blank">Italian company pays $1.5B for America&#x27;s most embarrassing email domain</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-29 17:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8R9YXTC4WPTEAP07M27CDJ4/hero-image.png" alt="Grammarly Isn’t Going Anywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -286,24 +292,6 @@
                 <span class="time">2025-10-29 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/mornchckc-1280x720.jpg" alt="Breath Of The Wild‘s $180+ Vinyl Box Set Is A Test To See If Fans Want Physical Nintendo Soundtracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/breath-of-the-wilds-zelda-record-box-set-price-nintendo-apple-mario-update-switch-2-2000639847" target="_blank">Breath Of The Wild‘s $180+ Vinyl Box Set Is A Test To See If Fans Want Physical Nintendo Soundtracks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-29 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/main1-1280x720.jpg" alt="12 Things I Wish I Knew Before Playing Escape From Duckov" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/escape-from-duckov-guide-tips-weapon-mods-storm-2000639589" target="_blank">12 Things I Wish I Knew Before Playing Escape From Duckov</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-29 14:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
