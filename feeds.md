@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 12:02:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-29 13:11:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 22 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/29/g-s1-95523/israel-hamas-gaza-ceasefire" target="_blank">Israel says it&#x27;s resuming the ceasefire after its strikes in Gaza kill over 100 people</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-29 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/29/video-trump-predicts-trade-deal-with-china-ahead-of-apec-meeting-with-xi?traffic_source=rss" target="_blank">Video: Trump predicts trade deal with China ahead of APEC meeting with Xi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 12:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/melissa-damage-epa-jef-251028_1761679502855_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Storm strikes Cuba after tearing through Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761737639778_tdy_news_7a_nobles_shutdown_rolls_on_251029_1920x1080-isqwlx.jpg" alt="Federal Food Assistance Hangs in Balance as Shutdown Rolls On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/shutdown-day-29-flight-delays-pile-up-food-assistance-to-expire-250887749699" target="_blank">Federal Food Assistance Hangs in Balance as Shutdown Rolls On</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-29 11:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -67,38 +101,20 @@
                 <span class="time">2025-10-29 11:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffc/live/1c03cf10-b4b4-11f0-b245-913f6e55314b.jpg" alt="Jamaicans wake to devastation as hurricane causes floods, power cuts and splits city in two" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yl09v025lo?at_medium=RSS&at_campaign=rss" target="_blank">Jamaicans wake to devastation as hurricane causes floods, power cuts and splits city in two</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5589729/trump-xi-deal-south-korea-apec" target="_blank">Trump says he&#x27;s confident of a deal ahead of Xi meeting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-29 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss" target="_blank">Israel kills over 100 Palestinians in Gaza as Trump insists truce holds</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 09:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch" target="_blank">Grammarly is changing its name to Superhuman</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-29 13:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690197f96329aedebfe4cf32/master/pass/Review-%20Razer%20HyperFlux%20V2%20Wireless%20Charging%20System.png" alt="Razer HyperFlux V2 Wireless Charging System Review: A $120 Mousepad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +160,20 @@
                 <span class="time">2025-10-29 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/808381/withings-u-scan-toilet-urine-test-health-nutrio-calci" target="_blank">Withings’ urine scanning health tracker is now available for $350</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-29 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/ai-agent-orchestration/en/headerimage/AI-Agents-Header-1761736950529.jpg" alt="The Architectural Shift: AI Agents Become Execution Engines While Backends Retreat to Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/ai-agent-orchestration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The Architectural Shift: AI Agents Become Execution Engines While Backends Retreat to Governance</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-29 12:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,19 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3l8j" target="_blank">Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-29 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/duolingo-finops-engineering/en/headerimage/header-1761578797848.jpeg" alt="Inside Duolingo’s FinOps Journey: Turning Cloud Spend into Engineering Insight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/duolingo-finops-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Duolingo’s FinOps Journey: Turning Cloud Spend into Engineering Insight</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-29 09:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Ryzen-AI-XDNA-NPU3A" target="_blank">AMD XDNA Linux Driver Preps For New Ryzen AI &quot;NPU3A&quot; Revision</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-29 10:47</span>
             </div>
         </div>
 </div>
@@ -240,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GKB0YMPSPYF5MGD2T6P1Z/hero-image.jpg" alt="&#x27;Mind Maps&#x27; Are an Excellent Productivity Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-mind-maps-can-increase-productivity?utm_medium=RSS" target="_blank">&#x27;Mind Maps&#x27; Are an Excellent Productivity Hack</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-29 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/data-center-1280x853.jpg" alt="An AI Data Center Is Coming for Your Backyard. Here’s What That Means for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/truth-social-prediction-market-2000677813" target="_blank">Trump’s Media Company Set To Roll Out Polymarket-Like Prediction Market on Truth Social</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-29 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2688189269-1280x720.jpg" alt="Nvidia and Oracle Are Planning the ‘Largest Supercomputer’ in America for Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nvidia-supercomputers-for-trump-2000678264" target="_blank">Nvidia and Oracle Are Planning the ‘Largest Supercomputer’ in America for Trump</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-28 23:15</span>
             </div>
         </div>
 </div>
@@ -340,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
