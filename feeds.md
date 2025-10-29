@@ -1,28 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 18:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-29 19:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 14 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,9 +57,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/myanmar-rebels-to-withdraw-from-two-towns-under-new-china-brokered?traffic_source=rss" target="_blank">Myanmar rebels to withdraw from two towns under new China-brokered truce</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5564025/defend-american-culture-dhs-pledge-leaves-some-latinos-rattled" target="_blank">&quot;Defend American culture&quot;: DHS pledge leaves some Latinos rattled</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-29 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/united-nations-calls-for-end-to-us-embargo-on-cuba-again?traffic_source=rss" target="_blank">United Nations calls for end to US embargo on Cuba, again</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-29 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/Powellyt-7nowdj.jpg" alt="Fed Chair Jerome Powell speaks after interest rate decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-fed-chair-jerome-powell-speaks-after-interest-rate-decision-250911301712" target="_blank">Fed Chair Jerome Powell speaks after interest rate decision</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-29 17:33</span>
             </div>
         </div>
 <div class="story">
@@ -65,38 +107,38 @@
                 <span class="time">2025-10-29 15:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffc/live/1c03cf10-b4b4-11f0-b245-913f6e55314b.jpg" alt="Jamaicans start to reveal devastation as hurricane causes floods, power cuts and splits city in two" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yl09v025lo?at_medium=RSS&at_campaign=rss" target="_blank">Jamaicans start to reveal devastation as hurricane causes floods, power cuts and splits city in two</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5589793/white-house-fired-arts-commission" target="_blank">White House fires entire commission that reviews designs for federal buildings</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-29 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power" target="_blank">Violent protests erupt as Tanzanian president nears election victory</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-29 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/29/box-ceo-aaron-levie-on-how-ai-is-changing-the-enterprise-saas-landscape/" target="_blank">Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/809274/abxylute-m4-snap-on-mobile-wireless-smartphone-controller-magnetic-magsafe" target="_blank">This magnetic controller brings Game Boy-style controls to your smartphone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-29 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6902575aba6da1ec470b32b3/master/pass/The%20Pixel%20Watch%203%20is%20$100%20Off.png" alt="The Pixel Watch 3 Is $100 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pixel-watch-3-deal-1025/" target="_blank">The Pixel Watch 3 Is $100 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-29 18:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,38 +166,29 @@
                 <span class="time">2025-10-29 16:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage" target="_blank">A massive Microsoft Azure outage is taking down Xbox and 365</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-29 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/nvidia-becomes-first-public-company-worth-5-trillion/" target="_blank">Nvidia becomes first public company worth $5 trillion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-500x500.jpg" alt="Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/nvidia-hits-record-5-trillion-mark-as-ceo-dismisses-ai-bubble-concerns/" target="_blank">Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-29 14:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2.6-Released" target="_blank">Mesa 25.2.6 Released With Many Driver Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-29 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18718540&w=600" alt="Emerging Patterns in Large-Scale Event-Driven AI Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-real-time-event-driven-systems-with-agent" target="_blank">Emerging Patterns in Large-Scale Event-Driven AI Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-29 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,28 +219,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Pop-OS-24.04-In-December" target="_blank">Pop!_OS 24.04 LTS &amp; COSMIC Desktop Aim For December Stable Release</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4iaso0w8m5rphyr8g10.png" alt="🔥Top 7 Open-Source CLI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev_kiran/top-7-open-source-cli-tools-4dnl" target="_blank">🔥Top 7 Open-Source CLI Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-29 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18718566&w=600" alt="End of Static Knowledge Bases? How MCP Enables Live RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/live-rag-with-mcp-end-of-static-knowledge-bases" target="_blank">End of Static Knowledge Bases? How MCP Enables Live RAG</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-29 15:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=45748661" target="_blank">Tell HN: Azure outage</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-29 16:01</span>
             </div>
         </div>
 </div>
@@ -239,6 +254,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Colin-Farrell-Penguin-1280x853.jpg" alt="Colin Farrell Thinks ‘Batman Part II’ Is Great—and ‘Sgt. Rock’ Could’ve Been, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/colin-farrell-batman-part-2-sgt-rock-2000678798" target="_blank">Colin Farrell Thinks ‘Batman Part II’ Is Great—and ‘Sgt. Rock’ Could’ve Been, Too</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="How does JD Vance reconcile his bigotry with his wife, in-laws and kids?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/29/how-does-jd-vance-reconcile-his-bigotry-with-his-wife-in-laws-and-kids.html" target="_blank">How does JD Vance reconcile his bigotry with his wife, in-laws and kids?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-29 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8RFGSNW2YDZYJ8AJW0AHHYC/hero-image.jpg" alt="Here&#x27;s When You Can Expect Apple’s First OLED MacBook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/oled-macbook-ipad-rumors?utm_medium=RSS" target="_blank">Here&#x27;s When You Can Expect Apple’s First OLED MacBook</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-29 18:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HHCW2Z6JNJK4TT27HS3X8KNB/hero-image.png" alt="The Best iPad for Most People Is on Sale for Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -265,38 +307,20 @@
                 <span class="time">2025-10-29 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/05/01eb1f1332dfff9089c2405eb36c0c6b-1280x720.jpg" alt="Final Fantasy VII Rebirth Director Says There Are Times When Yellow Paint Is ‘Definitely Needed’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-vii-rebirth-director-says-there-are-times-when-yellow-paint-is-definitely-needed-2000639876" target="_blank">Final Fantasy VII Rebirth Director Says There Are Times When Yellow Paint Is ‘Definitely Needed’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-29 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/feature-Front-cover-4-22-FINAL.jpg?fit=1200%2C702&amp;quality=60&amp;ssl=1" alt="Cartoonist Peter Kuper wishes we weren&#x27;t here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/29/cartoonist-peter-kuper-wishes-we-werent-here.html" target="_blank">Cartoonist Peter Kuper wishes we weren&#x27;t here</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-29 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/pixel-buds-2a-vs-oneplus-buds-4-1280x853.jpg" alt="Google Pixel Buds 2a vs. OnePlus Buds 4: Which Wireless Earbuds Win?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-pixel-buds-2a-vs-oneplus-buds-4-which-wireless-earbuds-win-2000677664" target="_blank">Google Pixel Buds 2a vs. OnePlus Buds 4: Which Wireless Earbuds Win?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1761699988-20251029.png" alt="Saturday Morning Breakfast Cereal - Aww" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/aww" target="_blank">Saturday Morning Breakfast Cereal - Aww</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-29 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
