@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 20:01:56 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-29 21:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Sonya-Massey-1-ht-jm-240729_1722283390761_hpMain_4x3t_384.jpg" alt="Former deputy guilty of murder in Sonya Massey&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/sonya-massey-murder-trial-juror-massey-family-cry/story?id=126936377" target="_blank">Former deputy guilty of murder in Sonya Massey&#x27;s death</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-29 20:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/myanmar-rebels-to-withdraw-from-two-towns-under-new-china-brokered?traffic_source=rss" target="_blank">Myanmar rebels to withdraw from two towns under new China-brokered truce</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-29 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761763815285_now_daily_b_fed_rate_cut_251029_1920x1080-3w28ko.jpg" alt="Fed makes second consecutive interest rate cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/fed-makes-second-consecutive-interest-rate-cut-250925125524" target="_blank">Fed makes second consecutive interest rate cut</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-29 18:50</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +96,29 @@
                 <span class="time">2025-10-29 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffc/live/1c03cf10-b4b4-11f0-b245-913f6e55314b.jpg" alt="Jamaicans take stock after hurricane causes damage, flooding and power cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yl09v025lo?at_medium=RSS&at_campaign=rss" target="_blank">Jamaicans take stock after hurricane causes damage, flooding and power cuts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/united-nations-calls-for-end-to-us-embargo-on-cuba-again?traffic_source=rss" target="_blank">United Nations calls for end to US embargo on Cuba, again</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69025f9c42a73fc665080443/master/pass/sec-microsoft-azure--2190627170.jpg" alt="The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/" target="_blank">The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-29 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/" target="_blank">2024’s Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-122179143-500x500.jpg" alt="Trump health official ousted after allegedly giving himself a fake title" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +155,6 @@
                 <span class="time">2025-10-29 18:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/former-l3harris-trenchant-boss-pleads-guilty-to-selling-zero-day-exploits-to-russian-broker/" target="_blank">Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/elevenlabs-ceo-says-ai-audio-models-will-be-commoditized-over-time/" target="_blank">ElevenLabs CEO says AI audio models will be ‘commoditized’ over time</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +164,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vulcanwm/i-think-game-dev-isnt-my-thing-and-thats-okay-3h5j" target="_blank">I Think Game Dev Isn’t My Thing (And That’s Okay)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-3jb" target="_blank">Security-is-Not-a-Feature-Its-a-Foundation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-29 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18718530&w=600" alt="From Autocomplete to Co-Creation: How AI Changes Developing/Debugging Workflows in Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-cocreation-developer-debugging-workflows" target="_blank">From Autocomplete to Co-Creation: How AI Changes Developing/Debugging Workflows in Engineering</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-29 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/building-real-time-event-driven-systems-with-agent" target="_blank">Emerging Patterns in Large-Scale Event-Driven AI Systems</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-10-29 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/beyond-vibe-coding-with-addy-osmani" target="_blank">Beyond Vibe Coding with Addy Osmani</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-29 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://emily.space/posts/251023-uv" target="_blank">uv is the best thing to happen to the Python ecosystem in a decade</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-29 16:10</span>
             </div>
         </div>
 </div>
@@ -243,12 +243,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/everythingMAIN-1280x720.jpg" alt="Arc Raiders: Everything You Need To Know Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-pvpve-extraction-maps-embark-studios-2000639945" target="_blank">Arc Raiders: Everything You Need To Know Before Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-29 20:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/halloween-clowns-hell-house-it-clown-in-a-cornfield-terrifier-1280x853.jpg" alt="We Asked the Creator of ‘Hell House LLC’ Why Killer Clowns Never Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/we-asked-the-creator-of-hell-house-llc-why-killer-clowns-never-die-2000678815" target="_blank">We Asked the Creator of ‘Hell House LLC’ Why Killer Clowns Never Die</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8RR0WJ03PE8VY50QF7XZNX5/hero-image.jpg" alt="Fitbit Is Finally Fixing Its Cardio Load Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitbit-fixing-cardio-load-feature?utm_medium=RSS" target="_blank">Fitbit Is Finally Fixing Its Cardio Load Problem</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/aglio1.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Louvre ladder company makes ad campaign of heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/29/louvre-ladder-company-makes-ad-campaign-of-heist.html" target="_blank">Louvre ladder company makes ad campaign of heist</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-29 19:40</span>
             </div>
         </div>
 <div class="story">
@@ -267,33 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/colin-farrell-batman-part-2-sgt-rock-2000678798" target="_blank">Colin Farrell Thinks ‘Batman Part II’ Is Great—and ‘Sgt. Rock’ Could’ve Been, Too</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/edibles-e1761763972322.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="High, hungry, and wholesome: this stoned mom reviews local restaurants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/29/high-hungry-and-wholesome-this-stoned-mom-reviews-local-restaurants.html" target="_blank">High, hungry, and wholesome: this stoned mom reviews local restaurants</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-29 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="How does JD Vance reconcile his bigotry with his wife, in-laws and kids?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/29/how-does-jd-vance-reconcile-his-bigotry-with-his-wife-in-laws-and-kids.html" target="_blank">How does JD Vance reconcile his bigotry with his wife, in-laws and kids?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-29 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8RFGSNW2YDZYJ8AJW0AHHYC/hero-image.jpg" alt="Here&#x27;s When You Can Expect Apple’s First OLED MacBook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/oled-macbook-ipad-rumors?utm_medium=RSS" target="_blank">Here&#x27;s When You Can Expect Apple’s First OLED MacBook</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-29 18:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
