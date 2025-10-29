@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 14:01:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-29 15:01:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffc/live/1c03cf10-b4b4-11f0-b245-913f6e55314b.jpg" alt="Jamaicans start to reveal devastation as hurricane causes floods, power cuts and splits city in two" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yl09v025lo?at_medium=RSS&at_campaign=rss" target="_blank">Jamaicans start to reveal devastation as hurricane causes floods, power cuts and splits city in two</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-29 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power" target="_blank">Violent protests erupt as Tanzanian president nears election victory</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-29 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/fuel-crisis-in-mali-spirals-as-armed-group-chokes-off-supplies-to-capital?traffic_source=rss" target="_blank">Mali fuel crisis spirals amid armed group blocking supplies to capital</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 14:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +103,29 @@
                 <span class="time">2025-10-29 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1b/live/0eaaf640-b4b9-11f0-aa13-0b0479f6f42a.jpg" alt="Migrant sex offender given £500 after threat to disrupt deportation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender given £500 after threat to disrupt deportation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 11:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761737639778_tdy_news_7a_nobles_shutdown_rolls_on_251029_1920x1080-isqwlx.jpg" alt="Federal Food Assistance Hangs in Balance as Shutdown Rolls On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/shutdown-day-29-flight-delays-pile-up-food-assistance-to-expire-250887749699" target="_blank">Federal Food Assistance Hangs in Balance as Shutdown Rolls On</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-29 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/29/jamaicas-government-is-appealing-for-overseas-aid-after-the-most-powerful?traffic_source=rss" target="_blank">Jamaica’s government is appealing for overseas aid after the most powerful</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-500x500.jpg" alt="Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/nvidia-hits-record-5-trillion-mark-as-ceo-dismisses-ai-bubble-concerns/" target="_blank">Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-29 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68980a005a4ac78474e61637/master/pass/The%20Best%20Tents%20for%20Camping%20in%20Any%20Weather.png" alt="9 Best Tents (2025), Tested: Camping, Family, and Outdoor Palaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-camping-tents/" target="_blank">9 Best Tents (2025), Tested: Camping, Family, and Outdoor Palaces</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-29 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +162,29 @@
                 <span class="time">2025-10-29 07:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fa23ce395aed231a6f8621/master/pass/3.jpeg" alt="Rainfall Buries a Mega-Airport in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rainfall-buries-a-mega-airport-in-mexico/" target="_blank">Rainfall Buries a Mega-Airport in Mexico</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-29 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/" target="_blank">CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/radeon-ai-pro-r9700-opencl" target="_blank">AMD Radeon AI PRO R9700 Performance For OpenCL Workloads</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-29 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmymll4opgghty67nm35.png" alt="9 Useful Open Source Projects to Simplify Your Life as a Developer 🧑‍💻⚡️" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/madza/9-useful-open-source-projects-to-simplify-your-life-as-a-developer-1111" target="_blank">9 Useful Open Source Projects to Simplify Your Life as a Developer 🧑‍💻⚡️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 14:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +221,6 @@
                 <span class="time">2025-10-29 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/cncf-vcluster-multitenancy/en/headerimage/generatedHeaderImage-1761223694474.jpg" alt="CNCF Highlights How vCluster Eases Kubernetes Multi-Tenancy Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/cncf-vcluster-multitenancy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CNCF Highlights How vCluster Eases Kubernetes Multi-Tenancy Challenges</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18716910&w=600" alt="HSTS Beyond the Basics: Securing AI Infrastructure and Modern Attack Vectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-hsts-protocol" target="_blank">HSTS Beyond the Basics: Securing AI Infrastructure and Modern Attack Vectors</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-29 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +250,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/main1-1280x720.jpg" alt="12 Things I Wish I Knew Before Playing Escape From Duckov" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/escape-from-duckov-guide-tips-weapon-mods-storm-2000639589" target="_blank">12 Things I Wish I Knew Before Playing Escape From Duckov</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-29 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/outerworlds2.png?fit=1136%2C618&amp;quality=55&amp;ssl=1" alt="The Outer Worlds 2 fixes everything wrong with the original" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/29/the-outer-worlds-2-fixes-everything-wrong-with-the-original.html" target="_blank">The Outer Worlds 2 fixes everything wrong with the original</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-29 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8QWRBDGT4H1DBG7CFAD9X4A/hero-image.png" alt="This Lenovo IdeaPad Laptop Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lenovo-ideapad-1i-laptop-sale?utm_medium=RSS" target="_blank">This Lenovo IdeaPad Laptop Is Nearly 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-29 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2GKB0YMPSPYF5MGD2T6P1Z/hero-image.jpg" alt="&#x27;Mind Maps&#x27; Are an Excellent Productivity Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -273,33 +301,6 @@
                 <span class="title"><a href="https://gizmodo.com/chip-startup-backed-by-peter-thiel-and-in-q-tel-seeks-to-revolutionize-the-semiconductor-biz-2000678236" target="_blank">Chip Startup Backed by Peter Thiel and In-Q-Tel Seeks to Revolutionize the Semiconductor Biz</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-29 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Weddell-Sea-Expedition-2019-1280x853.jpg" alt="Scientists Went Looking for Shackleton’s Endurance. They found a Hidden Fish City in Perfect Formation Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-went-looking-for-shackletons-endurance-they-found-a-hidden-fish-city-in-perfect-formation-instead-2000678100" target="_blank">Scientists Went Looking for Shackleton’s Endurance. They found a Hidden Fish City in Perfect Formation Instead</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ninja-xl-air-fryer-1280x853.jpg" alt="Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ninja-offloads-the-6-in-1-dualzone-air-fryer-now-50-off-if-you-buy-on-amazon-2000639745" target="_blank">Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-29 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/truth-social-1280x853.jpg" alt="Trump’s Media Company Set To Roll Out Polymarket-Like Prediction Market on Truth Social" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/truth-social-prediction-market-2000677813" target="_blank">Trump’s Media Company Set To Roll Out Polymarket-Like Prediction Market on Truth Social</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 00:23</span>
             </div>
         </div>
 </div>
@@ -348,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
