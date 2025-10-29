@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 22:01:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-29 23:01:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 22:01 UTC</div>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +106,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/29/solana-co-founder-anatoly-yakovenko-is-a-big-fan-of-agentic-coding/" target="_blank">Solana co-founder Anatoly Yakovenko is a big fan of agentic coding</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted" target="_blank">Trump administration charges influencer and congressional candidate over ICE protests</a></span>
                 <span class="feed">The Verge</span>
@@ -150,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/29/box-ceo-aaron-levie-on-how-ai-is-changing-the-enterprise-saas-landscape/" target="_blank">Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-29 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/809274/abxylute-m4-snap-on-mobile-wireless-smartphone-controller-magnetic-magsafe" target="_blank">This magnetic controller brings Game Boy-style controls to your smartphone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-29 18:37</span>
             </div>
         </div>
 </div>
@@ -249,6 +245,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2681902813-e1761777398744-1280x852.jpg" alt="Nvidia CEO Jensen Huang Makes His Case for China Trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-ceo-jensen-huang-makes-his-case-for-china-trade-2000678877" target="_blank">Nvidia CEO Jensen Huang Makes His Case for China Trade</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-29 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8RXFKWH6K44EXRJP8AE923Z/hero-image.png" alt="Magic Leap, One of the Biggest Flops in AR, Is Back with Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/magic-leap-ar-glasses-prototype?utm_medium=RSS" target="_blank">Magic Leap, One of the Biggest Flops in AR, Is Back with Smart Glasses</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-29 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Desktop-Defender-Hed-1280x720.jpg" alt="Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,24 +298,6 @@
                 <span class="time">2025-10-29 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8RR0WJ03PE8VY50QF7XZNX5/hero-image.jpg" alt="Fitbit Is Finally Fixing Its Cardio Load Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitbit-fixing-cardio-load-feature?utm_medium=RSS" target="_blank">Fitbit Is Finally Fixing Its Cardio Load Problem</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/aglio1.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Louvre ladder company makes ad campaign of heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/29/louvre-ladder-company-makes-ad-campaign-of-heist.html" target="_blank">Louvre ladder company makes ad campaign of heist</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-29 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,6 +322,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/airspeed.png" alt="Airspeed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3161/" target="_blank">Airspeed</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-29 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5689.png" alt="Laundry Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -339,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
