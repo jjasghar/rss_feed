@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 10:02:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-29 11:01:41 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5589729/trump-xi-deal-south-korea-apec" target="_blank">Trump says he&#x27;s confident of a deal ahead of Xi meeting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-29 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss" target="_blank">Israel kills over 100 Palestinians in Gaza as Trump insists truce holds</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5589165/furloughed-federal-employee-hot-dog-stand" target="_blank">This furloughed IRS lawyer is living out his dream of being a hot dog vendor</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-29 09:34</span>
@@ -65,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251028-snap-benefits-food-bank-govt-shutdown-bf-1143-522da4.jpg" alt="Shutdown pain intensifies as air traffic controllers lose pay and food assistance is drying up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/government-shutdown-pain-air-traffic-control-snap-wic-benefits-tsa-rcna240244" target="_blank">Shutdown pain intensifies as air traffic controllers lose pay and food assistance is drying up</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Cuba-Melissa-DB-251029_1761724181490_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Storm makes landfall on Cuba at Category 3 status" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -73,38 +102,20 @@
                 <span class="time">2025-10-29 07:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/jamaica-declares-disaster-after-monstrous-melissa-ravages-island?traffic_source=rss" target="_blank">Jamaica declares disaster as ‘Monstrous Melissa’ ravages island</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 07:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f0f/live/b9b95db0-b428-11f0-b2a1-6f537f66f9aa.jpg" alt="Tight race in Dutch election as anti-Islam populist Wilders&#x27; hope of power declines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20p6z2j5dro?at_medium=RSS&at_campaign=rss" target="_blank">Tight race in Dutch election as anti-Islam populist Wilders&#x27; hope of power declines</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a1b/live/3f951a50-b48d-11f0-b2a1-6f537f66f9aa.jpg" alt="Migrant sex offender deported from UK after mistaken release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender deported from UK after mistaken release</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 07:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/807711/xbox-ally-sleep-fail-bazzite-fix-performance" target="_blank">Say it with me: Windows is the problem with Windows handhelds</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,20 @@
                 <span class="time">2025-10-29 03:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/MAZDA_VISION_MODEL_3-X-COUPE-500x500.jpg" alt="Mazda shows a rotary hybrid concept for Tokyo with evolved design language" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/mazda-shows-a-rotary-hybrid-concept-for-tokyo-with-evolved-design-language/" target="_blank">Mazda shows a rotary hybrid concept for Tokyo with evolved design language</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-29 03:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/erinholand321/the-importance-of-networking-in-your-career-1d5d" target="_blank">The Importance of Networking in Your Career</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 10:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="time">2025-10-29 01:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arm-Ethos-NPU-For-Linux-6.19" target="_blank">Arm Ethos NPU Accelerator Driver Expected To Be Merged For Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-29 00:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,15 +232,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/" target="_blank">Aisuru Botnet Shifts from DDoS to Residential Proxies</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2025-10-29 00:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html" target="_blank">Social Engineering People’s Credit Card Details</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-28 11:01</span>
             </div>
         </div>
 </div>
@@ -346,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
