@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 08:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-29 09:02:21 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +54,15 @@
                 <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Storm makes landfall on Cuba at Category 3 status</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-29 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/jamaica-declares-disaster-after-monstrous-melissa-ravages-island?traffic_source=rss" target="_blank">Jamaica declares disaster as ‘Monstrous Melissa’ ravages island</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 07:27</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +101,6 @@
                 <span class="time">2025-10-29 06:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5589702/north-korea-missile-tests-trump-south-korea" target="_blank">North Korea touts missile tests as Trump visits South Korea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-29 05:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/29/flipkarts-super-money-teams-up-with-kotak-bank-to-make-indias-free-upi-payments-pay/" target="_blank">Flipkart’s Super.money teams up with Kotak811 to make India’s free UPI payments pay</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-29 07:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68fa23ce395aed231a6f8621/master/pass/3.jpeg" alt="Rainfall Buries a Mega-Airport in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rainfall-buries-a-mega-airport-in-mexico/" target="_blank">Rainfall Buries a Mega-Airport in Mexico</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-29 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +160,20 @@
                 <span class="time">2025-10-29 03:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/28/tata-motors-confirms-it-fixed-security-flaws-that-exposed-company-and-customer-data/" target="_blank">Tata Motors confirms it fixed security flaws, which exposed company and customer data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 01:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/duolingo-finops-engineering/en/headerimage/header-1761578797848.jpeg" alt="Inside Duolingo’s FinOps Journey: Turning Cloud Spend into Engineering Insight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/duolingo-finops-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Duolingo’s FinOps Journey: Turning Cloud Spend into Engineering Insight</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-29 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="time">2025-10-29 00:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gentos/how-to-onboard-engineers-faster-306g" target="_blank">How to onboard engineers 10x faster</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2022/11/2e54019cbc50bbdf8d21e7ea1ba020f2-1024x576.jpg" alt="Chip Startup Backed by Peter Thiel and In-Q-Tel Seeks to Revolutionize the Semiconductor Biz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chip-startup-backed-by-peter-thiel-and-in-q-tel-seeks-to-revolutionize-the-semiconductor-biz-2000678236" target="_blank">Chip Startup Backed by Peter Thiel and In-Q-Tel Seeks to Revolutionize the Semiconductor Biz</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-29 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Weddell-Sea-Expedition-2019-1280x853.jpg" alt="Scientists Went Looking for Shackleton’s Endurance. They found a Hidden Fish City in Perfect Formation Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-creep-tapes-season-2-will-dig-even-further-into-the-madness-2000678239" target="_blank">‘The Creep Tapes’ Season 2 Will Dig Even Further Into the Madness</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-28 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8NTA3FFRC35AS760TH590R4/hero-image.jpg" alt="Elon Musk’s &#x27;Grokipedia&#x27; Is Certainly No Wikipedia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/grokipedia-is-real-and-you-should-not-use-it?utm_medium=RSS" target="_blank">Elon Musk’s &#x27;Grokipedia&#x27; Is Certainly No Wikipedia</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-28 21:50</span>
             </div>
         </div>
 </div>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
