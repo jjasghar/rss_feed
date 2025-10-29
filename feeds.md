@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 07:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-29 08:02:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Cuba-Melissa-DB-251029_1761724181490_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Storm makes landfall on Cuba at Category 3 status" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/hurricane-melissa-live-updates-powerful-storm-poses-catastrophic/?id=126883938" target="_blank">Hurricane Melissa live updates: Storm makes landfall on Cuba at Category 3 status</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-29 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f0f/live/b9b95db0-b428-11f0-b2a1-6f537f66f9aa.jpg" alt="Tight race in Dutch election as anti-Islam populist Wilders&#x27; hope of power declines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20p6z2j5dro?at_medium=RSS&at_campaign=rss" target="_blank">Tight race in Dutch election as anti-Islam populist Wilders&#x27; hope of power declines</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-29 07:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a1b/live/3f951a50-b48d-11f0-b2a1-6f537f66f9aa.jpg" alt="Migrant sex offender deported from UK after mistaken release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss" target="_blank">Migrant sex offender deported from UK after mistaken release</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-29 07:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +99,20 @@
                 <span class="time">2025-10-29 05:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/10/29/live-australia-vs-india-first-t20-international?traffic_source=rss" target="_blank">LIVE: Australia vs India – first T20 international</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/29/guerrero-jr-blue-jays-smash-dodgers-in-game-4-to-even-world-series?traffic_source=rss" target="_blank">Guerrero Jr, Blue Jays smash Dodgers in Game 4 to even World Series</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4c/live/b3d3d5f0-b460-11f0-85b2-cb0a7dd6ae85.jpg" alt="Ben &amp; Jerry&#x27;s co-founder says Unilever blocked Palestine-themed ice cream" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1lqeqv9j9no?at_medium=RSS&at_campaign=rss" target="_blank">Ben &amp; Jerry&#x27;s co-founder says Unilever blocked Palestine-themed ice cream</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-29 03:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/29/flipkarts-super-money-teams-up-with-kotak-bank-to-make-indias-free-upi-payments-pay/" target="_blank">Flipkart’s Super.money teams up with Kotak811 to make India’s free UPI payments pay</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 07:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +158,6 @@
                 <span class="time">2025-10-29 01:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/" target="_blank">‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/asifa_azad_codex/creepy-helloween-party-invitation-card-helloween-css-art-46mf" target="_blank">Creepy Helloween Party Invitation card - Helloween Css Art</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-29 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://keepandroidopen.org/" target="_blank">Keep Android Open</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-29 04:03</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/gentos/how-to-onboard-engineers-faster-306g" target="_blank">How to onboard engineers 10x faster</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-28 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-Distribute-CUDA-RHEL" target="_blank">Red Hat Affirms Plans To Distribute NVIDIA CUDA Across RHEL, Red Hat AI &amp; OpenShift</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-28 21:52</span>
             </div>
         </div>
 </div>
@@ -302,6 +305,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/29/the-least" target="_blank">The Least</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-29 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5689.png" alt="Laundry Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -333,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
