@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-28 23:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-29 00:04:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, October 28, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 29, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5589180/trump-tariffs-senate-vote" target="_blank">Senate Republicans deal Trump a rare rebuke on trade with vote against Brazil tariffs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-28 23:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/melissa-1-ap-er-251028_1761677193062_hpMain_4x3t_384.jpg" alt="Melissa ties with 2 other storms for strongest hurricane to make landfall in Atlantic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/hurricane-melissa-ranks-strongest-atlantic-storms-make-landfall/story?id=126943257" target="_blank">Melissa ties with 2 other storms for strongest hurricane to make landfall in Atlantic</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-28 23:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/28/venezuela-declares-trinidad-and-tobagos-prime-minister-persona-non-grata?traffic_source=rss" target="_blank">Venezuela declares Trinidad and Tobago’s prime minister persona non grata</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-28 23:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/melissa-4-ap-gmh-251028_1761664401464_hpMain_4x3t_384.jpg" alt="Hurricane Melissa live updates: Storm having catastrophic effect on western Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,38 +102,38 @@
                 <span class="time">2025-10-28 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-hurricane-melissa-kingston_7065397.jpg?20251028225010" alt="&#x27;Very nervous&#x27;: British tourists in Jamaica tell of Hurricane Melissa ordeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/very-nervous-british-tourists-in-jamaica-tell-of-scary-hurricane-melissa-ordeal-13459602" target="_blank">&#x27;Very nervous&#x27;: British tourists in Jamaica tell of Hurricane Melissa ordeal</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-28 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/28/nx-s1-5570902-e1/a-matchmaking-site-helps-farmers-find-buyers-for-their-land" target="_blank">A matchmaking site helps farmers find buyers for their land</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-28 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/28/grandparents-raising-36-children-after-losing-sons-in-gaza-war?traffic_source=rss" target="_blank">Grandparents raising 36 children after losing sons in Gaza war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-28 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/" target="_blank">‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-28 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-526258466-500x500.jpg" alt="Westinghouse is claiming a nuclear deal would see $80B of new reactors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/westinghouse-is-claiming-a-nuclear-deal-would-see-80b-of-new-reactors/" target="_blank">Westinghouse is claiming a nuclear deal would see $80B of new reactors</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-28 22:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +161,20 @@
                 <span class="time">2025-10-28 19:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ffcd33912f31ccdaa888c4/master/pass/HBO-Show-Guide-Culture-IT-bill-skarsgard.jpg" alt="The 50 Best Shows on HBO Max Right Now (November 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/" target="_blank">The 50 Best Shows on HBO Max Right Now (November 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-28 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games" target="_blank">Amazon is ditching MMOs and cranking out party games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-28 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/28/sam-altman-says-openai-will-have-a-legitimate-ai-researcher-by-2028/" target="_blank">Sam Altman says OpenAI will have a ‘legitimate AI researcher’ by 2028</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-28 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn05wnpmyzolu362vf77f.png" alt="Playable Ads: The Secret Weapon Boosting Mobile Game Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gamepill/playable-ads-the-secret-weapon-boosting-mobile-game-success-2iab" target="_blank">Playable Ads: The Secret Weapon Boosting Mobile Game Success</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 00:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +220,6 @@
                 <span class="time">2025-10-28 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nahla_thabet_54e011e4cb76/kustomization-tutorial-4m32" target="_blank">Kustomization Tutorial</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-28 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2688189269-1280x720.jpg" alt="Nvidia and Oracle Are Planning the ‘Largest Supercomputer’ in America for Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-supercomputers-for-trump-2000678264" target="_blank">Nvidia and Oracle Are Planning the ‘Largest Supercomputer’ in America for Trump</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-28 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/creep-tapes-s2-1280x853.jpg" alt="‘The Creep Tapes’ Season 2 Will Dig Even Further Into the Madness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,30 +276,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/the-frog.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Portland frog costumes are effective psychological warfare against authoritarianism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/28/portland-frog-costumes-are-effective-psychological-warfare-against-authoritarianism.html" target="_blank">Portland frog costumes are effective psychological warfare against authoritarianism</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-28 19:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8NZZC91GF99AF4D6ADK01YW/hero-image.png" alt="Why Now Is the Best Time to Buy a Peloton With a Referral Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/health/why-you-should-use-or-give-a-peloton-referral-code?utm_medium=RSS" target="_blank">Why Now Is the Best Time to Buy a Peloton With a Referral Code</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-28 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/elon-doge.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Elon Musk&#x27;s cringe-posting addiction cost Tesla over one million car sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/28/elon-musks-cringe-posting-addiction-cost-tesla-over-one-million-car-sales.html" target="_blank">Elon Musk&#x27;s cringe-posting addiction cost Tesla over one million car sales</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-28 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/amazon-prime-video-horror-streaming-1280x853.jpg" alt="The 10 Most Unhinged Horror Titles We Found on Prime Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-10-most-unhinged-horror-titles-we-found-on-prime-video-2000677600" target="_blank">The 10 Most Unhinged Horror Titles We Found on Prime Video</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-28 16:50</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
