@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 00:04:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-30 01:29:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761779301309_nn_gso_hurricane_melissa_destruction_251029_1920x1080-3p3s0i.jpg" alt="Hurricane Melissa leaves trail of devastation in Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hurricane-melissa-leaves-trail-of-devastation-in-jamaica-250947141944" target="_blank">Hurricane Melissa leaves trail of devastation in Jamaica</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-29 23:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Sonya-Massey-1-ht-jm-240729_1722283390761_hpMain_4x3t_384.jpg" alt="Former deputy guilty of murder in Sonya Massey&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/myanmar-rebels-to-withdraw-from-two-towns-under-new-china-brokered?traffic_source=rss" target="_blank">Myanmar rebels to withdraw from two towns under new China-brokered truce</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-29 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761763815285_now_daily_b_fed_rate_cut_251029_1920x1080-3w28ko.jpg" alt="Fed makes second consecutive interest rate cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/fed-makes-second-consecutive-interest-rate-cut-250925125524" target="_blank">Fed makes second consecutive interest rate cut</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-29 18:50</span>
             </div>
         </div>
 </div>
@@ -232,20 +232,20 @@
                 <span class="time">2025-10-29 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/" target="_blank">Aisuru Botnet Shifts from DDoS to Residential Proxies</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-10-29 00:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/zuckerberg-1280x853.jpg" alt="Zuck Acknowledges Meta Might Not Use AI Investments for New AI After All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zuck-acknowledges-meta-might-not-use-ai-investments-for-new-ai-after-all-2000679070" target="_blank">Zuck Acknowledges Meta Might Not Use AI Investments for New AI After All</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-30 01:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/anker-160w-charger-1280x853.jpg" alt="Anker Starts Black Friday Early, This 160W 3-Port Compact USB-C Charger Is Selling for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,20 +291,29 @@
                 <span class="time">2025-10-29 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/everythingMAIN-1280x720.jpg" alt="Arc Raiders: Everything You Need To Know Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-pvpve-extraction-maps-embark-studios-2000639945" target="_blank">Arc Raiders: Everything You Need To Know Before Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-29 20:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5690.png" alt="Lower The Portcullis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5690" target="_blank">Lower The Portcullis</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-30 00:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/30/the-least" target="_blank">The Least</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-30 00:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1761699988-20251029.png" alt="Saturday Morning Breakfast Cereal - Aww" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -332,22 +341,13 @@
                 <span class="time">2025-10-29 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5689.png" alt="Laundry Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5689" target="_blank">Laundry Day</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-29 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
