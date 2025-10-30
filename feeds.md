@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 12:02:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-30 13:10:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/30/trump-and-xi-held-face-to-face-trade-talks-what-did-they-agree?traffic_source=rss" target="_blank">Trump and Xi held face-to-face trade talks – what did they agree?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 12:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/trump_xi-jbzynr.jpg" alt="Trump hails ‘amazing’ meeting with Chinese President Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-hails-amazing-meeting-with-chinese-president-xi-250971205585" target="_blank">Trump hails ‘amazing’ meeting with Chinese President Xi</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-30 09:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Trump-Xi-DB-251030_1761809674458_hpMain_4x3t_384.jpg" alt="Trump says China tariffs being reduced after &#x27;amazing&#x27; Xi meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -76,29 +102,38 @@
                 <span class="time">2025-10-30 08:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/five-more-arrested-in-france-over-louvre-jewellery-heist-says-prosecutor?traffic_source=rss" target="_blank">Five more arrested in France over Louvre jewellery heist, says prosecutor</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 08:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ae/live/6a3b8cd0-b564-11f0-b21a-99b56b1fa370.png" alt="Five new suspects arrested over Louvre jewellery theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz91jnyelq2o?at_medium=RSS&at_campaign=rss" target="_blank">Five new suspects arrested over Louvre jewellery theft</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-30 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/" target="_blank">The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-30 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6902b810d51ee9721674f83c/master/pass/The%2014%20Best%20Gifts%20for%20Lego%20Lovers.png" alt="14 Best Lego Gifts for Brick Builders (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-lego-lovers/" target="_blank">14 Best Lego Gifts for Brick Builders (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-30 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/809882/universal-music-udio-settlement" target="_blank">Universal partners with AI startup Udio after settling copyright suit</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 13:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,38 +161,20 @@
                 <span class="time">2025-10-30 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Code: 25% Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exclusive-kitchenaid-promo-code/" target="_blank">KitchenAid Promo Code: 25% Off in November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-30 05:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/intrcity-smartbus-lands-30m-at-140m-valuation-to-deepen-its-grip-on-indias-intercity-travel-market/" target="_blank">IntrCity SmartBus lands $30M at $140M valuation to deepen its grip on India’s intercity travel market</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-30 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6902815b030326d7e206e552/master/pass/Microsoft-Google-Meta-Report-Earnings-Business-2242649875.jpg" alt="Meta, Google, and Microsoft Triple Down on AI Spending" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/microsoft-google-meta-2025-earnings/" target="_blank">Meta, Google, and Microsoft Triple Down on AI Spending</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-30 02:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2127165%2F021925e3-db39-4911-bd2f-a0a3614ce183.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/velwyn_sam_bd8c14920e351a/-4b61" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 12:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/career-test-automation/en/headerimage/career-test-automation-header-1759497536098.jpg" alt="Changing a Career from Developing Software to Test Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,13 +220,18 @@
                 <span class="time">2025-10-30 09:52</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2510.15511" target="_blank">Language Models Are Injective and Hence Invertible</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-30 09:47</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html" target="_blank">The AI-Designed Bioweapon Arms Race</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-10-30 11:05</span>
             </div>
         </div>
 </div>
@@ -217,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Stranger-things-Eleven-Hopper-Netflix--1280x853.jpg" alt="The New ‘Stranger Things’ Season 5 Trailer Brings the Final Battle to Hawkins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-season-5-trailer-netflix-2000679029" target="_blank">The New ‘Stranger Things’ Season 5 Trailer Brings the Final Battle to Hawkins</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/lego-darth-vader-set-1280x853.jpg" alt="LEGO Kicks Off Black Friday, Star Wars Set with Darth Vader’s Helmet Is Selling for Nearly Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +293,6 @@
                 <span class="time">2025-10-30 01:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/zuckerberg-1280x853.jpg" alt="Zuck Acknowledges Meta Might Not Use AI Investments for New AI After All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zuck-acknowledges-meta-might-not-use-ai-investments-for-new-ai-after-all-2000679070" target="_blank">Zuck Acknowledges Meta Might Not Use AI Investments for New AI After All</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-30 01:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
