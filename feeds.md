@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 05:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-30 06:02:30 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/30/yesavage-blue-jays-dominate-dodgers-in-game-5-of-world-series?traffic_source=rss" target="_blank">Yesavage, Blue Jays dominate Dodgers in Game 5 of World Series</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 05:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/30/g-s1-95719/blue-jays-lead-over-dodgers-in-world-series" target="_blank">Toronto Blue Jays take a 3-2 lead over Los Angeles Dodgers in World Series</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-30 05:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/29/g-s1-95710/nigerian-nobel-winner-wole-soyinka-visa-trump-criticism" target="_blank">Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump criticism</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-30 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/rfk-jr-walks-back-trump-administrations-claims-linking-tylenol-and-autism?traffic_source=rss" target="_blank">RFK Jr walks back Trump administration’s claims linking Tylenol and autism</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5583985/white-house-east-wing-women" target="_blank">The East Wing gave women space to thrive in the White House — here&#x27;s why</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-29 23:14</span>
             </div>
         </div>
 </div>
@@ -163,12 +166,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3496415%2F69250515-07fe-4ca8-8863-cc4d8ebc7f33.png" alt="Check out the guide on - Mastering the Naïve Bayes Classifier in R: From Concept to Real-World Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-mastering-the-naive-bayes-classifier-in-r-from-concept-to-real-world-579j" target="_blank">Check out the guide on - Mastering the Naïve Bayes Classifier in R: From Concept to Real-World Applications</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 05:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o" target="_blank">A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-30 04:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-44/" target="_blank">FOSS Weekly #25.44: KDE Plasma 6.5 and Fedora 43 Released, Ghostty Terminal, Nextcloud Over Microsoft and Productivity App for Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-10-30 04:30</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/anderson_leite/why-devsecops-isnt-a-role-its-a-responsibility-69m" target="_blank">Why DevSecOps Isn&#x27;t a Role. It&#x27;s a Responsibility</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-29 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vulcanwm/i-think-game-dev-isnt-my-thing-and-thats-okay-3h5j" target="_blank">I Think Game Dev Isn’t My Thing (And That’s Okay)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-29 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-3jb" target="_blank">Security-is-Not-a-Feature-Its-a-Foundation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-29 19:49</span>
             </div>
         </div>
 </div>
@@ -336,7 +339,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 05:01 UTC
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
