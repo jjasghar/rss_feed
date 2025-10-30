@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 03:20:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-30 04:01:53 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 03:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -238,12 +232,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/nuclear-testing-1280x853.jpg" alt="U.S. Nuclear Weapons Tests ‘Will Begin Immediately,’ Trump Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/u-s-nuclear-weapons-tests-will-begin-immediately-trump-says-2000679162" target="_blank">U.S. Nuclear Weapons Tests ‘Will Begin Immediately,’ Trump Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-30 02:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/anker-soundcore-earbuds-1280x853.jpg" alt="These Anker True Wireless Earbuds Hit $19 for Early Black Friday, and They Challenge $200 Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/these-anker-true-wireless-earbuds-hit-19-for-early-black-friday-and-they-challenge-200-models-2000640020" target="_blank">These Anker True Wireless Earbuds Hit $19 for Early Black Friday, and They Challenge $200 Models</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-30 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s nuclear testing to provide little strategic benefit just long-lasting environmental damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/29/trumps-nuclear-testing-to-provide-little-strategic-benefit-just-long-lasting-environmental-damage.html" target="_blank">Trump&#x27;s nuclear testing to provide little strategic benefit just long-lasting environmental damage</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-30 01:50</span>
             </div>
         </div>
 <div class="story">
@@ -271,24 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/nvidia-ceo-jensen-huang-makes-his-case-for-china-trade-2000678877" target="_blank">Nvidia CEO Jensen Huang Makes His Case for China Trade</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-29 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8RXFKWH6K44EXRJP8AE923Z/hero-image.png" alt="Magic Leap, One of the Biggest Flops in AR, Is Back with Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/magic-leap-ar-glasses-prototype?utm_medium=RSS" target="_blank">Magic Leap, One of the Biggest Flops in AR, Is Back with Smart Glasses</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-29 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Desktop-Defender-Hed-1280x720.jpg" alt="Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-next-fests-most-unlikely-breakout-only-requires-a-fraction-of-your-screen-and-attention-2000639943" target="_blank">Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-29 21:33</span>
             </div>
         </div>
 </div>
@@ -332,22 +326,13 @@
                 <span class="time">2025-10-29 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/airspeed.png" alt="Airspeed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3161/" target="_blank">Airspeed</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-10-29 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 03:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
