@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 16:02:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-30 17:01:39 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5667/live/68e3bdd0-b58c-11f0-aeb3-8b84e9ca5314.png" alt="UK charters flights to get Britons out of Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8yw58w50eo?at_medium=RSS&at_campaign=rss" target="_blank">UK charters flights to get Britons out of Jamaica</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-30 16:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/turkiyes-erdogan-urges-germany-to-help-end-israels-genocide-in-gaza?traffic_source=rss" target="_blank">Turkiye’s Erdogan urges Germany to help end Israel’s ‘genocide’ in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-30 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/white-house-15-gty-gmh-251023_1761253901041_hpMain_4x3t_384.jpg" alt="Critics question if White House &#x27;cut corners&#x27; on asbestos safety in East Wing demo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/critics-question-white-house-contractors-cut-corners-asbestos/story?id=127001299" target="_blank">Critics question if White House &#x27;cut corners&#x27; on asbestos safety in East Wing demo</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-30 15:11</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +98,29 @@
                 <span class="time">2025-10-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/30/trump-and-xi-held-face-to-face-trade-talks-what-did-they-agree?traffic_source=rss" target="_blank">Trump and Xi held face-to-face trade talks – what did they agree?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/30/g-s1-95738/up-first-newsletter-trump-xi-jinping-head-start-deadline-casey-means" target="_blank">Trump lowers China&#x27;s tariffs. And, what to know for Casey Means&#x27; confirmation hearing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-30 11:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/nanotyrannusTOP-500x500-1761666554.jpg" alt="Nanotyrannus species confirmed: It’s not just a baby T-rex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/10/nanotyrannus-species-confirmed-its-not-just-a-baby-t-rex/" target="_blank">Nanotyrannus species confirmed: It’s not just a baby T-rex</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/" target="_blank">Canva launches its own design model, adds new AI features to the platform</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-30 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +157,20 @@
                 <span class="time">2025-10-30 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/809081/enshittification-cory-doctorow-platforms-ai-monopoly-big-tech-interview" target="_blank">How Silicon Valley enshittified the internet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/" target="_blank">The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-30 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/10/pytorch-conf-ray-monarch/en/headerimage/V4zqpWHQ-1761799193537.jpeg" alt="PyTorch Foundation Welcomes Ray, Unveils Monarch for Simplified Distributed AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +178,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/10/pytorch-conf-ray-monarch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PyTorch Foundation Welcomes Ray, Unveils Monarch for Simplified Distributed AI</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-10-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.affinity.studio/get-affinity" target="_blank">Affinity Studio now free</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-30 15:54</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +216,6 @@
                 <span class="time">2025-10-30 14:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ventoy/Ventoy" target="_blank">Ventoy: Create Bootable USB Drive for ISO/WIM/IMG/VHD(x)/EFI Files</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-30 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/30/live-from-the-openai-forum-learning-to-code-in-the-age-of-ai/" target="_blank">Live from the OpenAI forum: Learning to code in the age of AI</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-30 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Lockheed_Martin_X59_First_Flight-1280x853.jpg" alt="NASA’s Supersonic Jet Finally Takes off for Its First Super Fast, Super Quiet Flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nasas-supersonic-jet-finally-takes-off-for-its-first-super-fast-super-quiet-flight-2000679365" target="_blank">NASA’s Supersonic Jet Finally Takes off for Its First Super Fast, Super Quiet Flight</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-30 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/10-cents.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="A hardware hacker made a computer chip that costs less than a dime say actual words" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/30/a-hardware-hacker-made-a-computer-chip-that-costs-less-than-a-dime-say-actual-words.html" target="_blank">A hardware hacker made a computer chip that costs less than a dime say actual words</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-30 16:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/inmo-air-3-smartglasses-review-13-1280x853.jpg" alt="We’re Already Barrelling Toward a Smart Glasses Bubble" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/30/jazz-loving-doggo-is-a-whole-entire-vibe.html" target="_blank">Jazz-loving doggo is a whole entire vibe</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-30 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8TR21VHASV7X3ZXD210KF04/hero-image.png" alt="The Two Best Apps to Keep Up With Your Fitness Routine While Traveling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/two-best-fitness-apps-for-travel?utm_medium=RSS" target="_blank">The Two Best Apps to Keep Up With Your Fitness Routine While Traveling</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-30 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106-1024x683.jpg" alt="This Professor Let Half His Class Use AI. Here’s What Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-professor-let-half-his-class-use-ai-heres-what-happened-2000678960" target="_blank">This Professor Let Half His Class Use AI. Here’s What Happened</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-30 13:35</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
