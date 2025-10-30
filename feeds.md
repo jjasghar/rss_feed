@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 01:29:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-30 02:30:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-30-gty-gmh-251029_1761790377322_hpMain_4x3t_384.jpg" alt="Trump orders nuclear weapons testing ahead of high-stakes meeting with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-xi-meeting-fate-global-economy-hangs-balance/story?id=126978226" target="_blank">Trump orders nuclear weapons testing ahead of high-stakes meeting with Xi</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-30 02:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/29/g-s1-95710/nigerian-nobel-winner-wole-soyinka-visa-trump-criticism" target="_blank">Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump criticism</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-30 01:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/rfk-jr-walks-back-trump-administrations-claims-linking-tylenol-and-autism?traffic_source=rss" target="_blank">RFK Jr walks back Trump administration’s claims linking Tylenol and autism</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-29 23:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +100,20 @@
                 <span class="time">2025-10-29 23:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Sonya-Massey-1-ht-jm-240729_1722283390761_hpMain_4x3t_384.jpg" alt="Former deputy guilty of murder in Sonya Massey&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/sonya-massey-murder-trial-juror-massey-family-cry/story?id=126936377" target="_blank">Former deputy guilty of murder in Sonya Massey&#x27;s death</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-29 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5588695/wikipedia-grokipedia-comparison" target="_blank">What Wikipedia and Grokipedia are saying about each other</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-29 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/29/myanmar-rebels-to-withdraw-from-two-towns-under-new-china-brokered?traffic_source=rss" target="_blank">Myanmar rebels to withdraw from two towns under new China-brokered truce</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-29 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/" target="_blank">India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-30 01:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/" target="_blank">2024’s Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-29 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-122179143-500x500.jpg" alt="Trump health official ousted after allegedly giving himself a fake title" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/trump-health-official-ousted-after-allegedly-giving-himself-a-fake-title/" target="_blank">Trump health official ousted after allegedly giving himself a fake title</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-29 19:44</span>
             </div>
         </div>
 </div>
@@ -346,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
