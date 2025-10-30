@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 21:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-30 22:01:44 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/us-justice-department-places-prosecutors-on-leave-for-january-6-reference?traffic_source=rss" target="_blank">US Justice Department places prosecutors on leave for January 6 reference</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 21:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,20 @@
                 <span class="time">2025-10-30 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/30/g-s1-95823/trump-administration-sets-lowest-ever-cap-on-refugee-admissions" target="_blank">Trump administration sets lowest-ever cap on refugee admissions to U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-30 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations" target="_blank">Tim Cook says more AIs are coming to Apple Intelligence</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/" target="_blank">ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-30 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6903a2ef7e68b5a0905771d5/master/pass/Our%20Favorite%20Cordless%20Stick%20Vacuum%20is%20Marked%20Down%20by%20$50.png" alt="Our Favorite Cordless Stick Vacuum Is Marked Down $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bissell-powerclean-furfinder-deal-1025/" target="_blank">Our Favorite Cordless Stick Vacuum Is Marked Down $50</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-30 18:20</span>
             </div>
         </div>
 </div>
@@ -236,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/spooky2-1280x720.jpg" alt="17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197" target="_blank">17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-30 21:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8VCVBWJB6K856GTGVEB6SBV/hero-image.jpg" alt="What&#x27;s Better (and Worse) in Fitbit&#x27;s New App Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -280,15 +288,6 @@
                 <span class="time">2025-10-30 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Call-of-Duty-Black-Ops-6-1280x853.jpg" alt="Paramount’s ‘Call of Duty’ Movie Is Officially a Go, and It’s Bringing in Some Big Guns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/paramounts-call-of-duty-movie-is-officially-a-go-and-its-bringing-in-some-big-guns-2000679615" target="_blank">Paramount’s ‘Call of Duty’ Movie Is Officially a Go, and It’s Bringing in Some Big Guns</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-30 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
