@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 04:01:53 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-30 05:01:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/us-says-it-killed-four-terrorists-in-latest-strike-on-alleged-drug-vessel?traffic_source=rss" target="_blank">US says it killed four ‘terrorists’ in latest strike on alleged drug vessel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 04:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761792786567_now_brk_trump_xi_meet_251029_1920x1080-48tshu.jpg" alt="Trump says it&#x27;s an &#x27;honor&#x27; to be with Xi as meeting begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5583985/white-house-east-wing-women" target="_blank">The East Wing gave women space to thrive in the White House — here&#x27;s why</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-29 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-hurricane-melissa-jamaica_7066508.jpg?20251029231953" alt="At least 30 killed after &#x27;unprecedented&#x27; Hurricane Melissa ravages through Caribbean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-30-killed-after-unprecedented-hurricane-melissa-ravages-through-caribbean-13460469" target="_blank">At least 30 killed after &#x27;unprecedented&#x27; Hurricane Melissa ravages through Caribbean</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-29 23:09</span>
             </div>
         </div>
 </div>
@@ -159,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o" target="_blank">A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 04:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftm6x16004gb6sw06754q.png" alt="Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-3jb" target="_blank">Security-is-Not-a-Feature-Its-a-Foundation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-29 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18718530&w=600" alt="From Autocomplete to Co-Creation: How AI Changes Developing/Debugging Workflows in Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-cocreation-developer-debugging-workflows" target="_blank">From Autocomplete to Co-Creation: How AI Changes Developing/Debugging Workflows in Engineering</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-29 19:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
