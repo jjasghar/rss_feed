@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 08:02:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-30 09:01:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Trump-Xi-DB-251030_1761809674458_hpMain_4x3t_384.jpg" alt="Trump says China tariffs being reduced after &#x27;amazing&#x27; Xi meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-fentanyl-related-tariffs-china-reduced-agreement-rare/story?id=127007706" target="_blank">Trump says China tariffs being reduced after &#x27;amazing&#x27; Xi meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-30 08:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/five-more-arrested-in-france-over-louvre-jewellery-heist-says-prosecutor?traffic_source=rss" target="_blank">Five more arrested in France over Louvre jewellery heist, says prosecutor</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 08:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ae/live/6a3b8cd0-b564-11f0-b21a-99b56b1fa370.png" alt="Five new suspects arrested over Louvre jewellery theft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz91jnyelq2o?at_medium=RSS&at_campaign=rss" target="_blank">Five new suspects arrested over Louvre jewellery theft</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-30 08:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +106,20 @@
                 <span class="time">2025-10-30 06:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/30/yesavage-blue-jays-dominate-dodgers-in-game-5-of-world-series?traffic_source=rss" target="_blank">Yesavage, Blue Jays dominate Dodgers in Game 5 of World Series</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 05:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/30/g-s1-95719/blue-jays-lead-over-dodgers-in-world-series" target="_blank">Toronto Blue Jays take a 3-2 lead over Los Angeles Dodgers in World Series</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-30 05:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/USA-TRUMP-XI_1761800630406_hpMain_4x3t_384.jpg" alt="Trump cuts fentanyl-related tariffs on China, says agreement on rare earths controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-fentanyl-related-tariffs-china-reduced-agreement-rare/story?id=127007706" target="_blank">Trump cuts fentanyl-related tariffs on China, says agreement on rare earths controls</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-30 05:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/809659/ursa-topre-keycap-hands-on-extras-sale" target="_blank">Hands on with Ursa, a new keycap option for Topre keyboards</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Code: 25% Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +165,20 @@
                 <span class="time">2025-10-29 23:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/solana-co-founder-anatoly-yakovenko-is-a-big-fan-of-agentic-coding/" target="_blank">Solana co-founder Anatoly Yakovenko is a big fan of agentic coding</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/genai-inference" target="_blank">Why we brought hardware-optimized GenAI inference to Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-30 08:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzlelhdzqd647dm7wl4vm.png" alt="Adding Security Headers on Cloudflare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-1c9p" target="_blank">Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-29 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-AMDGPU-Analog" target="_blank">AMDGPU With Linux 6.19 Will Support Analog Video Connectors For Old GCN 1.0 GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-29 21:48</span>
             </div>
         </div>
 </div>
@@ -327,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
