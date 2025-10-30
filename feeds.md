@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 14:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-30 15:01:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2244071819-500x500.jpg" alt="US creeps closer to controlling TikTok after Trump-Xi meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/us-creeps-closer-to-controlling-tiktok-after-trump-xi-meeting/" target="_blank">US creeps closer to controlling TikTok after Trump-Xi meeting</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-30 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/809926/logitech-lift-webcams-desktop-speakers-nanoleaf-deal-sale" target="_blank">Logitech’s wireless vertical mouse has never been cheaper at $50</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 14:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -141,29 +159,20 @@
                 <span class="time">2025-10-30 13:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/809845/trump-us-restart-nuclear-weapons-tests" target="_blank">Trump says US will restart nuclear weapons testing</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ghostTOP-500x500-1759590533.jpg" alt="Halloween film fest: 15 classic ghost stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/features/2025/10/halloween-film-fest-15-classic-ghost-stories/" target="_blank">Halloween film fest: 15 classic ghost stories</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-30 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9pf54h2vuem7v0j5xeo8.png" alt="Making React Work on Smart TVs: Behind the Scenes of the Sportworld App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ivan_kuten/making-react-work-on-smart-tvs-behind-the-scenes-of-the-sportworld-app-2ahi" target="_blank">Making React Work on Smart TVs: Behind the Scenes of the Sportworld App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 14:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="time">2025-10-30 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/anthropic-claude-code/en/headerimage/generatedHeaderImage-1761772535668.jpg" alt="Anthropic Expands Claude Code to Web and Mobile Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/anthropic-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Expands Claude Code to Web and Mobile Platforms</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-30 10:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/image-5.jpg" alt="Did Amazon Just Kill Its Lord Of The Rings MMO?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-lord-rings-mmo-resident-evil-switch-2-pro-controller-2000640104" target="_blank">Did Amazon Just Kill Its Lord Of The Rings MMO?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-30 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-2025-10-29-at-1.25.56-PM.png?fit=832%2C1120&amp;quality=55&amp;ssl=1" alt="Jazz-loving doggo is a whole entire vibe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/30/jazz-loving-doggo-is-a-whole-entire-vibe.html" target="_blank">Jazz-loving doggo is a whole entire vibe</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-30 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8TR21VHASV7X3ZXD210KF04/hero-image.png" alt="The Two Best Apps to Keep Up With Your Fitness Routine While Traveling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/two-best-fitness-apps-for-travel?utm_medium=RSS" target="_blank">The Two Best Apps to Keep Up With Your Fitness Routine While Traveling</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-30 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106-1024x683.jpg" alt="This Professor Let Half His Class Use AI. Here’s What Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/stranger-things-season-5-trailer-netflix-2000679029" target="_blank">The New ‘Stranger Things’ Season 5 Trailer Brings the Final Battle to Hawkins</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/lego-darth-vader-set-1280x853.jpg" alt="LEGO Kicks Off Black Friday, Star Wars Set with Darth Vader’s Helmet Is Selling for Nearly Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-kicks-off-black-friday-star-wars-set-with-darth-vaders-helmet-is-selling-for-nearly-nothing-2000640091" target="_blank">LEGO Kicks Off Black Friday, Star Wars Set with Darth Vader’s Helmet Is Selling for Nearly Nothing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-30 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Emma-Stone-Bald-Bugonia-1280x853.jpg" alt="Emma Stone’s ‘Bugonia’ Haircut Was Done in One Take" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/emma-stone-bugonia-haircut-bald-jesse-plemons-2000679073" target="_blank">Emma Stone’s ‘Bugonia’ Haircut Was Done in One Take</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/nuclear-testing-1280x853.jpg" alt="U.S. Nuclear Weapons Tests ‘Will Begin Immediately,’ Trump Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/u-s-nuclear-weapons-tests-will-begin-immediately-trump-says-2000679162" target="_blank">U.S. Nuclear Weapons Tests ‘Will Begin Immediately,’ Trump Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-30 02:19</span>
             </div>
         </div>
 </div>
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
