@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 11:01:43 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-30 12:02:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/30/g-s1-95738/up-first-newsletter-trump-xi-jinping-head-start-deadline-casey-means" target="_blank">Trump lowers China&#x27;s tariffs. And, what to know for Casey Means&#x27; confirmation hearing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-30 11:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +94,29 @@
                 <span class="time">2025-10-30 08:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/30/trump-says-xi-agreed-to-one-year-trade-deal-after-amazing-talks?traffic_source=rss" target="_blank">Trump says Xi agreed to one-year trade deal after ‘amazing’ talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 07:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/809845/trump-us-restart-nuclear-weapons-tests" target="_blank">Trump says US will restart nuclear weapons testing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ghostTOP-500x500-1759590533.jpg" alt="Halloween film fest: 15 classic ghost stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2025/10/halloween-film-fest-15-classic-ghost-stories/" target="_blank">Halloween film fest: 15 classic ghost stories</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-30 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +153,20 @@
                 <span class="time">2025-10-30 02:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/" target="_blank">India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-30 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage" target="_blank">Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-29 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/career-test-automation/en/headerimage/career-test-automation-header-1759497536098.jpg" alt="Changing a Career from Developing Software to Test Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/career-test-automation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Changing a Career from Developing Software to Test Automation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-30 11:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,34 +212,20 @@
                 <span class="time">2025-10-30 09:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/genai-inference" target="_blank">Why we brought hardware-optimized GenAI inference to Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-30 08:42</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html" target="_blank">Signal’s Post-Quantum Cryptographic Implementation</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-29 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/lego-darth-vader-set-1280x853.jpg" alt="LEGO Kicks Off Black Friday, Star Wars Set with Darth Vader’s Helmet Is Selling for Nearly Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-kicks-off-black-friday-star-wars-set-with-darth-vaders-helmet-is-selling-for-nearly-nothing-2000640091" target="_blank">LEGO Kicks Off Black Friday, Star Wars Set with Darth Vader’s Helmet Is Selling for Nearly Nothing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-30 11:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Emma-Stone-Bald-Bugonia-1280x853.jpg" alt="Emma Stone’s ‘Bugonia’ Haircut Was Done in One Take" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +271,6 @@
                 <span class="time">2025-10-30 01:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/anker-160w-charger-1280x853.jpg" alt="Anker Starts Black Friday Early, This 160W 3-Port Compact USB-C Charger Is Selling for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-starts-black-friday-early-this-160w-3-port-compact-usb-c-charger-is-selling-for-peanuts-2000639985" target="_blank">Anker Starts Black Friday Early, This 160W 3-Port Compact USB-C Charger Is Selling for Peanuts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-29 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
