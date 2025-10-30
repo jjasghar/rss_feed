@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 10:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-30 11:01:43 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/30/residential-building-collapses-after-russian-strike-in-ukraine?traffic_source=rss" target="_blank">Residential building collapses after Russian strike in Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 10:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/10/30/trump-says-xi-agreed-to-one-year-trade-deal-after-amazing-talks?traffic_source=rss" target="_blank">Trump says Xi agreed to one-year trade deal after ‘amazing’ talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-30 07:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2757/live/7beef7e0-b538-11f0-b2a1-6f537f66f9aa.jpg" alt="Starmer rules out investigation after Reeves admits rental rules ‘mistake’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd04d0yxnrvo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer rules out investigation after Reeves admits rental rules ‘mistake’</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-30 06:58</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/__b63657/e-semasia-tou-readme-se-ena-protzekt-net-10kb" target="_blank">Η Σημασία του README σε Ένα Πρότζεκτ .NET</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/anthropic-claude-code/en/headerimage/generatedHeaderImage-1761772535668.jpg" alt="Anthropic Expands Claude Code to Web and Mobile Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/anthropic-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Expands Claude Code to Web and Mobile Platforms</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-30 10:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/10/amazon-timestream-influxdb3/en/headerimage/generatedHeaderImage-1761568700487.jpg" alt="Amazon Timestream for InfluxDB Adds Support for InfluxDB 3 Core and Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -185,37 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/genai-inference" target="_blank">Why we brought hardware-optimized GenAI inference to Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-10-30 08:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzlelhdzqd647dm7wl4vm.png" alt="Adding Security Headers on Cloudflare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/madsstoumann/adding-security-headers-on-cloudflare-2dag" target="_blank">Adding Security Headers on Cloudflare</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-30 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3496415%2F69250515-07fe-4ca8-8863-cc4d8ebc7f33.png" alt="Check out the guide on - Mastering the Naïve Bayes Classifier in R: From Concept to Real-World Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-mastering-the-naive-bayes-classifier-in-r-from-concept-to-real-world-579j" target="_blank">Check out the guide on - Mastering the Naïve Bayes Classifier in R: From Concept to Real-World Applications</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-30 05:50</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2510.15511" target="_blank">Language Models Are Injective and Hence Invertible</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-30 09:47</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o" target="_blank">A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-30 04:48</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/genai-inference" target="_blank">Why we brought hardware-optimized GenAI inference to Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-10-30 08:42</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Emma-Stone-Bald-Bugonia-1280x853.jpg" alt="Emma Stone’s ‘Bugonia’ Haircut Was Done in One Take" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/emma-stone-bugonia-haircut-bald-jesse-plemons-2000679073" target="_blank">Emma Stone’s ‘Bugonia’ Haircut Was Done in One Take</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-30 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/nuclear-testing-1280x853.jpg" alt="U.S. Nuclear Weapons Tests ‘Will Begin Immediately,’ Trump Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +289,6 @@
                 <span class="time">2025-10-29 23:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2681902813-e1761777398744-1280x852.jpg" alt="Nvidia CEO Jensen Huang Makes His Case for China Trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nvidia-ceo-jensen-huang-makes-his-case-for-china-trade-2000678877" target="_blank">Nvidia CEO Jensen Huang Makes His Case for China Trade</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
