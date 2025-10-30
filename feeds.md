@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 06:02:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-30 07:02:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2757/live/7beef7e0-b538-11f0-b2a1-6f537f66f9aa.jpg" alt="Starmer rules out investigation after Reeves admits rental rules ‘mistake’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd04d0yxnrvo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer rules out investigation after Reeves admits rental rules ‘mistake’</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-30 06:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/10/30/austin-reaves-lakers-beat-timberwolves-at-the-buzzer?traffic_source=rss" target="_blank">Austin Reaves, Lakers beat Timberwolves at the buzzer</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 06:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/USA-TRUMP-XI_1761800630406_hpMain_4x3t_384.jpg" alt="Trump cuts fentanyl-related tariffs on China, says agreement on rare earths controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-fentanyl-related-tariffs-china-reduced-agreement-rare/story?id=127007706" target="_blank">Trump cuts fentanyl-related tariffs on China, says agreement on rare earths controls</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-30 05:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -74,38 +105,29 @@
                 <span class="time">2025-10-30 04:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761792786567_now_brk_trump_xi_meet_251029_1920x1080-48tshu.jpg" alt="Trump says it&#x27;s an &#x27;honor&#x27; to be with Xi as meeting begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-it-s-an-honor-to-be-with-xi-as-meeting-begins-250960965751" target="_blank">Trump says it&#x27;s an &#x27;honor&#x27; to be with Xi as meeting begins</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-30 02:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-30-gty-gmh-251029_1761790377322_hpMain_4x3t_384.jpg" alt="Trump orders nuclear weapons testing ahead of high-stakes meeting with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-xi-meeting-fate-global-economy-hangs-balance/story?id=126978226" target="_blank">Trump orders nuclear weapons testing ahead of high-stakes meeting with Xi</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-30 02:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/29/g-s1-95710/nigerian-nobel-winner-wole-soyinka-visa-trump-criticism" target="_blank">Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump criticism</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-30 01:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Code: 25% Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/exclusive-kitchenaid-promo-code/" target="_blank">KitchenAid Promo Code: 25% Off in November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-30 05:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/29/intrcity-smartbus-lands-30m-at-140m-valuation-to-deepen-its-grip-on-indias-intercity-travel-market/" target="_blank">IntrCity SmartBus lands $30M at $140M valuation to deepen its grip on India’s intercity travel market</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-30 05:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6902815b030326d7e206e552/master/pass/Microsoft-Google-Meta-Report-Earnings-Business-2242649875.jpg" alt="Meta, Google, and Microsoft Triple Down on AI Spending" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +162,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/29/solana-co-founder-anatoly-yakovenko-is-a-big-fan-of-agentic-coding/" target="_blank">Solana co-founder Anatoly Yakovenko is a big fan of agentic coding</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-29 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted" target="_blank">Trump administration charges influencer and congressional candidate over ICE protests</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-29 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2171230457-500x500.jpg" alt="Meta denies torrenting porn to train AI, says downloads were for “personal use”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/meta-says-porn-downloads-on-its-ips-were-for-personal-use-not-ai-training/" target="_blank">Meta denies torrenting porn to train AI, says downloads were for “personal use”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-29 21:35</span>
             </div>
         </div>
 </div>
@@ -324,22 +328,13 @@
                 <span class="time">2025-10-29 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/29/the-least" target="_blank">The Least</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-29 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
