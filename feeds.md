@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 17:01:39 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-30 18:01:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/398b/live/524dfa10-b5b7-11f0-962a-97c89857c780.jpg" alt="Trump caps refugee admissions at 7,500 - mostly white South Africans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss" target="_blank">Trump caps refugee admissions at 7,500 - mostly white South Africans</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-30 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/thousands-of-ultra-orthodox-rally-in-jerusalem-against-military-service?traffic_source=rss" target="_blank">Israeli ultra-Orthodox Jews rally in Jerusalem against military service</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 17:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5667/live/68e3bdd0-b58c-11f0-aeb3-8b84e9ca5314.png" alt="UK charters flights to get Britons out of Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +103,29 @@
                 <span class="time">2025-10-30 13:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/survivors-fleeing-sudans-el-fasher-recount-terror-bodies-in-streets?traffic_source=rss" target="_blank">Survivors fleeing Sudan’s el-Fasher recount terror, bodies in streets</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/30/nx-s1-5588655/transgender-trump-medicare-medicaid-gender-affirming-care" target="_blank">Trump pushes an end to medical care for transgender youth nationally</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch" target="_blank">Canva&amp;#8217;s new &amp;#8216;Creative Operating System&amp;#8217; is actually a marketing workspace</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6843d25f93d1ae9631e55a37/master/pass/Best%20gaming%20laptops%202025%20update_.png" alt="8 Best Gaming Laptops (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-laptops/" target="_blank">8 Best Gaming Laptops (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-30 17:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/nanotyrannusTOP-500x500-1761666554.jpg" alt="Nanotyrannus species confirmed: It’s not just a baby T-rex" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +162,6 @@
                 <span class="time">2025-10-30 15:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2244071819-500x500.jpg" alt="US creeps closer to controlling TikTok after Trump-Xi meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/us-creeps-closer-to-controlling-tiktok-after-trump-xi-meeting/" target="_blank">US creeps closer to controlling TikTok after Trump-Xi meeting</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-30 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/809926/logitech-lift-webcams-desktop-speakers-nanoleaf-deal-sale" target="_blank">Logitech’s wireless vertical mouse has never been cheaper at $50</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.1-Released" target="_blank">AMD ROCm 7.1 Released: Many Instinct MI350 Series Improvements, Better Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-30 16:19</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +221,6 @@
                 <span class="time">2025-10-30 14:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://hakibenita.com/django-reliable-signals" target="_blank">Reliable Django Signals</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-10-30 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/09/95415354e0c0b54e762ac7a957dc2b02.jpg" alt="Dictionary.com Has Gone Too Far, Names 6-7 ‘Word’ of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dictionary-com-has-gone-too-far-names-6-7-word-of-the-year-2000679470" target="_blank">Dictionary.com Has Gone Too Far, Names 6-7 ‘Word’ of the Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-30 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/trump-china.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="State-by-state guide: what happens when SNAP benefits stop Nov. 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/30/state-by-state-guide-what-happens-when-snap-benefits-stop-nov-1.html" target="_blank">State-by-state guide: what happens when SNAP benefits stop Nov. 1</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-30 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Lockheed_Martin_X59_First_Flight-1280x853.jpg" alt="NASA’s Supersonic Jet Finally Takes off for Its First Super Fast, Super Quiet Flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-has-a-halloween-themed-pac-man-game?utm_medium=RSS" target="_blank">Google’s Homepage Has a Halloween-Themed PAC-MAN Game Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-10-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/image-5.jpg" alt="Did Amazon Just Kill Its Lord Of The Rings MMO?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-lord-rings-mmo-resident-evil-switch-2-pro-controller-2000640104" target="_blank">Did Amazon Just Kill Its Lord Of The Rings MMO?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-30 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Screenshot-2025-10-29-at-1.25.56-PM.png?fit=832%2C1120&amp;quality=55&amp;ssl=1" alt="Jazz-loving doggo is a whole entire vibe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/30/jazz-loving-doggo-is-a-whole-entire-vibe.html" target="_blank">Jazz-loving doggo is a whole entire vibe</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-30 14:38</span>
             </div>
         </div>
 </div>
@@ -326,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
