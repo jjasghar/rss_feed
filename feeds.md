@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 18:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-30 19:01:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/30/g-s1-95823/trump-administration-sets-lowest-ever-cap-on-refugee-admissions" target="_blank">Trump administration sets lowest-ever cap on refugee admissions to U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-30 18:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/398b/live/524dfa10-b5b7-11f0-962a-97c89857c780.jpg" alt="Trump caps refugee admissions at 7,500 - mostly white South Africans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +102,29 @@
                 <span class="time">2025-10-30 15:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/da437390-b59a-11f0-aa13-0b0479f6f42a.jpg" alt="Trump hails &#x27;amazing&#x27; meeting with China&#x27;s Xi but no formal trade deal agreed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crl25xl1gjpo?at_medium=RSS&at_campaign=rss" target="_blank">Trump hails &#x27;amazing&#x27; meeting with China&#x27;s Xi but no formal trade deal agreed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-30 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/810656/apple-jon-prosser-lawsuit-ios-26-leaker-michael-ramacciotti-paid" target="_blank">iOS 26 leak co-defendant says Jon Prosser paid him $650</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/openai_treasurechest_1-500x500.jpg" alt="ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/" target="_blank">ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-30 18:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +161,6 @@
                 <span class="time">2025-10-30 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready" target="_blank">Pinterest&amp;#8217;s new AI shopping assistant helps you pick a fit</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/robot_no_sign_3-500x500.jpg" alt="After teen death lawsuits, Character.AI will restrict chats for under-18 users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/" target="_blank">After teen death lawsuits, Character.AI will restrict chats for under-18 users</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-30 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7hwo0a10z279kdqhxm5j.jpg" alt="Leveling with cluster analysis in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-400p" target="_blank">Leveling with cluster analysis in Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 18:52</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +220,6 @@
                 <span class="time">2025-10-30 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9pf54h2vuem7v0j5xeo8.png" alt="Making React Work on Smart TVs: Behind the Scenes of the Sportworld App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ivan_kuten/making-react-work-on-smart-tvs-behind-the-scenes-of-the-sportworld-app-2ahi" target="_blank">Making React Work on Smart TVs: Behind the Scenes of the Sportworld App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-30 14:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Call-of-Duty-Black-Ops-6-1280x853.jpg" alt="Paramount’s ‘Call of Duty’ Movie Is Officially a Go, and It’s Bringing in Some Big Guns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/paramounts-call-of-duty-movie-is-officially-a-go-and-its-bringing-in-some-big-guns-2000679615" target="_blank">Paramount’s ‘Call of Duty’ Movie Is Officially a Go, and It’s Bringing in Some Big Guns</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-30 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8V5Y98RX3KK9BX897MZ05P9/hero-image.png" alt="These Surprisingly Decent Wireless Earbuds Are Less Than $20 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/wireless-jlab-earbuds-deal-walmart?utm_medium=RSS" target="_blank">These Surprisingly Decent Wireless Earbuds Are Less Than $20 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-30 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/10/1bd723454724c9140f5e322fa1985c99-1280x720.jpg" alt="Friday Night Lights Creator Is Making The Call Of Duty Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/friday-night-lights-creator-yellowstone-call-of-duty-movie-paramount-2000640211" target="_blank">Friday Night Lights Creator Is Making The Call Of Duty Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-30 18:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/09/95415354e0c0b54e762ac7a957dc2b02.jpg" alt="Dictionary.com Has Gone Too Far, Names 6-7 ‘Word’ of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/nasas-supersonic-jet-finally-takes-off-for-its-first-super-fast-super-quiet-flight-2000679365" target="_blank">NASA’s Supersonic Jet Finally Takes off for Its First Super Fast, Super Quiet Flight</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-30 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/10-cents.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="A hardware hacker made a computer chip that costs less than a dime say actual words" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/30/a-hardware-hacker-made-a-computer-chip-that-costs-less-than-a-dime-say-actual-words.html" target="_blank">A hardware hacker made a computer chip that costs less than a dime say actual words</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-30 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/inmo-air-3-smartglasses-review-13-1280x853.jpg" alt="We’re Already Barrelling Toward a Smart Glasses Bubble" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/were-already-barrelling-towards-a-smart-glasses-bubble-2000679391" target="_blank">We’re Already Barrelling Toward a Smart Glasses Bubble</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8TR6KGMY3PAMPQB2S70G0DK/hero-image.jpg" alt="Google’s Homepage Has a Halloween-Themed PAC-MAN Game Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-has-a-halloween-themed-pac-man-game?utm_medium=RSS" target="_blank">Google’s Homepage Has a Halloween-Themed PAC-MAN Game Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-30 15:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
