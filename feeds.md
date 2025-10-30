@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 20:02:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-30 21:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 20:02 UTC</div>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/30/condemnation-of-horrifying-atrocities-in-sudan?traffic_source=rss" target="_blank">Condemnation of ‘horrifying’ atrocities in Sudan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +98,29 @@
                 <span class="time">2025-10-30 18:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/capitol-1-rt-gmh-251029_1761751473708_hpMain_4x3t_384.jpg" alt="Americans concerned about shutdown, more blame GOP and Trump than Democrats: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/americans-increasingly-concerned-government-shutdown-blame-republicans-trump/story?id=127019678" target="_blank">Americans concerned about shutdown, more blame GOP and Trump than Democrats: Poll</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-30 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale" target="_blank">Samsung’s AirPods Pro look-alikes have fallen to their best price in months</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-500x500.jpg" alt="Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/" target="_blank">Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-30 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +157,6 @@
                 <span class="time">2025-10-30 18:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch" target="_blank">Canva&amp;#8217;s new &amp;#8216;Creative Operating System&amp;#8217; is actually a marketing workspace</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6843d25f93d1ae9631e55a37/master/pass/Best%20gaming%20laptops%202025%20update_.png" alt="8 Best Gaming Laptops (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-laptops/" target="_blank">8 Best Gaming Laptops (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-30 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gustavomeilus/smart-test-skipping-building-a-lightweight-playwright-dependency-analyzer-13bk" target="_blank">Smart Test Skipping: Building a Lightweight Playwright Dependency Analyzer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 20:46</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +216,6 @@
                 <span class="time">2025-10-30 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.1-Released" target="_blank">AMD ROCm 7.1 Released: Many Instinct MI350 Series Improvements, Better Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-30 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8VCVBWJB6K856GTGVEB6SBV/hero-image.jpg" alt="What&#x27;s Better (and Worse) in Fitbit&#x27;s New App Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitbit-new-app-preview-impressions?utm_medium=RSS" target="_blank">What&#x27;s Better (and Worse) in Fitbit&#x27;s New App Preview</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-30 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/princeandrew.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="Prince Andrew stripped of prince title and royal residence; Mr. Windsor maintains his innocence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/30/prince-andrew-wont-be-a-prince-anymore.html" target="_blank">Prince Andrew stripped of prince title and royal residence; Mr. Windsor maintains his innocence</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-30 20:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/image-15-1-1.jpg" alt="So, Almost All Of Pokémon’s Mega Evolutions Are X And Y-Shaped, Right?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/paramounts-call-of-duty-movie-is-officially-a-go-and-its-bringing-in-some-big-guns-2000679615" target="_blank">Paramount’s ‘Call of Duty’ Movie Is Officially a Go, and It’s Bringing in Some Big Guns</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-30 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8V5Y98RX3KK9BX897MZ05P9/hero-image.png" alt="These Surprisingly Decent Wireless Earbuds Are Less Than $20 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/wireless-jlab-earbuds-deal-walmart?utm_medium=RSS" target="_blank">These Surprisingly Decent Wireless Earbuds Are Less Than $20 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-30 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/10/1bd723454724c9140f5e322fa1985c99-1280x720.jpg" alt="Friday Night Lights Creator Is Making The Call Of Duty Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/friday-night-lights-creator-yellowstone-call-of-duty-movie-paramount-2000640211" target="_blank">Friday Night Lights Creator Is Making The Call Of Duty Movie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-30 18:03</span>
             </div>
         </div>
 </div>
@@ -333,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
