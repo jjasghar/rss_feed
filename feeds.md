@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-29 23:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-30 00:04:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, October 29, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5583985/white-house-east-wing-women" target="_blank">The East Wing gave women space to thrive in the White House — here&#x27;s why</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-29 23:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-hurricane-melissa-jamaica_7066508.jpg?20251029231953" alt="At least 30 killed after &#x27;unprecedented&#x27; Hurricane Melissa ravages through Caribbean" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-30-killed-after-unprecedented-hurricane-melissa-ravages-through-caribbean-13460469" target="_blank">At least 30 killed after &#x27;unprecedented&#x27; Hurricane Melissa ravages through Caribbean</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-10-29 23:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Sonya-Massey-1-ht-jm-240729_1722283390761_hpMain_4x3t_384.jpg" alt="Former deputy guilty of murder in Sonya Massey&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +100,20 @@
                 <span class="time">2025-10-29 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/29/nx-s1-5564025/defend-american-culture-dhs-pledge-leaves-some-latinos-rattled" target="_blank">&quot;Defend American culture&quot;: DHS pledge leaves some Latinos rattled</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-29 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/29/hundreds-reportedly-killed-at-sudanese-hospital-as-evidence-of-rsf-atrocities-mounts" target="_blank">Hundreds reportedly killed at Sudanese hospital as evidence of RSF atrocities mounts</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-29 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage" target="_blank">Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-29 23:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,29 @@
                 <span class="time">2025-10-29 19:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/box-ceo-aaron-levie-on-how-ai-is-changing-the-enterprise-saas-landscape/" target="_blank">Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftm6x16004gb6sw06754q.png" alt="Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-1c9p" target="_blank">Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-29 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-AMDGPU-Analog" target="_blank">AMDGPU With Linux 6.19 Will Support Analog Video Connectors For Old GCN 1.0 GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-29 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +218,6 @@
                 <span class="time">2025-10-29 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://emily.space/posts/251023-uv" target="_blank">Uv is the best thing to happen to the Python ecosystem in a decade</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-29 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2.6-Released" target="_blank">Mesa 25.2.6 Released With Many Driver Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-29 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/anker-160w-charger-1280x853.jpg" alt="Anker Starts Black Friday Early, This 160W 3-Port Compact USB-C Charger Is Selling for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anker-starts-black-friday-early-this-160w-3-port-compact-usb-c-charger-is-selling-for-peanuts-2000639985" target="_blank">Anker Starts Black Friday Early, This 160W 3-Port Compact USB-C Charger Is Selling for Peanuts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-29 23:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2681902813-e1761777398744-1280x852.jpg" alt="Nvidia CEO Jensen Huang Makes His Case for China Trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/arc-raiders-pvpve-extraction-maps-embark-studios-2000639945" target="_blank">Arc Raiders: Everything You Need To Know Before Launch</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-29 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/halloween-clowns-hell-house-it-clown-in-a-cornfield-terrifier-1280x853.jpg" alt="We Asked the Creator of ‘Hell House LLC’ Why Killer Clowns Never Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/we-asked-the-creator-of-hell-house-llc-why-killer-clowns-never-die-2000678815" target="_blank">We Asked the Creator of ‘Hell House LLC’ Why Killer Clowns Never Die</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 20:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
