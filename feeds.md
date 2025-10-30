@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 02:30:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-30 03:20:04 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 03:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761792786567_now_brk_trump_xi_meet_251029_1920x1080-48tshu.jpg" alt="Trump says it&#x27;s an &#x27;honor&#x27; to be with Xi as meeting begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-it-s-an-honor-to-be-with-xi-as-meeting-begins-250960965751" target="_blank">Trump says it&#x27;s an &#x27;honor&#x27; to be with Xi as meeting begins</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-30 02:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-30-gty-gmh-251029_1761790377322_hpMain_4x3t_384.jpg" alt="Trump orders nuclear weapons testing ahead of high-stakes meeting with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2025-10-29 23:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761779301309_nn_gso_hurricane_melissa_destruction_251029_1920x1080-3p3s0i.jpg" alt="Hurricane Melissa leaves trail of devastation in Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hurricane-melissa-leaves-trail-of-devastation-in-jamaica-250947141944" target="_blank">Hurricane Melissa leaves trail of devastation in Jamaica</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-29 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6902815b030326d7e206e552/master/pass/Microsoft-Google-Meta-Report-Earnings-Business-2242649875.jpg" alt="Meta, Google, and Microsoft Triple Down on AI Spending" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/microsoft-google-meta-2025-earnings/" target="_blank">Meta, Google, and Microsoft Triple Down on AI Spending</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-30 02:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,21 +151,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/69025f9c42a73fc665080443/master/pass/sec-microsoft-azure--2190627170.jpg" alt="The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2171230457-500x500.jpg" alt="Meta denies torrenting porn to train AI, says downloads were for “personal use”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/" target="_blank">The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-29 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/" target="_blank">2024’s Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-29 20:06</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/meta-says-porn-downloads-on-its-ips-were-for-personal-use-not-ai-training/" target="_blank">Meta denies torrenting porn to train AI, says downloads were for “personal use”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-29 21:35</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/anker-soundcore-earbuds-1280x853.jpg" alt="These Anker True Wireless Earbuds Hit $19 for Early Black Friday, and They Challenge $200 Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/these-anker-true-wireless-earbuds-hit-19-for-early-black-friday-and-they-challenge-200-models-2000640020" target="_blank">These Anker True Wireless Earbuds Hit $19 for Early Black Friday, and They Challenge $200 Models</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-30 01:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/zuckerberg-1280x853.jpg" alt="Zuck Acknowledges Meta Might Not Use AI Investments for New AI After All" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/steam-next-fests-most-unlikely-breakout-only-requires-a-fraction-of-your-screen-and-attention-2000639943" target="_blank">Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-29 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/doctor-who-billie-piper-16th-doctor-the-moment-1280x853.jpg" alt="9 People Billie Piper Could Play in ‘Doctor Who’ Now That ‘Doctor Who’ Probably Needs to Figure That Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/billie-piper-doctor-who-2026-identity-2000678833" target="_blank">9 People Billie Piper Could Play in ‘Doctor Who’ Now That ‘Doctor Who’ Probably Needs to Figure That Out</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-29 21:15</span>
             </div>
         </div>
 </div>
@@ -346,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 03:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
