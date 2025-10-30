@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 13:10:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-30 14:01:39 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, October 30, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/survivors-fleeing-sudans-el-fasher-recount-terror-bodies-in-streets?traffic_source=rss" target="_blank">Survivors fleeing Sudan’s el-Fasher recount terror, bodies in streets</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/10/30/nx-s1-5588655/transgender-trump-medicare-medicaid-gender-affirming-care" target="_blank">Trump pushes an end to medical care for transgender youth nationally</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +100,20 @@
                 <span class="time">2025-10-30 09:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/trump_xi-jbzynr.jpg" alt="Trump hails ‘amazing’ meeting with Chinese President Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-hails-amazing-meeting-with-chinese-president-xi-250971205585" target="_blank">Trump hails ‘amazing’ meeting with Chinese President Xi</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-30 09:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-Xi-DB-251030_1761809674458_hpMain_4x3t_384.jpg" alt="Trump says China tariffs being reduced after &#x27;amazing&#x27; Xi meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-fentanyl-related-tariffs-china-reduced-agreement-rare/story?id=127007706" target="_blank">Trump says China tariffs being reduced after &#x27;amazing&#x27; Xi meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-30 08:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/809081/enshittification-cory-doctorow-platforms-ai-monopoly-big-tech-interview" target="_blank">How Silicon Valley enshittified the internet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-30 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +159,29 @@
                 <span class="time">2025-10-30 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/809659/ursa-topre-keycap-hands-on-extras-sale" target="_blank">Hands on with Ursa, a new keycap option for Topre keyboards</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hardik_kanajariya/day-12-transactions-concurrency-postgresql-in-15-days-49ho" target="_blank">Day 12: Transactions &amp; Concurrency - PostgreSQL in 15 Days</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Patch-More-Zen-6-Models" target="_blank">New Linux Patch Expands The Range Of AMD Zen 6 CPU Models</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-30 13:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2127165%2F021925e3-db39-4911-bd2f-a0a3614ce183.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +218,6 @@
                 <span class="time">2025-10-30 10:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/amazon-timestream-influxdb3/en/headerimage/generatedHeaderImage-1761568700487.jpg" alt="Amazon Timestream for InfluxDB Adds Support for InfluxDB 3 Core and Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/amazon-timestream-influxdb3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon Timestream for InfluxDB Adds Support for InfluxDB 3 Core and Enterprise</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-30 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anderson_leite/the-hidden-risks-of-secure-by-default-why-security-contexts-in-kubernetes-matter-5429" target="_blank">The Hidden Risks of &quot;Secure by Default&quot;: Why Security Contexts in Kubernetes Matter</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-30 09:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106-1024x683.jpg" alt="This Professor Let Half His Class Use AI. Here’s What Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-professor-let-half-his-class-use-ai-heres-what-happened-2000678960" target="_blank">This Professor Let Half His Class Use AI. Here’s What Happened</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-30 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8RXFKWH6K44EXRJP8AE923Z/hero-image.png" alt="Magic Leap, One of the Biggest Flops in AR, Is Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/magic-leap-ar-glasses-prototype?utm_medium=RSS" target="_blank">Magic Leap, One of the Biggest Flops in AR, Is Back</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-30 13:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Stranger-things-Eleven-Hopper-Netflix--1280x853.jpg" alt="The New ‘Stranger Things’ Season 5 Trailer Brings the Final Battle to Hawkins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/u-s-nuclear-weapons-tests-will-begin-immediately-trump-says-2000679162" target="_blank">U.S. Nuclear Weapons Tests ‘Will Begin Immediately,’ Trump Says</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-30 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/anker-soundcore-earbuds-1280x853.jpg" alt="These Anker True Wireless Earbuds Hit $19 for Early Black Friday, and They Challenge $200 Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/these-anker-true-wireless-earbuds-hit-19-for-early-black-friday-and-they-challenge-200-models-2000640020" target="_blank">These Anker True Wireless Earbuds Hit $19 for Early Black Friday, and They Challenge $200 Models</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-30 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s nuclear testing to provide little strategic benefit just long-lasting environmental damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/29/trumps-nuclear-testing-to-provide-little-strategic-benefit-just-long-lasting-environmental-damage.html" target="_blank">Trump&#x27;s nuclear testing to provide little strategic benefit just long-lasting environmental damage</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-30 01:50</span>
             </div>
         </div>
 </div>
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
