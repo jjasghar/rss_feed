@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 22:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-31 23:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -129,6 +132,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/" target="_blank">Bluesky hits 40 million users, introduces ‘dislikes’ beta</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-31 20:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon" target="_blank">Here are the shipping and return policies for all the big-name retailers</a></span>
                 <span class="feed">The Verge</span>
@@ -142,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/" target="_blank">Meta bought 1 GW of solar this week</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-31 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/" target="_blank">AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-31 18:53</span>
             </div>
         </div>
 </div>
@@ -171,9 +174,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marmariadata/the-hottest-new-programming-language-is-english-20n8" target="_blank">The hottest new programming language is English</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/paperium/on-epistemic-uncertainty-of-visual-tokens-for-object-hallucinations-in-largevision-language-models-67k" target="_blank">On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in LargeVision-Language Models</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-31 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Kiwi-macOS-Quick-Menu" target="_blank">GNOME Gains A New macOS-Inspired Quick Menu Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-31 21:41</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/jocanola/understanding-owasp-m1-2024-improper-credential-usage-in-react-nativeexpo-and-how-to-mitigate-it-2657" target="_blank">Understanding OWASP M1 (2024): Improper Credential Usage in React Native/Expo and How to Mitigate It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-31 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/cncf-cyber-threat-report/en/headerimage/generatedHeaderImage-1761937594147.jpg" alt="Layered Defences Are Key to Combating AI-Driven Cyber Threats, CNCF Report Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/cncf-cyber-threat-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Layered Defences Are Key to Combating AI-Driven Cyber Threats, CNCF Report Finds</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-31 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/" target="_blank">How to build silos and decrease collaboration (on purpose)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-31 19:16</span>
             </div>
         </div>
 </div>
@@ -231,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/seagate-hdd-20-1280x853.jpg" alt="Seagate 20TB HDD Priced Like Peanuts, Amazon Bottoms Out at $0.01 per GB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seagate-20tb-hdd-priced-like-peanuts-amazon-bottoms-out-at-0-01-per-gb-2000639129" target="_blank">Seagate 20TB HDD Priced Like Peanuts, Amazon Bottoms Out at $0.01 per GB</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 22:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/jackery-power-station-1280x853.jpg" alt="Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +288,6 @@
                 <span class="time">2025-10-31 19:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K81HKBRHDAG83DMYHDMWDFA4/hero-image.png" alt="Best Buy&#x27;s Early Black Friday Deals Are Live, and They&#x27;re Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-buys-announces-holiday-sales?utm_medium=RSS" target="_blank">Best Buy&#x27;s Early Black Friday Deals Are Live, and They&#x27;re Good</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-31 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
