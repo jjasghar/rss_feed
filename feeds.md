@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 01:29:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-31 02:30:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,12 +103,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6903ec4aa75196c45161d9e8/master/pass/High%20Tech%20Skelly%20(And%20Its%20Big%20Dog,%20Too)%20Is%2075%25%20Off%20at%20The%20Home%20Depot.png" alt="Giant Home Depot Skeletons Are on Crazy Sale Right Now (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/home-depot-halloween-sale-2025/" target="_blank">Giant Home Depot Skeletons Are on Crazy Sale Right Now (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-30 23:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-500x500.jpg" alt="Calley Means is out of the White House; Casey Means misses Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/health/2025/10/the-means-siblings-darlings-of-maha-both-out-of-the-trump-admin-for-now/" target="_blank">Calley Means is out of the White House; Casey Means misses Senate hearing</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-10-30 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/" target="_blank">Navan IPO tumbles 20% after historic debut under SEC shutdown workaround</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-30 21:41</span>
             </div>
         </div>
 <div class="story">
@@ -142,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale" target="_blank">Samsung’s AirPods Pro look-alikes have fallen to their best price in months</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-30 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-500x500.jpg" alt="Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/" target="_blank">Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-30 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find" target="_blank">How to shop like a pro during Black Friday and Cyber Monday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 19:44</span>
             </div>
         </div>
 </div>
@@ -195,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/10/spotify-logo.jpg?resize=406%2C232&amp;ssl=1" alt="A Colourful New Spotify Controller (and, Ahem) for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/gspotify-gnome-extension" target="_blank">A Colourful New Spotify Controller (and, Ahem) for GNOME Shell</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-10-30 23:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/" target="_blank">Measuring what matters: How offline evaluation of GitHub MCP Server works</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-10-30 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gustavomeilus/smart-test-skipping-building-a-lightweight-playwright-dependency-analyzer-13bk" target="_blank">Smart Test Skipping: Building a Lightweight Playwright Dependency Analyzer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-30 20:46</span>
             </div>
         </div>
 </div>
@@ -322,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
