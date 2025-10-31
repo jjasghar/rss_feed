@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 04:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-31 05:02:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/iran-condemns-trumps-call-to-resume-us-nuclear-testing?traffic_source=rss" target="_blank">Iran condemns Trump’s call to resume US nuclear testing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-31 04:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/30/egypt-unveils-new-billion-dollar-museum-to-lure-in-more-tourists?traffic_source=rss" target="_blank">Egypt unveils new billion-dollar museum to lure in more tourists</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-30 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/30/nx-s1-5591378/3i-atlas-comet-nickel-space" target="_blank">Why an interstellar comet has scientists excited</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-30 21:40</span>
             </div>
         </div>
 </div>
@@ -175,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ganesh_tidake/building-smarter-apps-the-rise-of-ai-agent-frameworks-in-2025-293a" target="_blank">Building Smarter Apps: The Rise of AI Agent Frameworks in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 04:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025" target="_blank">Ground stop at JFK due to staffing</a></span>
                 <span class="feed">Hacker News</span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/gspotify-gnome-extension" target="_blank">A Colourful New Spotify Controller (and, Ahem) for GNOME Shell</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-10-30 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ertnbrk/understanding-system-behavior-with-observability-in-distributed-systems-3415" target="_blank">Understanding System Behavior with Observability in Distributed Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-30 23:50</span>
             </div>
         </div>
 </div>
@@ -264,6 +267,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Untitled-1-1.jpg?fit=1700%2C1030&amp;quality=60&amp;ssl=1" alt="Signal from last orbiting Venus probe dies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/30/signal-from-last-orbiting-venus-probe-dies.html" target="_blank">Signal from last orbiting Venus probe dies</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-30 22:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8VBNSD4JAYP5610157SQ6ZP/hero-image.png" alt="Google Says Androids Get 58% Fewer Scam Texts Than iPhones, but I Have Some Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -279,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197" target="_blank">17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-30 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Save your PC: Windows 11 Pro is just $15 (regularly $199)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/30/save-your-pc-windows-11-pro-is-just-15-regularly-199.html" target="_blank">Save your PC: Windows 11 Pro is just $15 (regularly $199)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-30 21:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
