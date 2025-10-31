@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 07:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-31 08:02:25 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ff/live/3a485a60-b629-11f0-8c22-1dd3bd1762ee.jpg" alt="Hurricane Melissa death toll rises as aid struggles to reach parts of Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&at_campaign=rss" target="_blank">Hurricane Melissa death toll rises as aid struggles to reach parts of Jamaica</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-31 07:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/chinas-xi-defends-multilateralism-at-apec-after-striking-deal-with-trump?traffic_source=rss" target="_blank">China’s Xi defends multilateralism at APEC after striking deal with Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-31 07:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/russia-ukraine-war-list-of-key-events-day-1345?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,345</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-31 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/trump-administration-sets-rules-to-bar-groups-it-opposes-from-loan-relief?traffic_source=rss" target="_blank">Trump administration sets rules to bar groups it opposes from loan relief</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cae3/live/0d058fb0-b5e2-11f0-aa13-0b0479f6f42a.jpg" alt="Andrew stripped of &#x27;prince&#x27; title and will move out of Royal Lodge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr7m4yjkp74o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew stripped of &#x27;prince&#x27; title and will move out of Royal Lodge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-30 23:20</span>
             </div>
         </div>
 </div>
@@ -169,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/10/meta-carbon-ai/en/headerimage/generatedHeaderImage-1761758498963.jpg" alt="How Meta Is Using AI to Standardize and Cut Carbon Emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/meta-carbon-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Meta Is Using AI to Standardize and Cut Carbon Emissions</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-31 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -202,15 +211,6 @@
                 <span class="title"><a href="https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025" target="_blank">Ground stop at JFK due to staffing</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-31 01:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n" target="_blank">Data-Driven Development: Leveraging Big Data for Smarter Coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 01:15</span>
             </div>
         </div>
 </div>
@@ -292,6 +292,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/10/31/arc-raided" target="_blank">ARC Raided</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-10-31 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5691.png" alt="5691" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -314,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
