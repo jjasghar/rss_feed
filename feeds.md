@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 20:01:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-10-31 21:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f4c/live/fc6a9b40-b696-11f0-b2a1-6f537f66f9aa.jpg" alt="Andrew&#x27;s move out of Royal Lodge may not happen until new year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2emmdnw82yo?at_medium=RSS&at_campaign=rss" target="_blank">Andrew&#x27;s move out of Royal Lodge may not happen until new year</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-31 20:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,29 @@
                 <span class="time">2025-10-31 18:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-thune-13-gty-gmh-251031_1761926889174_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Thune rejects Trump&#x27;s call to eliminate filibuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates-senate-reconvene-monday-amid-funding/?id=126890075" target="_blank">Government shutdown updates: Thune rejects Trump&#x27;s call to eliminate filibuster</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-31 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6904dfbef259dcdee4c046a1/master/pass/Nancy-Mace-TSA-Politics-AP24324592046983.jpg" alt="Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nancy-mace-berates-cops-airport-meltdown/" target="_blank">Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-31 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/padlock-network-security-500x500-1761942104.jpg" alt="FCC to rescind ruling that said ISPs are required to secure their networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/" target="_blank">FCC to rescind ruling that said ISPs are required to secure their networks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-31 20:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +162,6 @@
                 <span class="time">2025-10-31 18:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/" target="_blank">ChatGPT: Everything you need to know about the AI-powered chatbot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-31 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/811251/best-nintendo-switch-2-game-mario-zelda-deal-sale" target="_blank">Woot is offering solid discounts on some of the best Nintendo Switch 2 games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-31 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjf9tsaj3ugonagdk5vsc.png" alt="From YAML to Glory: Mastering Infrastructure as Code 🎯" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tavernetech/from-yaml-to-glory-mastering-infrastructure-as-code-3eob" target="_blank">From YAML to Glory: Mastering Infrastructure as Code 🎯</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 20:54</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +221,6 @@
                 <span class="time">2025-10-31 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naguballa77/ros2-publisher-node-4758" target="_blank">ROS2 Publisher Node.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Back-to-the-Future-40-1280x853.jpg" alt="‘Back to the Future’ in 4DX Is a Truly Hilarious, Additive Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/back-to-the-future-4dx-anniversary-rerelease-2000680111" target="_blank">‘Back to the Future’ in 4DX Is a Truly Hilarious, Additive Experience</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-31 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/524bea00bf57b888c62fb04624c1f9ae-1280x720.jpg" alt="GTA 6 Denies Union Busting After Firing Dozens Of Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-rockstar-games-union-busting-delay-2000640525" target="_blank">GTA 6 Denies Union Busting After Firing Dozens Of Developers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 20:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/lego-november-2025-new-releases-goonies-1280x853.jpg" alt="Hey You Guys, It’s Lego’s November Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +294,6 @@
                 <span class="time">2025-10-31 18:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8XJ6N4KQDCVZDQA6NHY233X/hero-image.webp" alt="The Best Smart Glasses for Every Type of Person" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-best-smart-glasses-for-every-type-of-user?utm_medium=RSS" target="_blank">The Best Smart Glasses for Every Type of Person</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-31 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/edu_srch_celebrate_the_50th_anniversary_apollo11-1280x853.jpg" alt="Trump’s NASA Chief Hits Back at Kim Kardashian Over Fake Moon Landing Conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trumps-nasa-chief-hits-back-at-kim-kardashian-over-fake-moon-landing-conspiracy-2000680141" target="_blank">Trump’s NASA Chief Hits Back at Kim Kardashian Over Fake Moon Landing Conspiracy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-31 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
