@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 11:01:51 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-10-31 12:02:41 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761910052833_tdy_news_7a_nobles_trump_filibuster_251031_1920x1080-s95qmd.jpg" alt="Trump Calls for End of Filibuster to Break Shutdown Stalemate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-calls-for-end-of-filibuster-to-break-shutdown-stalemate-251054661600" target="_blank">Trump Calls for End of Filibuster to Break Shutdown Stalemate</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-31 11:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/31/g-s1-95973/up-first-newsletter-government-shutdown-snap-benefits-nuclear-testing" target="_blank">A judge to weigh in on SNAP benefits. And, Trump wants to resume nuclear testing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-31 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,38 @@
                 <span class="time">2025-10-31 07:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/chinas-xi-defends-multilateralism-at-apec-after-striking-deal-with-trump?traffic_source=rss" target="_blank">China’s Xi defends multilateralism at APEC after striking deal with Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-31 07:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-jamaica-hurricane-melissa_7067450.jpg?20251031051539" alt="&#x27;I&#x27;ve never seen this in my entire life&#x27;: The towns in Jamaica ripped apart by Hurricane Melissa - as relief effort intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/send-help-the-desperate-pleas-from-hurricane-melissa-survivors-13461066" target="_blank">&#x27;I&#x27;ve never seen this in my entire life&#x27;: The towns in Jamaica ripped apart by Hurricane Melissa - as relief effort intensifies</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-10-31 05:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-500x500.jpg" alt="“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/" target="_blank">“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-31 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6903f49baccab5dba977ee12/master/pass/Gifts%20for%20Women%20When%20Everything%20Is%20in%20Retrograde.png" alt="20+ Gifts for Women Who’ve Checked Out of Planet Earth (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/" target="_blank">20+ Gifts for Women Who’ve Checked Out of Planet Earth (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-31 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens" target="_blank">Sora now lets you pay extra to make more AI videos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-31 11:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,33 +160,6 @@
                 <span class="time">2025-10-31 04:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/" target="_blank">Scenes from TechCrunch Disrupt</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-31 04:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh" target="_blank">Microsoft&amp;#8217;s agent platform play</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-31 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6903ec4aa75196c45161d9e8/master/pass/High%20Tech%20Skelly%20(And%20Its%20Big%20Dog,%20Too)%20Is%2075%25%20Off%20at%20The%20Home%20Depot.png" alt="Giant Home Depot Skeletons Are on Crazy Sale Right Now (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-halloween-sale-2025/" target="_blank">Giant Home Depot Skeletons Are on Crazy Sale Right Now (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-30 23:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +172,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5afm" target="_blank">Mr Sunday Movies: Predator 2 - Caravan of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/announcing-sponsorship-on-nuget/en/headerimage/twitter_card+%281%29-1761907082059.jpg" alt="New NuGet.org Sponsorship Feature Enables Developers to Support Package Authors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/announcing-sponsorship-on-nuget/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New NuGet.org Sponsorship Feature Enables Developers to Support Package Authors</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-31 11:28</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +219,6 @@
                 <span class="time">2025-10-31 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tahamjp/react-testing-in-2025-stop-mocking-start-trusting-your-components-3h4f" target="_blank">⚛️ React Testing in 2025: Stop Mocking, Start Trusting Your Components</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2510.22371" target="_blank">Reasoning Models Reason Well, Until They Don&#x27;t</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-31 09:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,9 +228,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html" target="_blank">The AI-Designed Bioweapon Arms Race</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/will-ai-strengthen-or-undermine-democracy.html" target="_blank">Will AI Strengthen or Undermine Democracy?</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-30 11:05</span>
+                <span class="time">2025-10-31 11:08</span>
             </div>
         </div>
 </div>
@@ -245,6 +245,15 @@
                 <span class="title"><a href="https://gizmodo.com/deadpool-will-be-back-for-more-merry-mayhem-at-disneyland-2000679854" target="_blank">Deadpool Will Be Back for More Merry Mayhem at Disneyland</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-31 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/zuckerberg-facebook-VR.jpg?fit=1920%2C1280&amp;quality=60&amp;ssl=1" alt="Meta: 2,400 porn downloads on corporate IPs for personal use, not training AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/31/meta-2400-porn-downloads-on-corporate-ips-for-personal-use-not-training-ai.html" target="_blank">Meta: 2,400 porn downloads on corporate IPs for personal use, not training AI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-31 10:49</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/30/signal-from-last-orbiting-venus-probe-dies.html" target="_blank">Signal from last orbiting Venus probe dies</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-30 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8VBNSD4JAYP5610157SQ6ZP/hero-image.png" alt="Google Says Androids Get 58% Fewer Scam Texts Than iPhones, but I Have Some Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-study-claims-android-gets-fewer-scam-texts-than-iphone?utm_medium=RSS" target="_blank">Google Says Androids Get 58% Fewer Scam Texts Than iPhones, but I Have Some Questions</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-30 21:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
