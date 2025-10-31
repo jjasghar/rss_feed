@@ -1,7 +1,7 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 12:02:41 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-10-31 13:09:42 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
@@ -9,29 +9,26 @@
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/688d84b8d9571932899b1ffe/master/pass/The%20Best%20Outdoor%20Security%20Cameras.png" alt="10 Best Outdoor Security Cameras (2025): Battery-Powered, LTE, No Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-outdoor-security-cameras/" target="_blank">10 Best Outdoor Security Cameras (2025): Battery-Powered, LTE, No Subscription</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-31 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-500x500.jpg" alt="“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -151,15 +157,6 @@
                 <span class="time">2025-10-31 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/" target="_blank">Scenes from TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-31 04:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5afm" target="_blank">Mr Sunday Movies: Predator 2 - Caravan of Garbage</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-31 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18721068&w=600" alt="How Modern Developers Use AI-Assisted Coding to Validate Products Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-assisted-coding-validate-products-faster" target="_blank">How Modern Developers Use AI-Assisted Coding to Validate Products Faster</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-31 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +216,6 @@
                 <span class="time">2025-10-31 10:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/ec2-c8i-compute-optimization/en/headerimage/generatedHeaderImage-1761573902562.jpg" alt="AWS Launches C8i and C8i-flex EC2 Instances Powered by Custom Intel Xeon 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/ec2-c8i-compute-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches C8i and C8i-flex EC2 Instances Powered by Custom Intel Xeon 6</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-31 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/brigands-3-1280x853.jpg" alt="62 New Sci-Fi, Fantasy, and Horror Books Arriving in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-books-november-sci-fi-fantasy-horror-2000675124" target="_blank">62 New Sci-Fi, Fantasy, and Horror Books Arriving in November</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-31 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/LEGOSpiderMan2-1280x853.jpg" alt="The Iconic Spider-Man 2 Train Scene Comes to LEGO, Now Selling for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-iconic-spider-man-2-train-scene-comes-to-lego-now-selling-for-pennies-on-amazon-2000640308" target="_blank">The Iconic Spider-Man 2 Train Scene Comes to LEGO, Now Selling for Pennies on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 12:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Deadpool-Disney-Experiences-1280x853.jpg" alt="Deadpool Will Be Back for More Merry Mayhem at Disneyland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/amazon-ceo-now-says-ai-is-not-responsible-for-recent-layoffs-2000679893" target="_blank">Amazon CEO Now Says AI Is Not Responsible for Recent Layoffs</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-31 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/garmin-forerunner-255-watch-1280x853.jpg" alt="Garmin Clears Out Forerunner 255, Now Selling for Peanuts in Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/garmin-clears-out-forerunner-255-now-selling-for-peanuts-in-early-black-friday-sale-2000640217" target="_blank">Garmin Clears Out Forerunner 255, Now Selling for Peanuts in Early Black Friday Sale</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-30 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Untitled-1-1.jpg?fit=1700%2C1030&amp;quality=60&amp;ssl=1" alt="Signal from last orbiting Venus probe dies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/30/signal-from-last-orbiting-venus-probe-dies.html" target="_blank">Signal from last orbiting Venus probe dies</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-30 22:14</span>
             </div>
         </div>
 </div>
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
