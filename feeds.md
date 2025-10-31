@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 17:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-31 18:02:15 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-thune-13-gty-gmh-251031_1761926889174_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Thune rejects Trump&#x27;s call to eliminate filibuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates-senate-reconvene-monday-amid-funding/?id=126890075" target="_blank">Government shutdown updates: Thune rejects Trump&#x27;s call to eliminate filibuster</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-31 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/31/they-left-us-with-nothing-sudanese-flee-el-fasher-under-fire?traffic_source=rss" target="_blank">‘They left us with nothing’: Sudanese flee el-Fasher under fire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-31 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/31/nx-s1-5593052/67-dictionary-word-of-the-year-2025" target="_blank">Dictionary.com&#x27;s 2025 word of the year, &#x27;67,&#x27; means nothing and everything at once</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-31 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/31/sudan-rsf-accused-pr-stunt-after-arresting-fighters-behind-civilian-killings" target="_blank">Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-31 17:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,47 +106,20 @@
                 <span class="time">2025-10-31 15:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/31/tanzania-election-protests-opposition" target="_blank">About 700 killed in Tanzania election protests, opposition says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-31 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/31/nx-s1-5551108/housing-costs-birth-rate" target="_blank">Families say cost of housing means they&#x27;ll have fewer or no children</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-31 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7867/live/68445b60-b64e-11f0-aa13-0b0479f6f42a.jpg" alt="Hurricane death toll rises as Jamaica aid effort struggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&at_campaign=rss" target="_blank">Hurricane death toll rises as Jamaica aid effort struggles</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-31 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761910052833_tdy_news_7a_nobles_trump_filibuster_251031_1920x1080-s95qmd.jpg" alt="Trump Calls for End of Filibuster to Break Shutdown Stalemate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-calls-for-end-of-filibuster-to-break-shutdown-stalemate-251054661600" target="_blank">Trump Calls for End of Filibuster to Break Shutdown Stalemate</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-31 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/" target="_blank">ChatGPT: Everything you need to know about the AI-powered chatbot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-31 17:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +165,6 @@
                 <span class="time">2025-10-31 13:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/31/reddit-ceo-says-chatbots-are-not-a-traffic-driver/" target="_blank">Reddit CEO says chatbots are not a traffic driver</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-31 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +177,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/swift-sdk-android/en/headerimage/swift-android-sdk-1761933258310.jpeg" alt="Apple Previews SDK for Building Android Apps with Swift" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/swift-sdk-android/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Previews SDK for Building Android Apps with Swift</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-31 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hotfixhero/scaling-is-the-new-just-add-more-ram-why-ai-needs-a-new-algorithm-not-a-bigger-wallet-44mg" target="_blank">Scaling is the New “Just Add More RAM” — Why AI Needs a New Algorithm, Not a Bigger Wallet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18721981&w=600" alt="Streamlining Real-Time Ad Tech Systems: Techniques to Prevent Performance Bottlenecks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/streamlining-real-time-ad-tech-systems-techniques" target="_blank">Streamlining Real-Time Ad Tech Systems: Techniques to Prevent Performance Bottlenecks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-31 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +222,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/KosmicKrisp-Vulkan-1.3" target="_blank">KosmicKrisp Now Vulkan 1.3 Compliant For Apple Devices</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-31 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mannu/my-hactoberfest-this-year-3fii" target="_blank">My hactoberfest this year</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18721081&w=600" alt="Implementing Zero-Downtime Upgrades in an Enterprise SaaS Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ero-downtime-upgrades-in-enterprise-saas-applications" target="_blank">Implementing Zero-Downtime Upgrades in an Enterprise SaaS Application</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-31 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foevtmcvak47x5juz38fq.png" alt="Aurora DSQL, una alternativa a PostgreSQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kcatucuamba/aurora-dsql-una-alternativa-a-postgresql-4i25" target="_blank">Aurora DSQL, una alternativa a PostgreSQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 14:55</span>
             </div>
         </div>
 </div>
@@ -238,6 +243,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8XJ6N4KQDCVZDQA6NHY233X/hero-image.webp" alt="The Best Smart Glasses for Every Type of Person" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-smart-glasses-for-every-type-of-user?utm_medium=RSS" target="_blank">The Best Smart Glasses for Every Type of Person</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-31 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/edu_srch_celebrate_the_50th_anniversary_apollo11-1280x853.jpg" alt="Trump’s NASA Chief Hits Back at Kim Kardashian Over Fake Moon Landing Conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-nasa-chief-hits-back-at-kim-kardashian-over-fake-moon-landing-conspiracy-2000680141" target="_blank">Trump’s NASA Chief Hits Back at Kim Kardashian Over Fake Moon Landing Conspiracy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-31 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/09/0b5948899f280fadfa85cfc8cb77a138-1280x720.jpg" alt="31 Terrific Movies That Are Perfect For Spooky Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-halloween-movies-disney-scary-spooky-1851654060" target="_blank">31 Terrific Movies That Are Perfect For Spooky Season</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/jimmy-wales.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Jimmy Wales on why Wikipedia will outlast Elon Musk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/75-years-ago-mysterious-flashes-in-the-sky-sparked-rumors-of-ufos-now-researchers-offer-two-startling-explanations-2000679967" target="_blank">75 Years Ago, Mysterious Flashes in the Sky Sparked Rumors of UFOs. Now, Researchers Offer Two Startling Explanations</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-31 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/borderlands2.jpg" alt="Borderlands 4‘s Infamous Crit Knife Is Back, Bugged, And Badder Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/borderlands-4s-crit-knife-bug-nerf-patch-notes-2000640456" target="_blank">Borderlands 4‘s Infamous Crit Knife Is Back, Bugged, And Badder Than Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8WDJHABP6F429A4SSZJP5RT/hero-image.png" alt="The JBL Charge 6 Is $30 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-charge-6-speaker-sale?utm_medium=RSS" target="_blank">The JBL Charge 6 Is $30 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-31 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/brigands-3-1280x853.jpg" alt="62 New Sci-Fi, Fantasy, and Horror Books Arriving in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-books-november-sci-fi-fantasy-horror-2000675124" target="_blank">62 New Sci-Fi, Fantasy, and Horror Books Arriving in November</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-31 13:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
