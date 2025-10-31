@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 02:30:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-10-31 03:20:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 03:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.fly.faa.gov/adv/adv_otherdis?advn=13&adv_date=10312025&facId=JFK&title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&titleDate=10/31/2025" target="_blank">Ground stop at JFK due to staffing</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-31 01:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n" target="_blank">Data-Driven Development: Leveraging Big Data for Smarter Coding</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +217,6 @@
                 <span class="time">2025-10-30 23:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/" target="_blank">Measuring what matters: How offline evaluation of GitHub MCP Server works</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-10-30 21:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +243,15 @@
                 <span class="title"><a href="https://kotaku.com/ankers-open-ear-headphones-slash-53-off-now-nearly-free-for-early-black-friday-2000640322" target="_blank">Anker’s Open-Ear Headphones Slash 53% Off, Now Nearly Free for Early Black Friday</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-31 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/GettyImages-2188101054-1280x853.jpg" alt="Amazon CEO Now Says AI Is Not Responsible for Recent Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-ceo-now-says-ai-is-not-responsible-for-recent-layoffs-2000679893" target="_blank">Amazon CEO Now Says AI Is Not Responsible for Recent Layoffs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-31 00:15</span>
             </div>
         </div>
 <div class="story">
@@ -279,15 +290,6 @@
                 <span class="time">2025-10-30 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8VCVBWJB6K856GTGVEB6SBV/hero-image.jpg" alt="What&#x27;s Better (and Worse) in Fitbit&#x27;s New App Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitbit-new-app-preview-impressions?utm_medium=RSS" target="_blank">What&#x27;s Better (and Worse) in Fitbit&#x27;s New App Preview</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-10-30 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 03:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
