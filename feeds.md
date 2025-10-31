@@ -1,42 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 18:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-31 19:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251031-food-bank-ew-227p-db30a1.jpg" alt="Federal judge orders Trump administration to pay SNAP benefits out of contingency fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-administration-pay-snap-benefits-contingenc-rcna241187" target="_blank">Federal judge orders Trump administration to pay SNAP benefits out of contingency fund</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-31 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/31/are-trade-relations-between-the-us-and-china-back-on-track?traffic_source=rss" target="_blank">Are trade relations between the US and China back on track?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-31 18:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/john-thune-13-gty-gmh-251031_1761926889174_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Thune rejects Trump&#x27;s call to eliminate filibuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +107,29 @@
                 <span class="time">2025-10-31 17:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/lawsuit-alleges-horrific-conditions-at-us-immigration-facility-in-chicago?traffic_source=rss" target="_blank">Lawsuit alleges ‘horrific’ conditions at US immigration facility in Chicago</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-31 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-8-rt-gmh-251030_1761830179185_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Thune remains against ending Senate filibuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates-senate-reconvene-monday-amid-funding/?id=126890075" target="_blank">Government shutdown updates: Thune remains against ending Senate filibuster</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-31 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/" target="_blank">AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-31 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/11/Roadster_Hero-1-500x500.jpg" alt="Sam Altman wants a refund for his $50,000 Tesla Roadster deposit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/" target="_blank">Sam Altman wants a refund for his $50,000 Tesla Roadster deposit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-31 18:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,24 +166,6 @@
                 <span class="time">2025-10-31 15:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/811462/netflix-warner-bros-discovery-bid-rumor" target="_blank">Netflix is reportedly looking into a bid for Warner Bros. Discovery</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-31 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/x-59-500x500.jpg" alt="NASA test flight seeks to help bring commercial supersonic travel back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/10/nasa-test-flight-seeks-to-help-bring-commercial-supersonic-travel-back/" target="_blank">NASA test flight seeks to help bring commercial supersonic travel back</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-31 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +178,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naguballa77/ros2-publisher-node-4758" target="_blank">ROS2 Publisher Node.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 18:56</span>
             </div>
         </div>
 <div class="story">
@@ -215,15 +225,6 @@
                 <span class="time">2025-10-31 16:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KosmicKrisp-Vulkan-1.3" target="_blank">KosmicKrisp Now Vulkan 1.3 Compliant For Apple Devices</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-31 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/witcher-netflix.jpg" alt="Reviews For Netflix’s Witcher Season 4 Are Pretty Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-witcher-season-4-reviews-liam-hemsworth-2000640506" target="_blank">Reviews For Netflix’s Witcher Season 4 Are Pretty Bad</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 18:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8XJ6N4KQDCVZDQA6NHY233X/hero-image.webp" alt="The Best Smart Glasses for Every Type of Person" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +298,6 @@
                 <span class="time">2025-10-31 15:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/transients-1280x853.jpg" alt="75 Years Ago, Mysterious Flashes in the Sky Sparked Rumors of UFOs. Now, Researchers Offer Two Startling Explanations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/75-years-ago-mysterious-flashes-in-the-sky-sparked-rumors-of-ufos-now-researchers-offer-two-startling-explanations-2000679967" target="_blank">75 Years Ago, Mysterious Flashes in the Sky Sparked Rumors of UFOs. Now, Researchers Offer Two Startling Explanations</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-31 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
