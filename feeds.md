@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 19:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-31 20:01:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/10/31/is-the-world-ready-for-another-pandemic?traffic_source=rss" target="_blank">Is the world ready for another pandemic?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-31 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/31/g-s1-95838/pakistan-afghanistan-ceasefire-taliban-turkey-qatar" target="_blank">Pakistan and Afghanistan agree to maintain a ceasefire -- for now. Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-31 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3441/live/38e81ec0-b684-11f0-b027-61021c9d4006.jpg" alt="Andrew may stay at Royal Lodge until the new year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2emmdnw82yo?at_medium=RSS&at_campaign=rss" target="_blank">Andrew may stay at Royal Lodge until the new year</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-31 19:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251031-food-bank-ew-227p-db30a1.jpg" alt="Federal judge orders Trump administration to pay SNAP benefits out of contingency fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,33 +99,6 @@
                 <span class="time">2025-10-31 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/31/they-left-us-with-nothing-sudanese-flee-el-fasher-under-fire?traffic_source=rss" target="_blank">‘They left us with nothing’: Sudanese flee el-Fasher under fire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-31 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/31/nx-s1-5593052/67-dictionary-word-of-the-year-2025" target="_blank">Dictionary.com&#x27;s 2025 word of the year, &#x27;67,&#x27; means nothing and everything at once</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-31 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/31/sudan-rsf-accused-pr-stunt-after-arresting-fighters-behind-civilian-killings" target="_blank">Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-31 17:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,9 +108,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/" target="_blank">Meta bought 1 GW of solar this week</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-31 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/" target="_blank">AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-10-31 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider" target="_blank">Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-31 18:52</span>
             </div>
         </div>
 <div class="story">
@@ -148,24 +158,6 @@
                 <span class="time">2025-10-31 16:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6902821831f74da73555e886/master/pass/pol_biden_youtube_Getty.jpg" alt="Republicans Claimed Biden Censored YouTube. 20 Employees Seem to Say Otherwise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/republicans-claim-biden-censored-youtube/" target="_blank">Republicans Claimed Biden Censored YouTube. 20 Employees Seem to Say Otherwise</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-31 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/31/perplexity-strikes-multi-year-licensing-deal-with-getty-images/" target="_blank">Perplexity strikes multi-year licensing deal with Getty Images</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-31 15:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,45 +176,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naguballa77/ros2-publisher-node-4758" target="_blank">ROS2 Publisher Node.</a></span>
+                <span class="title"><a href="https://dev.to/jocanola/understanding-owasp-m1-2024-improper-credential-usage-in-react-nativeexpo-and-how-to-mitigate-it-2657" target="_blank">Understanding OWASP M1 (2024): Improper Credential Usage in React Native/Expo and How to Mitigate It</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 18:56</span>
+                <span class="time">2025-10-31 19:49</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/10/swift-sdk-android/en/headerimage/swift-android-sdk-1761933258310.jpeg" alt="Apple Previews SDK for Building Android Apps with Swift" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2025/10/cncf-cyber-threat-report/en/headerimage/generatedHeaderImage-1761937594147.jpg" alt="Layered Defences Are Key to Combating AI-Driven Cyber Threats, CNCF Report Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/swift-sdk-android/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Previews SDK for Building Android Apps with Swift</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/cncf-cyber-threat-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Layered Defences Are Key to Combating AI-Driven Cyber Threats, CNCF Report Finds</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2025-10-31 18:00</span>
+                <span class="time">2025-10-31 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/" target="_blank">How to build silos and decrease collaboration (on purpose)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-31 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722005&w=600" alt="A Framework for Securing Open-Source Observability at the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/secure-open-source-observability-edge" target="_blank">A Framework for Securing Open-Source Observability at the Edge</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-31 19:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hotfixhero/scaling-is-the-new-just-add-more-ram-why-ai-needs-a-new-algorithm-not-a-bigger-wallet-44mg" target="_blank">Scaling is the New “Just Add More RAM” — Why AI Needs a New Algorithm, Not a Bigger Wallet</a></span>
+                <span class="title"><a href="https://dev.to/naguballa77/ros2-publisher-node-4758" target="_blank">ROS2 Publisher Node.</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18721981&w=600" alt="Streamlining Real-Time Ad Tech Systems: Techniques to Prevent Performance Bottlenecks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/streamlining-real-time-ad-tech-systems-techniques" target="_blank">Streamlining Real-Time Ad Tech Systems: Techniques to Prevent Performance Bottlenecks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-31 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4rwg6wdsnz1m0b1tampb.png" alt="Hacktoberfest 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lowla/hacktoberfest-2025-9fj" target="_blank">Hacktoberfest 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 16:50</span>
+                <span class="time">2025-10-31 18:56</span>
             </div>
         </div>
 </div>
@@ -244,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/lego-november-2025-new-releases-goonies-1280x853.jpg" alt="Hey You Guys, It’s Lego’s November Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-november-2025-releases-goonies-black-friday-2000680099" target="_blank">Hey You Guys, It’s Lego’s November Releases</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-31 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Mouthwashing.jpg" alt="Mouthwashing Bundle Features 13 Great Horror Games For Just $13" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/free-horror-games-halloween-bundle-cheap-discount-2000640518" target="_blank">Mouthwashing Bundle Features 13 Great Horror Games For Just $13</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K81HKBRHDAG83DMYHDMWDFA4/hero-image.png" alt="Best Buy&#x27;s Early Black Friday Deals Are Live, and They&#x27;re Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-buys-announces-holiday-sales?utm_medium=RSS" target="_blank">Best Buy&#x27;s Early Black Friday Deals Are Live, and They&#x27;re Good</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-10-31 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/witcher-netflix.jpg" alt="Reviews For Netflix’s Witcher Season 4 Are Pretty Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,33 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/trumps-nasa-chief-hits-back-at-kim-kardashian-over-fake-moon-landing-conspiracy-2000680141" target="_blank">Trump’s NASA Chief Hits Back at Kim Kardashian Over Fake Moon Landing Conspiracy</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-10-31 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/09/0b5948899f280fadfa85cfc8cb77a138-1280x720.jpg" alt="31 Terrific Movies That Are Perfect For Spooky Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-halloween-movies-disney-scary-spooky-1851654060" target="_blank">31 Terrific Movies That Are Perfect For Spooky Season</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/jimmy-wales.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Jimmy Wales on why Wikipedia will outlast Elon Musk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/31/jimmy-wales-on-why-wikipedia-will-outlast-elon-musk.html" target="_blank">Jimmy Wales on why Wikipedia will outlast Elon Musk</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-31 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/crabhand-1280x716.jpg" alt="Stellar Blade Dev Weighs In On Controversy About Mocking Small Penises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stellar-blade-shift-up-crab-hand-small-penis-hateful-expression-apology-nikke-2000640487" target="_blank">Stellar Blade Dev Weighs In On Controversy About Mocking Small Penises</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 15:51</span>
             </div>
         </div>
 </div>
@@ -326,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
