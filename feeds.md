@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 09:02:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-10-31 10:01:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/31/ultra-orthodox-jews-rally-in-israel-against-military-service?traffic_source=rss" target="_blank">Ultra-Orthodox Jews rally in Israel against military service</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-31 09:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/31/nx-s1-5591999/five-key-takeaways-from-trumps-week-in-asia" target="_blank">Five key takeaways from Trump&#x27;s week in Asia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-31 09:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="time">2025-10-31 05:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/31/egypts-vast-1bn-museum-to-open-in-cairo-after-two-decade-build" target="_blank">Egypt’s vast $1bn museum to open in Cairo after two-decade build</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-10-31 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/iran-condemns-trumps-call-to-resume-us-nuclear-testing?traffic_source=rss" target="_blank">Iran condemns Trump’s call to resume US nuclear testing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-31 04:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +111,15 @@
                 <span class="title"><a href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/" target="_blank">15% Off Dyson Promo Codes | November 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-10-31 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/" target="_blank">Scenes from TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-31 04:02</span>
             </div>
         </div>
 <div class="story">
@@ -148,15 +158,6 @@
                 <span class="time">2025-10-30 22:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/" target="_blank">Navan IPO tumbles 20% after historic debut under SEC shutdown workaround</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-30 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +170,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/10/ec2-c8i-compute-optimization/en/headerimage/generatedHeaderImage-1761573902562.jpg" alt="AWS Launches C8i and C8i-flex EC2 Instances Powered by Custom Intel Xeon 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/10/ec2-c8i-compute-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches C8i and C8i-flex EC2 Instances Powered by Custom Intel Xeon 6</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-31 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tahamjp/react-testing-in-2025-stop-mocking-start-trusting-your-components-3h4f" target="_blank">⚛️ React Testing in 2025: Stop Mocking, Start Trusting Your Components</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 09:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2510.22371" target="_blank">Reasoning Models Reason Well, Until They Don&#x27;t</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-31 09:23</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +215,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/" target="_blank">Vibe coding needs a spec, too</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-10-31 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5di3" target="_blank">CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ganesh_tidake/building-smarter-apps-the-rise-of-ai-agent-frameworks-in-2025-293a" target="_blank">Building Smarter Apps: The Rise of AI Agent Frameworks in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 04:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/" target="_blank">AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-31 03:07</span>
             </div>
         </div>
 </div>
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
