@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 00:04:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-10-31 01:29:18 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/30/g-s1-95941/haiti-jamaica-cuba-hurricane-melissa-recovery" target="_blank">Haiti, Jamaica and Cuba pick up the pieces after Melissa&#x27;s destruction</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-31 00:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/russia-ukraine-war-list-of-key-events-day-1345?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,345</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-31 00:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/10/30/nx-s1-5591378/3i-atlas-comet-nickel-space" target="_blank">Why an interstellar comet has scientists excited</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-10-30 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/us-justice-department-places-prosecutors-on-leave-for-january-6-reference?traffic_source=rss" target="_blank">US Justice Department places prosecutors on leave for January 6 reference</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/30/condemnation-of-horrifying-atrocities-in-sudan?traffic_source=rss" target="_blank">Condemnation of ‘horrifying’ atrocities in Sudan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 20:25</span>
             </div>
         </div>
 </div>
@@ -175,9 +180,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n" target="_blank">Data-Driven Development: Leveraging Big Data for Smarter Coding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Sculpt-OS-25.10-Released" target="_blank">Genode-Powered Sculpt OS 25.10 Brings Performance Improvements &amp; Better Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-31 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ertnbrk/understanding-system-behavior-with-observability-in-distributed-systems-3415" target="_blank">Understanding System Behavior with Observability in Distributed Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-30 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/" target="_blank">Measuring what matters: How offline evaluation of GitHub MCP Server works</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-10-30 21:46</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/gustavomeilus/smart-test-skipping-building-a-lightweight-playwright-dependency-analyzer-13bk" target="_blank">Smart Test Skipping: Building a Lightweight Playwright Dependency Analyzer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-30 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.91-Released" target="_blank">Rust 1.91 Promotes Windows On 64-bit ARM To Tier-1 Status</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-30 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722148&w=600" alt="When Coalesce Is Slower Than Repartition: A Spark Performance Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/spark-coalesce-vs-repartition-performance" target="_blank">When Coalesce Is Slower Than Repartition: A Spark Performance Paradox</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7hwo0a10z279kdqhxm5j.jpg" alt="Leveling with cluster analysis in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-400p" target="_blank">Leveling with cluster analysis in Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-30 18:52</span>
             </div>
         </div>
 </div>
@@ -235,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/anker-open-ear-earbuds-1280x853.jpg" alt="Anker’s Open-Ear Headphones Slash 53% Off, Now Nearly Free for Early Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ankers-open-ear-headphones-slash-53-off-now-nearly-free-for-early-black-friday-2000640322" target="_blank">Anker’s Open-Ear Headphones Slash 53% Off, Now Nearly Free for Early Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 01:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/garmin-forerunner-255-watch-1280x853.jpg" alt="Garmin Clears Out Forerunner 255, Now Selling for Peanuts in Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,6 +277,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Save your PC: Windows 11 Pro is just $15 (regularly $199)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/30/save-your-pc-windows-11-pro-is-just-15-regularly-199.html" target="_blank">Save your PC: Windows 11 Pro is just $15 (regularly $199)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8VCVBWJB6K856GTGVEB6SBV/hero-image.jpg" alt="What&#x27;s Better (and Worse) in Fitbit&#x27;s New App Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -271,29 +294,20 @@
                 <span class="time">2025-10-30 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/princeandrew.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="Prince Andrew stripped of prince title and royal residence; Mr. Windsor maintains his innocence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/30/prince-andrew-wont-be-a-prince-anymore.html" target="_blank">Prince Andrew stripped of prince title and royal residence; Mr. Windsor maintains his innocence</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-30 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/image-15-1-1.jpg" alt="So, Almost All Of Pokémon’s Mega Evolutions Are X And Y-Shaped, Right?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-z-a-mega-evolutions-x-y-shaped-tahk0-2000640231" target="_blank">So, Almost All Of Pokémon’s Mega Evolutions Are X And Y-Shaped, Right?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-30 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5691.png" alt="5691" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5691" target="_blank">5691</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-10-31 00:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1761793959-20251030.png" alt="Saturday Morning Breakfast Cereal - Identity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,31 +317,13 @@
                 <span class="time">2025-10-30 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5690.png" alt="Lower The Portcullis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5690" target="_blank">Lower The Portcullis</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-30 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/30/the-least" target="_blank">The Least</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-30 00:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
