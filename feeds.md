@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-10-30 23:02:04 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-31 00:04:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, October 30, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/trump-administration-sets-rules-to-bar-groups-it-opposes-from-loan-relief?traffic_source=rss" target="_blank">Trump administration sets rules to bar groups it opposes from loan relief</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-30 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-35-ap-gmh-251029_1761791632517_hpMain_4x3t_384.jpg" alt="What does Trump mean by &#x27;nuclear testing?&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-nuclear-testing/story?id=127035450" target="_blank">What does Trump mean by &#x27;nuclear testing?&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-10-30 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/30/condemnation-of-horrifying-atrocities-in-sudan?traffic_source=rss" target="_blank">Condemnation of ‘horrifying’ atrocities in Sudan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-10-30 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/30/g-s1-95841/prince-andrew-stripped-titles-evicted" target="_blank">King Charles III strips Prince Andrew of his titles and evicts him from the Royal Lodge</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-30 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/30/trump-announces-lowest-refugee-admission-cap-in-us-history-at-7500?traffic_source=rss" target="_blank">Trump announces  lowest refugee admission cap in US history at 7,500</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 19:32</span>
             </div>
         </div>
 </div>
@@ -179,6 +175,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ertnbrk/understanding-system-behavior-with-observability-in-distributed-systems-3415" target="_blank">Understanding System Behavior with Observability in Distributed Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-30 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gustavomeilus/smart-test-skipping-building-a-lightweight-playwright-dependency-analyzer-13bk" target="_blank">Smart Test Skipping: Building a Lightweight Playwright Dependency Analyzer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-30 20:46</span>
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-400p" target="_blank">Leveling with cluster analysis in Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-30 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/7cf4a1a3-e825-4653-b7e2-2920e3c4810e_420x300.png" alt="The Pulse #151: Amazon layoffs – AI or economy to blame?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-151" target="_blank">The Pulse #151: Amazon layoffs – AI or economy to blame?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-10-30 17:46</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
