@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 06:02:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-31 07:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/31/egypts-vast-1bn-museum-to-open-in-cairo-after-two-decade-build" target="_blank">Egypt’s vast $1bn museum to open in Cairo after two-decade build</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-31 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,21 +87,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-35-ap-gmh-251029_1761791632517_hpMain_4x3t_384.jpg" alt="What does Trump mean by &#x27;nuclear testing?&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cae3/live/0d058fb0-b5e2-11f0-aa13-0b0479f6f42a.jpg" alt="Andrew stripped of &#x27;prince&#x27; title and will move out of Royal Lodge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-nuclear-testing/story?id=127035450" target="_blank">What does Trump mean by &#x27;nuclear testing?&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-30 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/30/egypt-unveils-new-billion-dollar-museum-to-lure-in-more-tourists?traffic_source=rss" target="_blank">Egypt unveils new billion-dollar museum to lure in more tourists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-30 22:41</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7m4yjkp74o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew stripped of &#x27;prince&#x27; title and will move out of Royal Lodge</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-30 23:20</span>
             </div>
         </div>
 </div>
@@ -109,6 +100,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="15% Off Dyson Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/" target="_blank">15% Off Dyson Promo Codes | November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-10-31 05:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +154,6 @@
                 <span class="time">2025-10-30 21:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations" target="_blank">Tim Cook says more AIs are coming to Apple Intelligence</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +166,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/" target="_blank">Vibe coding needs a spec, too</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-10-31 07:40</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n" target="_blank">Data-Driven Development: Leveraging Big Data for Smarter Coding</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-31 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Sculpt-OS-25.10-Released" target="_blank">Genode-Powered Sculpt OS 25.10 Brings Performance Improvements &amp; Better Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-31 00:22</span>
             </div>
         </div>
 </div>
@@ -323,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
