@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 21:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-31 22:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/31/un-approves-resolution-supporting-moroccos-claim-to-western-sahara" target="_blank">UN approves resolution supporting Morocco’s claim to Western Sahara</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-31 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761942575564_now_mtp_clip_ablk_251031_1920x1080-qqnlqf.jpg" alt="Two judges issue rulings in lawsuits challenging Trump admin. withholding SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/two-judges-issue-rulings-in-lawsuits-challenging-trump-admin-withholding-snap-benefits-251087941985" target="_blank">Two judges issue rulings in lawsuits challenging Trump admin. withholding SNAP benefits</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-10-31 20:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f4c/live/fc6a9b40-b696-11f0-b2a1-6f537f66f9aa.jpg" alt="Andrew&#x27;s move out of Royal Lodge may not happen until new year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +94,20 @@
                 <span class="time">2025-10-31 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251031-food-bank-ew-227p-db30a1.jpg" alt="Federal judge orders Trump administration to pay SNAP benefits out of contingency fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-administration-pay-snap-benefits-contingenc-rcna241187" target="_blank">Federal judge orders Trump administration to pay SNAP benefits out of contingency fund</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-31 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/10/31/are-trade-relations-between-the-us-and-china-back-on-track?traffic_source=rss" target="_blank">Are trade relations between the US and China back on track?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-31 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-31-at-3.49.43-PM-500x378.png" alt="Cursor introduces its coding model alongside multi-agent interface" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/" target="_blank">Cursor introduces its coding model alongside multi-agent interface</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-10-31 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6904dfbef259dcdee4c046a1/master/pass/Nancy-Mace-TSA-Politics-AP24324592046983.jpg" alt="Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,6 +129,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon" target="_blank">Here are the shipping and return policies for all the big-name retailers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-31 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/" target="_blank">Meta bought 1 GW of solar this week</a></span>
                 <span class="feed">TechCrunch</span>
@@ -144,24 +153,6 @@
                 <span class="time">2025-10-31 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider" target="_blank">Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-31 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/11/Roadster_Hero-1-500x500.jpg" alt="Sam Altman wants a refund for his $50,000 Tesla Roadster deposit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/" target="_blank">Sam Altman wants a refund for his $50,000 Tesla Roadster deposit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-31 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +165,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paperium/on-epistemic-uncertainty-of-visual-tokens-for-object-hallucinations-in-largevision-language-models-67k" target="_blank">On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in LargeVision-Language Models</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 21:50</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +212,6 @@
                 <span class="time">2025-10-31 19:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722005&w=600" alt="A Framework for Securing Open-Source Observability at the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/secure-open-source-observability-edge" target="_blank">A Framework for Securing Open-Source Observability at the Edge</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-31 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/jackery-power-station-1280x853.jpg" alt="Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forget-the-stinky-gas-generator-jackerys-1500w-power-station-is-going-for-pennies-on-amazon-2000640169" target="_blank">Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 21:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Back-to-the-Future-40-1280x853.jpg" alt="‘Back to the Future’ in 4DX Is a Truly Hilarious, Additive Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,20 +285,20 @@
                 <span class="time">2025-10-31 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/witcher-netflix.jpg" alt="Reviews For Netflix’s Witcher Season 4 Are Pretty Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-witcher-season-4-reviews-liam-hemsworth-2000640506" target="_blank">Reviews For Netflix’s Witcher Season 4 Are Pretty Bad</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1761945227-20251031.png" alt="Saturday Morning Breakfast Cereal - Enormous" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/enormous" target="_blank">Saturday Morning Breakfast Cereal - Enormous</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-10-31 21:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
