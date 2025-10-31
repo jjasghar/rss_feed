@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 14:01:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-31 15:02:09 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/oct/31/tanzania-election-protests-opposition" target="_blank">About 700 killed in Tanzania election protests, opposition says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-10-31 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/31/nx-s1-5551108/housing-costs-birth-rate" target="_blank">Families say cost of housing means they&#x27;ll have fewer or no children</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-10-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7867/live/68445b60-b64e-11f0-aa13-0b0479f6f42a.jpg" alt="Hurricane death toll rises as Jamaica aid effort struggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&at_campaign=rss" target="_blank">Hurricane death toll rises as Jamaica aid effort struggles</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-10-31 11:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761910052833_tdy_news_7a_nobles_trump_filibuster_251031_1920x1080-s95qmd.jpg" alt="Trump Calls for End of Filibuster to Break Shutdown Stalemate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,33 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Business/us-china-deal-means-rare-earths-soybean-farmers/story?id=127028309" target="_blank">What the US-China deal means for rare earths, soybean farmers and TikTok</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-10-31 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/10/31/ultra-orthodox-jews-rally-in-israel-against-military-service?traffic_source=rss" target="_blank">Ultra-Orthodox Jews rally in Israel against military service</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-31 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/31/nx-s1-5591999/five-key-takeaways-from-trumps-week-in-asia" target="_blank">Five key takeaways from Trump&#x27;s week in Asia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-31 09:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/31/nx-s1-5590257/mother-and-son-reflect-on-life-10-years-after-car-crash" target="_blank">Mother and son reflect on life 10 years after car crash</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-31 08:49</span>
             </div>
         </div>
 </div>
@@ -175,6 +173,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foevtmcvak47x5juz38fq.png" alt="Aurora DSQL, una alternativa a PostgreSQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kcatucuamba/aurora-dsql-una-alternativa-a-postgresql-4i25" target="_blank">Aurora DSQL, una alternativa a PostgreSQL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.warp.dev/blog/warp-new-pricing-flexibility-byok" target="_blank">Warp Terminal changes pricing model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-10-31 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18721076&w=600" alt="Lessons Learned From Running Disaster Recovery Drills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/lessons-learned-from-disaster-recovery-drills" target="_blank">Lessons Learned From Running Disaster Recovery Drills</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-10-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -190,33 +215,6 @@
                 <span class="title"><a href="https://news.mit.edu/2025/your-brain-without-sleep-1029" target="_blank">Attention lapses due to sleep deprivation due to flushing fluid from brain</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-10-31 13:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5afm" target="_blank">Mr Sunday Movies: Predator 2 - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18721068&w=600" alt="How Modern Developers Use AI-Assisted Coding to Validate Products Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-assisted-coding-validate-products-faster" target="_blank">How Modern Developers Use AI-Assisted Coding to Validate Products Faster</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-10-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/announcing-sponsorship-on-nuget/en/headerimage/twitter_card+%281%29-1761907082059.jpg" alt="New NuGet.org Sponsorship Feature Enables Developers to Support Package Authors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/announcing-sponsorship-on-nuget/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New NuGet.org Sponsorship Feature Enables Developers to Support Package Authors</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-31 11:28</span>
             </div>
         </div>
 </div>
@@ -238,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/transients-1280x853.jpg" alt="75 Years Ago, Mysterious Flashes in the Sky Sparked Rumors of UFOs. Now, Researchers Offer Two Startling Explanations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/75-years-ago-mysterious-flashes-in-the-sky-sparked-rumors-of-ufos-now-researchers-offer-two-startling-explanations-2000679967" target="_blank">75 Years Ago, Mysterious Flashes in the Sky Sparked Rumors of UFOs. Now, Researchers Offer Two Startling Explanations</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/borderlands2.jpg" alt="Borderlands 4‘s Infamous Crit Knife Is Back, Bugged, And Badder Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4s-crit-knife-bug-nerf-patch-notes-2000640456" target="_blank">Borderlands 4‘s Infamous Crit Knife Is Back, Bugged, And Badder Than Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 14:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8WDJHABP6F429A4SSZJP5RT/hero-image.png" alt="The JBL Charge 6 Is $30 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/10/31/nintendo-announces-paid-switch-2-upgrade-for-animal-crossing-5-gets-you-mouse-controls-and-disappointment.html" target="_blank">Nintendo announces paid Switch 2 upgrade for Animal Crossing — $5 gets you mouse controls and disappointment</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-10-31 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Deadpool-Disney-Experiences-1280x853.jpg" alt="Deadpool Will Be Back for More Merry Mayhem at Disneyland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/deadpool-will-be-back-for-more-merry-mayhem-at-disneyland-2000679854" target="_blank">Deadpool Will Be Back for More Merry Mayhem at Disneyland</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-31 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/zuckerberg-facebook-VR.jpg?fit=1920%2C1280&amp;quality=60&amp;ssl=1" alt="Meta: 2,400 porn downloads on corporate IPs for personal use, not training AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/31/meta-2400-porn-downloads-on-corporate-ips-for-personal-use-not-training-ai.html" target="_blank">Meta: 2,400 porn downloads on corporate IPs for personal use, not training AI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-31 10:49</span>
             </div>
         </div>
 </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
