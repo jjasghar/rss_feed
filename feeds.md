@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 10:01:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-10-31 11:01:51 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/811233/microsoft-windows-11-task-manager-duplicate-bug" target="_blank">A bizarre Windows 11 bug duplicates Task Manager instead of closing it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-31 10:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="15% Off Dyson Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,15 +160,6 @@
                 <span class="time">2025-10-30 23:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-500x500.jpg" alt="Calley Means is out of the White House; Casey Means misses Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/10/the-means-siblings-darlings-of-maha-both-out-of-the-trump-admin-for-now/" target="_blank">Calley Means is out of the White House; Casey Means misses Senate hearing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-30 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +172,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/minibooks/ai-assisted-development-2025/en/smallimage/eMag-119-AI-assisted-development-thumb-image-1761232790322.jpg" alt="Mini book: AI Assisted Development: Real World Patterns, Pitfalls, and Production Readiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/minibooks/ai-assisted-development-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mini book: AI Assisted Development: Real World Patterns, Pitfalls, and Production Readiness</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-10-31 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Windows-RX-5000-6000-Game" target="_blank">AMD Windows Driver Changes For RX 5000/6000 Series Won&#x27;t Impact Linux Users</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-31 10:51</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +219,6 @@
                 <span class="time">2025-10-31 09:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/10/meta-carbon-ai/en/headerimage/generatedHeaderImage-1761758498963.jpg" alt="How Meta Is Using AI to Standardize and Cut Carbon Emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/10/meta-carbon-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Meta Is Using AI to Standardize and Cut Carbon Emissions</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-31 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/" target="_blank">Vibe coding needs a spec, too</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-10-31 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Deadpool-Disney-Experiences-1280x853.jpg" alt="Deadpool Will Be Back for More Merry Mayhem at Disneyland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/deadpool-will-be-back-for-more-merry-mayhem-at-disneyland-2000679854" target="_blank">Deadpool Will Be Back for More Merry Mayhem at Disneyland</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-10-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/anker-open-ear-earbuds-1280x853.jpg" alt="Anker’s Open-Ear Headphones Slash 53% Off, Now Nearly Free for Early Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +292,6 @@
                 <span class="time">2025-10-30 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/spooky2-1280x720.jpg" alt="17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197" target="_blank">17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-30 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
