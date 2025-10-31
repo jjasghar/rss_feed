@@ -1,4 +1,4 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 05:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-10-31 06:02:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
@@ -6,33 +6,35 @@
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +110,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/" target="_blank">Scenes from TechCrunch Disrupt</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-10-31 04:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh" target="_blank">Microsoft&amp;#8217;s agent platform play</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-31 00:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6903ec4aa75196c45161d9e8/master/pass/High%20Tech%20Skelly%20(And%20Its%20Big%20Dog,%20Too)%20Is%2075%25%20Off%20at%20The%20Home%20Depot.png" alt="Giant Home Depot Skeletons Are on Crazy Sale Right Now (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -143,24 +163,6 @@
                 <span class="time">2025-10-30 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68fa99670f48aeee5d43d09b/master/pass/Uncanny-Valley-AI-Psychosis-Business-1491212583.jpg" alt="WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-ai-psychosis-ftc-files-google-bedbugs/" target="_blank">WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-30 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale" target="_blank">Samsung’s AirPods Pro look-alikes have fallen to their best price in months</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-30 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5di3" target="_blank">CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Sculpt-OS-25.10-Released" target="_blank">Genode-Powered Sculpt OS 25.10 Brings Performance Improvements &amp; Better Drivers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-10-31 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/10/spotify-logo.jpg?resize=406%2C232&amp;ssl=1" alt="A Colourful New Spotify Controller (and, Ahem) for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/10/gspotify-gnome-extension" target="_blank">A Colourful New Spotify Controller (and, Ahem) for GNOME Shell</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-10-30 23:58</span>
             </div>
         </div>
 </div>
@@ -321,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
