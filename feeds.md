@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-10-31 16:01:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-10-31 17:01:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Error processing https://gizmodo.com/rss: The read operation timed out -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, October 31, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, October 31, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/lawsuit-alleges-horrific-conditions-at-us-immigration-facility-in-chicago?traffic_source=rss" target="_blank">Lawsuit alleges ‘horrific’ conditions at US immigration facility in Chicago</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-10-31 16:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-8-rt-gmh-251030_1761830179185_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Thune remains against ending Senate filibuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +101,20 @@
                 <span class="time">2025-10-31 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/31/g-s1-95973/up-first-newsletter-government-shutdown-snap-benefits-nuclear-testing" target="_blank">A judge to weigh in on SNAP benefits. And, Trump wants to resume nuclear testing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-10-31 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/811251/best-nintendo-switch-2-game-mario-zelda-deal-sale" target="_blank">Woot is offering solid discounts on some of the best Nintendo Switch 2 games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-10-31 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6902821831f74da73555e886/master/pass/pol_biden_youtube_Getty.jpg" alt="Republicans Claimed Biden Censored YouTube. 20 Employees Seem to Say Otherwise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +160,6 @@
                 <span class="time">2025-10-31 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/810928/fcc-broadband-information-labels-rollback" target="_blank">The FCC is letting ISPs hide fees on your broadband bill</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-31 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +172,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4rwg6wdsnz1m0b1tampb.png" alt="Hacktoberfest 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lowla/hacktoberfest-2025-9fj" target="_blank">Hacktoberfest 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-10-31 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KosmicKrisp-Vulkan-1.3" target="_blank">KosmicKrisp Now Vulkan 1.3 Compliant For Apple Devices</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-10-31 16:14</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +219,6 @@
                 <span class="time">2025-10-31 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.warp.dev/blog/warp-new-pricing-flexibility-byok" target="_blank">Warp Terminal changes pricing model</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-31 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/compliance-devops-management/en/mediumimage/ian-miell-medium-1761032906689.jpg" alt="Presentation: The Way We Manage Compliance Is Wrong… And Is Changing! Bringing DevOps Principles to Controls and Audit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/compliance-devops-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Way We Manage Compliance Is Wrong… And Is Changing! Bringing DevOps Principles to Controls and Audit</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-10-31 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/jimmy-wales.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Jimmy Wales on why Wikipedia will outlast Elon Musk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/10/31/jimmy-wales-on-why-wikipedia-will-outlast-elon-musk.html" target="_blank">Jimmy Wales on why Wikipedia will outlast Elon Musk</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-10-31 16:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/crabhand-1280x716.jpg" alt="Stellar Blade Dev Weighs In On Controversy About Mocking Small Penises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +292,6 @@
                 <span class="time">2025-10-31 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/LEGOSpiderMan2-1280x853.jpg" alt="The Iconic Spider-Man 2 Train Scene Comes to LEGO, Now Selling for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-iconic-spider-man-2-train-scene-comes-to-lego-now-selling-for-pennies-on-amazon-2000640308" target="_blank">The Iconic Spider-Man 2 Train Scene Comes to LEGO, Now Selling for Pennies on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 12:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
