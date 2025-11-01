@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 12:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-01 13:06:31 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/1/serbian-students-lead-powerful-memorial-for-railway-disaster-anniversary?traffic_source=rss" target="_blank">Serbian students lead powerful memorial for railway disaster anniversary</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-01 12:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +99,20 @@
                 <span class="time">2025-11-01 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/mass-protests-planned-as-serbia-marks-anniversary-of-train-station-collapse?traffic_source=rss" target="_blank">Mass protests planned as Serbia marks anniversary of train station collapse</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-01 08:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1326657723-500x500.jpg" alt="Inside the marketplace for vaccine medical exemptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/11/inside-the-marketplace-for-vaccine-medical-exemptions/" target="_blank">Inside the marketplace for vaccine medical exemptions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-01 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +158,6 @@
                 <span class="time">2025-10-31 21:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6904dfbef259dcdee4c046a1/master/pass/Nancy-Mace-TSA-Politics-AP24324592046983.jpg" alt="Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nancy-mace-berates-cops-airport-meltdown/" target="_blank">Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-10-31 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +170,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/" target="_blank">Abandonware of the web: do you know that there is an HTML tables API?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-01 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flb0ifdyxtp7s7laopmaz.png" alt="Understanding How Computers Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/danishaft/understanding-how-computers-actually-work-4e0n" target="_blank">Understanding How Computers Actually Work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-01 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PCI-ReBAR-Better-Linux-6.19" target="_blank">PCI Resizable BAR Improvements Heading To Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-01 12:35</span>
             </div>
         </div>
 <div class="story">
@@ -194,33 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Data Platform with Zero Egress Fees</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-01 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pracode_2503/the-secret-lives-of-ai-agents-what-do-they-think-when-youre-not-looking-523e" target="_blank">🤖 The Secret Lives of AI Agents: What Do They ‘Think’ When You’re Not Looking?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fck91ikrjo7vk2wrnt864.png" alt="Kalman Filter Algorithm: Core Principles, Advantages, Applications, and C Code Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tiger_smith_9f421b9131db5/kalman-filter-algorithm-core-principles-advantages-applications-and-c-code-implementation-55mf" target="_blank">Kalman Filter Algorithm: Core Principles, Advantages, Applications, and C Code Implementation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1z2zqei2c2mmmzlfjsw4.png" alt="I Skipped the Frontend Team. Here’s the 3,800-Character Prompt That Built My Startup&#x27;s UI." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pump_web_c125a746e2ec6f19/i-skipped-the-frontend-team-heres-the-3800-character-prompt-that-built-my-startups-ui-4107" target="_blank">I Skipped the Frontend Team. Here’s the 3,800-Character Prompt That Built My Startup&#x27;s UI.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 03:04</span>
             </div>
         </div>
 </div>
@@ -324,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
