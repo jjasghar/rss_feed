@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 15:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-01 16:02:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/why-has-the-israeli-armys-top-lawyer-resigned-after-leaking-rape-evidence?traffic_source=rss" target="_blank">Why has the Israeli army’s top lawyer resigned after leaking rape evidence?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-01 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/01/how-al-qaida-linked-jihadist-group-jnim-is-bringing-mali-to-its-knees" target="_blank">How al-Qaida-linked jihadist group JNIM is bringing Mali to its knees</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +106,20 @@
                 <span class="time">2025-11-01 12:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/01/nx-s1-5584119/rats-birth-control-rodents" target="_blank">Too many rats? Birth control is one city&#x27;s answer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7dc/live/b2907750-b70f-11f0-9b61-4945b5734f3e.jpg" alt="Andrew should answer Epstein questions in US, Democrats say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3dnnpvjkjvo?at_medium=RSS&at_campaign=rss" target="_blank">Andrew should answer Epstein questions in US, Democrats say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-01 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/" target="_blank">AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685d98d53dd992266cb616c8/master/pass/The%20Best%20Family%20Board%20Games.png" alt="35 Best Family Board Games (2025): Catan, Ticket to Ride, Codenames" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +165,6 @@
                 <span class="time">2025-11-01 01:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-500x500.jpg" alt="YouTube denies AI was involved with odd removals of tech tutorials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/" target="_blank">YouTube denies AI was involved with odd removals of tech tutorials</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-01 00:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +177,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqxxfs8awctycgvlf9pb.png" alt="AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naveen_kolli_a8501e4633c5/ai-and-data-virtualization-a-symbiotic-relationship-for-smart-data-management-2c13" target="_blank">AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-01 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/" target="_blank">arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-01 14:58</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +224,6 @@
                 <span class="time">2025-11-01 12:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flb0ifdyxtp7s7laopmaz.png" alt="Understanding How Computers Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/danishaft/understanding-how-computers-actually-work-4e0n" target="_blank">Understanding How Computers Actually Work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/PCI-ReBAR-Better-Linux-6.19" target="_blank">PCI Resizable BAR Improvements Heading To Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-01 12:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/keanu-johnwick-hed-1280x853.jpg" alt="Keanu Reeves’ Next Movie ‘Shiver’ Has Sharks and A Time Loop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/keanu-reeves-next-movie-shiver-has-sharks-and-a-time-loop-2000680338" target="_blank">Keanu Reeves’ Next Movie ‘Shiver’ Has Sharks and A Time Loop</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-01 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/09/96caa10d7e4e737fc70ba61d2d8433e4-1024x573.jpg" alt="The New Way to Make Money Online? Predict What Words a Person Will Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +297,20 @@
                 <span class="time">2025-10-31 23:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/seagate-hdd-20-1280x853.jpg" alt="Seagate 20TB HDD Priced Like Peanuts, Amazon Bottoms Out at $0.01 per GB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seagate-20tb-hdd-priced-like-peanuts-amazon-bottoms-out-at-0-01-per-gb-2000639129" target="_blank">Seagate 20TB HDD Priced Like Peanuts, Amazon Bottoms Out at $0.01 per GB</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 22:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1761945325-20251101.png" alt="Saturday Morning Breakfast Cereal - Nerd-fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/nerd-fight" target="_blank">Saturday Morning Breakfast Cereal - Nerd-fight</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-01 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -319,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
