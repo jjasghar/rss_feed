@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 14:01:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-01 15:01:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/1/video-tanzania-president-declared-winner-amid-deadly-election-unrest?traffic_source=rss" target="_blank">Video: Tanzania president declared winner amid deadly election unrest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-01 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762002768959_tdy_sat_hakeem_jeffries_251101_1920x1080-ki0h2y.jpg" alt="Hakeem Jeffries Talks Government Shutdown on Saturday TODAY" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/hakeem-jeffries-on-government-shutdown-snap-benefits-more-251124805552" target="_blank">Hakeem Jeffries Talks Government Shutdown on Saturday TODAY</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-01 13:13</span>
             </div>
         </div>
 <div class="story">
@@ -92,20 +100,29 @@
                 <span class="time">2025-11-01 10:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/01/nx-s1-5590944/duck-billed-hooved-dinosaur-discovery" target="_blank">How a great-grandmother helped researchers unravel a dinosaur mummy mystery</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-01 10:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685d98d53dd992266cb616c8/master/pass/The%20Best%20Family%20Board%20Games.png" alt="35 Best Family Board Games (2025): Catan, Ticket to Ride, Codenames" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-family-board-games/" target="_blank">35 Best Family Board Games (2025): Catan, Ticket to Ride, Codenames</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale" target="_blank">LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69056295690a5ebace757d1a/master/pass/The%20Best%20Rain%20Jackets%20to%20Help%20You%20Brave%20the%20Elements.png" alt="9 Best Rain Jackets (2025): Cheap, Eco-Friendly, Hiking, and Running" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +159,6 @@
                 <span class="time">2025-11-01 00:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1306483-500x500.jpg" alt="Neural network finds an enzyme that can break down polyurethane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/10/polyurethane-is-the-latest-polymer-broken-down-by-designer-enzymes/" target="_blank">Neural network finds an enzyme that can break down polyurethane</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-31 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting" target="_blank">GTA VI developer accused of union busting in mass firings</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-10-31 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-WebAssembly" target="_blank">Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-01 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jellyfin.org/posts/SQLite-locking/" target="_blank">SQLite concurrency and why you should care about it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-01 12:59</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/PCI-ReBAR-Better-Linux-6.19" target="_blank">PCI Resizable BAR Improvements Heading To Linux 6.19</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-01 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michaelaiglobal/beyond-the-buzz-5-b2b-tech-shifts-actually-worth-your-commits-47bc" target="_blank">Beyond the Buzz: 5 B2B Tech Shifts Actually Worth Your Commits</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/cloudflare-data-platform/en/headerimage/generatedHeaderImage-1760101377662.jpg" alt="Cloudflare Introduces Data Platform with Zero Egress Fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Data Platform with Zero Egress Fees</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-01 10:57</span>
             </div>
         </div>
 </div>
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
