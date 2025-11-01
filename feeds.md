@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 20:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-01 21:01:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b3/live/14972730-b712-11f0-ba75-093eca1ac29b.jpg" alt="Key town faces &#x27;multi-thousand&#x27; Russian force, top Ukraine commander admits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crklljyx6mzo?at_medium=RSS&at_campaign=rss" target="_blank">Key town faces &#x27;multi-thousand&#x27; Russian force, top Ukraine commander admits</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-01 20:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/1/video-tanzania-president-declared-winner-amid-deadly-election-unrest?traffic_source=rss" target="_blank">Video: Tanzania president declared winner amid deadly election unrest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-01 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762002768959_tdy_sat_hakeem_jeffries_251101_1920x1080-ki0h2y.jpg" alt="Hakeem Jeffries Talks Government Shutdown on Saturday TODAY" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/hakeem-jeffries-on-government-shutdown-snap-benefits-more-251124805552" target="_blank">Hakeem Jeffries Talks Government Shutdown on Saturday TODAY</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-01 13:13</span>
             </div>
         </div>
 </div>
@@ -230,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/halloween-michael-myers-1280x853.jpg" alt="The ‘Halloween’ Game Makes Michael Myers the Star of the Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-halloween-game-makes-michael-myers-the-star-of-the-show-2000680399" target="_blank">The ‘Halloween’ Game Makes Michael Myers the Star of the Show</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-01 20:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/jujutsu-kaisen-s3-1280x853.jpg" alt="The Next ‘Jujutsu Kaisen’ Movie Is Taking a Trip to IMAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -248,6 +268,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/The-CISSP-Security-Risk-Management-Training-Bundle-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="CISSP without the buzzwords: 8-domain training bundle for $29.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/01/cissp-without-the-buzzwords-8-domain-training-bundle-for-29-97.html" target="_blank">CISSP without the buzzwords: 8-domain training bundle for $29.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/keanu-johnwick-hed-1280x853.jpg" alt="Keanu Reeves’ Next Movie ‘Shiver’ Has Sharks and A Time Loop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -263,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/mention-markets-2000680376" target="_blank">The New Way to Make Money Online? Predict What Words a Person Will Say</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-01 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2293679881.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Google disconnects early Nest Thermostats from app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/31/google-disconnects-early-nest-thermostats-from-app.html" target="_blank">Google disconnects early Nest Thermostats from app</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-01 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/OCT2025_Lightspeed_io9-1280x853.jpg" alt="A Monstrously Alluring Secret Comes to Light in This Eerie Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-woman-hides-a-monstrously-alluring-secret-in-this-eerie-short-story-2000680209" target="_blank">A Monstrously Alluring Secret Comes to Light in This Eerie Short Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-01 00:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
