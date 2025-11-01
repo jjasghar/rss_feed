@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 22:01:32 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-01 23:01:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/" target="_blank">Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-01 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale" target="_blank">Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week</a></span>
                 <span class="feed">The Verge</span>
@@ -149,15 +158,6 @@
                 <span class="time">2025-11-01 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685d98d53dd992266cb616c8/master/pass/The%20Best%20Family%20Board%20Games.png" alt="35 Best Family Board Games (2025): Catan, Ticket to Ride, Codenames" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-family-board-games/" target="_blank">35 Best Family Board Games (2025): Catan, Ticket to Ride, Codenames</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-01 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,10 +175,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sailfishos.org/info/" target="_blank">SailfishOS: A Linux-based European alternative to dominant mobile OSes</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-01 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robertobutti/semantic-search-with-embeddings-in-php-a-hands-on-guide-using-neuron-ai-and-ollama-16c" target="_blank">Semantic search with embeddings in PHP: a hands-on guide using Neuron AI and Ollama</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-01 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/company/github-game-off-2025-theme-announcement/" target="_blank">GitHub Game Off 2025 theme announcement</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-01 20:37</span>
             </div>
         </div>
 <div class="story">
@@ -199,29 +217,20 @@
                 <span class="time">2025-11-01 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drcarlosruizviquez/evaluating-the-success-of-generative-ai-often-involves-a-cru-5hlm" target="_blank">Evaluating the success of generative AI often involves a cru</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/" target="_blank">Chat Control proposal fails again after public opposition</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-01 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/crazy-clock-1280x853.jpg" alt="Here’s What Happens When Your Phone’s Clock Changes Itself on Nov. 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/heres-what-happens-when-your-phones-clock-changes-itself-on-nov-2-2000680435" target="_blank">Here’s What Happens When Your Phone’s Clock Changes Itself on Nov. 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-01 22:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/halloween-michael-myers-1280x853.jpg" alt="The ‘Halloween’ Game Makes Michael Myers the Star of the Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +276,6 @@
                 <span class="time">2025-11-01 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/09/96caa10d7e4e737fc70ba61d2d8433e4-1024x573.jpg" alt="The New Way to Make Money Online? Predict What Words a Person Will Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mention-markets-2000680376" target="_blank">The New Way to Make Money Online? Predict What Words a Person Will Say</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-01 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,7 +296,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 22:01 UTC
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
