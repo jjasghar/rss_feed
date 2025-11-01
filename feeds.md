@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 13:06:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-01 14:01:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 13:06 UTC</div>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/1/video-tanzania-president-declared-winner-amid-deadly-election-unrest?traffic_source=rss" target="_blank">Video: Tanzania president declared winner amid deadly election unrest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-01 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/01/nx-s1-5594080/tanzania-hassan-wins-presidential-election-landslide" target="_blank">Tanzanian president wins disputed election with more than 97% of the vote</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-01 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +101,20 @@
                 <span class="time">2025-11-01 10:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/snap-sign-1-gty-gmh-251031_1761922347366_hpMain_4x3t_384.jpg" alt="SNAP benefits run dry as shutdown continues, here&#x27;s how states are stepping in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/snap-benefits-run-dry-government-shutdown-continues-states/story?id=127059480" target="_blank">SNAP benefits run dry as shutdown continues, here&#x27;s how states are stepping in</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-01 09:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/01/nx-s1-5591497/snap-benefits-shutdown-grocery-buddy-help" target="_blank">As SNAP benefits run dry, &#x27;grocery buddies&#x27; are footing their neighbors&#x27; food bills</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-01 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69056295690a5ebace757d1a/master/pass/The%20Best%20Rain%20Jackets%20to%20Help%20You%20Brave%20the%20Elements.png" alt="9 Best Rain Jackets (2025): Cheap, Eco-Friendly, Hiking, and Running" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-rain-jackets/" target="_blank">9 Best Rain Jackets (2025): Cheap, Eco-Friendly, Hiking, and Running</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-01 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1326657723-500x500.jpg" alt="Inside the marketplace for vaccine medical exemptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting" target="_blank">GTA VI developer accused of union busting in mass firings</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-10-31 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-31-at-3.49.43-PM-500x378.png" alt="Cursor introduces its coding model alongside multi-agent interface" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/" target="_blank">Cursor introduces its coding model alongside multi-agent interface</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-31 21:34</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2022/09/96caa10d7e4e737fc70ba61d2d8433e4-1024x573.jpg" alt="The New Way to Make Money Online? Predict What Words a Person Will Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mention-markets-2000680376" target="_blank">The New Way to Make Money Online? Predict What Words a Person Will Say</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-01 13:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2293679881.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Google disconnects early Nest Thermostats from app" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -281,15 +292,6 @@
                 <span class="time">2025-10-31 22:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/jackery-power-station-1280x853.jpg" alt="Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forget-the-stinky-gas-generator-jackerys-1500w-power-station-is-going-for-pennies-on-amazon-2000640169" target="_blank">Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
