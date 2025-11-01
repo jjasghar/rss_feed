@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 03:19:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-01 04:02:12 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 03:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/10/31/g-s1-96140/dodgers-force-world-series-to-decisive-game-7" target="_blank">Dodgers force World Series to decisive Game 7 by holding off Blue Jays 3-1</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-01 03:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/federal-judge-rules-trump-administration-must-fund-snap-benefits-251100229993" target="_blank">Federal judge rules Trump administration must fund SNAP benefits</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-10-31 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-art-gmh-251031_1761926109752_hpMain_4x3t_384.jpg" alt="Trump faces critical point in government shutdown, SNAP cutoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-faces-critical-point-government-shutdown-snap-cutoff/story?id=127059168" target="_blank">Trump faces critical point in government shutdown, SNAP cutoff</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-10-31 23:07</span>
             </div>
         </div>
 </div>
@@ -259,6 +266,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Anker-Power-Bank-Power-Station-60000mAh-1280x854.jpg" alt="Anker’s 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ankers-60k-mah-power-bank-returns-to-its-all-time-low-price-charges-your-iphone-10-times-2000639699" target="_blank">Anker’s 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-10-31 23:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Image-Aeropress.jpg?fit=1080%2C931&amp;quality=60&amp;ssl=1" alt="Finally, Aeropress has an XL flow control cap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +299,6 @@
                 <span class="title"><a href="https://kotaku.com/forget-the-stinky-gas-generator-jackerys-1500w-power-station-is-going-for-pennies-on-amazon-2000640169" target="_blank">Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-10-31 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Back-to-the-Future-40-1280x853.jpg" alt="‘Back to the Future’ in 4DX Is a Truly Hilarious, Additive Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/back-to-the-future-4dx-anniversary-rerelease-2000680111" target="_blank">‘Back to the Future’ in 4DX Is a Truly Hilarious, Additive Experience</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-10-31 21:00</span>
             </div>
         </div>
 </div>
@@ -326,22 +333,13 @@
                 <span class="time">2025-10-31 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/heart_mountain.png" alt="Heart Mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3162/" target="_blank">Heart Mountain</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-10-31 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 03:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
