@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 18:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-01 19:01:29 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/11/1/live-liverpool-vs-aston-villa-premier-league?traffic_source=rss" target="_blank">LIVE: Liverpool vs Aston Villa – Premier League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-01 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-ukrainian-troops-ukraine_7068681.jpg?20251101151821" alt="Ukrainian troops &#x27;start surrendering&#x27; in key city but Kyiv says situation &#x27;dynamic&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukrainian-troops-start-surrendering-in-key-city-but-kyiv-says-situation-dynamic-13461786" target="_blank">Ukrainian troops &#x27;start surrendering&#x27; in key city but Kyiv says situation &#x27;dynamic&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-01 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +106,20 @@
                 <span class="time">2025-11-01 13:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/01/nx-s1-5594080/tanzania-hassan-wins-presidential-election-landslide" target="_blank">Tanzanian president wins disputed election with more than 97% of the vote</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/1/serbian-students-lead-powerful-memorial-for-railway-disaster-anniversary?traffic_source=rss" target="_blank">Serbian students lead powerful memorial for railway disaster anniversary</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-01 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale" target="_blank">Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-01 17:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +165,6 @@
                 <span class="time">2025-11-01 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale" target="_blank">LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-01 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -191,6 +198,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/" target="_blank">Chat Control proposal fails again after public opposition</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-01 16:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqxxfs8awctycgvlf9pb.png" alt="AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +222,6 @@
                 <span class="title"><a href="https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/" target="_blank">arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-01 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-WebAssembly" target="_blank">Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-01 14:40</span>
             </div>
         </div>
 </div>
@@ -236,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/jujutsu-kaisen-s3-1280x853.jpg" alt="The Next ‘Jujutsu Kaisen’ Movie Is Taking a Trip to IMAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-next-jujutsu-kaisen-movie-is-taking-a-trip-to-imax-2000680357" target="_blank">The Next ‘Jujutsu Kaisen’ Movie Is Taking a Trip to IMAX</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-01 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/it-welcome-to-derry-trailer-pennywise-1280x853.jpg" alt="The ‘Welcome to Derry’ Premiere Was HBO’s Third-Biggest Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +297,6 @@
                 <span class="time">2025-11-01 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Anker-Power-Bank-Power-Station-60000mAh-1280x854.jpg" alt="Anker’s 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ankers-60k-mah-power-bank-returns-to-its-all-time-low-price-charges-your-iphone-10-times-2000639699" target="_blank">Anker’s 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 23:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
