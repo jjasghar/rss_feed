@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 17:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-01 18:02:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/" target="_blank">Coinbase CEO Brian Armstrong trolls the prediction markets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-01 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding" target="_blank">Ayaneo Phone confirmed in a teaser featuring retro Remake branding</a></span>
                 <span class="feed">The Verge</span>
@@ -150,15 +158,6 @@
                 <span class="time">2025-11-01 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69056295690a5ebace757d1a/master/pass/The%20Best%20Rain%20Jackets%20to%20Help%20You%20Brave%20the%20Elements.png" alt="9 Best Rain Jackets (2025): Cheap, Eco-Friendly, Hiking, and Running" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-rain-jackets/" target="_blank">9 Best Rain Jackets (2025): Cheap, Eco-Friendly, Hiking, and Running</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-01 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3" target="_blank">Smart Form Submissions: Only Send Changed Data with WebForms Core 2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-01 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-WebAssembly" target="_blank">Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-01 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jellyfin.org/posts/SQLite-locking/" target="_blank">SQLite concurrency and why you should care about it</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-01 12:59</span>
             </div>
         </div>
 </div>
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
