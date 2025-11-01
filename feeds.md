@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 10:01:29 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-01 11:01:29 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7dc/live/b2907750-b70f-11f0-9b61-4945b5734f3e.jpg" alt="Andrew should answer Epstein questions in US, Democrats say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3dnnpvjkjvo?at_medium=RSS&at_campaign=rss" target="_blank">Andrew should answer Epstein questions in US, Democrats say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-01 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/01/nx-s1-5590944/duck-billed-hooved-dinosaur-discovery" target="_blank">How a great-grandmother helped researchers unravel a dinosaur mummy mystery</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-01 10:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/snap-sign-1-gty-gmh-251031_1761922347366_hpMain_4x3t_384.jpg" alt="SNAP benefits run dry as shutdown continues, here&#x27;s how states are stepping in" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +99,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/nov/01/un-torture-expert-investigate-lebanon-egyptian-turkish-poet" target="_blank">UN expert urged to investigate Lebanon over alleged torture of Egyptian-Turkish poet</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-01 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-jamaica-hurricane-melissa_7068375.png?20251101071247" alt="&#x27;Shell shock&#x27; and an emotional reunion in &#x27;ground zero&#x27; for Hurricane Melissa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/we-have-no-food-no-water-it-feels-like-the-wilderness-the-communities-shredded-and-still-stranded-by-hurricane-melissa-13461594" target="_blank">&#x27;Shell shock&#x27; and an emotional reunion in &#x27;ground zero&#x27; for Hurricane Melissa</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-01 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-kelner-vt-grab-jamaica-hurricane-melissa_7068357.jpg?20251101055002" alt="&#x27;We have no food, no water... it feels like the wilderness&#x27;: The communities shredded and still stranded by Hurricane Melissa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/we-have-no-food-no-water-it-feels-like-the-wilderness-the-communities-shredded-and-still-stranded-by-hurricane-melissa-13461594" target="_blank">&#x27;We have no food, no water... it feels like the wilderness&#x27;: The communities shredded and still stranded by Hurricane Melissa</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-01 05:11</span>
             </div>
         </div>
 </div>
@@ -177,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/cloudflare-data-platform/en/headerimage/generatedHeaderImage-1760101377662.jpg" alt="Cloudflare Introduces Data Platform with Zero Egress Fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Data Platform with Zero Egress Fees</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-01 10:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-10.18-Released" target="_blank">Wine 10.18 Released With More WoW64 Mode Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-01 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paul_allen_ccfde9d33a48d5/the-snap-shutdown-twist-how-government-leverage-became-americas-weakest-link-9d2" target="_blank">The SNAP Shutdown Twist: How Government Leverage Became America’s Weakest Link</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-10-31 23:46</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
