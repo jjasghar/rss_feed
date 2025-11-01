@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 08:02:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-01 09:01:32 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/mass-protests-planned-as-serbia-marks-anniversary-of-train-station-collapse?traffic_source=rss" target="_blank">Mass protests planned as Serbia marks anniversary of train station collapse</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-01 08:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/01/un-torture-expert-investigate-lebanon-egyptian-turkish-poet" target="_blank">UN expert urged to investigate Lebanon over alleged torture of Egyptian-Turkish poet</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-01 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/11/1920x1080/skynews-kelner-vt-grab-jamaica-hurricane-melissa_7068357.jpg?20251101055002" alt="&#x27;We have no food, no water... it feels like the wilderness&#x27;: The communities shredded and still stranded by Hurricane Melissa" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,39 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5347/live/ffb40270-b6ad-11f0-80fd-e396b418a68d.jpg" alt="&#x27;We need food, we have no food&#x27; - desperation takes hold in Jamaica after hurricane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We need food, we have no food&#x27; - desperation takes hold in Jamaica after hurricane</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-01 02:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/trump-says-not-planning-us-strikes-on-venezuela?traffic_source=rss" target="_blank">Trump says not planning US strikes on Venezuela</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-01 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/turkish-prosecutors-hand-11-people-life-sentences-over-ski-resort-blaze?traffic_source=rss" target="_blank">Turkish prosecutors hand 11 people life sentences over ski resort blaze</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-01 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5347/live/ffb40270-b6ad-11f0-80fd-e396b418a68d.jpg" alt="Scavenging for food in streets - desperation takes hold in Jamaica after hurricane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss" target="_blank">Scavenging for food in streets - desperation takes hold in Jamaica after hurricane</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-10-31 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/10/31/russia-ukraine-war-list-of-key-events-day-1346?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,346</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-10-31 23:44</span>
             </div>
         </div>
 </div>
@@ -168,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pracode_2503/the-secret-lives-of-ai-agents-what-do-they-think-when-youre-not-looking-523e" target="_blank">🤖 The Secret Lives of AI Agents: What Do They ‘Think’ When You’re Not Looking?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-01 08:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fck91ikrjo7vk2wrnt864.png" alt="Kalman Filter Algorithm: Core Principles, Advantages, Applications, and C Code Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/paul_allen_ccfde9d33a48d5/the-snap-shutdown-twist-how-government-leverage-became-americas-weakest-link-9d2" target="_blank">The SNAP Shutdown Twist: How Government Leverage Became America’s Weakest Link</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-10-31 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.shashanktomar.com/posts/strange-attractors" target="_blank">Show HN: Strange Attractors</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-10-31 23:23</span>
             </div>
         </div>
 </div>
@@ -322,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
