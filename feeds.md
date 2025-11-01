@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 16:02:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-01 17:01:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +108,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding" target="_blank">Ayaneo Phone confirmed in a teaser featuring retro Remake branding</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-01 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/karnak1-500x500.jpg" alt="Research roundup: 6 cool science stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/" target="_blank">Research roundup: 6 cool science stories we almost missed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-01 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/" target="_blank">AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams</a></span>
                 <span class="feed">TechCrunch</span>
@@ -147,24 +159,6 @@
                 <span class="time">2025-11-01 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1326657723-500x500.jpg" alt="Inside the marketplace for vaccine medical exemptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/11/inside-the-marketplace-for-vaccine-medical-exemptions/" target="_blank">Inside the marketplace for vaccine medical exemptions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-01 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/" target="_blank">What is Bending Spoons? Everything to know about AOL’s acquirer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-01 01:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drcarlosruizviquez/evaluating-the-success-of-generative-ai-often-involves-a-cru-5hlm" target="_blank">Evaluating the success of generative AI often involves a cru</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-01 16:48</span>
             </div>
         </div>
 <div class="story">
@@ -215,15 +218,6 @@
                 <span class="time">2025-11-01 12:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/" target="_blank">Abandonware of the web: do you know that there is an HTML tables API?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-01 12:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/it-welcome-to-derry-trailer-pennywise-1280x853.jpg" alt="The ‘Welcome to Derry’ Premiere Was HBO’s Third-Biggest Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-welcome-to-derry-premiere-was-hbos-third-biggest-hit-2000680423" target="_blank">The ‘Welcome to Derry’ Premiere Was HBO’s Third-Biggest Hit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-01 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/keanu-johnwick-hed-1280x853.jpg" alt="Keanu Reeves’ Next Movie ‘Shiver’ Has Sharks and A Time Loop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +291,6 @@
                 <span class="time">2025-10-31 23:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Image-Aeropress.jpg?fit=1080%2C931&amp;quality=60&amp;ssl=1" alt="Finally, Aeropress has an XL flow control cap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/10/31/finally-aeropress-has-an-xl-flow-control-cap.html" target="_blank">Finally, Aeropress has an XL flow control cap</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-10-31 23:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
