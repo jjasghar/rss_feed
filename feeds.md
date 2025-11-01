@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 21:01:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-01 22:01:32 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="&#x27;Multiple people&#x27; stabbed on train in Cambridgeshire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd7rrpwl5zno?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Multiple people&#x27; stabbed on train in Cambridgeshire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-01 22:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b3/live/14972730-b712-11f0-ba75-093eca1ac29b.jpg" alt="Key town faces &#x27;multi-thousand&#x27; Russian force, top Ukraine commander admits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +97,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/nov/01/how-al-qaida-linked-jihadist-group-jnim-is-bringing-mali-to-its-knees" target="_blank">How al-Qaida-linked jihadist group JNIM is bringing Mali to its knees</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/1/video-tanzania-president-declared-winner-amid-deadly-election-unrest?traffic_source=rss" target="_blank">Video: Tanzania president declared winner amid deadly election unrest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-01 13:42</span>
             </div>
         </div>
 </div>
@@ -180,6 +176,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robertobutti/semantic-search-with-embeddings-in-php-a-hands-on-guide-using-neuron-ai-and-ollama-16c" target="_blank">Semantic search with embeddings in PHP: a hands-on guide using Neuron AI and Ollama</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-01 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/akaak/excalidraw-browser-based-app-for-hand-drawn-like-diagrams-248m" target="_blank">Excalidraw - Browser based app for hand drawn like diagrams</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-01 19:46</span>
@@ -210,29 +215,6 @@
                 <span class="title"><a href="https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/" target="_blank">Chat Control proposal fails again after public opposition</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-01 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqxxfs8awctycgvlf9pb.png" alt="AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naveen_kolli_a8501e4633c5/ai-and-data-virtualization-a-symbiotic-relationship-for-smart-data-management-2c13" target="_blank">AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 15:47</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html" target="_blank">Friday Squid Blogging: Giant Squid at the Smithsonian</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-10-31 21:06</span>
             </div>
         </div>
 </div>
@@ -308,31 +290,13 @@
                 <span class="time">2025-11-01 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/10/31/arc-raided" target="_blank">ARC Raided</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-10-31 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1761945227-20251031.png" alt="Saturday Morning Breakfast Cereal - Enormous" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/enormous" target="_blank">Saturday Morning Breakfast Cereal - Enormous</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-10-31 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
