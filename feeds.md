@@ -1,39 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 00:05:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-01 01:29:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/turkish-prosecutors-hand-11-people-life-sentences-over-ski-resort-blaze?traffic_source=rss" target="_blank">Turkish prosecutors hand 11 people life sentences over ski resort blaze</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-01 00:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5347/live/ffb40270-b6ad-11f0-80fd-e396b418a68d.jpg" alt="Scavenging for food in streets - desperation takes hold in Jamaica after hurricane" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +108,29 @@
                 <span class="time">2025-10-31 21:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_10/1761942575564_now_mtp_clip_ablk_251031_1920x1080-qqnlqf.jpg" alt="Two judges issue rulings in lawsuits challenging Trump admin. withholding SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/two-judges-issue-rulings-in-lawsuits-challenging-trump-admin-withholding-snap-benefits-251087941985" target="_blank">Two judges issue rulings in lawsuits challenging Trump admin. withholding SNAP benefits</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-10-31 20:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/" target="_blank">What is Bending Spoons? Everything to know about AOL’s acquirer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-01 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-500x500.jpg" alt="YouTube denies AI was involved with odd removals of tech tutorials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/" target="_blank">YouTube denies AI was involved with odd removals of tech tutorials</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-01 00:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1306483-500x500.jpg" alt="Neural network finds an enzyme that can break down polyurethane" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +167,6 @@
                 <span class="time">2025-10-31 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/padlock-network-security-500x500-1761942104.jpg" alt="FCC to rescind ruling that said ISPs are required to secure their networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/" target="_blank">FCC to rescind ruling that said ISPs are required to secure their networks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-10-31 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/" target="_blank">Bluesky hits 40 million users, introduces ‘dislikes’ beta</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-10-31 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +179,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.18-Released" target="_blank">Wine 10.18 Released With More WoW64 Mode Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-01 00:35</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +226,6 @@
                 <span class="time">2025-10-31 21:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Kiwi-macOS-Quick-Menu" target="_blank">GNOME Gains A New macOS-Inspired Quick Menu Option</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-10-31 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/OCT2025_Lightspeed_io9-1280x853.jpg" alt="A Monstrously Alluring Secret Comes to Light in This Eerie Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-woman-hides-a-monstrously-alluring-secret-in-this-eerie-short-story-2000680209" target="_blank">A Monstrously Alluring Secret Comes to Light in This Eerie Short Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-01 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Image-Aeropress.jpg?fit=1080%2C931&amp;quality=60&amp;ssl=1" alt="Finally, Aeropress has an XL flow control cap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +308,6 @@
                 <span class="time">2025-10-31 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/524bea00bf57b888c62fb04624c1f9ae-1280x720.jpg" alt="GTA 6 Denies Union Busting After Firing Dozens Of Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-6-rockstar-games-union-busting-delay-2000640525" target="_blank">GTA 6 Denies Union Busting After Firing Dozens Of Developers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-10-31 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,12 +341,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5691.png" alt="5691" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/heart_mountain.png" alt="Heart Mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5691" target="_blank">5691</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-10-31 00:40</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3162/" target="_blank">Heart Mountain</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-10-31 04:00</span>
             </div>
         </div>
 </div>
@@ -349,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
