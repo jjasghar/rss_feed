@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-01 09:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-01 10:01:29 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, November 01, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, November 01, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/snap-sign-1-gty-gmh-251031_1761922347366_hpMain_4x3t_384.jpg" alt="SNAP benefits run dry as shutdown continues, here&#x27;s how states are stepping in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/snap-benefits-run-dry-government-shutdown-continues-states/story?id=127059480" target="_blank">SNAP benefits run dry as shutdown continues, here&#x27;s how states are stepping in</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-01 09:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/01/nx-s1-5591497/snap-benefits-shutdown-grocery-buddy-help" target="_blank">As SNAP benefits run dry, &#x27;grocery buddies&#x27; are footing their neighbors&#x27; food bills</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-01 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,39 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-jamaica-hurricane-melissa_7068375.png?20251101071247" alt="&#x27;Shell shock&#x27; and an emotional reunion in &#x27;ground zero&#x27; for Hurricane Melissa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/we-have-no-food-no-water-it-feels-like-the-wilderness-the-communities-shredded-and-still-stranded-by-hurricane-melissa-13461594" target="_blank">&#x27;Shell shock&#x27; and an emotional reunion in &#x27;ground zero&#x27; for Hurricane Melissa</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-01 05:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/11/1920x1080/skynews-kelner-vt-grab-jamaica-hurricane-melissa_7068357.jpg?20251101055002" alt="&#x27;We have no food, no water... it feels like the wilderness&#x27;: The communities shredded and still stranded by Hurricane Melissa" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/we-have-no-food-no-water-it-feels-like-the-wilderness-the-communities-shredded-and-still-stranded-by-hurricane-melissa-13461594" target="_blank">&#x27;We have no food, no water... it feels like the wilderness&#x27;: The communities shredded and still stranded by Hurricane Melissa</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-11-01 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/10/31/g-s1-96140/dodgers-force-world-series-to-decisive-game-7" target="_blank">Dodgers force World Series to decisive Game 7 by holding off Blue Jays 3-1</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-01 03:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5347/live/ffb40270-b6ad-11f0-80fd-e396b418a68d.jpg" alt="&#x27;We need food, we have no food&#x27; - desperation takes hold in Jamaica after hurricane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We need food, we have no food&#x27; - desperation takes hold in Jamaica after hurricane</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-01 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/trump-says-not-planning-us-strikes-on-venezuela?traffic_source=rss" target="_blank">Trump says not planning US strikes on Venezuela</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-01 01:59</span>
             </div>
         </div>
 </div>
@@ -327,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
