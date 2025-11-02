@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 17:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-02 18:02:06 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/11/2/china-us-relations-somewhere-between-a-ceasefire-and-a?traffic_source=rss" target="_blank">China-US relations: ‘Somewhere between a ceasefire and a truce’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594848/fire-and-explosion-at-northwestern-mexico-store-leave-at-least-23-dead-and-12-injured" target="_blank">Fire and explosion at northwestern Mexico store leave at least 23 dead and 12 injured</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-02 16:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a63/live/e0caa6d0-b805-11f0-8f42-c1f60875a777.jpg" alt="&#x27;We have no idea what lies ahead&#x27;: Aid struggles to reach Jamaican towns devastated by hurricane" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,24 +104,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/02/g-s1-95400/poverty-aid-usaid-uganda-south-sudan-refugees" target="_blank">They were promised a lifeline to &#x27;graduate&#x27; from poverty. Then it was taken away</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-02 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/02/he-told-the-world-what-was-happening-in-el-fasher-then-they-sought-him-out-how-sudan-lost-a-true-hero-of-the-war" target="_blank">He told the world what was happening in El Fasher. Then they sought him out. How Sudan lost ‘a true hero of the war’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-02 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd15/live/3ad7d090-b7d3-11f0-b2a1-6f537f66f9aa.jpg" alt="Hurricane Melissa death toll rises to 28 in Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1e34p92q0vo?at_medium=RSS&at_campaign=rss" target="_blank">Hurricane Melissa death toll rises to 28 in Jamaica</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-02 11:37</span>
             </div>
         </div>
 </div>
@@ -169,6 +180,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drcarlosruizviquez/reportes-de-operaciones-inusuales-y-relevantes-son-indicado-3mm8" target="_blank">Reportes de operaciones inusuales y relevantes&quot; son indicado</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-02 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html" target="_blank">At the end you use Git bisect</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-02 17:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Ftechmyrmidons-web.pages.dev%2Fassets%2Ftm-logo.png" alt="The Last Four PRs for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,29 +224,20 @@
                 <span class="time">2025-11-02 13:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dhuan.github.io/mock/latest/examples.html" target="_blank">Mock – An API creation and testing utility: Examples</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-02 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alfy.blog/2025/10/31/your-url-is-your-state.html" target="_blank">URLs are state containers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-02 11:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/get-out-horror-1280x853.jpg" alt="The Oscars Museum is Getting a New Horror Exhibition in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/oscars-museum-horror-show-exhibit-2026-2000680554" target="_blank">The Oscars Museum is Getting a New Horror Exhibition in 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-02 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/simpsons-fortnite-1280x853.jpg" alt="‘The Simpsons’ is Going All-In on Its ‘Fortnite’ Collaboration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,22 +283,13 @@
                 <span class="time">2025-11-01 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/halloween-michael-myers-1280x853.jpg" alt="The ‘Halloween’ Game Makes Michael Myers the Star of the Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-halloween-game-makes-michael-myers-the-star-of-the-show-2000680399" target="_blank">The ‘Halloween’ Game Makes Michael Myers the Star of the Show</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-01 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
