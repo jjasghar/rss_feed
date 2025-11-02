@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 02:31:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-02 03:22:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 03:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/landslides-in-kenyas-rift-valley-leave-21-dead-30-others-missing?traffic_source=rss" target="_blank">Landslides in Kenya’s Rift Valley leave 21 dead, 30 others missing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 02:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-hurricane-melissa-jamaica_7069326.jpg?20251102024402" alt="Hurricane Melissa leaves 28 dead after tearing through Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hurricane-melissa-leaves-28-dead-after-tearing-through-jamaica-13462331" target="_blank">Hurricane Melissa leaves 28 dead after tearing through Jamaica</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-02 01:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9854/live/6ff71900-b78a-11f0-b2a1-6f537f66f9aa.jpg" alt="Watch: Police rush to scene of Cambridgeshire train attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd7rrpwl5zno?at_medium=RSS&at_campaign=rss" target="_blank">Multiple people stabbed on train in Cambridgeshire</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-01 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/01/nx-s1-5594194/suspects-charged-louvre-jewel-heist-paris" target="_blank">2 more suspects are charged in the Louvre jewel heist</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-01 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/trump-threatens-to-launch-attacks-in-nigeria-over-killing-of-christians?traffic_source=rss" target="_blank">Trump threatens to launch attacks in Nigeria over ‘killing of Christians’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-01 22:44</span>
             </div>
         </div>
 </div>
@@ -298,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
