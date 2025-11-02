@@ -1,37 +1,48 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 06:01:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-02 07:01:50 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 39 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +58,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/11/2/live-india-vs-australia-icc-womens-world-cup-final-2025?traffic_source=rss" target="_blank">LIVE: India vs Australia – ICC Women’s World Cup final 2025</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 06:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594754/10-people-hospitalized-after-uk-train-stabbing-attack-9-with-life-threatening-injuries" target="_blank">10 people hospitalized after UK train stabbing attack, 9 with life-threatening injuries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-02 05:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-7-art-gmh-251031_1761926109752_hpMain_4x3t_384.jpg" alt="Most Americans say country is on the wrong track, blame Trump for inflation: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +110,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/videos/c6299e16r66o?at_medium=RSS&at_campaign=rss" target="_blank">Watch: Police rush to scene of Cambridgeshire train attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-02 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/uk-police-say-multiple-people-stabbed-on-train-two-suspects-arrested?traffic_source=rss" target="_blank">UK police say ‘multiple people’ stabbed on train, two suspects arrested</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/shutdown-gty-er-251031_1761927512778_hpMain_4x3t_384.jpg" alt="Top labor groups break with federal union&#x27;s support of GOP measure to end shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/top-labor-groups-break-federal-unions-demand-end/story?id=127055562" target="_blank">Top labor groups break with federal union&#x27;s support of GOP measure to end shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-01 23:53</span>
             </div>
         </div>
 </div>
@@ -175,6 +186,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3k3yht0rjrt2ujc0vm48.png" alt="Build Your Own Forum with FastAPI: Step 9 - Upload Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-9-upload-images-46of" target="_blank">Build Your Own Forum with FastAPI: Step 9 - Upload Images</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-02 06:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/bazaar-app/" target="_blank">The (Almost) Perfect Linux Marketplace App for Flatpak Lovers</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-02 06:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b" target="_blank">Yes, you should understand backprop (2016)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-02 05:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,33 +228,6 @@
                 <span class="title"><a href="https://dev.to/wayneworkman/aws-terraform-module-custom-prompt-injection-detection-dpn" target="_blank">AWS Terraform Module - Custom Prompt Injection Detection</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-02 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6roliolh4ynjn8yt5px.jpg" alt="GMX V1 Exploit Analysis: How a $42M Classic Reentrancy Attack Unfolded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abdelrahman_elsaheir_11d8/gmx-v1-exploit-analysis-how-a-42m-classic-reentrancy-attack-unfolded-9o1" target="_blank">GMX V1 Exploit Analysis: How a $42M Classic Reentrancy Attack Unfolded</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwjwwwkbrdx163fxtdnn.png" alt="Terraform Basics – Week 1: Deploying Your First Azure VM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86" target="_blank">Terraform Basics – Week 1: Deploying Your First Azure VM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Linux-Above-3P-Oct-2025" target="_blank">Steam On Linux Gaming Finally Cracks 3% For October 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-02 00:45</span>
             </div>
         </div>
 </div>
@@ -297,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
