@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 16:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-02 17:01:33 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a63/live/e0caa6d0-b805-11f0-8f42-c1f60875a777.jpg" alt="&#x27;We have no idea what lies ahead&#x27;: Aid struggles to reach Jamaican towns devastated by hurricane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpv11w8ez10o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We have no idea what lies ahead&#x27;: Aid struggles to reach Jamaican towns devastated by hurricane</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-02 16:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251031-nbc-news-poll-dem-gop-control-2x1-cs-093e5f.jpg" alt="Frustration with Trump gives Democrats an opening a year before the midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1e34p92q0vo?at_medium=RSS&at_campaign=rss" target="_blank">Hurricane Melissa death toll rises to 28 in Jamaica</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-02 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6b9/live/1ab04100-b7a9-11f0-ba75-093eca1ac29b.jpg" alt="Two attempted murder arrests after train stabbings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd7rrpwl5zno?at_medium=RSS&at_campaign=rss" target="_blank">Two attempted murder arrests after train stabbings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-02 11:36</span>
             </div>
         </div>
 </div>
@@ -171,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Ftechmyrmidons-web.pages.dev%2Fassets%2Ftm-logo.png" alt="The Last Four PRs for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gracieamser/the-last-four-prs-for-2025-389j" target="_blank">The Last Four PRs for 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-02 16:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://alfy.blog/2025/10/31/your-url-is-your-state.html" target="_blank">URLs are state containers</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-02 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc4-x86-Fixes" target="_blank">Linux 6.18-rc4 Introducing More AMD 6 Model IDs, Other x86 Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-02 11:07</span>
             </div>
         </div>
 </div>
@@ -279,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
