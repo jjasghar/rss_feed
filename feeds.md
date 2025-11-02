@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 12:02:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-11-02 13:05:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss" target="_blank">US federal agent in Chicago punches restrained man’s head on the ground</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 12:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd15/live/3ad7d090-b7d3-11f0-b2a1-6f537f66f9aa.jpg" alt="Hurricane Melissa death toll rises to 28 in Jamaica" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1e34p92q0vo?at_medium=RSS&at_campaign=rss" target="_blank">Hurricane Melissa death toll rises to 28 in Jamaica</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-02 11:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6b9/live/1ab04100-b7a9-11f0-ba75-093eca1ac29b.jpg" alt="Two attempted murder arrests after train stabbings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +95,29 @@
                 <span class="time">2025-11-02 08:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594773/smith-homer-dodgers-blue-jays-5-4" target="_blank">Smith&#x27;s homer in 11th lifts Dodgers over Blue Jays 5-4 to become first repeat champion in 25 years</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-02 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/russia-ukraine-war-list-of-key-events-day-1347?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,347</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 07:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/811549/trump-tariff-shakedown" target="_blank">The great tariff shakedown</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690677bd96b50a938bcf8883/master/pass/Aura-Ink-Front-Wall%202%20source%20Aura.png" alt="Aura Ink Review (2025): Newspaper-Style Realism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/aura-ink/" target="_blank">Aura Ink Review (2025): Newspaper-Style Realism</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-02 12:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6904dba76eacbf0851df92b6/master/pass/azteca22.jpg" alt="Here&#x27;s What Azteca Stadium Will Look Like for the 2026 World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +154,6 @@
                 <span class="time">2025-11-01 16:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding" target="_blank">Ayaneo Phone confirmed in a teaser featuring retro Remake branding</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-01 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/karnak1-500x500.jpg" alt="Research roundup: 6 cool science stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/" target="_blank">Research roundup: 6 cool science stories we almost missed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-01 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +175,15 @@
                 <span class="title"><a href="https://dhuan.github.io/mock/latest/examples.html" target="_blank">Mock – An API creation and testing utility: Examples</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-02 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc4-x86-Fixes" target="_blank">Linux 6.18-rc4 Introducing More AMD 6 Model IDs, Other x86 Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-02 11:07</span>
             </div>
         </div>
 <div class="story">
@@ -206,20 +213,20 @@
                 <span class="time">2025-11-02 06:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/bazaar-app/" target="_blank">The (Almost) Perfect Linux Marketplace App for Flatpak Lovers</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-02 06:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Dreame-Aqua10-Ultra-Roller-review-01-1280x853.jpg" alt="Dreame Aqua10 Ultra Roller Review: Just Buy a Mop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dreame-aqua10-ultra-roller-review-just-buy-a-mop-2000662970" target="_blank">Dreame Aqua10 Ultra Roller Review: Just Buy a Mop</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/food-box-1280x849.jpg" alt="I’m Donating to Propel’s Campaign for SNAP Recipients. Here’s Why I’m Uneasy About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +272,6 @@
                 <span class="time">2025-11-01 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/it-welcome-to-derry-trailer-pennywise-1280x853.jpg" alt="The ‘Welcome to Derry’ Premiere Was HBO’s Third-Biggest Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-welcome-to-derry-premiere-was-hbos-third-biggest-hit-2000680423" target="_blank">The ‘Welcome to Derry’ Premiere Was HBO’s Third-Biggest Hit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-01 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,7 +292,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:02 UTC
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
