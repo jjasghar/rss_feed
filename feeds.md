@@ -1,27 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 21:01:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-02 22:01:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594843/nyc-marathon-2025-kipruto-obiri-kipchoge" target="_blank">Kenyan runners win men&#x27;s and women&#x27;s races in New York City Marathon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-02 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/trump-says-xi-assured-him-china-wont-take-action-on-taiwan?traffic_source=rss" target="_blank">Trump says Xi assured him China won’t take action on Taiwan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5c/live/8c5f1c00-b816-11f0-8801-8b419f17177b.jpg" alt="One suspect in train stabbings as rail worker critical" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c797x8v0nvno?at_medium=RSS&at_campaign=rss" target="_blank">One suspect in train stabbings as rail worker critical</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-02 20:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,38 +103,20 @@
                 <span class="time">2025-11-02 19:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/251102_tw_kaine2_1762109119008_hpMain_4x3t_384.jpg" alt="&#x27;I don&#x27;t look at this as politics&#x27;: Kaine on what Democrats have gained from shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/kaine-calls-virginia-best-red-blue-turnaround-us/story?id=127105367" target="_blank">&#x27;I don&#x27;t look at this as politics&#x27;: Kaine on what Democrats have gained from shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-02 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5c/live/8c5f1c00-b816-11f0-8801-8b419f17177b.jpg" alt="Man, 32, only suspect after train stabbings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c797x8v0nvno?at_medium=RSS&at_campaign=rss" target="_blank">Man, 32, only suspect after train stabbings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-02 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/11/2/china-us-relations-somewhere-between-a-ceasefire-and-a?traffic_source=rss" target="_blank">China-US relations: ‘Somewhere between a ceasefire and a truce’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/" target="_blank">Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-02 21:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,15 +162,6 @@
                 <span class="time">2025-11-02 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690677bd96b50a938bcf8883/master/pass/Aura-Ink-Front-Wall%202%20source%20Aura.png" alt="Aura Ink Review (2025): Newspaper-Style Realism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/aura-ink/" target="_blank">Aura Ink Review (2025): Newspaper-Style Realism</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-02 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,6 +174,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-02 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/ubuntu-command-line-lcd-unsplash.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Offers x86-64-v3 Architecture Variant Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/ubuntu-amd64v3-x86-64-v3-support" target="_blank">Ubuntu 25.10 Offers x86-64-v3 Architecture Variant Packages</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-02 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc4-Released" target="_blank">Linux 6.18-rc4 Released: &quot;None Of It Looks Particularly Scary&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-02 19:54</span>
             </div>
         </div>
 <div class="story">
@@ -182,38 +221,20 @@
                 <span class="time">2025-11-02 17:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Ftechmyrmidons-web.pages.dev%2Fassets%2Ftm-logo.png" alt="The Last Four PRs for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gracieamser/the-last-four-prs-for-2025-389j" target="_blank">The Last Four PRs for 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NASM-3.00-APX-AVX10" target="_blank">NASM 3.00 Assembler Is Ready With Intel APX &amp; AVX10 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-02 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/owen_ae938ccb2150fbe7f689/two-simple-tools-to-convert-between-pdf-and-png-100-free-and-online-5af6" target="_blank">Two Simple Tools to Convert Between PDF and PNG — 100% Free and Online</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/shaun-the-dead-1280x853.jpg" alt="Don’t Expect a ‘Shaun of the Dead’ Sequel, Says Edgar Wright" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dont-expect-a-shaun-of-the-dead-sequel-says-edgar-wright-2000680447" target="_blank">Don’t Expect a ‘Shaun of the Dead’ Sequel, Says Edgar Wright</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-02 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/get-out-horror-1280x853.jpg" alt="The Oscars Museum is Getting a New Horror Exhibition in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
