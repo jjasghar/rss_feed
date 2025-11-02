@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 15:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-02 16:01:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251031-nbc-news-poll-dem-gop-control-2x1-cs-093e5f.jpg" alt="Frustration with Trump gives Democrats an opening a year before the midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/poll-frustration-trump-gives-democrats-opening-year-midterms-rcna240551" target="_blank">Frustration with Trump gives Democrats an opening a year before the midterms</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-02 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +97,29 @@
                 <span class="time">2025-11-02 11:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/2/al-jazeera-reports-from-sudan-displacement-camp-as-thousands-flee-el-fasher?traffic_source=rss" target="_blank">Al Jazeera reports from Sudan displacement camp as thousands flee el-Fasher</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 10:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6906730b48f933e18e63ce9b/master/pass/W1102831.jpg" alt="5 Best Live TV Streaming Services (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-live-tv-streaming-services/" target="_blank">5 Best Live TV Streaming Services (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/811595/microsoft-zune-version-history" target="_blank">Why the Zune never killed the iPod</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-02 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68cd64eec5c73ba1c6338fb8/master/pass/Mix%20and%20Match%20Your%20Mattress's%20Build%20With%20the%20Best%20Hybrid%20Mattress.png" alt="The Best Hybrid Mattresses for Couples, Back Pain, and More (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/heres-what-estadio-azteca-will-look-like-for-the-2026-world-cup/" target="_blank">Here&#x27;s What Azteca Stadium Will Look Like for the 2026 World Cup</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-02 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/" target="_blank">Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-01 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale" target="_blank">Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-01 17:09</span>
             </div>
         </div>
 </div>
@@ -224,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/simpsons-fortnite-1280x853.jpg" alt="‘The Simpsons’ is Going All-In on Its ‘Fortnite’ Collaboration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-simpsons-is-going-all-in-on-its-fortnite-collaboration-2000680456" target="_blank">‘The Simpsons’ is Going All-In on Its ‘Fortnite’ Collaboration</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-02 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Dreame-Aqua10-Ultra-Roller-review-01-1280x853.jpg" alt="Dreame Aqua10 Ultra Roller Review: Just Buy a Mop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,36 +274,13 @@
                 <span class="time">2025-11-01 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/jujutsu-kaisen-s3-1280x853.jpg" alt="The Next ‘Jujutsu Kaisen’ Movie Is Taking a Trip to IMAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-next-jujutsu-kaisen-movie-is-taking-a-trip-to-imax-2000680357" target="_blank">The Next ‘Jujutsu Kaisen’ Movie Is Taking a Trip to IMAX</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-01 18:50</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1761945325-20251101.png" alt="Saturday Morning Breakfast Cereal - Nerd-fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/nerd-fight" target="_blank">Saturday Morning Breakfast Cereal - Nerd-fight</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-01 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
