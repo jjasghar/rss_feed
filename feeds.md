@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 14:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-02 15:01:28 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NPR News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 14:01 UTC</div>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss" target="_blank">US federal agent in Chicago punches restrained man’s head on the ground</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-02 12:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/02/g-s1-95400/poverty-aid-usaid-uganda-south-sudan-refugees" target="_blank">They were promised a lifeline to &#x27;graduate&#x27; from poverty. Then it was taken away</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-02 12:04</span>
             </div>
         </div>
 <div class="story">
@@ -92,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/2/al-jazeera-reports-from-sudan-displacement-camp-as-thousands-flee-el-fasher?traffic_source=rss" target="_blank">Al Jazeera reports from Sudan displacement camp as thousands flee el-Fasher</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-02 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5531004/zohran-mamdani-new-york-young-voters" target="_blank">Mamdani&#x27;s youth support goes beyond New York. For many, he&#x27;s now a national leader</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-02 09:00</span>
             </div>
         </div>
 </div>
@@ -206,19 +203,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc4-x86-Fixes" target="_blank">Linux 6.18-rc4 Introducing More AMD 6 Model IDs, Other x86 Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-02 11:07</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alfy.blog/2025/10/31/your-url-is-your-state.html" target="_blank">URLs are state containers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-02 11:12</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16" target="_blank">MultiCOIN: Multi-Modal COntrollable Video INbetweening</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 08:50</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc4-x86-Fixes" target="_blank">Linux 6.18-rc4 Introducing More AMD 6 Model IDs, Other x86 Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-02 11:07</span>
             </div>
         </div>
 </div>
@@ -299,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
