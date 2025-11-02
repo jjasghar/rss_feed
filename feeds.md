@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 00:05:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-02 01:29:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9854/live/6ff71900-b78a-11f0-b2a1-6f537f66f9aa.jpg" alt="Watch: Police rush to scene of Cambridgeshire train attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/c6299e16r66o?at_medium=RSS&at_campaign=rss" target="_blank">Watch: Police rush to scene of Cambridgeshire train attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-02 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/uk-police-say-multiple-people-stabbed-on-train-two-suspects-arrested?traffic_source=rss" target="_blank">UK police say ‘multiple people’ stabbed on train, two suspects arrested</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 00:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/shutdown-gty-er-251031_1761927512778_hpMain_4x3t_384.jpg" alt="Top labor groups break with federal union&#x27;s support of GOP measure to end shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/1/trump-threatens-to-launch-attacks-in-nigeria-over-killing-of-christians?traffic_source=rss" target="_blank">Trump threatens to launch attacks in Nigeria over ‘killing of Christians’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-01 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="&#x27;Multiple people&#x27; stabbed on train in Cambridgeshire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd7rrpwl5zno?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Multiple people&#x27; stabbed on train in Cambridgeshire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-01 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b3/live/14972730-b712-11f0-ba75-093eca1ac29b.jpg" alt="Key town faces &#x27;multi-thousand&#x27; Russian force, top Ukraine commander admits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crklljyx6mzo?at_medium=RSS&at_campaign=rss" target="_blank">Key town faces &#x27;multi-thousand&#x27; Russian force, top Ukraine commander admits</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-01 20:13</span>
             </div>
         </div>
 </div>
@@ -171,6 +177,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwjwwwkbrdx163fxtdnn.png" alt="Terraform Basics – Week 1: Deploying Your First Azure VM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86" target="_blank">Terraform Basics – Week 1: Deploying Your First Azure VM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-02 01:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -204,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/akaak/excalidraw-browser-based-app-for-hand-drawn-like-diagrams-248m" target="_blank">Excalidraw - Browser based app for hand drawn like diagrams</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-01 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3" target="_blank">Smart Form Submissions: Only Send Changed Data with WebForms Core 2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 18:00</span>
             </div>
         </div>
 </div>
@@ -293,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
