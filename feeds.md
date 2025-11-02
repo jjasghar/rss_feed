@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 10:01:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-02 11:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/2/al-jazeera-reports-from-sudan-displacement-camp-as-thousands-flee-el-fasher?traffic_source=rss" target="_blank">Al Jazeera reports from Sudan displacement camp as thousands flee el-Fasher</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5531004/zohran-mamdani-new-york-young-voters" target="_blank">Mamdani&#x27;s youth support goes beyond New York. For many, he&#x27;s now a national leader</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +97,20 @@
                 <span class="time">2025-11-02 06:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594754/10-people-hospitalized-after-uk-train-stabbing-attack-9-with-life-threatening-injuries" target="_blank">10 people hospitalized after UK train stabbing attack, 9 with life-threatening injuries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-02 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-art-gmh-251031_1761926109752_hpMain_4x3t_384.jpg" alt="Most Americans say country is on the wrong track, blame Trump for inflation: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/americans-country-wrong-track-blame-trump-inflation-poll/story?id=127064620" target="_blank">Most Americans say country is on the wrong track, blame Trump for inflation: Poll</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-02 04:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6904dba76eacbf0851df92b6/master/pass/azteca22.jpg" alt="Here&#x27;s What Azteca Stadium Will Look Like for the 2026 World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/heres-what-estadio-azteca-will-look-like-for-the-2026-world-cup/" target="_blank">Here&#x27;s What Azteca Stadium Will Look Like for the 2026 World Cup</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-02 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/" target="_blank">Research roundup: 6 cool science stories we almost missed</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-01 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/" target="_blank">AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-01 15:00</span>
             </div>
         </div>
 </div>
@@ -221,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/food-box-1280x849.jpg" alt="I’m Donating to Propel’s Campaign for SNAP Recipients. Here’s Why I’m Uneasy About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/propels-snap-donor-campaign-2000679173" target="_blank">I’m Donating to Propel’s Campaign for SNAP Recipients. Here’s Why I’m Uneasy About It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-02 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/crazy-clock-1280x853.jpg" alt="Here’s What Happens When Your Phone’s Clock Changes Itself on Nov. 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,15 +274,6 @@
                 <span class="time">2025-11-01 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/The-CISSP-Security-Risk-Management-Training-Bundle-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="CISSP without the buzzwords: 8-domain training bundle for $29.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/01/cissp-without-the-buzzwords-8-domain-training-bundle-for-29-97.html" target="_blank">CISSP without the buzzwords: 8-domain training bundle for $29.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
