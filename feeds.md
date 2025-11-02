@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 13:05:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-02 14:01:35 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss" target="_blank">US federal agent in Chicago punches restrained man’s head on the ground</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-02 12:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/02/he-told-the-world-what-was-happening-in-el-fasher-then-they-sought-him-out-how-sudan-lost-a-true-hero-of-the-war" target="_blank">He told the world what was happening in El Fasher. Then they sought him out. How Sudan lost ‘a true hero of the war’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-02 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -86,20 +103,20 @@
                 <span class="time">2025-11-02 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/trump-to-host-syrias-al-sharaa-for-talks-at-white-house-envoy-says-2?traffic_source=rss" target="_blank">Trump to host Syria’s al-Sharaa for talks at White House in November</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 08:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68cd64eec5c73ba1c6338fb8/master/pass/Mix%20and%20Match%20Your%20Mattress's%20Build%20With%20the%20Best%20Hybrid%20Mattress.png" alt="The Best Hybrid Mattresses for Couples, Back Pain, and More (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-hybrid-mattress/" target="_blank">The Best Hybrid Mattresses for Couples, Back Pain, and More (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-02 13:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +162,6 @@
                 <span class="time">2025-11-01 17:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/" target="_blank">Coinbase CEO Brian Armstrong trolls the prediction markets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-01 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NASM-3.00-APX-AVX10" target="_blank">NASM 3.00 Assembler Is Ready With Intel APX &amp; AVX10 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-02 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/owen_ae938ccb2150fbe7f689/two-simple-tools-to-convert-between-pdf-and-png-100-free-and-online-5af6" target="_blank">Two Simple Tools to Convert Between PDF and PNG — 100% Free and Online</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-02 13:47</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16" target="_blank">MultiCOIN: Multi-Modal COntrollable Video INbetweening</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-02 08:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2c0k" target="_blank">CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 08:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3k3yht0rjrt2ujc0vm48.png" alt="Build Your Own Forum with FastAPI: Step 9 - Upload Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-9-upload-images-46of" target="_blank">Build Your Own Forum with FastAPI: Step 9 - Upload Images</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 06:44</span>
             </div>
         </div>
 </div>
@@ -291,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
