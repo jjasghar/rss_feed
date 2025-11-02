@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 22:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-02 23:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -179,6 +175,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/" target="_blank">Making an Easy-to-Install Application in Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-02 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It (2020)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-02 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It</a></span>
                 <span class="feed">Hacker News</span>
@@ -203,29 +217,20 @@
                 <span class="time">2025-11-02 19:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drcarlosruizviquez/reportes-de-operaciones-inusuales-y-relevantes-son-indicado-3mm8" target="_blank">Reportes de operaciones inusuales y relevantes&quot; son indicado</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html" target="_blank">At the end you use Git bisect</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-02 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/rat-maze-1280x853.jpg" alt="ChatGPT’s Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444" target="_blank">ChatGPT’s Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-02 22:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/shaun-the-dead-1280x853.jpg" alt="Don’t Expect a ‘Shaun of the Dead’ Sequel, Says Edgar Wright" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,6 +250,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Apple-MacBook-Pro-13-2.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Today&#x27;s the final day to get this MacBook Pro for 78% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/02/todays-the-final-day-to-get-this-macbook-pro-for-78-off.html" target="_blank">Today&#x27;s the final day to get this MacBook Pro for 78% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/simpsons-fortnite-1280x853.jpg" alt="‘The Simpsons’ is Going All-In on Its ‘Fortnite’ Collaboration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -260,24 +274,6 @@
                 <span class="title"><a href="https://gizmodo.com/dreame-aqua10-ultra-roller-review-just-buy-a-mop-2000662970" target="_blank">Dreame Aqua10 Ultra Roller Review: Just Buy a Mop</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/food-box-1280x849.jpg" alt="I’m Donating to Propel’s Campaign for SNAP Recipients. Here’s Why I’m Uneasy About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/propels-snap-donor-campaign-2000679173" target="_blank">I’m Donating to Propel’s Campaign for SNAP Recipients. Here’s Why I’m Uneasy About It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-02 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/crazy-clock-1280x853.jpg" alt="Here’s What Happens When Your Phone’s Clock Changes Itself on Nov. 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/heres-what-happens-when-your-phones-clock-changes-itself-on-nov-2-2000680435" target="_blank">Here’s What Happens When Your Phone’s Clock Changes Itself on Nov. 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-01 22:04</span>
             </div>
         </div>
 </div>
@@ -299,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
