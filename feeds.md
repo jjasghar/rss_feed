@@ -1,41 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 04:03:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-02 05:01:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 04:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-art-gmh-251031_1761926109752_hpMain_4x3t_384.jpg" alt="Most Americans say country is on the wrong track, blame Trump for inflation: Poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/americans-country-wrong-track-blame-trump-inflation-poll/story?id=127064620" target="_blank">Most Americans say country is on the wrong track, blame Trump for inflation: Poll</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-02 04:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +106,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/top-labor-groups-break-federal-unions-demand-end/story?id=127055562" target="_blank">Top labor groups break with federal union&#x27;s support of GOP measure to end shutdown</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-01 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5552/live/cc5a6f50-b779-11f0-b804-a91610c7ddcc.jpg" alt="Multiple people stabbed on train in Cambridgeshire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd7rrpwl5zno?at_medium=RSS&at_campaign=rss" target="_blank">Multiple people stabbed on train in Cambridgeshire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-01 23:36</span>
             </div>
         </div>
 </div>
@@ -182,6 +185,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/safal_bhandari/hello-2dne" target="_blank">Hello</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-02 04:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/wayneworkman/aws-terraform-module-custom-prompt-injection-detection-dpn" target="_blank">AWS Terraform Module - Custom Prompt Injection Detection</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-02 03:52</span>
@@ -212,15 +224,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Steam-Linux-Above-3P-Oct-2025" target="_blank">Steam On Linux Gaming Finally Cracks 3% For October 2025</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-02 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://visopsys.org/" target="_blank">Visopsys: OS maintained by a single developer since 1997</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-01 22:07</span>
             </div>
         </div>
 </div>
@@ -301,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 04:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
