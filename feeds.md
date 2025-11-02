@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 03:22:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-02 04:03:04 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 04:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -177,6 +179,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wayneworkman/aws-terraform-module-custom-prompt-injection-detection-dpn" target="_blank">AWS Terraform Module - Custom Prompt Injection Detection</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-02 03:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6roliolh4ynjn8yt5px.jpg" alt="GMX V1 Exploit Analysis: How a $42M Classic Reentrancy Attack Unfolded" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,18 +218,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sailfishos.org/info/" target="_blank">SailfishOS: A Linux-based European alternative to dominant mobile OSes</a></span>
+                <span class="title"><a href="https://visopsys.org/" target="_blank">Visopsys: OS maintained by a single developer since 1997</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-11-01 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robertobutti/semantic-search-with-embeddings-in-php-a-hands-on-guide-using-neuron-ai-and-ollama-16c" target="_blank">Semantic search with embeddings in PHP: a hands-on guide using Neuron AI and Ollama</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-01 21:55</span>
+                <span class="time">2025-11-01 22:07</span>
             </div>
         </div>
 </div>
@@ -233,6 +235,15 @@
                 <span class="title"><a href="https://gizmodo.com/heres-what-happens-when-your-phones-clock-changes-itself-on-nov-2-2000680435" target="_blank">Here’s What Happens When Your Phone’s Clock Changes Itself on Nov. 2</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-01 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Weather-Hi-Def.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Outsmart future storms with Weather Hi-Def Radar Storm Watch Plus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/01/outsmart-future-storms-with-weather-hi-def-radar-storm-watch-plus.html" target="_blank">Outsmart future storms with Weather Hi-Def Radar Storm Watch Plus</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-01 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -271,15 +282,6 @@
                 <span class="time">2025-11-01 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/keanu-johnwick-hed-1280x853.jpg" alt="Keanu Reeves’ Next Movie ‘Shiver’ Has Sharks and A Time Loop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/keanu-reeves-next-movie-shiver-has-sharks-and-a-time-loop-2000680338" target="_blank">Keanu Reeves’ Next Movie ‘Shiver’ Has Sharks and A Time Loop</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-01 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 04:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
