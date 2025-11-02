@@ -1,32 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 20:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-02 21:01:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, November 02, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/2/barcelona-beat-elche-3-1-to-stay-in-touch-with-la-liga-leaders-real-madrid?traffic_source=rss" target="_blank">Barcelona beat Elche 3-1 to stay in touch with La Liga leaders Real Madrid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/11/2/china-us-relations-somewhere-between-a-ceasefire-and-a?traffic_source=rss" target="_blank">China-US relations: ‘Somewhere between a ceasefire and a truce’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-02 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594848/fire-and-explosion-at-northwestern-mexico-store-leave-at-least-23-dead-and-12-injured" target="_blank">Fire and explosion at northwestern Mexico store leave at least 23 dead and 12 injured</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-02 16:22</span>
             </div>
         </div>
 </div>
@@ -264,15 +259,6 @@
                 <span class="time">2025-11-01 22:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Weather-Hi-Def.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Outsmart future storms with Weather Hi-Def Radar Storm Watch Plus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/01/outsmart-future-storms-with-weather-hi-def-radar-storm-watch-plus.html" target="_blank">Outsmart future storms with Weather Hi-Def Radar Storm Watch Plus</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-01 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
