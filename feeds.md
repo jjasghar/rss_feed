@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 15:02:08 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-03 16:02:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5595923/kimberly-clark-huggies-buying-kenvue-tylenol" target="_blank">Huggies maker Kimberly-Clark is buying Tylenol maker Kenvue</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-03 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/key-takeaways-from-trumps-60-minutes-interview?traffic_source=rss" target="_blank">Key takeaways from Trump’s 60 Minutes interview</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/nj-debate-abc-gmh-251009_1760019838500_hpMain_4x3t_384.jpg" alt="One year out from Election Day 2026, Tuesday&#x27;s results could shape 2026 midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/year-election-day-tuesdays-results-shape-2026-midterms/story?id=127112899" target="_blank">One year out from Election Day 2026, Tuesday&#x27;s results could shape 2026 midterms</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-03 13:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -77,38 +105,20 @@
                 <span class="time">2025-11-03 12:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/unmute/2025/11/3/nyc-public-advocate-arrested-at-anti-ice-protest?traffic_source=rss" target="_blank">NYC public advocate arrested at anti-ICE protest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762172501080_tdy_news_7a_nobles_shutdown_fallout_251103_1920x1080-5dy9ur.jpg" alt="Trump Administration Faces Deadline to Comply With SNAP Ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/government-shutdown-nears-longest-in-history-as-fallout-grows-251173957948" target="_blank">Trump Administration Faces Deadline to Comply With SNAP Ruling</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-03 12:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e7/live/6322eac0-b8a6-11f0-b2a1-6f537f66f9aa.jpg" alt="Israeli military&#x27;s ex-top lawyer arrested as scandal over video leak deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss" target="_blank">Israeli military&#x27;s ex-top lawyer arrested as scandal over video leak deepens</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-03 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale" target="_blank">The Apple Watch SE 3 is on sale for a record low price of $199</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-03 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-500x500.jpg" alt="Disruption to science will last longer than the US government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +164,6 @@
                 <span class="time">2025-11-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/2025-10-22-Internet-Archive-1-Trillion-web-pages-375-500x500.jpg" alt="Internet Archive’s legal fights are over, but its founder mourns what was lost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/" target="_blank">Internet Archive’s legal fights are over, but its founder mourns what was lost</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +176,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/sre-questions/en/mediumimage/david-blank-edelman-medium-1761658257450.jpg" alt="Presentation: You Are Asking the Wrong Questions (About Reliability and SRE)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/sre-questions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: You Are Asking the Wrong Questions (About Reliability and SRE)</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-03 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/radeon-ai-pro-r9700-graphics" target="_blank">AMD Radeon AI PRO R9700 Offers Competitive Workstation Graphics Performance/Value</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-03 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722730&w=600" alt="Navigating the Cyber Frontier: AI and ML&#x27;s Role in Shaping Tomorrow&#x27;s Threat Defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-ml-cybersecurity-future-threat-defense" target="_blank">Navigating the Cyber Frontier: AI and ML&#x27;s Role in Shaping Tomorrow&#x27;s Threat Defense</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-03 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +221,6 @@
                 <span class="title"><a href="https://dev.to/paperium/deflanderization-for-game-dialogue-balancing-character-authenticity-with-taskexecution-in-2gki" target="_blank">Deflanderization for Game Dialogue: Balancing Character Authenticity with TaskExecution in LLM-based NPCs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-03 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722063&w=600" alt="8 Business Continuity Lessons Learned from the CrowdStrike Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/business-continuity-lessons-from-crowdstrike-outage" target="_blank">8 Business Continuity Lessons Learned from the CrowdStrike Outage</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andryl_/quando-a-arquitetura-fala-mais-alto-que-o-codigo-4nmp" target="_blank">Quando a arquitetura fala mais alto que o código</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722060&w=600" alt="Delta Lake 4.0 and Delta Kernel: What&#x27;s New in the Future of Data Lakehouses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/delta-lake-delta-kernel-future-of-data-lakehouses" target="_blank">Delta Lake 4.0 and Delta Kernel: What&#x27;s New in the Future of Data Lakehouses</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-03 13:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +252,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/04/a9fa029527a6577ace70df231fe3087e-1024x683.jpg" alt="Microsoft AI Chief Warns Pursuing Machine Consciousness Is a Gigantic Waste of Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/microsoft-ai-chief-warns-pursuing-machine-consciousness-is-a-gigantic-waste-of-time-2000680719" target="_blank">Microsoft AI Chief Warns Pursuing Machine Consciousness Is a Gigantic Waste of Time</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/DOOMSPACE-1280x720.jpg" alt="Some Super Clever Folks Got Doom Running On A Goddamn Satellite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/doom-port-runs-on-satellite-esa-op-sat-ubuntu-2000640805" target="_blank">Some Super Clever Folks Got Doom Running On A Goddamn Satellite</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 15:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/image-7-1280x720.jpg" alt="The Game Awards Needs A Puzzle Category" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,39 +288,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K94F3T9VDD8QX97EQF6PVXRK/hero-image.png" alt="This Four-Camera Blink Security Bundle Is 67% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/blink-four-camera-security-bundle-deal?utm_medium=RSS" target="_blank">This Four-Camera Blink Security Bundle Is 67% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/main2-1280x720.jpg" alt="The Most Extraordinary Cosplay Fits Out Of New York Comic Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/cosplay-gallery-new-york-comic-con-kpop-tron-2000640740" target="_blank">The Most Extraordinary Cosplay Fits Out Of New York Comic Con 2025</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-03 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/gmktec-mini-pc-1280x853.jpg" alt="Mini PC (16GB RAM, 512GB SSD) Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mini-pc-16gb-ram-512gb-ssd-hits-new-record-low-on-amazon-now-4x-cheaper-than-mac-mini-2000640650" target="_blank">Mini PC (16GB RAM, 512GB SSD) Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/ChinesePirates.png?fit=1080%2C612&amp;quality=55&amp;ssl=1" alt="China has a troubling export: piracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/03/china-has-a-troubling-export-piracy.html" target="_blank">China has a troubling export: piracy</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-03 12:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/godzilla-minus-zero-1280x905.jpg" alt="The ‘Godzilla Minus One’ Sequel Goes Back to Zero" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-godzilla-minus-one-sequel-goes-back-to-zero-2000680658" target="_blank">The ‘Godzilla Minus One’ Sequel Goes Back to Zero</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 11:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
