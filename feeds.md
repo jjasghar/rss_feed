@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 13:10:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-03 14:01:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,10 +106,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/03/lg-scions-stock-farm-road-utopai-launch-ai-driven-filmmaking/" target="_blank">LG founder’s grandson, production firm partner up to bring AI to filmmaking</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill" target="_blank">How Frankenstein’s creature designer found a new look for an iconic monster</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/2025-10-22-Internet-Archive-1-Trillion-web-pages-375-500x500.jpg" alt="Internet Archive’s legal fights are over, but its founder mourns what was lost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/" target="_blank">Internet Archive’s legal fights are over, but its founder mourns what was lost</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-03 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +157,6 @@
                 <span class="time">2025-11-03 00:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/" target="_blank">Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-02 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo" target="_blank">You need to watch the found footage classic, Lake Mungo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/andryl_/quando-a-arquitetura-fala-mais-alto-que-o-codigo-4nmp" target="_blank">Quando a arquitetura fala mais alto que o código</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-03 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722060&w=600" alt="Delta Lake 4.0 and Delta Kernel: What&#x27;s New in the Future of Data Lakehouses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/delta-lake-delta-kernel-future-of-data-lakehouses" target="_blank">Delta Lake 4.0 and Delta Kernel: What&#x27;s New in the Future of Data Lakehouses</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-03 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -206,20 +216,20 @@
                 <span class="time">2025-11-03 09:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/" target="_blank">Tiny electric motor can produce more than 1,000 horsepower</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-03 09:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-summarization-optimization.html" target="_blank">AI Summarization Optimization</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-03 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -234,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/the-witchers4-ciri-1280x853.jpg" alt="‘The Witcher’ Showrunner and Freya Allan Talk Ciri’s Season 4 Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-witcher-showrunner-freya-allan-talk-ciris-season-4-story-2000680650" target="_blank">‘The Witcher’ Showrunner and Freya Allan Talk Ciri’s Season 4 Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/main2-1280x720.jpg" alt="The Most Extraordinary Cosplay Fits Out Of New York Comic Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cosplay-gallery-new-york-comic-con-kpop-tron-2000640740" target="_blank">The Most Extraordinary Cosplay Fits Out Of New York Comic Con 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 13:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/gmktec-mini-pc-1280x853.jpg" alt="Mini PC (16GB RAM, 512GB SSD) Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +298,6 @@
                 <span class="time">2025-11-03 05:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/rtx5070-geforce-1280x853.jpg" alt="Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-liquidates-rtx-5070-gpus-asus-model-at-new-record-low-for-early-black-friday-2000640678" target="_blank">Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/hp-win-11-laptop-1280x853.jpg" alt="This 1TB HP Laptop at 70% Off Is Practically Free, Amazon Adds $299 Bonus Bundle on Top" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-1tb-hp-laptop-at-70-off-is-practically-free-amazon-adds-299-bonus-bundle-on-top-2000640664" target="_blank">This 1TB HP Laptop at 70% Off Is Practically Free, Amazon Adds $299 Bonus Bundle on Top</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-02 23:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
