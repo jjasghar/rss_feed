@@ -1,10 +1,8 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 16:02:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-11-03 17:01:39 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
@@ -12,30 +10,22 @@
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/new-light-shed-on-el-fasher-horror-as-survivors-arrive-in-sudans-tawila?traffic_source=rss" target="_blank">New light shed on el-Fasher horror as survivors arrive in Sudan’s Tawila</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5591157/trump-pslf-teachers-loan-forgiveness" target="_blank">Public workers could be denied loan forgiveness if cities defy Trump, lawsuit alleges</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-03 16:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,39 +78,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e7/live/6322eac0-b8a6-11f0-b2a1-6f537f66f9aa.jpg" alt="Israeli military&#x27;s ex-top lawyer arrested over leak of video allegedly showing Palestinian detainee abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss" target="_blank">Israeli military&#x27;s ex-top lawyer arrested over leak of video allegedly showing Palestinian detainee abuse</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-03 15:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/film/2025/nov/03/british-independent-film-awards-nominations-bifa-my-fathers-shadow-pillion" target="_blank">My Father’s Shadow looms over competition at British independent film awards</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-03 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c57/live/4531dfe0-b8a0-11f0-ba75-093eca1ac29b.jpg" alt="Man remanded in custody over train stabbings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gw96y01g8o?at_medium=RSS&at_campaign=rss" target="_blank">Man remanded in custody over train stabbings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-03 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/nj-debate-abc-gmh-251009_1760019838500_hpMain_4x3t_384.jpg" alt="One year out from Election Day 2026, Tuesday&#x27;s results could shape 2026 midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/year-election-day-tuesdays-results-shape-2026-midterms/story?id=127112899" target="_blank">One year out from Election Day 2026, Tuesday&#x27;s results could shape 2026 midterms</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-03 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/03/g-s1-96317/up-first-newsletter-president-trump-travel-snap-elections" target="_blank">Judge says Trump administration must fund SNAP. And, what to know about NYC&#x27;s election</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-03 12:53</span>
             </div>
         </div>
 </div>
@@ -179,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=45800465" target="_blank">Ask HN: Who is hiring? (November 2025)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-03 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/sre-questions/en/mediumimage/david-blank-edelman-medium-1761658257450.jpg" alt="Presentation: You Are Asking the Wrong Questions (About Reliability and SRE)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -214,15 +213,6 @@
                 <span class="time">2025-11-03 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paperium/deflanderization-for-game-dialogue-balancing-character-authenticity-with-taskexecution-in-2gki" target="_blank">Deflanderization for Game Dialogue: Balancing Character Authenticity with TaskExecution in LLM-based NPCs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +242,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/REDMAGIC-11-Pro-1-1280x853.jpg" alt="Screw Tri-Folds: The Real Innovation Is in Gaming Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/screw-tri-folds-the-real-innovation-is-in-gaming-phones-2000680736" target="_blank">Screw Tri-Folds: The Real Innovation Is in Gaming Phones</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/ffff-1280x720.jpg" alt="Battlefield 6 Data Reveals How Small Its Maps Are Compared To Past Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-data-confirms-smallest-maps-franchise-ea-fps-bf1-2000640803" target="_blank">Battlefield 6 Data Reveals How Small Its Maps Are Compared To Past Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Kraftwerks-Tour-de-France.-photo-Jennifer-Sand.jpg?fit=1080%2C732&amp;quality=60&amp;ssl=1" alt="Want a synth or a bicycle or a drum machine owned by Kraftwerk&#x27;s Florian Schneider? Now&#x27;s your chance!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/03/want-a-synth-or-a-bicycle-or-a-drum-machine-owned-by-kraftwerks-florian-schneider-nows-your-chance.html" target="_blank">Want a synth or a bicycle or a drum machine owned by Kraftwerk&#x27;s Florian Schneider? Now&#x27;s your chance!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-03 16:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/04/a9fa029527a6577ace70df231fe3087e-1024x683.jpg" alt="Microsoft AI Chief Warns Pursuing Machine Consciousness Is a Gigantic Waste of Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,33 +295,6 @@
                 <span class="time">2025-11-03 14:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/the-witchers4-ciri-1280x853.jpg" alt="‘The Witcher’ Showrunner and Freya Allan Talk Ciri’s Season 4 Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-witcher-showrunner-freya-allan-talk-ciris-season-4-story-2000680650" target="_blank">‘The Witcher’ Showrunner and Freya Allan Talk Ciri’s Season 4 Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K94F3T9VDD8QX97EQF6PVXRK/hero-image.png" alt="This Four-Camera Blink Security Bundle Is 67% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/blink-four-camera-security-bundle-deal?utm_medium=RSS" target="_blank">This Four-Camera Blink Security Bundle Is 67% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/main2-1280x720.jpg" alt="The Most Extraordinary Cosplay Fits Out Of New York Comic Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cosplay-gallery-new-york-comic-con-kpop-tron-2000640740" target="_blank">The Most Extraordinary Cosplay Fits Out Of New York Comic Con 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 13:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,22 +309,13 @@
                 <span class="time">2025-11-03 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762056099-20251102.png" alt="Saturday Morning Breakfast Cereal - Consilience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/consilience" target="_blank">Saturday Morning Breakfast Cereal - Consilience</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-02 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
