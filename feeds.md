@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 02:31:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-03 03:24:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 03:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -177,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/" target="_blank">The Great Decoupling of Labor and Capital</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-03 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-twist-behind-alphabets-moonshot-spinouts-and-what-every-innovator-gets-wrong-15l9" target="_blank">The Surprising Twist Behind Alphabet’s Moonshot Spinouts (And What Every Innovator Gets Wrong)</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +214,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-02 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It (2020)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-02 21:08</span>
             </div>
@@ -312,7 +311,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:31 UTC
+        🔄 Last Updated: 03:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
