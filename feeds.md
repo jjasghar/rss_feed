@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 10:01:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-03 11:01:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/3/day-of-the-dead-celebrations-around-the-world?traffic_source=rss" target="_blank">Day of the Dead celebrations around the world</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/03/g-s1-95310/japan-population-decline-gender-inequality" target="_blank">Gender inequality accelerates Japan&#x27;s rural depopulation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-03 10:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e1/live/4e8731d0-b89b-11f0-b84d-4fb96522f06d.jpg" alt="Man charged with attempted murder over train attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c709rwxzx9yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he doubts US will go to war with Venezuela</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-03 07:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/03/g-s1-96298/mexican-mayor-killed-during-day-of-the-dead" target="_blank">Mexican mayor killed during Day of the Dead celebrations in Michoacan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-03 06:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/sudan-slams-rsf-war-crimes-in-el-fasher-as-survivors-recount-mass-killings?traffic_source=rss" target="_blank">Sudan slams RSF ‘war crimes’ in el-Fasher as survivors recount killings</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 05:10</span>
             </div>
         </div>
 </div>
@@ -176,10 +173,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Devuan-6.0-Released" target="_blank">Devuan 6.0 Released For Debian 13 Without systemd</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-03 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/petrashka/create-your-first-mcp-server-44kh" target="_blank">Create your first MCP server</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-03 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/" target="_blank">Tiny electric motor outperforms record holder by 40%</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-03 09:20</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/java-news-roundup-oct27-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs for JDK 26, Spring RCs, Quarkus, JReleaser, Seed4J, Gradle</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-03 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-534h" target="_blank">Change your old methods for writing a JavaScript Code - Shorthand&#x27;s for JavaScript Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 06:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknklxfx2nugi3qja4nhk.webp" alt="Day 33 of 100 days dsa coding challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manasi_patil_/day-33-of-100-days-dsa-coding-challenge-2aib" target="_blank">Day 33 of 100 days dsa coding challenge</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 05:49</span>
             </div>
         </div>
 </div>
@@ -237,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/godzilla-minus-zero-1280x905.jpg" alt="The ‘Godzilla Minus One’ Sequel Goes Back to Zero" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-godzilla-minus-one-sequel-goes-back-to-zero-2000680658" target="_blank">The ‘Godzilla Minus One’ Sequel Goes Back to Zero</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/orca-hunting-juvenile-great-white-shark-1280x853.jpg" alt="Jaw-Dropping Video Shows Orcas Flipping a Great White Shark to Feast On Its Liver" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +288,6 @@
                 <span class="time">2025-11-02 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/shaun-the-dead-1280x853.jpg" alt="Don’t Expect a ‘Shaun of the Dead’ Sequel, Says Edgar Wright" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dont-expect-a-shaun-of-the-dead-sequel-says-edgar-wright-2000680447" target="_blank">Don’t Expect a ‘Shaun of the Dead’ Sequel, Says Edgar Wright</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-02 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
