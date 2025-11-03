@@ -1,27 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 20:01:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-03 21:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/trump-administration-to-partially-fund-snap-food-benefits-amid-us-shutdown?traffic_source=rss" target="_blank">Trump administration to partially fund SNAP food benefits amid US shutdown</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-03 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762196715779_now_daily_b_snap_grocery_aid_251103_1920x1080-7icx0e.jpg" alt="Neighbors helping each other as SNAP benefits dry up for families in need" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/neighbors-helping-each-other-as-snap-benefits-dry-up-for-families-in-need-251214405976" target="_blank">Neighbors helping each other as SNAP benefits dry up for families in need</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-03 19:05</span>
             </div>
         </div>
 <div class="story">
@@ -80,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/new-light-shed-on-el-fasher-horror-as-survivors-arrive-in-sudans-tawila?traffic_source=rss" target="_blank">New light shed on el-Fasher horror as survivors arrive in Sudan’s Tawila</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-03 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5591157/trump-pslf-teachers-loan-forgiveness" target="_blank">Public workers could be denied loan forgiveness if cities defy Trump, lawsuit alleges</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-03 16:10</span>
             </div>
         </div>
 </div>
@@ -223,20 +230,47 @@
                 <span class="time">2025-11-03 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/" target="_blank">Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-11-02 20:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/100-NIGHTS-OF-HERO-Still-6-2-1280x853.jpg" alt="We Wish This ‘100 Nights of Hero’ Trailer Was Even More Fantastical" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/100-nights-of-hero-trailer-emma-corrin-maika-monroe-nicholas-galitzine-2000680930" target="_blank">We Wish This ‘100 Nights of Hero’ Trailer Was Even More Fantastical</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1028314522-scaled.jpg?fit=2560%2C1706&amp;quality=60&amp;ssl=1" alt="Mississippi mom shoots escaped research monkey in her backyard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/03/mississippi-mom-shoots-escaped-research-monkey-in-her-backyard.html" target="_blank">Mississippi mom shoots escaped research monkey in her backyard</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-03 20:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K95MGA975JV84C4Z1A293A4H/hero-image.jpg" alt="I Test Smartwatches and Fitness Trackers, and These Are the Prices You Should Look Out for on Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-deals-on-smartwatches-and-fitness-trackers-to-watch-for-on-black-friday?utm_medium=RSS" target="_blank">I Test Smartwatches and Fitness Trackers, and These Are the Prices You Should Look Out for on Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-03 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Pillars-of-Eternity-1280x720.jpg" alt="Turn-Based Combat Is Finally Coming To This 10-Year-Old RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pillars-eternity-3-turn-based-mode-update-avowed-crpg-2000640875" target="_blank">Turn-Based Combat Is Finally Coming To This 10-Year-Old RPG</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 20:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/crypto_hack-1280x853.jpg" alt="$120 Million Exploit Has Chilling Effect on Entire Crypto Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,42 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/cyberpunk-2077-keanu-reeves-johnny-silverhand-pondsmith-2000640870" target="_blank">Cyberpunk Creator Tells Keanu Reeves To ‘Contact’ Him About Bringing His Character Back</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-03 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Black-Phone-2-Ice-1280x853.jpg" alt="Halloween Weekend Was One of the Weirdest Ever at the Box Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/halloween-box-office-records-black-phone-kpop-2000680773" target="_blank">Halloween Weekend Was One of the Weirdest Ever at the Box Office</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/bfgf-1280x720.jpg" alt="Why Battlefield 6 Maps Feel So Dang Tiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-maps-size-small-big-2000640832" target="_blank">Why Battlefield 6 Maps Feel So Dang Tiny</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K95AKWZNSTEQ22G8721XBZ14/hero-image.png" alt="You May Have a Refund Coming If You Use Amazon Prime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/you-may-have-a-refund-coming-if-you-use-amazon-prime?utm_medium=RSS" target="_blank">You May Have a Refund Coming If You Use Amazon Prime</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-03 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/REDMAGIC-11-Pro-1-1280x853.jpg" alt="Screw Tri-Folds: The Real Innovation Is in Gaming Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/screw-tri-folds-the-real-innovation-is-in-gaming-phones-2000680736" target="_blank">Screw Tri-Folds: The Real Innovation Is in Gaming Phones</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 16:58</span>
             </div>
         </div>
 </div>
@@ -319,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
