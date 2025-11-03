@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 17:01:39 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-03 18:02:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5596121/snap-food-benefits-trump-government-shutdown" target="_blank">SNAP benefits will restart, but it will be half the normal payment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-03 17:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +102,29 @@
                 <span class="time">2025-11-03 15:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/film/2025/nov/03/british-independent-film-awards-nominations-bifa-my-fathers-shadow-pillion" target="_blank">My Father’s Shadow looms over competition at British independent film awards</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-03 14:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6902580e3915279a80da75b9/master/pass/gear-chatbot-copypaste-2148925760-2200190561.jpg" alt="Your Friend Asked You a Question. Don&#x27;t Copy and Paste an Answer From a Chatbot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dont-copy-and-paste-answers-from-a-chatbot/" target="_blank">Your Friend Asked You a Question. Don&#x27;t Copy and Paste an Answer From a Chatbot</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-03 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/" target="_blank">Chrome can now autofill your passport, driver’s license, and vehicle registration info</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-03 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +161,6 @@
                 <span class="time">2025-11-03 14:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/03/lg-scions-stock-farm-road-utopai-launch-ai-driven-filmmaking/" target="_blank">LG founder’s grandson, production firm partner up to bring AI to filmmaking</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill" target="_blank">How Frankenstein’s creature designer found a new look for an iconic monster</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +173,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Git-2.52-rc0-Released" target="_blank">Git 2.52-rc0 Starts Working On SHA1-SHA256 Interop, Hints For New Default Branch Name</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-03 17:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131/466" target="_blank">PEP 810: Explicit lazy imports</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-03 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722113&w=600" alt="What Is Agent Observability? Key Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/what-is-agent-observability-key-lessons-learned" target="_blank">What Is Agent Observability? Key Lessons Learned</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-03 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/sre-questions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: You Are Asking the Wrong Questions (About Reliability and SRE)</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-03 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/radeon-ai-pro-r9700-graphics" target="_blank">AMD Radeon AI PRO R9700 Offers Competitive Workstation Graphics Performance/Value</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-03 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722730&w=600" alt="Navigating the Cyber Frontier: AI and ML&#x27;s Role in Shaping Tomorrow&#x27;s Threat Defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-ml-cybersecurity-future-threat-defense" target="_blank">Navigating the Cyber Frontier: AI and ML&#x27;s Role in Shaping Tomorrow&#x27;s Threat Defense</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-03 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/" target="_blank">What’s new at Stack Overflow: November 2025</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-03 15:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Black-Phone-2-Ice-1280x853.jpg" alt="Halloween Weekend Was One of the Weirdest Ever at the Box Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/halloween-box-office-records-black-phone-kpop-2000680773" target="_blank">Halloween Weekend Was One of the Weirdest Ever at the Box Office</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/bfgf-1280x720.jpg" alt="Why Battlefield 6 Maps Feel So Dang Tiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-maps-size-small-big-2000640832" target="_blank">Why Battlefield 6 Maps Feel So Dang Tiny</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 17:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/REDMAGIC-11-Pro-1-1280x853.jpg" alt="Screw Tri-Folds: The Real Innovation Is in Gaming Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +302,6 @@
                 <span class="time">2025-11-03 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/DOOMSPACE-1280x720.jpg" alt="Some Super Clever Folks Got Doom Running On A Goddamn Satellite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/doom-port-runs-on-satellite-esa-op-sat-ubuntu-2000640805" target="_blank">Some Super Clever Folks Got Doom Running On A Goddamn Satellite</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/image-7-1280x720.jpg" alt="The Game Awards Needs A Puzzle Category" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tga-game-awards-goty-puzzle-mimesis-poe-2000640780" target="_blank">The Game Awards Needs A Puzzle Category</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
