@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 14:01:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-03 15:02:08 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/film/2025/nov/03/british-independent-film-awards-nominations-bifa-my-fathers-shadow-pillion" target="_blank">My Father’s Shadow looms over competition at British independent film awards</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-03 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c57/live/4531dfe0-b8a0-11f0-ba75-093eca1ac29b.jpg" alt="Man remanded in custody over train stabbings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gw96y01g8o?at_medium=RSS&at_campaign=rss" target="_blank">Man remanded in custody over train stabbings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-03 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/03/g-s1-96317/up-first-newsletter-president-trump-travel-snap-elections" target="_blank">Judge says Trump administration must fund SNAP. And, what to know about NYC&#x27;s election</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-03 12:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +104,38 @@
                 <span class="time">2025-11-03 11:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/03/sudanese-refugees-el-fasher-rsf-tawila-un" target="_blank">At least 36,000 Sudanese have fled since fall of El Fasher to RSF, says UN agency</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-03 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/3/day-of-the-dead-celebrations-around-the-world?traffic_source=rss" target="_blank">Day of the Dead celebrations around the world</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/03/g-s1-95310/japan-population-decline-gender-inequality" target="_blank">Gender inequality accelerates Japan&#x27;s rural depopulation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-03 10:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-500x500.jpg" alt="Disruption to science will last longer than the US government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/disruption-to-science-will-last-longer-than-the-us-government-shutdown/" target="_blank">Disruption to science will last longer than the US government shutdown</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-03 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690829dd555f7cac77d7c49d/master/pass/Apple%20iPhone%2017%20Pro%20Max%20SOURCE%20Julian%20Chokkattu%20(1).jpg" alt="The Best iPhone Privacy and Security Settings to Change on Your Apple Device (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/iphone-privacy-and-security-settings/" target="_blank">The Best iPhone Privacy and Security Settings to Change on Your Apple Device (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-03 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/" target="_blank">Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-03 14:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +163,6 @@
                 <span class="time">2025-11-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/682e3843c1db3fd9eacdf22f/master/pass/The-Best-Toiletry-Bags.jpg" alt="15 Best Travel Toiletry Bags, Tested Over Many Miles (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-toiletry-bags/" target="_blank">15 Best Travel Toiletry Bags, Tested Over Many Miles (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-03 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/" target="_blank">Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-03 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week" target="_blank">The best new movies to stream this week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-03 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +175,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/" target="_blank">What’s new at Stack Overflow: November 2025</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-03 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paperium/deflanderization-for-game-dialogue-balancing-character-authenticity-with-taskexecution-in-2gki" target="_blank">Deflanderization for Game Dialogue: Balancing Character Authenticity with TaskExecution in LLM-based NPCs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722063&w=600" alt="8 Business Continuity Lessons Learned from the CrowdStrike Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/business-continuity-lessons-from-crowdstrike-outage" target="_blank">8 Business Continuity Lessons Learned from the CrowdStrike Outage</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-03 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/delta-lake-delta-kernel-future-of-data-lakehouses" target="_blank">Delta Lake 4.0 and Delta Kernel: What&#x27;s New in the Future of Data Lakehouses</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722046&w=600" alt="Human-AI Readiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/human-ai-readiness" target="_blank">Human-AI Readiness</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Devuan-6.0-Released" target="_blank">Devuan 6.0 Released For Debian 13 Without systemd</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-03 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/petrashka/create-your-first-mcp-server-44kh" target="_blank">Create your first MCP server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 09:45</span>
             </div>
         </div>
 </div>
@@ -244,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/image-7-1280x720.jpg" alt="The Game Awards Needs A Puzzle Category" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tga-game-awards-goty-puzzle-mimesis-poe-2000640780" target="_blank">The Game Awards Needs A Puzzle Category</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 14:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/the-witchers4-ciri-1280x853.jpg" alt="‘The Witcher’ Showrunner and Freya Allan Talk Ciri’s Season 4 Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +304,6 @@
                 <span class="time">2025-11-03 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/orca-hunting-juvenile-great-white-shark-1280x853.jpg" alt="Jaw-Dropping Video Shows Orcas Flipping a Great White Shark to Feast On Its Liver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jaw-dropping-video-shows-orcas-flipping-a-great-white-shark-to-feast-on-its-liver-2000680260" target="_blank">Jaw-Dropping Video Shows Orcas Flipping a Great White Shark to Feast On Its Liver</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 05:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
