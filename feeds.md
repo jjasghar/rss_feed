@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 09:02:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-03 10:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e1/live/4e8731d0-b89b-11f0-b84d-4fb96522f06d.jpg" alt="Man charged with attempted murder over train attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gw96y01g8o?at_medium=RSS&at_campaign=rss" target="_blank">Man charged with attempted murder over train attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-03 09:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss" target="_blank">Iran ‘not in hurry’ to resume nuclear talks with US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 09:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/sudan-slams-rsf-war-crimes-in-el-fasher-as-survivors-recount-mass-killings?traffic_source=rss" target="_blank">Sudan slams RSF ‘war crimes’ in el-Fasher as survivors recount killings</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-03 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nationalguard_1762145275617_hpMain_4x3t_384.jpg" alt="Judge extends block on National Guard deployment into Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-extends-block-national-guard-deployment-portland/story?id=127122338" target="_blank">Judge extends block on National Guard deployment into Portland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-03 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0fc/live/af0007d0-b873-11f0-b2a1-6f537f66f9aa.jpg" alt="&#x27;Heroic&#x27; train worker saved many lives in stabbing attack, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c797x8v0nvno?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Heroic&#x27; train worker saved many lives in stabbing attack, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-03 04:40</span>
             </div>
         </div>
 </div>
@@ -177,6 +177,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/petrashka/create-your-first-mcp-server-44kh" target="_blank">Create your first MCP server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sambishop/how-penetration-testing-protects-fintech-apps-from-evolving-cyber-threats-4og" target="_blank">How Penetration Testing Protects FinTech Apps from Evolving Cyber Threats</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-03 08:53</span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/manasi_patil_/day-33-of-100-days-dsa-coding-challenge-2aib" target="_blank">Day 33 of 100 days dsa coding challenge</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-03 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feccyfsqudcxhe7oxslnc.png" alt="Using GNU toolchain for Windows kernel-mode drivers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd" target="_blank">Using GNU toolchain for Windows kernel-mode drivers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 05:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
