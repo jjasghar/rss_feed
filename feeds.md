@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 21:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-03 22:01:55 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/food-bank-gty-jef-251103_1762197645312_hpMain_4x3t_384.jpg" alt="Delays, smaller payments: How SNAP funding will work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/delays-smaller-payments-snap-funding-work/story?id=127129130" target="_blank">Delays, smaller payments: How SNAP funding will work</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-03 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/3/turkiye-hamas-will-transfer-gazas-governance-to-committee-of-palestinians?traffic_source=rss" target="_blank">Turkiye: Hamas will transfer Gaza’s governance to committee of Palestinians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +95,20 @@
                 <span class="time">2025-11-03 18:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5596121/snap-food-benefits-trump-government-shutdown" target="_blank">SNAP benefits will restart, but it will be half the normal payment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-03 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/new-light-shed-on-el-fasher-horror-as-survivors-arrive-in-sudans-tawila?traffic_source=rss" target="_blank">New light shed on el-Fasher horror as survivors arrive in Sudan’s Tawila</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2182712179-500x500-1762197913.jpg" alt="Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/" target="_blank">Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-03 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale" target="_blank">The Apple Watch SE 3 is on sale for a record low price of $199</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-03 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-500x500.jpg" alt="Disruption to science will last longer than the US government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/disruption-to-science-will-last-longer-than-the-us-government-shutdown/" target="_blank">Disruption to science will last longer than the US government shutdown</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-03 14:45</span>
             </div>
         </div>
 </div>
@@ -236,6 +233,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/star-wars-the-force-awakens-daniel-craig-stormtrooper-cameo-1280x853.jpg" alt="Rian Johnson Guessed Daniel Craig’s ‘Star Wars’ Cameo Before Anyone Else Could" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-force-awakens-daniel-craig-cameo-rian-johnson-2000680948" target="_blank">Rian Johnson Guessed Daniel Craig’s ‘Star Wars’ Cameo Before Anyone Else Could</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8R6S6E0PGDS0WMGH5S0PT78/hero-image.jpg" alt="All the New Features You Can Try Now in macOS 26.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/all-the-new-features-coming-to-macos-261?utm_medium=RSS" target="_blank">All the New Features You Can Try Now in macOS 26.1</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-03 21:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/100-NIGHTS-OF-HERO-Still-6-2-1280x853.jpg" alt="We Wish This ‘100 Nights of Hero’ Trailer Was Even More Fantastical" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,24 +286,6 @@
                 <span class="time">2025-11-03 20:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/crypto_hack-1280x853.jpg" alt="$120 Million Exploit Has Chilling Effect on Entire Crypto Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/120-million-exploit-has-chilling-effect-on-entire-crypto-ecosystem-2000680860" target="_blank">$120 Million Exploit Has Chilling Effect on Entire Crypto Ecosystem</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/12/6067777d8d4c3663dae5c5443fbe9502-1280x720.jpg" alt="Cyberpunk Creator Tells Keanu Reeves To ‘Contact’ Him About Bringing His Character Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-keanu-reeves-johnny-silverhand-pondsmith-2000640870" target="_blank">Cyberpunk Creator Tells Keanu Reeves To ‘Contact’ Him About Bringing His Character Back</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
