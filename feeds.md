@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-02 23:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-03 00:04:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, November 02, 2025 - 23:01 UTC</div>
+    <div class="newspaper-date">Monday, November 03, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/powerful-magnitude-6-3-quake-hits-north-afghanistans-hindu-kush-region?traffic_source=rss" target="_blank">Powerful magnitude 6.3 quake hits north Afghanistan’s Hindu Kush region</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-02 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Ohio-party-shooting-gty-bh-251102_1762094795859_hpMain_4x3t_384.jpg" alt="9 hurt when shooting erupts at birthday bash inside Ohio Airbnb rental: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/juveniles-9-people-hurt-shooting-airbnb-house-party/story?id=127106939" target="_blank">9 hurt when shooting erupts at birthday bash inside Ohio Airbnb rental: Police</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-02 21:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/2/barcelona-beat-elche-3-1-to-stay-in-touch-with-la-liga-leaders-real-madrid?traffic_source=rss" target="_blank">Barcelona beat Elche 3-1 to stay in touch with La Liga leaders Real Madrid</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-02 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5589774/virginia-races-trump-redistricting-spanberger-earle-sears" target="_blank">How this week&#x27;s elections in Virginia became about ... everything</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-02 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/drinking-water-in-tehran-could-run-dry-in-two-weeks-iranian-official-says?traffic_source=rss" target="_blank">Drinking water in Tehran could run dry in two weeks, Iranian official says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 19:16</span>
             </div>
         </div>
 </div>
@@ -175,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shanny2022/writers-room-db-multi-agent-story-generator-powered-by-agentic-postgres-kep" target="_blank">Writer’s Room DB – Multi-Agent Story Generator Powered by Agentic Postgres</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-02 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/" target="_blank">Making an Easy-to-Install Application in Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -208,13 +216,18 @@
                 <span class="time">2025-11-02 20:50</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc4-Released" target="_blank">Linux 6.18-rc4 Released: &quot;None Of It Looks Particularly Scary&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-02 19:54</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/" target="_blank">Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-11-02 20:37</span>
             </div>
         </div>
 </div>
@@ -222,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/hp-win-11-laptop-1280x853.jpg" alt="This 1TB HP Laptop at 70% Off Is Practically Free, Amazon Adds $299 Bonus Bundle on Top" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-1tb-hp-laptop-at-70-off-is-practically-free-amazon-adds-299-bonus-bundle-on-top-2000640664" target="_blank">This 1TB HP Laptop at 70% Off Is Practically Free, Amazon Adds $299 Bonus Bundle on Top</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-02 23:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/rat-maze-1280x853.jpg" alt="ChatGPT’s Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +289,6 @@
                 <span class="time">2025-11-02 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Dreame-Aqua10-Ultra-Roller-review-01-1280x853.jpg" alt="Dreame Aqua10 Ultra Roller Review: Just Buy a Mop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dreame-aqua10-ultra-roller-review-just-buy-a-mop-2000662970" target="_blank">Dreame Aqua10 Ultra Roller Review: Just Buy a Mop</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-02 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
