@@ -1,31 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 22:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-03 23:01:42 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +96,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/" target="_blank">Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-03 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23393163/best-smart-door-lock" target="_blank">I tested 30 smart locks, and these are the best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-03 22:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2182712179-500x500-1762197913.jpg" alt="Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -136,29 +149,20 @@
                 <span class="time">2025-11-03 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/" target="_blank">Chrome can now autofill your passport, driver’s license, and vehicle registration info</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-03 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale" target="_blank">The Apple Watch SE 3 is on sale for a record low price of $199</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-03 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725909&w=600" alt="Detecting Supply Chain Attacks in NPM, PyPI, and Docker: Real-World Techniques That Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/detecting-supply-chain-attacks-npm-pypi-docker" target="_blank">Detecting Supply Chain Attacks in NPM, PyPI, and Docker: Real-World Techniques That Work</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-03 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725774&w=600" alt="Building a Resilient Observability Stack in 2025: Practical Steps to Reduce Tool Sprawl With OpenTelemetry, Unified Platforms, and AI-Ready Monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +206,6 @@
                 <span class="title"><a href="https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131/466" target="_blank">PEP 810: Explicit lazy imports</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-03 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722113&w=600" alt="What Is Agent Observability? Key Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/what-is-agent-observability-key-lessons-learned" target="_blank">What Is Agent Observability? Key Lessons Learned</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-03 17:00</span>
             </div>
         </div>
 </div>
@@ -292,6 +287,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/03/will-it-crush" target="_blank">Will It Crush</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-03 21:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1762056140-20251103.png" alt="Saturday Morning Breakfast Cereal - Myth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -314,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
