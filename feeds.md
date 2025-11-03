@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 01:29:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-03 02:31:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/russia-ukraine-war-list-of-key-events-day-1348?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,348</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 01:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +101,29 @@
                 <span class="time">2025-11-02 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5c/live/8c5f1c00-b816-11f0-8801-8b419f17177b.jpg" alt="One suspect in train stabbings as rail worker critical" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c797x8v0nvno?at_medium=RSS&at_campaign=rss" target="_blank">One suspect in train stabbings as rail worker critical</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-02 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/" target="_blank">Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-03 01:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week" target="_blank">The best new movies to stream this week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-03 00:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/podcast/811595/microsoft-zune-version-history" target="_blank">Why the Zune never killed the iPod</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-02 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cd64eec5c73ba1c6338fb8/master/pass/Mix%20and%20Match%20Your%20Mattress's%20Build%20With%20the%20Best%20Hybrid%20Mattress.png" alt="The Best Hybrid Mattresses for Couples, Back Pain, and More (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-hybrid-mattress/" target="_blank">The Best Hybrid Mattresses for Couples, Back Pain, and More (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-02 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/811549/trump-tariff-shakedown" target="_blank">The great tariff shakedown</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-02 13:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/rtx5070-geforce-1280x853.jpg" alt="Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-liquidates-rtx-5070-gpus-asus-model-at-new-record-low-for-early-black-friday-2000640678" target="_blank">Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 01:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/hp-win-11-laptop-1280x853.jpg" alt="This 1TB HP Laptop at 70% Off Is Practically Free, Amazon Adds $299 Bonus Bundle on Top" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,15 +292,6 @@
                 <span class="time">2025-11-02 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/simpsons-fortnite-1280x853.jpg" alt="‘The Simpsons’ is Going All-In on Its ‘Fortnite’ Collaboration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-simpsons-is-going-all-in-on-its-fortnite-collaboration-2000680456" target="_blank">‘The Simpsons’ is Going All-In on Its ‘Fortnite’ Collaboration</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-02 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
