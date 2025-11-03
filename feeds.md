@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 00:04:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-03 01:29:31 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594899/israel-hostages-gaza-ceasefire" target="_blank">Israel says it received remains of 3 hostages from Gaza as fragile ceasefire holds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-03 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c797x8v0nvno?at_medium=RSS&at_campaign=rss" target="_blank">One suspect in train stabbings as rail worker critical</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-02 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/2/barcelona-beat-elche-3-1-to-stay-in-touch-with-la-liga-leaders-real-madrid?traffic_source=rss" target="_blank">Barcelona beat Elche 3-1 to stay in touch with La Liga leaders Real Madrid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 20:00</span>
             </div>
         </div>
 </div>
@@ -175,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-twist-behind-alphabets-moonshot-spinouts-and-what-every-innovator-gets-wrong-15l9" target="_blank">The Surprising Twist Behind Alphabet’s Moonshot Spinouts (And What Every Innovator Gets Wrong)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shanny2022/writers-room-db-multi-agent-story-generator-powered-by-agentic-postgres-kep" target="_blank">Writer’s Room DB – Multi-Agent Story Generator Powered by Agentic Postgres</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-02 23:35</span>
@@ -193,7 +200,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It (2020)</a></span>
+                <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-02 21:08</span>
             </div>
@@ -202,18 +209,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It</a></span>
+                <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It (2020)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-02 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/ubuntu-command-line-lcd-unsplash.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Offers x86-64-v3 Architecture Variant Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/ubuntu-amd64v3-x86-64-v3-support" target="_blank">Ubuntu 25.10 Offers x86-64-v3 Architecture Variant Packages</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-02 20:50</span>
             </div>
         </div>
 </div>
@@ -308,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
