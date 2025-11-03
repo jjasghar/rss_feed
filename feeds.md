@@ -1,34 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 19:01:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-03 20:01:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/trump-administration-to-partially-fund-snap-food-benefits-amid-us-shutdown?traffic_source=rss" target="_blank">Trump administration to partially fund SNAP food benefits amid US shutdown</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 19:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +89,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5591157/trump-pslf-teachers-loan-forgiveness" target="_blank">Public workers could be denied loan forgiveness if cities defy Trump, lawsuit alleges</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-03 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5595923/kimberly-clark-huggies-buying-kenvue-tylenol" target="_blank">Huggies maker Kimberly-Clark is buying Tylenol maker Kenvue</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-03 15:49</span>
             </div>
         </div>
 </div>
@@ -163,12 +156,12 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725774&w=600" alt="Building a Resilient Observability Stack in 2025: Practical Steps to Reduce Tool Sprawl With OpenTelemetry, Unified Platforms, and AI-Ready Monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-11-04 00:00</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-a-resilient-observability-stack" target="_blank">Building a Resilient Observability Stack in 2025: Practical Steps to Reduce Tool Sprawl With OpenTelemetry, Unified Platforms, and AI-Ready Monitoring</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-03 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -245,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/crypto_hack-1280x853.jpg" alt="$120 Million Exploit Has Chilling Effect on Entire Crypto Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/120-million-exploit-has-chilling-effect-on-entire-crypto-ecosystem-2000680860" target="_blank">$120 Million Exploit Has Chilling Effect on Entire Crypto Ecosystem</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/12/6067777d8d4c3663dae5c5443fbe9502-1280x720.jpg" alt="Cyberpunk Creator Tells Keanu Reeves To ‘Contact’ Him About Bringing His Character Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,20 +291,20 @@
                 <span class="time">2025-11-03 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/ffff-1280x720.jpg" alt="Battlefield 6 Data Reveals How Small Its Maps Are Compared To Past Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-data-confirms-smallest-maps-franchise-ea-fps-bf1-2000640803" target="_blank">Battlefield 6 Data Reveals How Small Its Maps Are Compared To Past Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1762056140-20251103.png" alt="Saturday Morning Breakfast Cereal - Myth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/myth-4" target="_blank">Saturday Morning Breakfast Cereal - Myth</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-03 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
