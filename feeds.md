@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 04:06:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-03 05:02:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 04:06 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/3/sinner-wins-paris-masters-to-reclaim-world-no-1-ranking-from-alcaraz?traffic_source=rss" target="_blank">Sinner wins Paris Masters to reclaim world No 1 ranking from Alcaraz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 04:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594843/nyc-marathon-2025-kipruto-obiri-kipchoge" target="_blank">Kenyan runners win men&#x27;s and women&#x27;s races in New York City Marathon</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-02 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/trump-says-xi-assured-him-china-wont-take-action-on-taiwan?traffic_source=rss" target="_blank">Trump says Xi assured him China won’t take action on Taiwan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 20:59</span>
             </div>
         </div>
 </div>
@@ -175,12 +175,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feccyfsqudcxhe7oxslnc.png" alt="Using GNU toolchain for Windows kernel-mode drivers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd" target="_blank">Using GNU toolchain for Windows kernel-mode drivers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/" target="_blank">The Great Decoupling of Labor and Capital</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-03 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/" target="_blank">Simple trick to increase coverage: Lying to users about signal strength</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-03 01:27</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/shanny2022/writers-room-db-multi-agent-story-generator-powered-by-agentic-postgres-kep" target="_blank">Writer’s Room DB – Multi-Agent Story Generator Powered by Agentic Postgres</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-02 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/" target="_blank">Making an Easy-to-Install Application in Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-02 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html" target="_blank">Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-02 21:08</span>
             </div>
         </div>
 </div>
@@ -311,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 04:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
