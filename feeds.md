@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 11:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-03 12:02:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e7/live/6322eac0-b8a6-11f0-b2a1-6f537f66f9aa.jpg" alt="Israeli military&#x27;s ex-top lawyer arrested as scandal over video leak deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss" target="_blank">Israeli military&#x27;s ex-top lawyer arrested as scandal over video leak deepens</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-03 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/03/sudanese-refugees-el-fasher-rsf-tawila-un" target="_blank">At least 36,000 Sudanese have fled since fall of El Fasher to RSF, says UN agency</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-03 11:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +93,20 @@
                 <span class="time">2025-11-03 09:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/trump-says-days-numbered-for-venezuelas-maduro?traffic_source=rss" target="_blank">Trump says ‘days numbered’ for Venezuela’s Maduro</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 07:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf6/live/524e5450-b88d-11f0-aa13-0b0479f6f42a.jpg" alt="Trump says he doubts US will go to war with Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c709rwxzx9yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he doubts US will go to war with Venezuela</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-03 07:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/682e3843c1db3fd9eacdf22f/master/pass/The-Best-Toiletry-Bags.jpg" alt="15 Best Travel Toiletry Bags, Tested Over Many Miles (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-toiletry-bags/" target="_blank">15 Best Travel Toiletry Bags, Tested Over Many Miles (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-03 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +150,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-live-tv-streaming-services/" target="_blank">5 Best Live TV Streaming Services (2025), Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/811595/microsoft-zune-version-history" target="_blank">Why the Zune never killed the iPod</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-02 14:30</span>
             </div>
         </div>
 </div>
@@ -316,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
