@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 06:02:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-03 07:01:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/sudan-slams-rsf-war-crimes-in-el-fasher-as-survivors-recount-mass-killings?traffic_source=rss" target="_blank">Sudan slams RSF ‘war crimes’ in el-Fasher as survivors recount killings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 05:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nationalguard_1762145275617_hpMain_4x3t_384.jpg" alt="Judge extends block on National Guard deployment into Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,30 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-afghan-red-crescent_7070258.jpg?20251103054332" alt="At least 20 dead in Afghanistan earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-seven-dead-and-150-injured-after-magnitude-63-earthquake-in-north-afghanistan-13463004" target="_blank">At least 20 dead in Afghanistan earthquake</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-03 02:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/russia-ukraine-war-list-of-key-events-day-1348?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,348</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-03 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594899/israel-hostages-gaza-ceasefire" target="_blank">Israel says it received remains of 3 hostages from Gaza as fragile ceasefire holds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-03 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/powerful-magnitude-6-3-quake-hits-north-afghanistans-hindu-kush-region?traffic_source=rss" target="_blank">Powerful magnitude 6.3 quake hits north Afghanistan’s Hindu Kush region</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-02 22:09</span>
             </div>
         </div>
 </div>
@@ -174,6 +177,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/java-news-roundup-oct27-2025/en/headerimage/java-istock-image-01-1762096161096.jpg" alt="Java News Roundup: OpenJDK JEPs for JDK 26, Spring RCs, Quarkus, JReleaser, Seed4J, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/java-news-roundup-oct27-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs for JDK 26, Spring RCs, Quarkus, JReleaser, Seed4J, Gradle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-03 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-534h" target="_blank">Change your old methods for writing a JavaScript Code - Shorthand&#x27;s for JavaScript Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 06:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknklxfx2nugi3qja4nhk.webp" alt="Day 33 of 100 days dsa coding challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/" target="_blank">The Great Decoupling of Labor and Capital</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-03 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/" target="_blank">Simple trick to increase coverage: Lying to users about signal strength</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-03 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-twist-behind-alphabets-moonshot-spinouts-and-what-every-innovator-gets-wrong-15l9" target="_blank">The Surprising Twist Behind Alphabet’s Moonshot Spinouts (And What Every Innovator Gets Wrong)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 01:09</span>
             </div>
         </div>
 </div>
@@ -310,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
