@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 18:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-03 19:01:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5594858/tanzanian-opposition-decries-sham-elections-alleges-hundreds-of-deaths" target="_blank">Tanzanian opposition decries &#x27;sham&#x27; elections, alleges hundreds of deaths</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-03 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-251103_1762179104006_hpMain_4x3t_384.jpg" alt="Trump administration will partially fund SNAP, but it could take months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-administration-partially-fund-snap-months/story?id=127138175" target="_blank">Trump administration will partially fund SNAP, but it could take months</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-03 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +98,29 @@
                 <span class="time">2025-11-03 15:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/key-takeaways-from-trumps-60-minutes-interview?traffic_source=rss" target="_blank">Key takeaways from Trump’s 60 Minutes interview</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e7/live/6322eac0-b8a6-11f0-b2a1-6f537f66f9aa.jpg" alt="Israeli military&#x27;s ex-top lawyer arrested over leak of video allegedly showing Palestinian detainee abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss" target="_blank">Israeli military&#x27;s ex-top lawyer arrested over leak of video allegedly showing Palestinian detainee abuse</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-03 15:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale" target="_blank">Google’s TV Streamer (4K) is down to its best price to date ahead of Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-500x500.jpg" alt="Google removes Gemma models from AI Studio after GOP senator’s complaint" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/11/google-removes-gemma-models-from-ai-studio-after-gop-senators-complaint/" target="_blank">Google removes Gemma models from AI Studio after GOP senator’s complaint</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-03 18:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6902580e3915279a80da75b9/master/pass/gear-chatbot-copypaste-2148925760-2200190561.jpg" alt="Your Friend Asked You a Question. Don&#x27;t Copy and Paste an Answer From a Chatbot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +157,6 @@
                 <span class="time">2025-11-03 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690829dd555f7cac77d7c49d/master/pass/Apple%20iPhone%2017%20Pro%20Max%20SOURCE%20Julian%20Chokkattu%20(1).jpg" alt="The Best iPhone Privacy and Security Settings to Change on Your Apple Device (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/iphone-privacy-and-security-settings/" target="_blank">The Best iPhone Privacy and Security Settings to Change on Your Apple Device (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-03 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/" target="_blank">Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-03 14:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +169,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://asteriskmag.com/issues/12-books/is-the-internet-making-culture-worse" target="_blank">Is the Internet Making Culture Worse?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-03 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18726277&w=600" alt="5 Critical Databricks Performance Hacks That Most Engineers Miss (100x Faster Queries)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/databricks-performance-hacks-faster-queries" target="_blank">5 Critical Databricks Performance Hacks That Most Engineers Miss (100x Faster Queries)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-03 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/what-is-agent-observability-key-lessons-learned" target="_blank">What Is Agent Observability? Key Lessons Learned</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-03 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.ycombinator.com/item?id=45800465" target="_blank">Ask HN: Who is hiring? (November 2025)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/sre-questions/en/mediumimage/david-blank-edelman-medium-1761658257450.jpg" alt="Presentation: You Are Asking the Wrong Questions (About Reliability and SRE)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/sre-questions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: You Are Asking the Wrong Questions (About Reliability and SRE)</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-03 15:25</span>
             </div>
         </div>
 </div>
@@ -249,6 +245,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/12/6067777d8d4c3663dae5c5443fbe9502-1280x720.jpg" alt="Cyberpunk Creator Tells Keanu Reeves To ‘Contact’ Him About Bringing His Character Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-keanu-reeves-johnny-silverhand-pondsmith-2000640870" target="_blank">Cyberpunk Creator Tells Keanu Reeves To ‘Contact’ Him About Bringing His Character Back</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 18:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Black-Phone-2-Ice-1280x853.jpg" alt="Halloween Weekend Was One of the Weirdest Ever at the Box Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,6 +272,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K95AKWZNSTEQ22G8721XBZ14/hero-image.png" alt="You May Have a Refund Coming If You Use Amazon Prime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/you-may-have-a-refund-coming-if-you-use-amazon-prime?utm_medium=RSS" target="_blank">You May Have a Refund Coming If You Use Amazon Prime</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-03 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/REDMAGIC-11-Pro-1-1280x853.jpg" alt="Screw Tri-Folds: The Real Innovation Is in Gaming Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/battlefield-6-data-confirms-smallest-maps-franchise-ea-fps-bf1-2000640803" target="_blank">Battlefield 6 Data Reveals How Small Its Maps Are Compared To Past Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-03 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Kraftwerks-Tour-de-France.-photo-Jennifer-Sand.jpg?fit=1080%2C732&amp;quality=60&amp;ssl=1" alt="Want a synth or a bicycle or a drum machine owned by Kraftwerk&#x27;s Florian Schneider? Now&#x27;s your chance!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/03/want-a-synth-or-a-bicycle-or-a-drum-machine-owned-by-kraftwerks-florian-schneider-nows-your-chance.html" target="_blank">Want a synth or a bicycle or a drum machine owned by Kraftwerk&#x27;s Florian Schneider? Now&#x27;s your chance!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-03 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/04/a9fa029527a6577ace70df231fe3087e-1024x683.jpg" alt="Microsoft AI Chief Warns Pursuing Machine Consciousness Is a Gigantic Waste of Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/microsoft-ai-chief-warns-pursuing-machine-consciousness-is-a-gigantic-waste-of-time-2000680719" target="_blank">Microsoft AI Chief Warns Pursuing Machine Consciousness Is a Gigantic Waste of Time</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 15:50</span>
             </div>
         </div>
 </div>
@@ -321,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
