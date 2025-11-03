@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 08:02:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-03 09:02:11 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/trump-says-days-numbered-for-venezuelas-maduro?traffic_source=rss" target="_blank">Trump says ‘days numbered’ for Venezuela’s Maduro</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-03 07:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf6/live/524e5450-b88d-11f0-aa13-0b0479f6f42a.jpg" alt="Trump says he doubts US will go to war with Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c709rwxzx9yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he doubts US will go to war with Venezuela</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-03 07:09</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c797x8v0nvno?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Heroic&#x27; train worker saved many lives in stabbing attack, police say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-03 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/3/sinner-wins-paris-masters-to-reclaim-world-no-1-ranking-from-alcaraz?traffic_source=rss" target="_blank">Sinner wins Paris Masters to reclaim world No 1 ranking from Alcaraz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 04:26</span>
             </div>
         </div>
 </div>
@@ -174,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sambishop/how-penetration-testing-protects-fintech-apps-from-evolving-cyber-threats-4og" target="_blank">How Penetration Testing Protects FinTech Apps from Evolving Cyber Threats</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 08:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/java-news-roundup-oct27-2025/en/headerimage/java-istock-image-01-1762096161096.jpg" alt="Java News Roundup: OpenJDK JEPs for JDK 26, Spring RCs, Quarkus, JReleaser, Seed4J, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd" target="_blank">Using GNU toolchain for Windows kernel-mode drivers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-03 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/" target="_blank">The Great Decoupling of Labor and Capital</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-03 02:48</span>
             </div>
         </div>
 </div>
@@ -297,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/03/will-it-crush" target="_blank">Will It Crush</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-03 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1762056099-20251102.png" alt="Saturday Morning Breakfast Cereal - Consilience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -310,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
