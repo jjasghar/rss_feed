@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 12:02:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-03 13:10:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/unmute/2025/11/3/nyc-public-advocate-arrested-at-anti-ice-protest?traffic_source=rss" target="_blank">NYC public advocate arrested at anti-ICE protest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-03 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762172501080_tdy_news_7a_nobles_shutdown_fallout_251103_1920x1080-5dy9ur.jpg" alt="Trump Administration Faces Deadline to Comply With SNAP Ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/government-shutdown-nears-longest-in-history-as-fallout-grows-251173957948" target="_blank">Trump Administration Faces Deadline to Comply With SNAP Ruling</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-03 12:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e7/live/6322eac0-b8a6-11f0-b2a1-6f537f66f9aa.jpg" alt="Israeli military&#x27;s ex-top lawyer arrested as scandal over video leak deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +97,20 @@
                 <span class="time">2025-11-03 10:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e1/live/4e8731d0-b89b-11f0-b84d-4fb96522f06d.jpg" alt="Man charged with attempted murder over train attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gw96y01g8o?at_medium=RSS&at_campaign=rss" target="_blank">Man charged with attempted murder over train attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-03 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss" target="_blank">Iran ‘not in hurry’ to resume nuclear talks with US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill" target="_blank">How Frankenstein’s creature designer found a new look for an iconic monster</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/682e3843c1db3fd9eacdf22f/master/pass/The-Best-Toiletry-Bags.jpg" alt="15 Best Travel Toiletry Bags, Tested Over Many Miles (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +156,6 @@
                 <span class="time">2025-11-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6906730b48f933e18e63ce9b/master/pass/W1102831.jpg" alt="5 Best Live TV Streaming Services (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-live-tv-streaming-services/" target="_blank">5 Best Live TV Streaming Services (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-02 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +168,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed" target="_blank">Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andryl_/quando-a-arquitetura-fala-mais-alto-que-o-codigo-4nmp" target="_blank">Quando a arquitetura fala mais alto que o código</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18722046&w=600" alt="Human-AI Readiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/human-ai-readiness" target="_blank">Human-AI Readiness</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-03 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -188,27 +210,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/" target="_blank">Tiny electric motor outperforms record holder by 40%</a></span>
+                <span class="title"><a href="https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/" target="_blank">Tiny electric motor can produce more than 1,000 horsepower</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-03 09:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sambishop/how-penetration-testing-protects-fintech-apps-from-evolving-cyber-threats-4og" target="_blank">How Penetration Testing Protects FinTech Apps from Evolving Cyber Threats</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/java-news-roundup-oct27-2025/en/headerimage/java-istock-image-01-1762096161096.jpg" alt="Java News Roundup: OpenJDK JEPs for JDK 26, Spring RCs, Quarkus, JReleaser, Seed4J, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/java-news-roundup-oct27-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs for JDK 26, Spring RCs, Quarkus, JReleaser, Seed4J, Gradle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-03 07:00</span>
             </div>
         </div>
 </div>
@@ -230,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/gmktec-mini-pc-1280x853.jpg" alt="Mini PC (16GB RAM, 512GB SSD) Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mini-pc-16gb-ram-512gb-ssd-hits-new-record-low-on-amazon-now-4x-cheaper-than-mac-mini-2000640650" target="_blank">Mini PC (16GB RAM, 512GB SSD) Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/ChinesePirates.png?fit=1080%2C612&amp;quality=55&amp;ssl=1" alt="China has a troubling export: piracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/03/china-has-a-troubling-export-piracy.html" target="_blank">China has a troubling export: piracy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-03 12:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/godzilla-minus-zero-1280x905.jpg" alt="The ‘Godzilla Minus One’ Sequel Goes Back to Zero" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +288,6 @@
                 <span class="time">2025-11-02 23:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/rat-maze-1280x853.jpg" alt="ChatGPT’s Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444" target="_blank">ChatGPT’s Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-02 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/The-2025-Ultimate-Microsoft-Excel-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop guessing in Excel and learn workflows used by real data pros with this course bundle for $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/02/stop-guessing-in-excel-and-learn-workflows-used-by-real-data-pros-with-this-course-bundle-for-30.html" target="_blank">Stop guessing in Excel and learn workflows used by real data pros with this course bundle for $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-02 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
