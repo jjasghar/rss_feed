@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 05:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-03 06:02:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, November 03, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nationalguard_1762145275617_hpMain_4x3t_384.jpg" alt="Judge extends block on National Guard deployment into Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-extends-block-national-guard-deployment-portland/story?id=127122338" target="_blank">Judge extends block on National Guard deployment into Portland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-03 05:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0fc/live/af0007d0-b873-11f0-b2a1-6f537f66f9aa.jpg" alt="&#x27;Heroic&#x27; train worker saved many lives in stabbing attack, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c797x8v0nvno?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Heroic&#x27; train worker saved many lives in stabbing attack, police say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-03 04:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/2/powerful-magnitude-6-3-quake-hits-north-afghanistans-hindu-kush-region?traffic_source=rss" target="_blank">Powerful magnitude 6.3 quake hits north Afghanistan’s Hindu Kush region</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-02 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Ohio-party-shooting-gty-bh-251102_1762094795859_hpMain_4x3t_384.jpg" alt="9 hurt when shooting erupts at birthday bash inside Ohio Airbnb rental: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/juveniles-9-people-hurt-shooting-airbnb-house-party/story?id=127106939" target="_blank">9 hurt when shooting erupts at birthday bash inside Ohio Airbnb rental: Police</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-02 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/02/nx-s1-5594843/nyc-marathon-2025-kipruto-obiri-kipchoge" target="_blank">Kenyan runners win men&#x27;s and women&#x27;s races in New York City Marathon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-02 21:20</span>
             </div>
         </div>
 </div>
@@ -175,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknklxfx2nugi3qja4nhk.webp" alt="Day 33 of 100 days dsa coding challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manasi_patil_/day-33-of-100-days-dsa-coding-challenge-2aib" target="_blank">Day 33 of 100 days dsa coding challenge</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 05:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feccyfsqudcxhe7oxslnc.png" alt="Using GNU toolchain for Windows kernel-mode drivers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +218,6 @@
                 <span class="time">2025-11-03 01:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shanny2022/writers-room-db-multi-agent-story-generator-powered-by-agentic-postgres-kep" target="_blank">Writer’s Room DB – Multi-Agent Story Generator Powered by Agentic Postgres</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-02 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/orca-hunting-juvenile-great-white-shark-1280x853.jpg" alt="Jaw-Dropping Video Shows Orcas Flipping a Great White Shark to Feast On Its Liver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jaw-dropping-video-shows-orcas-flipping-a-great-white-shark-to-feast-on-its-liver-2000680260" target="_blank">Jaw-Dropping Video Shows Orcas Flipping a Great White Shark to Feast On Its Liver</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-03 05:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/rtx5070-geforce-1280x853.jpg" alt="Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,30 +274,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/The-2025-Ultimate-Microsoft-Excel-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop guessing in Excel and learn workflows used by real data pros with this course bundle for $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/02/stop-guessing-in-excel-and-learn-workflows-used-by-real-data-pros-with-this-course-bundle-for-30.html" target="_blank">Stop guessing in Excel and learn workflows used by real data pros with this course bundle for $30</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-02 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/shaun-the-dead-1280x853.jpg" alt="Don’t Expect a ‘Shaun of the Dead’ Sequel, Says Edgar Wright" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/dont-expect-a-shaun-of-the-dead-sequel-says-edgar-wright-2000680447" target="_blank">Don’t Expect a ‘Shaun of the Dead’ Sequel, Says Edgar Wright</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-02 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/get-out-horror-1280x853.jpg" alt="The Oscars Museum is Getting a New Horror Exhibition in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/oscars-museum-horror-show-exhibit-2026-2000680554" target="_blank">The Oscars Museum is Getting a New Horror Exhibition in 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-02 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/Apple-MacBook-Pro-13-2.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Today&#x27;s the final day to get this MacBook Pro for 78% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/02/todays-the-final-day-to-get-this-macbook-pro-for-78-off.html" target="_blank">Today&#x27;s the final day to get this MacBook Pro for 78% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-02 16:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
