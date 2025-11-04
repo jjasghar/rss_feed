@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 19:01:50 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-04 20:02:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/election-8-gty-gmh-251104_1762276767417_hpMain_4x3t_384.jpg" alt="Election Day live updates: Key races unfold in New York City, New Jersey and Virginia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/election-day-live-updates-key-races-unfold-new/?id=127143118" target="_blank">Election Day live updates: Key races unfold in New York City, New Jersey and Virginia</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-04 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/11/4/how-will-ai-impact-jobs?traffic_source=rss" target="_blank">How will AI impact jobs?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-04 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/04/sudan-civil-war-spiralling-out-of-control-un-secretary-general-says" target="_blank">Sudan civil war spiralling out of control, UN secretary general says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-04 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +100,38 @@
                 <span class="time">2025-11-04 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5597873/why-the-dojs-cases-against-trump-for-election-interference-never-came-to-a-jury" target="_blank">Why the DOJ&#x27;s cases against Trump for election interference never came to a jury</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-04 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/nov/04/teenager-taken-to-ghana-away-from-uk-gang-culture-to-stay-for-now-court-rules" target="_blank">Teenager taken to Ghana away from UK ‘gang culture’ to stay for now, court rules</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-04 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f3/live/ef856930-b977-11f0-aa13-0b0479f6f42a.jpg" alt="Train hero who saved passengers during attack named" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxr4qn6d66o?at_medium=RSS&at_campaign=rss" target="_blank">Train hero who saved passengers during attack named</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-04 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale" target="_blank">Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-04 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/04/sora-is-now-available-on-android-in-the-us-canada-and-other-regions/" target="_blank">Sora is now available on Android in the US, Canada, and other regions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-04 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690a3df4f025e344ecdee038/master/pass/Charlie-Kirk-Arizona-Teacher-Threats-Politics-2236141461.jpg" alt="Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/" target="_blank">Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-04 19:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +159,20 @@
                 <span class="time">2025-11-04 16:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69091e36a8dd028a75d3a6ca/master/pass/GettyImages-2182527193.jpg" alt="It’s Been a Year Since Trump Was Elected. Democrats Still Don’t Get the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/do-democrats-get-the-internet-yet/" target="_blank">It’s Been a Year Since Trump Was Elected. Democrats Still Don’t Get the Internet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-04 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69091e36a8dd028a75d3a6ca/master/pass/GettyImages-2182527193.jpg" alt="It&#x27;s Been a Year Since Trump Was Elected. Democrats Still Don&#x27;t Get the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/do-democrats-get-the-internet-yet/" target="_blank">It&#x27;s Been a Year Since Trump Was Elected. Democrats Still Don&#x27;t Get the Internet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-04 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/" target="_blank">WhatsApp launches long-awaited Apple Watch app</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-04 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/azure-hbv5-amd-epyc-9v64h" target="_blank">Benchmarking The AMD EPYC 9V64H: Azure HBv5&#x27;s Custom AMD CPU With HBM3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-04 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18726832&w=600" alt="Federated API Management: Deploying APIs From WSO2 to AWS API Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/tech-jobs-market-2025-part-3" target="_blank">Tech jobs market 2025, part 3: job seekers’ stories</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-11-04 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725928&w=600" alt="Series (4/4): Toward a Shared Language Between Humans and Machines — Humans as Co-Creators: Ethics, Strategy, and the Future of a Shared Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/future-of-human-ai-cocreation-ethics-strategy" target="_blank">Series (4/4): Toward a Shared Language Between Humans and Machines — Humans as Co-Creators: Ethics, Strategy, and the Future of a Shared Language</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-04 17:00</span>
             </div>
         </div>
 </div>
@@ -298,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/04/help-us-help-sick-kids" target="_blank">Help Us Help Sick Kids!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-04 17:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1762221757-20251104.png" alt="Saturday Morning Breakfast Cereal - Sacrifice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -320,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
