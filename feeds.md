@@ -1,30 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 15:01:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-04 16:02:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f3/live/ef856930-b977-11f0-aa13-0b0479f6f42a.jpg" alt="Train hero who saved passengers during attack named" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxr4qn6d66o?at_medium=RSS&at_campaign=rss" target="_blank">Train hero who saved passengers during attack named</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-04 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1342/live/3d5f77d0-b97e-11f0-9cb8-9fe1414ae1ca.jpg" alt="Former US Vice-President Dick Cheney dies aged 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyzm1j6l76o?at_medium=RSS&at_campaign=rss" target="_blank">Former US Vice-President Dick Cheney dies aged 84</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-04 13:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/04/g-s1-96433/up-first-briefing-former-vp-dick-cheney-dies-election-day-races" target="_blank">Former Vice President Dick Cheney dies. And, Election Day races to watch</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-04 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251104-dick-cheney-mb-1125-59c7e7.jpg" alt="Former Vice President Dick Cheney dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/former-president-dick-cheney-dies-84-rcna241784" target="_blank">Former Vice President Dick Cheney dies at 84</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-04 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0fb/live/b76eebc0-b8fa-11f0-bdde-755c869dcf51.jpg" alt="Polls open in NYC mayoral race - here are five things to watch in US elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0qp5yjd253o?at_medium=RSS&at_campaign=rss" target="_blank">Polls open in NYC mayoral race - here are five things to watch in US elections</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-04 11:12</span>
             </div>
         </div>
 </div>
@@ -159,6 +157,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Adaptive-Sharpness-6.19" target="_blank">Linux 6.19 Will Finally Support Intel&#x27;s Adaptive Sharpness Filter &quot;CASF&quot; With Lunar Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-04 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gzac/cheapest-cpanel-web-hosts-i-tried-24p1" target="_blank">Cheapest cPanel web hosts I tried in 2025 that don&#x27;t suck</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725803&w=600" alt="From Noise to Outcome-Driven Observability: An SLO-First Strategy to Deliver Business Value Through Telemetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/slo-first-outcome-driven-observability" target="_blank">From Noise to Outcome-Driven Observability: An SLO-First Strategy to Deliver Business Value Through Telemetry</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725923&w=600" alt="Advanced Patterns in Salesforce LWC: Reusable Components and Performance Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -168,48 +193,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://terra.layoutit.com" target="_blank">Show HN: A CSS-Only Terrain Generator</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-04 13:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhx480bg40tr8rwrutn6c.png" alt="Decoding Kiroween" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/brian_mk/decoding-kiroween-4nm" target="_blank">Decoding Kiroween</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-04 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-5-RDSEED-CachyOS" target="_blank">AMD&#x27;s Zen 5 RDSEED Issue Is Causing Headaches For Optimized CachyOS Builds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-04 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0" target="_blank">Automating API Calls Without Losing Control</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725914&w=600" alt="Top Takeaways From Devoxx Belgium 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/top-takeaways-from-devoxx-belgium-2025" target="_blank">Top Takeaways From Devoxx Belgium 2025</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/henry_lin_3ac6363747f45b4/lesson-19-freqtrade-visualization-analysis-tools-1aej" target="_blank">Lesson 19: Freqtrade Visualization Analysis Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 11:45</span>
             </div>
         </div>
 </div>
@@ -231,6 +229,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K97QH9FH0P7NVEEYAJXX6XMK/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Google TV Streamer 4K" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-the-google-tv-streamer-4k?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Google TV Streamer 4K</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-04 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/NintendoSwitch2_HyruleWarriosAgeofImprisonment_scrn12-1280x720.jpg" alt="Hyrule Warriors: Age of Imprisonment Reviews Call The Next Switch 2 Exclusive A Mixed Bag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/zelda-switch-2-hyrule-warriors-age-imprisonment-reviews-metacritic-2000641055" target="_blank">Hyrule Warriors: Age of Imprisonment Reviews Call The Next Switch 2 Exclusive A Mixed Bag</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-04 15:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/blairwitch2topart-1280x853.jpg" alt="‘Book of Shadows: Blair Witch 2’ Is a Fascinating Failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +283,6 @@
                 <span class="time">2025-11-04 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/totoro-statue-1280x853.jpg" alt="A Trade Group That Includes Studio Ghibli Just Slapped OpenAI with… a Letter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-trade-group-that-includes-studio-ghibli-just-slapped-openai-with-a-letter-2000681040" target="_blank">A Trade Group That Includes Studio Ghibli Just Slapped OpenAI with… a Letter</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 05:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/shein-distro-center-1-1280x853.jpg" alt="‘These Horrible Objects Are Illegal’: French Authorities Discover Alleged Child Sex Dolls on Shein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-horrible-objects-are-illegal-french-authorities-discover-alleged-child-sex-dolls-on-shein-2000681038" target="_blank">‘These Horrible Objects Are Illegal’: French Authorities Discover Alleged Child Sex Dolls on Shein</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 03:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
