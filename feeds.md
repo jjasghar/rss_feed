@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 05:02:07 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-04 06:02:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 05:02 UTC</div>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,21 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a3e/live/c5ee8490-b8e5-11f0-b2a1-6f537f66f9aa.jpg" alt="Budget will be &#x27;fair&#x27; says Reeves as tax rises expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8g6kdgzelo?at_medium=RSS&at_campaign=rss" target="_blank">Budget will be &#x27;fair&#x27; says Reeves as tax rises expected</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762213177829_nn_nobles_shutdown_251103_1920x1080-1msbrm.jpg" alt="Trump administration says it will partially fund SNAP benefits amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-administration-says-it-will-partially-fund-snap-benefits-amid-shutdown-251235909686" target="_blank">Trump administration says it will partially fund SNAP benefits amid shutdown</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-03 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251103-snap-benefits-lr-913932.jpg" alt="Panic and misinformation swirl as SNAP recipients brace for slashed benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/snap-partial-benefits-november-rcna241605" target="_blank">Panic and misinformation swirl as SNAP recipients brace for slashed benefits</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-03 23:06</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/author_shivani_9c765c8db9/how-an-api-monetization-platform-boosts-developer-revenue-4nho" target="_blank">How an API Monetization Platform Boosts Developer Revenue</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-32p4" target="_blank">Mr Sunday Movies: Predator 2 - Caravan of Garbage</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-04 04:00</span>
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://lcamtuf.substack.com/p/things-you-can-do-with-diodes" target="_blank">Things you can do with diodes</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-03 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drcarlosruizviquez/recent-research-on-aml-in-mexico-leveraging-ai-for-enhanced-3log" target="_blank">Recent Research on AML in Mexico: Leveraging AI for Enhanced</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-03 23:48</span>
             </div>
         </div>
 </div>
@@ -330,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
