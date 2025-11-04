@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 18:02:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-04 19:01:50 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/04/nx-s1-5597970/apha-maha-american-public-health-association" target="_blank">With MAHA on the rise, traditional public health regroups</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-04 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/11/4/arrest-of-abu-lulu-does-little-to-distance-rsf-from-sudan-massacre?traffic_source=rss" target="_blank">Arrest of ‘Abu Lulu’ does little to distance RSF from Sudan massacre</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-04 18:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/sean-duffy-mo_1762275025307_hpMain_4x3t_384.jpg" alt="&#x27;Mass chaos&#x27;: Duffy says he might have to close some airspace next week amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +101,29 @@
                 <span class="time">2025-11-04 14:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe22/live/a539bf60-b99b-11f0-b2a1-6f537f66f9aa.jpg" alt="Dick Cheney&#x27;s death a loss to the nation, says George W Bush" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyzm1j6l76o?at_medium=RSS&at_campaign=rss" target="_blank">Dick Cheney&#x27;s death a loss to the nation, says George W Bush</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-04 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1342/live/3d5f77d0-b97e-11f0-9cb8-9fe1414ae1ca.jpg" alt="Former US Vice-President Dick Cheney dies aged 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyzm1j6l76o?at_medium=RSS&at_campaign=rss" target="_blank">Former US Vice-President Dick Cheney dies aged 84</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-04 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/813533/openai-sora-android-launch" target="_blank">OpenAI launches its Sora app on Android</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-04 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1654488784-500x500.jpg" alt="Some stinkbugs’ legs carry a mobile fungal garden" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/some-stinkbugs-legs-carry-a-mobile-fungal-garden/" target="_blank">Some stinkbugs’ legs carry a mobile fungal garden</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-04 17:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +160,29 @@
                 <span class="time">2025-11-04 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68858a3e05de5294fdb858b1/master/pass/The%20Best%20Smart%20Rings%20to%20Rule%20Them%20All.png" alt="The Best Smart Rings, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-rings/" target="_blank">The Best Smart Rings, Tested and Reviewed (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-04 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/812803/hacking-kinect-history" target="_blank">How a bunch of hackers freed the Kinect from the Xbox</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18726832&w=600" alt="Federated API Management: Deploying APIs From WSO2 to AWS API Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/federated-api-management-deploying-apis-from-wso2" target="_blank">Federated API Management: Deploying APIs From WSO2 to AWS API Gateway</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aleksandr_pliev_d30a01b0d/the-hidden-challenges-startups-face-with-cloud-infrastructure-from-a-devops-engineers-perspective-2ek8" target="_blank">The Hidden Challenges Startups Face with Cloud Infrastructure (From a DevOps Engineer’s Perspective)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 18:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725931&w=600" alt="This Compiler Bottleneck Took 16 Hours Off Our Training Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,39 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!MLhU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3817ac5-4c6f-4d14-9f5f-6cf5ff785d36_1600x1050.png" alt="Tech jobs market 2025, part 3: job seekers’ stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/tech-jobs-market-2025-part-3" target="_blank">Tech jobs market 2025, part 3: job seekers’ stories</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-11-04 17:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725928&w=600" alt="Series (4/4): Toward a Shared Language Between Humans and Machines — Humans as Co-Creators: Ethics, Strategy, and the Future of a Shared Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/future-of-human-ai-cocreation-ethics-strategy" target="_blank">Series (4/4): Toward a Shared Language Between Humans and Machines — Humans as Co-Creators: Ethics, Strategy, and the Future of a Shared Language</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Snowflake-Labs/pg_lake" target="_blank">Pg_lake: Postgres with Iceberg and data lake access</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-04 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Adaptive-Sharpness-6.19" target="_blank">Linux 6.19 Will Finally Support Intel&#x27;s Adaptive Sharpness Filter &quot;CASF&quot; With Lunar Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-04 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gzac/cheapest-cpanel-web-hosts-i-tried-24p1" target="_blank">Cheapest cPanel web hosts I tried in 2025 that don&#x27;t suck</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 15:45</span>
             </div>
         </div>
 </div>
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
