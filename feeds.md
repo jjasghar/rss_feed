@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 10:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-04 11:01:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/4/us-eyes-troop-flexibility-increased-defence-spending-in-south-korea?traffic_source=rss" target="_blank">US eyes troop ‘flexibility’, increased defence spending in South Korea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-04 10:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/cuomo-mamdani-rt-gmh-251103_1762196794962_hpMain_4x3t_384.jpg" alt="National spotlight shines on NYC mayoral race as voters make final decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/national-spotlight-shines-nyc-mayoral-race-voters-make/story?id=127075101" target="_blank">National spotlight shines on NYC mayoral race as voters make final decisions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-04 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/04/g-s1-96372/snap-benefits-november-government-shutdown" target="_blank">When SNAP benefits will arrive is still in flux. Here&#x27;s what communities are doing to fill the gap</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-04 10:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf48/live/e063b550-b8ce-11f0-aa13-0b0479f6f42a.jpg" alt="Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,33 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/04/g-s1-96413/israel-scandal-top-military-lawyer-thrown-into-jail" target="_blank">Israel rocked by scandal as top military lawyer is thrown into jail</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-04 06:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/4/nick-smith-jr-lakers-stun-blazers-without-injured-james-doncic-and-reaves?traffic_source=rss" target="_blank">Nick Smith Jr, Lakers stun Blazers without injured James, Doncic and Reaves</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-04 06:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/4/leave-everything-out-there-mamdani-tells-supporters-on-nyc-election-eve?traffic_source=rss" target="_blank">‘Making history’: Mamdani to voters on election eve as Trump backs Cuomo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-04 03:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/4/avalanche-hits-nepals-mount-yalung-ri-killing-seven-climbers?traffic_source=rss" target="_blank">Avalanche hits Nepal’s Mount Yalung Ri, killing seven climbers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-04 02:55</span>
             </div>
         </div>
 </div>
@@ -169,6 +169,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SUSE-Raspberry-Pi-5-U-Boot" target="_blank">SUSE Provides U-Boot Support For The Raspberry Pi 5</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-04 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozr66ef66rvoyl5ocore.jpg" alt="Things to Avoid in Nainital—Common Tourist Mistakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nainitallakeview/things-to-avoid-in-nainital-common-tourist-mistakes-gdk" target="_blank">Things to Avoid in Nainital—Common Tourist Mistakes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/media-server-software/" target="_blank">What is a Media Server Software? Why You Should Care About it?</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-04 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/" target="_blank">To write secure code, be less gullible than your AI</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -191,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/author_shivani_9c765c8db9/how-an-api-monetization-platform-boosts-developer-revenue-4nho" target="_blank">How an API Monetization Platform Boosts Developer Revenue</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-04 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-32p4" target="_blank">Mr Sunday Movies: Predator 2 - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqziquv7tblc97ugjcysw.png" alt="Install MinGW-w64 on Windows 11 (2025 November)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prastha/install-mingw-w64-on-windows-11-2025-november-acg" target="_blank">Install MinGW-w64 on Windows 11 (2025 November)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 03:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-DP-2.1-ALPM" target="_blank">Intel Preparing Linux Graphics Driver For Xe3P DisplayPort 2.1 ALPM Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-04 01:30</span>
             </div>
         </div>
 </div>
@@ -321,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
