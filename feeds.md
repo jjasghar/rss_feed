@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 11:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-04 12:02:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251104-dick-cheney-mb-1125-59c7e7.jpg" alt="Former Vice President Dick Cheney dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/former-president-dick-cheney-dies-84-rcna241784" target="_blank">Former Vice President Dick Cheney dies at 84</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-04 11:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,29 @@
                 <span class="time">2025-11-04 07:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/04/g-s1-96413/israel-scandal-top-military-lawyer-thrown-into-jail" target="_blank">Israel rocked by scandal as top military lawyer is thrown into jail</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-04 06:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/684baa39e0d143bc348e43f4/master/pass/The%20Best%20Packing%20Cubes%20for%20Every%20Kind%20of%20Trip_.png" alt="Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-packing-cubes/" target="_blank">Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-04 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/25C0285_011-500x500.jpg" alt="Dune driving with Mercedes-Benz as it tests off-road systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/11/dune-driving-with-mercedes-benz-as-it-tests-off-road-systems/" target="_blank">Dune driving with Mercedes-Benz as it tests off-road systems</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-04 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="20% Off Chewy Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +157,29 @@
                 <span class="time">2025-11-04 00:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/" target="_blank">Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-03 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23393163/best-smart-door-lock" target="_blank">I tested 30 smart locks, and these are the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-03 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/henry_lin_3ac6363747f45b4/lesson-19-freqtrade-visualization-analysis-tools-1aej" target="_blank">Lesson 19: Freqtrade Visualization Analysis Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wild-0.7-Released" target="_blank">Wild 0.7 Released For This Very Fast Linker Written In Rust</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-04 11:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/" target="_blank">To write secure code, be less gullible than your AI</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-04 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2lnssne5to50x9bpwjne.png" alt="Common LLM Mistakes in Project Management and How to Fix Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sahil_aggarwal/common-llm-mistakes-in-project-management-and-how-to-fix-them-2d67" target="_blank">Common LLM Mistakes in Project Management and How to Fix Them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 06:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/author_shivani_9c765c8db9/how-an-api-monetization-platform-boosts-developer-revenue-4nho" target="_blank">How an API Monetization Platform Boosts Developer Revenue</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 05:48</span>
             </div>
         </div>
 </div>
@@ -321,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
