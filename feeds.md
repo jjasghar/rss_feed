@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 01:29:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-04 02:29:40 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lcamtuf.substack.com/p/things-you-can-do-with-diodes" target="_blank">Things you can do with diodes</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-03 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/drcarlosruizviquez/recent-research-on-aml-in-mexico-leveraging-ai-for-enhanced-3log" target="_blank">Recent Research on AML in Mexico: Leveraging AI for Enhanced</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +219,6 @@
                 <span class="time">2025-11-03 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725774&w=600" alt="Building a Resilient Observability Stack in 2025: Practical Steps to Reduce Tool Sprawl With OpenTelemetry, Unified Platforms, and AI-Ready Monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-a-resilient-observability-stack" target="_blank">Building a Resilient Observability Stack in 2025: Practical Steps to Reduce Tool Sprawl With OpenTelemetry, Unified Platforms, and AI-Ready Monitoring</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-03 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,12 +239,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/acemagic-11-pro-1280x853.jpg" alt="Budget-Friendly Mac Mini Alternative, This Windows 11 Pro Mini PC Selling for Peanuts at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/budget-friendly-mac-mini-alternative-this-windows-11-pro-mini-pc-selling-for-peanuts-at-amazon-2000640954" target="_blank">Budget-Friendly Mac Mini Alternative, This Windows 11 Pro Mini PC Selling for Peanuts at Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-04 01:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/hp-17-laptop-ryzen-1280x853.jpg" alt="HP 17-Inch Laptop with Ryzen 5 Nearly Free (71% Off), Amazon Clearing Stock for Early Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/hp-17-inch-laptop-with-ryzen-5-nearly-free-71-off-amazon-clearing-stock-for-early-black-friday-2000640936" target="_blank">HP 17-Inch Laptop with Ryzen 5 Nearly Free (71% Off), Amazon Clearing Stock for Early Black Friday</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-04 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/GettyImages-2195497483-1280x853.jpg" alt="Meta Says Porn Stash was for ‘Personal Use,’ Not Training AI Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meta-says-porn-stash-was-for-personal-use-not-training-ai-models-2000679672" target="_blank">Meta Says Porn Stash was for ‘Personal Use,’ Not Training AI Models</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-04 01:00</span>
             </div>
         </div>
 <div class="story">
@@ -272,24 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-wars-force-awakens-daniel-craig-cameo-rian-johnson-2000680948" target="_blank">Rian Johnson Guessed Daniel Craig’s ‘Star Wars’ Cameo Before Anyone Else Could</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-03 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8R6S6E0PGDS0WMGH5S0PT78/hero-image.jpg" alt="All the New Features You Can Try Now in macOS 26.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/all-the-new-features-coming-to-macos-261?utm_medium=RSS" target="_blank">All the New Features You Can Try Now in macOS 26.1</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-03 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/100-NIGHTS-OF-HERO-Still-6-2-1280x853.jpg" alt="We Wish This ‘100 Nights of Hero’ Trailer Was Even More Fantastical" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/100-nights-of-hero-trailer-emma-corrin-maika-monroe-nicholas-galitzine-2000680930" target="_blank">We Wish This ‘100 Nights of Hero’ Trailer Was Even More Fantastical</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 21:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
