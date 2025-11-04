@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-03 23:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-04 00:04:38 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, November 03, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +124,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/haven_demo_array-500x500.jpg" alt="A commercial space station startup now has a foothold in space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/" target="_blank">A commercial space station startup now has a foothold in space</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-03 22:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2182712179-500x500-1762197913.jpg" alt="Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -140,20 +159,38 @@
                 <span class="time">2025-11-03 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6902580e3915279a80da75b9/master/pass/gear-chatbot-copypaste-2148925760-2200190561.jpg" alt="Your Friend Asked You a Question. Don&#x27;t Copy and Paste an Answer From a Chatbot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dont-copy-and-paste-answers-from-a-chatbot/" target="_blank">Your Friend Asked You a Question. Don&#x27;t Copy and Paste an Answer From a Chatbot</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-03 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drcarlosruizviquez/recent-research-on-aml-in-mexico-leveraging-ai-for-enhanced-3log" target="_blank">Recent Research on AML in Mexico: Leveraging AI for Enhanced</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-03 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-October-2025" target="_blank">Rust-Based Redox OS Gets Servo Web Engine Running - Sort Of</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-03 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition" target="_blank">Guideline has been acquired by Gusto</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-03 22:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725909&w=600" alt="Detecting Supply Chain Attacks in NPM, PyPI, and Docker: Real-World Techniques That Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,33 +218,6 @@
                 <span class="time">2025-11-03 18:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18726277&w=600" alt="5 Critical Databricks Performance Hacks That Most Engineers Miss (100x Faster Queries)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/databricks-performance-hacks-faster-queries" target="_blank">5 Critical Databricks Performance Hacks That Most Engineers Miss (100x Faster Queries)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Git-2.52-rc0-Released" target="_blank">Git 2.52-rc0 Starts Working On SHA1-SHA256 Interop, Hints For New Default Branch Name</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-03 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131/466" target="_blank">PEP 810: Explicit lazy imports</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-03 17:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/11-ipad-deal-1280x853.jpg" alt="Apple Has Dropped Its 11-inch iPad a New Record Low, Practically Giving It Away ⚡️" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-has-dropped-its-11-inch-ipad-a-new-record-low-practically-giving-it-away-2000640860" target="_blank">Apple Has Dropped Its 11-inch iPad a New Record Low, Practically Giving It Away ⚡️</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-03 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K95NZ7HE0S1SSG394FESJH4Z/hero-image.png" alt="The Anker Soundcore Sport X20 Earbuds Are on Sale for $56 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-sport-x20-earbud-deal?utm_medium=RSS" target="_blank">The Anker Soundcore Sport X20 Earbuds Are on Sale for $56 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-03 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/star-wars-the-force-awakens-daniel-craig-stormtrooper-cameo-1280x853.jpg" alt="Rian Johnson Guessed Daniel Craig’s ‘Star Wars’ Cameo Before Anyone Else Could" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,30 +283,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1028314522-scaled.jpg?fit=2560%2C1706&amp;quality=60&amp;ssl=1" alt="Mississippi mom shoots escaped research monkey in her backyard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/trump-poo.jpg?fit=1200%2C818&amp;quality=60&amp;ssl=1" alt="Trump claims anti-Trump content should be outlawed after Meyers segment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/03/mississippi-mom-shoots-escaped-research-monkey-in-her-backyard.html" target="_blank">Mississippi mom shoots escaped research monkey in her backyard</a></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/03/trump-claims-anti-trump-content-should-be-outlawed-after-meyers-segment.html" target="_blank">Trump claims anti-Trump content should be outlawed after Meyers segment</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-03 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K95MGA975JV84C4Z1A293A4H/hero-image.jpg" alt="I Test Smartwatches and Fitness Trackers, and These Are the Prices You Should Look Out for on Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-deals-on-smartwatches-and-fitness-trackers-to-watch-for-on-black-friday?utm_medium=RSS" target="_blank">I Test Smartwatches and Fitness Trackers, and These Are the Prices You Should Look Out for on Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-03 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Pillars-of-Eternity-1280x720.jpg" alt="Turn-Based Combat Is Finally Coming To This 10-Year-Old RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pillars-eternity-3-turn-based-mode-update-avowed-crpg-2000640875" target="_blank">Turn-Based Combat Is Finally Coming To This 10-Year-Old RPG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-03 20:14</span>
+                <span class="time">2025-11-03 20:49</span>
             </div>
         </div>
 </div>
@@ -318,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
