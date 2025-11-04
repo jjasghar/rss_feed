@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 02:29:40 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-04 03:19:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 03:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +54,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/4/avalanche-hits-nepals-mount-yalung-ri-killing-seven-climbers?traffic_source=rss" target="_blank">Avalanche hits Nepal’s Mount Yalung Ri, killing seven climbers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-04 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5595985/los-angeles-dodgers-world-series-parade" target="_blank">Los Angeles celebrates the Dodgers&#x27; back-to-back World Series championship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-04 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/03/nx-s1-5596478/dilbert-trump-cancer-drug-rfk-jr" target="_blank">Dilbert creator taps Trump to get cancer drug. Others wish they could, too</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-04 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762213177829_nn_nobles_shutdown_251103_1920x1080-1msbrm.jpg" alt="Trump administration says it will partially fund SNAP benefits amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-administration-says-it-will-partially-fund-snap-benefits-amid-shutdown-251235909686" target="_blank">Trump administration says it will partially fund SNAP benefits amid shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-03 23:39</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +105,20 @@
                 <span class="time">2025-11-03 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/food-bank-gty-jef-251103_1762197645312_hpMain_4x3t_384.jpg" alt="Delays, smaller payments: How SNAP funding will work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/delays-smaller-payments-snap-funding-work/story?id=127129130" target="_blank">Delays, smaller payments: How SNAP funding will work</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-03 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/3/turkiye-hamas-will-transfer-gazas-governance-to-committee-of-palestinians?traffic_source=rss" target="_blank">Turkiye: Hamas will transfer Gaza’s governance to committee of Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/trump-administration-to-partially-fund-snap-food-benefits-amid-us-shutdown?traffic_source=rss" target="_blank">Trump administration to partially fund SNAP food benefits amid US shutdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-03 19:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/" target="_blank">a16z pauses its famed TxO Fund for underserved founders, lays off staff</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-04 00:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +164,29 @@
                 <span class="time">2025-11-03 19:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale" target="_blank">Google’s TV Streamer (4K) is down to its best price to date ahead of Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-03 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqziquv7tblc97ugjcysw.png" alt="Install MinGW-w64 on Windows 11 (2025 November)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prastha/install-mingw-w64-on-windows-11-2025-november-acg" target="_blank">Install MinGW-w64 on Windows 11 (2025 November)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 03:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-DP-2.1-ALPM" target="_blank">Intel Preparing Linux Graphics Driver For Xe3P DisplayPort 2.1 ALPM Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-04 01:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +223,6 @@
                 <span class="time">2025-11-03 22:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.wreflection.com/p/ai-dial-up-era" target="_blank">AI&#x27;s Dial-Up Era</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-03 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725909&w=600" alt="Detecting Supply Chain Attacks in NPM, PyPI, and Docker: Real-World Techniques That Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/detecting-supply-chain-attacks-npm-pypi-docker" target="_blank">Detecting Supply Chain Attacks in NPM, PyPI, and Docker: Real-World Techniques That Work</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-03 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/palantir-building-1280x853.jpg" alt="Palantir CEO Alex Karp Thinks the Haters Are ‘Confounded’ By His Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/palantir-ceo-alex-karp-thinks-the-haters-are-confounded-by-his-success-2000680561" target="_blank">Palantir CEO Alex Karp Thinks the Haters Are ‘Confounded’ By His Success</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-04 02:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/acemagic-11-pro-1280x853.jpg" alt="Budget-Friendly Mac Mini Alternative, This Windows 11 Pro Mini PC Selling for Peanuts at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +296,6 @@
                 <span class="time">2025-11-03 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/star-wars-the-force-awakens-daniel-craig-stormtrooper-cameo-1280x853.jpg" alt="Rian Johnson Guessed Daniel Craig’s ‘Star Wars’ Cameo Before Anyone Else Could" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-force-awakens-daniel-craig-cameo-rian-johnson-2000680948" target="_blank">Rian Johnson Guessed Daniel Craig’s ‘Star Wars’ Cameo Before Anyone Else Could</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-03 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 02:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 03:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
