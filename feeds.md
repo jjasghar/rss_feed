@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 03:19:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-04 04:01:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 03:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 04:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/4/leave-everything-out-there-mamdani-tells-supporters-on-nyc-election-eve?traffic_source=rss" target="_blank">‘Making history’: Mamdani to voters on election eve as Trump backs Cuomo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-04 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/snap-partial-benefits-november-rcna241605" target="_blank">Panic and misinformation swirl as SNAP recipients brace for slashed benefits</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-03 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-thune-1-gty-gmh-251103_1762203886154_hpMain_4x3t_384.jpg" alt="Thune says extended shutdown means Senate needs to shift date on funding government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/thune-extended-shutdown-means-senate-shift-date-funding/story?id=127148137" target="_blank">Thune says extended shutdown means Senate needs to shift date on funding government</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-03 22:40</span>
             </div>
         </div>
 </div>
@@ -170,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-32p4" target="_blank">Mr Sunday Movies: Predator 2 - Caravan of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqziquv7tblc97ugjcysw.png" alt="Install MinGW-w64 on Windows 11 (2025 November)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/Ubuntu-2604-resolute-raccoon-graphic.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS Release Date &amp; Dev Schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/ubuntu-26-04-release-schedule" target="_blank">Ubuntu 26.04 LTS Release Date &amp; Dev Schedule</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-03 23:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -203,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/drcarlosruizviquez/recent-research-on-aml-in-mexico-leveraging-ai-for-enhanced-3log" target="_blank">Recent Research on AML in Mexico: Leveraging AI for Enhanced</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-03 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-October-2025" target="_blank">Rust-Based Redox OS Gets Servo Web Engine Running - Sort Of</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-03 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition" target="_blank">Guideline has been acquired by Gusto</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-03 22:54</span>
             </div>
         </div>
 </div>
@@ -242,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/shein-distro-center-1-1280x853.jpg" alt="‘These Horrible Objects Are Illegal’: French Authorities Discover Alleged Child Sex Dolls on Shein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/these-horrible-objects-are-illegal-french-authorities-discover-alleged-child-sex-dolls-on-shein-2000681038" target="_blank">‘These Horrible Objects Are Illegal’: French Authorities Discover Alleged Child Sex Dolls on Shein</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-04 03:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/palantir-building-1280x853.jpg" alt="Palantir CEO Alex Karp Thinks the Haters Are ‘Confounded’ By His Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +291,6 @@
                 <span class="time">2025-11-03 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K95NZ7HE0S1SSG394FESJH4Z/hero-image.png" alt="The Anker Soundcore Sport X20 Earbuds Are on Sale for $56 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-sport-x20-earbud-deal?utm_medium=RSS" target="_blank">The Anker Soundcore Sport X20 Earbuds Are on Sale for $56 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-03 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,13 +323,22 @@
                 <span class="time">2025-11-03 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/repair_video.png" alt="Repair Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3163/" target="_blank">Repair Video</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-03 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 03:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 04:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
