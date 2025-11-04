@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 16:02:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-04 17:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5597873/why-the-dojs-cases-against-trump-for-election-interference-never-came-to-a-jury" target="_blank">Why the DOJ&#x27;s cases against Trump for election interference never came to a jury</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-04 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f3/live/ef856930-b977-11f0-aa13-0b0479f6f42a.jpg" alt="Train hero who saved passengers during attack named" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +99,29 @@
                 <span class="time">2025-11-04 13:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/04/g-s1-96433/up-first-briefing-former-vp-dick-cheney-dies-election-day-races" target="_blank">Former Vice President Dick Cheney dies. And, Election Day races to watch</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-04 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance" target="_blank">Google Maps can tell Polestar 4 drivers when to merge lanes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-04 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69091e36a8dd028a75d3a6ca/master/pass/GettyImages-2182527193.jpg" alt="It&#x27;s Been a Year Since Trump Was Elected. Democrats Still Don&#x27;t Get the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/do-democrats-get-the-internet-yet/" target="_blank">It&#x27;s Been a Year Since Trump Was Elected. Democrats Still Don&#x27;t Get the Internet</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-04 15:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,29 +158,20 @@
                 <span class="time">2025-11-04 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/25C0285_011-500x500.jpg" alt="Dune driving with Mercedes-Benz as it tests off-road systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/11/dune-driving-with-mercedes-benz-as-it-tests-off-road-systems/" target="_blank">Dune driving with Mercedes-Benz as it tests off-road systems</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="20% Off Chewy Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">20% Off Chewy Promo Codes | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-04 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725928&w=600" alt="Series (4/4): Toward a Shared Language Between Humans and Machines — Humans as Co-Creators: Ethics, Strategy, and the Future of a Shared Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/future-of-human-ai-cocreation-ethics-strategy" target="_blank">Series (4/4): Toward a Shared Language Between Humans and Machines — Humans as Co-Creators: Ethics, Strategy, and the Future of a Shared Language</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-04 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +217,6 @@
                 <span class="time">2025-11-04 13:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhx480bg40tr8rwrutn6c.png" alt="Decoding Kiroween" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brian_mk/decoding-kiroween-4nm" target="_blank">Decoding Kiroween</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/pokemonmain1-1280x720.jpg" alt="Nintendo’s Messy Palworld Fight Takes An Unexpected Turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-patent-summoning-nintendo-palworld-monsters-2000641133" target="_blank">Nintendo’s Messy Palworld Fight Takes An Unexpected Turn</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-04 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K97Q8AT3FSM7K8K69VB186MX/hero-image.png" alt="Your Private Facebook Groups Might Go Public, but Don’t Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/private-facebook-groups-might-go-public?utm_medium=RSS" target="_blank">Your Private Facebook Groups Might Go Public, but Don’t Panic</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K97QH9FH0P7NVEEYAJXX6XMK/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Google TV Streamer 4K" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,29 +290,20 @@
                 <span class="time">2025-11-04 13:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907-1024x576.jpg" alt="Get Ready to Hear a Lot About Robot and AI ‘Swarms’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/get-ready-to-hear-a-lot-about-robot-and-ai-swarms-2000680968" target="_blank">Get Ready to Hear a Lot About Robot and AI ‘Swarms’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/libation-conduit-ancient-rome-1280x853.jpg" alt="Romans in Ancient Olbia Watered Their Dead With Wine and Beer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/romans-in-ancient-olbia-watered-their-dead-with-wine-and-beer-2000680824" target="_blank">Romans in Ancient Olbia Watered Their Dead With Wine and Beer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1762221757-20251104.png" alt="Saturday Morning Breakfast Cereal - Sacrifice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sacrifice-4" target="_blank">Saturday Morning Breakfast Cereal - Sacrifice</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-04 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -297,22 +313,13 @@
                 <span class="time">2025-11-03 21:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762056140-20251103.png" alt="Saturday Morning Breakfast Cereal - Myth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/myth-4" target="_blank">Saturday Morning Breakfast Cereal - Myth</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-03 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
