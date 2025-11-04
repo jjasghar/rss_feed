@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 09:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-04 10:01:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf48/live/e063b550-b8ce-11f0-aa13-0b0479f6f42a.jpg" alt="Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c231e284345o?at_medium=RSS&at_campaign=rss" target="_blank">Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-04 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/4/avalanche-hits-nepals-mount-yalung-ri-killing-seven-climbers?traffic_source=rss" target="_blank">Avalanche hits Nepal’s Mount Yalung Ri, killing seven climbers</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-04 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5595985/los-angeles-dodgers-world-series-parade" target="_blank">Los Angeles celebrates the Dodgers&#x27; back-to-back World Series championship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-04 01:40</span>
             </div>
         </div>
 </div>
@@ -240,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/libation-conduit-ancient-rome-1280x853.jpg" alt="Romans in Ancient Olbia Watered Their Dead With Wine and Beer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/romans-in-ancient-olbia-watered-their-dead-with-wine-and-beer-2000680824" target="_blank">Romans in Ancient Olbia Watered Their Dead With Wine and Beer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-04 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/totoro-statue-1280x853.jpg" alt="A Trade Group That Includes Studio Ghibli Just Slapped OpenAI with… a Letter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,15 +293,6 @@
                 <span class="time">2025-11-04 01:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/GettyImages-2195497483-1280x853.jpg" alt="Meta Says Porn Stash was for ‘Personal Use,’ Not Training AI Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meta-says-porn-stash-was-for-personal-use-not-training-ai-models-2000679672" target="_blank">Meta Says Porn Stash was for ‘Personal Use,’ Not Training AI Models</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
