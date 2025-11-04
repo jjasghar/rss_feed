@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 22:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-04 23:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/4/can-peace-return-to-sudan-after-thousands-killed-in-el-fasher?traffic_source=rss" target="_blank">Can peace return to Sudan after thousands killed in el-Fasher?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-04 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca8f/live/77c37920-b8c6-11f0-b2a1-6f537f66f9aa.png" alt="Crime network behind UK mini-marts is enabling migrants to work illegally, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0mx99ple17o?at_medium=RSS&at_campaign=rss" target="_blank">Crime network behind UK mini-marts is enabling migrants to work illegally, BBC finds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-04 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +98,20 @@
                 <span class="time">2025-11-04 19:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/04/sudan-civil-war-spiralling-out-of-control-un-secretary-general-says" target="_blank">Sudan civil war spiralling out of control, UN secretary general says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-04 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/04/nx-s1-5597970/apha-maha-american-public-health-association" target="_blank">With MAHA on the rise, traditional public health regroups</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-04 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters" target="_blank">Apple Podcasts is generating automatic links and chapters</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-04 22:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +157,20 @@
                 <span class="time">2025-11-04 19:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/813533/openai-sora-android-launch" target="_blank">OpenAI launches its Sora app on Android</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-04 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8" target="_blank">Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 22:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1dpnaws1i88o0034y5a.jpg" alt="ESODSAKE : The Snake That Trolls Me with AI and Burns My Ego" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +216,6 @@
                 <span class="time">2025-11-04 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725931&w=600" alt="This Compiler Bottleneck Took 16 Hours Off Our Training Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/compiler-bottleneck-ml-training-optimization" target="_blank">This Compiler Bottleneck Took 16 Hours Off Our Training Time</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-04 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/lego-ideas-in-development-sets-2025-godzilla-et-x-files-power-rangers-1280x853.jpg" alt="Ever Lego ‘Ideas’ Project That Is Currently in the Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/every-lego-ideas-project-in-development-2025-2000681461" target="_blank">Ever Lego ‘Ideas’ Project That Is Currently in the Works</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-04 22:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/border-patrol-in-chicago-oct.-14-2025-1280x853.jpg" alt="U.S. Immigration Enforcement Apparently Provides Facial Scanning Tech to Local Cops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="time">2025-11-04 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K97RFB58HK072GZ82GAW5VHJ/hero-image.jpg" alt="I Tested the Four Biggest AI Browsers, and Here&#x27;s What I Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/i-compared-the-biggest-ai-browsers?utm_medium=RSS" target="_blank">I Tested the Four Biggest AI Browsers, and Here&#x27;s What I Found</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-04 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
