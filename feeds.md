@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 00:04:38 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-04 01:29:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/03/nx-s1-5596478/dilbert-trump-cancer-drug-rfk-jr" target="_blank">Dilbert creator taps Trump to get cancer drug. Others wish they could, too</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-04 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251103-snap-benefits-lr-913932.jpg" alt="Panic and misinformation swirl as SNAP recipients brace for slashed benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/snap-partial-benefits-november-rcna241605" target="_blank">Panic and misinformation swirl as SNAP recipients brace for slashed benefits</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-03 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-thune-1-gty-gmh-251103_1762203886154_hpMain_4x3t_384.jpg" alt="Thune says extended shutdown means Senate needs to shift date on funding government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/thune-extended-shutdown-means-senate-shift-date-funding/story?id=127148137" target="_blank">Thune says extended shutdown means Senate needs to shift date on funding government</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-03 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/food-bank-gty-jef-251103_1762197645312_hpMain_4x3t_384.jpg" alt="Delays, smaller payments: How SNAP funding will work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/3/trump-administration-to-partially-fund-snap-food-benefits-amid-us-shutdown?traffic_source=rss" target="_blank">Trump administration to partially fund SNAP food benefits amid US shutdown</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-03 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762196715779_now_daily_b_snap_grocery_aid_251103_1920x1080-7icx0e.jpg" alt="Neighbors helping each other as SNAP benefits dry up for families in need" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/neighbors-helping-each-other-as-snap-benefits-dry-up-for-families-in-need-251214405976" target="_blank">Neighbors helping each other as SNAP benefits dry up for families in need</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-03 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/03/nx-s1-5594858/tanzanian-opposition-decries-sham-elections-alleges-hundreds-of-deaths" target="_blank">Tanzanian opposition decries &#x27;sham&#x27; elections, alleges hundreds of deaths</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-03 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-251103_1762179104006_hpMain_4x3t_384.jpg" alt="Trump administration will partially fund SNAP, but it could take months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-administration-partially-fund-snap-months/story?id=127138175" target="_blank">Trump administration will partially fund SNAP, but it could take months</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-03 18:41</span>
             </div>
         </div>
 </div>
@@ -142,21 +143,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6902552b4e7c8c237645e4a1/master/pass/What-CZ-and-Binance-Can-Do-Next-Business-2210817298.jpg" alt="Trump’s CZ Pardon Has the Crypto World Bracing for Impact" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trumps-cz-pardon-has-the-crypto-world-bracing-for-impact/" target="_blank">Trump’s CZ Pardon Has the Crypto World Bracing for Impact</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-03 19:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale" target="_blank">Google’s TV Streamer (4K) is down to its best price to date ahead of Black Friday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-03 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-500x500.jpg" alt="Google removes Gemma models from AI Studio after GOP senator’s complaint" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/11/google-removes-gemma-models-from-ai-studio-after-gop-senators-complaint/" target="_blank">Google removes Gemma models from AI Studio after GOP senator’s complaint</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-03 18:28</span>
             </div>
         </div>
 </div>
@@ -192,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.wreflection.com/p/ai-dial-up-era" target="_blank">AI&#x27;s Dial-Up Era</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-03 21:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725909&w=600" alt="Detecting Supply Chain Attacks in NPM, PyPI, and Docker: Real-World Techniques That Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/building-a-resilient-observability-stack" target="_blank">Building a Resilient Observability Stack in 2025: Practical Steps to Reduce Tool Sprawl With OpenTelemetry, Unified Platforms, and AI-Ready Monitoring</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-03 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://asteriskmag.com/issues/12-books/is-the-internet-making-culture-worse" target="_blank">Is the Internet Making Culture Worse?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-03 18:33</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/hp-17-laptop-ryzen-1280x853.jpg" alt="HP 17-Inch Laptop with Ryzen 5 Nearly Free (71% Off), Amazon Clearing Stock for Early Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-17-inch-laptop-with-ryzen-5-nearly-free-71-off-amazon-clearing-stock-for-early-black-friday-2000640936" target="_blank">HP 17-Inch Laptop with Ryzen 5 Nearly Free (71% Off), Amazon Clearing Stock for Early Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-04 01:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/11-ipad-deal-1280x853.jpg" alt="Apple Has Dropped Its 11-inch iPad a New Record Low, Practically Giving It Away ⚡️" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="time">2025-11-03 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/trump-poo.jpg?fit=1200%2C818&amp;quality=60&amp;ssl=1" alt="Trump claims anti-Trump content should be outlawed after Meyers segment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/03/trump-claims-anti-trump-content-should-be-outlawed-after-meyers-segment.html" target="_blank">Trump claims anti-Trump content should be outlawed after Meyers segment</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-03 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
