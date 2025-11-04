@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 12:02:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-04 13:12:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/04/g-s1-96433/up-first-briefing-former-vp-dick-cheney-dies-election-day-races" target="_blank">Former Vice President Dick Cheney dies. And, Election Day races to watch</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-04 12:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251104-dick-cheney-mb-1125-59c7e7.jpg" alt="Former Vice President Dick Cheney dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,21 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf48/live/e063b550-b8ce-11f0-aa13-0b0479f6f42a.jpg" alt="Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c231e284345o?at_medium=RSS&at_campaign=rss" target="_blank">Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-04 09:30</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/4/mamdani-promises-to-stand-up-to-bullies-after-trump-funding-threat?traffic_source=rss" target="_blank">Mamdani promises to stand up to ‘bullies’ after Trump funding threat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-04 07:13</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/04/sudan-rsf-militia-uae-united-arab-emirates" target="_blank">As criticism grows, is UAE ready to walk away from Sudan’s RSF militia?</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-04 09:37</span>
             </div>
         </div>
 </div>
@@ -103,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/812803/hacking-kinect-history" target="_blank">How a bunch of hackers freed the Kinect from the Xbox</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/684baa39e0d143bc348e43f4/master/pass/The%20Best%20Packing%20Cubes%20for%20Every%20Kind%20of%20Trip_.png" alt="Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +155,20 @@
                 <span class="time">2025-11-04 02:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/" target="_blank">a16z pauses its famed TxO Fund for underserved founders, lays off staff</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-04 00:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0" target="_blank">Automating API Calls Without Losing Control</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 13:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,34 +214,29 @@
                 <span class="time">2025-11-04 10:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/" target="_blank">To write secure code, be less gullible than your AI</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-04 08:40</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-summarization-optimization.html" target="_blank">AI Summarization Optimization</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-03 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/anker-travel-power-bank-1280x853.jpg" alt="Amazon Clears Out This 20,000mAh 87W 3-Port Power Bank, Now Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-clears-out-this-20000mah-87w-3-port-power-bank-now-selling-for-pennies-2000641031" target="_blank">Amazon Clears Out This 20,000mAh 87W 3-Port Power Bank, Now Selling for Pennies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-04 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907-1024x576.jpg" alt="Get Ready to Hear a Lot About Robot and AI ‘Swarms’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/get-ready-to-hear-a-lot-about-robot-and-ai-swarms-2000680968" target="_blank">Get Ready to Hear a Lot About Robot and AI ‘Swarms’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-04 12:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/libation-conduit-ancient-rome-1280x853.jpg" alt="Romans in Ancient Olbia Watered Their Dead With Wine and Beer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +273,6 @@
                 <span class="time">2025-11-04 02:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/acemagic-11-pro-1280x853.jpg" alt="Budget-Friendly Mac Mini Alternative, This Windows 11 Pro Mini PC Selling for Peanuts at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/budget-friendly-mac-mini-alternative-this-windows-11-pro-mini-pc-selling-for-peanuts-at-amazon-2000640954" target="_blank">Budget-Friendly Mac Mini Alternative, This Windows 11 Pro Mini PC Selling for Peanuts at Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-04 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/hp-17-laptop-ryzen-1280x853.jpg" alt="HP 17-Inch Laptop with Ryzen 5 Nearly Free (71% Off), Amazon Clearing Stock for Early Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-17-inch-laptop-with-ryzen-5-nearly-free-71-off-amazon-clearing-stock-for-early-black-friday-2000640936" target="_blank">HP 17-Inch Laptop with Ryzen 5 Nearly Free (71% Off), Amazon Clearing Stock for Early Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-04 01:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
