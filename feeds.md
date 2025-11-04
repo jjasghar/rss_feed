@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 13:12:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-04 14:01:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 13:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/4/is-europe-really-breaking-free-from-china-or-just-following-the-us?traffic_source=rss" target="_blank">Is Europe really breaking free from China, or just following the US?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-04 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a54/live/9fd71fb0-b985-11f0-b2a1-6f537f66f9aa.jpg" alt="Reeves refuses to rule out tax rises in Budget as she says she will make &#x27;necessary choices&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8g6kdgzelo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves refuses to rule out tax rises in Budget as she says she will make &#x27;necessary choices&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-04 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/cheney_1762255921337_hpMain_4x3t_384.jpg" alt="Former Vice President Dick Cheney dead at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/former-vice-president-dick-cheney-dead-84/story?id=11021827" target="_blank">Former Vice President Dick Cheney dead at 84</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-04 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,39 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0fb/live/b76eebc0-b8fa-11f0-bdde-755c869dcf51.jpg" alt="Polls open in NYC mayoral race - here are five things to watch in US elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/4/us-eyes-troop-flexibility-increased-defence-spending-in-south-korea?traffic_source=rss" target="_blank">US eyes troop ‘flexibility’, increased defence spending in South Korea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-04 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/cuomo-mamdani-rt-gmh-251103_1762196794962_hpMain_4x3t_384.jpg" alt="National spotlight shines on NYC mayoral race as voters make final decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/national-spotlight-shines-nyc-mayoral-race-voters-make/story?id=127075101" target="_blank">National spotlight shines on NYC mayoral race as voters make final decisions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-04 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/04/g-s1-96372/snap-benefits-november-government-shutdown" target="_blank">When SNAP benefits will arrive is still in flux. Here&#x27;s what communities are doing to fill the gap</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-04 10:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/04/sudan-rsf-militia-uae-united-arab-emirates" target="_blank">As criticism grows, is UAE ready to walk away from Sudan’s RSF militia?</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-04 09:37</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0qp5yjd253o?at_medium=RSS&at_campaign=rss" target="_blank">Polls open in NYC mayoral race - here are five things to watch in US elections</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-04 11:12</span>
             </div>
         </div>
 </div>
@@ -101,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68858a3e05de5294fdb858b1/master/pass/The%20Best%20Smart%20Rings%20to%20Rule%20Them%20All.png" alt="The Best Smart Rings, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smart-rings/" target="_blank">The Best Smart Rings, Tested and Reviewed (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-04 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2025-11-04 04:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-500x500-1750706554.jpeg" alt="Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/" target="_blank">Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-04 02:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhx480bg40tr8rwrutn6c.png" alt="Decoding Kiroween" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brian_mk/decoding-kiroween-4nm" target="_blank">Decoding Kiroween</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-04 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-5-RDSEED-CachyOS" target="_blank">AMD&#x27;s Zen 5 RDSEED Issue Is Causing Headaches For Optimized CachyOS Builds</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-04 13:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +185,15 @@
                 <span class="title"><a href="https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0" target="_blank">Automating API Calls Without Losing Control</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-04 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725914&w=600" alt="Top Takeaways From Devoxx Belgium 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/top-takeaways-from-devoxx-belgium-2025" target="_blank">Top Takeaways From Devoxx Belgium 2025</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-04 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,31 +214,18 @@
                 <span class="time">2025-11-04 11:18</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SUSE-Raspberry-Pi-5-U-Boot" target="_blank">SUSE Provides U-Boot Support For The Raspberry Pi 5</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-04 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozr66ef66rvoyl5ocore.jpg" alt="Things to Avoid in Nainital—Common Tourist Mistakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nainitallakeview/things-to-avoid-in-nainital-common-tourist-mistakes-gdk" target="_blank">Things to Avoid in Nainital—Common Tourist Mistakes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/media-server-software/" target="_blank">What is a Media Server Software? Why You Should Care About it?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-04 10:48</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html" target="_blank">Cybercriminals Targeting Payroll Sites</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-04 12:05</span>
             </div>
         </div>
 </div>
@@ -301,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
