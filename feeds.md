@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 20:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-04 21:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5598290/teen-vogue-layoffs" target="_blank">&#x27;Teen Vogue&#x27; is moving under Vogue.com — and staffers are being laid off</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-04 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/election-8-gty-gmh-251104_1762276767417_hpMain_4x3t_384.jpg" alt="Election Day live updates: Key races unfold in New York City, New Jersey and Virginia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +97,20 @@
                 <span class="time">2025-11-04 18:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/sean-duffy-mo_1762275025307_hpMain_4x3t_384.jpg" alt="&#x27;Mass chaos&#x27;: Duffy says he might have to close some airspace next week amid shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/department-transportation-forced-shut-airspace-week-duffy/story?id=127178219" target="_blank">&#x27;Mass chaos&#x27;: Duffy says he might have to close some airspace next week amid shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-04 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/" target="_blank">Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-04 20:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +156,20 @@
                 <span class="time">2025-11-04 17:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance" target="_blank">Google Maps can tell Polestar 4 drivers when to merge lanes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-04 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18729316&w=600" alt="Modular Monoliths Explained: Structure, Strategy, and Scalability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/modular-monolith-architecture-overview" target="_blank">Modular Monoliths Explained: Structure, Strategy, and Scalability</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-04 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +215,6 @@
                 <span class="time">2025-11-04 17:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!MLhU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3817ac5-4c6f-4d14-9f5f-6cf5ff785d36_1600x1050.png" alt="Tech jobs market 2025, part 3: job seekers’ stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/tech-jobs-market-2025-part-3" target="_blank">Tech jobs market 2025, part 3: job seekers’ stories</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-11-04 17:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/MAIN-1-1280x720.jpg" alt="14 Essential Tips For Getting Started In Arc Raiders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174" target="_blank">14 Essential Tips For Getting Started In Arc Raiders</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-04 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K985SPFA4R8DJXBM60X8MH8A/hero-image.png" alt="Android Users Can Now Make Sora AI Slop Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sora-is-now-available-on-android?utm_medium=RSS" target="_blank">Android Users Can Now Make Sora AI Slop Too</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-04 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/latest-15-1280x720.jpg" alt="A Final Fantasy Actor Is 2025’s ‘Sexiest Man Alive’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/04/rockem-sockem-robots-fails-to-work-irl.html" target="_blank">Rock&#x27;em Sock&#x27;em Robots fails to work IRL</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-04 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K97Q8AT3FSM7K8K69VB186MX/hero-image.png" alt="Your Private Facebook Groups Might Go Public, but Don’t Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/private-facebook-groups-might-go-public?utm_medium=RSS" target="_blank">Your Private Facebook Groups Might Go Public, but Don’t Panic</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K97QH9FH0P7NVEEYAJXX6XMK/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Google TV Streamer 4K" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-the-google-tv-streamer-4k?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Google TV Streamer 4K</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-04 15:30</span>
             </div>
         </div>
 </div>
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
