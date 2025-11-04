@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 14:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-04 15:01:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, November 04, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/" target="_blank">WhatsApp launches long-awaited Apple Watch app</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68858a3e05de5294fdb858b1/master/pass/The%20Best%20Smart%20Rings%20to%20Rule%20Them%20All.png" alt="The Best Smart Rings, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,20 +153,20 @@
                 <span class="time">2025-11-04 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/" target="_blank">Wait, people actually use Facebook Dating?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-04 04:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18725923&w=600" alt="Advanced Patterns in Salesforce LWC: Reusable Components and Performance Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/salesforce-lwc-reusable-components-performance-optimization" target="_blank">Advanced Patterns in Salesforce LWC: Reusable Components and Performance Optimization</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-04 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhx480bg40tr8rwrutn6c.png" alt="Decoding Kiroween" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +212,6 @@
                 <span class="time">2025-11-04 11:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wild-0.7-Released" target="_blank">Wild 0.7 Released For This Very Fast Linker Written In Rust</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-04 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/blairwitch2topart-1280x853.jpg" alt="‘Book of Shadows: Blair Witch 2’ Is a Fascinating Failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/blair-witch-2-review-2000680632" target="_blank">‘Book of Shadows: Blair Witch 2’ Is a Fascinating Failure</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/anker-travel-power-bank-1280x853.jpg" alt="Amazon Clears Out This 20,000mAh 87W 3-Port Power Bank, Now Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +285,6 @@
                 <span class="time">2025-11-04 03:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/palantir-building-1280x853.jpg" alt="Palantir CEO Alex Karp Thinks the Haters Are ‘Confounded’ By His Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/palantir-ceo-alex-karp-thinks-the-haters-are-confounded-by-his-success-2000680561" target="_blank">Palantir CEO Alex Karp Thinks the Haters Are ‘Confounded’ By His Success</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 02:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
