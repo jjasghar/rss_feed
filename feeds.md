@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 19:01:35 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-05 20:02:20 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/05/g-s1-96608/famine-sudan-gaza" target="_blank">A declaration of famine is rare. It&#x27;s now happened twice in 2025, this time in Sudan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-05 19:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ed/live/679d1330-ba51-11f0-aac3-4f1fdbb3aa71.jpg" alt="Man drove at stabbings suspect after train attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0jdvzdww35o?at_medium=RSS&at_campaign=rss" target="_blank">Man drove at stabbings suspect after train attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-05 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/GMA/spanberger-mamdani-sherrill-ap-rt-jef-251105_1762351073881_hpMain_4x3t_384.jpg" alt="Election 2025: Winners make history across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -75,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18a2/live/ec73ee70-af3a-11f0-a743-017a38be2260.jpg" alt="Southport killer &#x27;may have wanted to hurt society&#x27;, his brother says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly91mryzlko?at_medium=RSS&at_campaign=rss" target="_blank">Southport killer &#x27;may have wanted to hurt society&#x27;, his brother says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/05/nx-s1-5599185/2025-election-results-georgia-pennsylvania-democrats-win" target="_blank">Democrats&#x27; 2025 election wins go beyond big races to places like Georgia, Pennsylvania</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/5/live-mamdani-victory-stuns-us-politics-as-democrats-score-big-wins?traffic_source=rss" target="_blank">LIVE: Mamdani victory stuns US politics as Democrats score big wins</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-05 14:30</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/05/libyan-general-accused-of-crimes-against-humanity-arrested-in-tripoli" target="_blank">Libyan general accused of crimes against humanity arrested in Tripoli</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-05 17:02</span>
             </div>
         </div>
 </div>
@@ -106,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/814551/8bitdos-latest-wireless-controllers-can-now-shake-to-wake-the-switch-2" target="_blank">8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-05 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690b9f2393120774bebe626f/master/pass/The%20Pixel%2010%20Family%20Is%20Marked%20Down%20on%20Amazon.png" alt="The Pixel 10 Family Is Marked Down on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pixel-10-deal-1125/" target="_blank">The Pixel 10 Family Is Marked Down on Amazon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-05 19:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,29 @@
                 <span class="time">2025-11-05 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690a4d002399c395eb29810d/master/pass/Mamdani-Surveillance-State-Security.jpg" alt="Zohran Mamdani Just Inherited the NYPD Surveillance State" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/" target="_blank">Zohran Mamdani Just Inherited the NYPD Surveillance State</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-05 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/" target="_blank">Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-05 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697658&w=600" alt="Build a LangGraph Multi-Agent system in 20 Minutes with LaunchDarkly AI Configs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/build-a-langgraph-multi-agent-system-in-20-minutes" target="_blank">Build a LangGraph Multi-Agent system in 20 Minutes with LaunchDarkly AI Configs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-05 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/quokka-mascot-dark.jpg?resize=406%2C232&amp;ssl=1" alt="How to Enable Ubuntu amd64v3 Packages on Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/how-to-enable-amd64v3-packages-ubuntu-25-10" target="_blank">How to Enable Ubuntu amd64v3 Packages on Ubuntu 25.10</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-05 18:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +219,6 @@
                 <span class="time">2025-11-05 16:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/from-swift-to-mojo-and-high-performance" target="_blank">From Swift to Mojo and high-performance AI Engineering with Chris Lattner</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-11-05 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0yy56873bzfmoqh3n4wl.png" alt="AI That Shows Its Work: The Transparent Revolution of PALs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia" target="_blank">AI That Shows Its Work: The Transparent Revolution of PALs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/xAI-Companion-elon-musk-1920x1280-1-1280x853.jpg" alt="xAI Employees Were Reportedly Compelled to Give Biometric Data to Train Anime Girlfriend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/xai-employees-biometric-data-ani-ai-girlfriend-2000681998" target="_blank">xAI Employees Were Reportedly Compelled to Give Biometric Data to Train Anime Girlfriend</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-05 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_06_07_19-1.jpg" alt="KPop Demon Hunters 2 Is Happening, Aiming For 2029" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-2-sequel-netflix-release-date-2029-2000641414" target="_blank">KPop Demon Hunters 2 Is Happening, Aiming For 2029</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-05 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Toht-Hanger-exclusive-1280x853.jpg" alt="The Story Behind the Funniest ‘Indiana Jones’ Prop Replica You’ve Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +292,6 @@
                 <span class="time">2025-11-05 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/One-Piece-Luffy-Portgas-D.-Ace-Anime-Crunchyroll-1280x960.jpg" alt="‘One Piece’ Season 3 Just Added a Huge Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/netflix-one-piece-season-3-xolo-mariduena-portgas-d-ace-2000681867" target="_blank">‘One Piece’ Season 3 Just Added a Huge Character</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K98D8B6Y3JN9V36199ZRZF6T/hero-image.jpg" alt="I Used Fitbit’s AI for a Week, and I’ve Never Had a Worse Fitness Coach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/i-used-fitbits-ai-for-a-week-and-ive-never-had-a-worse-coach?utm_medium=RSS" target="_blank">I Used Fitbit’s AI for a Week, and I’ve Never Had a Worse Fitness Coach</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
