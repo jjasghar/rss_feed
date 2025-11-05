@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 12:02:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-05 13:11:01 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/690ad5eb2c9968400191b4f8/master/pass/Razer%20Blade%2014%20review_.png" alt="Razer Blade 14 Review: Still the Best Gaming Laptop for Its Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/razer-blade-14-2025/" target="_blank">Razer Blade 14 Review: Still the Best Gaming Laptop for Its Size</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-05 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6902e3a37b2b894c34639014/master/pass/Review-%20Meze%20Audio%20105%20Silva%20Headphones.png" alt="Meze Audio 105 Silva Headphones Review: Look Great, Sound Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,15 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/" target="_blank">Goldman Sachs doubles down on MoEngage in new round to fuel global expansion</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-05 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/" target="_blank">NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-05 03:30</span>
             </div>
         </div>
 </div>
@@ -221,9 +222,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html" target="_blank">Cybercriminals Targeting Payroll Sites</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/scientists-need-a-positive-vision-for-ai.html" target="_blank">Scientists Need a Positive Vision for AI</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-04 12:05</span>
+                <span class="time">2025-11-05 12:04</span>
             </div>
         </div>
 </div>
@@ -231,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Holmes-1280x853.jpg" alt="The 6 Worst Health Scandals of the Past 25 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-6-worst-health-scandals-of-the-past-25-years-2000681417" target="_blank">The 6 Worst Health Scandals of the Past 25 Years</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2437319333.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Dems thrash GOP in Virginia and New Jersey" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +286,6 @@
                 <span class="time">2025-11-05 02:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/kim-kardashain-vanity-fair-1280x853.jpg" alt="Kim Kardashian Blames ChatGPT for Failing Law Exams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kim-kardashian-blames-chatgpt-for-failing-law-exams-2000681672" target="_blank">Kim Kardashian Blames ChatGPT for Failing Law Exams</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 23:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
