@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 15:02:01 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-05 16:01:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +107,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/813723/fortnite-disneyland-game-rush-launch-metaverse" target="_blank">Disney and Fortnite show hints of budding metaverse with new Disneyland game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-05 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/05/motion-picture-association-hits-meta-with-cease-and-desist-over-use-of-pg-13-label/" target="_blank">Motion Picture Association hits Meta with cease-and-desist over use of ‘PG-13’ label</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-05 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2211638677-500x500.jpg" alt="Tesla’s European and Chinese customers are staying away in droves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/11/after-a-great-q3-tesla-sees-double-digit-declines-all-over-europe/" target="_blank">Tesla’s European and Chinese customers are staying away in droves</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-05 15:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/influencer-500x500.jpg" alt="Why being too attractive can hurt fitness influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -135,38 +160,20 @@
                 <span class="time">2025-11-05 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690ad5eb2c9968400191b4f8/master/pass/Razer%20Blade%2014%20review_.png" alt="Razer Blade 14 Review: Still the Best Gaming Laptop for Its Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/razer-blade-14-2025/" target="_blank">Razer Blade 14 Review: Still the Best Gaming Laptop for Its Size</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-05 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6902e3a37b2b894c34639014/master/pass/Review-%20Meze%20Audio%20105%20Silva%20Headphones.png" alt="Meze Audio 105 Silva Headphones Review: Look Great, Sound Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/meze-audio-105-silva-headphones/" target="_blank">Meze Audio 105 Silva Headphones Review: Look Great, Sound Better</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-05 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/814035/donald-trump-jared-isaacman-nasa-nomination" target="_blank">Trump re-nominates billionaire Jared Isaacman to lead NASA</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0yy56873bzfmoqh3n4wl.png" alt="AI That Shows Its Work: The Transparent Revolution of PALs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia" target="_blank">AI That Shows Its Work: The Transparent Revolution of PALs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 15:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,39 +193,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-619-DRM-Misc-Mali-Vivante" target="_blank">Linux 6.19 To Support Additional Arm Mali &amp; Vivante Graphics Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-05 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gods.art/articles/equation_shadows.html" target="_blank">The Shadows Lurking in the Equations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-05 14:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727541&w=600" alt="Monolith vs Microservices vs Modulith" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/monolith-vs-modulith-vs-microservices" target="_blank">Monolith vs Microservices vs Modulith</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-05 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eabait/how-ai-coding-agents-are-reshaping-developer-workflows-3249" target="_blank">How AI Coding Agents Are Reshaping Developer Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727211&w=600" alt="The Tech Landscape of 2026: What Developers Need to Learn Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/tech-landscape-2026-what-developers-need-to-know" target="_blank">The Tech Landscape of 2026: What Developers Need to Learn Now</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/microservices-mocking-observability/en/mediumimage/tom-akehurst-medium-1761731237098.jpg" alt="Presentation: Scaling API Independence: Mocking, Contract Testing &amp; Observability in Large Microservices Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/microservices-mocking-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Scaling API Independence: Mocking, Contract Testing &amp; Observability in Large Microservices Environments</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-05 12:15</span>
             </div>
         </div>
 </div>
@@ -246,6 +244,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/netflix-one-piece-season-3-xolo-mariduena-portgas-d-ace-2000681867" target="_blank">‘One Piece’ Season 3 Just Added a Huge Character</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K98D8B6Y3JN9V36199ZRZF6T/hero-image.jpg" alt="I Used Fitbit’s AI for a Week, and I’ve Never Had a Worse Fitness Coach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/i-used-fitbits-ai-for-a-week-and-ive-never-had-a-worse-coach?utm_medium=RSS" target="_blank">I Used Fitbit’s AI for a Week, and I’ve Never Had a Worse Fitness Coach</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-05 15:00</span>
             </div>
         </div>
@@ -282,15 +289,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/scott-bakula-star-trek-enterprise-return-2000681782" target="_blank">Scott Bakula Still Has Hope for Captain Archer’s ‘Star Trek’ Return</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H2CT5M100XYJCKZS1MSS5/hero-image.jpg" alt="Use the &#x27;Agile Results&#x27; System to Meet Short- and Long-Term Goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-the-agile-results-system-to-meet-short-and-long-term-goals?utm_medium=RSS" target="_blank">Use the &#x27;Agile Results&#x27; System to Meet Short- and Long-Term Goals</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-05 13:00</span>
             </div>
         </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
