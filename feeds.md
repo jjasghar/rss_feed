@@ -1,44 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 21:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-05 22:01:30 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 35 feeds processed -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/mamdani-gty-er-251105_1762361905212_hpMain_4x3t_384.jpg" alt="How the economy flipped from a red to blue issue, according to exit polls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/economy-flipped-red-blue-issue-exit-polls/story?id=127213518" target="_blank">How the economy flipped from a red to blue issue, according to exit polls</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-05 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/5/can-china-and-russia-weather-challenges-posed-by-the-west?traffic_source=rss" target="_blank">Can China and Russia weather challenges posed by the West?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-05 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,24 +106,6 @@
                 <span class="time">2025-11-05 18:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/05/nx-s1-5599118/white-house-asl-deaf-american-sign-language-judge-order" target="_blank">Judge orders White House to use American Sign Language interpreters at briefings</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 18:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ed/live/679d1330-ba51-11f0-aac3-4f1fdbb3aa71.jpg" alt="Man drove at stabbings suspect after train attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0jdvzdww35o?at_medium=RSS&at_campaign=rss" target="_blank">Man drove at stabbings suspect after train attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-05 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,10 +114,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/" target="_blank">Cluely’s Roy Lee hints that viral hype is not enough</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-05 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale" target="_blank">Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-05 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690928b72b2e4892c20c307e/master/pass/Model-Behavior-AI-Infrastructure-Spending-Business.jpg" alt="The AI Data Center Boom Is Warping the US Economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/" target="_blank">The AI Data Center Boom Is Warping the US Economy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-05 20:45</span>
             </div>
         </div>
 <div class="story">
@@ -149,29 +165,20 @@
                 <span class="time">2025-11-05 19:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/" target="_blank">Pinterest CEO touts open source AI: ‘tremendous performance’ with reduced costs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/814454/amazon-whole-foods-fulfillment-concept-store" target="_blank">Amazon&amp;#8217;s grocery store dreams are reshaping Whole Foods</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tessamero/from-student-to-developer-how-open-source-can-launch-your-career-d2n" target="_blank">From student to developer - How open source can launch your career</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 21:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,30 +207,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/quokka-mascot-dark.jpg?resize=406%2C232&amp;ssl=1" alt="How to Enable amd64v3 Packages on Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/how-to-enable-amd64v3-packages-ubuntu-25-10" target="_blank">How to Enable amd64v3 Packages on Ubuntu 25.10</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-05 18:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/quokka-mascot-dark.jpg?resize=406%2C232&amp;ssl=1" alt="How to Enable Ubuntu amd64v3 Packages on Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/how-to-enable-amd64v3-packages-ubuntu-25-10" target="_blank">How to Enable Ubuntu amd64v3 Packages on Ubuntu 25.10</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-11-05 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-latency-optimized-mode" target="_blank">Intel Xeon 6 Performance Feature Benchmarks: Latency Optimized Mode</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-05 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/a-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/" target="_blank">GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts)</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-05 17:00</span>
             </div>
         </div>
 </div>
@@ -245,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Sonic-Rumble-100-1280x720.jpg" alt="Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427" target="_blank">Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-05 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Nest-Cam-Outdoor-three-quarter-1280x853.jpg" alt="Google Nest Cam Outdoor (2025) Review: Gemini Just Lied Too Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-nest-cam-outdoor-wired-second-gen-review-gemini-just-lied-too-much-2000670298" target="_blank">Google Nest Cam Outdoor (2025) Review: Gemini Just Lied Too Much</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-05 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K9APS12EEE1VBVNS558SRR03/hero-image.png" alt="NotebookLM Can Now Turn Your Notes Into a Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +297,20 @@
                 <span class="time">2025-11-05 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9AFTR6DNZ5GZAQB2CW6FZED/hero-image.jpg" alt="How We Lost ‘Gym Culture’ (and How You Can Reclaim It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/bring-back-gym-culture?utm_medium=RSS" target="_blank">How We Lost ‘Gym Culture’ (and How You Can Reclaim It)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/V-for-Vendetta-1280x853.jpg" alt="Remember, Remember, ‘V for Vendetta’ Is Back in Theaters Next November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/v-for-vendetta-20th-anniversary-re-release-bonfire-night-2000681984" target="_blank">Remember, Remember, ‘V for Vendetta’ Is Back in Theaters Next November</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-05 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/05/shadow-facts" target="_blank">Shadow Facts</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-05 20:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -336,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
