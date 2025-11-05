@@ -1,37 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 20:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-05 21:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +58,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/05/g-s1-96661/rubio-hegseth-venezuela-congress" target="_blank">Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol Hill</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-05 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/05/g-s1-96608/famine-sudan-gaza" target="_blank">A declaration of famine is rare. It&#x27;s now happened twice in 2025, this time in Sudan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-05 19:46</span>
@@ -63,6 +79,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/5/bosnia-retirement-home-fire-kills-11-injures-dozens?traffic_source=rss" target="_blank">Bosnia retirement home fire kills 11, injures dozens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-05 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5809/live/cfbc2f20-ba72-11f0-8d4d-f92e4ea22994.png" alt="Inside Gaza, BBC sees total devastation after two years of war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0rp4lrdv8ko?at_medium=RSS&at_campaign=rss" target="_blank">Inside Gaza, BBC sees total devastation after two years of war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-05 18:24</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +108,29 @@
                 <span class="time">2025-11-05 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/spanberger-mamdani-sherrill-ap-rt-jef-251105_1762351073881_hpMain_4x3t_384.jpg" alt="Election 2025: Winners make history across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/GMA/News/election-2025-winners-make-history-1st-female-governor/story?id=127212571" target="_blank">Election 2025: Winners make history across the country</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-05 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/05/libyan-general-accused-of-crimes-against-humanity-arrested-in-tripoli" target="_blank">Libyan general accused of crimes against humanity arrested in Tripoli</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-05 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale" target="_blank">Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-05 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/" target="_blank">Apple nears deal to pay Google $1B annually to power new Siri, report says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-05 20:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +167,29 @@
                 <span class="time">2025-11-05 18:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690924ebf2d05e36d6d31f3c/master/pass/GettyImages-2244331412.jpg" alt="Zohran Mamdani’s Campaign Figured Out How to Channel Fandom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/zohran-mamdani-campaign-fandom/" target="_blank">Zohran Mamdani’s Campaign Figured Out How to Channel Fandom</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-05 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/814111/unfair-flips-speedrunning" target="_blank">The hottest trend in speedrunning is flipping a coin</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5" target="_blank">React Tip: Pass a Function to useState, Don’t Call It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://climatedrift.substack.com/p/why-solarpunk-is-already-happening" target="_blank">Solarpunk is already happening in Africa</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-05 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697658&w=600" alt="Build a LangGraph Multi-Agent system in 20 Minutes with LaunchDarkly AI Configs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +226,6 @@
                 <span class="time">2025-11-05 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp" target="_blank">How AI Browsers Are the New Hotness and What This Means for Us</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TUXEDO-Elite-14-Linux-v2" target="_blank">Linux Patches Updated For Snapdragon X Elite Powered TUXEDO Elite 14 Gen1 Laptop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-05 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9APS12EEE1VBVNS558SRR03/hero-image.png" alt="NotebookLM Can Now Turn Your Notes Into a Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/notebooklm-can-now-generate-videos?utm_medium=RSS" target="_blank">NotebookLM Can Now Turn Your Notes Into a Video</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-05 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/xAI-Companion-elon-musk-1920x1280-1-1280x853.jpg" alt="xAI Employees Were Reportedly Compelled to Give Biometric Data to Train Anime Girlfriend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +299,6 @@
                 <span class="time">2025-11-05 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/MacPilot-Lifetime-License.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Hack your Mac &amp; unearth thousands of features for $28" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/05/hack-your-mac-unearth-thousands-of-features-for-28.html" target="_blank">Hack your Mac &amp; unearth thousands of features for $28</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-05 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,6 +311,15 @@
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/smile/" target="_blank">Smile</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
                 <span class="time">2025-11-05 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1762309096-20251105.png" alt="Saturday Morning Breakfast Cereal - Attention span" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/attention-span" target="_blank">Saturday Morning Breakfast Cereal - Attention span</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-05 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -320,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
