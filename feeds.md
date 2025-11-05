@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 17:02:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-05 18:02:26 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/spanberger-mamdani-sherrill-ap-rt-jef-251105_1762351073881_hpMain_4x3t_384.jpg" alt="Election 2025: Winners make history across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/GMA/News/election-2025-winners-make-history-1st-female-governor/story?id=127212571" target="_blank">Election 2025: Winners make history across the country</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-05 17:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18a2/live/ec73ee70-af3a-11f0-a743-017a38be2260.jpg" alt="Southport killer &#x27;may have wanted to hurt society&#x27;, his brother says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly91mryzlko?at_medium=RSS&at_campaign=rss" target="_blank">Southport killer &#x27;may have wanted to hurt society&#x27;, his brother says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-05 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/05/g-s1-96591/up-first-newsletter-election-day-takeaways-government-shutdown-trump-tariffs-israel-top-military-lawyer" target="_blank">5 takeaways from the 2025 elections. And, the shutdown now the longest in U.S. history</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/05/nx-s1-5596414/hospital-fema-tsunami-earthquake-bric-cascadia-shutdown" target="_blank">FEMA promised funds to tsunami-proof an Oregon hospital. That money is MIA</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251105-sherrill-mamdani-spanberger-ew-1238p-f5b04f.jpg" alt="Key takeaways: Trump looms over every race, while Democrats win on the economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762346031605_tdy_news_7a_kornacki_results_explanation_251105_1920x1080-4f78m8.jpg" alt="Steve Kornacki Breaks Down Election Day 2025 Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/takeaways-2025-elections-trump-looms-every-race-democrats-win-economy-rcna241698" target="_blank">Key takeaways: Trump looms over every race, while Democrats win on the economy</a></span>
+                <span class="title"><a href="https://www.today.com/video/election-day-2025-steve-kornacki-breaks-down-key-results-251379269705" target="_blank">Steve Kornacki Breaks Down Election Day 2025 Results</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-05 10:00</span>
+                <span class="time">2025-11-05 12:33</span>
             </div>
         </div>
 </div>
@@ -104,6 +108,42 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/814111/unfair-flips-speedrunning" target="_blank">The hottest trend in speedrunning is flipping a coin</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-05 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690a4d002399c395eb29810d/master/pass/Mamdani-Surveillance-State-Security.jpg" alt="Zohran Mamdani Just Inherited the NYPD Surveillance State" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/" target="_blank">Zohran Mamdani Just Inherited the NYPD Surveillance State</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-05 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/" target="_blank">Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-05 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2205485838-500x500.jpg" alt="Flock haters cross political divides to remove error-prone cameras" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/flock-haters-cross-political-divides-to-remove-error-prone-cameras/" target="_blank">Flock haters cross political divides to remove error-prone cameras</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-05 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690a852884c6073499b4a91f/master/pass/politics_steve_kornacki_election_day.jpg" alt="Democrats Did Much Better Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,47 +162,29 @@
                 <span class="time">2025-11-05 16:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/813723/fortnite-disneyland-game-rush-launch-metaverse" target="_blank">Disney and Fortnite show hints of budding metaverse with new Disneyland game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/05/motion-picture-association-hits-meta-with-cease-and-desist-over-use-of-pg-13-label/" target="_blank">Motion Picture Association hits Meta with cease-and-desist over use of ‘PG-13’ label</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-05 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2211638677-500x500.jpg" alt="Tesla’s European and Chinese customers are staying away in droves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/11/after-a-great-q3-tesla-sees-double-digit-declines-all-over-europe/" target="_blank">Tesla’s European and Chinese customers are staying away in droves</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-05 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/influencer-500x500.jpg" alt="Why being too attractive can hurt fitness influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/11/why-being-too-attractive-can-hurt-fitness-influencers/" target="_blank">Why being too attractive can hurt fitness influencers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-05 14:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-latency-optimized-mode" target="_blank">Intel Xeon 6 Performance Feature Benchmarks: Latency Optimized Mode</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-05 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/a-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/" target="_blank">GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts)</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-05 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia" target="_blank">AI That Shows Its Work: The Transparent Revolution of PALs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-azure-vm-utils-included" target="_blank">Azure VM utils now included in Ubuntu: boosting cloud workloads</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-05 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/restlessmike/restlesside-enters-public-beta-21ke" target="_blank">RestlessIDE Enters Public Beta</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 14:59</span>
             </div>
         </div>
 </div>
@@ -298,19 +302,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/05/shadow-facts" target="_blank">Shadow Facts</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-05 08:01</span>
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/smile/" target="_blank">Smile</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-11-05 17:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/04/help-us-help-sick-kids" target="_blank">Help Us Help Sick Kids!</a></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/05/shadow-facts" target="_blank">Shadow Facts</a></span>
                 <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-04 17:54</span>
+                <span class="time">2025-11-05 08:01</span>
             </div>
         </div>
 </div>
@@ -318,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
