@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 02:30:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-05 03:20:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 03:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a6/live/c44e08f0-b7fe-11f0-b0a4-7b642c7e1e8a.jpg" alt="Zohran Mamdani projected to win New York City mayoral election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss" target="_blank">Zohran Mamdani projected to win New York City mayoral election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-05 02:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5597788/election-results-zohran-mamdani-new-york-city-mayor" target="_blank">Mamdani wins New York City mayoral race, in a historic victory for progressives</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-05 02:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +104,20 @@
                 <span class="time">2025-11-04 22:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca8f/live/77c37920-b8c6-11f0-b2a1-6f537f66f9aa.png" alt="Crime network behind UK mini-marts is enabling migrants to work illegally, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mx99ple17o?at_medium=RSS&at_campaign=rss" target="_blank">Crime network behind UK mini-marts is enabling migrants to work illegally, BBC finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-04 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/4/hunger-crisis-deepens-in-south-sudan-amid-conflict-floods-monitor-says?traffic_source=rss" target="_blank">Hunger crisis deepens in South Sudan amid conflict, floods, monitor says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-04 21:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/" target="_blank">Trump flips and re-nominates Jared Isaacman to lead NASA</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-05 01:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/02/Jared_Isaacman_at_SpaceX_2-500x500.jpg" alt="In a stunning comeback, Jared Isaacman is renominated to lead NASA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -116,6 +125,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/" target="_blank">In a stunning comeback, Jared Isaacman is renominated to lead NASA</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-05 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we&amp;#8217;ve tested for 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-05 00:18</span>
             </div>
         </div>
 <div class="story">
@@ -143,24 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters" target="_blank">Apple Podcasts is generating automatic links and chapters</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-04 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1" target="_blank">Microsoft AI&amp;#8217;s first in-house image generator MAI-Image-1 is now available</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-04 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/" target="_blank">Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-04 20:36</span>
             </div>
         </div>
 </div>
@@ -242,6 +242,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2647307593.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="Zohran Mamdani elected mayor of New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/04/zohran-mamdani-elected-mayor-of-new-york-city.html" target="_blank">Zohran Mamdani elected mayor of New York City</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-05 02:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/laptop-on-bed-1280x853.jpg" alt="Scientists Uncover Yet Another Reason to Sleep in Total Darkness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-uncover-yet-another-reason-to-sleep-in-total-darkness-2000681512" target="_blank">Scientists Uncover Yet Another Reason to Sleep in Total Darkness</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-05 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/ninebot-segway-1280x853.jpg" alt="Segway Offloads Its Safe Ninebot Electric Scooter, Now Selling for the Price of a Basic Budget Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -277,24 +295,6 @@
                 <span class="time">2025-11-04 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/border-patrol-in-chicago-oct.-14-2025-1280x853.jpg" alt="U.S. Immigration Enforcement Apparently Provides Facial Scanning Tech to Local Cops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/u-s-immigration-enforcement-apparently-provides-facial-scanning-tech-to-local-cops-2000681475" target="_blank">U.S. Immigration Enforcement Apparently Provides Facial Scanning Tech to Local Cops</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/MAIN-1-1280x720.jpg" alt="14 Essential Tips For Getting Started In Arc Raiders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174" target="_blank">14 Essential Tips For Getting Started In Arc Raiders</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-04 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 03:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
