@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 16:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-05 17:02:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/05/nx-s1-5599185/2025-election-results-georgia-pennsylvania-democrats-win" target="_blank">Democrats&#x27; 2025 election wins go beyond big races to places like Georgia, Pennsylvania</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-05 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,29 @@
                 <span class="time">2025-11-05 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/5/un-chief-warns-gaza-stabilisation-force-must-have-international-legitimacy?traffic_source=rss" target="_blank">UN chief warns Gaza stabilisation force must have international legitimacy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-05 09:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690a852884c6073499b4a91f/master/pass/politics_steve_kornacki_election_day.jpg" alt="Democrats Did Much Better Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/democrats-did-way-better-than-expected-yesterday/" target="_blank">Democrats Did Much Better Than Expected</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-05 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/googletpu-500x500.jpg" alt="If you want to satiate AI’s hunger for power, Google suggests going to space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/if-you-want-to-satiate-ais-hunger-for-power-google-suggests-going-to-space/" target="_blank">If you want to satiate AI’s hunger for power, Google suggests going to space</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-05 16:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +158,38 @@
                 <span class="time">2025-11-05 14:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690ad1212c9968400191b4f6/master/pass/The%20Best%20Messenger%20Bag%20for%20Your%20Daily%20Commute.png" alt="The Best Messenger Bag for Modern Professionals’ Commute (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-messenger-bags/" target="_blank">The Best Messenger Bag for Modern Professionals’ Commute (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-05 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/FORMULAE_15-500x500.jpeg" alt="“So much more menacing”: Formula E’s new Gen4 car breaks cover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/11/formula-e-gets-2x-the-power-and-awd-with-new-gen4-car/" target="_blank">“So much more menacing”: Formula E’s new Gen4 car breaks cover</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp" target="_blank">How AI Browsers Are the New Hotness and What This Means for Us</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TUXEDO-Elite-14-Linux-v2" target="_blank">Linux Patches Updated For Snapdragon X Elite Powered TUXEDO Elite 14 Gen1 Laptop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-05 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/from-swift-to-mojo-and-high-performance" target="_blank">From Swift to Mojo and high-performance AI Engineering with Chris Lattner</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-11-05 16:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0yy56873bzfmoqh3n4wl.png" alt="AI That Shows Its Work: The Transparent Revolution of PALs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,46 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-azure-vm-utils-included" target="_blank">Azure VM utils now included in Ubuntu: boosting cloud workloads</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-11-05 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/restlessmike/restlesside-enters-public-beta-21ke" target="_blank">RestlessIDE Enters Public Beta</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/" target="_blank">Zensical: A modern static site generator</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-05 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-619-DRM-Misc-Mali-Vivante" target="_blank">Linux 6.19 To Support Additional Arm Mali &amp; Vivante Graphics Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-05 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gods.art/articles/equation_shadows.html" target="_blank">The Shadows Lurking in the Equations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-05 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727541&w=600" alt="Monolith vs Microservices vs Modulith" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/monolith-vs-modulith-vs-microservices" target="_blank">Monolith vs Microservices vs Modulith</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-05 14:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/V-for-Vendetta-1280x853.jpg" alt="Remember, Remember, ‘V for Vendetta’ Is Back in Theaters Next November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/v-for-vendetta-20th-anniversary-re-release-bonfire-night-2000681984" target="_blank">Remember, Remember, ‘V for Vendetta’ Is Back in Theaters Next November</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-05 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/MacPilot-Lifetime-License.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Hack your Mac &amp; unearth thousands of features for $28" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/05/hack-your-mac-unearth-thousands-of-features-for-28.html" target="_blank">Hack your Mac &amp; unearth thousands of features for $28</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/One-Piece-Luffy-Portgas-D.-Ace-Anime-Crunchyroll-1280x960.jpg" alt="‘One Piece’ Season 3 Just Added a Huge Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +290,6 @@
                 <span class="time">2025-11-05 14:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/bearjapan.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Japan sends military as deadly bear attacks claim 12 lives in 6 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/05/japan-sends-military-as-deadly-bear-attacks-claim-12-lives-in-6-months.html" target="_blank">Japan sends military as deadly bear attacks claim 12 lives in 6 months</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-05 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/MS-1105-captain-archer-star-trek-enterprise-1280x853.jpg" alt="Scott Bakula Still Has Hope for Captain Archer’s ‘Star Trek’ Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scott-bakula-star-trek-enterprise-return-2000681782" target="_blank">Scott Bakula Still Has Hope for Captain Archer’s ‘Star Trek’ Return</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +313,13 @@
                 <span class="time">2025-11-04 17:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762221757-20251104.png" alt="Saturday Morning Breakfast Cereal - Sacrifice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sacrifice-4" target="_blank">Saturday Morning Breakfast Cereal - Sacrifice</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-04 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
