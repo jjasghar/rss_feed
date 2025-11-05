@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 05:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-05 06:02:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762318917576_now_brk_zohran_mamdami_breakout_251104_1920x1080-wuyi5y.jpg" alt="Zohran Mamdani: &#x27;you have dared to reach for something greater&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/zohran-mamdani-you-have-dared-to-reach-for-something-greater-251361861827" target="_blank">Zohran Mamdani: &#x27;you have dared to reach for something greater&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-05 05:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0e/live/863b6b20-ba01-11f0-97b8-2f89ff9d8646.jpg" alt="&#x27;Mandate for change&#x27;: Zohran Mamdani wins New York City mayoral election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Mandate for change&#x27;: Zohran Mamdani wins New York City mayoral election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-05 04:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss" target="_blank">Zohran Mamdani projected to win New York City mayoral election</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-05 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5597788/election-results-zohran-mamdani-new-york-city-mayor" target="_blank">Mamdani wins New York City mayoral race, in a historic victory for progressives</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5589144/election-results-virginia-governor-spanberger" target="_blank">Democrat Spanberger wins Virginia governor race with message on DOGE, cost of living</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 01:00</span>
             </div>
         </div>
 </div>
@@ -165,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-ekj" target="_blank">Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 06:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F717518%2Fb550b165-b8b9-405d-acfb-e5dc846765b0.png" alt="Monitor AI Agents in Production with Zero Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8" target="_blank">Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-04 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=msKPhXNi-A8" target="_blank">Design Pressure: The Invisible Hand That Shapes Your Code</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-04 22:33</span>
             </div>
         </div>
 </div>
@@ -320,7 +317,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 05:02 UTC
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
