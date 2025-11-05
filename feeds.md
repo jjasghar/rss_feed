@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 01:29:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-05 02:30:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5589144/election-results-virginia-governor-spanberger" target="_blank">Democrat Spanberger wins Virginia governor race with message on DOGE, cost of living</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-05 01:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251029-Abigail-Spanberger-ch-1208-eda7c1.jpg" alt="Democrat Abigail Spanberger wins Virginia governor&#x27;s race" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +104,20 @@
                 <span class="time">2025-11-04 21:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5598290/teen-vogue-layoffs" target="_blank">&#x27;Teen Vogue&#x27; is moving under Vogue.com — and staffers are being laid off</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-04 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/02/Jared_Isaacman_at_SpaceX_2-500x500.jpg" alt="In a stunning comeback, Jared Isaacman is renominated to lead NASA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/" target="_blank">In a stunning comeback, Jared Isaacman is renominated to lead NASA</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-05 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-500x500.jpg" alt="FDA described as a “clown show” amid latest scandal; top drug regulator is out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +163,6 @@
                 <span class="time">2025-11-04 20:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale" target="_blank">Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-04 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-BF16-For-LLVM-SPIR-V" target="_blank">AMD Contributes BFloat16 Support To LLVM&#x27;s SPIR-V Target</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-05 01:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f" target="_blank">WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://inventingthefuture.ghost.io/mr-tiff/" target="_blank">Mr Tiff</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-04 22:57</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +222,6 @@
                 <span class="time">2025-11-04 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18729316&w=600" alt="Modular Monoliths Explained: Structure, Strategy, and Scalability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/modular-monolith-architecture-overview" target="_blank">Modular Monoliths Explained: Structure, Strategy, and Scalability</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/azure-hbv5-amd-epyc-9v64h" target="_blank">Benchmarking The AMD EPYC 9V64H: Azure HBv5&#x27;s Custom AMD CPU With HBM3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-04 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/ninebot-segway-1280x853.jpg" alt="Segway Offloads Its Safe Ninebot Electric Scooter, Now Selling for the Price of a Basic Budget Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/segway-offloads-its-safe-ninebot-electric-scooter-now-selling-for-the-price-of-a-basic-budget-model-2000641237" target="_blank">Segway Offloads Its Safe Ninebot Electric Scooter, Now Selling for the Price of a Basic Budget Model</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-05 02:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/kim-kardashain-vanity-fair-1280x853.jpg" alt="Kim Kardashian Blames ChatGPT for Failing Law Exams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -257,6 +269,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K98AD6Y55CWDWZFMACSP57A1/hero-image.png" alt="You Can Vote in TikTok&#x27;s First-Ever US Awards Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/tiktok-us-awards-show?utm_medium=RSS" target="_blank">You Can Vote in TikTok&#x27;s First-Ever US Awards Show</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-04 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/border-patrol-in-chicago-oct.-14-2025-1280x853.jpg" alt="U.S. Immigration Enforcement Apparently Provides Facial Scanning Tech to Local Cops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,24 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174" target="_blank">14 Essential Tips For Getting Started In Arc Raiders</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-04 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K985SPFA4R8DJXBM60X8MH8A/hero-image.png" alt="Android Users Can Now Make Sora AI Slop Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sora-is-now-available-on-android?utm_medium=RSS" target="_blank">Android Users Can Now Make Sora AI Slop Too</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/latest-15-1280x720.jpg" alt="A Final Fantasy Actor Is 2025’s ‘Sexiest Man Alive’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jonathan-bailey-sexiest-man-alive-people-final-fantasy-2000641145" target="_blank">A Final Fantasy Actor Is 2025’s ‘Sexiest Man Alive’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-04 17:48</span>
             </div>
         </div>
 </div>
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
