@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 04:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-05 05:01:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5587742/election-results-california-proposition-50-redistricting" target="_blank">California voters OK new congressional lines, boosting Democrats ahead of midterms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-05 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/5/us-kills-two-more-people-in-latest-strike-on-vessel-in-the-pacific?traffic_source=rss" target="_blank">US kills two more people in latest strike on vessel in the Pacific</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-05 03:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5589144/election-results-virginia-governor-spanberger" target="_blank">Democrat Spanberger wins Virginia governor race with message on DOGE, cost of living</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-05 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251029-Abigail-Spanberger-ch-1208-eda7c1.jpg" alt="Democrat Abigail Spanberger wins Virginia governor&#x27;s race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/virginia-governor-election-results-spanberger-earle-sears-race-win-rcna238685" target="_blank">Democrat Abigail Spanberger wins Virginia governor&#x27;s race</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-05 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/election-8-gty-gmh-251104_1762276767417_hpMain_4x3t_384.jpg" alt="Election Day live updates: Polls close in Virginia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/election-day-live-updates-key-races-unfold-new/?id=127143118" target="_blank">Election Day live updates: Polls close in Virginia</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-05 00:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/FitBit_Charge_6-1280x853.jpg" alt="The Fitbit Charge 6 Can Help You Achieve a Healthier Lifestyle at $60 off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-fitbit-charge-6-can-help-you-achieve-a-healthier-lifestyle-at-60-off-2000641230" target="_blank">The Fitbit Charge 6 Can Help You Achieve a Healthier Lifestyle at $60 off</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-05 02:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/laptop-on-bed-1280x853.jpg" alt="Scientists Uncover Yet Another Reason to Sleep in Total Darkness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -283,15 +291,6 @@
                 <span class="time">2025-11-04 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K98AD6Y55CWDWZFMACSP57A1/hero-image.png" alt="You Can Vote in TikTok&#x27;s First-Ever US Awards Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/tiktok-us-awards-show?utm_medium=RSS" target="_blank">You Can Vote in TikTok&#x27;s First-Ever US Awards Show</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-04 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
