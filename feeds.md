@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 22:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-05 23:01:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-500x500.jpg" alt="AI-generated malware poses little real-world threat, contrary to hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/" target="_blank">AI-generated malware poses little real-world threat, contrary to hype</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-05 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized" target="_blank">Google Gemini’s Deep Research can look into your emails, drive, and chats</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-05 22:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -147,29 +158,20 @@
                 <span class="time">2025-11-05 20:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/814551/8bitdos-latest-wireless-controllers-can-now-shake-to-wake-the-switch-2" target="_blank">8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690b9f2393120774bebe626f/master/pass/The%20Pixel%2010%20Family%20Is%20Marked%20Down%20on%20Amazon.png" alt="The Pixel 10 Family Is Marked Down on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pixel-10-deal-1125/" target="_blank">The Pixel 10 Family Is Marked Down on Amazon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-05 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjf9tsaj3ugonagdk5vsc.png" alt="Effective Terraforming: Secrets of the Pros" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tavernetech/effective-terraforming-secrets-of-the-pros-54a1" target="_blank">Effective Terraforming: Secrets of the Pros</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 22:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/tessamero/from-student-to-developer-how-open-source-can-launch-your-career-d2n" target="_blank">From student to developer - How open source can launch your career</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/More-Intel-Crescent-Linux-6.19" target="_blank">More Intel Crescent Island Enablement Prepped For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-05 21:38</span>
             </div>
         </div>
 <div class="story">
@@ -192,36 +203,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://climatedrift.substack.com/p/why-solarpunk-is-already-happening" target="_blank">Solarpunk is already happening in Africa</a></span>
+                <span class="title"><a href="https://climatedrift.substack.com/p/why-solarpunk-is-already-happening" target="_blank">Solarpunk is happening in Africa</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-05 20:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697658&w=600" alt="Build a LangGraph Multi-Agent system in 20 Minutes with LaunchDarkly AI Configs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/build-a-langgraph-multi-agent-system-in-20-minutes" target="_blank">Build a LangGraph Multi-Agent system in 20 Minutes with LaunchDarkly AI Configs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/quokka-mascot-dark.jpg?resize=406%2C232&amp;ssl=1" alt="How to Enable amd64v3 Packages on Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/how-to-enable-amd64v3-packages-ubuntu-25-10" target="_blank">How to Enable amd64v3 Packages on Ubuntu 25.10</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-05 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/quokka-mascot-dark.jpg?resize=406%2C232&amp;ssl=1" alt="How to Enable Ubuntu amd64v3 Packages on Ubuntu 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/how-to-enable-amd64v3-packages-ubuntu-25-10" target="_blank">How to Enable Ubuntu amd64v3 Packages on Ubuntu 25.10</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-05 18:39</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://climatedrift.substack.com/p/why-solarpunk-is-already-happening" target="_blank">Solarpunk is already happening in Africa</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-05 20:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J6JFP4XK6WD2XB8WXF9FZ1NW/hero-image.jpg" alt="What Are ‘Active Zone Minutes,’ and Why Does Fitbit Sometimes Double Them?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/what-are-zone-minutes-and-why-does-fitbit-sometimes-double-them?utm_medium=RSS" target="_blank">What Are ‘Active Zone Minutes,’ and Why Does Fitbit Sometimes Double Them?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-05 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/Sonic-Rumble-100-1280x720.jpg" alt="Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +290,6 @@
                 <span class="time">2025-11-05 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Toht-Hanger-exclusive-1280x853.jpg" alt="The Story Behind the Funniest ‘Indiana Jones’ Prop Replica You’ve Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/funny-indiana-jones-prop-toht-hanger-regal-robot-2000681469" target="_blank">The Story Behind the Funniest ‘Indiana Jones’ Prop Replica You’ve Ever Seen</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-05 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,13 +331,22 @@
                 <span class="time">2025-11-05 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/metric_tip.png" alt="Metric Tip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3164/" target="_blank">Metric Tip</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-05 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
