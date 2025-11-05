@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 11:01:34 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-05 12:02:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6902e3a37b2b894c34639014/master/pass/Review-%20Meze%20Audio%20105%20Silva%20Headphones.png" alt="Meze Audio 105 Silva Headphones Review: Look Great, Sound Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/meze-audio-105-silva-headphones/" target="_blank">Meze Audio 105 Silva Headphones Review: Look Great, Sound Better</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-05 11:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -147,20 +153,38 @@
                 <span class="time">2025-11-05 03:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/" target="_blank">Trump flips and re-nominates Jared Isaacman to lead NASA</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-05 01:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-polaris-and-arrow-october-november-2025-4gmg" target="_blank">The State of Apache Iceberg, Polaris, and Arrow: October–November 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 11:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/gnome-office-revival/" target="_blank">It&#x27;s Time to Bring Back GNOME Office (Hope You Remember It)</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-05 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Turin-3mdeb-Coreboot-Port" target="_blank">3mdeb Achieves Good Progress Porting Coreboot+OpenSIL To AMD Turin Motherboard</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-05 11:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +210,6 @@
                 <span class="title"><a href="https://dev.to/shubhcloud/begrijpen-van-pod-pending-states-waarom-je-pods-niet-plannen-51b6" target="_blank">Begrijpen van Pod Pending States: Waarom je Pods niet plannen?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 08:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/addwebsolutionpvtltd/vuejs-component-communication-patterns-and-best-practices-3fi1" target="_blank">Vue.js Component Communication Patterns and Best Practices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/edge-networking-gets-smarter-ai-and-5g-in-action" target="_blank">Edge Networking gets smarter: AI and 5G in action</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-05 07:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joacod/ai-and-the-loss-of-the-flow-13hc" target="_blank">AI and the Loss of the Flow</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 06:49</span>
             </div>
         </div>
 </div>
@@ -325,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
