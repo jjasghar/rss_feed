@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-04 23:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-05 00:04:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, November 04, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/election-8-gty-gmh-251104_1762276767417_hpMain_4x3t_384.jpg" alt="Election Day live updates: Polls close in Virginia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/election-day-live-updates-key-races-unfold-new/?id=127143118" target="_blank">Election Day live updates: Polls close in Virginia</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-05 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +96,29 @@
                 <span class="time">2025-11-04 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/11/4/how-will-ai-impact-jobs?traffic_source=rss" target="_blank">How will AI impact jobs?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-04 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-500x500.jpg" alt="FDA described as a “clown show” amid latest scandal; top drug regulator is out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/" target="_blank">FDA described as a “clown show” amid latest scandal; top drug regulator is out</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-04 23:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/" target="_blank">Amazon sends legal threats to Perplexity over agentic browsing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-04 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +155,6 @@
                 <span class="time">2025-11-04 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/04/sora-is-now-available-on-android-in-the-us-canada-and-other-regions/" target="_blank">Sora is now available on Android in the US, Canada, and other regions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-04 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690a3df4f025e344ecdee038/master/pass/Charlie-Kirk-Arizona-Teacher-Threats-Politics-2236141461.jpg" alt="Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/" target="_blank">Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-04 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8" target="_blank">Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-04 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=msKPhXNi-A8" target="_blank">Design Pressure: The Invisible Hand That Shapes Your Code</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-04 22:33</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/federated-api-management-deploying-apis-from-wso2" target="_blank">Federated API Management: Deploying APIs From WSO2 to AWS API Gateway</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-04 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aleksandr_pliev_d30a01b0d/the-hidden-challenges-startups-face-with-cloud-infrastructure-from-a-devops-engineers-perspective-2ek8" target="_blank">The Hidden Challenges Startups Face with Cloud Infrastructure (From a DevOps Engineer’s Perspective)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-04 18:55</span>
             </div>
         </div>
 </div>
@@ -317,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
