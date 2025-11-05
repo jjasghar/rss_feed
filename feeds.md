@@ -1,24 +1,24 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 14:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-05 15:02:01 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
@@ -26,14 +26,14 @@
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/5/live-mamdani-victory-stuns-us-politics-as-democrats-score-big-wins?traffic_source=rss" target="_blank">LIVE: Mamdani victory stuns US politics as Democrats score big wins</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-05 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251105-sherrill-mamdani-spanberger-ew-1238p-f5b04f.jpg" alt="Key takeaways: Trump looms over every race, while Democrats win on the economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/takeaways-2025-elections-trump-looms-every-race-democrats-win-economy-rcna241698" target="_blank">Key takeaways: Trump looms over every race, while Democrats win on the economy</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-05 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -85,29 +103,20 @@
                 <span class="time">2025-11-05 09:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss" target="_blank">Israeli army, settlers strike 2,350 times in West Bank last month: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-05 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/05/nx-s1-5599008/trump-administration-16th-strike-drug-boat" target="_blank">Trump administration announces 16th deadly strike on an alleged drug boat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 07:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/influencer-500x500.jpg" alt="Why being too attractive can hurt fitness influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/11/why-being-too-attractive-can-hurt-fitness-influencers/" target="_blank">Why being too attractive can hurt fitness influencers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-05 14:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690ad1212c9968400191b4f6/master/pass/The%20Best%20Messenger%20Bag%20for%20Your%20Daily%20Commute.png" alt="The Best Messenger Bag for Modern Professionals’ Commute (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +162,38 @@
                 <span class="time">2025-11-05 10:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2211173685-500x500.jpg" alt="Space junk may have struck a Chinese crew ship in low-Earth orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/landing-postponed-for-chinese-astronauts-after-suspected-space-debris-strike/" target="_blank">Space junk may have struck a Chinese crew ship in low-Earth orbit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-05 09:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/restlessmike/restlesside-enters-public-beta-21ke" target="_blank">RestlessIDE Enters Public Beta</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/" target="_blank">Zensical: A modern static site generator</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-05 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727541&w=600" alt="Monolith vs Microservices vs Modulith" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/monolith-vs-modulith-vs-microservices" target="_blank">Monolith vs Microservices vs Modulith</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-05 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,33 +221,6 @@
                 <span class="time">2025-11-05 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-polaris-and-arrow-october-november-2025-4gmg" target="_blank">The State of Apache Iceberg, Polaris, and Arrow: October–November 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/gnome-office-revival/" target="_blank">It&#x27;s Time to Bring Back GNOME Office (Hope You Remember It)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-05 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Turin-3mdeb-Coreboot-Port" target="_blank">3mdeb Achieves Good Progress Porting Coreboot+OpenSIL To AMD Turin Motherboard</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-05 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/One-Piece-Luffy-Portgas-D.-Ace-Anime-Crunchyroll-1280x960.jpg" alt="‘One Piece’ Season 3 Just Added a Huge Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflix-one-piece-season-3-xolo-mariduena-portgas-d-ace-2000681867" target="_blank">‘One Piece’ Season 3 Just Added a Huge Character</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/pink-floyd.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The genius who created Pink Floyd then vanished (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/05/the-genius-who-created-pink-floyd-then-vanished-video.html" target="_blank">The genius who created Pink Floyd then vanished (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-05 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/11/adb9326d6539729648ca981d4ce52a58-1280x720.jpg" alt="The PlayStation Portal Just Became The Streaming Handheld It Was Meant To Be" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-portal-cloud-streaming-update-ps5-patch-2000641330" target="_blank">The PlayStation Portal Just Became The Streaming Handheld It Was Meant To Be</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-05 14:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/bearjapan.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Japan sends military as deadly bear attacks claim 12 lives in 6 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/use-the-agile-results-system-to-meet-short-and-long-term-goals?utm_medium=RSS" target="_blank">Use the &#x27;Agile Results&#x27; System to Meet Short- and Long-Term Goals</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Holmes-1280x853.jpg" alt="The 6 Worst Health Scandals of the Past 25 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-6-worst-health-scandals-of-the-past-25-years-2000681417" target="_blank">The 6 Worst Health Scandals of the Past 25 Years</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2437319333.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Dems thrash GOP in Virginia and New Jersey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/04/dems-thrash-gop-in-virginia-and-new-jersey.html" target="_blank">Dems thrash GOP in Virginia and New Jersey</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-05 03:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2647307593.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="Zohran Mamdani elected mayor of New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/04/zohran-mamdani-elected-mayor-of-new-york-city.html" target="_blank">Zohran Mamdani elected mayor of New York City</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-05 02:58</span>
             </div>
         </div>
 </div>
@@ -331,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
