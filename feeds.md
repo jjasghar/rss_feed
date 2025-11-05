@@ -1,32 +1,50 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 07:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-05 08:02:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 41 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +60,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/05/nx-s1-5599008/trump-administration-16th-strike-drug-boat" target="_blank">Trump administration announces 16th deadly strike on an alleged drug boat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-05 07:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mamdani-19-ap-gmh-251104_1762317760376_hpMain_4x3t_384.jpg" alt="&#x27;Led by an immigrant&#x27;: NYC Mayor-elect Mamdani calls out Trump in victory speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/mayor-elect-zohran-mamdani-set-address-new-york/story?id=127193119" target="_blank">&#x27;Led by an immigrant&#x27;: NYC Mayor-elect Mamdani calls out Trump in victory speech</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-05 05:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762318917576_now_brk_zohran_mamdami_breakout_251104_1920x1080-wuyi5y.jpg" alt="Zohran Mamdani: &#x27;You have dared to reach for something greater&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +114,20 @@
                 <span class="time">2025-11-05 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/5/us-kills-two-more-people-in-latest-strike-on-vessel-in-the-pacific?traffic_source=rss" target="_blank">US kills two more people in latest strike on vessel in the Pacific</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-05 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/5/at-least-three-killed-in-ups-cargo-plane-crash-at-louisville-airport-in-us?traffic_source=rss" target="_blank">At least three killed in UPS cargo plane crash at Louisville airport in US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-05 03:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Canon Promo Codes: 10% Off | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">Canon Promo Codes: 10% Off | November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-05 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +173,6 @@
                 <span class="time">2025-11-05 00:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-500x500.jpg" alt="FDA described as a “clown show” amid latest scandal; top drug regulator is out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/" target="_blank">FDA described as a “clown show” amid latest scandal; top drug regulator is out</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-04 23:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +182,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/addwebsolutionpvtltd/vuejs-component-communication-patterns-and-best-practices-3fi1" target="_blank">Vue.js Component Communication Patterns and Best Practices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 07:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/edge-networking-gets-smarter-ai-and-5g-in-action" target="_blank">Edge Networking gets smarter: AI and 5G in action</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-11-05 07:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/joacod/ai-and-the-loss-of-the-flow-13hc" target="_blank">AI and the Loss of the Flow</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 06:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/voices-text-to-speech/en/headerimage/generatedHeaderImage-1762288364261.jpg" alt="Voices Enables Fast Text-to-Speech for Java Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/voices-text-to-speech/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Voices Enables Fast Text-to-Speech for Java Applications</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-05 06:30</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +230,6 @@
                 <span class="title"><a href="https://dev.to/aws/monitor-ai-agents-in-production-with-zero-code-6kb" target="_blank">Monitor AI Agents in Production with Zero Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-BF16-For-LLVM-SPIR-V" target="_blank">AMD Contributes BFloat16 Support To LLVM&#x27;s SPIR-V Target</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-05 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f" target="_blank">WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://inventingthefuture.ghost.io/mr-tiff/" target="_blank">Mr Tiff</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-04 22:57</span>
             </div>
         </div>
 </div>
@@ -233,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2437319333.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Dems thrash GOP in Virginia and New Jersey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/04/dems-thrash-gop-in-virginia-and-new-jersey.html" target="_blank">Dems thrash GOP in Virginia and New Jersey</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-05 03:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2647307593.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="Zohran Mamdani elected mayor of New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +305,6 @@
                 <span class="time">2025-11-04 23:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/lego-ideas-in-development-sets-2025-godzilla-et-x-files-power-rangers-1280x853.jpg" alt="Ever Lego ‘Ideas’ Project That Is Currently in the Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/every-lego-ideas-project-in-development-2025-2000681461" target="_blank">Ever Lego ‘Ideas’ Project That Is Currently in the Works</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-04 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
