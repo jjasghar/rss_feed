@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 00:04:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-05 01:29:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251029-Abigail-Spanberger-ch-1208-eda7c1.jpg" alt="Democrat Abigail Spanberger wins Virginia governor&#x27;s race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/virginia-governor-election-results-spanberger-earle-sears-race-win-rcna238685" target="_blank">Democrat Abigail Spanberger wins Virginia governor&#x27;s race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-05 00:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/election-8-gty-gmh-251104_1762276767417_hpMain_4x3t_384.jpg" alt="Election Day live updates: Polls close in Virginia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/04/nx-s1-5598290/teen-vogue-layoffs" target="_blank">&#x27;Teen Vogue&#x27; is moving under Vogue.com — and staffers are being laid off</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-04 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/election-8-gty-gmh-251104_1762276767417_hpMain_4x3t_384.jpg" alt="Election Day live updates: Key races unfold in New York City, New Jersey and Virginia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/election-day-live-updates-key-races-unfold-new/?id=127143118" target="_blank">Election Day live updates: Key races unfold in New York City, New Jersey and Virginia</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-04 19:50</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f" target="_blank">WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-05 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8" target="_blank">Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-04 22:51</span>
@@ -205,15 +219,6 @@
                 <span class="time">2025-11-04 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18726832&w=600" alt="Federated API Management: Deploying APIs From WSO2 to AWS API Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/federated-api-management-deploying-apis-from-wso2" target="_blank">Federated API Management: Deploying APIs From WSO2 to AWS API Gateway</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-04 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/kim-kardashain-vanity-fair-1280x853.jpg" alt="Kim Kardashian Blames ChatGPT for Failing Law Exams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kim-kardashian-blames-chatgpt-for-failing-law-exams-2000681672" target="_blank">Kim Kardashian Blames ChatGPT for Failing Law Exams</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-04 23:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/lego-ideas-in-development-sets-2025-godzilla-et-x-files-power-rangers-1280x853.jpg" alt="Ever Lego ‘Ideas’ Project That Is Currently in the Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +292,6 @@
                 <span class="time">2025-11-04 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/960x0.webp?fit=959%2C512&amp;quality=55&amp;ssl=1" alt="1GTA mod forces players into court after hitting pedestrians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/04/1gta-mod-forces-players-into-court-after-hitting-pedestrians.html" target="_blank">1GTA mod forces players into court after hitting pedestrians</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-04 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
