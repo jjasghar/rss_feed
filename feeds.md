@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-05 09:02:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-05 10:01:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, November 05, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, November 05, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/5/un-chief-warns-gaza-stabilisation-force-must-have-international-legitimacy?traffic_source=rss" target="_blank">UN chief warns Gaza stabilisation force must have international legitimacy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-05 09:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss" target="_blank">Israeli army, settlers strike 2,350 times in West Bank last month: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-05 08:38</span>
@@ -58,6 +72,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/05/nx-s1-5599008/trump-administration-16th-strike-drug-boat" target="_blank">Trump administration announces 16th deadly strike on an alleged drug boat</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-05 07:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca8f/live/77c37920-b8c6-11f0-b2a1-6f537f66f9aa.png" alt="Criminal network behind UK mini-marts enables migrants to work illegally - BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0mx99ple17o?at_medium=RSS&at_campaign=rss" target="_blank">Criminal network behind UK mini-marts enables migrants to work illegally - BBC investigation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-05 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +101,20 @@
                 <span class="time">2025-11-05 05:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762318917576_now_brk_zohran_mamdami_breakout_251104_1920x1080-wuyi5y.jpg" alt="Zohran Mamdani: &#x27;you have dared to reach for something greater&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/zohran-mamdani-you-have-dared-to-reach-for-something-greater-251361861827" target="_blank">Zohran Mamdani: &#x27;you have dared to reach for something greater&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-05 05:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0e/live/863b6b20-ba01-11f0-97b8-2f89ff9d8646.jpg" alt="&#x27;Mandate for change&#x27;: Zohran Mamdani wins New York City mayoral election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Mandate for change&#x27;: Zohran Mamdani wins New York City mayoral election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-05 04:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2211173685-500x500.jpg" alt="Space junk may have struck a Chinese crew ship in low-Earth orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/landing-postponed-for-chinese-astronauts-after-suspected-space-debris-strike/" target="_blank">Space junk may have struck a Chinese crew ship in low-Earth orbit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-05 09:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Canon Promo Codes: 10% Off | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/" target="_blank">In a stunning comeback, Jared Isaacman is renominated to lead NASA</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-05 00:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we&amp;#8217;ve tested for 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 00:18</span>
             </div>
         </div>
 </div>
@@ -324,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
