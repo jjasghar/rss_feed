@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 19:01:35 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-11-06 20:01:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/06/sora-for-android-saw-nearly-half-a-million-installs-on-its-first-day/" target="_blank">Sora for Android saw nearly half a million installs on its first day</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-06 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690cf17789922924938df0e1/master/pass/The%2015-Inch%20MacBook%20Air%20Is%20Marked%20Down%20by%20$200.png" alt="The 15-Inch MacBook Air Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/macbook-air-15-deal-1125/" target="_blank">The 15-Inch MacBook Air Is $200 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-06 19:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/690cdd2435f1df352f792503/master/pass/Star-Trek-Lego-Gear-10356_Lifestyle_Build_03.jpg" alt="Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -139,29 +158,38 @@
                 <span class="time">2025-11-06 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/06/mastodons-latest-software-update-brings-quote-posts-to-all-server-operators/" target="_blank">Mastodon’s latest software update brings quote posts to all server operators</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-06 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690c59de8cd790be0031f69e/master/pass/Spore%20Yourself%20Rotten%20With%20WIRED's%20Mushroom%20Gifts.png" alt="The Best Mushroom Gifts for Your Fungi Friend (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/spore-yourself-rotten-with-wireds-mushroom-gift-guide/" target="_blank">The Best Mushroom Gifts for Your Fungi Friend (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-06 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3gs7qv58uh8027foppyc.png" alt="AI Evaluation - Future AGI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devinfo/ai-evaluation-future-agi-2po9" target="_blank">AI Evaluation - Future AGI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Archinstall-3.0.13-Released" target="_blank">Archinstall 3.0.13 Adds WiFi Connection Menu To Arch Linux Installer</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-06 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727906&w=600" alt="Unlocking Modernization: SUSE Virtualization on Arm64 With Harvester" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/unlocking-modernization-suse-virtualization-on-arm" target="_blank">Unlocking Modernization: SUSE Virtualization on Arm64 With Harvester</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-06 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/android-genai-prompt-api/en/headerimage/android-genai-prompt-api-1762452737408.jpeg" alt="Android GenAI Prompt API Enables Natural Language Requests with Gemini Nano" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/sentiment-analysis-naive-bayes-python-guide" target="_blank">A Developer&#x27;s Guide to Sentiment Analysis With Naive Bayes and Python</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-06 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pullflow/the-complete-guide-to-your-first-open-source-contribution-2h7c" target="_blank">The Complete Guide to Your First Open Source Contribution</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/cachyos-ubuntu-2510-f43" target="_blank">CachyOS Continues Delivering Leading Performance Over Ubuntu 25.10, Fedora Workstation 43</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-06 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/" target="_blank">TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-06 17:00</span>
             </div>
         </div>
 </div>
@@ -245,12 +246,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-06 19:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/San-Diego-Comic-Con-Hall-H-1280x853.jpg" alt="Going to San Diego Comic-Con Just Became Even More of a Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/san-diego-comic-con-hotels-hotelpocalyse-2026-2000682531" target="_blank">Going to San Diego Comic-Con Just Became Even More of a Nightmare</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-06 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Starfield.png?fit=1080%2C612&amp;quality=55&amp;ssl=1" alt="Why gaming&#x27;s most tedious title became an unexpected mental health tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/06/why-gamings-most-tedious-title-became-an-unexpected-mental-health-tool.html" target="_blank">Why gaming&#x27;s most tedious title became an unexpected mental health tool</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-06 18:30</span>
             </div>
         </div>
 <div class="story">
@@ -278,24 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/06/tom-the-dancing-bug-finally-gets-its-complete-archive-treatment.html" target="_blank">Tom the Dancing Bug finally gets its complete archive treatment</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-06 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/running-man-comparison-arnold-schwarzenegger-glen-powell-1280x853.jpg" alt="The 7 Biggest Differences Between the ‘Running Man’ Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/running-man-movies-differences-glen-powell-arnold-schwarzenegger-2000682126" target="_blank">The 7 Biggest Differences Between the ‘Running Man’ Movies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-06 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9CYN9KKEGZZRBJSSV875SNX/hero-image.png" alt="T-Mobile’s ‘Text to 911’ Feature Is Now Free for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/t-mobile-text-to-911-feature-is-now-free-for-everyone?utm_medium=RSS" target="_blank">T-Mobile’s ‘Text to 911’ Feature Is Now Free for Everyone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-06 17:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
