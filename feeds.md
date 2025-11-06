@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 02:30:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-06 03:22:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 03:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/trump-says-mamdani-must-respect-washington-wants-new-york-to-succeed?traffic_source=rss" target="_blank">Trump says Mamdani must ‘respect’ Washington, wants New York to succeed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-06 02:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Louvre-museum-heist-ap-bh-2511-03_1762187625737_hpMain_4x3t_384.jpg" alt="Employee reveals what Louvre&#x27;s video surveillance password was at time of heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,20 +101,20 @@
                 <span class="time">2025-11-05 22:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2539/live/9bf92d10-ba94-11f0-ba75-093eca1ac29b.jpg" alt="Crime fixer caught by BBC offering to erase £60K fines on migrant workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3kevkl3pdo?at_medium=RSS&at_campaign=rss" target="_blank">Crime fixer caught by BBC offering to erase £60K fines on migrant workers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-05 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/815208/election-night-at-kalshi-hq" target="_blank">Election night at Kalshi HQ</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-06 02:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690bce68a7ff0ebc3b950181/master/pass/FAA-Scale-Back-US-Flights-Gear-2244373936.jpg" alt="FAA Plan to Cut Flights Might Not Be an Utter Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/" target="_blank">AI-generated malware poses little real-world threat, contrary to hype</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-05 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized" target="_blank">Google Gemini’s Deep Research can look into your emails, drive, and chats</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 22:09</span>
             </div>
         </div>
 </div>
@@ -363,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 03:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
