@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 17:03:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-06 18:02:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 17:03 UTC</div>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/wegovy-zepbound-ap-jef-251106_1762445903979_hpMain_4x3t_384.jpg" alt="White House announces deal to lower weight loss drug prices for many Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/trump-administration-announces-deal-lower-weight-loss-drug/story?id=127259787" target="_blank">White House announces deal to lower weight loss drug prices for many Americans</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-06 17:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/06/nx-s1-5600669/a-reporter-outlines-trumps-options-to-subvert-the-2026-midterm-elections" target="_blank">A reporter outlines Trump&#x27;s options to subvert the 2026 midterm elections</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-06 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506b/live/3f524a60-bb2f-11f0-a9c7-018c8fe15fae.jpg" alt="Sudan&#x27;s RSF militia says it agrees to humanitarian ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74070y9e3go?at_medium=RSS&at_campaign=rss" target="_blank">Sudan&#x27;s RSF militia says it agrees to humanitarian ceasefire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-06 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d404/live/da5dd4f0-bb22-11f0-bd8f-95105d31e9c2.jpg" alt="Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +98,20 @@
                 <span class="time">2025-11-06 15:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/nancy-pelosi-first-female-us-house-speaker-to-retire-from-congress?traffic_source=rss" target="_blank">Nancy Pelosi, first female US House speaker, to retire from Congress</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762438184612_now_brk_pelosi_retires_251106_1920x1080-uc5ik0.jpg" alt="Nancy Pelosi announces she won&#x27;t seek re-election in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/nancy-pelosi-announces-she-wont-seek-re-election-to-congress-251459653575" target="_blank">Nancy Pelosi announces she won&#x27;t seek re-election in 2026</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-06 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/06/g-s1-96674/nancy-pelosi-retire" target="_blank">Former Speaker Nancy Pelosi will not seek reelection</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/815637/blink-video-doorbell-second-generation-early-black-friday-deal-sale" target="_blank">The latest Blink Video Doorbell is over 50 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-06 17:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,29 @@
                 <span class="time">2025-11-06 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/06/why-benchmark-made-a-rare-crypto-bet-on-trading-app-fomo-with-17m-series-a/" target="_blank">Why Benchmark made a rare crypto bet on trading app Fomo, with $17M Series A</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pullflow/the-complete-guide-to-your-first-open-source-contribution-2h7c" target="_blank">The Complete Guide to Your First Open Source Contribution</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/" target="_blank">TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-06 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +216,6 @@
                 <span class="time">2025-11-06 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codewithsadee/build-an-awesome-react-portfolio-website-coding-bootcamp-2mi9" target="_blank">Build an AWESOME React Portfolio Website (Coding Bootcamp)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/grafana-gitlab-serverless-cicd/en/headerimage/generatedHeaderImage-1762270252333.jpg" alt="Grafana and GitLab Introduce Serverless CI/CD Observability Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/grafana-gitlab-serverless-cicd/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana and GitLab Introduce Serverless CI/CD Observability Integration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-06 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,11 +245,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus-1280x853.jpg" alt="Apple TV Revealed a Huge ‘Pluribus’ Spoiler by Releasing Its Opening Scene Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pluribus-apple-tv-vince-gilligan-premiere-spoiler-aliens-2000682536" target="_blank">Apple TV Revealed a Huge ‘Pluribus’ Spoiler by Releasing Its Opening Scene Early</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/vol-1-secret-origins-COVER-web.jpg?fit=1066%2C1200&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug finally gets its complete archive treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/06/tom-the-dancing-bug-finally-gets-its-complete-archive-treatment.html" target="_blank">Tom the Dancing Bug finally gets its complete archive treatment</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-06 17:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/running-man-comparison-arnold-schwarzenegger-glen-powell-1280x853.jpg" alt="The 7 Biggest Differences Between the ‘Running Man’ Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/running-man-movies-differences-glen-powell-arnold-schwarzenegger-2000682126" target="_blank">The 7 Biggest Differences Between the ‘Running Man’ Movies</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9CYN9KKEGZZRBJSSV875SNX/hero-image.png" alt="T-Mobile’s ‘Text to 911’ Feature Is Now Free for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/t-mobile-text-to-911-feature-is-now-free-for-everyone?utm_medium=RSS" target="_blank">T-Mobile’s ‘Text to 911’ Feature Is Now Free for Everyone</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-06 17:00</span>
             </div>
         </div>
@@ -273,33 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/06/republicans-finally-fix-labor-shortage-by-scaring-off-everyone-who-works.html" target="_blank">Republicans finally fix labor shortage by scaring off everyone who works</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-06 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9A9KFMRJAK1T3PJ5CTMDBTA/hero-image.jpg" alt="13 Shows Like &#x27;It: Welcome to Derry&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-it-welcome-to-derry-to-watch-next?utm_medium=RSS" target="_blank">13 Shows Like &#x27;It: Welcome to Derry&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-06 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/ss_96013f29e621d98bd3364bf7c21b82512934fa7b.1920x1080-1280x720.jpg" alt="PlayStation Removes OnlyFans Sex Game But Leaves Steam Rip-Offs As Fans Beg For Quality Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/onlyfans-psn-playstation-store-megabonk-peak-2000641642" target="_blank">PlayStation Removes OnlyFans Sex Game But Leaves Steam Rip-Offs As Fans Beg For Quality Control</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-06 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Samsung990EVO-Plus-1280x853.jpg" alt="Samsung Is Clearing Out Its 990 EVO Plus SSDs, All Capacities Now at Record Lows on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-is-clearing-out-its-990-evo-plus-ssds-all-capacities-now-at-record-lows-on-amazon-2000641522" target="_blank">Samsung Is Clearing Out Its 990 EVO Plus SSDs, All Capacities Now at Record Lows on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-06 14:50</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
