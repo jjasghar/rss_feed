@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 21:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-06 22:01:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-19-ap-gmh-251105_1762371632284_hpMain_4x3t_384.jpg" alt="Judge orders Trump administration to fund full SNAP benefits, rebukes Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-orders-trump-administration-fully-fund-snap-benefits/story?id=127273708" target="_blank">Judge orders Trump administration to fund full SNAP benefits, rebukes Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-06 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/afghanistan-and-pakistan-exchange-fire-as-peace-talks-begin?traffic_source=rss" target="_blank">Afghanistan and Pakistan exchange fire as ceasefire talks resume in Turkiye</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-06 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/06/nx-s1-5585103/supreme-court-passports-gender" target="_blank">Supreme Court allows Trump to prohibit gender election on passports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-06 20:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +99,20 @@
                 <span class="time">2025-11-06 18:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/wegovy-zepbound-ap-jef-251106_1762445903979_hpMain_4x3t_384.jpg" alt="White House announces deal to lower weight loss drug prices for many Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/trump-administration-announces-deal-lower-weight-loss-drug/story?id=127259787" target="_blank">White House announces deal to lower weight loss drug prices for many Americans</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-06 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/06/nx-s1-5600669/a-reporter-outlines-trumps-options-to-subvert-the-2026-midterm-elections" target="_blank">A reporter outlines Trump&#x27;s options to subvert the 2026 midterm elections</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-06 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506b/live/3f524a60-bb2f-11f0-a9c7-018c8fe15fae.jpg" alt="Sudan&#x27;s RSF militia says it agrees to humanitarian ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c74070y9e3go?at_medium=RSS&at_campaign=rss" target="_blank">Sudan&#x27;s RSF militia says it agrees to humanitarian ceasefire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-06 17:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/" target="_blank">Tesla shareholders approve Elon Musk’s $1T pay package</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-06 21:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Finance_AI-500x500.jpg" alt="Gemini Deep Research comes to Google Finance, backed by prediction market data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +158,20 @@
                 <span class="time">2025-11-06 17:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search" target="_blank">Google Finance offers Gemini AI tools to stock traders</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4wyd9942rpxzrwhosz5k.JPG" alt="Explain the difference between subquery,CTE and stored procedures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/roy_b5001e0ff9a27dea39641/explain-the-difference-between-subquerycte-and-stored-procedures-54cf" target="_blank">Explain the difference between subquery,CTE and stored procedures</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 21:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +217,6 @@
                 <span class="time">2025-11-06 19:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727906&w=600" alt="Unlocking Modernization: SUSE Virtualization on Arm64 With Harvester" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/unlocking-modernization-suse-virtualization-on-arm" target="_blank">Unlocking Modernization: SUSE Virtualization on Arm64 With Harvester</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-06 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/gunbuster-gainax-poseio9-template-circle-2-1280x853.jpg" alt="Why Gainax’s ‘Gunbuster’ Pose Is More Than Anime Rule of Cool Reference Fodder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gaianx-gunbuster-pose-akira-slide-mecha-anime-reference-2000681951" target="_blank">Why Gainax’s ‘Gunbuster’ Pose Is More Than Anime Rule of Cool Reference Fodder</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/subway-e1762465274168.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Hero tossing hero of the Republic goes free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/06/hero-tossing-hero-of-the-republic-goes-free.html" target="_blank">Hero tossing hero of the Republic goes free</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-06 21:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Bari-Weiss-1280x853.jpg" alt="TikTok Billionaire Is Making Bari Weiss’s ‘Anti-Woke’ College Tuition Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +299,6 @@
                 <span class="time">2025-11-06 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Starfield.png?fit=1080%2C612&amp;quality=55&amp;ssl=1" alt="Why gaming&#x27;s most tedious title became an unexpected mental health tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/06/why-gamings-most-tedious-title-became-an-unexpected-mental-health-tool.html" target="_blank">Why gaming&#x27;s most tedious title became an unexpected mental health tool</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-06 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus-1280x853.jpg" alt="Apple TV Revealed a Huge ‘Pluribus’ Spoiler by Releasing Its Opening Scene Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pluribus-apple-tv-vince-gilligan-premiere-spoiler-aliens-2000682536" target="_blank">Apple TV Revealed a Huge ‘Pluribus’ Spoiler by Releasing Its Opening Scene Early</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-06 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
