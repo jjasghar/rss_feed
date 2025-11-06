@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 09:02:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-06 10:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/06/g-s1-96755/fifa-new-peace-prize" target="_blank">FIFA head says &#x27;you will see&#x27; at World Cup draw if Trump receives new peace prize</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-06 08:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-typhoon-kalmaegi-cebu_7073360.jpg?20251106043434" alt="At least 114 dead after Philippines typhoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-114-dead-after-philippines-typhoon-as-state-of-emergency-declared-and-more-than-100-still-missing-13464723" target="_blank">At least 114 dead after Philippines typhoon</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-06 04:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -77,29 +95,29 @@
                 <span class="time">2025-11-06 02:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Louvre-museum-heist-ap-bh-2511-03_1762187625737_hpMain_4x3t_384.jpg" alt="Employee reveals what Louvre&#x27;s video surveillance password was at time of heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297" target="_blank">Employee reveals what Louvre&#x27;s video surveillance password was at time of heist</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-06 01:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251105-trump-ch-1002-837f29.jpg" alt="Trump&#x27;s bright view of the economy doesn&#x27;t match what voters are seeing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trumps-bright-view-economy-doesnt-match-voters-say-seeing-rcna242093" target="_blank">Trump&#x27;s bright view of the economy doesn&#x27;t match what voters are seeing</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-06 00:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/814694/deep-sea-mining-waste-battery-metals-research-trump" target="_blank">How deep-sea mining could threaten a vital ocean food source</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-06 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/06/nigeria-backs-ventures-platform-as-seed-fund-hits-64m-first-close/" target="_blank">Ventures Platform, one of Africa’s most active early-stage investors, has raised another $64 million</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-06 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Off Brooks Promo Code &amp; Deals for November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +154,6 @@
                 <span class="time">2025-11-05 23:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support" target="_blank">Films from YouTube and Google Play are no longer available on Movies Anywhere</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1405238501-500x500-1762385729.jpg" alt="Musk and Trump both went to Penn—now hacked by someone sympathetic to their cause" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/11/musk-and-trump-both-went-to-penn-now-hacked-by-someone-sympathetic-to-their-cause/" target="_blank">Musk and Trump both went to Penn—now hacked by someone sympathetic to their cause</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-05 23:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/liquidcode/week-3-from-0-to-30-developers-building-in-public-2bfi" target="_blank">Week 3: From 0 to 30 Developers (Building in Public)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 09:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ahmadasroni38/loop-master-menguasai-seni-algoritma-perulangan-1e8e" target="_blank">🔄 Loop Master: Menguasai Seni Algoritma Perulangan</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-06 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cure-lang.org/" target="_blank">Erlang Meets Idris: Cure Programming Language</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-06 08:49</span>
             </div>
         </div>
 <div class="story">
@@ -178,39 +196,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/image-thumbnails-missing-gnome/" target="_blank">Fixing Image Thumbnails Not Showing Up in GNOME Files on Fedora Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-06 07:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx7ivdq79a0eck6jz6xbg.jpg" alt="The Untapped Risk of Water Management in Sustainability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n" target="_blank">The Untapped Risk of Water Management in Sustainability</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-06 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foxcwx4nmkgkva0v3ttc7.png" alt="🌐DevOps and Cloud Project: Static Website Hosting with AWS S3 + CloudFront + CI/CD" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ritesh355/devops-and-cloud-project-static-website-hosting-with-aws-s3-cloudfront-cicd-5hhe" target="_blank">🌐DevOps and Cloud Project: Static Website Hosting with AWS S3 + CloudFront + CI/CD</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tdjdev/selur-reclaiming-the-web-contract-the-pure-css-ui-engine-you-didnt-know-you-needed-4912" target="_blank">🧪 Selur: Reclaiming the Web Contract—The Pure CSS UI Engine You Didn&#x27;t Know You Needed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 04:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ratatui.rs/showcase/apps/" target="_blank">Ratatui – App Showcase</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-06 02:50</span>
             </div>
         </div>
 </div>
@@ -332,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
