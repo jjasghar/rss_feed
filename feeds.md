@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 14:01:41 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Guardian World News -->
+<!-- Processing 54 RSS feeds at 2025-11-06 15:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/nancy-pelosi-first-female-us-house-speaker-to-retire-from-congress?traffic_source=rss" target="_blank">Nancy Pelosi, first female US House speaker, to retire from Congress</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-06 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762438184612_now_brk_pelosi_retires_251106_1920x1080-uc5ik0.jpg" alt="Nancy Pelosi announces she won&#x27;t seek re-election in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/nancy-pelosi-announces-she-wont-seek-re-election-to-congress-251459653575" target="_blank">Nancy Pelosi announces she won&#x27;t seek re-election in 2026</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-06 14:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +100,20 @@
                 <span class="time">2025-11-06 11:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/sudanese-prime-minister-calls-for-rsf-to-be-labelled-terrorist-group?traffic_source=rss" target="_blank">Sudanese prime minister calls for RSF to be labelled ‘terrorist’ group</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/06/nx-s1-5599582/government-shutdown-airport-thanksgiving-travel" target="_blank">How would the government shutdown affect Thanksgiving travel? Here&#x27;s what to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-06 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690c59de8cd790be0031f69e/master/pass/Spore%20Yourself%20Rotten%20With%20WIRED's%20Mushroom%20Gifts.png" alt="The Best Mushroom Gifts for Your Fungi Friend (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/spore-yourself-rotten-with-wireds-mushroom-gift-guide/" target="_blank">The Best Mushroom Gifts for Your Fungi Friend (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-06 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/review/lg-studio-smart-3-door-french-door-refrigerator/" target="_blank">LG Studio Smart 3-Door French Door Refrigerator Review: Cool Customer</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-06 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690c4ce3b01757d92f1dba90/master/pass/Diaspora%20Cookbooks%20Hit%20Their%20Heyday.png" alt="Diaspora Cookbooks Hit Their Heyday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-diaspora-cookbooks/" target="_blank">Diaspora Cookbooks Hit Their Heyday</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-06 12:00</span>
             </div>
         </div>
 </div>
@@ -231,6 +238,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Samsung990EVO-Plus-1280x853.jpg" alt="Samsung Is Clearing Out Its 990 EVO Plus SSDs, All Capacities Now at Record Lows on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-is-clearing-out-its-990-evo-plus-ssds-all-capacities-now-at-record-lows-on-amazon-2000641522" target="_blank">Samsung Is Clearing Out Its 990 EVO Plus SSDs, All Capacities Now at Record Lows on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-06 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/bangkok-shrine.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="In Bangkok, you can visit the beautiful Chao Mae Tuptim Shrine aka the &quot;Penis Shrine&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/06/in-bangkok-you-can-visit-the-beautiful-chao-mae-tuptim-shrine-aka-the-penis-shrine.html" target="_blank">In Bangkok, you can visit the beautiful Chao Mae Tuptim Shrine aka the &quot;Penis Shrine&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-06 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/lego-star-trek-enterprise-d-1280x853.jpg" alt="The Lego ‘Star Trek’ Set Is Here, and It’s Exactly What You Want" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-star-trek-enterprise-d-price-release-date-minifigures-2000682256" target="_blank">The Lego ‘Star Trek’ Set Is Here, and It’s Exactly What You Want</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/thunderstorm-1280x853.jpg" alt="When Thunderstorms Hit, Asthma Can Become an ER Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -255,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/rian-johnson-star-wars-the-last-jedi-reactions-2000682176" target="_blank">Rian Johnson Loved All Your ‘Last Jedi’ Reactions, Actually</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Inside-Out-2-Pixar-1280x853.jpg" alt="Amy Poehler and Maya Hawke Believe ‘Inside Out 2’ Is a Billion Dollars That Actually Did Some Good for the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amy-poehler-and-maya-hawke-believe-inside-out-2-is-a-billion-dollars-that-actually-did-some-good-for-the-world-2000682221" target="_blank">Amy Poehler and Maya Hawke Believe ‘Inside Out 2’ Is a Billion Dollars That Actually Did Some Good for the World</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-06 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Screenshot-2024-05-17-at-8.57.09-PM.png?fit=870%2C1408&amp;quality=55&amp;ssl=1" alt="These leaning buildings outdo Pisa&#x27;s famous tilt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/05/these-leaning-buildings-outdo-pisas-famous-tilt.html" target="_blank">These leaning buildings outdo Pisa&#x27;s famous tilt</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-06 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/airtag-4-pack-1280x853.jpg" alt="AirTags Are Going for Nearly Free for Early Black Friday, Amazon Has Sold 10K Units Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/airtags-are-going-for-nearly-free-for-early-black-friday-amazon-has-sold-10k-units-today-2000641512" target="_blank">AirTags Are Going for Nearly Free for Early Black Friday, Amazon Has Sold 10K Units Today</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-06 02:16</span>
             </div>
         </div>
 </div>
@@ -321,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
