@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 04:04:42 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-06 05:01:52 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 04:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/typhoon-kalmaegi-bears-down-on-vietnam-after-114-killed-in-the-philippines?traffic_source=rss" target="_blank">Typhoon Kalmaegi bears down on Vietnam after 114 killed in the Philippines</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-06 04:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/5/faa-to-reduce-flights-by-10-percent-as-us-government-shutdown-drags-on?traffic_source=rss" target="_blank">FAA to reduce flights by 10 percent as US government shutdown drags on</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-05 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762382546788_now_hallie_transport_duffy_shutdown_251105_1920x1080-809e6l.jpg" alt="Transportation secretary: 10 percent of airspace will close if shutdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/transportation-secretary-10-percent-of-airspace-will-close-if-shutdown-continues-251417157729" target="_blank">Transportation secretary: 10 percent of airspace will close if shutdown continues</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-05 22:42</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tdjdev/selur-reclaiming-the-web-contract-the-pure-css-ui-engine-you-didnt-know-you-needed-4912" target="_blank">🧪 Selur: Reclaiming the Web Contract—The Pure CSS UI Engine You Didn&#x27;t Know You Needed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 04:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://support.mozilla.org/en-US/forums/contributors/717446" target="_blank">Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage</a></span>
                 <span class="feed">Hacker News</span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/tavernetech/effective-terraforming-secrets-of-the-pros-54a1" target="_blank">Effective Terraforming: Secrets of the Pros</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tessamero/from-student-to-developer-how-open-source-can-launch-your-career-d2n" target="_blank">From student to developer - How open source can launch your career</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 21:52</span>
             </div>
         </div>
 </div>
@@ -337,22 +337,13 @@
                 <span class="time">2025-11-05 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/metric_tip.png" alt="Metric Tip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3164/" target="_blank">Metric Tip</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-11-05 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 04:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
