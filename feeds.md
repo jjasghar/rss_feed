@@ -1,30 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 01:29:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-06 02:30:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Louvre-museum-heist-ap-bh-2511-03_1762187625737_hpMain_4x3t_384.jpg" alt="Employee reveals what Louvre&#x27;s video surveillance password was at time of heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297" target="_blank">Employee reveals what Louvre&#x27;s video surveillance password was at time of heist</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-06 01:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,21 +100,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Business/mamdani-gty-er-251105_1762361905212_hpMain_4x3t_384.jpg" alt="How the economy flipped from a red to blue issue, according to exit polls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2539/live/9bf92d10-ba94-11f0-ba75-093eca1ac29b.jpg" alt="Crime fixer caught by BBC offering to erase £60K fines on migrant workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/economy-flipped-red-blue-issue-exit-polls/story?id=127213518" target="_blank">How the economy flipped from a red to blue issue, according to exit polls</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-05 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/5/can-china-and-russia-weather-challenges-posed-by-the-west?traffic_source=rss" target="_blank">Can China and Russia weather challenges posed by the West?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-05 21:24</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3kevkl3pdo?at_medium=RSS&at_campaign=rss" target="_blank">Crime fixer caught by BBC offering to erase £60K fines on migrant workers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-05 22:00</span>
             </div>
         </div>
 </div>
@@ -115,6 +129,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support" target="_blank">Films from YouTube and Google Play are no longer available on Movies Anywhere</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-05 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1405238501-500x500-1762385729.jpg" alt="Musk and Trump both went to Penn—now hacked by someone sympathetic to their cause" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/11/musk-and-trump-both-went-to-penn-now-hacked-by-someone-sympathetic-to-their-cause/" target="_blank">Musk and Trump both went to Penn—now hacked by someone sympathetic to their cause</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-05 23:50</span>
             </div>
         </div>
 <div class="story">
@@ -142,15 +165,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized" target="_blank">Google Gemini’s Deep Research can look into your emails, drive, and chats</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-05 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/" target="_blank">Cluely’s Roy Lee hints that viral hype is not enough</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-05 21:21</span>
             </div>
         </div>
 </div>
@@ -220,6 +234,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/" target="_blank">Cloudflare Scrubs Aisuru Botnet from Top Domains List</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-11-06 02:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/scientists-need-a-positive-vision-for-ai.html" target="_blank">Scientists Need a Positive Vision for AI</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -232,12 +255,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/airtag-4-pack-1280x853.jpg" alt="AirTags Are Going for Nearly Free for Early Black Friday, Amazon Has Sold 10K Units Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/airtags-are-going-for-nearly-free-for-early-black-friday-amazon-has-sold-10k-units-today-2000641512" target="_blank">AirTags Are Going for Nearly Free for Early Black Friday, Amazon Has Sold 10K Units Today</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-06 02:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/dell-inspiron-16-lap-1280x853.jpg" alt="Dell Begins Black Friday with 70% Off This 1TB SSD Windows Laptop, Prime Gets Nearly $2,300 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/dell-begins-black-friday-with-70-off-this-1tb-ssd-windows-laptop-prime-gets-nearly-2300-off-2000641504" target="_blank">Dell Begins Black Friday with 70% Off This 1TB SSD Windows Laptop, Prime Gets Nearly $2,300 Off</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-06 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/RFKstare-1280x853.jpg" alt="RFK Jr.’s FDA is in Meltdown Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rfk-jr-s-fda-is-in-meltdown-mode-2000682180" target="_blank">RFK Jr.’s FDA is in Meltdown Mode</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 00:16</span>
             </div>
         </div>
 <div class="story">
@@ -265,24 +306,6 @@
                 <span class="title"><a href="https://gizmodo.com/best-horror-2026-obsession-release-date-2000682099" target="_blank">One of the Best Horror Movies You’ve Not Seen Yet Finally Has a Release Date</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-05 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J6JFP4XK6WD2XB8WXF9FZ1NW/hero-image.jpg" alt="What Are ‘Active Zone Minutes,’ and Why Does Fitbit Sometimes Double Them?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/what-are-zone-minutes-and-why-does-fitbit-sometimes-double-them?utm_medium=RSS" target="_blank">What Are ‘Active Zone Minutes,’ and Why Does Fitbit Sometimes Double Them?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-05 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Sonic-Rumble-100-1280x720.jpg" alt="Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427" target="_blank">Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-05 21:54</span>
             </div>
         </div>
 </div>
@@ -340,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
