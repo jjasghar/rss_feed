@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 10:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-06 11:01:45 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/sudanese-prime-minister-calls-for-rsf-to-be-labelled-terrorist-group?traffic_source=rss" target="_blank">Sudanese prime minister calls for RSF to be labelled ‘terrorist’ group</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-06 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/06/nx-s1-5599582/government-shutdown-airport-thanksgiving-travel" target="_blank">How would the government shutdown affect Thanksgiving travel? Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-06 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/typhoon-kalmaegi-bears-down-on-vietnam-after-114-killed-in-the-philippines?traffic_source=rss" target="_blank">Typhoon Kalmaegi bears down on Vietnam after 114 killed in the Philippines</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-06 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-typhoon-kalmaegi-cebu_7073360.jpg?20251106043434" alt="At least 114 dead after Philippines typhoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-114-dead-after-philippines-typhoon-as-state-of-emergency-declared-and-more-than-100-still-missing-13464723" target="_blank">At least 114 dead after Philippines typhoon</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-06 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/trump-says-mamdani-must-respect-washington-wants-new-york-to-succeed?traffic_source=rss" target="_blank">Trump says Mamdani must ‘respect’ Washington, wants New York to succeed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 02:54</span>
             </div>
         </div>
 </div>
@@ -162,6 +162,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hopper-Blackwell-Nova-Prep" target="_blank">NVIDIA Preparing For Hopper &amp; Blackwell GPU Support With Open-Source Nova Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-06 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/azure-apim-service-bus-policy/en/headerimage/generatedHeaderImage-1762243003474.jpg" alt="Azure APIM Simplifies Event-Driven Architecture with Native Service Bus Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/azure-apim-service-bus-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure APIM Simplifies Event-Driven Architecture with Native Service Bus Policy</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-06 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/liquidcode/week-3-from-0-to-30-developers-building-in-public-2bfi" target="_blank">Week 3: From 0 to 30 Developers (Building in Public)</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +213,6 @@
                 <span class="time">2025-11-06 07:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/image-thumbnails-missing-gnome/" target="_blank">Fixing Image Thumbnails Not Showing Up in GNOME Files on Fedora Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-06 07:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx7ivdq79a0eck6jz6xbg.jpg" alt="The Untapped Risk of Water Management in Sustainability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n" target="_blank">The Untapped Risk of Water Management in Sustainability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 06:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Inside-Out-2-Pixar-1280x853.jpg" alt="Amy Poehler and Maya Hawke Believe ‘Inside Out 2’ Is a Billion Dollars That Actually Did Some Good for the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amy-poehler-and-maya-hawke-believe-inside-out-2-is-a-billion-dollars-that-actually-did-some-good-for-the-world-2000682221" target="_blank">Amy Poehler and Maya Hawke Believe ‘Inside Out 2’ Is a Billion Dollars That Actually Did Some Good for the World</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Screenshot-2024-05-17-at-8.57.09-PM.png?fit=870%2C1408&amp;quality=55&amp;ssl=1" alt="These leaning buildings outdo Pisa&#x27;s famous tilt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +295,6 @@
                 <span class="time">2025-11-05 23:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9AWA7DZ415AGE4FA68P5YM2/hero-image.png" alt="Google Just Blocked 749 Million URLs for Anna’s Archive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-blocks-749-million-annas-archive-urls?utm_medium=RSS" target="_blank">Google Just Blocked 749 Million URLs for Anna’s Archive</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-05 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
