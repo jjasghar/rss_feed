@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 06:02:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-06 07:01:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,21 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251105-trump-ch-1002-837f29.jpg" alt="Trump&#x27;s bright view of the economy doesn&#x27;t match what voters are seeing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trumps-bright-view-economy-doesnt-match-voters-say-seeing-rcna242093" target="_blank">Trump&#x27;s bright view of the economy doesn&#x27;t match what voters are seeing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-06 00:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/russia-ukraine-war-list-of-key-events-day-1351?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,351</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-06 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/05/nx-s1-5600082/faa-airport-traffic-reductions-shutdown" target="_blank">FAA will reduce air traffic by 10% at many airports to maintain safety</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 23:56</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx7ivdq79a0eck6jz6xbg.jpg" alt="The Untapped Risk of Water Management in Sustainability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n" target="_blank">The Untapped Risk of Water Management in Sustainability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 06:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foxcwx4nmkgkva0v3ttc7.png" alt="🌐DevOps and Cloud Project: Static Website Hosting with AWS S3 + CloudFront + CI/CD" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +219,6 @@
                 <span class="time">2025-11-06 01:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/taku25/vim-and-i-254g" target="_blank">Vim and I</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 01:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Screenshot-2024-05-17-at-8.57.09-PM.png?fit=870%2C1408&amp;quality=55&amp;ssl=1" alt="These leaning buildings outdo Pisa&#x27;s famous tilt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/05/these-leaning-buildings-outdo-pisas-famous-tilt.html" target="_blank">These leaning buildings outdo Pisa&#x27;s famous tilt</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-06 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/airtag-4-pack-1280x853.jpg" alt="AirTags Are Going for Nearly Free for Early Black Friday, Amazon Has Sold 10K Units Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-blocks-749-million-annas-archive-urls?utm_medium=RSS" target="_blank">Google Just Blocked 749 Million URLs for Anna’s Archive</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-05 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Obsession-close-up-1280x853.jpg" alt="One of the Best Horror Movies You’ve Not Seen Yet Finally Has a Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/best-horror-2026-obsession-release-date-2000682099" target="_blank">One of the Best Horror Movies You’ve Not Seen Yet Finally Has a Release Date</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-05 23:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
