@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 11:01:45 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-06 12:02:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/tigray-fighters-enter-ethiopias-afar-region-stoking-fears-of-new-conflict?traffic_source=rss" target="_blank">Tigray fighters enter Ethiopia’s Afar region, stoking fears of new conflict</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-06 11:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/nov/06/us-ends-deportation-protections-for-south-sudanese-nationals" target="_blank">US ends deportation protections for South Sudanese nationals</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-06 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/sudanese-prime-minister-calls-for-rsf-to-be-labelled-terrorist-group?traffic_source=rss" target="_blank">Sudanese prime minister calls for RSF to be labelled ‘terrorist’ group</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-06 10:43</span>
@@ -60,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15fc/live/76d0f7b0-bac7-11f0-8e3e-7d2651eeebf3.jpg" alt="Typhoon heads for Vietnam after 114 killed in the Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62e0764e6qo?at_medium=RSS&at_campaign=rss" target="_blank">Typhoon heads for Vietnam after 114 killed in the Philippines</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-06 09:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -68,38 +103,29 @@
                 <span class="time">2025-11-06 08:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/6/trump-says-new-yorkers-will-flee-city-under-communist-mayor-mamdani?traffic_source=rss" target="_blank">Trump says New Yorkers will flee city under ‘communist’ mayor Mamdani</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 07:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/how-the-ups-cargo-plane-crashed-in-louisville-what-we-know-about-victims?traffic_source=rss" target="_blank">How the UPS cargo plane crashed in Louisville, what we know about victims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/typhoon-kalmaegi-bears-down-on-vietnam-after-114-killed-in-the-philippines?traffic_source=rss" target="_blank">Typhoon Kalmaegi bears down on Vietnam after 114 killed in the Philippines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 04:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690c4ce3b01757d92f1dba90/master/pass/Diaspora%20Cookbooks%20Hit%20Their%20Heyday.png" alt="Diaspora Cookbooks Hit Their Heyday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-diaspora-cookbooks/" target="_blank">Diaspora Cookbooks Hit Their Heyday</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-06 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/813227/czinger-21c-hypercar-divergent-3d-manufacturing" target="_blank">The Czinger 21C is a halo car for the future military-industrial complex</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +162,47 @@
                 <span class="time">2025-11-06 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/815208/election-night-at-kalshi-hq" target="_blank">Election night at Kalshi HQ</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690bce68a7ff0ebc3b950181/master/pass/FAA-Scale-Back-US-Flights-Gear-2244373936.jpg" alt="FAA Plan to Cut Flights Might Not Be an Utter Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/faa-plan-to-cut-flights-might-not-be-an-utter-nightmare/" target="_blank">FAA Plan to Cut Flights Might Not Be an Utter Nightmare</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-05 23:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/grafana-gitlab-serverless-cicd/en/headerimage/generatedHeaderImage-1762270252333.jpg" alt="Grafana and GitLab Introduce Serverless CI/CD Observability Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/grafana-gitlab-serverless-cicd/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana and GitLab Introduce Serverless CI/CD Observability Integration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-06 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="Symmetry as a Superpower" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/symmetry-as-a-superpower-2flp" target="_blank">Symmetry as a Superpower</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/web-engineering-celebrating-our-third-annual-hack-week" target="_blank">Web Engineering: Celebrating Our Third Annual Hack Week</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-11-06 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeDesktop-Adopts-FHS" target="_blank">FreeDesktop.org Adopts The Filesystem Hierarchy Standard</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-06 11:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,42 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/azure-apim-service-bus-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure APIM Simplifies Event-Driven Architecture with Native Service Bus Policy</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-06 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/liquidcode/week-3-from-0-to-30-developers-building-in-public-2bfi" target="_blank">Week 3: From 0 to 30 Developers (Building in Public)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 09:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahmadasroni38/loop-master-menguasai-seni-algoritma-perulangan-1e8e" target="_blank">🔄 Loop Master: Menguasai Seni Algoritma Perulangan</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cure-lang.org/" target="_blank">Erlang Meets Idris: Cure Programming Language</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-06 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftwyr4u2o88r9viox0qcm.png" alt="🚀 Terraform Workspaces and Multi-Environment Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/terraform-workspaces-and-multi-environment-deployments-12gb" target="_blank">🚀 Terraform Workspaces and Multi-Environment Deployments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 07:58</span>
             </div>
         </div>
 </div>
@@ -241,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Rian-Johnson-Star-Wars-Last-Jedi-1280x853.jpg" alt="Rian Johnson Loved All Your ‘Last Jedi’ Reactions, Actually" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rian-johnson-star-wars-the-last-jedi-reactions-2000682176" target="_blank">Rian Johnson Loved All Your ‘Last Jedi’ Reactions, Actually</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Inside-Out-2-Pixar-1280x853.jpg" alt="Amy Poehler and Maya Hawke Believe ‘Inside Out 2’ Is a Billion Dollars That Actually Did Some Good for the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +303,6 @@
                 <span class="time">2025-11-06 00:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/philips-bulb-1280x853.jpg" alt="Philips Hue Smart Lighting with 3 Bulbs Reaches New Record Low, Amazon Cuts Nearly 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/philips-hue-smart-lighting-with-3-bulbs-reaches-new-record-low-amazon-cuts-nearly-50-off-2000641368" target="_blank">Philips Hue Smart Lighting with 3 Bulbs Reaches New Record Low, Amazon Cuts Nearly 50% Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-05 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
