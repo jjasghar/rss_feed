@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 22:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-06 23:01:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/11/6/in-gaza-woman-searches-husband-brother-among-corpses?traffic_source=rss" target="_blank">In Gaza, a woman searches for her husband and brother among the corpses</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-06 22:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-19-ap-gmh-251105_1762371632284_hpMain_4x3t_384.jpg" alt="Judge orders Trump administration to fund full SNAP benefits, rebukes Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +101,29 @@
                 <span class="time">2025-11-06 19:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/06/sudanese-militia-group-accused-of-war-crimes-agrees-to-a-ceasefire" target="_blank">Sudanese militia group accused of war crimes agrees to a ceasefire</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-06 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/03/eht5-500x500.jpg" alt="Next-generation black hole imaging may help us understand gravity better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/imaging-black-holes-may-help-us-rule-out-some-models-of-gravity/" target="_blank">Next-generation black hole imaging may help us understand gravity better</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-06 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/" target="_blank">Accel backs Uber rival Rapido as Prosus boosts stake</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-06 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +160,20 @@
                 <span class="time">2025-11-06 19:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690cdd2435f1df352f792503/master/pass/Star-Trek-Lego-Gear-10356_Lifestyle_Build_03.jpg" alt="Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lego-uss-enterprise-2025/" target="_blank">Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-06 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/815637/blink-video-doorbell-second-generation-early-black-friday-deal-sale" target="_blank">The latest Blink Video Doorbell is over 50 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1vvhfhr727uh21gv5n1a.png" alt="AWS Capabilities by Region" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/aws-capabilities-by-region-3ffb" target="_blank">AWS Capabilities by Region</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 22:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4wyd9942rpxzrwhosz5k.JPG" alt="Explain the difference between subquery,CTE and stored procedures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,21 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3gs7qv58uh8027foppyc.png" alt="AI Evaluation - Future AGI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18733237&w=600" alt="A Beginner&#x27;s Guide to Docker Compose" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devinfo/ai-evaluation-future-agi-2po9" target="_blank">AI Evaluation - Future AGI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Archinstall-3.0.13-Released" target="_blank">Archinstall 3.0.13 Adds WiFi Connection Menu To Arch Linux Installer</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-06 19:26</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/beginners-guide-to-docker-compose" target="_blank">A Beginner&#x27;s Guide to Docker Compose</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-06 20:00</span>
             </div>
         </div>
 </div>
@@ -245,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Lightspeed_November-1280x853.jpg" alt="A Woman’s Magic Transcends Politics and Borders in This Timely, Fantastical Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-womans-magic-powers-transcend-politics-and-borders-in-this-timely-fantastical-short-story-2000680162" target="_blank">A Woman’s Magic Transcends Politics and Borders in This Timely, Fantastical Short Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Captain-Ameirca.jpg" alt="That Captain America And Black Panther Game We Still Haven’t Seen Gameplay For Gets Indefinitely Delayed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/captain-america-black-panther-game-delay-marvel-hydra-2000641825" target="_blank">That Captain America And Black Panther Game We Still Haven’t Seen Gameplay For Gets Indefinitely Delayed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-06 22:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/gunbuster-gainax-poseio9-template-circle-2-1280x853.jpg" alt="Why Gainax’s ‘Gunbuster’ Pose Is More Than Anime Rule of Cool Reference Fodder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +301,6 @@
                 <span class="time">2025-11-06 19:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-06 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/San-Diego-Comic-Con-Hall-H-1280x853.jpg" alt="Going to San Diego Comic-Con Just Became Even More of a Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/san-diego-comic-con-hotels-hotelpocalyse-2026-2000682531" target="_blank">Going to San Diego Comic-Con Just Became Even More of a Nightmare</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-06 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
