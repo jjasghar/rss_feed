@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 18:02:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-06 19:01:35 UTC -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/06/sudanese-militia-group-accused-of-war-crimes-agrees-to-a-ceasefire" target="_blank">Sudanese militia group accused of war crimes agrees to a ceasefire</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-06 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Health/wegovy-zepbound-ap-jef-251106_1762445903979_hpMain_4x3t_384.jpg" alt="White House announces deal to lower weight loss drug prices for many Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fa1/live/d8a5feb0-bb15-11f0-bd8f-95105d31e9c2.jpg" alt="Wandsworth prison is by far the worst I&#x27;ve visited" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1d06q953d1o?at_medium=RSS&at_campaign=rss" target="_blank">Wandsworth prison is by far the worst I&#x27;ve visited</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-06 16:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d404/live/da5dd4f0-bb22-11f0-bd8f-95105d31e9c2.jpg" alt="Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -80,29 +98,20 @@
                 <span class="time">2025-11-06 15:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nancy-pelosi-1-ht-gmh-251106_1762435316671_hpMain_4x3t_384.jpg" alt="Nancy Pelosi, first woman to be House speaker, announces retirement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/nancy-pelosi-woman-house-speaker-announces-retirement/story?id=116779249" target="_blank">Nancy Pelosi, first woman to be House speaker, announces retirement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-06 15:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/06/south-africa-investigation-citizens-fighting-ukraine-russia-war-mercenaries" target="_blank">South Africa launches investigation into 17 citizens fighting in Ukraine</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-06 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690cdd2435f1df352f792503/master/pass/Star-Trek-Lego-Gear-10356_Lifestyle_Build_03.jpg" alt="Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lego-uss-enterprise-2025/" target="_blank">Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-06 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +157,38 @@
                 <span class="time">2025-11-06 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/814389/im-the-verges-new-av-expert-ama" target="_blank">I’m The Verge’s new AV expert, ask me anything!</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/android-genai-prompt-api/en/headerimage/android-genai-prompt-api-1762452737408.jpeg" alt="Android GenAI Prompt API Enables Natural Language Requests with Gemini Nano" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/android-genai-prompt-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android GenAI Prompt API Enables Natural Language Requests with Gemini Nano</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-06 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sudlo2014/n8n-installation-and-configuration-4k00" target="_blank">N8N Installation And Configuration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18731123&w=600" alt="A Developer&#x27;s Guide to Sentiment Analysis With Naive Bayes and Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/sentiment-analysis-naive-bayes-python-guide" target="_blank">A Developer&#x27;s Guide to Sentiment Analysis With Naive Bayes and Python</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-06 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,46 +201,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/cachyos-ubuntu-2510-f43" target="_blank">CachyOS Continues Delivering Leading Performance Over Ubuntu 25.10, Fedora Workstation 43</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-06 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/" target="_blank">TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-11-06 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-ANV-Pipeline-Binary" target="_blank">Intel ANV Vulkan Driver Finally Exposes Pipeline Binary &quot;VK_KHR_pipeline_binary&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-06 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nullvoxpopuli/logging-tests-to-the-terminal-in-browser-tests-to-help-ai-find-your-test-results-1bl9" target="_blank">Logging tests to the terminal in browser tests to help AI find your test results</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/d2a54491-50df-4672-8519-a450ced1a810_420x300.png" alt="The Pulse #152: Cursor and GitHub double down on agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-150-cursor-and-github-double" target="_blank">The Pulse #152: Cursor and GitHub double down on agents</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-11-06 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/uber-pinot-query-redesign/en/headerimage/generatedHeaderImage-1762127056427.jpg" alt="Inside Uber’s Pinot Query Overhaul: Simplifying Layers and Improving Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/uber-pinot-query-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Uber’s Pinot Query Overhaul: Simplifying Layers and Improving Observability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-06 15:00</span>
             </div>
         </div>
 </div>
@@ -245,11 +245,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/San-Diego-Comic-Con-Hall-H-1280x853.jpg" alt="Going to San Diego Comic-Con Just Became Even More of a Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/san-diego-comic-con-hotels-hotelpocalyse-2026-2000682531" target="_blank">Going to San Diego Comic-Con Just Became Even More of a Nightmare</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus-1280x853.jpg" alt="Apple TV Revealed a Huge ‘Pluribus’ Spoiler by Releasing Its Opening Scene Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/pluribus-apple-tv-vince-gilligan-premiere-spoiler-aliens-2000682536" target="_blank">Apple TV Revealed a Huge ‘Pluribus’ Spoiler by Releasing Its Opening Scene Early</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/04/eyes.jpeg?fit=1500%2C967&amp;quality=60&amp;ssl=1" alt="Today I learned that a scallop can have over 100 eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/06/today-i-learned-that-a-scallop-can-have-over-100-eyes.html" target="_blank">Today I learned that a scallop can have over 100 eyes</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-06 18:00</span>
             </div>
         </div>
@@ -280,24 +298,6 @@
                 <span class="time">2025-11-06 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/patchnotes2main.jpg" alt="Arc Raiders Has A Big Roadmap And A New Update But Fans Want Some Things Kept Secret" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-roadmap-new-map-patch-barricade-2000641734" target="_blank">Arc Raiders Has A Big Roadmap And A New Update But Fans Want Some Things Kept Secret</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-06 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/GOP-Elephant-e1741108452603.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Republicans finally fix labor shortage by scaring off everyone who works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/06/republicans-finally-fix-labor-shortage-by-scaring-off-everyone-who-works.html" target="_blank">Republicans finally fix labor shortage by scaring off everyone who works</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-06 16:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
