@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 20:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-06 21:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/06/nx-s1-5599558/states-redistricting-house-2026-midterm-elections" target="_blank">After California&#x27;s vote to counter Trump, here&#x27;s where redistricting stands</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-06 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/plane-tarmac-gty-jef-251106_1762453442821_hpMain_4x3t_384.jpg" alt="What travelers should expect at airports as FAA cuts flights across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/GMA/Travel/travelers-expect-airports-faa-cuts-flights-country/story?id=127254954" target="_blank">What travelers should expect at airports as FAA cuts flights across the country</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-06 19:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +102,20 @@
                 <span class="time">2025-11-06 17:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fa1/live/d8a5feb0-bb15-11f0-bd8f-95105d31e9c2.jpg" alt="Wandsworth prison is by far the worst I&#x27;ve visited" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1d06q953d1o?at_medium=RSS&at_campaign=rss" target="_blank">Wandsworth prison is by far the worst I&#x27;ve visited</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-06 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d404/live/da5dd4f0-bb22-11f0-bd8f-95105d31e9c2.jpg" alt="Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70jnx9e414o?at_medium=RSS&at_campaign=rss" target="_blank">Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-06 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Finance_AI-500x500.jpg" alt="Gemini Deep Research comes to Google Finance, backed by prediction market data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/11/gemini-deep-research-comes-to-google-finance-backed-by-prediction-market-data/" target="_blank">Gemini Deep Research comes to Google Finance, backed by prediction market data</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-06 20:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +161,38 @@
                 <span class="time">2025-11-06 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/814728/pebblebee-clip-card-5-trackers-apple-find-my-google-hub" target="_blank">Pebblebee’s new trackers are brighter, louder, thinner, and more colorful</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aygul_aksyanova/the-missing-layer-how-i-completed-our-data-lakehouse-architecture-when-everyone-else-stopped-at-56hm" target="_blank">The Missing Layer: How I Completed Our Data Lakehouse Architecture (When Everyone Else Stopped at Silver)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/" target="_blank">GitHub Copilot CLI 101: How to use GitHub Copilot from the command line</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-06 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/" target="_blank">Two billion email addresses were exposed</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-06 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3gs7qv58uh8027foppyc.png" alt="AI Evaluation - Future AGI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,33 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/unlocking-modernization-suse-virtualization-on-arm" target="_blank">Unlocking Modernization: SUSE Virtualization on Arm64 With Harvester</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-06 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/android-genai-prompt-api/en/headerimage/android-genai-prompt-api-1762452737408.jpeg" alt="Android GenAI Prompt API Enables Natural Language Requests with Gemini Nano" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/android-genai-prompt-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android GenAI Prompt API Enables Natural Language Requests with Gemini Nano</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-06 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sudlo2014/n8n-installation-and-configuration-4k00" target="_blank">N8N Installation And Configuration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-06 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18731123&w=600" alt="A Developer&#x27;s Guide to Sentiment Analysis With Naive Bayes and Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/sentiment-analysis-naive-bayes-python-guide" target="_blank">A Developer&#x27;s Guide to Sentiment Analysis With Naive Bayes and Python</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-06 18:00</span>
             </div>
         </div>
 </div>
@@ -245,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Bari-Weiss-1280x853.jpg" alt="TikTok Billionaire Is Making Bari Weiss’s ‘Anti-Woke’ College Tuition Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tiktok-billionaire-is-making-bari-weisss-anti-woke-college-tuition-free-2000682560" target="_blank">TikTok Billionaire Is Making Bari Weiss’s ‘Anti-Woke’ College Tuition Free</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-06 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Game-Awards-Muppets-1280x750.jpg" alt="The Game Awards Deletes Its Future Class" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/game-awards-2025-future-class-tgas-geoff-keighley-2000641757" target="_blank">The Game Awards Deletes Its Future Class</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-06 19:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +302,6 @@
                 <span class="time">2025-11-06 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/04/eyes.jpeg?fit=1500%2C967&amp;quality=60&amp;ssl=1" alt="Today I learned that a scallop can have over 100 eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/06/today-i-learned-that-a-scallop-can-have-over-100-eyes.html" target="_blank">Today I learned that a scallop can have over 100 eyes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-06 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/vol-1-secret-origins-COVER-web.jpg?fit=1066%2C1200&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug finally gets its complete archive treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/06/tom-the-dancing-bug-finally-gets-its-complete-archive-treatment.html" target="_blank">Tom the Dancing Bug finally gets its complete archive treatment</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-06 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,22 +316,13 @@
                 <span class="time">2025-11-06 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/05/shadow-facts" target="_blank">Shadow Facts</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-05 20:26</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
