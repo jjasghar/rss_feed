@@ -1,44 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 00:04:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-06 01:29:26 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/russia-ukraine-war-list-of-key-events-day-1351?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,351</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-06 00:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +94,20 @@
                 <span class="time">2025-11-05 21:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/05/g-s1-96661/rubio-hegseth-venezuela-congress" target="_blank">Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol Hill</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-05 20:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690bce68a7ff0ebc3b950181/master/pass/FAA-Scale-Back-US-Flights-Gear-2244373936.jpg" alt="FAA Plan to Cut Flights Might Not Be an Utter Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/faa-plan-to-cut-flights-might-not-be-an-utter-nightmare/" target="_blank">FAA Plan to Cut Flights Might Not Be an Utter Nightmare</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-05 23:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +153,20 @@
                 <span class="time">2025-11-05 21:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale" target="_blank">Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-05 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/taku25/vim-and-i-254g" target="_blank">Vim and I</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-06 01:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +212,6 @@
                 <span class="time">2025-11-05 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://climatedrift.substack.com/p/why-solarpunk-is-already-happening" target="_blank">Solarpunk is happening in Africa</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-05 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,12 +232,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/dell-inspiron-16-lap-1280x853.jpg" alt="Dell Begins Black Friday with 70% Off This 1TB SSD Windows Laptop, Prime Gets Nearly $2,300 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dell-begins-black-friday-with-70-off-this-1tb-ssd-windows-laptop-prime-gets-nearly-2300-off-2000641504" target="_blank">Dell Begins Black Friday with 70% Off This 1TB SSD Windows Laptop, Prime Gets Nearly $2,300 Off</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-06 01:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/philips-bulb-1280x853.jpg" alt="Philips Hue Smart Lighting with 3 Bulbs Reaches New Record Low, Amazon Cuts Nearly 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/philips-hue-smart-lighting-with-3-bulbs-reaches-new-record-low-amazon-cuts-nearly-50-off-2000641368" target="_blank">Philips Hue Smart Lighting with 3 Bulbs Reaches New Record Low, Amazon Cuts Nearly 50% Off</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-05 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9AWA7DZ415AGE4FA68P5YM2/hero-image.png" alt="Google Just Blocked 749 Million URLs for Anna’s Archive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-blocks-749-million-annas-archive-urls?utm_medium=RSS" target="_blank">Google Just Blocked 749 Million URLs for Anna’s Archive</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-05 23:30</span>
             </div>
         </div>
 <div class="story">
@@ -279,24 +283,6 @@
                 <span class="title"><a href="https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427" target="_blank">Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-05 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Nest-Cam-Outdoor-three-quarter-1280x853.jpg" alt="Google Nest Cam Outdoor (2025) Review: Gemini Just Lied Too Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-nest-cam-outdoor-wired-second-gen-review-gemini-just-lied-too-much-2000670298" target="_blank">Google Nest Cam Outdoor (2025) Review: Gemini Just Lied Too Much</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-05 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9APS12EEE1VBVNS558SRR03/hero-image.png" alt="NotebookLM Can Now Turn Your Notes Into a Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/notebooklm-can-now-generate-videos?utm_medium=RSS" target="_blank">NotebookLM Can Now Turn Your Notes Into a Video</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-05 20:30</span>
             </div>
         </div>
 </div>
@@ -354,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
