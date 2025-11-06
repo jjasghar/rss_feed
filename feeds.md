@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 15:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-06 16:01:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d404/live/da5dd4f0-bb22-11f0-bd8f-95105d31e9c2.jpg" alt="Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c70jnx9e414o?at_medium=RSS&at_campaign=rss" target="_blank">Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-06 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nancy-pelosi-1-ht-gmh-251106_1762435316671_hpMain_4x3t_384.jpg" alt="Nancy Pelosi, first woman to be House speaker, announces retirement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/nancy-pelosi-woman-house-speaker-announces-retirement/story?id=116779249" target="_blank">Nancy Pelosi, first woman to be House speaker, announces retirement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-06 15:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/06/south-africa-investigation-citizens-fighting-ukraine-russia-war-mercenaries" target="_blank">South Africa launches investigation into 17 citizens fighting in Ukraine</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-06 15:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,37 +96,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/6/video-wife-of-murdered-mexican-mayor-takes-his-role-in-office?traffic_source=rss" target="_blank">Video: Wife of murdered Mexican mayor takes his role in office</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/tigray-fighters-enter-ethiopias-afar-region-stoking-fears-of-new-conflict?traffic_source=rss" target="_blank">Tigray fighters enter Ethiopia’s Afar region, stoking fears of new conflict</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/nov/06/us-ends-deportation-protections-for-south-sudanese-nationals" target="_blank">US ends deportation protection for South Sudanese nationals</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-06 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/nov/06/us-ends-deportation-protections-for-south-sudanese-nationals" target="_blank">US ends deportation protections for South Sudanese nationals</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-06 11:12</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/06/g-s1-96674/nancy-pelosi-retire" target="_blank">Former Speaker Nancy Pelosi will not seek reelection</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-06 14:00</span>
             </div>
         </div>
 </div>
@@ -105,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/814728/pebblebee-clip-card-5-trackers-apple-find-my-google-hub" target="_blank">Pebblebee’s new trackers are brighter, louder, thinner, and more colorful</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-06 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/06/mastodons-latest-software-update-brings-quote-posts-to-all-server-operators/" target="_blank">Mastodon’s latest software update brings quote posts to all server operators</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-06 15:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690c59de8cd790be0031f69e/master/pass/Spore%20Yourself%20Rotten%20With%20WIRED's%20Mushroom%20Gifts.png" alt="The Best Mushroom Gifts for Your Fungi Friend (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +161,20 @@
                 <span class="time">2025-11-06 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone" target="_blank">Huawei Mate 70 Air is a little thick for a thin phone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690c446846ac09a75504e441/master/pass/Review-%20LG%20Studio%20Smart%203-Door%20French%20Door%20Refrigerator.png" alt="LG Studio Smart 3-Door French Door Refrigerator Review: Cool Customer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lg-studio-smart-3-door-french-door-refrigerator/" target="_blank">LG Studio Smart 3-Door French Door Refrigerator Review: Cool Customer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-06 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/uber-pinot-query-redesign/en/headerimage/generatedHeaderImage-1762127056427.jpg" alt="Inside Uber’s Pinot Query Overhaul: Simplifying Layers and Improving Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/uber-pinot-query-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Uber’s Pinot Query Overhaul: Simplifying Layers and Improving Observability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-06 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="time">2025-11-06 11:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hopper-Blackwell-Nova-Prep" target="_blank">NVIDIA Preparing For Hopper &amp; Blackwell GPU Support With Open-Source Nova Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-06 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/ss_96013f29e621d98bd3364bf7c21b82512934fa7b.1920x1080-1280x720.jpg" alt="PlayStation Removes OnlyFans Sex Game But Leaves Steam Rip-Offs As Fans Beg For Quality Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/onlyfans-psn-playstation-store-megabonk-peak-2000641642" target="_blank">PlayStation Removes OnlyFans Sex Game But Leaves Steam Rip-Offs As Fans Beg For Quality Control</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-06 15:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/Samsung990EVO-Plus-1280x853.jpg" alt="Samsung Is Clearing Out Its 990 EVO Plus SSDs, All Capacities Now at Record Lows on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +293,6 @@
                 <span class="time">2025-11-06 12:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Rian-Johnson-Star-Wars-Last-Jedi-1280x853.jpg" alt="Rian Johnson Loved All Your ‘Last Jedi’ Reactions, Actually" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rian-johnson-star-wars-the-last-jedi-reactions-2000682176" target="_blank">Rian Johnson Loved All Your ‘Last Jedi’ Reactions, Actually</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-06 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
