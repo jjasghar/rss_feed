@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 13:10:36 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-06 14:01:41 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +102,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/814389/im-the-verges-new-av-expert-ama" target="_blank">I’m The Verge’s new AV expert, ask me anything!</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/06/why-benchmark-made-a-rare-crypto-bet-on-trading-app-fomo-with-17m-series-a/" target="_blank">Why Benchmark made a rare crypto bet on trading app Fomo, with $17M Series A</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688aa25d423cc6d6af7e01ff/master/pass/The%20Best%20Cheap%20Headphones%20for%20$100%20or%20Less.png" alt="The Best Cheap Headphones We’ve Tried" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-headphones-under-100/" target="_blank">The Best Cheap Headphones We’ve Tried</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-06 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone" target="_blank">Huawei Mate 70 Air is a little thick for a thin phone</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-06 12:35</span>
@@ -126,33 +150,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/the-best-diaspora-cookbooks/" target="_blank">Diaspora Cookbooks Hit Their Heyday</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/813227/czinger-21c-hypercar-divergent-3d-manufacturing" target="_blank">The Czinger 21C is a halo car for the future military-industrial complex</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/814694/deep-sea-mining-waste-battery-metals-research-trump" target="_blank">How deep-sea mining could threaten a vital ocean food source</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/06/nigeria-backs-ventures-platform-as-seed-fund-hits-64m-first-close/" target="_blank">Ventures Platform, one of Africa’s most active early-stage investors, has raised another $64 million</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-06 09:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
