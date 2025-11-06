@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 03:22:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-06 04:04:42 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, November 06, 2025 - 04:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://support.mozilla.org/en-US/forums/contributors/717446" target="_blank">Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-06 02:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FEX-2511-Released" target="_blank">FEX 2511 Delivers More Performance Improvements For Linux x86 Binaries On ARM64</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-06 01:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/taku25/vim-and-i-254g" target="_blank">Vim and I</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/tessamero/from-student-to-developer-how-open-source-can-launch-your-career-d2n" target="_blank">From student to developer - How open source can launch your career</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-05 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/More-Intel-Crescent-Linux-6.19" target="_blank">More Intel Crescent Island Enablement Prepped For Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-05 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5" target="_blank">React Tip: Pass a Function to useState, Don’t Call It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-05 20:57</span>
             </div>
         </div>
 </div>
@@ -356,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 04:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
