@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 18:02:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-07 19:01:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Air travel reductions could increase if shutdown continues, Duffy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Air travel reductions could increase if shutdown continues, Duffy says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-07 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/pakistan-says-afghanistan-talks-deadlocked-after-deadly-border-clashes?traffic_source=rss" target="_blank">Pakistan says Afghanistan talks deadlocked after deadly border clashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762537029640_now_daily_a_passngers_faa_251107_1920x1080-x9zij2.jpg" alt="&#x27;It&#x27;s been awful&#x27;: Passengers experience rough travels amid FAA flight disruptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/passengers-experience-rough-travels-amid-faa-flight-disruptions-251552325676" target="_blank">&#x27;It&#x27;s been awful&#x27;: Passengers experience rough travels amid FAA flight disruptions</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-07 17:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +98,20 @@
                 <span class="time">2025-11-07 15:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/tanzania-charges-dozens-with-treason-over-election-protests?traffic_source=rss" target="_blank">Tanzania charges dozens with treason over election protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/sudanese-army-intercepts-drone-attacks-after-rsf-agrees-to-truce?traffic_source=rss" target="_blank">Sudanese army intercepts drone attacks on cities after RSF agrees to truce</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb20/live/698d49a0-ba81-11f0-ba75-093eca1ac29b.jpg" alt="Algerian man mistakenly released from HMP Wandsworth arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c625grkxg05o?at_medium=RSS&at_campaign=rss" target="_blank">Algerian man mistakenly released from HMP Wandsworth arrested</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-07 13:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/" target="_blank">I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-07 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690bf3b2af6322edb6dcb5eb/master/pass/Made-In-China-TikTok-Shop-Business-2159326767.jpg" alt="TikTok Shop Is Now the Size of eBay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +157,20 @@
                 <span class="time">2025-11-07 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224592867-500x500.jpg" alt="Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/rocket-report-canada-invests-in-sovereign-launch-india-flexes-rocket-muscles/" target="_blank">Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-07 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F51994%2F00e47a22-9bad-437d-b15f-709d6b8ae2bf.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mikeydorje/-1bk7" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 18:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2021/01/linux-mint.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 is Adding New System Hardware Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/" target="_blank">What 986 million code pushes say about the developer workflow in 2025</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-11-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fioul/fastminify-free-client-side-jscss-minifier-2o87" target="_blank">FastMinify - Free Client-Side JS/CSS Minifier</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 15:47</span>
             </div>
         </div>
 </div>
@@ -269,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/clown.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="This weird foot doctor animatronic gives visitors the strangest surprise ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/07/this-weird-foot-doctor-animatronic-gives-visitors-the-strangest-surprise-ever.html" target="_blank">This weird foot doctor animatronic gives visitors the strangest surprise ever</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/arraciderskinchick-1280x720.jpg" alt="Arc Raiders Selling $10 Chicken Helmets Reminds Players, Yup, It’s A Live Service Game Alright" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,15 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/wicked-for-good-new-songs-preview-streaming-2000683028" target="_blank">‘Wicked: For Good’ Teases Its Two Major New Songs</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-07 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/ps5-1280x720.jpg" alt="Sony Sues One PS5 Accessory Counterfeiter For Millions As Fakes Flood Online Stores" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-ebay-sony-lawsuit-counterfeit-ps5-accessory-2000642067" target="_blank">Sony Sues One PS5 Accessory Counterfeiter For Millions As Fakes Flood Online Stores</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 14:58</span>
             </div>
         </div>
 </div>
@@ -323,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
