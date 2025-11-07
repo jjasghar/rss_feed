@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 19:01:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-07 20:01:51 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 13 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/chuck-schumer-2-ht-gmh-251107_1762544367827_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Schumer outlines Dems&#x27; offer to reopen government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: Schumer outlines Dems&#x27; offer to reopen government</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-07 20:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Air travel reductions could increase if shutdown continues, Duffy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -60,6 +69,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/pakistan-says-afghanistan-talks-deadlocked-after-deadly-border-clashes?traffic_source=rss" target="_blank">Pakistan says Afghanistan talks deadlocked after deadly border clashes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-07 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5601894/air-travel-airports-flights-faa-reductions-what-to-know" target="_blank">The FAA&#x27;s air traffic reductions are taking effect. Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-07 18:14</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +98,38 @@
                 <span class="time">2025-11-07 17:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/7/schools-by-day-shelters-by-night-students-return-to-gaza-classrooms?traffic_source=rss" target="_blank">Schools by day, shelters by night: Students return to Gaza classrooms</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Airlines cancel hundreds of flights Friday amid shutdown-related FAA reductions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Airlines cancel hundreds of flights Friday amid shutdown-related FAA reductions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-07 15:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-17-500x500.jpg" alt="Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/commercial-spyware-landfall-ran-rampant-on-samsung-phones-for-almost-a-year/" target="_blank">Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-07 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ffcd899519782ac68aa47a/master/pass/All-Clad%20general%20Deals.png" alt="13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/all-clad-sale-october-2025/" target="_blank">13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-07 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch" target="_blank">Blackmagic’s free camera app can now stream directly to YouTube and Twitch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-07 18:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +157,29 @@
                 <span class="time">2025-11-07 16:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690d7291297004ce3a6880e2/master/pass/Best%20Gifts%20for%20Sleep.png" alt="The Best Gifts for Sleep, as Tested by Our Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-sleep-gifts/" target="_blank">The Best Gifts for Sleep, as Tested by Our Team</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-07 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/" target="_blank">Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-07 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/800440/best-gifts-under-100-2025" target="_blank">The Verge’s favorite holiday gifts under $100</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-07 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-c4l" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735386&w=600" alt="Beyond Dashboards: How Autonomous AI Agents Are Redefining Enterprise Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-autonomous-ai-agents-are-redefining-enterprise-analytics" target="_blank">Beyond Dashboards: How Autonomous AI Agents Are Redefining Enterprise Analytics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-07 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F51994%2F00e47a22-9bad-437d-b15f-709d6b8ae2bf.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +187,15 @@
                 <span class="title"><a href="https://dev.to/mikeydorje/-1bk7" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3-rc4" target="_blank">Mesa 25.3-rc4 Brings Fix For Many Steam Play Games To Properly Run On Intel Linux Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-07 18:02</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.52-Released" target="_blank">Hyprland 0.52 Released With New Features For This Wayland Compositor</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-07 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18733337&w=600" alt="How Does a Scrum Master Improve the Productivity of the Development Team?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-scrum-masters-boost-team-productivity" target="_blank">How Does a Scrum Master Improve the Productivity of the Development Team?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ripan030/mcuboot-bootup-journey-315m" target="_blank">MCUboot: Bootup Journey</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/" target="_blank">What 986 million code pushes say about the developer workflow in 2025</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-07 16:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2019/04/dnyw19alfh2b9ztv6t3y-1024x576.jpg" alt="Palantir CEO Says a Surveillance State Is Preferable to China Winning the AI Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/palantir-ceo-says-a-surveillance-state-is-preferable-to-china-winning-the-ai-race-2000683144" target="_blank">Palantir CEO Says a Surveillance State Is Preferable to China Winning the AI Race</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/ballpit-1280x720.jpg" alt="Developer Behind Hit 2025 Game Thinks The Response Has Been ‘Too Positive’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ball-x-pit-vampire-survivors-balatro-roguelike-2000642155" target="_blank">Developer Behind Hit 2025 Game Thinks The Response Has Been ‘Too Positive’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-07 19:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/IMG_0327-1280x720.jpg" alt="Pokémon Legends: Z-A’s Got A Moment That’s ‘Baby Shoes, Never Worn’ Sad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +289,6 @@
                 <span class="time">2025-11-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/arraciderskinchick-1280x720.jpg" alt="Arc Raiders Selling $10 Chicken Helmets Reminds Players, Yup, It’s A Live Service Game Alright" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-10-chicken-helmet-paid-cosmetic-item-skins-pricey-expensive-2000642065" target="_blank">Arc Raiders Selling $10 Chicken Helmets Reminds Players, Yup, It’s A Live Service Game Alright</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/wicked-for-good-glinda-fiyero-1280x853.jpg" alt="‘Wicked: For Good’ Teases Its Two Major New Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wicked-for-good-new-songs-preview-streaming-2000683028" target="_blank">‘Wicked: For Good’ Teases Its Two Major New Songs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
