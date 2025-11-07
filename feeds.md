@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 13:09:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 14:02:16 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224592867-500x500.jpg" alt="Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/rocket-report-canada-invests-in-sovereign-launch-india-flexes-rocket-muscles/" target="_blank">Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-07 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690d367936ab9c659eb4b4bf/master/pass/The%20Best%20Leggings%20I%E2%80%99ll%20Keep%20Wearing%20Until%20They%20Disintegrate.png" alt="9 Best Leggings of 2025, Tested and Reviewed by WIRED" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-leggings/" target="_blank">9 Best Leggings of 2025, Tested and Reviewed by WIRED</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-07 13:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -142,29 +160,38 @@
                 <span class="time">2025-11-07 07:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/815745/pluribus-review-apple-tv" target="_blank">Apple’s latest sci-fi series Pluribus luxuriates in its mystery</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-07 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/" target="_blank">Tesla delays reveal of production Roadster 2 to April Fools’ Day</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-06 23:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/satyam_gupta_0d1ff2152dcc/java-regionmatches-explained-your-go-to-guide-for-smart-string-comparison-1f9" target="_blank">Java regionMatches() Explained: Your Go-To Guide for Smart String Comparison</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/" target="_blank">Is Software the UFOlogy of Engineering Disciplines?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-07 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18729115&w=600" alt="Understanding the Idle-Timer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-the-idle-timer" target="_blank">Understanding the Idle-Timer</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +219,6 @@
                 <span class="time">2025-11-07 11:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/" target="_blank">Revealing the unknown unknowns in your software</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-07 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/tanstack-start-v1/en/headerimage/header-1762364329894.jpg" alt="TanStack Start - A New Meta Framework Powered By React Or SolidJS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/tanstack-start-v1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TanStack Start - A New Meta Framework Powered By React Or SolidJS</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-07 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkhfuz1tglzr2x54pkpec.png" alt="We built an AI Agent on Tiger Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b" target="_blank">We built an AI Agent on Tiger Cloud</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 07:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,12 +239,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Screen-Shot-2025-11-06-at-2.25.45-PM-1280x853.jpg" alt="The FBI Is Trying to Unmask the Registrar Behind Archive.Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-fbi-is-trying-to-unmask-the-registrar-behind-archive-today-2000682868" target="_blank">The FBI Is Trying to Unmask the Registrar Behind Archive.Today</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/gta666-1280x720.jpg" alt="PS Plus Subscribers Can Console Themselves With The Likely Return Of GTA V" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-gta6-rockstar-psplus-playstation-2000642048" target="_blank">PS Plus Subscribers Can Console Themselves With The Likely Return Of GTA V</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-07 13:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Sigourney-Weaver-Mandalorian-1280x853.jpg" alt="Sigourney Weaver Has an Optimistic Take on the Future of ‘Star Wars’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/sigourney-weaver-star-wars-mandalorian-grogu-2000682867" target="_blank">Sigourney Weaver Has an Optimistic Take on the Future of ‘Star Wars’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-07 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="FBI sources say Epstein files &quot;worse&quot; than photos &quot;showing Trump with half naked teenage girls,&quot; says journalist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/07/fbi-sources-say-epstein-files-worse-than-photos-showing-trump-with-half-naked-teenage-girls-says-journalist.html" target="_blank">FBI sources say Epstein files &quot;worse&quot; than photos &quot;showing Trump with half naked teenage girls,&quot; says journalist</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-07 11:41</span>
             </div>
         </div>
 <div class="story">
@@ -263,33 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/utopia-equals-dystopia-in-pluribus-apple-tvs-latest-sci-fi-standout-2000680460" target="_blank">Utopia Equals Dystopia in ‘Pluribus,’ Apple TV’s Latest Sci-Fi Standout</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/joint-base-one.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Multiple people at Air Force One base hospitalized after package of white powder delivered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/07/multiple-people-at-air-force-one-base-hospitalized-after-package-of-white-powder-delivered.html" target="_blank">Multiple people at Air Force One base hospitalized after package of white powder delivered</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-07 10:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/barred-owl-1280x853.jpg" alt="Controversial Plan to Kill 500,000 Barred Owls in U.S. Clears Major Hurdle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/controversial-plan-to-kill-500000-barred-owls-in-u-s-clears-major-hurdle-2000682489" target="_blank">Controversial Plan to Kill 500,000 Barred Owls in U.S. Clears Major Hurdle</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/AnkerSlimPowerBank-1280x853.jpg" alt="Anker Dumps Its 10,000 mAh Power Bank for Pennies, 10K Units Already Sold on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-dumps-its-10000-mah-power-bank-for-pennies-10k-units-already-sold-on-amazon-2000641824" target="_blank">Anker Dumps Its 10,000 mAh Power Bank for Pennies, 10K Units Already Sold on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 01:50</span>
             </div>
         </div>
 </div>
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 40 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
