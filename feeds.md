@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 21:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 22:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Friday, November 07, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/chuck-schumer-2-ht-gmh-251107_1762544367827_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Schumer outlines Dems&#x27; offer, GOP brushes off proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: Schumer outlines Dems&#x27; offer, GOP brushes off proposal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-07 21:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2812/live/1e530680-bc18-11f0-900d-c9ccbfdeef29.jpg" alt="DNA pioneer James Watson dies at 97" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/brazil-supreme-court-panel-rejects-bolsonaros-prison-sentence?traffic_source=rss" target="_blank">Brazil Supreme Court panel rejects Bolsonaro’s prison sentence appeal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 20:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/chuck-schumer-2-ht-gmh-251107_1762544367827_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Schumer outlines Dems&#x27; offer to reopen government" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -84,24 +92,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Air travel reductions could increase if shutdown continues, Duffy says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-07 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/pakistan-says-afghanistan-talks-deadlocked-after-deadly-border-clashes?traffic_source=rss" target="_blank">Pakistan says Afghanistan talks deadlocked after deadly border clashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5601894/air-travel-airports-flights-faa-reductions-what-to-know" target="_blank">The FAA&#x27;s air traffic reductions are taking effect. Here&#x27;s what to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-07 18:14</span>
             </div>
         </div>
 </div>
@@ -172,6 +162,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tomivan/coding-challenge-practice-question-48-4b3n" target="_blank">Coding Challenge Practice - Question 48</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-c4l" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 20:00</span>
@@ -207,19 +206,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3-rc4" target="_blank">Mesa 25.3-rc4 Brings Fix For Many Steam Play Games To Properly Run On Intel Linux Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-07 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2021/01/linux-mint.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 is Adding New System Hardware Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/linux-mint-new-system-info-app" target="_blank">Linux Mint 22.3 is Adding New System Hardware Tool</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-07 17:11</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/sayyadirfanali/Myna" target="_blank">Myna: Monospace typeface designed for symbol-heavy programming languages</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-07 18:27</span>
             </div>
         </div>
 </div>
@@ -241,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2221682966-1280x853.jpg" alt="Study Finds Around a Quarter of Polymarket Trades Are Fake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/study-finds-around-a-quarter-of-polymarket-trades-are-fake-2000683231" target="_blank">Study Finds Around a Quarter of Polymarket Trades Are Fake</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/01/bbfa93247bea3cd61c11503bb49a6481-1280x720.jpg" alt="Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/halo-infinite-no-more-updates-operation-halo-studios-xbox-2000642195" target="_blank">Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-07 21:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/totoromain-1280x720.jpg" alt="A No Man’s Sky Player Spent 100 Hours Building The Perfect Tribute To A Studio Ghibli Classic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,29 +285,20 @@
                 <span class="time">2025-11-07 19:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/ballpit-1280x720.jpg" alt="Developer Behind Hit 2025 Game Thinks The Response Has Been ‘Too Positive’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ball-x-pit-vampire-survivors-balatro-roguelike-2000642155" target="_blank">Developer Behind Hit 2025 Game Thinks The Response Has Been ‘Too Positive’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/IMG_0327-1280x720.jpg" alt="Pokémon Legends: Z-A’s Got A Moment That’s ‘Baby Shoes, Never Worn’ Sad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-trubbish-catch-poke-ball-dance-2000642148" target="_blank">Pokémon Legends: Z-A’s Got A Moment That’s ‘Baby Shoes, Never Worn’ Sad</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/bird-with-cigarette/" target="_blank">Bird with Cigarette</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-11-07 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1762478202-20251107.png" alt="Saturday Morning Breakfast Cereal - Miracle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
