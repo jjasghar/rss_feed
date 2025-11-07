@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 12:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 13:09:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb20/live/698d49a0-ba81-11f0-ba75-093eca1ac29b.jpg" alt="Algerian man mistakenly released from HMP Wandsworth arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c625grkxg05o?at_medium=RSS&at_campaign=rss" target="_blank">Algerian man mistakenly released from HMP Wandsworth arrested</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-07 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss" target="_blank">Israeli bureaucracy is “deliberate attempt” to limit Gaza aid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 12:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/north-korea-fires-ballistic-missile-days-after-hegseth-visit-says-seoul?traffic_source=rss" target="_blank">North Korea fires ballistic missile days after Hegseth visit, says Seoul</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-07 07:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/japan-resumes-seafood-exports-to-china-after-ban-over-fukushima-wastewater?traffic_source=rss" target="_blank">Japan resumes seafood exports to China after ban over Fukushima wastewater</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5601593/boeing-737-max-crashes" target="_blank">Boeing won&#x27;t face criminal charge over 737 Max crashes that killed hundreds of people</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-07 06:34</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93" target="_blank">Building an HTTP Server from TCP Sockets: 250 4,000 RPS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 12:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/microsoft-ado-mcp-server/en/headerimage/generatedHeaderImage-1762270953955.jpg" alt="Microsoft Moves Azure DevOps MCP Server From Preview To General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +219,6 @@
                 <span class="time">2025-11-07 07:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html" target="_blank">Leaving Meta and PyTorch</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-07 06:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,15 +231,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html" target="_blank">Faking Receipts with AI</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-11-07 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html" target="_blank">Rigged Poker Games</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-06 12:02</span>
             </div>
         </div>
 </div>
@@ -330,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
