@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 22:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-07 23:01:29 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c314/live/d8d686e0-bc0d-11f0-8456-eff94716b162.jpg" alt="Algerian man mistakenly released from Wandsworth prison arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c625grkxg05o?at_medium=RSS&at_campaign=rss" target="_blank">Algerian man mistakenly released from Wandsworth prison arrested</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-07 22:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/chuck-schumer-2-ht-gmh-251107_1762544367827_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Schumer outlines Dems&#x27; offer, GOP brushes off proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762547956967_now_daily_b_alcindor_usda_snap_251107_1920x1080-6y1j01.jpg" alt="USDA says it will begin fully funding SNAP benefits after court ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/usda-says-it-will-begin-fully-funding-snap-benefits-after-court-ruling-251566149666" target="_blank">USDA says it will begin fully funding SNAP benefits after court ruling</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-07 20:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -76,29 +101,29 @@
                 <span class="time">2025-11-07 20:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/chuck-schumer-2-ht-gmh-251107_1762544367827_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Schumer outlines Dems&#x27; offer to reopen government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: Schumer outlines Dems&#x27; offer to reopen government</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-07 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Air travel reductions could increase if shutdown continues, Duffy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Air travel reductions could increase if shutdown continues, Duffy says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-07 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690d3352c832aed16c6a3d58/master/pass/Cybersecurity-Lags-Government-Shutdowns-Security.jpg" alt="The Government Shutdown Is a Ticking Cybersecurity Time Bomb" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/" target="_blank">The Government Shutdown Is a Ticking Cybersecurity Time Bomb</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-07 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/" target="_blank">Rivian gives RJ Scaringe a new pay package worth up to $5B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-07 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,39 +143,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/frowny_bagboy-500x500.jpg" alt="Researchers surprised that with AI, toxicity is harder to fake than intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/" target="_blank">Researchers surprised that with AI, toxicity is harder to fake than intelligence</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-07 20:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/690e418216eea0bccc3e9188/master/pass/The%20Updated%20Razer%20Blade%2014%20Is%20Deeply%20Discounted.png" alt="Fat Savings on the Super Skinny Razer Blade 14 Gaming Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/razer-blade-14-oled-deal-1125/" target="_blank">Fat Savings on the Super Skinny Razer Blade 14 Gaming Laptop</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-07 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-17-500x500.jpg" alt="Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/commercial-spyware-landfall-ran-rampant-on-samsung-phones-for-almost-a-year/" target="_blank">Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-07 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ffcd899519782ac68aa47a/master/pass/All-Clad%20general%20Deals.png" alt="13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/all-clad-sale-october-2025/" target="_blank">13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-07 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch" target="_blank">Blackmagic’s free camera app can now stream directly to YouTube and Twitch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-07 18:53</span>
             </div>
         </div>
 </div>
@@ -162,9 +169,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8" target="_blank">SSLCommerz works with frontend, backend, and database</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tomivan/coding-challenge-practice-question-48-4b3n" target="_blank">Coding Challenge Practice - Question 48</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/" target="_blank">AI is Dunning-Kruger as a service</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-07 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NILFS2-Second-Maintainer" target="_blank">NILFS2 File-System Seeing Renewed Interest With Additional Maintainer</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-07 21:19</span>
             </div>
         </div>
 <div class="story">
@@ -183,33 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/kubernetes-traffic-routing-prefersamenode-prefersamezone" target="_blank">Kubernetes v1.34: Enabling Smarter Traffic Routing With PreferSameNode and PreferSameZone</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735386&w=600" alt="Beyond Dashboards: How Autonomous AI Agents Are Redefining Enterprise Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-autonomous-ai-agents-are-redefining-enterprise-analytics" target="_blank">Beyond Dashboards: How Autonomous AI Agents Are Redefining Enterprise Analytics</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-07 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F51994%2F00e47a22-9bad-437d-b15f-709d6b8ae2bf.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mikeydorje/-1bk7" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/sayyadirfanali/Myna" target="_blank">Myna: Monospace typeface designed for symbol-heavy programming languages</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-07 18:27</span>
             </div>
         </div>
 </div>
@@ -231,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/tatsuki-fujimoto-2-io9-template-3-1280x853.jpg" alt="‘Tatsuki Fujimoto 17-26’ Is a Joyously Unhinged Look Into the Young Mind of Manga’s Wildest Auteur" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tatsuki-fujimoto-17-26-anime-anthology-review-prime-video-2000682427" target="_blank">‘Tatsuki Fujimoto 17-26’ Is a Joyously Unhinged Look Into the Young Mind of Manga’s Wildest Auteur</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 22:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2221682966-1280x853.jpg" alt="Study Finds Around a Quarter of Polymarket Trades Are Fake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,20 +292,20 @@
                 <span class="time">2025-11-07 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2019/04/dnyw19alfh2b9ztv6t3y-1024x576.jpg" alt="Palantir CEO Says a Surveillance State Is Preferable to China Winning the AI Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/palantir-ceo-says-a-surveillance-state-is-preferable-to-china-winning-the-ai-race-2000683144" target="_blank">Palantir CEO Says a Surveillance State Is Preferable to China Winning the AI Race</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/07/the-glyphs-of-dover" target="_blank">The Glyphs Of Dover</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-07 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
