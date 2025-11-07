@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 05:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 06:02:18 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/at-least-5-killed-as-typhoon-kalmaegi-slams-into-vietnam?traffic_source=rss" target="_blank">At least 5 killed as Typhoon Kalmaegi slams into Vietnam</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 05:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,21 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/6/how-long-will-the-us-government-shutdown-last?traffic_source=rss" target="_blank">How long will the US government shutdown last?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7c7/live/006355e0-bb3b-11f0-a086-55f9ff82c252.jpg" alt="Government recovers £74m from asylum hotel firms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2844/live/11334fe0-bb3d-11f0-9494-47f20ee206c1.jpg" alt="McDonald&#x27;s faces new crackdown on sexual abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c709k1zx0ljo?at_medium=RSS&at_campaign=rss" target="_blank">Government recovers £74m from asylum hotel firms</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpwv01r2wj5o?at_medium=RSS&at_campaign=rss" target="_blank">McDonald&#x27;s faces new crackdown on sexual abuse</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-11-06 22:44</span>
+                <span class="time">2025-11-07 00:01</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/" target="_blank">Revealing the unknown unknowns in your software</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-07 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kynu4055/kubernetes-architecture-explained-5eom" target="_blank">🚀 Kubernetes Architecture Explained.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sebastianfuentesavalos/facade-pattern-catalog-of-enterprise-application-architecture-patterns-chh" target="_blank">Facade Pattern — Catalog of Enterprise Application Architecture Patterns 🏢</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,30 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Firefox-new-mascot.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla Unveils Kit, Its (Cute) New Mascot for Firefox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Firefox-new-mascot.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla Unveils Kit, a (Cute) New Mascot for Firefox" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/firefox-new-mascot-brand-refresh" target="_blank">Mozilla Unveils Kit, Its (Cute) New Mascot for Firefox</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/firefox-new-mascot-brand-refresh" target="_blank">Mozilla Unveils Kit, a (Cute) New Mascot for Firefox</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-11-07 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac" target="_blank">A Fond Farewell from Farmers&#x27; Almanac</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-07 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/grails-7-released/en/headerimage/java-istock-image-01-1762436985824.jpg" alt="Grails 7.0, Now Under the Apache Software Foundation, Delivers Enhancements for Micronaut and GORM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/grails-7-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grails 7.0, Now Under the Apache Software Foundation, Delivers Enhancements for Micronaut and GORM</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-07 02:30</span>
             </div>
         </div>
 </div>
@@ -313,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
