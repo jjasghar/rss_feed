@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 07:01:33 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-07 08:02:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/north-korea-fires-ballistic-missile-days-after-hegseth-visit-says-seoul?traffic_source=rss" target="_blank">North Korea fires ballistic missile days after Hegseth visit, says Seoul</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 07:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,6 +72,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/07/aid-cuts-uk-rejected-atrocity-prevention-sudan-civilians-rsf-massacres-el-fasher" target="_blank">UK rejected atrocity prevention plans for Sudan despite warning of possible genocide</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-07 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/at-least-5-killed-as-typhoon-kalmaegi-slams-into-vietnam?traffic_source=rss" target="_blank">At least 5 killed as Typhoon Kalmaegi slams into Vietnam</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -77,29 +96,20 @@
                 <span class="time">2025-11-07 05:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/hundreds-of-us-flights-cancelled-as-regulator-orders-cuts-to-air-traffic?traffic_source=rss" target="_blank">Hundreds of US flights cancelled as regulator orders cuts to air traffic</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Airlines cancel hundreds of flights Friday as shutdown stretches on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Airlines cancel hundreds of flights Friday as shutdown stretches on</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-07 03:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="Top Verizon Promo Codes &amp; Deals | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/verizon-promo-code/" target="_blank">Top Verizon Promo Codes &amp; Deals | November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-07 07:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +155,6 @@
                 <span class="time">2025-11-06 22:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/" target="_blank">Accel backs Uber rival Rapido as Prosus boosts stake</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-06 22:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +167,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/" target="_blank">Revealing the unknown unknowns in your software</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-07 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/tanstack-start-v1/en/headerimage/header-1762364329894.jpg" alt="TanStack Start - A New Meta Framework Powered By React Or SolidJS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/tanstack-start-v1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TanStack Start - A New Meta Framework Powered By React Or SolidJS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-07 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkhfuz1tglzr2x54pkpec.png" alt="We built an AI Agent on Tiger Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b" target="_blank">We built an AI Agent on Tiger Cloud</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 07:48</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/sebastianfuentesavalos/facade-pattern-catalog-of-enterprise-application-architecture-patterns-chh" target="_blank">Facade Pattern — Catalog of Enterprise Application Architecture Patterns 🏢</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 04:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3eo8" target="_blank">Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#x27;Mulholland Drive’</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy1ojsy7qqh0x93b1tn3.png" alt="How to Map Technical Requirements in IT Project Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/taskford/how-to-map-technical-requirements-in-it-project-management-2oj1" target="_blank">How to Map Technical Requirements in IT Project Management</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 03:09</span>
             </div>
         </div>
 </div>
@@ -305,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
