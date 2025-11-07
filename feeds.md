@@ -1,32 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 15:01:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-07 16:01:47 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Airlines cancel hundreds of flights Friday amid shutdown-related FAA reductions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Airlines cancel hundreds of flights Friday amid shutdown-related FAA reductions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-07 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/tanzania-charges-dozens-with-treason-over-election-protests?traffic_source=rss" target="_blank">Tanzania charges dozens with treason over election protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 14:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +107,38 @@
                 <span class="time">2025-11-07 12:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/icc-confirms-war-crimes-charges-against-ugandas-rebel-leader-joseph-kony?traffic_source=rss" target="_blank">ICC confirms war crimes charges against Uganda’s rebel leader Joseph Kony</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 09:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b647/live/a323c930-bb73-11f0-aa13-0b0479f6f42a.jpg" alt="Elon Musk&#x27;s $1tn pay deal approved by Tesla shareholders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss" target="_blank">Elon Musk&#x27;s $1tn pay deal approved by Tesla shareholders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-07 08:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690d7291297004ce3a6880e2/master/pass/Best%20Gifts%20for%20Sleep.png" alt="The Best Gifts for Sleep, as Tested by Our Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-sleep-gifts/" target="_blank">The Best Gifts for Sleep, as Tested by Our Team</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-07 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/" target="_blank">Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-07 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/800440/best-gifts-under-100-2025" target="_blank">The Verge’s favorite holiday gifts under $100</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-07 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224592867-500x500.jpg" alt="Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +166,47 @@
                 <span class="time">2025-11-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/" target="_blank">‘Landfall’ spyware abused zero-day to hack Samsung Galaxy phones</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-07 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690ce040071026a4d738a116/master/pass/rastreo%20de%20cometa%203i%20atlas.jpg" alt="How to Follow the Trajectory of Comet 3I/Atlas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/" target="_blank">How to Follow the Trajectory of Comet 3I/Atlas</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="Top Verizon Promo Codes &amp; Deals | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/verizon-promo-code/" target="_blank">Top Verizon Promo Codes &amp; Deals | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-07 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/" target="_blank">What 986 million code pushes say about the developer workflow in 2025</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fioul/fastminify-free-client-side-jscss-minifier-2o87" target="_blank">FastMinify - Free Client-Side JS/CSS Minifier</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/rseq-cid-benchmarks" target="_blank">Intel&#x27;s Rewrite Of Linux MM CID Code Showing Some Nice Gains For AMD</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-07 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-precision-rag-agents/en/mediumimage/adi-polak-medium-1761732116601.jpg" alt="Presentation: Achieving Precision in AI: Retrieving the Right Data Using AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-precision-rag-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Achieving Precision in AI: Retrieving the Right Data Using AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-07 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0s3icwa13m8mu8ez38qa.png" alt="Dev Journal: This week&#x27;s progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -176,42 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Dilithium-ML-DSA-Module-Sign" target="_blank">Linux To Gain ML-DSA/Dilithium Post-Quantum Cryptography For Module Signing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-07 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18731130&w=600" alt="Laravel + Next.js Integration Guide (Real-World Setup, 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/laravel-nextjs-integration-guide-real-world-setup" target="_blank">Laravel + Next.js Integration Guide (Real-World Setup, 2025)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-07 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/satyam_gupta_0d1ff2152dcc/java-regionmatches-explained-your-go-to-guide-for-smart-string-comparison-1f9" target="_blank">Java regionMatches() Explained: Your Go-To Guide for Smart String Comparison</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/" target="_blank">Is Software the UFOlogy of Engineering Disciplines?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-07 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18729115&w=600" alt="Understanding the Idle-Timer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-the-idle-timer" target="_blank">Understanding the Idle-Timer</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-07 13:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/arraciderskinchick-1280x720.jpg" alt="Arc Raiders Selling $10 Chicken Helmets Reminds Players, Yup, It’s A Live Service Game Alright" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-10-chicken-helmet-paid-cosmetic-item-skins-pricey-expensive-2000642065" target="_blank">Arc Raiders Selling $10 Chicken Helmets Reminds Players, Yup, It’s A Live Service Game Alright</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-07 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/wicked-for-good-glinda-fiyero-1280x853.jpg" alt="‘Wicked: For Good’ Teases Its Two Major New Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +298,6 @@
                 <span class="time">2025-11-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="FBI sources say Epstein files &quot;worse&quot; than photos &quot;showing Trump with half naked teenage girls,&quot; says journalist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/07/fbi-sources-say-epstein-files-worse-than-photos-showing-trump-with-half-naked-teenage-girls-says-journalist.html" target="_blank">FBI sources say Epstein files &quot;worse&quot; than photos &quot;showing Trump with half naked teenage girls,&quot; says journalist</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-07 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
