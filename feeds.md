@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 20:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 21:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2812/live/1e530680-bc18-11f0-900d-c9ccbfdeef29.jpg" alt="DNA pioneer James Watson dies at 97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&at_campaign=rss" target="_blank">DNA pioneer James Watson dies at 97</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-07 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5600001/snap-usda-food-banks-pantries-demand-thanksgiving" target="_blank">As millions of Americans struggle with SNAP lapses, food banks are swamped with demand</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-07 20:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/chuck-schumer-2-ht-gmh-251107_1762544367827_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Schumer outlines Dems&#x27; offer to reopen government" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +104,38 @@
                 <span class="time">2025-11-07 18:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762537029640_now_daily_a_passngers_faa_251107_1920x1080-x9zij2.jpg" alt="&#x27;It&#x27;s been awful&#x27;: Passengers experience rough travels amid FAA flight disruptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/passengers-experience-rough-travels-amid-faa-flight-disruptions-251552325676" target="_blank">&#x27;It&#x27;s been awful&#x27;: Passengers experience rough travels amid FAA flight disruptions</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-07 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/un-sounds-alarm-over-rising-hunger-crisis-in-eastern-dr-congo?traffic_source=rss" target="_blank">UN sounds alarm over rising hunger crisis in eastern DR Congo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker" target="_blank">The best Fitbits for your fitness and health</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-07 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/" target="_blank">Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-07 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690e418216eea0bccc3e9188/master/pass/The%20Updated%20Razer%20Blade%2014%20Is%20Deeply%20Discounted.png" alt="Fat Savings on the Super Skinny Razer Blade 14 Gaming Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/razer-blade-14-oled-deal-1125/" target="_blank">Fat Savings on the Super Skinny Razer Blade 14 Gaming Laptop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-07 20:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-17-500x500.jpg" alt="Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,33 +163,6 @@
                 <span class="time">2025-11-07 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/" target="_blank">I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-07 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690bf3b2af6322edb6dcb5eb/master/pass/Made-In-China-TikTok-Shop-Business-2159326767.jpg" alt="TikTok Shop Is Now the Size of eBay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tiktok-shop-sales-global-ecommerce/" target="_blank">TikTok Shop Is Now the Size of eBay</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-500x500.jpg" alt="Oddest ChatGPT leaks yet: Cringey chat logs found in Google analytics tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/" target="_blank">Oddest ChatGPT leaks yet: Cringey chat logs found in Google analytics tool</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-07 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +174,15 @@
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-c4l" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735657&w=600" alt="Kubernetes v1.34: Enabling Smarter Traffic Routing With PreferSameNode and PreferSameZone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kubernetes-traffic-routing-prefersamenode-prefersamezone" target="_blank">Kubernetes v1.34: Enabling Smarter Traffic Routing With PreferSameNode and PreferSameZone</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-07 20:00</span>
             </div>
         </div>
@@ -207,15 +222,6 @@
                 <span class="time">2025-11-07 17:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.52-Released" target="_blank">Hyprland 0.52 Released With New Features For This Wayland Compositor</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-07 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/totoromain-1280x720.jpg" alt="A No Man’s Sky Player Spent 100 Hours Building The Perfect Tribute To A Studio Ghibli Classic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/no-mans-sky-nms-bases-totoro-ghibli-miyazaki-2000642179" target="_blank">A No Man’s Sky Player Spent 100 Hours Building The Perfect Tribute To A Studio Ghibli Classic</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-07 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Kpop-Demon-Hunters-Mattel-Creations-1280x853.jpg" alt="The First ‘KPop Demon Hunters’ Dolls Are Here—But There’s a Huge Catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-kpop-demon-hunters-dolls-are-here-but-theres-a-huge-catch-2000683135" target="_blank">The First ‘KPop Demon Hunters’ Dolls Are Here—But There’s a Huge Catch</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9FSWRC1X7GWXA5KQ46B4Q1A/hero-image.jpg" alt="Apple&#x27;s Latest iPadOS Update Brought Back an Essential Multitasking Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ipados-26-update-brings-back-slide-over?utm_medium=RSS" target="_blank">Apple&#x27;s Latest iPadOS Update Brought Back an Essential Multitasking Feature</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-07 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2019/04/dnyw19alfh2b9ztv6t3y-1024x576.jpg" alt="Palantir CEO Says a Surveillance State Is Preferable to China Winning the AI Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-legends-za-trubbish-catch-poke-ball-dance-2000642148" target="_blank">Pokémon Legends: Z-A’s Got A Moment That’s ‘Baby Shoes, Never Worn’ Sad</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-07 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/mass-effect-3-endings-1280x853.jpg" alt="The ‘Mass Effect’ TV Show Will Tackle What Happens After the Original Trilogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mass-effect-tv-show-details-amazon-no-shepard-post-trilogy-2000683136" target="_blank">The ‘Mass Effect’ TV Show Will Tackle What Happens After the Original Trilogy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9D7XESR0DVC7GW779T9HN9S/hero-image.jpg" alt="10 Shows Like &#x27;Wayward&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-wayward?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Wayward&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-07 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/clown.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="This weird foot doctor animatronic gives visitors the strangest surprise ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/07/this-weird-foot-doctor-animatronic-gives-visitors-the-strangest-surprise-ever.html" target="_blank">This weird foot doctor animatronic gives visitors the strangest surprise ever</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-07 17:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
