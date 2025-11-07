@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-06 23:01:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-07 00:04:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, November 06, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7c7/live/006355e0-bb3b-11f0-a086-55f9ff82c252.jpg" alt="Government recovers £74m from asylum hotel firms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c709k1zx0ljo?at_medium=RSS&at_campaign=rss" target="_blank">Government recovers £74m from asylum hotel firms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-06 22:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/11/6/in-gaza-woman-searches-husband-brother-among-corpses?traffic_source=rss" target="_blank">In Gaza, a woman searches for her husband and brother among the corpses</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-06 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762467857944_now_hallie_snap_judge_251106_1920x1080-v6d1nq.jpg" alt="Federal judge orders Trump administration to fully fund November SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/federal-judge-orders-administration-to-fully-fund-november-snap-benefits-251497541887" target="_blank">Federal judge orders Trump administration to fully fund November SNAP benefits</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-06 22:24</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +99,20 @@
                 <span class="time">2025-11-06 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/06/nx-s1-5599558/states-redistricting-house-2026-midterm-elections" target="_blank">After California&#x27;s vote to counter Trump, here&#x27;s where redistricting stands</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-06 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/plane-tarmac-gty-jef-251106_1762453442821_hpMain_4x3t_384.jpg" alt="What travelers should expect at airports as FAA cuts flights across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/GMA/Travel/travelers-expect-airports-faa-cuts-flights-country/story?id=127254954" target="_blank">What travelers should expect at airports as FAA cuts flights across the country</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-06 19:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/" target="_blank">Tesla delays reveal of production Roadster 2 to April Fools’ Day</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-06 23:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/03/eht5-500x500.jpg" alt="Next-generation black hole imaging may help us understand gravity better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +158,20 @@
                 <span class="time">2025-11-06 19:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690cf17789922924938df0e1/master/pass/The%2015-Inch%20MacBook%20Air%20Is%20Marked%20Down%20by%20$200.png" alt="The 15-Inch MacBook Air Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/macbook-air-15-deal-1125/" target="_blank">The 15-Inch MacBook Air Is $200 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-06 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-55a8" target="_blank">Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#x27;Mulholland Drive’</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 00:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1vvhfhr727uh21gv5n1a.png" alt="AWS Capabilities by Region" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/" target="_blank">GitHub Copilot CLI 101: How to use GitHub Copilot from the command line</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-06 20:30</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fly.io/blog/everyone-write-an-agent/" target="_blank">You should write an agent</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-06 20:37</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/" target="_blank">Two billion email addresses were exposed</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-06 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18733237&w=600" alt="A Beginner&#x27;s Guide to Docker Compose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/beginners-guide-to-docker-compose" target="_blank">A Beginner&#x27;s Guide to Docker Compose</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-06 20:00</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/" target="_blank">GitHub Copilot CLI 101: How to use GitHub Copilot from the command line</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-06 20:30</span>
             </div>
         </div>
 </div>
@@ -320,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
