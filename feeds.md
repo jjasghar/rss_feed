@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 09:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 10:01:57 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/icc-confirms-war-crimes-charges-against-ugandas-rebel-leader-joseph-kony?traffic_source=rss" target="_blank">ICC confirms war crimes charges against Uganda’s rebel leader Joseph Kony</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 09:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b647/live/a323c930-bb73-11f0-aa13-0b0479f6f42a.jpg" alt="Elon Musk&#x27;s $1tn pay deal approved by Tesla shareholders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss" target="_blank">Elon Musk&#x27;s $1tn pay deal approved by Tesla shareholders</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-07 08:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Airlines cancel flights after FAA shutdown order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5601593/boeing-737-max-crashes" target="_blank">Boeing won&#x27;t face criminal charge over 737 Max crashes that killed hundreds of people</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-07 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/07/aid-cuts-uk-rejected-atrocity-prevention-sudan-civilians-rsf-massacres-el-fasher" target="_blank">UK rejected atrocity prevention plans for Sudan despite warning of possible genocide</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-07 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/at-least-5-killed-as-typhoon-kalmaegi-slams-into-vietnam?traffic_source=rss" target="_blank">At least 5 killed as Typhoon Kalmaegi slams into Vietnam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 05:52</span>
             </div>
         </div>
 </div>
@@ -238,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/barred-owl-1280x853.jpg" alt="Controversial Plan to Kill 500,000 Barred Owls in U.S. Clears Major Hurdle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/controversial-plan-to-kill-500000-barred-owls-in-u-s-clears-major-hurdle-2000682489" target="_blank">Controversial Plan to Kill 500,000 Barred Owls in U.S. Clears Major Hurdle</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/AnkerSlimPowerBank-1280x853.jpg" alt="Anker Dumps Its 10,000 mAh Power Bank for Pennies, 10K Units Already Sold on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,20 +287,20 @@
                 <span class="time">2025-11-06 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1ForAll-AI.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="This AI content creation tool is 80% off right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/06/this-ai-content-creation-tool-is-80-off-right-now.html" target="_blank">This AI content creation tool is 80% off right now</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-06 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/07/the-glyphs-of-dover" target="_blank">The Glyphs Of Dover</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-07 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1762310773-20251106.png" alt="Saturday Morning Breakfast Cereal - Frenchmen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
