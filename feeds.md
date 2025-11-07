@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 04:01:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-07 05:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +53,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/hundreds-of-us-flights-cancelled-as-regulator-orders-cuts-to-air-traffic?traffic_source=rss" target="_blank">Hundreds of US flights cancelled as regulator orders cuts to air traffic</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 04:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Airlines cancel hundreds of flights Friday as shutdown stretches on" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Airlines cancel hundreds of flights Friday as shutdown stretches on</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-07 03:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/us-lawmakers-call-on-uks-ex-prince-andrew-to-testify-over-epstein-ties?traffic_source=rss" target="_blank">US lawmakers call on UK’s ex-prince Andrew to testify over Epstein ties</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-07 03:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e14/live/e0843aa0-bb08-11f0-ba75-093eca1ac29b.png" alt="&#x27;Our job is only killing&#x27; - how Sudan&#x27;s brutal militia carried out a massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8dr5e30m5ro?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Our job is only killing&#x27; - how Sudan&#x27;s brutal militia carried out a massacre</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-07 00:30</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c709k1zx0ljo?at_medium=RSS&at_campaign=rss" target="_blank">Government recovers £74m from asylum hotel firms</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-06 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/11/6/in-gaza-woman-searches-husband-brother-among-corpses?traffic_source=rss" target="_blank">In Gaza, a woman searches for her husband and brother among the corpses</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762467857944_now_hallie_snap_judge_251106_1920x1080-v6d1nq.jpg" alt="Federal judge orders Trump administration to fully fund November SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/federal-judge-orders-administration-to-fully-fund-november-snap-benefits-251497541887" target="_blank">Federal judge orders Trump administration to fully fund November SNAP benefits</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-06 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-19-ap-gmh-251105_1762371632284_hpMain_4x3t_384.jpg" alt="Judge orders Trump administration to fund full SNAP benefits, rebukes Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-orders-trump-administration-fully-fund-snap-benefits/story?id=127273708" target="_blank">Judge orders Trump administration to fund full SNAP benefits, rebukes Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-06 21:59</span>
             </div>
         </div>
 </div>
@@ -171,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sebastianfuentesavalos/facade-pattern-catalog-of-enterprise-application-architecture-patterns-chh" target="_blank">Facade Pattern — Catalog of Enterprise Application Architecture Patterns 🏢</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 04:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3eo8" target="_blank">Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#x27;Mulholland Drive’</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 04:00</span>
@@ -195,30 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac" target="_blank">A Fond Farewell from Farmers&#x27; Almanac</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-07 03:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/grails-7-released/en/headerimage/java-istock-image-01-1762436985824.jpg" alt="Grails 7.0, Now Under the Apache Software Foundation, Delivers Enhancements for Micronaut and GORM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/grails-7-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grails 7.0, Now Under the Apache Software Foundation, Delivers Enhancements for Micronaut and GORM</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-07 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Server-25.10-amd64v3" target="_blank">Ubuntu Server 25.10 Performance On AMD EPYC With &quot;amd64v3&quot; Optimized Packages</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-07 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oleksandrakordonets/adding-unit-tests-to-repo-context-packager-3n2o" target="_blank">Adding Unit Tests to repo-context-packager</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 01:21</span>
             </div>
         </div>
 </div>
@@ -313,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
