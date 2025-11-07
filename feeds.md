@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 17:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-07 18:02:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/un-sounds-alarm-over-rising-hunger-crisis-in-eastern-dr-congo?traffic_source=rss" target="_blank">UN sounds alarm over rising hunger crisis in eastern DR Congo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 17:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c625grkxg05o?at_medium=RSS&at_campaign=rss" target="_blank">Algerian man mistakenly released from HMP Wandsworth arrested</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-07 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss" target="_blank">Israeli bureaucracy is “deliberate attempt” to limit Gaza aid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 12:47</span>
             </div>
         </div>
 </div>
@@ -171,6 +169,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2021/01/linux-mint.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 is Adding New System Hardware Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/linux-mint-new-system-info-app" target="_blank">Linux Mint 22.3 is Adding New System Hardware Tool</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-07 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.52-Released" target="_blank">Hyprland 0.52 Released With New Features For This Wayland Compositor</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-07 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18733337&w=600" alt="How Does a Scrum Master Improve the Productivity of the Development Team?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-scrum-masters-boost-team-productivity" target="_blank">How Does a Scrum Master Improve the Productivity of the Development Team?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,33 +222,6 @@
                 <span class="time">2025-11-07 15:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/rseq-cid-benchmarks" target="_blank">Intel&#x27;s Rewrite Of Linux MM CID Code Showing Some Nice Gains For AMD</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-07 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-precision-rag-agents/en/mediumimage/adi-polak-medium-1761732116601.jpg" alt="Presentation: Achieving Precision in AI: Retrieving the Right Data Using AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-precision-rag-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Achieving Precision in AI: Retrieving the Right Data Using AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-07 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0s3icwa13m8mu8ez38qa.png" alt="Dev Journal: This week&#x27;s progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8" target="_blank">Dev Journal: This week&#x27;s progress</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/IMG_0327-1280x720.jpg" alt="Pokémon Legends: Z-A’s Got A Moment That’s ‘Baby Shoes, Never Worn’ Sad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-trubbish-catch-poke-ball-dance-2000642148" target="_blank">Pokémon Legends: Z-A’s Got A Moment That’s ‘Baby Shoes, Never Worn’ Sad</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-07 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/mass-effect-3-endings-1280x853.jpg" alt="The ‘Mass Effect’ TV Show Will Tackle What Happens After the Original Trilogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mass-effect-tv-show-details-amazon-no-shepard-post-trilogy-2000683136" target="_blank">The ‘Mass Effect’ TV Show Will Tackle What Happens After the Original Trilogy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9D7XESR0DVC7GW779T9HN9S/hero-image.jpg" alt="10 Shows Like &#x27;Wayward&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-wayward?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Wayward&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-07 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/arraciderskinchick-1280x720.jpg" alt="Arc Raiders Selling $10 Chicken Helmets Reminds Players, Yup, It’s A Live Service Game Alright" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,33 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/playstation-ebay-sony-lawsuit-counterfeit-ps5-accessory-2000642067" target="_blank">Sony Sues One PS5 Accessory Counterfeiter For Millions As Fakes Flood Online Stores</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-07 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Screen-Shot-2025-11-06-at-2.25.45-PM-1280x853.jpg" alt="The FBI Is Trying to Unmask the Registrar Behind Archive.Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-fbi-is-trying-to-unmask-the-registrar-behind-archive-today-2000682868" target="_blank">The FBI Is Trying to Unmask the Registrar Behind Archive.Today</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/gta666-1280x720.jpg" alt="PS Plus Subscribers Can Console Themselves With The Likely Return Of GTA V" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-gta6-rockstar-psplus-playstation-2000642048" target="_blank">PS Plus Subscribers Can Console Themselves With The Likely Return Of GTA V</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Sigourney-Weaver-Mandalorian-1280x853.jpg" alt="Sigourney Weaver Has an Optimistic Take on the Future of ‘Star Wars’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sigourney-weaver-star-wars-mandalorian-grogu-2000682867" target="_blank">Sigourney Weaver Has an Optimistic Take on the Future of ‘Star Wars’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 12:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
