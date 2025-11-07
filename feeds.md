@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 11:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 12:02:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +108,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/814717/polestar-4-review-specs-price-rear-windshield" target="_blank">The Polestar 4 takes EV minimalism to the next level</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-07 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/" target="_blank">‘Landfall’ spyware abused zero-day to hack Samsung Galaxy phones</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-07 11:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/690ce040071026a4d738a116/master/pass/rastreo%20de%20cometa%203i%20atlas.jpg" alt="How to Follow the Trajectory of Comet 3I/Atlas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,29 +161,29 @@
                 <span class="time">2025-11-06 23:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/815946/samsung-p9-microsd-express-card-nintendo-switch-2-deal-sale" target="_blank">Samsung’s new Switch 2-compatible microSD Express card is already on sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-06 23:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/03/eht5-500x500.jpg" alt="Next-generation black hole imaging may help us understand gravity better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/imaging-black-holes-may-help-us-rule-out-some-models-of-gravity/" target="_blank">Next-generation black hole imaging may help us understand gravity better</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-06 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/microsoft-ado-mcp-server/en/headerimage/generatedHeaderImage-1762270953955.jpg" alt="Microsoft Moves Azure DevOps MCP Server From Preview To General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/microsoft-ado-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Moves Azure DevOps MCP Server From Preview To General Availability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-07 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-RAMDAX-Linux-Driver" target="_blank">Microsoft Contributing &quot;RAMDAX&quot; Driver For Upcoming Linux 6.19 Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-07 11:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,29 +220,20 @@
                 <span class="time">2025-11-07 06:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kynu4055/kubernetes-architecture-explained-5eom" target="_blank">🚀 Kubernetes Architecture Explained.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sebastianfuentesavalos/facade-pattern-catalog-of-enterprise-application-architecture-patterns-chh" target="_blank">Facade Pattern — Catalog of Enterprise Application Architecture Patterns 🏢</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 04:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html" target="_blank">Faking Receipts with AI</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-07 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -243,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Sigourney-Weaver-Mandalorian-1280x853.jpg" alt="Sigourney Weaver Has an Optimistic Take on the Future of ‘Star Wars’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sigourney-weaver-star-wars-mandalorian-grogu-2000682867" target="_blank">Sigourney Weaver Has an Optimistic Take on the Future of ‘Star Wars’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump pardons Tennessee speaker who created fake businessman to steal taxpayer money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/07/trump-pardons-tennessee-speaker-who-created-fake-businessman-to-steal-taxpayer-money.html" target="_blank">Trump pardons Tennessee speaker who created fake businessman to steal taxpayer money</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-07 11:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_review-1280x853.jpg" alt="Utopia Equals Dystopia in ‘Pluribus,’ Apple TV’s Latest Sci-Fi Standout" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +302,6 @@
                 <span class="time">2025-11-07 01:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/gaming-laptop-1280x853.jpg" alt="Amazon Is Rolling Out Its Black Friday Deals, Powerful 16-inch Gaming Laptop Is Now 71% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-is-rolling-out-its-black-friday-deals-powerful-16-inch-gaming-laptop-is-now-71-off-2000641711" target="_blank">Amazon Is Rolling Out Its Black Friday Deals, Powerful 16-inch Gaming Laptop Is Now 71% Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Lightspeed_November-1280x853.jpg" alt="A Woman’s Magic Transcends Politics and Borders in This Timely, Fantastical Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-womans-magic-powers-transcend-politics-and-borders-in-this-timely-fantastical-short-story-2000680162" target="_blank">A Woman’s Magic Transcends Politics and Borders in This Timely, Fantastical Short Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-06 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
