@@ -1,43 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 16:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 17:01:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/7/schools-by-day-shelters-by-night-students-return-to-gaza-classrooms?traffic_source=rss" target="_blank">Schools by day, shelters by night: Students return to Gaza classrooms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Airlines cancel hundreds of flights Friday amid shutdown-related FAA reductions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -98,20 +106,29 @@
                 <span class="time">2025-11-07 12:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/07/g-s1-96926/up-first-newsletter-shutdown-flights-snap-ruling-trump-abroad" target="_blank">FAA to reduce air traffic by 10%. And, Trump administration plans to appeal SNAP ruling</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-07 12:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690bf3b2af6322edb6dcb5eb/master/pass/Made-In-China-TikTok-Shop-Business-2159326767.jpg" alt="TikTok Shop Is Now the Size of eBay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tiktok-shop-sales-global-ecommerce/" target="_blank">TikTok Shop Is Now the Size of eBay</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-500x500.jpg" alt="Oddest ChatGPT leaks yet: Cringey chat logs found in Google analytics tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/" target="_blank">Oddest ChatGPT leaks yet: Cringey chat logs found in Google analytics tool</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-07 16:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690d7291297004ce3a6880e2/master/pass/Best%20Gifts%20for%20Sleep.png" alt="The Best Gifts for Sleep, as Tested by Our Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +165,20 @@
                 <span class="time">2025-11-07 13:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690d367936ab9c659eb4b4bf/master/pass/The%20Best%20Leggings%20I%E2%80%99ll%20Keep%20Wearing%20Until%20They%20Disintegrate.png" alt="9 Best Leggings of 2025, Tested and Reviewed by WIRED" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-leggings/" target="_blank">9 Best Leggings of 2025, Tested and Reviewed by WIRED</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-07 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/814717/polestar-4-review-specs-price-rear-windshield" target="_blank">The Polestar 4 takes EV minimalism to the next level</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-07 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ripan030/mcuboot-bootup-journey-315m" target="_blank">MCUboot: Bootup Journey</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8" target="_blank">Dev Journal: This week&#x27;s progress</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Dilithium-ML-DSA-Module-Sign" target="_blank">Linux To Gain ML-DSA/Dilithium Post-Quantum Cryptography For Module Signing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-07 14:06</span>
             </div>
         </div>
 </div>
@@ -304,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1762478202-20251107.png" alt="Saturday Morning Breakfast Cereal - Miracle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/miracle" target="_blank">Saturday Morning Breakfast Cereal - Miracle</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-07 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -312,22 +320,13 @@
                 <span class="time">2025-11-07 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762310773-20251106.png" alt="Saturday Morning Breakfast Cereal - Frenchmen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/frenchmen" target="_blank">Saturday Morning Breakfast Cereal - Frenchmen</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-06 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
