@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 06:02:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-07 07:01:33 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +45,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/japan-resumes-seafood-exports-to-china-after-ban-over-fukushima-wastewater?traffic_source=rss" target="_blank">Japan resumes seafood exports to China after ban over Fukushima wastewater</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 06:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5601593/boeing-737-max-crashes" target="_blank">Boeing won&#x27;t face criminal charge over 737 Max crashes that killed hundreds of people</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-07 06:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/at-least-5-killed-as-typhoon-kalmaegi-slams-into-vietnam?traffic_source=rss" target="_blank">At least 5 killed as Typhoon Kalmaegi slams into Vietnam</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-07 05:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Airplanes cancel flights after FAA shutdown order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Airplanes cancel flights after FAA shutdown order</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-07 05:27</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +93,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Airlines cancel hundreds of flights Friday as shutdown stretches on</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-07 03:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/us-lawmakers-call-on-uks-ex-prince-andrew-to-testify-over-epstein-ties?traffic_source=rss" target="_blank">US lawmakers call on UK’s ex-prince Andrew to testify over Epstein ties</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 03:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e14/live/e0843aa0-bb08-11f0-ba75-093eca1ac29b.png" alt="&#x27;Our job is only killing&#x27; - how Sudan&#x27;s brutal militia carried out a massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8dr5e30m5ro?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Our job is only killing&#x27; - how Sudan&#x27;s brutal militia carried out a massacre</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-07 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2844/live/11334fe0-bb3d-11f0-9494-47f20ee206c1.jpg" alt="McDonald&#x27;s faces new crackdown on sexual abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpwv01r2wj5o?at_medium=RSS&at_campaign=rss" target="_blank">McDonald&#x27;s faces new crackdown on sexual abuse</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-07 00:01</span>
             </div>
         </div>
 </div>
@@ -179,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html" target="_blank">Leaving Meta and PyTorch</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-07 06:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kynu4055/kubernetes-architecture-explained-5eom" target="_blank">🚀 Kubernetes Architecture Explained.</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/taskford/how-to-map-technical-requirements-in-it-project-management-2oj1" target="_blank">How to Map Technical Requirements in IT Project Management</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Firefox-new-mascot.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla Unveils Kit, a (Cute) New Mascot for Firefox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/firefox-new-mascot-brand-refresh" target="_blank">Mozilla Unveils Kit, a (Cute) New Mascot for Firefox</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-07 03:08</span>
             </div>
         </div>
 </div>
@@ -313,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
