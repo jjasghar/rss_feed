@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 10:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 11:01:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +112,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/690ce040071026a4d738a116/master/pass/rastreo%20de%20cometa%203i%20atlas.jpg" alt="How to Follow the Trajectory of Comet 3I/Atlas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/" target="_blank">How to Follow the Trajectory of Comet 3I/Atlas</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-07 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="Top Verizon Promo Codes &amp; Deals | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -144,15 +163,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/11/imaging-black-holes-may-help-us-rule-out-some-models-of-gravity/" target="_blank">Next-generation black hole imaging may help us understand gravity better</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-06 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690cdfca2e32add3a4a02c92/master/pass/Elon-Pay-Package-Business-2217849006.jpg" alt="Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tesla-shareholders-approve-musk-1-trillion-dollar-pay-package/" target="_blank">Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-06 22:31</span>
             </div>
         </div>
 </div>
@@ -234,6 +244,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_review-1280x853.jpg" alt="Utopia Equals Dystopia in ‘Pluribus,’ Apple TV’s Latest Sci-Fi Standout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/utopia-equals-dystopia-in-pluribus-apple-tvs-latest-sci-fi-standout-2000680460" target="_blank">Utopia Equals Dystopia in ‘Pluribus,’ Apple TV’s Latest Sci-Fi Standout</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/joint-base-one.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Multiple people at Air Force One base hospitalized after package of white powder delivered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/07/multiple-people-at-air-force-one-base-hospitalized-after-package-of-white-powder-delivered.html" target="_blank">Multiple people at Air Force One base hospitalized after package of white powder delivered</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-07 10:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/barred-owl-1280x853.jpg" alt="Controversial Plan to Kill 500,000 Barred Owls in U.S. Clears Major Hurdle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -269,24 +297,6 @@
                 <span class="time">2025-11-06 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Captain-Ameirca.jpg" alt="That Captain America And Black Panther Game We Still Haven’t Seen Gameplay For Gets Indefinitely Delayed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/captain-america-black-panther-game-delay-marvel-hydra-2000641825" target="_blank">That Captain America And Black Panther Game We Still Haven’t Seen Gameplay For Gets Indefinitely Delayed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-06 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/gunbuster-gainax-poseio9-template-circle-2-1280x853.jpg" alt="Why Gainax’s ‘Gunbuster’ Pose Is More Than Anime Rule of Cool Reference Fodder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gaianx-gunbuster-pose-akira-slide-mecha-anime-reference-2000681951" target="_blank">Why Gainax’s ‘Gunbuster’ Pose Is More Than Anime Rule of Cool Reference Fodder</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-06 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
