@@ -1,24 +1,21 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 14:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-07 15:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
@@ -26,12 +23,10 @@
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/sudanese-army-intercepts-drone-attacks-after-rsf-agrees-to-truce?traffic_source=rss" target="_blank">Sudanese army intercepts drone attacks on cities after RSF agrees to truce</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 13:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb20/live/698d49a0-ba81-11f0-ba75-093eca1ac29b.jpg" alt="Algerian man mistakenly released from HMP Wandsworth arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,6 +72,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/07/g-s1-96926/up-first-newsletter-shutdown-flights-snap-ruling-trump-abroad" target="_blank">FAA to reduce air traffic by 10%. And, Trump administration plans to appeal SNAP ruling</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-07 12:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/icc-confirms-war-crimes-charges-against-ugandas-rebel-leader-joseph-kony?traffic_source=rss" target="_blank">ICC confirms war crimes charges against Uganda’s rebel leader Joseph Kony</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -81,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss" target="_blank">Elon Musk&#x27;s $1tn pay deal approved by Tesla shareholders</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-07 08:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/filghts-shutdown-3_1762479052148_hpMain_4x3t_384.jpg" alt="Airlines cancel flights after FAA shutdown order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/airlines-cancel-hundreds-flights-friday-shutdown-stretches/story?id=127278529" target="_blank">Airlines cancel flights after FAA shutdown order</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-07 08:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/north-korea-fires-ballistic-missile-days-after-hegseth-visit-says-seoul?traffic_source=rss" target="_blank">North Korea fires ballistic missile days after Hegseth visit, says Seoul</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 07:34</span>
             </div>
         </div>
 </div>
@@ -166,6 +161,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0s3icwa13m8mu8ez38qa.png" alt="Dev Journal: This week&#x27;s progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8" target="_blank">Dev Journal: This week&#x27;s progress</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dilithium-ML-DSA-Module-Sign" target="_blank">Linux To Gain ML-DSA/Dilithium Post-Quantum Cryptography For Module Signing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-07 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18731130&w=600" alt="Laravel + Next.js Integration Guide (Real-World Setup, 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/laravel-nextjs-integration-guide-real-world-setup" target="_blank">Laravel + Next.js Integration Guide (Real-World Setup, 2025)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-07 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,33 +214,6 @@
                 <span class="time">2025-11-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93" target="_blank">Building an HTTP Server from TCP Sockets: 250 4,000 RPS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/microsoft-ado-mcp-server/en/headerimage/generatedHeaderImage-1762270953955.jpg" alt="Microsoft Moves Azure DevOps MCP Server From Preview To General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/microsoft-ado-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Moves Azure DevOps MCP Server From Preview To General Availability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-RAMDAX-Linux-Driver" target="_blank">Microsoft Contributing &quot;RAMDAX&quot; Driver For Upcoming Linux 6.19 Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-07 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/wicked-for-good-glinda-fiyero-1280x853.jpg" alt="‘Wicked: For Good’ Teases Its Two Major New Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wicked-for-good-new-songs-preview-streaming-2000683028" target="_blank">‘Wicked: For Good’ Teases Its Two Major New Songs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/ps5-1280x720.jpg" alt="Sony Sues One PS5 Accessory Counterfeiter For Millions As Fakes Flood Online Stores" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-ebay-sony-lawsuit-counterfeit-ps5-accessory-2000642067" target="_blank">Sony Sues One PS5 Accessory Counterfeiter For Millions As Fakes Flood Online Stores</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-07 14:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Screen-Shot-2025-11-06-at-2.25.45-PM-1280x853.jpg" alt="The FBI Is Trying to Unmask the Registrar Behind Archive.Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +287,6 @@
                 <span class="time">2025-11-07 11:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump pardons Tennessee speaker who created fake businessman to steal taxpayer money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/07/trump-pardons-tennessee-speaker-who-created-fake-businessman-to-steal-taxpayer-money.html" target="_blank">Trump pardons Tennessee speaker who created fake businessman to steal taxpayer money</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-07 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_review-1280x853.jpg" alt="Utopia Equals Dystopia in ‘Pluribus,’ Apple TV’s Latest Sci-Fi Standout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/utopia-equals-dystopia-in-pluribus-apple-tvs-latest-sci-fi-standout-2000680460" target="_blank">Utopia Equals Dystopia in ‘Pluribus,’ Apple TV’s Latest Sci-Fi Standout</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 40 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
