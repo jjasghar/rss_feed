@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 03:20:13 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-07 04:01:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 03:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, November 07, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/us-lawmakers-call-on-uks-ex-prince-andrew-to-testify-over-epstein-ties?traffic_source=rss" target="_blank">US lawmakers call on UK’s ex-prince Andrew to testify over Epstein ties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 03:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +103,6 @@
                 <span class="time">2025-11-06 21:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/6/afghanistan-and-pakistan-exchange-fire-as-peace-talks-begin?traffic_source=rss" target="_blank">Afghanistan and Pakistan exchange fire as ceasefire talks resume in Turkiye</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-06 21:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -143,6 +145,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/690cdfca2e32add3a4a02c92/master/pass/Elon-Pay-Package-Business-2217849006.jpg" alt="Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tesla-shareholders-approve-musk-1-trillion-dollar-pay-package/" target="_blank">Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-06 22:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -151,20 +162,20 @@
                 <span class="time">2025-11-06 22:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/" target="_blank">Tesla shareholders approve Elon Musk’s $1T pay package</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-06 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3eo8" target="_blank">Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#x27;Mulholland Drive’</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-07 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy1ojsy7qqh0x93b1tn3.png" alt="How to Map Technical Requirements in IT Project Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/taskford/how-to-map-technical-requirements-in-it-project-management-2oj1" target="_blank">How to Map Technical Requirements in IT Project Management</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 03:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Firefox-new-mascot.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla Unveils Kit, Its (Cute) New Mascot for Firefox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/firefox-new-mascot-brand-refresh" target="_blank">Mozilla Unveils Kit, Its (Cute) New Mascot for Firefox</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-07 03:08</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/oleksandrakordonets/adding-unit-tests-to-repo-context-packager-3n2o" target="_blank">Adding Unit Tests to repo-context-packager</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-07 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-55a8" target="_blank">Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#x27;Mulholland Drive’</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-7-2025-red-hat" target="_blank">Friday Five — November 7, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-11-07 00:00</span>
             </div>
         </div>
 </div>
@@ -284,12 +286,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/subway-e1762465274168.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Hero tossing hero of the Republic goes free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1ForAll-AI.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="This AI content creation tool is 80% off right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/06/hero-tossing-hero-of-the-republic-goes-free.html" target="_blank">Hero tossing hero of the Republic goes free</a></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/06/this-ai-content-creation-tool-is-80-off-right-now.html" target="_blank">This AI content creation tool is 80% off right now</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-06 21:41</span>
+                <span class="time">2025-11-06 22:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 03:20 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
