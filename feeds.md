@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 01:29:07 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-08 02:27:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/8/russia-ukraine-war-list-of-key-events-day-1353?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,353</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-08 01:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +83,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/nov/07/trump-boycott-g20-south-africa-white-farmers" target="_blank">Trump says US will boycott G20 summit in South Africa, citing treatment of white farmers</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-07 22:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c314/live/d8d686e0-bc0d-11f0-8456-eff94716b162.jpg" alt="Algerian man mistakenly released from Wandsworth prison arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c625grkxg05o?at_medium=RSS&at_campaign=rss" target="_blank">Algerian man mistakenly released from Wandsworth prison arrested</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-07 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/chuck-schumer-2-ht-gmh-251107_1762544367827_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Schumer outlines Dems&#x27; offer, GOP brushes off proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: Schumer outlines Dems&#x27; offer, GOP brushes off proposal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-07 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5144654/james-watson-dna-double-helix-dies" target="_blank">James Watson, who co-discovered the structure of DNA, has died at age 97</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-07 21:04</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8zyutyhl6gbe434p9cm.png" alt="From Manual Testing to AI Agents: A 90-Day Transformation Roadmap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/qa-leaders/from-manual-testing-to-ai-agents-a-90-day-transformation-roadmap-46l1" target="_blank">From Manual Testing to AI Agents: A 90-Day Transformation Roadmap</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 02:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -209,15 +218,6 @@
                 <span class="time">2025-11-07 21:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/" target="_blank">AI is Dunning-Kruger as a service</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-07 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dji-mic-1280x853.jpg" alt="DJI Offloads Premium Mic Mini Bundle, Now Cheaper Than Budget No-Name Alternatives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dji-offloads-premium-mic-mini-bundle-now-cheaper-than-budget-no-name-alternatives-2000642143" target="_blank">DJI Offloads Premium Mic Mini Bundle, Now Cheaper Than Budget No-Name Alternatives</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-08 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8QH6BWMQPMAM6PBFJC2JSYD/hero-image.png" alt="You Can Get This Microsoft Surface Book 3 on Sale for Up to 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-surface-book-3-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get This Microsoft Surface Book 3 on Sale for Up to 60% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-08 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Welcome-to-Derry-Pennywise-HBO-Max-1280x853.jpg" alt="I’m Both Terrified and Impatient for Pennywise to Show Up on ‘Welcome to Derry’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/im-both-terrified-and-impatient-for-pennywise-to-show-up-on-welcome-to-derry-2000682966" target="_blank">I’m Both Terrified and Impatient for Pennywise to Show Up on ‘Welcome to Derry’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-08 00:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/tatsuki-fujimoto-2-io9-template-3-1280x853.jpg" alt="‘Tatsuki Fujimoto 17-26’ Is a Joyously Unhinged Look Into the Young Mind of Manga’s Wildest Auteur" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,33 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/halo-infinite-no-more-updates-operation-halo-studios-xbox-2000642195" target="_blank">Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-07 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/totoromain-1280x720.jpg" alt="A No Man’s Sky Player Spent 100 Hours Building The Perfect Tribute To A Studio Ghibli Classic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/no-mans-sky-nms-bases-totoro-ghibli-miyazaki-2000642179" target="_blank">A No Man’s Sky Player Spent 100 Hours Building The Perfect Tribute To A Studio Ghibli Classic</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Kpop-Demon-Hunters-Mattel-Creations-1280x853.jpg" alt="The First ‘KPop Demon Hunters’ Dolls Are Here—But There’s a Huge Catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-kpop-demon-hunters-dolls-are-here-but-theres-a-huge-catch-2000683135" target="_blank">The First ‘KPop Demon Hunters’ Dolls Are Here—But There’s a Huge Catch</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9FSWRC1X7GWXA5KQ46B4Q1A/hero-image.jpg" alt="Apple&#x27;s Latest iPadOS Update Brought Back an Essential Multitasking Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ipados-26-update-brings-back-slide-over?utm_medium=RSS" target="_blank">Apple&#x27;s Latest iPadOS Update Brought Back an Essential Multitasking Feature</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-07 20:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
