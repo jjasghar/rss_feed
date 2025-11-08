@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 10:01:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-08 11:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae88/live/91740bf0-bc81-11f0-ae46-bd64331f0fd4.png" alt="UPS and FedEx ground some cargo planes after Kentucky air disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pr5y7p90o?at_medium=RSS&at_campaign=rss" target="_blank">UPS and FedEx ground some cargo planes after Kentucky air disaster</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-08 07:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae88/live/91740bf0-bc81-11f0-ae46-bd64331f0fd4.png" alt="US firms ground MD-11 cargo planes after Kentucky air disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -95,20 +98,20 @@
                 <span class="time">2025-11-08 07:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5215/live/d5cae1a0-bc1a-11f0-8669-5560f5c90fbe.jpg" alt="Trump gives Hungary one-year exemption from Russian energy sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp85dvnkpv4o?at_medium=RSS&at_campaign=rss" target="_blank">Trump gives Hungary one-year exemption from Russian energy sanctions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-08 05:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690e4efecf26a92c7a51136c/master/pass/P90391841_highRes_bmw-digital-key-06-2.jpg" alt="Why Are We All Still Carrying Around Car Keys?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/" target="_blank">Why Are We All Still Carrying Around Car Keys?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-08 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="AT&amp;T Promo Codes and Bundle Deals: Save $50 in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +157,20 @@
                 <span class="time">2025-11-07 21:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker" target="_blank">The best Fitbits for your fitness and health</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-07 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/github-copilot-agenthq/en/headerimage/generatedHeaderImage-1762533395855.jpg" alt="GitHub Expands Copilot Ecosystem with AgentHQ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/github-copilot-agenthq/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Expands Copilot Ecosystem with AgentHQ</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-08 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +216,6 @@
                 <span class="time">2025-11-08 04:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/Ubuntu-Spy.jpg?resize=406%2C232&amp;ssl=1" alt="Linux PPA Ransomware Scare is Light on Evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/linux-ppa-ransomware-investigated-no-malware" target="_blank">Linux PPA Ransomware Scare is Light on Evidence</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-08 03:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/mammoth-1280x853.jpg" alt="Rediscovered Fossil Redraws the Map of Woolly Mammoth Territory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rediscovered-fossil-redraws-the-map-of-woolly-mammoth-territory-2000682181" target="_blank">Rediscovered Fossil Redraws the Map of Woolly Mammoth Territory</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/dji-mic-1280x853.jpg" alt="DJI Offloads Premium Mic Mini Bundle, Now Cheaper Than Budget No-Name Alternatives" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +298,6 @@
                 <span class="time">2025-11-07 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2221682966-1280x853.jpg" alt="Study Finds Around a Quarter of Polymarket Trades Are Fake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/study-finds-around-a-quarter-of-polymarket-trades-are-fake-2000683231" target="_blank">Study Finds Around a Quarter of Polymarket Trades Are Fake</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
