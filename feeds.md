@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 00:04:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-08 01:29:07 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal" target="_blank">Full SNAP benefits start to go out even as the Trump administration appeals</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-08 00:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-14-gty-gmh-251106_1762458159908_hpMain_4x3t_384.jpg" alt="Appeals court says it won&#x27;t block order to fund SNAP as states begin issuing benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/trump-administration-asks-appeals-court-immediately-halt-ruling/story?id=127294307" target="_blank">Appeals court says it won&#x27;t block order to fund SNAP as states begin issuing benefits</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-07 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/7/republicans-swat-down-democratic-offer-to-end-us-government-shutdown?traffic_source=rss" target="_blank">Republicans swat down Democratic offer to end US government shutdown</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-07 23:22</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +100,6 @@
                 <span class="time">2025-11-07 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2812/live/1e530680-bc18-11f0-900d-c9ccbfdeef29.jpg" alt="DNA pioneer James Watson dies at 97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&at_campaign=rss" target="_blank">DNA pioneer James Watson dies at 97</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-07 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5600001/snap-usda-food-banks-pantries-demand-thanksgiving" target="_blank">As millions of Americans struggle with SNAP lapses, food banks are swamped with demand</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-07 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -115,6 +112,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/11/james-watson-who-helped-unravel-dnas-double-helix-has-died/" target="_blank">James Watson, who helped unravel DNA’s double-helix, has died</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-07 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/816960/halo-infinite-end" target="_blank">Halo Infinite is about to get its last major update</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-07 23:26</span>
             </div>
         </div>
 <div class="story">
@@ -153,20 +159,29 @@
                 <span class="time">2025-11-07 20:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/frowny_bagboy-500x500.jpg" alt="Researchers surprised that with AI, toxicity is harder to fake than intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/" target="_blank">Researchers surprised that with AI, toxicity is harder to fake than intelligence</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-07 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GTK-Reduced-Motion" target="_blank">GTK Adds &quot;Reduced Motion&quot; Accessibility Option To Follow macOS, Windows &amp; Others</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-08 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyjrp522srr83v1oolb7.png" alt="Keyshade Debugging: Mastering Workspace Role Tests and API Repair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jds64/keyshade-debugging-mastering-workspace-role-tests-and-api-repair-1ok6" target="_blank">Keyshade Debugging: Mastering Workspace Role Tests and API Repair</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 01:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,29 +218,20 @@
                 <span class="time">2025-11-07 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NILFS2-Second-Maintainer" target="_blank">NILFS2 File-System Seeing Renewed Interest With Additional Maintainer</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-07 21:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-c4l" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html" target="_blank">Friday Squid Blogging: Squid Game: The Challenge, Season Two</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-07 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -340,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
