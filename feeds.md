@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 02:27:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-08 03:16:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 03:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +54,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/8/us-judge-rules-trump-illegally-ordered-national-guard-troops-to?traffic_source=rss" target="_blank">US judge rules Trump illegally ordered National Guard troops to Portland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-08 02:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/8/russia-ukraine-war-list-of-key-events-day-1353?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,353</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-08 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5663/live/126ac4f0-bc2e-11f0-83cf-6fc124f36234.jpg" alt="At least four prisoners freed in error still at large, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn51329exkqo?at_medium=RSS&at_campaign=rss" target="_blank">At least four prisoners freed in error still at large, BBC told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-08 01:14</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/7/republicans-swat-down-democratic-offer-to-end-us-government-shutdown?traffic_source=rss" target="_blank">Republicans swat down Democratic offer to end US government shutdown</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-07 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/nov/07/trump-boycott-g20-south-africa-white-farmers" target="_blank">Trump says US will boycott G20 summit in South Africa, citing treatment of white farmers</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-07 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c314/live/d8d686e0-bc0d-11f0-8456-eff94716b162.jpg" alt="Algerian man mistakenly released from Wandsworth prison arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c625grkxg05o?at_medium=RSS&at_campaign=rss" target="_blank">Algerian man mistakenly released from Wandsworth prison arrested</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-07 22:11</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qfm0xt4h8vqde3jab0u.png" alt="SafeMigrate: Never Fear Database Migrations Again with AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/depapp/safemigrate-never-fear-database-migrations-again-with-ai-agents-2aon" target="_blank">SafeMigrate: Never Fear Database Migrations Again with AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 03:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8zyutyhl6gbe434p9cm.png" alt="From Manual Testing to AI Agents: A 90-Day Transformation Roadmap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,7 +208,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nilostolte.github.io/tech/articles/ZigCool.html" target="_blank">Why is Zig so Cool?</a></span>
+                <span class="title"><a href="https://nilostolte.github.io/tech/articles/ZigCool.html" target="_blank">Why is Zig so cool?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-07 23:04</span>
             </div>
@@ -203,19 +216,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8" target="_blank">SSLCommerz works with frontend, backend, and database</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tomivan/coding-challenge-practice-question-48-4b3n" target="_blank">Coding Challenge Practice - Question 48</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 21:49</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nilostolte.github.io/tech/articles/ZigCool.html" target="_blank">Why is Zig so Cool?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-07 23:04</span>
             </div>
         </div>
 </div>
@@ -341,13 +345,22 @@
                 <span class="time">2025-11-07 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png" alt="Earthquake Prediction Flowchart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3165/" target="_blank">Earthquake Prediction Flowchart</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-07 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 03:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
