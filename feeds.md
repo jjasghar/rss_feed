@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 07:01:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-08 08:02:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/11/8/in-her-dying-moments-a-stranger-changed-my-life?traffic_source=rss" target="_blank">In her dying moments, a stranger changed my life</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-08 07:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/08/g-s1-97052/ups-fedex-ground-md-11-planes" target="_blank">UPS and FedEx grounding MD-11 planes following deadly Kentucky crash</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-08 07:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5215/live/d5cae1a0-bc1a-11f0-8669-5560f5c90fbe.jpg" alt="Trump gives Hungary one-year exemption from Russian energy sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp85dvnkpv4o?at_medium=RSS&at_campaign=rss" target="_blank">Trump gives Hungary one-year exemption from Russian energy sanctions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-08 05:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/kbj_1762571614337_hpMain_4x3t_384.jpg" alt="Justice temporarily pauses order requiring Trump admin to fully fund SNAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +98,20 @@
                 <span class="time">2025-11-08 01:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5663/live/126ac4f0-bc2e-11f0-83cf-6fc124f36234.jpg" alt="At least four prisoners freed in error still at large, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn51329exkqo?at_medium=RSS&at_campaign=rss" target="_blank">At least four prisoners freed in error still at large, BBC told</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-08 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal" target="_blank">Supreme Court temporarily blocks full SNAP benefits even as they&#x27;d started to go out</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-08 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal" target="_blank">Full SNAP benefits start to go out even as the Trump administration appeals</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-08 00:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="AT&amp;T Promo Codes and Bundle Deals: Save $50 in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/att-promo-code/" target="_blank">AT&amp;T Promo Codes and Bundle Deals: Save $50 in November</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-08 07:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1094223390-500x500.jpg" alt="James Watson, who helped unravel DNA’s double-helix, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +157,20 @@
                 <span class="time">2025-11-07 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/" target="_blank">Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-07 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/winter-tengjingshu/introduction-to-m3u8-resource-sharing-o6f" target="_blank">Introduction to M3U8 &amp; Resource Sharing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 07:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GTK-Reduced-Motion" target="_blank">GTK Adds &quot;Reduced Motion&quot; Accessibility Option To Follow macOS, Windows &amp; Others</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-08 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdyjrp522srr83v1oolb7.png" alt="Keyshade Debugging: Mastering Workspace Role Tests and API Repair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jds64/keyshade-debugging-mastering-workspace-role-tests-and-api-repair-1ok6" target="_blank">Keyshade Debugging: Mastering Workspace Role Tests and API Repair</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 01:06</span>
             </div>
         </div>
 </div>
@@ -279,21 +281,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/The-Ultimate-2025-Social-Media-Freelancer-Marketing-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Someone tell the internet — this $34.99 social media bundle is pure magic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/07/someone-tell-the-internet-this-34-99-social-media-bundle-is-pure-magic.html" target="_blank">Someone tell the internet — this $34.99 social media bundle is pure magic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-07 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2221682966-1280x853.jpg" alt="Study Finds Around a Quarter of Polymarket Trades Are Fake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/study-finds-around-a-quarter-of-polymarket-trades-are-fake-2000683231" target="_blank">Study Finds Around a Quarter of Polymarket Trades Are Fake</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-07 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/01/bbfa93247bea3cd61c11503bb49a6481-1280x720.jpg" alt="Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/halo-infinite-no-more-updates-operation-halo-studios-xbox-2000642195" target="_blank">Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-07 21:13</span>
             </div>
         </div>
 </div>
@@ -328,22 +330,13 @@
                 <span class="time">2025-11-07 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/07/the-glyphs-of-dover" target="_blank">The Glyphs Of Dover</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-07 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
