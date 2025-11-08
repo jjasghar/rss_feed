@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 11:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-08 12:02:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/08/tanzania-officials-seek-arrest-key-opposition-figures-fatal-election-protests--samia-suluhu-hassan-" target="_blank">Tanzania officials seek arrest of opposition leaders after fatal election protests</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-08 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware" target="_blank">Immigration agents have new technology to identify and track people</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-08 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2pr5y7p90o?at_medium=RSS&at_campaign=rss" target="_blank">US firms ground MD-11 cargo planes after Kentucky air disaster</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-08 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/11/8/in-her-dying-moments-a-stranger-changed-my-life?traffic_source=rss" target="_blank">In her dying moments, a stranger changed my life</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-08 07:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/08/g-s1-97052/ups-fedex-ground-md-11-planes" target="_blank">UPS and FedEx grounding MD-11 planes following deadly Kentucky crash</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-08 07:05</span>
             </div>
         </div>
 </div>
@@ -230,15 +231,6 @@
                 <span class="time">2025-11-07 22:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html" target="_blank">Faking Receipts with AI</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-07 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -335,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
