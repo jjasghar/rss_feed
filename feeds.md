@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-07 23:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-08 00:04:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, November 07, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-14-gty-gmh-251106_1762458159908_hpMain_4x3t_384.jpg" alt="Appeals court says it won&#x27;t block order to fund SNAP as states begin issuing benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-administration-asks-appeals-court-immediately-halt-ruling/story?id=127294307" target="_blank">Appeals court says it won&#x27;t block order to fund SNAP as states begin issuing benefits</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-07 23:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c314/live/d8d686e0-bc0d-11f0-8456-eff94716b162.jpg" alt="Algerian man mistakenly released from Wandsworth prison arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -63,6 +74,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: Schumer outlines Dems&#x27; offer, GOP brushes off proposal</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-07 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5144654/james-watson-dna-double-helix-dies" target="_blank">James Watson, who co-discovered the structure of DNA, has died at age 97</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-07 21:04</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +103,20 @@
                 <span class="time">2025-11-07 20:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762547956967_now_daily_b_alcindor_usda_snap_251107_1920x1080-6y1j01.jpg" alt="USDA says it will begin fully funding SNAP benefits after court ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/usda-says-it-will-begin-fully-funding-snap-benefits-after-court-ruling-251566149666" target="_blank">USDA says it will begin fully funding SNAP benefits after court ruling</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-07 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/7/brazil-supreme-court-panel-rejects-bolsonaros-prison-sentence?traffic_source=rss" target="_blank">Brazil Supreme Court panel rejects Bolsonaro’s prison sentence appeal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 20:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1094223390-500x500.jpg" alt="James Watson, who helped unravel DNA’s double-helix, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/11/james-watson-who-helped-unravel-dnas-double-helix-has-died/" target="_blank">James Watson, who helped unravel DNA’s double-helix, has died</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-07 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690d3352c832aed16c6a3d58/master/pass/Cybersecurity-Lags-Government-Shutdowns-Security.jpg" alt="The Government Shutdown Is a Ticking Cybersecurity Time Bomb" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +162,20 @@
                 <span class="time">2025-11-07 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690e418216eea0bccc3e9188/master/pass/The%20Updated%20Razer%20Blade%2014%20Is%20Deeply%20Discounted.png" alt="Fat Savings on the Super Skinny Razer Blade 14 Gaming Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/razer-blade-14-oled-deal-1125/" target="_blank">Fat Savings on the Super Skinny Razer Blade 14 Gaming Laptop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-07 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nilostolte.github.io/tech/articles/ZigCool.html" target="_blank">Why is Zig so Cool?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-07 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-c4l" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-11-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735657&w=600" alt="Kubernetes v1.34: Enabling Smarter Traffic Routing With PreferSameNode and PreferSameZone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-traffic-routing-prefersamenode-prefersamezone" target="_blank">Kubernetes v1.34: Enabling Smarter Traffic Routing With PreferSameNode and PreferSameZone</a></span>
-                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-07 20:00</span>
             </div>
         </div>
@@ -338,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
