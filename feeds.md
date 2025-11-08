@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 15:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-08 16:01:30 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/8/irish-football-body-overwhelmingly-backs-call-for-israels-ban-from-uefa?traffic_source=rss" target="_blank">Irish football body overwhelmingly backs call for Israel’s ban from UEFA</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-08 15:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/nov/08/tanzania-officials-seek-arrest-key-opposition-figures-fatal-election-protests--samia-suluhu-hassan-" target="_blank">Tanzania officials seek arrest of opposition leaders after fatal election protests</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-08 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware" target="_blank">Immigration agents have new technology to identify and track people</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-08 10:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jl03/envsecops-what-it-actually-is-and-why-devsecops-wont-cut-it-43nh" target="_blank">EnvSecOps: What It Actually Is (And Why DevSecOps Won&#x27;t Cut It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-AI-Software-1.6.1" target="_blank">Ryzen AI Software 1.6.1 Advertises Linux Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-08 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-Znver6-Binutils" target="_blank">AMD Sends Out Initial GNU Binutils Patch For AMD Zen 6 - Confirms New AVX-512 Features</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,24 +216,6 @@
                 <span class="time">2025-11-08 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/winter-tengjingshu/introduction-to-m3u8-resource-sharing-o6f" target="_blank">Introduction to M3U8 &amp; Resource Sharing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 07:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debuggingwithsim/the-truth-about-building-in-public-what-no-one-tells-you-2o2p" target="_blank">The Truth About ‘Building in Public’: What No One Tells You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 05:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Kill-Bill-Uma-Thurman-1280x853.jpg" alt="Behold, the Bloody Return of ‘Kill Bill’ to Theaters Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/behold-the-bloody-return-of-kill-bill-to-theaters-next-month-2000683359" target="_blank">Behold, the Bloody Return of ‘Kill Bill’ to Theaters Next Month</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-08 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple-1280x853.jpg" alt="Apple Silently Began Black Friday Sales, MacBook Air Now Sells Below Mid-Tier Windows Laptops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +289,6 @@
                 <span class="time">2025-11-08 00:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/tatsuki-fujimoto-2-io9-template-3-1280x853.jpg" alt="‘Tatsuki Fujimoto 17-26’ Is a Joyously Unhinged Look Into the Young Mind of Manga’s Wildest Auteur" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tatsuki-fujimoto-17-26-anime-anthology-review-prime-video-2000682427" target="_blank">‘Tatsuki Fujimoto 17-26’ Is a Joyously Unhinged Look Into the Young Mind of Manga’s Wildest Auteur</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-07 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
