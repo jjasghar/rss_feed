@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 12:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-08 13:06:11 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/8/israeli-attacks-kill-two-in-lebanon-as-eu-urges-it-to-respect-the-ceasefire?traffic_source=rss" target="_blank">Israeli attacks kill two in Lebanon as EU urges it to respect the ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-08 12:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +102,20 @@
                 <span class="time">2025-11-08 07:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae88/live/91740bf0-bc81-11f0-ae46-bd64331f0fd4.png" alt="US firms ground MD-11 cargo planes after Kentucky air disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pr5y7p90o?at_medium=RSS&at_campaign=rss" target="_blank">US firms ground MD-11 cargo planes after Kentucky air disaster</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-08 07:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690c98a327a9fa6b4e201c19/master/pass/e32fe4e60967b2faa0cc8d32427b3271af63fc94.jpeg" alt="Trump’s Hatred of EVs Is Making Gas Cars More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/" target="_blank">Trump’s Hatred of EVs Is Making Gas Cars More Expensive</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-08 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690e4efecf26a92c7a51136c/master/pass/P90391841_highRes_bmw-digital-key-06-2.jpg" alt="Why Are We All Still Carrying Around Car Keys?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +161,20 @@
                 <span class="time">2025-11-07 22:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/" target="_blank">Rivian gives RJ Scaringe a new pay package worth up to $5B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-07 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-Znver6-Binutils" target="_blank">AMD Sends Out Initial GNU Binutils Patch For AMD Zen 6 - Confirms New AVX-512 Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-08 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/github-copilot-agenthq/en/headerimage/generatedHeaderImage-1762533395855.jpg" alt="GitHub Expands Copilot Ecosystem with AgentHQ" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/debuggingwithsim/the-truth-about-building-in-public-what-no-one-tells-you-2o2p" target="_blank">The Truth About ‘Building in Public’: What No One Tells You</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-08 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjxp2s67pyc00hfq3adgo.png" alt="Building Security by Design: My AWS Project Showcasing VPC, NAT Gateway, and Private Networking Mastery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/odinkemelu_innocent_3b2f5/building-security-by-design-my-aws-project-showcasing-vpc-nat-gateway-and-private-networking-2la9" target="_blank">Building Security by Design: My AWS Project Showcasing VPC, NAT Gateway, and Private Networking Mastery</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 04:57</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
