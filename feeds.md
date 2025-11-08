@@ -1,15 +1,17 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 16:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-08 17:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
@@ -17,18 +19,19 @@
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5602823/tampa-speeding-car-chase-deaths-bar-ybor-city" target="_blank">4 dead, 11 injured after a car chased by police plows into a crowd outside Tampa bar</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-08 16:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +101,6 @@
                 <span class="time">2025-11-08 12:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/08/tanzania-officials-seek-arrest-key-opposition-figures-fatal-election-protests--samia-suluhu-hassan-" target="_blank">Tanzania officials seek arrest of opposition leaders after fatal election protests</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-08 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +113,15 @@
                 <span class="title"><a href="https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie" target="_blank">Sims streamers are distancing themselves from EA, but for some the choice is hard</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690e3becdf3f2e249e6c4f14/master/pass/sci-crispr-heart-1474771239.jpg" alt="A Gene Editing Therapy Cut Cholesterol Levels by Half" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-gene-editing-therapy-cut-cholesterol-levels-by-half/" target="_blank">A Gene Editing Therapy Cut Cholesterol Levels by Half</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-08 14:56</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +160,20 @@
                 <span class="time">2025-11-07 23:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/816960/halo-infinite-end" target="_blank">Halo Infinite is about to get its last major update</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-07 23:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9vm1x8gylqw2mgnmysm.png" alt="Interfacing with Wasm from Kotlin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/charlietap/interfacing-with-wasm-from-kotlin-2k2c" target="_blank">Interfacing with Wasm from Kotlin</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 16:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,6 +195,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/aristocratos/btop" target="_blank">Btop: A better modern alternative of htop with a gamified interface</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-08 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-Znver6-Binutils" target="_blank">AMD Sends Out Initial GNU Binutils Patch For AMD Zen 6 - Confirms New AVX-512 Features</a></span>
                 <span class="feed">Phoronix</span>
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/github-copilot-agenthq/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Expands Copilot Ecosystem with AgentHQ</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-08 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-195c" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/aws-regions-capabilities-tool/en/headerimage/generatedHeaderImage-1762528974235.jpg" alt="AWS Launches Capabilities by Region Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-regions-capabilities-tool/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Capabilities by Region Tool</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-08 10:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +245,15 @@
                 <span class="title"><a href="https://gizmodo.com/behold-the-bloody-return-of-kill-bill-to-theaters-next-month-2000683359" target="_blank">Behold, the Bloody Return of ‘Kill Bill’ to Theaters Next Month</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-08 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/dell-intel-laptop-1280x853.jpg" alt="Dell Offers Its 1TB Laptop Almost Free (-71%), but Quietly Dumps Stock Through Amazon Only" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dell-offers-its-1tb-laptop-almost-free-71-but-quietly-dumps-stock-through-amazon-only-2000642281" target="_blank">Dell Offers Its 1TB Laptop Almost Free (-71%), but Quietly Dumps Stock Through Amazon Only</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-08 15:17</span>
             </div>
         </div>
 <div class="story">
@@ -280,15 +292,6 @@
                 <span class="time">2025-11-08 00:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Welcome-to-Derry-Pennywise-HBO-Max-1280x853.jpg" alt="I’m Both Terrified and Impatient for Pennywise to Show Up on ‘Welcome to Derry’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/im-both-terrified-and-impatient-for-pennywise-to-show-up-on-welcome-to-derry-2000682966" target="_blank">I’m Both Terrified and Impatient for Pennywise to Show Up on ‘Welcome to Derry’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-08 00:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,31 +306,13 @@
                 <span class="time">2025-11-07 21:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/bird-with-cigarette/" target="_blank">Bird with Cigarette</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-11-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762478202-20251107.png" alt="Saturday Morning Breakfast Cereal - Miracle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/miracle" target="_blank">Saturday Morning Breakfast Cereal - Miracle</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-07 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
