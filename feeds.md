@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 18:02:09 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-08 19:01:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling" target="_blank">Judge says Education Dept. partisan out-of-office emails violated First Amendment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-08 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/8/tanzania-arrests-senior-opposition-figure-charges-over-200-with-treason?traffic_source=rss" target="_blank">Tanzania arrests senior opposition figure as hundreds face treason charges</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-08 18:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +101,20 @@
                 <span class="time">2025-11-08 14:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee9/live/172b3d50-bca9-11f0-9886-b3acf9644cc5.jpg" alt="Two prisoners still at large after being freed by mistake in 2024" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr4315ev559o?at_medium=RSS&at_campaign=rss" target="_blank">Two prisoners still at large after being freed by mistake in 2024</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762610151850_tdy_sat_alcindor_snap_benefits_251108_1920x1080-u5pu4z.jpg" alt="Supreme Court Allows Trump to Temporarily Pause SNAP Funding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/supreme-court-allows-trump-to-temporarily-pause-snap-funding-251607621782" target="_blank">Supreme Court Allows Trump to Temporarily Pause SNAP Funding</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-08 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/" target="_blank">OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-08 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/" target="_blank">Why Are We All Still Carrying Around Car Keys?</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-08 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="AT&amp;T Promo Codes and Bundle Deals: Save $50 in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/att-promo-code/" target="_blank">AT&amp;T Promo Codes and Bundle Deals: Save $50 in November</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-08 07:10</span>
             </div>
         </div>
 </div>
@@ -240,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/predator-trilogy-hed-1280x853.jpg" alt="What Is Dan Trachtenberg’s ‘Predator’ Trilogy About?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/what-is-dan-trachtenbergs-predator-trilogy-about-2000683154" target="_blank">What Is Dan Trachtenberg’s ‘Predator’ Trilogy About?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-08 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Kill-Bill-Uma-Thurman-1280x853.jpg" alt="Behold, the Bloody Return of ‘Kill Bill’ to Theaters Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,20 +292,20 @@
                 <span class="time">2025-11-08 00:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8QH6BWMQPMAM6PBFJC2JSYD/hero-image.png" alt="You Can Get This Microsoft Surface Book 3 on Sale for Up to 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-surface-book-3-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get This Microsoft Surface Book 3 on Sale for Up to 60% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-08 00:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1762478243-20251108.png" alt="Saturday Morning Breakfast Cereal - Fish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/fish-3" target="_blank">Saturday Morning Breakfast Cereal - Fish</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-08 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -312,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
