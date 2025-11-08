@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 19:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-08 20:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -95,10 +95,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5587748/crispr-gene-editing-cholesterol-heart-disease" target="_blank">CRISPR gene-editing works to reduce high cholesterol in a new study</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-08 14:58</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/08/tanzania-officials-seek-arrest-key-opposition-figures-fatal-election-protests--samia-suluhu-hassan-" target="_blank">Tanzania police arrest opposition party official after deadly election protests</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-08 15:17</span>
             </div>
         </div>
 </div>
@@ -106,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/" target="_blank">‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-08 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +160,29 @@
                 <span class="time">2025-11-08 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690e4efecf26a92c7a51136c/master/pass/P90391841_highRes_bmw-digital-key-06-2.jpg" alt="Why Are We All Still Carrying Around Car Keys?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/" target="_blank">Why Are We All Still Carrying Around Car Keys?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-08 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42xdg94vnkkhf11pkq2a.png" alt="How to install n8n locally on Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a" target="_blank">How to install n8n locally on Windows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc5-POWER-Regression" target="_blank">Linux 6.18-rc5 To Cut Down Performance Regression Observed On IBM POWER CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-08 19:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9vm1x8gylqw2mgnmysm.png" alt="Interfacing with Wasm from Kotlin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +217,6 @@
                 <span class="title"><a href="https://github.com/aristocratos/btop" target="_blank">Btop: A better modern alternative of htop with a gamified interface</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-08 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-Znver6-Binutils" target="_blank">AMD Sends Out Initial GNU Binutils Patch For AMD Zen 6 - Confirms New AVX-512 Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-08 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/github-copilot-agenthq/en/headerimage/generatedHeaderImage-1762533395855.jpg" alt="GitHub Expands Copilot Ecosystem with AgentHQ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/github-copilot-agenthq/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Expands Copilot Ecosystem with AgentHQ</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-08 10:30</span>
             </div>
         </div>
 </div>
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
