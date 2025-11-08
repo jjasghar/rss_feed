@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 03:16:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-08 04:02:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 03:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/kbj_1762571614337_hpMain_4x3t_384.jpg" alt="Justice temporarily pauses order requiring Trump admin to fully fund SNAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-administration-asks-appeals-court-immediately-halt-ruling/story?id=127294307" target="_blank">Justice temporarily pauses order requiring Trump admin to fully fund SNAP</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-08 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,27 +84,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal" target="_blank">Full SNAP benefits start to go out even as the Trump administration appeals</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal" target="_blank">Supreme Court temporarily blocks full SNAP benefits even as they&#x27;d started to go out</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-08 00:36</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-14-gty-gmh-251106_1762458159908_hpMain_4x3t_384.jpg" alt="Appeals court says it won&#x27;t block order to fund SNAP as states begin issuing benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-administration-asks-appeals-court-immediately-halt-ruling/story?id=127294307" target="_blank">Appeals court says it won&#x27;t block order to fund SNAP as states begin issuing benefits</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-07 23:58</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/7/republicans-swat-down-democratic-offer-to-end-us-government-shutdown?traffic_source=rss" target="_blank">Republicans swat down Democratic offer to end US government shutdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-07 23:22</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal" target="_blank">Full SNAP benefits start to go out even as the Trump administration appeals</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-08 00:36</span>
             </div>
         </div>
 </div>
@@ -359,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 03:16 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
