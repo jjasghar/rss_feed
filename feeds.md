@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 20:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-08 21:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +106,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/" target="_blank">Is Wall Street losing faith in AI?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-08 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/" target="_blank">‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-08 19:31</span>
@@ -151,26 +156,35 @@
                 <span class="time">2025-11-08 14:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690c98a327a9fa6b4e201c19/master/pass/e32fe4e60967b2faa0cc8d32427b3271af63fc94.jpeg" alt="Trump’s Hatred of EVs Is Making Gas Cars More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/" target="_blank">Trump’s Hatred of EVs Is Making Gas Cars More Expensive</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-08 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/minindu_pasan_8f0e03c1063/how-to-setup-raspberry-pi-camera-module-3-on-ubuntu-2404-4pme" target="_blank">How to Setup Raspberry Pi Camera Module 3 on Ubuntu 24.04</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 20:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42xdg94vnkkhf11pkq2a.png" alt="How to install n8n locally on Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a" target="_blank">How to install n8n locally on Windows</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-11-08 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/embedding-atlas/en/headerimage/generatedHeaderImage-1762630476697.jpg" alt="Embedding Atlas: Apple’s Open-Source Tool for Exploring Large-Scale Embeddings Locally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/embedding-atlas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Embedding Atlas: Apple’s Open-Source Tool for Exploring Large-Scale Embeddings Locally</a></span>
+                <span class="feed">InfoQ</span>
                 <span class="time">2025-11-08 19:50</span>
             </div>
         </div>
@@ -184,39 +198,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://markojs.com/" target="_blank">Marko – A declarative, HTML‑based language that makes building web apps fun</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-08 18:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9vm1x8gylqw2mgnmysm.png" alt="Interfacing with Wasm from Kotlin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/charlietap/interfacing-with-wasm-from-kotlin-2k2c" target="_blank">Interfacing with Wasm from Kotlin</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-08 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jl03/envsecops-what-it-actually-is-and-why-devsecops-wont-cut-it-43nh" target="_blank">EnvSecOps: What It Actually Is (And Why DevSecOps Won&#x27;t Cut It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-AI-Software-1.6.1" target="_blank">Ryzen AI Software 1.6.1 Advertises Linux Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-08 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/aristocratos/btop" target="_blank">Btop: A better modern alternative of htop with a gamified interface</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-08 14:50</span>
             </div>
         </div>
 </div>
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
