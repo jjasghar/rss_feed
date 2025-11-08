@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 14:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-08 15:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, November 08, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5587748/crispr-gene-editing-cholesterol-heart-disease" target="_blank">CRISPR gene-editing works to reduce high cholesterol in a new study</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-08 14:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee9/live/172b3d50-bca9-11f0-9886-b3acf9644cc5.jpg" alt="Two prisoners still at large after being freed by mistake in 2024" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cr4315ev559o?at_medium=RSS&at_campaign=rss" target="_blank">Two prisoners still at large after being freed by mistake in 2024</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762610151850_tdy_sat_alcindor_snap_benefits_251108_1920x1080-u5pu4z.jpg" alt="Supreme Court Allows Trump to Temporarily Pause SNAP Funding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/supreme-court-allows-trump-to-temporarily-pause-snap-funding-251607621782" target="_blank">Supreme Court Allows Trump to Temporarily Pause SNAP Funding</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-08 13:55</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +100,20 @@
                 <span class="time">2025-11-08 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/11/8/live-tottenham-hotspur-vs-manchester-united-premier-league-2?traffic_source=rss" target="_blank">LIVE: Tottenham Hotspur vs Manchester United – Premier League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-08 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/8/philippines-braces-for-typhoon-fung-wong-after-earlier-storm-kills-over-200?traffic_source=rss" target="_blank">Philippines braces for Typhoon Fung-wong after earlier storm kills over 200</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-08 08:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie" target="_blank">Sims streamers are distancing themselves from EA, but for some the choice is hard</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-08 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690c98a327a9fa6b4e201c19/master/pass/e32fe4e60967b2faa0cc8d32427b3271af63fc94.jpeg" alt="Trump’s Hatred of EVs Is Making Gas Cars More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/816960/halo-infinite-end" target="_blank">Halo Infinite is about to get its last major update</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-07 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690d3352c832aed16c6a3d58/master/pass/Cybersecurity-Lags-Government-Shutdowns-Security.jpg" alt="The Government Shutdown Is a Ticking Cybersecurity Time Bomb" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/" target="_blank">The Government Shutdown Is a Ticking Cybersecurity Time Bomb</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-07 22:34</span>
             </div>
         </div>
 </div>
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
