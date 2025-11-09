@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 20:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 21:01:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251109-EBT-aa-114-dc1eef.jpg" alt="USDA says states must &#x27;undo&#x27; efforts to disburse full November SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/usda-states-undo-disburse-full-november-snap-benefits-shutdown-rcna242853" target="_blank">USDA says states must &#x27;undo&#x27; efforts to disburse full November SNAP benefits</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-09 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f525/live/04192c90-bd99-11f0-b429-db99eb1e9512.jpg" alt="BBC director general and News CEO resign over Trump documentary edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603417/full-snap-benefits-trump-states-order" target="_blank">Trump admin tells states to &#x27;immediately undo&#x27; steps to fund November SNAP benefits</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-09 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/snap-4-epa-gmh-251107._1762523989409_hpMain_4x3t_384.jpg" alt="Government shutdown updates: USDA tells states to &#x27;undo&#x27; issuing any SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: USDA tells states to &#x27;undo&#x27; issuing any SNAP benefits</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-09 16:57</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaksonxavier/principios-fundamentais-do-desenvolvimento-de-software-6ea" target="_blank">Princípios fundamentais do desenvolvimento de software</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-h77" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-09 18:00</span>
@@ -203,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/dinindu_suriyamudali_e604/how-we-solve-problems-and-how-agents-should-too-ce2" target="_blank">How We Solve Problems (And How Agents Should Too)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-09 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alivetheory.net/" target="_blank">Alive internet theory</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-09 12:33</span>
             </div>
         </div>
 </div>
@@ -307,7 +306,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 20:02 UTC
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
