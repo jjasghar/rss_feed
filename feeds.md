@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 18:02:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-11-09 19:01:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-14-gty-gmh-251106_1762458159908_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll issue $2,000 tariff dividend to all except &#x27;high-income people&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-hell-issue-2000-tariff-dividend-except-high/story?id=127356839" target="_blank">Trump says he&#x27;ll issue $2,000 tariff dividend to all except &#x27;high-income people&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-09 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603609/bbc-director-resigns-after-criticism-of-the-broadcasters-editing-of-a-trump-speech" target="_blank">BBC director resigns after criticism of the broadcaster&#x27;s editing of a Trump speech</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-09 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +94,20 @@
                 <span class="time">2025-11-09 15:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603375/hamas-returns-idf-soldier-hadar-goldin-killed-2014" target="_blank">Israel receives remains of hostage that Hamas says is IDF soldier killed in 2014</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-09 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2025/11/9/kenyas-ruto-on-protests-power-and-the-state-of-democracy?traffic_source=rss" target="_blank">Kenya’s Ruto on protests, power, and the state of democracy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-09 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/" target="_blank">Apple reportedly plans ambitious satellite-powered iPhone features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-09 17:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-500x500.jpg" alt="Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +153,6 @@
                 <span class="time">2025-11-09 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic" target="_blank">65daysofstatic’s new No Man’s Sky album searches for humanity in an AI-filled world</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-09 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +174,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext" target="_blank">The Linux Kernel Looks To &quot;Bite The Bullet&quot; In Enabling Microsoft C Extensions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-09 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://willmorrison.net/posts/marble-fountain/" target="_blank">Marble Fountain</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-09 16:26</span>
             </div>
         </div>
 <div class="story">
@@ -210,13 +212,18 @@
                 <span class="time">2025-11-09 12:33</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Lenovo-IdeaPad-Rapid-Charge" target="_blank">Lenovo IdeaPad Linux Driver Adding Support For Rapid Charge Mode</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-09 11:49</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/" target="_blank">Drilling Down on Uncle Sam’s Proposed TP-Link Ban</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-11-09 18:14</span>
             </div>
         </div>
 </div>
@@ -297,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
