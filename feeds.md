@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 17:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 18:02:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603417/full-snap-benefits-trump-states-order" target="_blank">Trump admin tells states to &#x27;immediately undo&#x27; steps to fund November SNAP benefits</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-09 17:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/snap-4-epa-gmh-251107._1762523989409_hpMain_4x3t_384.jpg" alt="Government shutdown updates: USDA tells states to &#x27;undo&#x27; issuing any SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: USDA tells states to &#x27;undo&#x27; issuing any SNAP benefits</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-09 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/9/why-does-the-uk-want-to-copy-denmarks-stringent-immigration-policies?traffic_source=rss" target="_blank">Why does the UK want to copy Denmark’s stringent immigration policies?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-09 16:50</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +101,6 @@
                 <span class="time">2025-11-09 14:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Nearly a million evacuated as &#x27;super typhoon&#x27; makes landfall in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Nearly a million evacuated as &#x27;super typhoon&#x27; makes landfall in Philippines</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-09 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/9/aje-onl-qt_jorge_restrepo-091125?traffic_source=rss" target="_blank">Colombia seeks joint “actions” on drug trade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-09 12:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +113,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/" target="_blank">Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-09 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687b65a7de683abfc4adcf70/master/pass/The%20Best%20Pizza%20Ovens%20to%20Make%20the%20Perfect%20Slice.png" alt="Our 8 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-backyard-pizza-oven/" target="_blank">Our 8 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-09 15:30</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +160,29 @@
                 <span class="time">2025-11-09 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dec8e68df24b62cbfdf4b2/master/pass/The%20Best%20Kindles%20to%20Take%20Your%20Library%20Anywhere.png" alt="The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-kindle/" target="_blank">The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-09 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-h77" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext" target="_blank">The Linux Kernel Looks To &quot;Bite The Bullet&quot; In Enabling Microsoft C Extensions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-09 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7inhbfw3dxkvukk9qa3.jpg" alt="User Scanner : Find Your Unique &amp; Perfect Username Across All Popular Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,29 +219,20 @@
                 <span class="time">2025-11-09 11:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/patatez/gnss-fix-with-rtl-sdr-in-linux-224d" target="_blank">GNSS Fix with RTL-SDR (in Linux!)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vjnvisakh/python-web-frameworks-crafting-the-future-of-web-development-1bi5" target="_blank">Python Web Frameworks: Crafting the Future of Web Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/AlienEarthFunko-1280x853.jpg" alt="Toy Company Funko Has ‘Going Concerns’ About Its Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/toy-company-funko-has-going-concerns-about-its-future-2000683433" target="_blank">Toy Company Funko Has ‘Going Concerns’ About Its Future</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-09 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_S5-3-1280x853.jpg" alt="Netflix’s ‘Stranger Things’ and ‘Squid Game’ Experiences Hit Dallas Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +278,6 @@
                 <span class="time">2025-11-09 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-1000-1280x853.jpg" alt="Amazon Slashes This 1500W Power Station to Peanuts, 7 Outlets Save You During Winter Blackouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-slashes-this-1500w-power-station-to-peanuts-7-outlets-save-you-during-winter-blackouts-2000642286" target="_blank">Amazon Slashes This 1500W Power Station to Peanuts, 7 Outlets Save You During Winter Blackouts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-08 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
