@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 14:01:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-09 15:01:31 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603375/hamas-returns-idf-soldier-hadar-goldin-killed-2014" target="_blank">Israel receives remains of hostage that Hamas says is IDF soldier killed in 2014</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-09 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2025/11/9/kenyas-ruto-on-protests-power-and-the-state-of-democracy?traffic_source=rss" target="_blank">Kenya’s Ruto on protests, power, and the state of democracy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-09 14:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Nearly a million evacuated as &#x27;super typhoon&#x27; makes landfall in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2025-11-09 12:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05bf/live/079e04d0-bd5d-11f0-b6f2-67420d045529.jpg" alt="King leads two-minute silence at Remembrance Sunday service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr43p09kk1po?at_medium=RSS&at_campaign=rss" target="_blank">King leads two-minute silence at Remembrance Sunday service</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-09 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Flights-DB-251109_1762685204532_hpMain_4x3t_384.jpg" alt="More than 1,100 flights canceled Sunday amid nationwide air travel disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/1100-flights-canceled-sunday-amid-nationwide-air-travel/story?id=127349865" target="_blank">More than 1,100 flights canceled Sunday amid nationwide air travel disruption</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-09 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/811614/best-christmas-ornaments-2025" target="_blank">Deck out your tree with ornaments of retro consoles, movie moments, and more</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690eb355b8a8d7f1f81e6d11/master/pass/Adobe%20Firefly-%20What%20It%20Is%20and%20How%20to%20Use%20It.png" alt="What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-is-adobe-firefly/" target="_blank">What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,20 @@
                 <span class="time">2025-11-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/New-Glenn-1-500x500.jpg" alt="Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/" target="_blank">Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-08 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/" target="_blank">Is Wall Street losing faith in AI?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-08 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7inhbfw3dxkvukk9qa3.jpg" alt="User Scanner : Find Your Unique &amp; Perfect Username Across All Popular Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kaifcodec/user-scanner-find-your-unique-perfect-username-across-all-popular-platforms-2pp8" target="_blank">User Scanner : Find Your Unique &amp; Perfect Username Across All Popular Platforms</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +219,20 @@
                 <span class="time">2025-11-09 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4r8kpe4knbutchktm2o7.png" alt="⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h" target="_blank">⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 06:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/hp-8-laptop-1280x853.jpg" alt="Skip the MacBook, HP 15-Inch Windows 11 Laptop Dropped 77% and It’s a No-Brainer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/skip-the-macbook-hp-15-inch-windows-11-laptop-dropped-77-and-its-a-no-brainer-2000642291" target="_blank">Skip the MacBook, HP 15-Inch Windows 11 Laptop Dropped 77% and It’s a No-Brainer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-09 12:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/SteelSeries-Arctis-Nova-Elite-08-1280x853.jpg" alt="SteelSeries Arctis Nova Elite Review: Redefining the ‘Premium’ Gaming Headset" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +278,6 @@
                 <span class="time">2025-11-08 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/predator-trilogy-hed-1280x853.jpg" alt="What Is Dan Trachtenberg’s ‘Predator’ Trilogy About?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/what-is-dan-trachtenbergs-predator-trilogy-about-2000683154" target="_blank">What Is Dan Trachtenberg’s ‘Predator’ Trilogy About?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-08 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
