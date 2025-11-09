@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 16:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 17:01:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/snap-4-epa-gmh-251107._1762523989409_hpMain_4x3t_384.jpg" alt="Government shutdown updates: USDA tells states to &#x27;undo&#x27; issuing any SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: USDA tells states to &#x27;undo&#x27; issuing any SNAP benefits</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-09 16:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Super typhoon makes landfall in Philippines as nearly a million evacuated" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +99,6 @@
                 <span class="time">2025-11-09 12:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/09/g-s1-96333/vaccination-cervical-cancer-hpv-pakistan" target="_blank">A first-time HPV vaccination campaign sees some success -- and strong resistance</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-09 12:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,6 +111,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/" target="_blank">Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-09 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history" target="_blank">The tale of the Fire Phone, Amazon’s very strange smartphone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-09 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -143,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-kindle/" target="_blank">The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-09 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/815744/music-recommendation-algorithms" target="_blank">The algorithm failed music</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-09 13:00</span>
             </div>
         </div>
 </div>
@@ -219,6 +223,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_S5-3-1280x853.jpg" alt="Netflix’s ‘Stranger Things’ and ‘Squid Game’ Experiences Hit Dallas Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflixs-stranger-things-and-squid-game-experiences-hit-dallas-next-month-2000683426" target="_blank">Netflix’s ‘Stranger Things’ and ‘Squid Game’ Experiences Hit Dallas Next Month</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-09 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/hp-8-laptop-1280x853.jpg" alt="Skip the MacBook, HP 15-Inch Windows 11 Laptop Dropped 77% and It’s a No-Brainer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -263,27 +276,18 @@
                 <span class="time">2025-11-08 23:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/dynamic-duo-nightwing-redhood-1-1280x853.jpg" alt="The ‘Dynamic Duo’ Movie Is Having a Casting Call Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-dynamic-duo-movie-is-having-a-casting-call-next-week-2000683299" target="_blank">The ‘Dynamic Duo’ Movie Is Having a Casting Call Next Week</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-08 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762478243-20251108.png" alt="Saturday Morning Breakfast Cereal - Fish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1762479449-20251109.png" alt="Saturday Morning Breakfast Cereal - What" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/fish-3" target="_blank">Saturday Morning Breakfast Cereal - Fish</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/what" target="_blank">Saturday Morning Breakfast Cereal - What</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-08 16:20</span>
+                <span class="time">2025-11-09 16:20</span>
             </div>
         </div>
 </div>
@@ -291,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
