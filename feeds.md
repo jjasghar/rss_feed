@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 11:01:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-09 12:02:10 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05bf/live/079e04d0-bd5d-11f0-b6f2-67420d045529.jpg" alt="King leads two-minute silence at Remembrance Sunday service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr43p09kk1po?at_medium=RSS&at_campaign=rss" target="_blank">King leads two-minute silence at Remembrance Sunday service</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-09 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Flights-DB-251109_1762685204532_hpMain_4x3t_384.jpg" alt="More than 1,100 flights canceled Sunday amid nationwide air travel disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/1100-flights-canceled-sunday-amid-nationwide-air-travel/story?id=127349865" target="_blank">More than 1,100 flights canceled Sunday amid nationwide air travel disruption</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-09 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5600733/many-would-be-buyers-are-frozen-out-of-the-housing-market" target="_blank">Many would-be buyers are frozen out of the housing market</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-09 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Nearly a million evacuated as Philippines braces for &#x27;super typhoon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +96,20 @@
                 <span class="time">2025-11-09 06:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/9/live-israeli-killings-continue-in-gaza-west-bank-hamas-retrieves-body?traffic_source=rss" target="_blank">LIVE: Israeli killings continue in Gaza, West Bank; Hamas retrieves body</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-09 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f8/live/b0a95330-bd22-11f0-9c30-6582f0afbab1.jpg" alt="Syria&#x27;s Sharaa arrives in US for Trump talks after sanctions lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0rpxkwdkrpo?at_medium=RSS&at_campaign=rss" target="_blank">Syria&#x27;s Sharaa arrives in US for Trump talks after sanctions lifted</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-09 04:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/GovernmentShutdownAirlines_1762659004124_hpMain_4x3t_384.jpg" alt="Over 1,500 flights canceled, delays mount nationwide on Saturday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/700-flights-nationwide-canceled-saturday/story?id=127329068" target="_blank">Over 1,500 flights canceled, delays mount nationwide on Saturday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-09 03:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69101cf42807788d808a6daf/master/pass/The%20Best%20Merino%20Wool%20Clothing%20Keeps%20You%20Comfy%20in%20Any%20Weather.png" alt="Best Merino Wool Clothing (2025): Base Layers, Hoodies, Jackets &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-merino-wool-clothes/" target="_blank">Best Merino Wool Clothing (2025): Base Layers, Hoodies, Jackets &amp; More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/New-Glenn-1-500x500.jpg" alt="Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/21309820/best-wireless-earbuds" target="_blank">The best earbuds we’ve tested for 2025</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie" target="_blank">Sims streamers are distancing themselves from EA, but for some the choice is hard</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-08 15:00</span>
             </div>
         </div>
 </div>
@@ -225,6 +220,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/SteelSeries-Arctis-Nova-Elite-08-1280x853.jpg" alt="SteelSeries Arctis Nova Elite Review: Redefining the ‘Premium’ Gaming Headset" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/steelseries-arctis-nova-elite-review-redefining-premium-gaming-headset-2000682641" target="_blank">SteelSeries Arctis Nova Elite Review: Redefining the ‘Premium’ Gaming Headset</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-09 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/GettyImages-2177657481-1280x854.jpg" alt="This AI Aced Hurricane Season in 2025. Here’s What That Means" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -269,15 +273,6 @@
                 <span class="time">2025-11-08 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Kill-Bill-Uma-Thurman-1280x853.jpg" alt="Behold, the Bloody Return of ‘Kill Bill’ to Theaters Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/behold-the-bloody-return-of-kill-bill-to-theaters-next-month-2000683359" target="_blank">Behold, the Bloody Return of ‘Kill Bill’ to Theaters Next Month</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-08 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
