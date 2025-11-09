@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 03:21:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-09 04:02:04 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 03:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/GovernmentShutdownAirlines_1762659004124_hpMain_4x3t_384.jpg" alt="Over 1,500 flights canceled, delays mount nationwide on Saturday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/700-flights-nationwide-canceled-saturday/story?id=127329068" target="_blank">Over 1,500 flights canceled, delays mount nationwide on Saturday</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-09 03:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/8/is-israel-inching-towards-another-regional-war?traffic_source=rss" target="_blank">Is Israel inching towards another regional war?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-08 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a3/live/d8e45bf0-bcf1-11f0-9e90-25c8d8cab49f.jpg" alt="UK seeks Danish inspiration to shake up immigration system" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2lknr2d3go?at_medium=RSS&at_campaign=rss" target="_blank">UK seeks Danish inspiration to shake up immigration system</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-08 22:25</span>
             </div>
         </div>
 </div>
@@ -173,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8e6cp6fsy593khg6yk5p.png" alt="Optimizing Adventure Games for Mobile and Cross-Device Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gamh5games/optimizing-adventure-games-for-mobile-and-cross-device-play-48n8" target="_blank">Optimizing Adventure Games for Mobile and Cross-Device Play</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 03:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/privacy-wins-linux/" target="_blank">7 Privacy Wins You Can Get This Weekend (Linux-First)</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-09 03:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,29 +219,20 @@
                 <span class="time">2025-11-08 23:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom" target="_blank">About Taxum, or why I wrote my own NodeJS Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2szbz57sqzf486dvnmle.png" alt="Find Your Optimal PostgreSQL Connection Pool Size with k6 Load Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manashjb/find-your-optimal-postgresql-connection-pool-size-with-k6-load-testing-3j6" target="_blank">Find Your Optimal PostgreSQL Connection Pool Size with k6 Load Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-1000-1280x853.jpg" alt="Amazon Slashes This 1500W Power Station to Peanuts, 7 Outlets Save You During Winter Blackouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-slashes-this-1500w-power-station-to-peanuts-7-outlets-save-you-during-winter-blackouts-2000642286" target="_blank">Amazon Slashes This 1500W Power Station to Peanuts, 7 Outlets Save You During Winter Blackouts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-08 23:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/dynamic-duo-nightwing-redhood-1-1280x853.jpg" alt="The ‘Dynamic Duo’ Movie Is Having a Casting Call Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +278,6 @@
                 <span class="time">2025-11-08 13:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/mammoth-1280x853.jpg" alt="Rediscovered Fossil Redraws the Map of Woolly Mammoth Territory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rediscovered-fossil-redraws-the-map-of-woolly-mammoth-territory-2000682181" target="_blank">Rediscovered Fossil Redraws the Map of Woolly Mammoth Territory</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 03:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
