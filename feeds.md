@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 05:01:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-09 06:02:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/9/live-israeli-killings-continue-in-gaza-west-bank-hamas-retrieves-body?traffic_source=rss" target="_blank">LIVE: Israeli killings continue in Gaza, West Bank; Hamas retrieves body</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-09 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f8/live/b0a95330-bd22-11f0-9c30-6582f0afbab1.jpg" alt="Syria&#x27;s Sharaa arrives in US for Trump talks after sanctions lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +98,6 @@
                 <span class="title"><a href="https://news.sky.com/story/explosives-and-weapons-seized-with-71-arrests-as-syria-launches-clampdown-on-islamic-state-cells-13467061" target="_blank">Explosives and weapons seized - with 71 arrests - as Syria launches clampdown on Islamic State cells</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-11-08 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/Miami_Airport_Thumb_Site-omy7n6.jpg" alt="Travelers in Miami left frustrated as flights cancelled due to government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/travelers-in-miami-left-frustrated-as-flights-cancelled-251619397688" target="_blank">Travelers in Miami left frustrated as flights cancelled due to government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-08 22:31</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D800%26h%3D400%26fit%3Dcrop" alt="Accelerating LLM Inference: How C++, ONNX, and llama.cpp Power Efficient AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dharaneesh_dev/accelerating-llm-inference-how-c-onnx-and-llamacpp-power-efficient-ai-a2j" target="_blank">Accelerating LLM Inference: How C++, ONNX, and llama.cpp Power Efficient AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 05:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
@@ -210,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/david_kershaw_b6916404da6/sql-summing-categories-57pp" target="_blank">SQL: Summing categories</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-09 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SquashFS-Tools-4.7.3" target="_blank">SquashFS Tools 4.7.3 Brings Optimizations For As Much As &quot;1500 Times&quot; Speed Improvement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-09 01:51</span>
             </div>
         </div>
 </div>
@@ -299,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
