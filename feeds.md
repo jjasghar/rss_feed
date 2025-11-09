@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 01:29:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-09 02:30:54 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/9/us-senators-look-for-way-out-of-shutdown-at-rare-weekend-session?traffic_source=rss" target="_blank">US senators look for way out of shutdown at rare weekend session</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-09 01:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-syrian-ministry_7076567.jpg?20251108232821" alt="Explosives and weapons seized - with 71 arrests - as Syria launches clampdown on Islamic State cells" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/explosives-and-weapons-seized-with-71-arrests-as-syria-launches-clampdown-on-islamic-state-cells-13467061" target="_blank">Explosives and weapons seized - with 71 arrests - as Syria launches clampdown on Islamic State cells</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-08 23:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/Miami_Airport_Thumb_Site-omy7n6.jpg" alt="Travelers in Miami left frustrated as flights cancelled due to government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,39 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a3/live/d8e45bf0-bcf1-11f0-9e90-25c8d8cab49f.jpg" alt="UK seeks Danish inspiration to shake up immigration system" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2lknr2d3go?at_medium=RSS&at_campaign=rss" target="_blank">UK seeks Danish inspiration to shake up immigration system</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-08 22:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling" target="_blank">Judge says Education Dept. partisan out-of-office emails violated First Amendment</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-08 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/8/tanzania-arrests-senior-opposition-figure-charges-over-200-with-treason?traffic_source=rss" target="_blank">Tanzania arrests senior opposition figure as hundreds face treason charges</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-08 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5602884/drug-smuggling-boats" target="_blank">Trump says boat crews are narco-terrorists. The truth is more nuanced, AP finds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-08 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5602823/tampa-speeding-car-chase-deaths-bar-ybor-city" target="_blank">4 dead, 11 injured after a car chased by police plows into a crowd outside Tampa bar</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-08 16:52</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SquashFS-Tools-4.7.3" target="_blank">SquashFS Tools 4.7.3 Brings Optimizations For As Much As &quot;1500 Times&quot; Speed Improvement</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-09 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-9hl" target="_blank">CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/minindu_pasan_8f0e03c1063/how-to-setup-raspberry-pi-camera-module-3-on-ubuntu-2404-4pme" target="_blank">How to Setup Raspberry Pi Camera Module 3 on Ubuntu 24.04</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-08 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42xdg94vnkkhf11pkq2a.png" alt="How to install n8n locally on Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a" target="_blank">How to install n8n locally on Windows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 19:50</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
