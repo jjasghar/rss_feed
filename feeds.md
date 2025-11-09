@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 21:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 22:01:25 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Philippines hit by &#x27;intense&#x27; typhoon as nearly a million evacuate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Philippines hit by &#x27;intense&#x27; typhoon as nearly a million evacuate</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-09 20:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251109-EBT-aa-114-dc1eef.jpg" alt="USDA says states must &#x27;undo&#x27; efforts to disburse full November SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603609/bbc-director-resigns-after-criticism-of-the-broadcasters-editing-of-a-trump-speech" target="_blank">BBC director resigns after criticism of the broadcaster&#x27;s editing of a Trump speech</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-09 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603417/full-snap-benefits-trump-states-order" target="_blank">Trump admin tells states to &#x27;immediately undo&#x27; steps to fund November SNAP benefits</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-09 17:27</span>
             </div>
         </div>
 </div>
@@ -163,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/trev_the_dev/shifting-gears-what-tdd-taught-me-about-using-ai-assistants-kcc" target="_blank">Shifting Gears: What TDD Taught Me About Using AI Assistants</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jaksonxavier/principios-fundamentais-do-desenvolvimento-de-software-6ea" target="_blank">Princípios fundamentais do desenvolvimento de software</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-09 20:58</span>
@@ -204,15 +217,6 @@
                 <span class="time">2025-11-09 14:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dinindu_suriyamudali_e604/how-we-solve-problems-and-how-agents-should-too-ce2" target="_blank">How We Solve Problems (And How Agents Should Too)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/capamerica-coverhed-1280x853.jpg" alt="Marvel’s Preparing the Avengers for Armageddon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marvels-preparing-the-avengers-for-armageddon-2000683413" target="_blank">Marvel’s Preparing the Avengers for Armageddon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-09 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/warhammer-40k-titus-1280x853.jpg" alt="‘Space Marine’ Hero Titus Leads New ‘Warhammer 40K’ Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2025-11-09 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/GettyImages-2177657481-1280x854.jpg" alt="This AI Aced Hurricane Season in 2025. Here’s What That Means" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-ai-aced-hurricane-season-in-2025-heres-what-that-means-2000682445" target="_blank">This AI Aced Hurricane Season in 2025. Here’s What That Means</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-09 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,7 +310,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 21:01 UTC
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
