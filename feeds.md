@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 02:30:54 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-09 03:21:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +61,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/9/us-senators-look-for-way-out-of-shutdown-at-rare-weekend-session?traffic_source=rss" target="_blank">US senators look for way out of shutdown at rare weekend session</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-09 01:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762645878510_wnn_ghislaine_maxwell_emails_251108_1920x1080-qnksx8.jpg" alt="Ghislaine Maxwell&#x27;s prison emails show she is &#x27;happier&#x27; at minimum-security Texas facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/ghislaine-maxwell-s-prison-emails-show-she-is-happier-at-minimum-security-texas-facility-251621445639" target="_blank">Ghislaine Maxwell&#x27;s prison emails show she is &#x27;happier&#x27; at minimum-security Texas facility</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-08 23:51</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +106,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cm2lknr2d3go?at_medium=RSS&at_campaign=rss" target="_blank">UK seeks Danish inspiration to shake up immigration system</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-08 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling" target="_blank">Judge says Education Dept. partisan out-of-office emails violated First Amendment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-08 18:21</span>
             </div>
         </div>
 </div>
@@ -166,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/david_kershaw_b6916404da6/sql-summing-categories-57pp" target="_blank">SQL: Summing categories</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 03:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/SquashFS-Tools-4.7.3" target="_blank">SquashFS Tools 4.7.3 Brings Optimizations For As Much As &quot;1500 Times&quot; Speed Improvement</a></span>
                 <span class="feed">Phoronix</span>
@@ -206,15 +224,6 @@
                 <span class="title"><a href="https://dev.to/manashjb/find-your-optimal-postgresql-connection-pool-size-with-k6-load-testing-3j6" target="_blank">Find Your Optimal PostgreSQL Connection Pool Size with k6 Load Testing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-08 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/minindu_pasan_8f0e03c1063/how-to-setup-raspberry-pi-camera-module-3-on-ubuntu-2404-4pme" target="_blank">How to Setup Raspberry Pi Camera Module 3 on Ubuntu 24.04</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-08 20:45</span>
             </div>
         </div>
 </div>
@@ -295,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
