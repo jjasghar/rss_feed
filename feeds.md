@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 09:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 10:02:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 09:01 UTC</div>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Nearly a million evacuated as Philippines braces for &#x27;super typhoon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Nearly a million evacuated as Philippines braces for &#x27;super typhoon&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-09 09:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/227a/live/e63b1cd0-bd37-11f0-8cba-1722c1652d97.jpg" alt="King to lead two-minute silence at Remembrance Sunday service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/700-flights-nationwide-canceled-saturday/story?id=127329068" target="_blank">Over 1,500 flights canceled, delays mount nationwide on Saturday</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-09 03:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3665/live/41b39b30-bca9-11f0-9886-b3acf9644cc5.jpg" alt="Storm declared &#x27;super typhoon&#x27; as it hits Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Storm declared &#x27;super typhoon&#x27; as it hits Philippines</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-09 03:18</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vjnvisakh/python-web-frameworks-crafting-the-future-of-web-development-1bi5" target="_blank">Python Web Frameworks: Crafting the Future of Web Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4r8kpe4knbutchktm2o7.png" alt="⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,20 +217,20 @@
                 <span class="time">2025-11-09 03:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/privacy-wins-linux/" target="_blank">7 Privacy Wins You Can Get This Weekend (Linux-First)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-09 03:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/gavel-1280x853.jpg" alt="Lawyers Are Using AI to Slop-ify Their Legal Briefs, and It’s Getting Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lawyers-are-using-ai-to-slop-ify-their-legal-briefs-and-its-getting-bad-2000683290" target="_blank">Lawyers Are Using AI to Slop-ify Their Legal Briefs, and It’s Getting Bad</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-09 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-1000-1280x853.jpg" alt="Amazon Slashes This 1500W Power Station to Peanuts, 7 Outlets Save You During Winter Blackouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +276,6 @@
                 <span class="time">2025-11-08 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple-1280x853.jpg" alt="Apple Silently Began Black Friday Sales, MacBook Air Now Sells Below Mid-Tier Windows Laptops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-silently-began-black-friday-sales-macbook-air-now-sells-below-mid-tier-windows-laptops-2000642273" target="_blank">Apple Silently Began Black Friday Sales, MacBook Air Now Sells Below Mid-Tier Windows Laptops</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-08 13:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
