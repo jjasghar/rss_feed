@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 19:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-11-09 20:01:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f525/live/04192c90-bd99-11f0-b429-db99eb1e9512.jpg" alt="BBC director general and News CEO resign over Trump documentary edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3vn25d5dq7o?at_medium=RSS&at_campaign=rss" target="_blank">BBC director general and News CEO resign over Trump documentary edit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-09 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603612/paul-tagliabue-nfl-commissioner-dies" target="_blank">Paul Tagliabue, NFL commissioner for 17 years, dies at 84</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-09 19:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-14-gty-gmh-251106_1762458159908_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll issue $2,000 tariff dividend to all except &#x27;high-income people&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +96,20 @@
                 <span class="time">2025-11-09 16:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/9/why-does-the-uk-want-to-copy-denmarks-stringent-immigration-policies?traffic_source=rss" target="_blank">Why does the UK want to copy Denmark’s stringent immigration policies?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-09 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Super typhoon makes landfall in Philippines as nearly a million evacuated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Super typhoon makes landfall in Philippines as nearly a million evacuated</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-09 15:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates" target="_blank">YouTube TV, ESPN, and Disney: the latest on the blackout</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-09 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/811614/best-christmas-ornaments-2025" target="_blank">Deck out your tree with ornaments of retro consoles, movie moments, and more</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-09 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690eb355b8a8d7f1f81e6d11/master/pass/Adobe%20Firefly-%20What%20It%20Is%20and%20How%20to%20Use%20It.png" alt="What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-adobe-firefly/" target="_blank">What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-09 14:00</span>
             </div>
         </div>
 </div>
@@ -232,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/warhammer-40k-titus-1280x853.jpg" alt="‘Space Marine’ Hero Titus Leads New ‘Warhammer 40K’ Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/space-marine-hero-titus-leads-new-warhammer-40k-expansion-2000683473" target="_blank">‘Space Marine’ Hero Titus Leads New ‘Warhammer 40K’ Expansion</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-09 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/AlienEarthFunko-1280x853.jpg" alt="Toy Company Funko Has ‘Going Concerns’ About Its Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,15 +287,6 @@
                 <span class="time">2025-11-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/gavel-1280x853.jpg" alt="Lawyers Are Using AI to Slop-ify Their Legal Briefs, and It’s Getting Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lawyers-are-using-ai-to-slop-ify-their-legal-briefs-and-its-getting-bad-2000683290" target="_blank">Lawyers Are Using AI to Slop-ify Their Legal Briefs, and It’s Getting Bad</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-09 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
