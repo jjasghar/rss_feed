@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 22:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 23:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l" target="_blank">TIA - Programming a Light Controller State Machine</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/trev_the_dev/shifting-gears-what-tdd-taught-me-about-using-ai-assistants-kcc" target="_blank">Shifting Gears: What TDD Taught Me About Using AI Assistants</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-09 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://fidget-spinner.github.io/posts/faster-jit-plan.html" target="_blank">A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-09 21:03</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext" target="_blank">The Linux Kernel Looks To &quot;Bite The Bullet&quot; In Enabling Microsoft C Extensions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-09 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://willmorrison.net/posts/marble-fountain/" target="_blank">Marble Fountain</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-09 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7inhbfw3dxkvukk9qa3.jpg" alt="User Scanner : Find Your Unique &amp; Perfect Username Across All Popular Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kaifcodec/user-scanner-find-your-unique-perfect-username-across-all-popular-platforms-2pp8" target="_blank">User Scanner : Find Your Unique &amp; Perfect Username Across All Popular Platforms</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 14:44</span>
             </div>
         </div>
 </div>
@@ -309,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
