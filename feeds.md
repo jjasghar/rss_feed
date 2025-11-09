@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-08 23:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 00:05:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
 <!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 08, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/Miami_Airport_Thumb_Site-omy7n6.jpg" alt="Travelers in Miami left frustrated as flights cancelled due to government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/travelers-in-miami-left-frustrated-as-flights-cancelled-251619397688" target="_blank">Travelers in Miami left frustrated as flights cancelled due to government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-08 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/08/nx-s1-5602823/tampa-speeding-car-chase-deaths-bar-ybor-city" target="_blank">4 dead, 11 injured after a car chased by police plows into a crowd outside Tampa bar</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-08 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7032/live/2fe80cb0-bcb3-11f0-8d79-97f33dcb026b.jpg" alt="Six dead as Russia hits energy and residential sites in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3xdg7xrv9o?at_medium=RSS&at_campaign=rss" target="_blank">Six dead as Russia hits energy and residential sites in Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-08 16:22</span>
             </div>
         </div>
 </div>
@@ -170,6 +171,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-9hl" target="_blank">CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ironclad-os.org/" target="_blank">Ironclad – formally verified, real-time capable, Unix-like OS kernel</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-08 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom" target="_blank">About Taxum, or why I wrote my own NodeJS Framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-08 22:47</span>
@@ -200,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a" target="_blank">How to install n8n locally on Windows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-08 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/embedding-atlas/en/headerimage/generatedHeaderImage-1762630476697.jpg" alt="Embedding Atlas: Apple’s Open-Source Tool for Exploring Large-Scale Embeddings Locally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/embedding-atlas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Embedding Atlas: Apple’s Open-Source Tool for Exploring Large-Scale Embeddings Locally</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-08 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc5-POWER-Regression" target="_blank">Linux 6.18-rc5 To Cut Down Performance Regression Observed On IBM POWER CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-08 19:47</span>
             </div>
         </div>
 </div>
@@ -298,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
