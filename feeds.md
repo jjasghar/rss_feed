@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 13:06:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 14:01:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Nearly a million evacuated as &#x27;super typhoon&#x27; makes landfall in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Nearly a million evacuated as &#x27;super typhoon&#x27; makes landfall in Philippines</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-09 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/9/aje-onl-qt_jorge_restrepo-091125?traffic_source=rss" target="_blank">Colombia seeks joint “actions” on drug trade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-09 12:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +101,29 @@
                 <span class="time">2025-11-09 11:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5600733/many-would-be-buyers-are-frozen-out-of-the-housing-market" target="_blank">Many would-be buyers are frozen out of the housing market</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-09 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Nearly a million evacuated as Philippines braces for &#x27;super typhoon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Nearly a million evacuated as Philippines braces for &#x27;super typhoon&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-09 09:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic" target="_blank">65daysofstatic’s new No Man’s Sky album searches for humanity in an AI-filled world</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-09 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68dec8e68df24b62cbfdf4b2/master/pass/The%20Best%20Kindles%20to%20Take%20Your%20Library%20Anywhere.png" alt="The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-kindle/" target="_blank">The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-09 13:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +160,38 @@
                 <span class="time">2025-11-08 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/" target="_blank">‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-08 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/" target="_blank">OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-08 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dinindu_suriyamudali_e604/how-we-solve-problems-and-how-agents-should-too-ce2" target="_blank">How We Solve Problems (And How Agents Should Too)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-09 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alivetheory.net/" target="_blank">Alive internet theory</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-09 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Lenovo-IdeaPad-Rapid-Charge" target="_blank">Lenovo IdeaPad Linux Driver Adding Support For Rapid Charge Mode</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-09 11:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h" target="_blank">⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-09 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D800%26h%3D400%26fit%3Dcrop" alt="Accelerating LLM Inference: How C++, ONNX, and llama.cpp Power Efficient AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dharaneesh_dev/accelerating-llm-inference-how-c-onnx-and-llamacpp-power-efficient-ai-a2j" target="_blank">Accelerating LLM Inference: How C++, ONNX, and llama.cpp Power Efficient AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 05:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/" target="_blank">Building a CI/CD Pipeline Runner from Scratch in Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-09 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://docs.x.ai/docs/models" target="_blank">Grok 4 Fast now has 2M context window</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-09 04:10</span>
             </div>
         </div>
 </div>
@@ -302,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
