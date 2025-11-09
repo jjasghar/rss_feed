@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 00:05:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-09 01:29:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, November 09, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/New-Glenn-1-500x500.jpg" alt="Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/" target="_blank">Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-08 21:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -151,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie" target="_blank">Sims streamers are distancing themselves from EA, but for some the choice is hard</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690e3becdf3f2e249e6c4f14/master/pass/sci-crispr-heart-1474771239.jpg" alt="A Gene Editing Therapy Cut Cholesterol Levels by Half" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-gene-editing-therapy-cut-cholesterol-levels-by-half/" target="_blank">A Gene Editing Therapy Cut Cholesterol Levels by Half</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-08 14:56</span>
             </div>
         </div>
 </div>
@@ -299,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
