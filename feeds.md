@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 05:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 06:02:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/10/lenny-wilkens-legendary-nba-player-and-coach-dies-at-88?traffic_source=rss" target="_blank">Lenny Wilkens, legendary NBA player and coach, dies at 88</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 05:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/capitol-1-rt-gmh-251107_1762551812871_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate vote marks step towards ending federal shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=127124906" target="_blank">Government shutdown updates: Senate vote marks step towards ending federal shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-10 04:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +96,20 @@
                 <span class="time">2025-11-10 01:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-us-capitol-gk-301abd.jpg" alt="Senators advance tentative deal to end the government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senators-reach-tentative-deal-end-government-shutdown-rcna242401" target="_blank">Senators advance tentative deal to end the government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-10 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-us-capitol-gk-301abd.jpg" alt="Senators reach tentative deal to end the government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senators-reach-tentative-deal-end-government-shutdown-rcna242401" target="_blank">Senators reach tentative deal to end the government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-10 01:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6911605c991c2d6b78ea759a/master/pass/Apple-Removes-Gay-Dating-Apps-From-App-Store-in-China-Business-2243468030.jpg" alt="Apple Pulls China’s Top Gay Dating Apps After Government Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-removes-gay-dating-apps-china-app-store/" target="_blank">Apple Pulls China’s Top Gay Dating Apps After Government Order</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-10 05:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +155,20 @@
                 <span class="time">2025-11-09 17:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-500x500.jpg" alt="Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/" target="_blank">Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-09 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy9oaezrixu6dh2ol14cq.png" alt="How Devscribe Simplified My Data Structure and Algorithm Practice — Devscribe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devscribe_app/how-devscribe-simplified-my-data-structure-and-algorithm-practice-devscribe-52kl" target="_blank">How Devscribe Simplified My Data Structure and Algorithm Practice — Devscribe</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 05:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyx9yh2j8bmxbbqkq9tti.png" alt="Witch POTIONS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.4" target="_blank">Rust Coreutils 0.4 Released With Better GNU Compatibility &amp; Faster Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-10 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f" target="_blank">PiHMP Stack (v2) - The Phoenix Protocol Build Log</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 00:40</span>
             </div>
         </div>
 </div>
@@ -312,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
