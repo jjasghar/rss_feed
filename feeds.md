@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 19:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 20:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/shutdown-1-gty-er-251104_1762292775601_hpMain_4x3t_384.jpg" alt="Government shutdown timeline: How senators went from 40-day impasse to sudden deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/government-shutdown-timeline-senators-40-day-impasse-sudden/story?id=127377839" target="_blank">Government shutdown timeline: How senators went from 40-day impasse to sudden deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-10 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd0e/live/555f73c0-be52-11f0-8669-5560f5c90fbe.jpg" alt="At least eight killed after car explodes near Delhi&#x27;s Red Fort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq0p8qnnrno?at_medium=RSS&at_campaign=rss" target="_blank">At least eight killed after car explodes near Delhi&#x27;s Red Fort</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-10 17:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,37 +81,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/10/nx-s1-5604211/death-by-lightning-review-garfield-assassination" target="_blank">&#x27;Death by Lightning&#x27; unfolds like an 1880s &#x27;West Wing&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-10 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/us-claims-it-strikes-two-boats-carrying-narcotics-in-pacific-killing-six?traffic_source=rss" target="_blank">US claims it hit two boats ‘carrying narcotics’ in Pacific, killing six</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-10 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/10/nx-s1-5604293/scotus-rejects-gay-marriage-appeal" target="_blank">Supreme Court declines to revisit gay marriage decision</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-10 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-main_1762771419731_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Johnson tells House members to return to Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: Johnson tells House members to return to Washington</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-10 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row" target="_blank">Protesters target major new Nigerian museum embroiled in looted artefacts row</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-10 15:19</span>
             </div>
         </div>
 </div>
@@ -104,6 +101,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/817831/gemini-for-tv-google-tv-streamer-roll-out" target="_blank">Gemini for TV is coming to Google TV Streamer starting today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-10 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/" target="_blank">Google brings Gemini to the Google TV Streamer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-10 19:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69122d7e6c1ed15cbf146c8b/master/pass/This%20Bluetooth%20Speaker%20Is%20Also%20a%20Charging%20Hub,%20and%20It%E2%80%99s%20Discounted%20by%20$70.png" alt="This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +155,20 @@
                 <span class="time">2025-11-10 17:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-1-500x500-1762795228.png" alt="Runaway black hole mergers may have built supermassive black holes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/runaway-black-hole-mergers-may-have-built-supermassive-black-holes/" target="_blank">Runaway black hole mergers may have built supermassive black holes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-10 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/" target="_blank">Consolidation begins to hit the carbon credit market</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-10 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lealonwolfe/how-websites-use-data-structures-in-the-real-world-5bdm" target="_blank">How Websites Use Data Structures in the Real World</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 19:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735861&w=600" alt="How Tool-Call Observability Enables You to Support Reliable and Secure AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,18 +209,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/" target="_blank">Asus Ascent GX10</a></span>
+                <span class="title"><a href="https://bengoldhaber.substack.com/p/unexpected-things-that-are-people" target="_blank">Unexpected things that are people</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-11-10 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735785&w=600" alt="Regression Analysis for Time Series Data: Models and Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/regression-analysis-time-series-models" target="_blank">Regression Analysis for Time Series Data: Models and Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-10 15:00</span>
+                <span class="time">2025-11-10 16:05</span>
             </div>
         </div>
 </div>
@@ -296,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/10/the-stella-montis-summit" target="_blank">The Stella Montis Summit</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-10 19:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1762410047-sawyerlaunchcomic.png" alt="Saturday Morning Breakfast Cereal - Sawyer Lee and the Quest to Just Stay Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -318,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
