@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 08:02:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-10 09:02:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97144/typhoon-fung-wong-philippines" target="_blank">Typhoon Fung-wong leaves 4 dead and 1.4 million displaced in the Philippines</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-10 08:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/10/stock-markets-surge-after-us-lawmakers-move-to-end-government-shutdown?traffic_source=rss" target="_blank">Stock markets surge after US lawmakers move to end government shutdown</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 08:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7343/live/64dcf730-bdd2-11f0-8669-5560f5c90fbe.jpg" alt="US Senate passes deal aimed at ending government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/10/lando-norris-wins-brazil-gp-to-extend-f1-championship-lead-over-piastri?traffic_source=rss" target="_blank">Norris wins Brazil GP to extend F1 championship lead over Piastri</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-10 04:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762748637879_nbc_spec_full_senate_government_shutdown_251109_1920x1080-4bdrx6.jpg" alt="Special Report: Senate advances tentative deal to end government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/senate-advances-tentative-deal-to-end-government-shutdown-251654725633" target="_blank">Special Report: Senate advances tentative deal to end government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-10 04:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603659/government-shutdown-senate-agreement" target="_blank">Senators take first step toward reopening the government after historic shutdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-10 03:57</span>
             </div>
         </div>
 </div>
@@ -169,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1280%2F0%2AAAVDQnh1xVgr-0jD" alt="Your static documentation checker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yarax/your-static-documentation-checker-3dio" target="_blank">Your static documentation checker</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 08:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44o0" target="_blank">CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-10 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://xslt.rip/" target="_blank">XSLT RIP</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-10 07:39</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-GCN-1.1-Driver-Default-Prop" target="_blank">Patches Proposed For Radeon GCN 1.1 GPUs To Use AMDGPU Linux Driver By Default</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-10 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyx9yh2j8bmxbbqkq9tti.png" alt="Witch POTIONS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/neleh03/witch-potions-6n3" target="_blank">Witch POTIONS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 04:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/jdk-news-roundup-nov03-2025/en/headerimage/java-istock-image-01-1762720446658.jpg" alt="OpenJDK News Roundup: Vector API, Ahead-of-Time Object Caching, Prepare to Make Final Mean Final" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/jdk-news-roundup-nov03-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenJDK News Roundup: Vector API, Ahead-of-Time Object Caching, Prepare to Make Final Mean Final</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-10 02:30</span>
             </div>
         </div>
 </div>
@@ -301,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/10/the-stella-montis-summit" target="_blank">The Stella Montis Summit</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-10 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1762479449-20251109.png" alt="Saturday Morning Breakfast Cereal - What" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -314,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
