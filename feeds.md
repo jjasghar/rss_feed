@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 15:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 16:01:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +37,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/10/nx-s1-5604293/scotus-rejects-gay-marriage-appeal" target="_blank">Supreme Court declines to revisit gay marriage decision</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-10 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capitol-main_1762771419731_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Johnson tells House members to return to Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: Johnson tells House members to return to Washington</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-10 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row" target="_blank">Protesters target major new Nigerian museum embroiled in looted artefacts row</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-10 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +91,20 @@
                 <span class="time">2025-11-10 12:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row" target="_blank">Protesters disrupt event at Nigerian museum embroiled in looted artefacts row</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-10 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762776924775_tdy_news_7a_nobles_shutdown_deal_near_251110_1920x1080-kz0mi8.jpg" alt="Senate Reaches Tentative Deal to End Government Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/senate-advances-deal-to-end-longest-shutdown-in-history-251668549570" target="_blank">Senate Reaches Tentative Deal to End Government Shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-10 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4bd/live/263632d0-be2c-11f0-ae46-bd64331f0fd4.jpg" alt="US Senate to debate deal to end longest shutdown after overnight breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss" target="_blank">US Senate to debate deal to end longest shutdown after overnight breakthrough</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-10 12:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69028b736d14ebc3afce7267/master/pass/Pol_EPA_Getty.jpg" alt="The EPA Is in Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/" target="_blank">The EPA Is in Chaos</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-10 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +150,20 @@
                 <span class="time">2025-11-10 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed" target="_blank">Blue Origin scrubs second New Glenn launch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-10 12:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735785&w=600" alt="Regression Analysis for Time Series Data: Models and Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/regression-analysis-time-series-models" target="_blank">Regression Analysis for Time Series Data: Models and Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/mehakb7/building-nodejs-cli-tool-l4k" target="_blank">Building Node.js CLI Tool.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-10 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-145-Released" target="_blank">Firefox 145 Binaries Available - Aside From 32-bit Linux Being Removed</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-10 13:49</span>
             </div>
         </div>
 </div>
@@ -327,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
