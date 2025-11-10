@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 00:05:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 01:29:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-us-capitol-gk-301abd.jpg" alt="Senators reach tentative deal to end the government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senators-reach-tentative-deal-end-government-shutdown-rcna242401" target="_blank">Senators reach tentative deal to end the government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-10 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-thune-8-ap-gmh-251107_1762551815491_hpMain_4x3t_384.jpg" alt="Enough Democrats expected to vote to break shutdown impasse: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/democrats-expected-vote-republicans-end-shutdown-sources/story?id=127361326" target="_blank">Enough Democrats expected to vote to break shutdown impasse: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-10 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/russia-ukraine-war-list-of-key-events-day-1355?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,355</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 00:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/john-thune-8-ap-gmh-251107_1762551815491_hpMain_4x3t_384.jpg" alt="Enough Democrats expected to vote with Republicans to end shutdown: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Philippines hit by &#x27;intense&#x27; typhoon as nearly a million evacuate</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-09 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251109-EBT-aa-114-dc1eef.jpg" alt="USDA says states must &#x27;undo&#x27; efforts to disburse full November SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/usda-states-undo-disburse-full-november-snap-benefits-shutdown-rcna242853" target="_blank">USDA says states must &#x27;undo&#x27; efforts to disburse full November SNAP benefits</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-09 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f525/live/04192c90-bd99-11f0-b429-db99eb1e9512.jpg" alt="BBC director general and News CEO resign over Trump documentary edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3vn25d5dq7o?at_medium=RSS&at_campaign=rss" target="_blank">BBC director general and News CEO resign over Trump documentary edit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-09 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603612/paul-tagliabue-nfl-commissioner-dies" target="_blank">Paul Tagliabue, NFL commissioner for 17 years, dies at 84</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-09 19:17</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.4" target="_blank">Rust Coreutils 0.4 Released With Better GNU Compatibility &amp; Faster Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-10 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f" target="_blank">PiHMP Stack (v2) - The Phoenix Protocol Build Log</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Screenshot-From-2025-11-05-18-10-29-e1762735013243.png?resize=406%2C232&amp;ssl=1" alt="Phases of Moon Brings Lunar Tracking to GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/phases-of-moon-gnome-shell-extension" target="_blank">Phases of Moon Brings Lunar Tracking to GNOME Shell</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-09 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l" target="_blank">TIA - Programming a Light Controller State Machine</a></span>
                 <span class="feed">DEV Community</span>
@@ -190,33 +221,6 @@
                 <span class="time">2025-11-09 21:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaksonxavier/principios-fundamentais-do-desenvolvimento-de-software-6ea" target="_blank">Princípios fundamentais do desenvolvimento de software</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-h77" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext" target="_blank">The Linux Kernel Looks To &quot;Bite The Bullet&quot; In Enabling Microsoft C Extensions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-09 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Monte-Sierpe-1280x853.jpg" alt="There Are Thousands of Aligned Holes in Peru. Researchers Think They Finally Know Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/there-are-thousands-of-aligned-holes-in-peru-researchers-think-they-finally-know-why-2000680970" target="_blank">There Are Thousands of Aligned Holes in Peru. Researchers Think They Finally Know Why</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-10 00:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/capamerica-coverhed-1280x853.jpg" alt="Marvel’s Preparing the Avengers for Armageddon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +294,6 @@
                 <span class="time">2025-11-09 12:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/SteelSeries-Arctis-Nova-Elite-08-1280x853.jpg" alt="SteelSeries Arctis Nova Elite Review: Redefining the ‘Premium’ Gaming Headset" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/steelseries-arctis-nova-elite-review-redefining-premium-gaming-headset-2000682641" target="_blank">SteelSeries Arctis Nova Elite Review: Redefining the ‘Premium’ Gaming Headset</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-09 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
