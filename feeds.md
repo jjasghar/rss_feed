@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-09 23:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2025-11-10 00:05:11 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, November 09, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-thune-8-ap-gmh-251107_1762551815491_hpMain_4x3t_384.jpg" alt="Enough Democrats expected to vote with Republicans to end shutdown: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/democrats-expected-vote-republicans-end-shutdown-sources/story?id=127361326" target="_blank">Enough Democrats expected to vote with Republicans to end shutdown: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-09 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603653/baseball-cleveland-guardians-pitchers-bribes-charged-gambling" target="_blank">MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-09 23:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Philippines hit by &#x27;intense&#x27; typhoon as nearly a million evacuate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +99,29 @@
                 <span class="time">2025-11-09 19:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-14-gty-gmh-251106_1762458159908_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll issue $2,000 tariff dividend to all except &#x27;high-income people&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-hell-issue-2000-tariff-dividend-except-high/story?id=127356839" target="_blank">Trump says he&#x27;ll issue $2,000 tariff dividend to all except &#x27;high-income people&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-09 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603609/bbc-director-resigns-after-criticism-of-the-broadcasters-editing-of-a-trump-speech" target="_blank">BBC director resigns after criticism of the broadcaster&#x27;s editing of a Trump speech</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-09 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets" target="_blank">Cleveland Guardians&amp;#8217; pitchers indicted for rigging online bets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-09 23:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/" target="_blank">Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-09 21:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-backyard-pizza-oven/" target="_blank">Our 8 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-09 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history" target="_blank">The tale of the Fire Phone, Amazon’s very strange smartphone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-09 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/811614/best-christmas-ornaments-2025" target="_blank">Deck out your tree with ornaments of retro consoles, movie moments, and more</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-09 15:00</span>
             </div>
         </div>
 </div>
@@ -305,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
