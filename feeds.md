@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 03:25:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 04:06:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 03:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 04:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/10/airlines-cancel-3200-us-flights-amid-fears-travel-could-slow-to-trickle?traffic_source=rss" target="_blank">Airlines cancel 3,300 US flights amid fears travel could ‘slow to trickle’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 03:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-donald-trump-climate-change_7077743.jpg?20251110014944" alt="&#x27;If we die, we all die together&#x27;: Trump urged to involve US in the fight against climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/cop30-trump-urged-to-involve-us-in-the-fight-against-climate-change-13467809" target="_blank">&#x27;If we die, we all die together&#x27;: Trump urged to involve US in the fight against climate change</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-10 01:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-us-capitol-gk-301abd.jpg" alt="Senators advance tentative deal to end the government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senators-reach-tentative-deal-end-government-shutdown-rcna242401" target="_blank">Senators advance tentative deal to end the government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-10 01:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-us-capitol-gk-301abd.jpg" alt="Senators reach tentative deal to end the government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/russia-ukraine-war-list-of-key-events-day-1355?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,355</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-10 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-thune-8-ap-gmh-251107_1762551815491_hpMain_4x3t_384.jpg" alt="Enough Democrats expected to vote with Republicans to end shutdown: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/democrats-expected-vote-republicans-end-shutdown-sources/story?id=127361326" target="_blank">Enough Democrats expected to vote with Republicans to end shutdown: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-09 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603653/baseball-cleveland-guardians-pitchers-bribes-charged-gambling" target="_blank">MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-09 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg" alt="Philippines hit by &#x27;intense&#x27; typhoon as nearly a million evacuate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss" target="_blank">Philippines hit by &#x27;intense&#x27; typhoon as nearly a million evacuate</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-09 20:44</span>
             </div>
         </div>
 </div>
@@ -306,7 +308,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 03:25 UTC
+        🔄 Last Updated: 04:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
