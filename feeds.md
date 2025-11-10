@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 20:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-10 21:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump takes questions from reporters: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump takes questions from reporters: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-10 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/10/nx-s1-5604664/trump-air-traffic-controllers-forced-time-off-bonus" target="_blank">Trump slams air traffic controllers who called out during the government shutdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-10 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/68481af0-be5c-11f0-ae46-bd64331f0fd4.jpg" alt="Trump threatens BBC with legal action over Panorama speech edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gw001kw97o?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens BBC with legal action over Panorama speech edit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-10 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762801978922_now_daily_a_zanona_shutdown_vote_stands_251110_1920x1080-4gzcr1.jpg" alt="Senate working toward final passage of deal to end government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/senate-working-toward-final-passage-of-deal-to-end-government-shutdown-251703365799" target="_blank">Senate working toward final passage of deal to end government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-10 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/shutdown-1-gty-er-251104_1762292775601_hpMain_4x3t_384.jpg" alt="Government shutdown timeline: How senators went from 40-day impasse to sudden deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,47 +96,20 @@
                 <span class="time">2025-11-10 17:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss" target="_blank">Israeli drone kills two Palestinians trying to reach home in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7adc/live/041d2c80-be4f-11f0-8669-5560f5c90fbe.jpg" alt="Reeves suggests benefit limits on larger families to be lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70j7dxjp5wo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves suggests benefit limits on larger families to be lifted</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-10 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/10/nx-s1-5604211/death-by-lightning-review-garfield-assassination" target="_blank">&#x27;Death by Lightning&#x27; unfolds like an 1880s &#x27;West Wing&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-10 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/us-claims-it-strikes-two-boats-carrying-narcotics-in-pacific-killing-six?traffic_source=rss" target="_blank">US claims it hit two boats ‘carrying narcotics’ in Pacific, killing six</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/817799/walmart-plus-50-percent-off-fall-deal-sale" target="_blank">An annual Walmart Plus membership is half off right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-10 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2025-11-10 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor" target="_blank">Netflix might make its own video podcasts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-10 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F97zckqjze1s5ze20zg85.png" alt="Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/picciniuscodes/searching-algorithms-part-1-binary-search-and-the-art-of-cutting-the-search-space-2n08" target="_blank">Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740087&w=600" alt="Docker Security: 6 Practical Labs From Audit to AI Protection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/docker-security-audit-to-ai-protection" target="_blank">Docker Security: 6 Practical Labs From Audit to AI Protection</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-10 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +214,6 @@
                 <span class="time">2025-11-10 17:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/google-cloud-n4d-amd-epyc-turin" target="_blank">Google Cloud N4D Delivers Great VM Performance &amp; Value Powered By AMD EPYC Turin</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-10 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bengoldhaber.substack.com/p/unexpected-things-that-are-people" target="_blank">Unexpected things that are people</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-10 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/chris-chalk_welcometoderry-1280x853.jpg" alt="The Military’s Plan for Pennywise on ‘It: Welcome to Derry’ Is Completely Unhinged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-militarys-plan-for-pennywise-on-it-welcome-to-derry-is-completely-unhinged-2000683748" target="_blank">The Military’s Plan for Pennywise on ‘It: Welcome to Derry’ Is Completely Unhinged</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-10 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/jwe33-1280x720.jpg" alt="T-Rex No Longer A Shitty Dad After New Jurassic World Evolution 3 Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jurassic-world-evolution-3-1-1-0-patch-notes-t-rex-fix-juveniles-2000642549" target="_blank">T-Rex No Longer A Shitty Dad After New Jurassic World Evolution 3 Update</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-10 20:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/redditech-1280x720.jpg" alt="Company Used Fake Reddit Posts To Advertise Game, Then Deleted The Evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,29 +287,20 @@
                 <span class="time">2025-11-10 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/meta-bouds-1280x853.jpg" alt="Smart Glasses Are Already Getting Ridiculously Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/smart-glasses-are-already-getting-ridiculously-light-2000683643" target="_blank">Smart Glasses Are Already Getting Ridiculously Light</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-10 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8MZ7YPHE6HEWZR9YMMMFG43/hero-image.png" alt="You Can Get a Costco Executive Gold Star Membership Plus a $60 Shop Card on Sale for $130 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/costco-executive-gold-star-membership-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get a Costco Executive Gold Star Membership Plus a $60 Shop Card on Sale for $130 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-10 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5692.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5692" target="_blank">comics</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-10 19:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
