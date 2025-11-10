@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 22:02:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-10 23:01:31 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97223/health-care-callout" target="_blank">Shopping for an Affordable Care Act health plan? NPR wants to hear your experience</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-10 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/10/is-war-one-of-the-biggest-threats-to-the-worlds-climate?traffic_source=rss" target="_blank">Is war one of the biggest threats to the world’s climate?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 22:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +107,29 @@
                 <span class="time">2025-11-10 20:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762801978922_now_daily_a_zanona_shutdown_vote_stands_251110_1920x1080-4gzcr1.jpg" alt="Senate working toward final passage of deal to end government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/senate-working-toward-final-passage-of-deal-to-end-government-shutdown-251703365799" target="_blank">Senate working toward final passage of deal to end government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-10 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/shutdown-1-gty-er-251104_1762292775601_hpMain_4x3t_384.jpg" alt="Government shutdown timeline: How senators went from 40-day impasse to sudden deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/government-shutdown-timeline-senators-40-day-impasse-sudden/story?id=127377839" target="_blank">Government shutdown timeline: How senators went from 40-day impasse to sudden deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-10 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support" target="_blank">Siri Shortcuts now works with Samsung SmartThings routines</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-10 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224876606-500x500.jpg" alt="Canada fought measles and measles won; virus now endemic after 1998 elimination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/11/canada-fought-measles-and-measles-won-virus-now-endemic-after-1998-elimination/" target="_blank">Canada fought measles and measles won; virus now endemic after 1998 elimination</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-10 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +166,20 @@
                 <span class="time">2025-11-10 19:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69122d7e6c1ed15cbf146c8b/master/pass/This%20Bluetooth%20Speaker%20Is%20Also%20a%20Charging%20Hub,%20and%20It%E2%80%99s%20Discounted%20by%20$70.png" alt="This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jbl-charge-6-deal-1125/" target="_blank">This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-10 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Severance_Photo_0201-500x500.jpg" alt="Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2025/11/apple-has-no-plans-to-bring-ads-to-apple-tv/" target="_blank">Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-10 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9k37an3a9drgrfptvggv.png" alt="Create a Text Editor in Go - Moving the Cursor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk" target="_blank">Create a Text Editor in Go - Moving the Cursor</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 22:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F97zckqjze1s5ze20zg85.png" alt="Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,30 +208,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/EasyEffects-8.0" target="_blank">EasyEffects 8.0 Released In Porting From GTK4 To Qt / QML / Kirigami</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-10 19:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735861&w=600" alt="How Tool-Call Observability Enables You to Support Reliable and Secure AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/tool-call-observability-reliable-secure-ai-agents" target="_blank">How Tool-Call Observability Enables You to Support Reliable and Secure AI Agents</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/codeclash-competitive-llm-coding/en/headerimage/codeclash-llm-coding-challenge-1762795749828.jpeg" alt="CodeClash Benchmarks LLMs through Multi-Round Coding Competitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/codeclash-competitive-llm-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CodeClash Benchmarks LLMs through Multi-Round Coding Competitions</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3036295%2F8ccbf487-f9ae-419f-881f-a8ffc714fadf.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gracetyy/-39f9" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 17:54</span>
             </div>
         </div>
 </div>
@@ -234,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/duabbblo-1280x720.jpg" alt="Diablo 4 In China Censored, Blood And Skeletons Removed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/diablo-4-china-censored-blood-skeletons-skulls-censorship-changes-removed-2000642581" target="_blank">Diablo 4 In China Censored, Blood And Skeletons Removed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-10 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5HETP26XN381PC8SX19FNGB/hero-image.png" alt="How to Turn Off the New ‘Gemini in Chrome’ Button" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-turn-off-gemini-button-in-chrome?utm_medium=RSS" target="_blank">How to Turn Off the New ‘Gemini in Chrome’ Button</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-10 22:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/chris-chalk_welcometoderry-1280x853.jpg" alt="The Military’s Plan for Pennywise on ‘It: Welcome to Derry’ Is Completely Unhinged" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/trap-plan-marketing-astroturf-warrobots-fake-reddit-accounts-posts-2000642503" target="_blank">Company Used Fake Reddit Posts To Advertise Game, Then Deleted The Evidence</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-10 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/radioactive-spider-feature.png?fit=1200%2C818&amp;quality=55&amp;ssl=1" alt="A humorous survival guide for the Marvel Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/10/a-humorous-survival-guide-for-the-marvel-universe.html" target="_blank">A humorous survival guide for the Marvel Universe</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-10 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/star-wars-insider-235-kylo-ren-1280x853.jpg" alt="The Official ‘Star Wars’ Magazine Is Coming to an End After Over 30 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-insider-ending-lucasfilm-titan-2000683738" target="_blank">The Official ‘Star Wars’ Magazine Is Coming to an End After Over 30 Years</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-10 18:25</span>
             </div>
         </div>
 </div>
@@ -334,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
