@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 12:02:28 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-11-10 13:10:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97152/up-first-newsletter-government-shutdown-snap-benefits-cop30" target="_blank">Senators reach deal to reopen the government. And, countries gather for climate talks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-10 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row" target="_blank">Protesters disrupt event at Nigerian museum embroiled in looted artefacts row</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-10 12:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251110-16-9-giuliani-jan-6-mb-0937-0b4173.jpg" alt="Trump pardons Rudy Giuliani and others involved in bid to overturn 2020 election" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/elections/trump-pardons-rudy-giuliani-others-involved-bid-overturn-2020-election-rcna242956" target="_blank">Trump pardons Rudy Giuliani and others involved in bid to overturn 2020 election</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-10 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/2244846596_1762659595234_hpMain_4x3t_384.jpg" alt="Which members of the Senate are taking paychecks during the shutdown?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/members-senate-taking-paychecks-shutdown/story?id=127340274" target="_blank">Which members of the Senate are taking paychecks during the shutdown?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-10 11:20</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +101,38 @@
                 <span class="time">2025-11-10 09:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97144/typhoon-fung-wong-philippines" target="_blank">Typhoon Fung-wong leaves 4 dead and 1.4 million displaced in the Philippines</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-10 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/10/stock-markets-surge-after-us-lawmakers-move-to-end-government-shutdown?traffic_source=rss" target="_blank">Stock markets surge after US lawmakers move to end government shutdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 08:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4bd/live/263632d0-be2c-11f0-ae46-bd64331f0fd4.jpg" alt="US Senate passes deal aimed at ending longest ever government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss" target="_blank">US Senate passes deal aimed at ending longest ever government shutdown</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-10 05:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/" target="_blank">6Sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1Mind</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed" target="_blank">Blue Origin scrubs second New Glenn launch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-10 12:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/polaris-dawn-500x500.jpg" alt="NASA is kind of a mess: Here are the top priorities for a new administrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/" target="_blank">NASA is kind of a mess: Here are the top priorities for a new administrator</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68dc602f81809bc453717080/master/pass/Book-Excerpt--Mysterious-Math-Behind--Brazilian-Butt-Lift-Science.jpg" alt="The Mysterious Math Behind the Brazilian Butt Lift" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +160,29 @@
                 <span class="time">2025-11-10 05:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/" target="_blank">Blue Origin scrubs second New Glenn launch, will try again November 12</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-10 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets" target="_blank">Cleveland Guardians&amp;#8217; pitchers indicted for rigging online bets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-09 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/" target="_blank">Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-09 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/generating-color-palettes-for-design-systems-inspired-by-apca" target="_blank">Generating color palettes for design systems … inspired by APCA!</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-11-10 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/odf-1-4-release/" target="_blank">ODF 1.4 Release Marks 20 Years of OpenDocument Format</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-10 12:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +219,6 @@
                 <span class="time">2025-11-10 09:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1280%2F0%2AAAVDQnh1xVgr-0jD" alt="Your static documentation checker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yarax/your-static-documentation-checker-3dio" target="_blank">Your static documentation checker</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 08:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44o0" target="_blank">CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Predator-Badlands-poster-crop-1280x853.jpg" alt="‘Predator: Badlands’ Scores a Franchise-Best Box Office Open" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/predator-badlands-scores-a-franchise-best-box-office-open-2000683556" target="_blank">‘Predator: Badlands’ Scores a Franchise-Best Box Office Open</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/VitaDAO-Illustration-VITA-Token.jpg?fit=1200%2C823&amp;quality=60&amp;ssl=1" alt="Crypto-funded longevity city collapses after promising immortality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/10/crypto-funded-longevity-city-collapses-after-promising-immortality.html" target="_blank">Crypto-funded longevity city collapses after promising immortality</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-10 11:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Monte-Sierpe-1280x853.jpg" alt="There Are Thousands of Aligned Holes in Peru. Researchers Think They Finally Know Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +292,6 @@
                 <span class="time">2025-11-09 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/StrangerThings_S5-3-1280x853.jpg" alt="Netflix’s ‘Stranger Things’ and ‘Squid Game’ Experiences Hit Dallas Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/netflixs-stranger-things-and-squid-game-experiences-hit-dallas-next-month-2000683426" target="_blank">Netflix’s ‘Stranger Things’ and ‘Squid Game’ Experiences Hit Dallas Next Month</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-09 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/hp-8-laptop-1280x853.jpg" alt="Skip the MacBook, HP 15-Inch Windows 11 Laptop Dropped 77% and It’s a No-Brainer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/skip-the-macbook-hp-15-inch-windows-11-laptop-dropped-77-and-its-a-no-brainer-2000642291" target="_blank">Skip the MacBook, HP 15-Inch Windows 11 Laptop Dropped 77% and It’s a No-Brainer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-09 12:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
