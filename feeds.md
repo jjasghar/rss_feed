@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 11:01:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-10 12:02:28 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 11:01 UTC</div>
+    <div class="newspaper-date">Monday, November 10, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251110-16-9-giuliani-jan-6-mb-0937-0b4173.jpg" alt="Trump pardons Rudy Giuliani and others involved in bid to overturn 2020 election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/trump-pardons-rudy-giuliani-others-involved-bid-overturn-2020-election-rcna242956" target="_blank">Trump pardons Rudy Giuliani and others involved in bid to overturn 2020 election</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-10 11:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7343/live/64dcf730-bdd2-11f0-8669-5560f5c90fbe.jpg" alt="US Senate passes deal aimed at ending government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4bd/live/263632d0-be2c-11f0-ae46-bd64331f0fd4.jpg" alt="US Senate passes deal aimed at ending longest ever government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss" target="_blank">US Senate passes deal aimed at ending government shutdown</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss" target="_blank">US Senate passes deal aimed at ending longest ever government shutdown</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-10 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/10/lenny-wilkens-legendary-nba-player-and-coach-dies-at-88?traffic_source=rss" target="_blank">Lenny Wilkens, legendary NBA player and coach, dies at 88</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 05:13</span>
             </div>
         </div>
 </div>
@@ -98,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68dc602f81809bc453717080/master/pass/Book-Excerpt--Mysterious-Math-Behind--Brazilian-Butt-Lift-Science.jpg" alt="The Mysterious Math Behind the Brazilian Butt Lift" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/book-excerpt-replaceable-you-mary-roach-butt-implants/" target="_blank">The Mysterious Math Behind the Brazilian Butt Lift</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-10 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690a9575626f1bd1479ef639/master/pass/Back%20Bongers.jpg" alt="Lice Checks, Crafts, and Being Touched by Strangers: Inside a Role-Playing ASMR Spa" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +157,38 @@
                 <span class="time">2025-11-09 21:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates" target="_blank">YouTube TV, ESPN, and Disney: the latest on the blackout</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-09 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-11il" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/dev-proxy-13-release/en/headerimage/twitter_card+%282%29-1762721768727.jpg" alt="Dev Proxy v1.3.0: HAR File Generation, LLM Usage Tracking, and Enhanced API Testing Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/dev-proxy-13-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dev Proxy v1.3.0: HAR File Generation, LLM Usage Tracking, and Enhanced API Testing Feature</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-10 11:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-POLYVAL-More-Crypto-Perf" target="_blank">POLYVAL Work Bringing More Performance Gains To Linux Crypto Subsystem</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-10 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44o0" target="_blank">CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-10 08:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://xslt.rip/" target="_blank">XSLT RIP</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-10 07:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy9oaezrixu6dh2ol14cq.png" alt="How Devscribe Simplified My Data Structure and Algorithm Practice — Devscribe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devscribe_app/how-devscribe-simplified-my-data-structure-and-algorithm-practice-devscribe-52kl" target="_blank">How Devscribe Simplified My Data Structure and Algorithm Practice — Devscribe</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/calcurse/" target="_blank">Command Your Calendar: Inside the Minimalist Linux Productivity Tool Calcurse</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-10 05:30</span>
             </div>
         </div>
 </div>
@@ -312,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
