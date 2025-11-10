@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 13:10:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 14:01:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/thailand-suspends-cambodia-peace-deal-after-landmine-blast?traffic_source=rss" target="_blank">Thailand suspends Cambodia peace deal after landmine blast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97152/up-first-newsletter-government-shutdown-snap-benefits-cop30" target="_blank">Senators reach deal to reopen the government. And, countries gather for climate talks</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -63,6 +72,15 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row" target="_blank">Protesters disrupt event at Nigerian museum embroiled in looted artefacts row</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-10 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762776924775_tdy_news_7a_nobles_shutdown_deal_near_251110_1920x1080-kz0mi8.jpg" alt="Senate Reaches Tentative Deal to End Government Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/senate-advances-deal-to-end-longest-shutdown-in-history-251668549570" target="_blank">Senate Reaches Tentative Deal to End Government Shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-10 12:15</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +101,29 @@
                 <span class="time">2025-11-10 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/un-warns-of-millions-displaced-by-climate-change-as-cop30-opens-in-brazil?traffic_source=rss" target="_blank">UN warns of millions displaced by climate change as COP30 opens in Brazil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/10/1744?traffic_source=rss" target="_blank">“I just want to breathe”: Protests over pollution in New Delhi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 09:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/816882/cisa-cybersecurity-elections-infrastructure-shutdown" target="_blank">America’s cybersecurity defenses are cracking</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/" target="_blank">Remote driving startup Vay could grab up to $410M from Singapore’s Grab</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-10 13:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,38 @@
                 <span class="time">2025-11-10 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690a9575626f1bd1479ef639/master/pass/Back%20Bongers.jpg" alt="Lice Checks, Crafts, and Being Touched by Strangers: Inside a Role-Playing ASMR Spa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lice-checks-crafts-and-being-touched-by-strangers-inside-a-roleplaying-asmr-spa/" target="_blank">Lice Checks, Crafts, and Being Touched by Strangers: Inside a Role-Playing ASMR Spa</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-10 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6911605c991c2d6b78ea759a/master/pass/Apple-Removes-Gay-Dating-Apps-From-App-Store-in-China-Business-2243468030.jpg" alt="Apple Pulls China’s Top Gay Dating Apps After Government Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-removes-gay-dating-apps-china-app-store/" target="_blank">Apple Pulls China’s Top Gay Dating Apps After Government Order</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-10 05:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mehakb7/building-nodejs-cli-tool-l4k" target="_blank">Building Node.js CLI Tool.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-145-Released" target="_blank">Firefox 145 Binaries Available - Aside From 32-bit Linux Being Removed</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-10 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735107&w=600" alt="There’s No API for Operational Chaos: Lessons from Scaling Acquired SaaS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/no-api-for-operational-chaos-lessons-scaling-acquired-saas" target="_blank">There’s No API for Operational Chaos: Lessons from Scaling Acquired SaaS</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +219,6 @@
                 <span class="time">2025-11-10 12:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/dev-proxy-13-release/en/headerimage/twitter_card+%282%29-1762721768727.jpg" alt="Dev Proxy v1.3.0: HAR File Generation, LLM Usage Tracking, and Enhanced API Testing Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/dev-proxy-13-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dev Proxy v1.3.0: HAR File Generation, LLM Usage Tracking, and Enhanced API Testing Feature</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-10 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-POLYVAL-More-Crypto-Perf" target="_blank">POLYVAL Work Bringing More Performance Gains To Linux Crypto Subsystem</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-10 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sven_krmer_6f8a15646f686/fedora-42-backup-script-for-mongodb-database-2b73" target="_blank">Fedora 42 Backup script for MongoDB database</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 09:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8MZ7YPHE6HEWZR9YMMMFG43/hero-image.png" alt="You Can Get a Costco Executive Gold Star Membership Plus a $60 Shop Card on Sale for $130 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/costco-executive-gold-star-membership-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get a Costco Executive Gold Star Membership Plus a $60 Shop Card on Sale for $130 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-10 13:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Predator-Badlands-poster-crop-1280x853.jpg" alt="‘Predator: Badlands’ Scores a Franchise-Best Box Office Open" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2025-11-09 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/AlienEarthFunko-1280x853.jpg" alt="Toy Company Funko Has ‘Going Concerns’ About Its Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/toy-company-funko-has-going-concerns-about-its-future-2000683433" target="_blank">Toy Company Funko Has ‘Going Concerns’ About Its Future</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-09 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
