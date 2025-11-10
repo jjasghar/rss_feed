@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 04:06:02 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-10 05:01:49 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 04:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/10/lando-norris-wins-brazil-gp-to-extend-f1-championship-lead-over-piastri?traffic_source=rss" target="_blank">Norris wins Brazil GP to extend F1 championship lead over Piastri</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 04:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762748637879_nbc_spec_full_senate_government_shutdown_251109_1920x1080-4bdrx6.jpg" alt="Special Report: Senate advances tentative deal to end government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/senate-advances-tentative-deal-to-end-government-shutdown-251654725633" target="_blank">Special Report: Senate advances tentative deal to end government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-10 04:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/congress/senators-reach-tentative-deal-end-government-shutdown-rcna242401" target="_blank">Senators reach tentative deal to end the government shutdown</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-10 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-thune-8-ap-gmh-251107_1762551815491_hpMain_4x3t_384.jpg" alt="Enough Democrats expected to vote to break shutdown impasse: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/democrats-expected-vote-republicans-end-shutdown-sources/story?id=127361326" target="_blank">Enough Democrats expected to vote to break shutdown impasse: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-10 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/russia-ukraine-war-list-of-key-events-day-1355?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,355</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 00:35</span>
             </div>
         </div>
 </div>
@@ -162,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyx9yh2j8bmxbbqkq9tti.png" alt="Witch POTIONS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/neleh03/witch-potions-6n3" target="_blank">Witch POTIONS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-10 04:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/jdk-news-roundup-nov03-2025/en/headerimage/java-istock-image-01-1762720446658.jpg" alt="OpenJDK News Roundup: Vector API, Ahead-of-Time Object Caching, Prepare to Make Final Mean Final" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/jdk-news-roundup-nov03-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenJDK News Roundup: Vector API, Ahead-of-Time Object Caching, Prepare to Make Final Mean Final</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-10 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/opencontainers/runc/issues/4990" target="_blank">Open source has a growing problem with LLM generated issues</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-10 02:10</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f" target="_blank">PiHMP Stack (v2) - The Phoenix Protocol Build Log</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-10 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Screenshot-From-2025-11-05-18-10-29-e1762735013243.png?resize=406%2C232&amp;ssl=1" alt="Phases of Moon Brings Lunar Tracking to GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/phases-of-moon-gnome-shell-extension" target="_blank">Phases of Moon Brings Lunar Tracking to GNOME Shell</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-09 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l" target="_blank">TIA - Programming a Light Controller State Machine</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 22:37</span>
             </div>
         </div>
 </div>
@@ -307,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 04:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
