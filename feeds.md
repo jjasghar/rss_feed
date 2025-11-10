@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 18:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 19:01:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +105,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69122d7e6c1ed15cbf146c8b/master/pass/This%20Bluetooth%20Speaker%20Is%20Also%20a%20Charging%20Hub,%20and%20It%E2%80%99s%20Discounted%20by%20$70.png" alt="This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jbl-charge-6-deal-1125/" target="_blank">This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-10 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Severance_Photo_0201-500x500.jpg" alt="Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2025/11/apple-has-no-plans-to-bring-ads-to-apple-tv/" target="_blank">Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-10 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/10/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping/" target="_blank">Wikipedia urges AI companies to use its paid API, and stop scraping</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-10 18:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -133,38 +158,20 @@
                 <span class="time">2025-11-10 16:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/running1-500x500.jpg" alt="The Running Man’s final trailer amps up the high-octane action" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/11/the-running-mans-final-trailer-amps-up-the-high-octane-action/" target="_blank">The Running Man’s final trailer amps up the high-octane action</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-10 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69028b736d14ebc3afce7267/master/pass/Pol_EPA_Getty.jpg" alt="The EPA Is in Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/" target="_blank">The EPA Is in Chaos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-10 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/10/amazon-music-allows-users-in-canada-to-chat-and-stream-music-with-each-other/" target="_blank">Amazon Music allows users in Canada to chat and stream music with each other</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735861&w=600" alt="How Tool-Call Observability Enables You to Support Reliable and Secure AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/tool-call-observability-reliable-secure-ai-agents" target="_blank">How Tool-Call Observability Enables You to Support Reliable and Secure AI Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-10 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/codeclash-competitive-llm-coding/en/headerimage/codeclash-llm-coding-challenge-1762795749828.jpeg" alt="CodeClash Benchmarks LLMs through Multi-Round Coding Competitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="time">2025-11-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/linux-for-professionals-bundle/" target="_blank">22 Linux Books for $25: This Humble Bundle Is Absurdly Good Value</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-10 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +231,38 @@
                 <span class="time">2025-11-10 12:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/" target="_blank">Drilling Down on Uncle Sam’s Proposed TP-Link Ban</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-11-09 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/redditech-1280x720.jpg" alt="Company Used Fake Reddit Posts To Advertise Game, Then Deleted The Evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/trap-plan-marketing-astroturf-warrobots-fake-reddit-accounts-posts-2000642503" target="_blank">Company Used Fake Reddit Posts To Advertise Game, Then Deleted The Evidence</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-10 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/radioactive-spider-feature.png?fit=1200%2C818&amp;quality=55&amp;ssl=1" alt="A humorous survival guide for the Marvel Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/10/a-humorous-survival-guide-for-the-marvel-universe.html" target="_blank">A humorous survival guide for the Marvel Universe</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-10 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/star-wars-insider-235-kylo-ren-1280x853.jpg" alt="The Official ‘Star Wars’ Magazine Is Coming to an End After Over 30 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-insider-ending-lucasfilm-titan-2000683738" target="_blank">The Official ‘Star Wars’ Magazine Is Coming to an End After Over 30 Years</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-10 18:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/anker-charger-iphone-1280x853.jpg" alt="This Official 20W USB-C Charger for iPhone Sells for Pennies, and It Includes a 5-Foot Cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,33 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/costco-executive-gold-star-membership-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get a Costco Executive Gold Star Membership Plus a $60 Shop Card on Sale for $130 Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-10 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Predator-Badlands-poster-crop-1280x853.jpg" alt="‘Predator: Badlands’ Scores a Franchise-Best Box Office Open" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/predator-badlands-scores-a-franchise-best-box-office-open-2000683556" target="_blank">‘Predator: Badlands’ Scores a Franchise-Best Box Office Open</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/VitaDAO-Illustration-VITA-Token.jpg?fit=1200%2C823&amp;quality=60&amp;ssl=1" alt="Crypto-funded longevity city collapses after promising immortality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/10/crypto-funded-longevity-city-collapses-after-promising-immortality.html" target="_blank">Crypto-funded longevity city collapses after promising immortality</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-10 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Monte-Sierpe-1280x853.jpg" alt="There Are Thousands of Aligned Holes in Peru. Researchers Think They Finally Know Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/there-are-thousands-of-aligned-holes-in-peru-researchers-think-they-finally-know-why-2000680970" target="_blank">There Are Thousands of Aligned Holes in Peru. Researchers Think They Finally Know Why</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-10 00:01</span>
             </div>
         </div>
 </div>
@@ -329,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
