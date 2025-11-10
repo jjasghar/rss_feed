@@ -1,27 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 16:01:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-10 17:01:59 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/us-claims-it-strikes-two-boats-carrying-narcotics-in-pacific-killing-six?traffic_source=rss" target="_blank">US claims it hit two boats ‘carrying narcotics’ in Pacific, killing six</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 16:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +102,29 @@
                 <span class="time">2025-11-10 13:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97152/up-first-newsletter-government-shutdown-snap-benefits-cop30" target="_blank">Senators reach deal to reopen the government. And, countries gather for climate talks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-10 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/" target="_blank">Consolidation begins to hit the carbon credit market</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-10 16:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/running1-500x500.jpg" alt="The Running Man’s final trailer amps up the high-octane action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/11/the-running-mans-final-trailer-amps-up-the-high-octane-action/" target="_blank">The Running Man’s final trailer amps up the high-octane action</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-10 16:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69028b736d14ebc3afce7267/master/pass/Pol_EPA_Getty.jpg" alt="The EPA Is in Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,29 +161,20 @@
                 <span class="time">2025-11-10 13:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69102466efb14f39767edbf0/master/pass/Review-%20Asus%20ProArt%20P16.png" alt="Asus ProArt P16 Review: The Fastest Windows Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/asus-proart-p16-2025/" target="_blank">Asus ProArt P16 Review: The Fastest Windows Laptop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/" target="_blank">6Sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1Mind</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-10 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/" target="_blank">Asus Ascent GX10</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-10 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735785&w=600" alt="Regression Analysis for Time Series Data: Models and Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,15 +220,6 @@
                 <span class="time">2025-11-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mehakb7/building-nodejs-cli-tool-l4k" target="_blank">Building Node.js CLI Tool.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 13:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/meta-bouds-1280x853.jpg" alt="Smart Glasses Are Already Getting Ridiculously Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/smart-glasses-are-already-getting-ridiculously-light-2000683643" target="_blank">Smart Glasses Are Already Getting Ridiculously Light</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-10 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8MZ7YPHE6HEWZR9YMMMFG43/hero-image.png" alt="You Can Get a Costco Executive Gold Star Membership Plus a $60 Shop Card on Sale for $130 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +302,6 @@
                 <span class="time">2025-11-09 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/warhammer-40k-titus-1280x853.jpg" alt="‘Space Marine’ Hero Titus Leads New ‘Warhammer 40K’ Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/space-marine-hero-titus-leads-new-warhammer-40k-expansion-2000683473" target="_blank">‘Space Marine’ Hero Titus Leads New ‘Warhammer 40K’ Expansion</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-09 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +316,13 @@
                 <span class="time">2025-11-10 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762479449-20251109.png" alt="Saturday Morning Breakfast Cereal - What" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/what" target="_blank">Saturday Morning Breakfast Cereal - What</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-09 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
