@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 06:02:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-10 07:01:40 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -81,19 +83,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/09/nx-s1-5603659/government-shutdown-senate-agreement" target="_blank">Senators take first step toward reopening the government after historic shutdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-10 03:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/10/airlines-cancel-3200-us-flights-amid-fears-travel-could-slow-to-trickle?traffic_source=rss" target="_blank">Airlines cancel 3,300 US flights amid fears travel could ‘slow to trickle’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-10 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-donald-trump-climate-change_7077743.jpg?20251110014944" alt="&#x27;If we die, we all die together&#x27;: Trump urged to involve US in the fight against climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/cop30-trump-urged-to-involve-us-in-the-fight-against-climate-change-13467809" target="_blank">&#x27;If we die, we all die together&#x27;: Trump urged to involve US in the fight against climate change</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-10 01:32</span>
             </div>
         </div>
 </div>
@@ -170,6 +172,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/calcurse/" target="_blank">Command Your Calendar: Inside the Minimalist Linux Productivity Tool Calcurse</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-10 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GCN-1.1-Driver-Default-Prop" target="_blank">Patches Proposed For Radeon GCN 1.1 GPUs To Use AMDGPU Linux Driver By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-10 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyx9yh2j8bmxbbqkq9tti.png" alt="Witch POTIONS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://github.com/opencontainers/runc/issues/4990" target="_blank">Open source has a growing problem with LLM generated issues</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-10 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ci1v1l1tf0gqw7zytkj.png" alt="Terraform Basics – Week 2: Variables and Reusability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ozanguner/terraform-basics-week-2-variables-and-reusability-2c15" target="_blank">Terraform Basics – Week 2: Variables and Reusability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.4" target="_blank">Rust Coreutils 0.4 Released With Better GNU Compatibility &amp; Faster Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-10 01:19</span>
             </div>
         </div>
 </div>
@@ -306,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
