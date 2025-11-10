@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 14:01:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-10 15:01:46 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/explosion-near-red-fort-in-indias-new-delhi?traffic_source=rss" target="_blank">Explosion near Red Fort in India’s New Delhi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 14:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251110-16-9-giuliani-jan-6-mb-0937-0b4173.jpg" alt="Trump pardons Rudy Giuliani and others involved in bid to overturn 2020 election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4bd/live/263632d0-be2c-11f0-ae46-bd64331f0fd4.jpg" alt="US Senate to debate deal to end longest shutdown after overnight breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/trump-pardons-rudy-giuliani-others-involved-bid-overturn-2020-election-rcna242956" target="_blank">Trump pardons Rudy Giuliani and others involved in bid to overturn 2020 election</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-10 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/2244846596_1762659595234_hpMain_4x3t_384.jpg" alt="Which members of the Senate are taking paychecks during the shutdown?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/members-senate-taking-paychecks-shutdown/story?id=127340274" target="_blank">Which members of the Senate are taking paychecks during the shutdown?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-10 11:20</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss" target="_blank">US Senate to debate deal to end longest shutdown after overnight breakthrough</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-10 12:07</span>
             </div>
         </div>
 </div>
@@ -106,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/10/amazon-music-allows-users-in-canada-to-chat-and-stream-music-with-each-other/" target="_blank">Amazon Music allows users in Canada to chat and stream music with each other</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,6 +129,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/" target="_blank">Remote driving startup Vay could grab up to $410M from Singapore’s Grab</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-10 13:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69102466efb14f39767edbf0/master/pass/Review-%20Asus%20ProArt%20P16.png" alt="Asus ProArt P16 Review: The Fastest Windows Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/asus-proart-p16-2025/" target="_blank">Asus ProArt P16 Review: The Fastest Windows Laptop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-10 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +158,47 @@
                 <span class="time">2025-11-10 12:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/polaris-dawn-500x500.jpg" alt="NASA is kind of a mess: Here are the top priorities for a new administrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/" target="_blank">NASA is kind of a mess: Here are the top priorities for a new administrator</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68dc602f81809bc453717080/master/pass/Book-Excerpt--Mysterious-Math-Behind--Brazilian-Butt-Lift-Science.jpg" alt="The Mysterious Math Behind the Brazilian Butt Lift" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/book-excerpt-replaceable-you-mary-roach-butt-implants/" target="_blank">The Mysterious Math Behind the Brazilian Butt Lift</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-10 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/linux-for-professionals-bundle/" target="_blank">22 Linux Books for $25: This Humble Bundle Is Absurdly Good Value</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-10 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ml-skills/en/mediumimage/vivek-gupta-medium-1761903010855.jpg" alt="Presentation: Growing and Cultivating Strong Machine Learning Engineers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ml-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Growing and Cultivating Strong Machine Learning Engineers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-10 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735768&w=600" alt="AI-Driven Generative Design: Automating Architectural Layouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-generative-design-architectural-layouts" target="_blank">AI-Driven Generative Design: Automating Architectural Layouts</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/opensuse-tw-cachyos" target="_blank">Can openSUSE Tumbleweed Compete With CachyOS Performance?</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-10 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,47 +217,20 @@
                 <span class="time">2025-11-10 13:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735107&w=600" alt="There’s No API for Operational Chaos: Lessons from Scaling Acquired SaaS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/no-api-for-operational-chaos-lessons-scaling-acquired-saas" target="_blank">There’s No API for Operational Chaos: Lessons from Scaling Acquired SaaS</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/generating-color-palettes-for-design-systems-inspired-by-apca" target="_blank">Generating color palettes for design systems … inspired by APCA!</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-10 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/odf-1-4-release/" target="_blank">ODF 1.4 Release Marks 20 Years of OpenDocument Format</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-10 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-11il" target="_blank">Mr Sunday Movies: Predators - Caravan of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html" target="_blank">New Attacks Against Secure Enclaves</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-10 12:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
