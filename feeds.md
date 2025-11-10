@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 02:31:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 03:25:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 03:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +103,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/" target="_blank">Blue Origin scrubs second New Glenn launch, will try again November 12</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-10 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets" target="_blank">Cleveland Guardians&amp;#8217; pitchers indicted for rigging online bets</a></span>
                 <span class="feed">The Verge</span>
@@ -149,20 +154,20 @@
                 <span class="time">2025-11-09 15:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687b65a7de683abfc4adcf70/master/pass/The%20Best%20Pizza%20Ovens%20to%20Make%20the%20Perfect%20Slice.png" alt="Our 8 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-backyard-pizza-oven/" target="_blank">Our 8 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-09 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/jdk-news-roundup-nov03-2025/en/headerimage/java-istock-image-01-1762720446658.jpg" alt="OpenJDK News Roundup: Vector API, Ahead-of-Time Object Caching, Prepare to Make Final Mean Final" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/jdk-news-roundup-nov03-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenJDK News Roundup: Vector API, Ahead-of-Time Object Caching, Prepare to Make Final Mean Final</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-10 02:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ci1v1l1tf0gqw7zytkj.png" alt="Terraform Basics – Week 2: Variables and Reusability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l" target="_blank">TIA - Programming a Light Controller State Machine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-09 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/trev_the_dev/shifting-gears-what-tdd-taught-me-about-using-ai-assistants-kcc" target="_blank">Shifting Gears: What TDD Taught Me About Using AI Assistants</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-09 21:52</span>
             </div>
         </div>
 </div>
@@ -309,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 03:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
