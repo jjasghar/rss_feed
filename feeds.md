@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-10 21:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-10 22:02:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, November 10, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, November 10, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/us-mediator-kushner-meets-netanyahu-for-talks-on-trumps-gaza-plan?traffic_source=rss" target="_blank">US mediator Kushner meets Netanyahu for talks on Trump’s Gaza plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-10 21:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump takes questions from reporters: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +97,20 @@
                 <span class="time">2025-11-10 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd0e/live/555f73c0-be52-11f0-8669-5560f5c90fbe.jpg" alt="At least eight killed after car explodes near Delhi&#x27;s Red Fort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq0p8qnnrno?at_medium=RSS&at_campaign=rss" target="_blank">At least eight killed after car explodes near Delhi&#x27;s Red Fort</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-10 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/" target="_blank">A better way of thinking about the AI bubble</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-10 21:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/apple/2025/11/apple-has-no-plans-to-bring-ads-to-apple-tv/" target="_blank">Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-10 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/10/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping/" target="_blank">Wikipedia urges AI companies to use its paid API, and stop scraping</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-10 18:30</span>
             </div>
         </div>
 </div>
@@ -252,6 +253,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-WaterAndMagic-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Take a remora-eye ride on the back of a whale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/10/take-a-remora-eye-ride-on-the-back-of-a-whale.html" target="_blank">Take a remora-eye ride on the back of a whale</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-10 19:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/redditech-1280x720.jpg" alt="Company Used Fake Reddit Posts To Advertise Game, Then Deleted The Evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -276,15 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-wars-insider-ending-lucasfilm-titan-2000683738" target="_blank">The Official ‘Star Wars’ Magazine Is Coming to an End After Over 30 Years</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-10 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/anker-charger-iphone-1280x853.jpg" alt="This Official 20W USB-C Charger for iPhone Sells for Pennies, and It Includes a 5-Foot Cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-official-20w-usb-c-charger-for-iphone-sells-for-pennies-and-it-includes-a-5-foot-cable-2000642458" target="_blank">This Official 20W USB-C Charger for iPhone Sells for Pennies, and It Includes a 5-Foot Cable</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-10 17:45</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
