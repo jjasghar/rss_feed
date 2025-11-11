@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 16:01:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-11 17:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 14 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump marks Veterans Day at Arlington National Cemetery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump marks Veterans Day at Arlington National Cemetery</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-11 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/11/nx-s1-5462829/mail-ballot-grace-period-supreme-court" target="_blank">The Supreme Court will hear a challenge to grace periods for mail ballot returns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-11 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/11/tiktok-influencer-executed-mali-town-square-suspected-jihadists-mariam-cisse" target="_blank">TikTok influencer killed in public ‘execution’ as Mali’s jihadist crisis worsens</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-11 14:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,38 +99,29 @@
                 <span class="time">2025-11-11 13:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/11/g-s1-97230/vaccines-pandemic-preparedness-covid-seth-berkley-fair-doses" target="_blank">COVID vaccine rollout and pandemic preparedness assessed in new book, &#x27;Fair Doses&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-11 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Tuesday-capitol_1762859017190_hpMain_4x3t_384.jpg" alt="Government shutdown updates: House to return after Senate passes funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: House to return after Senate passes funding bill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-11 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-islamabad-pakistan_7078977.jpg?20251111104823" alt="At least 12 killed after suicide bombing in Pakistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-12-killed-after-suicide-bombing-in-pakistan-13468399" target="_blank">At least 12 killed after suicide bombing in Pakistan</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-11 10:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GP_Nov-AI-Feature_Blog-Post-Hero-500x500.png" alt="Google’s Nano Banana AI image editing is finally coming to Google Photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/11/googles-nano-banana-ai-image-editing-is-finally-coming-to-google-photos/" target="_blank">Google’s Nano Banana AI image editing is finally coming to Google Photos</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/11/google-photos-adds-new-ai-features-for-editing-expands-ai-powered-search-to-over-100-countries/" target="_blank">Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-11 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6912ad312ce6493e98237aca/master/pass/33%20Best%20Gifts%20for%20Cat%20Lovers.png" alt="33 Best Gifts for Cat Lovers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +158,6 @@
                 <span class="time">2025-11-11 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6912c687a8d2d03bd8416acd/master/pass/The%20Best%20Hiking%20Boots%20and%20Shoes%20for%20Any%20Adventure.png" alt="Best Hiking Boots (2025): Walking Shoes, Trails, Backpacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-hiking-boots/" target="_blank">Best Hiking Boots (2025): Walking Shoes, Trails, Backpacking</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6912aa2f4a679c135b2b373b/master/pass/Update-%20Gifts%20for%20Every%20Book%20Lover%20in%20Your%20Life.png" alt="The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gifts-for-book-lovers/" target="_blank">The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,46 +175,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/prepare-post-quantum-future-rhel-97" target="_blank">Prepare for a post-quantum future with RHEL 9.7</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-11-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg3ywoct07v6afvyybhkm.jpg" alt="Build a PHP QueryBuilder from scratch!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891" target="_blank">Build a PHP QueryBuilder from scratch!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740345&w=600" alt="Why Agility Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-agility-matters" target="_blank">Why Agility Matters</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy7e2lv4r8xo" target="_blank">Canada loses its measles-free status, with US on track to follow</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-11 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/intel-core-ultra-7-255h-linux" target="_blank">Intel Core Ultra 7 255H Linux CPU Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-11 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740337&w=600" alt="Creating an MCP Server With Spring AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/creating-an-mcp-server-with-spring-ai" target="_blank">Creating an MCP Server With Spring AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-releases-fips-enabled-kubernetes" target="_blank">Canonical releases FIPS-enabled Kubernetes</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-11 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/freescout-open-source-help-desk/" target="_blank">Tired of Help Scout Pulling the Rug from Under You? Try This Free, Open Source Alternative</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-11 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740326&w=600" alt="Decentralized Identity Management: The Future of Privacy and Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/decentralized-identity-privacy-security" target="_blank">Decentralized Identity Management: The Future of Privacy and Security</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-11 14:15</span>
             </div>
         </div>
 </div>
@@ -231,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/pokemon-james-money.jpg" alt="People Are Selling Shiny Pokémon For Real Money In The Legends: Z-A Black Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-shiny-hunting-ebay-black-market-2000642982" target="_blank">People Are Selling Shiny Pokémon For Real Money In The Legends: Z-A Black Market</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-11 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9SSXZG31JFYEB4PMAQ51CPR/hero-image.png" alt="My Favorite Amazon Deal of the Day: These Amazon Kindles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-kindle-deal?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: These Amazon Kindles</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-11 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K9SE4KA3PZRN21EMFZ90D1S6/hero-image.jpg" alt="Chrome&#x27;s New &#x27;Split View&#x27; Is Now My Favorite Way to Use the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,29 +290,20 @@
                 <span class="time">2025-11-11 12:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/neuroscientists-AI-consciousness-GizAsks-1280x853.jpg" alt="What Would it Take to Convince a Neuroscientist That an AI is Conscious?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/what-would-it-take-to-convince-a-neuroscientist-that-an-ai-is-conscious-2000683232" target="_blank">What Would it Take to Convince a Neuroscientist That an AI is Conscious?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/cybertrucks-1280x853.jpg" alt="The Head of the Cybertruck Program Quit Tesla. The Model Y Leader Left Hours Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-head-of-the-cybertruck-program-quit-tesla-the-model-y-leader-left-hours-later-2000683513" target="_blank">The Head of the Cybertruck Program Quit Tesla. The Model Y Leader Left Hours Later</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-11 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1762726786-20251111.png" alt="Saturday Morning Breakfast Cereal - Boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/boss" target="_blank">Saturday Morning Breakfast Cereal - Boss</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-11 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5698.png" alt="A New Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,22 +331,13 @@
                 <span class="time">2025-11-10 19:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762410047-sawyerlaunchcomic.png" alt="Saturday Morning Breakfast Cereal - Sawyer Lee and the Quest to Just Stay Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sawyer-lee-and-the-quest-to-just-stay-home" target="_blank">Saturday Morning Breakfast Cereal - Sawyer Lee and the Quest to Just Stay Home</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-10 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
