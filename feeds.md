@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 17:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-11 18:02:16 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/russia-will-respond-in-kind-to-nuclear-tests-by-any-country-lavrov?traffic_source=rss" target="_blank">Russia ‘will respond in kind’ to nuclear tests by any country: Lavrov</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump marks Veterans Day at Arlington National Cemetery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +99,29 @@
                 <span class="time">2025-11-11 13:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/11/typhoon-fung-wong-a-devastating-blow-to-the-philippines?traffic_source=rss" target="_blank">Typhoon Fung-wong a “devastating blow” to the Philippines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health" target="_blank">AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-11 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/shredded-money-500x500-1762880822.jpg" alt="US states could lose $21 billion of broadband grants after Trump overhaul" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/us-states-could-lose-21-billion-of-broadband-grants-after-trump-overhaul/" target="_blank">US states could lose $21 billion of broadband grants after Trump overhaul</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-11 17:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GP_Nov-AI-Feature_Blog-Post-Hero-500x500.png" alt="Google’s Nano Banana AI image editing is finally coming to Google Photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +158,6 @@
                 <span class="time">2025-11-11 14:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a3725c4c06b0189ee3f1f3/master/pass/The%20Best%20Ergonomic%20Mouse%20to%20Keep%20Wrist%20Strain%20at%20Bay.png" alt="5 Best Ergonomic Mice (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-ergonomic-mouse/" target="_blank">5 Best Ergonomic Mice (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/11/a-former-physician-has-launched-robyn-an-empathetic-ai-companion/" target="_blank">A former physician has launched Robyn, an empathetic AI companion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-11 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,39 +182,39 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg3ywoct07v6afvyybhkm.jpg" alt="Build a PHP QueryBuilder from scratch!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891" target="_blank">Build a PHP QueryBuilder from scratch!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740345&w=600" alt="Why Agility Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-agility-matters" target="_blank">Why Agility Matters</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy7e2lv4r8xo" target="_blank">Canada loses its measles-free status, with US on track to follow</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-11 15:50</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh" target="_blank">Architectural decisions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 17:45</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-core-ultra-7-255h-linux" target="_blank">Intel Core Ultra 7 255H Linux CPU Performance</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Multi-Battery-HID-Devices" target="_blank">Linux Proposal Aims To Overcome Kernel Limitation Affecting Various Gaming Peripherals</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-11-11 15:40</span>
+                <span class="time">2025-11-11 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!z29X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccc6ace9-a216-489e-9624-8f77c23b2948_2048x1536.jpeg" alt="The Software Engineer’s Guidebook: a recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-software-engineers-guidebook" target="_blank">The Software Engineer’s Guidebook: a recap</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-11-11 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740526&w=600" alt="Gatherers in Java: What They Are and Why They Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-gatherers-explained" target="_blank">Gatherers in Java: What They Are and Why They Matter</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-11 17:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/50548227918_73b0223bb1_c.jpg?fit=800%2C450&amp;quality=60&amp;ssl=1" alt="Fans recreate Red Dead 2&#x27;s missing Mexico in massive free expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/11/venture-down-to-mexico-with-new-red-dead-redemption-2-expansion.html" target="_blank">Fans recreate Red Dead 2&#x27;s missing Mexico in massive free expansion</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-11 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9QBH3J9TG11RVKNDHVCD0V7/hero-image.jpg" alt="12 Shows Like &#x27;The Lowdown&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-the-lowdown?utm_medium=RSS" target="_blank">12 Shows Like &#x27;The Lowdown&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-11 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/pokemon-james-money.jpg" alt="People Are Selling Shiny Pokémon For Real Money In The Legends: Z-A Black Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-100w-laptop-power-bank-is-priced-like-its-clearance-day-amazon-empties-anker-stock-for-pennies-2000684138" target="_blank">This 100W Laptop Power Bank Is Priced Like It’s Clearance Day, Amazon Empties Anker Stock for Pennies</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-11 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/00-hero-1280x720.jpg" alt="The new RoboUP Raccoon 2 SE promises to be the best-value robot mower for small lawns: Just press play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-roboup-raccoon-2-se-promises-to-be-the-best-value-robot-mower-for-small-lawns-just-press-play-2000683631" target="_blank">The new RoboUP Raccoon 2 SE promises to be the best-value robot mower for small lawns: Just press play</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/john-banuelos-2.jpg?fit=1200%2C764&amp;quality=60&amp;ssl=1" alt="Pardoned Capitol shooter back in handcuffs for alleged kidnapping and sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/11/pardoned-capitol-shooter-back-in-handcuffs-for-alleged-kidnapping-and-sexual-assault.html" target="_blank">Pardoned Capitol shooter back in handcuffs for alleged kidnapping and sexual assault</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-11 12:33</span>
             </div>
         </div>
 </div>
@@ -336,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
