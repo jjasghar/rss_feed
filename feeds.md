@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 20:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 21:01:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,12 +113,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69139aad42f0d7fe529d4a3e/master/pass/The%20Nike%20x%20Hyperice%20Hyperboot%20Is%20$200%20Off.png" alt="The Nike x Hyperice Hyperboot Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nike-hyperboots-deal-1125/" target="_blank">The Nike x Hyperice Hyperboot Is $200 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 20:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/" target="_blank">SoftBank’s Nvidia sale rattles market, raises questions</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-11 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost" target="_blank">Disney is losing over $4 million a day in revenue on the YouTube TV blackout</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-11 19:28</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +166,6 @@
                 <span class="time">2025-11-11 18:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health" target="_blank">AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-11 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/shredded-money-500x500-1762880822.jpg" alt="US states could lose $21 billion of broadband grants after Trump overhaul" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/us-states-could-lose-21-billion-of-broadband-grants-after-trump-overhaul/" target="_blank">US states could lose $21 billion of broadband grants after Trump overhaul</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-11 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,39 +190,39 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697272&w=600" alt="Debugging Performance Regressions in High-Scale Java Web Services: A Systematic Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/systematic-approach-to-java-performance-debugging" target="_blank">Debugging Performance Regressions in High-Scale Java Web Services: A Systematic Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-11 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0nkakah4pgni7h3ap925.png" alt="Construindo um Operador Kubernetes com Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andersoncontreira/educacao-financeira-aprenda-a-gerir-a-sua-renda-eff" target="_blank">Educação financeira - aprenda a gerir a sua renda</a></span>
+                <span class="title"><a href="https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld" target="_blank">Construindo um Operador Kubernetes com Go</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 18:56</span>
+                <span class="time">2025-11-11 20:54</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Patch-Tuesday-Nov-2025" target="_blank">Intel Releases New CPU Microcode, Publishes 30 New Security Advisories</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-ARM64-Atomics-Issue" target="_blank">Linux 6.18 Merges Fix For &quot;Catastrophic Performance Issue&quot; On 64-bit ARM</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-11-11 18:23</span>
+                <span class="time">2025-11-11 20:27</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18744127&w=600" alt="A Growing Security Concern: Prompt Injection Vulnerabilities in Model Context Protocol Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chadaustin.me/2024/02/windows-terminal-latency/" target="_blank">Terminal Latency on Windows (2024)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-11 18:07</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/prompt-injection-vulnerabilities-in-mcp-systems" target="_blank">A Growing Security Concern: Prompt Injection Vulnerabilities in Model Context Protocol Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-11 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697272&w=600" alt="Debugging Performance Regressions in High-Scale Java Web Services: A Systematic Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/systematic-approach-to-java-performance-debugging" target="_blank">Debugging Performance Regressions in High-Scale Java Web Services: A Systematic Approach</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-11 19:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/ff92d01a1ab9340e2feff32c041f6b55.jpg" alt="Hades II Isn’t A Story—It’s Maintenance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hades-2-story-melinoe-chronos-hecate-is-it-good-2000642943" target="_blank">Hades II Isn’t A Story—It’s Maintenance</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-11 20:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HRWJHQMADEADSWPAB7Z7G7JW/hero-image.png" alt="The Best Early Black Friday Deals on MacBooks Airs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +298,6 @@
                 <span class="time">2025-11-11 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/pokemon-james-money.jpg" alt="People Are Selling Shiny Pokémon For Real Money In The Legends: Z-A Black Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-shiny-hunting-ebay-black-market-2000642982" target="_blank">People Are Selling Shiny Pokémon For Real Money In The Legends: Z-A Black Market</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-11 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
