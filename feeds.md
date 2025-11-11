@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 02:30:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-11-11 03:21:35 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capitol-03-ap-jef-251110_1762787787273_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate passes government funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: Senate passes government funding bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-11 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97245/senate-shutdown-vote" target="_blank">Senate approves shutdown ending legislation, sending bill to the House for a vote</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-11 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/david-szalay-wins-booker-prize-for-his-novel-flesh?traffic_source=rss" target="_blank">David Szalay wins Booker Prize for his novel Flesh</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 01:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/capitol-03-ap-jef-251110_1762787787273_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate to vote on funding bill Monday night" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97223/health-care-callout" target="_blank">Shopping for an Affordable Care Act health plan? NPR wants to hear your experience</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-10 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251110-senators-rs-7d9ccb.jpg" alt="Democrats rebel after 8 senators cut a deal to end the shutdown without ACA funds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/democrats-rebel-8-senators-cut-deal-end-shutdown-aca-funds-rcna242994" target="_blank">Democrats rebel after 8 senators cut a deal to end the shutdown without ACA funds</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-10 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/10/is-war-one-of-the-biggest-threats-to-the-worlds-climate?traffic_source=rss" target="_blank">Is war one of the biggest threats to the world’s climate?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/10/us-mediator-kushner-meets-netanyahu-for-talks-on-trumps-gaza-plan?traffic_source=rss" target="_blank">US mediator Kushner meets Netanyahu for talks on Trump’s Gaza plan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-10 21:24</span>
             </div>
         </div>
 </div>
@@ -164,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433" target="_blank">Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 03:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thermal/battery-cooling-plates-does-inlet-position-really-matter-i-ran-the-model-41kc" target="_blank">Battery Cooling Plates: Does Inlet Position Really Matter? I Ran the Model.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Linux-amd-vpci-Accel" target="_blank">AMD Posts New &quot;amd_vpci&quot; Accelerator Driver For Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-11 01:47</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-optimized-ubuntu-images-for-google-clouds-axion-n4a-virtual-machines" target="_blank">Canonical announces optimized Ubuntu images for Google Cloud’s Axion N4A Virtual Machines</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-11-10 22:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/LaurenzV/master-thesis/blob/main/main.pdf" target="_blank">High-performance 2D graphics rendering on the CPU using sparse strips [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-10 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F97zckqjze1s5ze20zg85.png" alt="Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/picciniuscodes/searching-algorithms-part-1-binary-search-and-the-art-of-cutting-the-search-space-2n08" target="_blank">Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 20:41</span>
             </div>
         </div>
 </div>
@@ -293,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5698.png" alt="A New Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5698" target="_blank">A New Record</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-11 03:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5692.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -342,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
