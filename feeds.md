@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 14:01:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-11 15:01:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/ba59cfa0-beed-11f0-8456-eff94716b162.jpg" alt="Suicide bombing in Islamabad kills 12, says Pakistan&#x27;s interior minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss" target="_blank">Suicide bombing in Islamabad kills 12, says Pakistan&#x27;s interior minister</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-11 13:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +98,29 @@
                 <span class="time">2025-11-11 10:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss" target="_blank">How many times has Israel violated the Gaza ceasefire? Here are the numbers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 09:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/" target="_blank">Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-11 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a3725c4c06b0189ee3f1f3/master/pass/The%20Best%20Ergonomic%20Mouse%20to%20Keep%20Wrist%20Strain%20at%20Bay.png" alt="5 Best Ergonomic Mice (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-ergonomic-mouse/" target="_blank">5 Best Ergonomic Mice (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +157,6 @@
                 <span class="time">2025-11-11 13:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690e51f3cf26a92c7a51136e/master/pass/gear-alc-free-enzyme-499286770.jpg" alt="Booze Without the Burn? An Enzyme-Tinkering Startup Aims to Make Spirits Smoother" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/booze-without-the-burn-voodoo-scientific-viriato/" target="_blank">Booze Without the Burn? An Enzyme-Tinkering Startup Aims to Make Spirits Smoother</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag" target="_blank">Apple made a $230 crossbody… sock</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-11 10:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +169,33 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-releases-fips-enabled-kubernetes" target="_blank">Canonical releases FIPS-enabled Kubernetes</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-11-11 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/freescout-open-source-help-desk/" target="_blank">Tired of Help Scout Pulling the Rug from Under You? Try This Free, Open Source Alternative</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-11 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740326&w=600" alt="Decentralized Identity Management: The Future of Privacy and Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/decentralized-identity-privacy-security" target="_blank">Decentralized Identity Management: The Future of Privacy and Security</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-11 14:15</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/firefox-145-released-new-features" target="_blank">Firefox 145 Adds URL Fragment Creation, Rounder UI,  PDF Notes + More</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-11-11 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Better-Linux-Multi-GPU-2025" target="_blank">How System76 &amp; Red Hat Hope To Finally Improve The Linux Multi-GPU Experience</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-11 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SDL3-Batch-Rendering" target="_blank">SDL3 Now Implements Render Batching For Direct3D, Metal &amp; Vulkan</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-11 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/cloudflare-merkle-tree-certifica/en/headerimage/generatedHeaderImage-1762692540813.jpg" alt="Cloudflare Proposes Merkle Tree Certificates to Solve Post-Quantum TLS Performance Issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-merkle-tree-certifica/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Proposes Merkle Tree Certificates to Solve Post-Quantum TLS Performance Issue</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-11 10:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9SE4KA3PZRN21EMFZ90D1S6/hero-image.jpg" alt="Chrome&#x27;s New &#x27;Split View&#x27; Is Now My Favorite Way to Use the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-chromes-new-split-view?utm_medium=RSS" target="_blank">Chrome&#x27;s New &#x27;Split View&#x27; Is Now My Favorite Way to Use the Internet</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-11 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/anker-portable-laptop-1280x853.jpg" alt="This 100W Laptop Power Bank Is Priced Like It’s Clearance Day, Amazon Empties Anker Stock for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-100w-laptop-power-bank-is-priced-like-its-clearance-day-amazon-empties-anker-stock-for-pennies-2000684138" target="_blank">This 100W Laptop Power Bank Is Priced Like It’s Clearance Day, Amazon Empties Anker Stock for Pennies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-11 14:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/00-hero-1280x720.jpg" alt="The new RoboUP Raccoon 2 SE promises to be the best-value robot mower for small lawns: Just press play" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-head-of-the-cybertruck-program-quit-tesla-the-model-y-leader-left-hours-later-2000683513" target="_blank">The Head of the Cybertruck Program Quit Tesla. The Model Y Leader Left Hours Later</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-11 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/private-jet-1280x854.jpg" alt="At the Last Minute, Government Shutdown Flight Restrictions Came for the Private Jets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/at-the-last-minute-government-shutdown-flight-restrictions-came-for-the-private-jets-2000683546" target="_blank">At the Last Minute, Government Shutdown Flight Restrictions Came for the Private Jets</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-11 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/X-Box-Green-Feature-Vignette-2-1280x853.jpg" alt="5 Years After Launch, the Xbox Series X Is an Afterthought. So What’s Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/5-years-after-launch-the-xbox-series-x-is-an-afterthought-so-whats-next-2000683762" target="_blank">5 Years After Launch, the Xbox Series X Is an Afterthought. So What’s Next?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-10 23:42</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
