@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 19:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-11 20:01:49 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/turkish-military-plane-with-at-least-20-on-board-crashes-in-georgia?traffic_source=rss" target="_blank">Turkish military plane with at least 20 on board crashes in Georgia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 19:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +97,38 @@
                 <span class="time">2025-11-11 14:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/ba59cfa0-beed-11f0-8456-eff94716b162.jpg" alt="Suicide bombing in Islamabad kills 12, says Pakistan&#x27;s interior minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss" target="_blank">Suicide bombing in Islamabad kills 12, says Pakistan&#x27;s interior minister</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-11 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/" target="_blank">SoftBank’s Nvidia sale rattles market, raises questions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-11 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/reddit-s3xy-time-500x500.jpg" alt="Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/reddit-mod-jailed-for-sharing-movie-sex-scenes-in-rare-moral-rights-verdict/" target="_blank">Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-11 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69123cbed89ca41ff0993991/master/pass/Running-Man-Review-Culture-MCDRUMA_PA039.jpg" alt="‘The Running Man’ Conjures a Dystopian Vision of America That’s Still Not as Bad as Reality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-running-man-conjures-a-dystopian-vision-of-america-thats-still-not-as-bad-as-reality/" target="_blank">‘The Running Man’ Conjures a Dystopian Vision of America That’s Still Not as Bad as Reality</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69137fdd42f0d7fe529d4a31/master/pass/The%20Updated%20Beats%20Pill%20Is%20$50%20Off.png" alt="This Beats Pill Bluetooth Speaker Has Upgraded Features, and It’s Just $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,33 +156,6 @@
                 <span class="time">2025-11-11 17:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GP_Nov-AI-Feature_Blog-Post-Hero-500x500.png" alt="Google’s Nano Banana AI image editing is finally coming to Google Photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/11/googles-nano-banana-ai-image-editing-is-finally-coming-to-google-photos/" target="_blank">Google’s Nano Banana AI image editing is finally coming to Google Photos</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-11 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/11/google-photos-adds-new-ai-features-for-editing-expands-ai-powered-search-to-over-100-countries/" target="_blank">Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-11 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6912ad312ce6493e98237aca/master/pass/33%20Best%20Gifts%20for%20Cat%20Lovers.png" alt="33 Best Gifts for Cat Lovers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-cat-lovers/" target="_blank">33 Best Gifts for Cat Lovers (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,6 +180,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697272&w=600" alt="Debugging Performance Regressions in High-Scale Java Web Services: A Systematic Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/systematic-approach-to-java-performance-debugging" target="_blank">Debugging Performance Regressions in High-Scale Java Web Services: A Systematic Approach</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-11 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,19 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh" target="_blank">Architectural decisions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Multi-Battery-HID-Devices" target="_blank">Linux Proposal Aims To Overcome Kernel Limitation Affecting Various Gaming Peripherals</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-11 17:39</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://chadaustin.me/2024/02/windows-terminal-latency/" target="_blank">Terminal Latency on Windows (2024)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-11 18:07</span>
             </div>
         </div>
 </div>
@@ -238,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HRWJHQMADEADSWPAB7Z7G7JW/hero-image.png" alt="The Best Early Black Friday Deals on MacBooks Airs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-macbook-air-deals?utm_medium=RSS" target="_blank">The Best Early Black Friday Deals on MacBooks Airs</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-11 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K9T1P8ATTEZ80AVWFQSKSE8Y/hero-image.png" alt="Four Tools You Can Use to Find Any Leak in Your Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +288,6 @@
                 <span class="time">2025-11-11 16:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9SSXZG31JFYEB4PMAQ51CPR/hero-image.png" alt="My Favorite Amazon Deal of the Day: These Amazon Kindles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-kindle-deal?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: These Amazon Kindles</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-11 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,31 +311,13 @@
                 <span class="time">2025-11-11 03:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5692.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5692" target="_blank">comics</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-10 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/10/the-stella-montis-summit" target="_blank">The Stella Montis Summit</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-10 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
