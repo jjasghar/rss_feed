@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 15:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 16:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/11/tiktok-influencer-executed-mali-town-square-suspected-jihadists-mariam-cisse" target="_blank">TikTok influencer publicly executed in Mali as jihadist crisis worsens</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-11 14:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/ba59cfa0-beed-11f0-8456-eff94716b162.jpg" alt="Suicide bombing in Islamabad kills 12, says Pakistan&#x27;s interior minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +94,20 @@
                 <span class="time">2025-11-11 10:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss" target="_blank">Israeli parliament nods to bill to introduce death penalty for ‘terrorism’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6912ad312ce6493e98237aca/master/pass/33%20Best%20Gifts%20for%20Cat%20Lovers.png" alt="33 Best Gifts for Cat Lovers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-cat-lovers/" target="_blank">33 Best Gifts for Cat Lovers (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +153,6 @@
                 <span class="time">2025-11-11 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed" target="_blank">The next iPhone Air has reportedly been delayed</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-11 13:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +165,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-core-ultra-7-255h-linux" target="_blank">Intel Core Ultra 7 255H Linux CPU Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-11 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740337&w=600" alt="Creating an MCP Server With Spring AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/creating-an-mcp-server-with-spring-ai" target="_blank">Creating an MCP Server With Spring AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-11 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +210,6 @@
                 <span class="title"><a href="https://dzone.com/articles/decentralized-identity-privacy-security" target="_blank">Decentralized Identity Management: The Future of Privacy and Security</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-11 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18733904&w=600" alt="WebRTC at Scale: Docker, GPU Nodes, Prometheus, and Latency-Based Autoscaling on GKE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/WebRTC-at-Scale-GPU-Nodes-Prometheus-and-Latency-Based-Autoscaling-on-GKE" target="_blank">WebRTC at Scale: Docker, GPU Nodes, Prometheus, and Latency-Based Autoscaling on GKE</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Firefox-145.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 145 Adds URL Fragment Creation, Rounder UI,  PDF Notes + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/firefox-145-released-new-features" target="_blank">Firefox 145 Adds URL Fragment Creation, Rounder UI,  PDF Notes + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-11 12:18</span>
             </div>
         </div>
 </div>
@@ -335,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
