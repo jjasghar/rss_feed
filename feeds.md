@@ -1,27 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 08:02:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-11 09:02:12 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 18 feeds processed -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/syria-signs-up-to-us-led-coalition-against-isil?traffic_source=rss" target="_blank">Syria signs up to US-led coalition against ISIL</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 08:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/11/g-s1-97336/atletico-madrid-coming-under-u-s-ownership" target="_blank">Atletico Madrid coming under U.S. ownership after deal with Apollo Sports Capital</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-11 06:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,29 +107,20 @@
                 <span class="time">2025-11-11 02:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97245/senate-shutdown-vote" target="_blank">Senate approves shutdown ending legislation, sending bill to the House for a vote</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-11 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/david-szalay-wins-booker-prize-for-his-novel-flesh?traffic_source=rss" target="_blank">David Szalay wins Booker Prize for his novel Flesh</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 01:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="$50 Target Coupon &amp; Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/target-promo-code/" target="_blank">$50 Target Coupon &amp; Promo Codes | November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 07:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="1Password Coupon: Score a Free Trial in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,20 +166,20 @@
                 <span class="time">2025-11-10 22:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/" target="_blank">A better way of thinking about the AI bubble</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-10 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/11/ai-code-means-more-critical-thinking-not-less/" target="_blank">AI code means more critical thinking, not less</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-11 08:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,15 +223,6 @@
                 <span class="title"><a href="https://animationobsessive.substack.com/p/the-toy-story-you-remember" target="_blank">The &#x27;Toy Story&#x27; You Remember</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-11 03:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433" target="_blank">Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 03:08</span>
             </div>
         </div>
 </div>
@@ -328,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
