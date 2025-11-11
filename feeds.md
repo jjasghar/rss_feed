@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 05:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 06:02:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/11/jannik-sinner-dominates-felix-auger-aliassime-at-atp-finals-in-turin?traffic_source=rss" target="_blank">Jannik Sinner dominates Felix Auger-Aliassime at ATP Finals in Turin</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 05:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762829397006_now_brk_senate_vote_251110_1920x1080-4tk2im.jpg" alt="Senate votes to reopen government" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: Senate to vote on funding bill Monday night</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-10 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/nov/10/deportations-equatorial-guinea-money" target="_blank">US has sent $7.5m to Equatorial Guinea to accept noncitizens deportees</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-10 23:18</span>
             </div>
         </div>
 </div>
@@ -163,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jamesliu/differences-between-can-and-modbus-45i1" target="_blank">Differences Between CAN and Modbus</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stack_overflowed/9-best-resources-to-learn-coding-from-scratch-a-developers-journey-50k5" target="_blank">9 Best Resources to Learn Coding from Scratch: A Developer’s Journey</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 04:45</span>
@@ -202,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433" target="_blank">Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thermal/battery-cooling-plates-does-inlet-position-really-matter-i-ran-the-model-41kc" target="_blank">Battery Cooling Plates: Does Inlet Position Really Matter? I Ran the Model.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 02:17</span>
             </div>
         </div>
 </div>
@@ -341,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
