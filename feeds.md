@@ -1,38 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 07:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 08:02:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Generated 1 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +44,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/11/jannik-sinner-dominates-felix-auger-aliassime-at-atp-finals-in-turin?traffic_source=rss" target="_blank">Jannik Sinner dominates Felix Auger-Aliassime at ATP Finals in Turin</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-11 05:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e15/live/2899c510-becb-11f0-8456-eff94716b162.jpg" alt="US Senate passes funding bill as historic shutdown nears likely end" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj41pgpk0wgo?at_medium=RSS&at_campaign=rss" target="_blank">US Senate passes funding bill as historic shutdown nears likely end</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-11 03:52</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/david-szalay-wins-booker-prize-for-his-novel-flesh?traffic_source=rss" target="_blank">David Szalay wins Booker Prize for his novel Flesh</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-11 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-03-ap-jef-251110_1762787787273_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate to vote on funding bill Monday night" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: Senate to vote on funding bill Monday night</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-10 23:35</span>
             </div>
         </div>
 </div>
@@ -334,22 +323,13 @@
                 <span class="time">2025-11-10 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/10/the-stella-montis-summit" target="_blank">The Stella Montis Summit</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-10 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
