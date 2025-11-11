@@ -1,6 +1,6 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 21:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 22:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
@@ -8,36 +8,38 @@
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 21:02 UTC</div>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +55,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/11/how-will-the-syrian-presidents-visit-to-the-white-house-impact-the-region?traffic_source=rss" target="_blank">How will the Syrian president’s visit to the White House impact the region?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/700a/live/4a055f00-bf45-11f0-8456-eff94716b162.jpg" alt="Starmer will fight attempts to replace him, allies say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0z2q2g2ro?at_medium=RSS&at_campaign=rss" target="_blank">Starmer will fight attempts to replace him, allies say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-11 20:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +109,20 @@
                 <span class="time">2025-11-11 14:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/11/tiktok-influencer-executed-mali-town-square-suspected-jihadists-mariam-cisse" target="_blank">TikTok influencer killed in public ‘execution’ as Mali’s jihadist crisis worsens</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-11 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/11/tiktok-influencer-executed-mali-town-square-suspected-jihadists-mariam-cisse" target="_blank">TikTok influencer publicly executed in Mali as jihadist crisis worsens</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-11 14:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-500x500.jpg" alt="Google says new cloud-based “Private AI Compute” is just as secure as local processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/" target="_blank">Google says new cloud-based “Private AI Compute” is just as secure as local processing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-11 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69139aad42f0d7fe529d4a3e/master/pass/The%20Nike%20x%20Hyperice%20Hyperboot%20Is%20$200%20Off.png" alt="The Nike x Hyperice Hyperboot Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -157,15 +168,6 @@
                 <span class="time">2025-11-11 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69137fdd42f0d7fe529d4a31/master/pass/The%20Updated%20Beats%20Pill%20Is%20$50%20Off.png" alt="This Beats Pill Bluetooth Speaker Has Upgraded Features, and It’s Just $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/beats-pill-deal-1125/" target="_blank">This Beats Pill Bluetooth Speaker Has Upgraded Features, and It’s Just $100</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -190,6 +192,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxo9mteslmuxmer6qd5kp.png" alt="Hands-On with Azure Files: Storage, Snapshots &amp; Network Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ojosamuel129/hands-on-with-azure-files-storage-snapshots-network-security-cj5" target="_blank">Hands-On with Azure Files: Storage, Snapshots &amp; Network Security</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://docs.python.org/3/howto/a-conceptual-overview-of-asyncio.html" target="_blank">A Conceptual Overview of asyncio</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-11 21:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0nkakah4pgni7h3ap925.png" alt="Construindo um Operador Kubernetes com Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,24 +225,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-ARM64-Atomics-Issue" target="_blank">Linux 6.18 Merges Fix For &quot;Catastrophic Performance Issue&quot; On 64-bit ARM</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-11 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18744127&w=600" alt="A Growing Security Concern: Prompt Injection Vulnerabilities in Model Context Protocol Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/prompt-injection-vulnerabilities-in-mcp-systems" target="_blank">A Growing Security Concern: Prompt Injection Vulnerabilities in Model Context Protocol Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18697272&w=600" alt="Debugging Performance Regressions in High-Scale Java Web Services: A Systematic Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/systematic-approach-to-java-performance-debugging" target="_blank">Debugging Performance Regressions in High-Scale Java Web Services: A Systematic Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-11 19:00</span>
             </div>
         </div>
 </div>
@@ -244,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/sabertooth-cat-1280x853.jpg" alt="Official Trailer for ‘Prehistoric Planet: Ice Age’ Promises Survival, Snow—and Giant Teeth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/official-trailer-for-prehistoric-planet-ice-age-promises-survival-snow-and-giant-teeth-2000684465" target="_blank">Official Trailer for ‘Prehistoric Planet: Ice Age’ Promises Survival, Snow—and Giant Teeth</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-11 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/russia-bot-1280x720.jpg" alt="High-Tech Russian Robot Walks On Stage To Rocky Theme Song And Immediately Falls Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/high-tech-russian-robot-rocky-theme-song-falls-over-video-2000643038" target="_blank">High-Tech Russian Robot Walks On Stage To Rocky Theme Song And Immediately Falls Over</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-11 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/ff92d01a1ab9340e2feff32c041f6b55.jpg" alt="Hades II Isn’t A Story—It’s Maintenance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +300,6 @@
                 <span class="time">2025-11-11 18:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/50548227918_73b0223bb1_c.jpg?fit=800%2C450&amp;quality=60&amp;ssl=1" alt="Fans recreate Red Dead 2&#x27;s missing Mexico in massive free expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/11/venture-down-to-mexico-with-new-red-dead-redemption-2-expansion.html" target="_blank">Fans recreate Red Dead 2&#x27;s missing Mexico in massive free expansion</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-11 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9QBH3J9TG11RVKNDHVCD0V7/hero-image.jpg" alt="12 Shows Like &#x27;The Lowdown&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-the-lowdown?utm_medium=RSS" target="_blank">12 Shows Like &#x27;The Lowdown&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-11 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
