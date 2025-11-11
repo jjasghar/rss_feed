@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 11:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 12:02:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/690e51f3cf26a92c7a51136e/master/pass/gear-alc-free-enzyme-499286770.jpg" alt="Booze Without the Burn? An Enzyme-Tinkering Startup Aims to Make Spirits Smoother" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/booze-without-the-burn-voodoo-scientific-viriato/" target="_blank">Booze Without the Burn? An Enzyme-Tinkering Startup Aims to Make Spirits Smoother</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag" target="_blank">Apple made a $230 crossbody… sock</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-11 10:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="$50 Target Coupon &amp; Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -136,24 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/" target="_blank">Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-10 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support" target="_blank">Siri Shortcuts now works with Samsung SmartThings routines</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-10 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224876606-500x500.jpg" alt="Canada fought measles and measles won; virus now endemic after 1998 elimination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/11/canada-fought-measles-and-measles-won-virus-now-endemic-after-1998-elimination/" target="_blank">Canada fought measles and measles won; virus now endemic after 1998 elimination</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-10 22:10</span>
             </div>
         </div>
 </div>
@@ -235,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/neuroscientists-AI-consciousness-GizAsks-1280x853.jpg" alt="What Would it Take to Convince a Neuroscientist That an AI is Conscious?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/what-would-it-take-to-convince-a-neuroscientist-that-an-ai-is-conscious-2000683232" target="_blank">What Would it Take to Convince a Neuroscientist That an AI is Conscious?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/cybertrucks-1280x853.jpg" alt="The Head of the Cybertruck Program Quit Tesla. The Model Y Leader Left Hours Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -277,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/microsofts-surface-laptop-3-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get the Microsoft Surface Laptop 3 on Sale for Under $400 Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-10 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/duabbblo-1280x720.jpg" alt="Diablo 4 In China Censored, Blood And Skeletons Removed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/diablo-4-china-censored-blood-skeletons-skulls-censorship-changes-removed-2000642581" target="_blank">Diablo 4 In China Censored, Blood And Skeletons Removed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-10 22:32</span>
             </div>
         </div>
 </div>
@@ -334,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
