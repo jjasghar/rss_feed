@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 18:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 19:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69137fdd42f0d7fe529d4a31/master/pass/The%20Updated%20Beats%20Pill%20Is%20$50%20Off.png" alt="This Beats Pill Bluetooth Speaker Has Upgraded Features, and It’s Just $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/beats-pill-deal-1125/" target="_blank">This Beats Pill Bluetooth Speaker Has Upgraded Features, and It’s Just $100</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 18:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -149,15 +160,6 @@
                 <span class="time">2025-11-11 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/" target="_blank">Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-11 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -185,6 +187,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andersoncontreira/educacao-financeira-aprenda-a-gerir-a-sua-renda-eff" target="_blank">Educação financeira - aprenda a gerir a sua renda</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Patch-Tuesday-Nov-2025" target="_blank">Intel Releases New CPU Microcode, Publishes 30 New Security Advisories</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-11 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh" target="_blank">Architectural decisions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 17:45</span>
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Multi-Battery-HID-Devices" target="_blank">Linux Proposal Aims To Overcome Kernel Limitation Affecting Various Gaming Peripherals</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-11 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!z29X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccc6ace9-a216-489e-9624-8f77c23b2948_2048x1536.jpeg" alt="The Software Engineer’s Guidebook: a recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-software-engineers-guidebook" target="_blank">The Software Engineer’s Guidebook: a recap</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-11-11 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740526&w=600" alt="Gatherers in Java: What They Are and Why They Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-gatherers-explained" target="_blank">Gatherers in Java: What They Are and Why They Matter</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-11 17:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9T1P8ATTEZ80AVWFQSKSE8Y/hero-image.png" alt="Four Tools You Can Use to Find Any Leak in Your Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-tools-to-find-any-leak-in-your-home?utm_medium=RSS" target="_blank">Four Tools You Can Use to Find Any Leak in Your Home</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-11 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/PS5-Pro-1year-1280x720.jpg" alt="One Year Later, I’ve Forgotten I Even Own A PS5 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-pro-review-one-year-later-worth-it-price-4k-games-2000642988" target="_blank">One Year Later, I’ve Forgotten I Even Own A PS5 Pro</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-11 18:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/50548227918_73b0223bb1_c.jpg?fit=800%2C450&amp;quality=60&amp;ssl=1" alt="Fans recreate Red Dead 2&#x27;s missing Mexico in massive free expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/amazon-kindle-deal?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: These Amazon Kindles</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9SE4KA3PZRN21EMFZ90D1S6/hero-image.jpg" alt="Chrome&#x27;s New &#x27;Split View&#x27; Is Now My Favorite Way to Use the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-chromes-new-split-view?utm_medium=RSS" target="_blank">Chrome&#x27;s New &#x27;Split View&#x27; Is Now My Favorite Way to Use the Internet</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-11 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/anker-portable-laptop-1280x853.jpg" alt="This 100W Laptop Power Bank Is Priced Like It’s Clearance Day, Amazon Empties Anker Stock for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-100w-laptop-power-bank-is-priced-like-its-clearance-day-amazon-empties-anker-stock-for-pennies-2000684138" target="_blank">This 100W Laptop Power Bank Is Priced Like It’s Clearance Day, Amazon Empties Anker Stock for Pennies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-11 14:25</span>
             </div>
         </div>
 </div>
@@ -336,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
