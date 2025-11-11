@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 12:02:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 13:10:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Tuesday-capitol_1762859017190_hpMain_4x3t_384.jpg" alt="Government shutdown updates: House to return after Senate passes funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: House to return after Senate passes funding bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-11 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,29 @@
                 <span class="time">2025-11-11 06:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/11/jannik-sinner-dominates-felix-auger-aliassime-at-atp-finals-in-turin?traffic_source=rss" target="_blank">Jannik Sinner dominates Felix Auger-Aliassime at ATP Finals in Turin</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 05:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6912aa2f4a679c135b2b373b/master/pass/Update-%20Gifts%20for%20Every%20Book%20Lover%20in%20Your%20Life.png" alt="The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gifts-for-book-lovers/" target="_blank">The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed" target="_blank">The next iPhone Air has reportedly been delayed</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-11 13:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690e51f3cf26a92c7a51136e/master/pass/gear-alc-free-enzyme-499286770.jpg" alt="Booze Without the Burn? An Enzyme-Tinkering Startup Aims to Make Spirits Smoother" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +160,38 @@
                 <span class="time">2025-11-11 06:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Neutron-Stack-Deploy-Artwork_med__ScaleHeightWzg1MF0-500x500-1762814979.jpg" alt="Neutron rocket’s debut slips into mid-2026 as company seeks success from the start" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/" target="_blank">Neutron rocket’s debut slips into mid-2026 as company seeks success from the start</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-11 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/" target="_blank">Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-10 23:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18733904&w=600" alt="WebRTC at Scale: Docker, GPU Nodes, Prometheus, and Latency-Based Autoscaling on GKE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/WebRTC-at-Scale-GPU-Nodes-Prometheus-and-Latency-Based-Autoscaling-on-GKE" target="_blank">WebRTC at Scale: Docker, GPU Nodes, Prometheus, and Latency-Based Autoscaling on GKE</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Better-Linux-Multi-GPU-2025" target="_blank">How System76 &amp; Red Hat Hope To Finally Improve The Linux Multi-GPU Experience</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-11 11:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +219,6 @@
                 <span class="time">2025-11-11 08:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jamesliu/differences-between-can-and-modbus-45i1" target="_blank">Differences Between CAN and Modbus</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stack_overflowed/9-best-resources-to-learn-coding-from-scratch-a-developers-journey-50k5" target="_blank">9 Best Resources to Learn Coding from Scratch: A Developer’s Journey</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 04:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html" target="_blank">Decompression is up to 30% faster in CPython 3.15</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-11 04:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,9 +228,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html" target="_blank">New Attacks Against Secure Enclaves</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html" target="_blank">Prompt Injection in AI Browsers</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-10 12:04</span>
+                <span class="time">2025-11-11 12:08</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/00-hero-1280x720.jpg" alt="The new RoboUP Raccoon 2 SE promises to be the best-value robot mower for small lawns: Just press play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-new-roboup-raccoon-2-se-promises-to-be-the-best-value-robot-mower-for-small-lawns-just-press-play-2000683631" target="_blank">The new RoboUP Raccoon 2 SE promises to be the best-value robot mower for small lawns: Just press play</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/john-banuelos-2.jpg?fit=1200%2C764&amp;quality=60&amp;ssl=1" alt="Pardoned Capitol shooter back in handcuffs for alleged kidnapping and sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/11/pardoned-capitol-shooter-back-in-handcuffs-for-alleged-kidnapping-and-sexual-assault.html" target="_blank">Pardoned Capitol shooter back in handcuffs for alleged kidnapping and sexual assault</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-11 12:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/neuroscientists-AI-consciousness-GizAsks-1280x853.jpg" alt="What Would it Take to Convince a Neuroscientist That an AI is Conscious?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/5-years-after-launch-the-xbox-series-x-is-an-afterthought-so-whats-next-2000683762" target="_blank">5 Years After Launch, the Xbox Series X Is an Afterthought. So What’s Next?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-10 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/i7-dell-inspiron-1280x853.jpg" alt="Dell Quietly Offloads Its 1TB  Laptops via Amazon (74% off), but Displays No Direct Deals on Its Website" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dell-quietly-offloads-its-1tb-laptops-via-amazon-74-off-but-displays-no-direct-deals-on-its-website-2000642475" target="_blank">Dell Quietly Offloads Its 1TB  Laptops via Amazon (74% off), but Displays No Direct Deals on Its Website</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-10 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8T5QQMCVKYVGKHHNYKWCFX4/hero-image.png" alt="You Can Get the Microsoft Surface Laptop 3 on Sale for Under $400 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsofts-surface-laptop-3-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get the Microsoft Surface Laptop 3 on Sale for Under $400 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-10 23:15</span>
             </div>
         </div>
 </div>
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
