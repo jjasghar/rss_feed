@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 03:21:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 04:03:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 03:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 04:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762829397006_now_brk_senate_vote_251110_1920x1080-4tk2im.jpg" alt="Senate votes to reopen government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/senate-votes-to-reopen-government-251754053667" target="_blank">Senate votes to reopen government</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-11 02:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/capitol-03-ap-jef-251110_1762787787273_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate passes government funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +91,6 @@
                 <span class="title"><a href="https://www.theguardian.com/us-news/2025/nov/10/deportations-equatorial-guinea-money" target="_blank">US has sent $7.5m to Equatorial Guinea to accept noncitizens deportees</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-10 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/10/g-s1-97223/health-care-callout" target="_blank">Shopping for an Affordable Care Act health plan? NPR wants to hear your experience</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-10 22:52</span>
             </div>
         </div>
 </div>
@@ -169,6 +161,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hosembafer/angular-directive-that-elegantly-continues-truncated-text-1f1h" target="_blank">Angular Directive that Elegantly Continues Truncated Text</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433" target="_blank">Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 03:08</span>
@@ -208,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk" target="_blank">Create a Text Editor in Go - Moving the Cursor</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-10 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-optimized-ubuntu-images-for-google-clouds-axion-n4a-virtual-machines" target="_blank">Canonical announces optimized Ubuntu images for Google Cloud’s Axion N4A Virtual Machines</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-10 22:08</span>
             </div>
         </div>
 </div>
@@ -356,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 03:21 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
