@@ -1,45 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 22:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 23:01:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 37 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251023123455" alt="Protesters armed with batons storm COP30 venue in Brazil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/protesters-armed-with-batons-storm-cop30-venue-in-brazil-13468866" target="_blank">Protesters armed with batons storm COP30 venue in Brazil</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-11 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/venezuela-prepares-massive-deployment-of-forces-in-case-of-us-attack?traffic_source=rss" target="_blank">Venezuela prepares ‘massive deployment’ of forces in case of US attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/russia-will-respond-in-kind-to-nuclear-tests-by-any-country-lavrov?traffic_source=rss" target="_blank">Russia ‘will respond in kind’ to nuclear tests by any country: Lavrov</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-11 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump marks Veterans Day at Arlington National Cemetery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump marks Veterans Day at Arlington National Cemetery</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-11 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/11/nx-s1-5462829/mail-ballot-grace-period-supreme-court" target="_blank">The Supreme Court will hear a challenge to grace periods for mail ballot returns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-11 14:40</span>
             </div>
         </div>
 </div>
@@ -192,6 +181,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99" target="_blank">IT Asset Management-Vulnerabilities and Patches.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://emma.has-a.blog/articles/django-admin-deux-bringing-admin-back-to-django.html" target="_blank">Django Admin Deux: Bringing Django&#x27;s Admin Back to Django</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-11 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxo9mteslmuxmer6qd5kp.png" alt="Hands-On with Azure Files: Storage, Snapshots &amp; Network Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,24 +214,6 @@
                 <span class="title"><a href="https://docs.python.org/3/howto/a-conceptual-overview-of-asyncio.html" target="_blank">A Conceptual Overview of asyncio</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-11 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0nkakah4pgni7h3ap925.png" alt="Construindo um Operador Kubernetes com Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld" target="_blank">Construindo um Operador Kubernetes com Go</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-ARM64-Atomics-Issue" target="_blank">Linux 6.18 Merges Fix For &quot;Catastrophic Performance Issue&quot; On 64-bit ARM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-11 20:27</span>
             </div>
         </div>
 </div>
@@ -246,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9TCCYXG80EQYAYJ9DEBN94T/hero-image.png" alt="What People Are Getting Wrong This Week: Kim Kardashian Debunks Psychics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/kim-kardashian-debunks-psychics?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Kim Kardashian Debunks Psychics</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-11 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/sabertooth-cat-1280x853.jpg" alt="Official Trailer for ‘Prehistoric Planet: Ice Age’ Promises Survival, Snow—and Giant Teeth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,30 +272,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Frank-Frazetta-Conan-the-Berserker-Cover-Painting-Original-Art.jpg?fit=971%2C1200&amp;quality=60&amp;ssl=1" alt="Metallica&#x27;s Kirk Hammett selling $10M Frank Frazetta Conan painting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/11/metallicas-kirk-hammett-selling-10m-frank-frazetta-conan-painting.html" target="_blank">Metallica&#x27;s Kirk Hammett selling $10M Frank Frazetta Conan painting</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-11 20:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HRWJHQMADEADSWPAB7Z7G7JW/hero-image.png" alt="The Best Early Black Friday Deals on MacBooks Airs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/best-macbook-air-deals?utm_medium=RSS" target="_blank">The Best Early Black Friday Deals on MacBooks Airs</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-11 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9T1P8ATTEZ80AVWFQSKSE8Y/hero-image.png" alt="Four Tools You Can Use to Find Any Leak in Your Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-tools-to-find-any-leak-in-your-home?utm_medium=RSS" target="_blank">Four Tools You Can Use to Find Any Leak in Your Home</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-11 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/PS5-Pro-1year-1280x720.jpg" alt="One Year Later, I’ve Forgotten I Even Own A PS5 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-pro-review-one-year-later-worth-it-price-4k-games-2000642988" target="_blank">One Year Later, I’ve Forgotten I Even Own A PS5 Pro</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-11 18:15</span>
             </div>
         </div>
 </div>
@@ -328,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
