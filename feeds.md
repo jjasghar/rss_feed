@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 04:03:59 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2025-11-11 05:02:19 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 04:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,9 +163,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stack_overflowed/9-best-resources-to-learn-coding-from-scratch-a-developers-journey-50k5" target="_blank">9 Best Resources to Learn Coding from Scratch: A Developer’s Journey</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html" target="_blank">Decompression is up to 30% faster in CPython 3.15</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-11 04:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hosembafer/angular-directive-that-elegantly-continues-truncated-text-1f1h" target="_blank">Angular Directive that Elegantly Continues Truncated Text</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://animationobsessive.substack.com/p/the-toy-story-you-remember" target="_blank">The &#x27;Toy Story&#x27; You Remember</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-11 03:17</span>
             </div>
         </div>
 <div class="story">
@@ -182,33 +211,6 @@
                 <span class="title"><a href="https://dev.to/thermal/battery-cooling-plates-does-inlet-position-really-matter-i-ran-the-model-41kc" target="_blank">Battery Cooling Plates: Does Inlet Position Really Matter? I Ran the Model.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Linux-amd-vpci-Accel" target="_blank">AMD Posts New &quot;amd_vpci&quot; Accelerator Driver For Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-11 01:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/fish-shell-update.jpg?resize=406%2C232&amp;ssl=1" alt="Fish 4.2 Released with Multi-line Command Suggest + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/fish-shell-adds-multi-line-command-suggest" target="_blank">Fish 4.2 Released with Multi-line Command Suggest + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-11 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9k37an3a9drgrfptvggv.png" alt="Create a Text Editor in Go - Moving the Cursor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk" target="_blank">Create a Text Editor in Go - Moving the Cursor</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-10 22:46</span>
             </div>
         </div>
 </div>
@@ -230,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/private-jet-1280x854.jpg" alt="At the Last Minute, Government Shutdown Flight Restrictions Came for the Private Jets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/at-the-last-minute-government-shutdown-flight-restrictions-came-for-the-private-jets-2000683546" target="_blank">At the Last Minute, Government Shutdown Flight Restrictions Came for the Private Jets</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-11 03:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/X-Box-Green-Feature-Vignette-2-1280x853.jpg" alt="5 Years After Launch, the Xbox Series X Is an Afterthought. So What’s Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-turn-off-gemini-button-in-chrome?utm_medium=RSS" target="_blank">How to Turn Off the New ‘Gemini in Chrome’ Button</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-10 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/chris-chalk_welcometoderry-1280x853.jpg" alt="The Military’s Plan for Pennywise on ‘It: Welcome to Derry’ Is Completely Unhinged" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-militarys-plan-for-pennywise-on-it-welcome-to-derry-is-completely-unhinged-2000683748" target="_blank">The Military’s Plan for Pennywise on ‘It: Welcome to Derry’ Is Completely Unhinged</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-10 20:40</span>
             </div>
         </div>
 </div>
@@ -334,22 +336,13 @@
                 <span class="time">2025-11-10 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/big_and_little_spoons.png" alt="Big and Little Spoons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3166/" target="_blank">Big and Little Spoons</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-11-10 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 04:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
