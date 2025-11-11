@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 09:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 10:01:46 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss" target="_blank">How many times has Israel violated the Gaza ceasefire? Here are the numbers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 09:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/syria-signs-up-to-us-led-coalition-against-isil?traffic_source=rss" target="_blank">Syria signs up to US-led coalition against ISIL</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-11 08:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/nov/11/violent-reprisals-after-drc-whistleblowers-discover-profiteering-in-protected-land" target="_blank">Violent reprisals after DRC whistleblowers discover profiteering in protected land</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-11 08:00</span>
             </div>
         </div>
 <div class="story">
@@ -87,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj41pgpk0wgo?at_medium=RSS&at_campaign=rss" target="_blank">US Senate passes funding bill as historic shutdown nears likely end</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-11 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1762829397006_now_brk_senate_vote_251110_1920x1080-4tk2im.jpg" alt="Senate votes to reopen government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/senate-votes-to-reopen-government-251754053667" target="_blank">Senate votes to reopen government</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-11 02:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-03-ap-jef-251110_1762787787273_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Senate passes government funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: Senate passes government funding bill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-11 02:30</span>
             </div>
         </div>
 </div>
@@ -172,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/cloudflare-merkle-tree-certifica/en/headerimage/generatedHeaderImage-1762692540813.jpg" alt="Cloudflare Proposes Merkle Tree Certificates to Solve Post-Quantum TLS Performance Issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-merkle-tree-certifica/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Proposes Merkle Tree Certificates to Solve Post-Quantum TLS Performance Issue</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-11 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -216,15 +218,6 @@
                 <span class="time">2025-11-11 03:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://animationobsessive.substack.com/p/the-toy-story-you-remember" target="_blank">The &#x27;Toy Story&#x27; You Remember</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-11 03:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/cybertrucks-1280x853.jpg" alt="The Head of the Cybertruck Program Quit Tesla. The Model Y Leader Left Hours Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-head-of-the-cybertruck-program-quit-tesla-the-model-y-leader-left-hours-later-2000683513" target="_blank">The Head of the Cybertruck Program Quit Tesla. The Model Y Leader Left Hours Later</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-11 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/private-jet-1280x854.jpg" alt="At the Last Minute, Government Shutdown Flight Restrictions Came for the Private Jets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/diablo-4-china-censored-blood-skeletons-skulls-censorship-changes-removed-2000642581" target="_blank">Diablo 4 In China Censored, Blood And Skeletons Removed</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-10 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5HETP26XN381PC8SX19FNGB/hero-image.png" alt="How to Turn Off the New ‘Gemini in Chrome’ Button" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-turn-off-gemini-button-in-chrome?utm_medium=RSS" target="_blank">How to Turn Off the New ‘Gemini in Chrome’ Button</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-10 22:23</span>
             </div>
         </div>
 </div>
@@ -344,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
