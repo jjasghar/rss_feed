@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 13:10:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-11 14:01:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, November 11, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/11/typhoon-fung-wong-a-devastating-blow-to-the-philippines?traffic_source=rss" target="_blank">Typhoon Fung-wong a “devastating blow” to the Philippines</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-11 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/11/g-s1-97230/vaccines-pandemic-preparedness-covid-seth-berkley-fair-doses" target="_blank">COVID vaccine rollout and pandemic preparedness assessed in new book, &#x27;Fair Doses&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-11 13:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/Tuesday-capitol_1762859017190_hpMain_4x3t_384.jpg" alt="Government shutdown updates: House to return after Senate passes funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: House to return after Senate passes funding bill</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-11 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-islamabad-pakistan_7078977.jpg?20251111104823" alt="At least 12 killed after suicide bombing in Pakistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-12-killed-after-suicide-bombing-in-pakistan-13468399" target="_blank">At least 12 killed after suicide bombing in Pakistan</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-11 10:37</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +98,29 @@
                 <span class="time">2025-11-11 09:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/syria-signs-up-to-us-led-coalition-against-isil?traffic_source=rss" target="_blank">Syria signs up to US-led coalition against ISIL</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 08:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/nov/11/violent-reprisals-after-drc-whistleblowers-discover-profiteering-in-protected-land" target="_blank">Violent reprisals after DRC whistleblowers discover profiteering in protected land</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-11 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/11/g-s1-97336/atletico-madrid-coming-under-u-s-ownership" target="_blank">Atletico Madrid coming under U.S. ownership after deal with Apollo Sports Capital</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-11 06:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/11/a-former-physician-has-launched-robyn-an-empathetic-ai-companion/" target="_blank">A former physician has launched Robyn, an empathetic AI companion</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6912c687a8d2d03bd8416acd/master/pass/The%20Best%20Hiking%20Boots%20and%20Shoes%20for%20Any%20Adventure.png" alt="Best Hiking Boots (2025): Walking Shoes, Trails, Backpacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-hiking-boots/" target="_blank">Best Hiking Boots (2025): Walking Shoes, Trails, Backpacking</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-11 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6912aa2f4a679c135b2b373b/master/pass/Update-%20Gifts%20for%20Every%20Book%20Lover%20in%20Your%20Life.png" alt="The Best Gifts for Book Lovers (2025): From E-Readers to Boxed Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +157,6 @@
                 <span class="time">2025-11-11 10:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="$50 Target Coupon &amp; Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/target-promo-code/" target="_blank">$50 Target Coupon &amp; Promo Codes | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="1Password Coupon: Score a Free Trial in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/1password-coupon/" target="_blank">1Password Coupon: Score a Free Trial in November</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 06:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +178,15 @@
                 <span class="title"><a href="https://dzone.com/articles/WebRTC-at-Scale-GPU-Nodes-Prometheus-and-Latency-Based-Autoscaling-on-GKE" target="_blank">WebRTC at Scale: Docker, GPU Nodes, Prometheus, and Latency-Based Autoscaling on GKE</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Firefox-145.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 145 Adds URL Fragment Creation, Rounder UI,  PDF Notes + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/firefox-145-released-new-features" target="_blank">Firefox 145 Adds URL Fragment Creation, Rounder UI,  PDF Notes + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-11 12:18</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-merkle-tree-certifica/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Proposes Merkle Tree Certificates to Solve Post-Quantum TLS Performance Issue</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-11 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/11/ai-code-means-more-critical-thinking-not-less/" target="_blank">AI code means more critical thinking, not less</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-11 08:40</span>
             </div>
         </div>
 </div>
@@ -338,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
