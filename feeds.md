@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 12:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-12 13:11:57 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/solar-storms-hit-earth-what-are-they-where-can-northern-lights-be-seen?traffic_source=rss" target="_blank">Solar storms hit Earth: What are they; where can Northern Lights be seen?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97550/up-first-newsletter-house-shutdown-vote-air-traffic-control-uss-ford-google" target="_blank">Flight issues could linger after shutdown. And, Google&#x27;s lawsuit targeting scammers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 12:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +98,38 @@
                 <span class="time">2025-11-12 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5546754/climate-home-insurance-cop30-prices-expensive-disasters" target="_blank">It&#x27;s harder to get home insurance. That&#x27;s changing communities across the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-12 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/ukraine-suspends-justice-minister-for-alleged-link-to-100m-corruption-case?traffic_source=rss" target="_blank">Ukraine suspends justice minister for alleged link to $100m corruption case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 10:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69139c3e1f0fcb4e199d4e01/master/pass/The%20Home%20Depot%20Black%20Friday%20Deals%20Are%20Happening%20Now.png" alt="Best Home Depot Black Friday Deals for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-home-depot-deals-2025-update/" target="_blank">Best Home Depot Black Friday Deals for 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-12 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/817622/insta360-ace-pro-2-action-camera-pocket-printer-xplorer-grip-pro-kit" target="_blank">Insta360’s new accessories turn its Ace Pro 2 into an instant camera</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/" target="_blank">Microsoft-backed VEIR is bringing superconductors to data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,33 +157,6 @@
                 <span class="time">2025-11-12 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/818554/google-lighthouse-text-spam-lawsuit" target="_blank">Google is trying to take down a group sending you all those spammy texts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-12 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="HBO Max Promo Code: 50% Off | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/max-promo-code/" target="_blank">HBO Max Promo Code: 50% Off | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-12 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/" target="_blank">The global race for the AI app layer is still on</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-12 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +169,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-hierarchical-skipping-2384" target="_blank">Unlocking AI Reasoning: The Power of Hierarchical Skipping</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-12 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735943&w=600" alt="AI Code Refactoring: Principles, Techniques, and Benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-code-refactoring-principles-techniques-and-benefits" target="_blank">AI Code Refactoring: Principles, Techniques, and Benefits</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-12 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +216,6 @@
                 <span class="time">2025-11-12 09:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/scaling-reverse-proxies/en/headerimage/scaling-reverse-proxies-header-1762508754668.jpg" alt="Article: When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/scaling-reverse-proxies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-12 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models" target="_blank">Yann LeCun to depart Meta and launch AI startup focused on &#x27;world models&#x27;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-12 07:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,20 +230,38 @@
                 <span class="time">2025-11-12 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html" target="_blank">Prompt Injection in AI Browsers</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-11 12:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/threads-1280x853.jpg" alt="Who Is Threads For? Meta Would Like One Answer to Be ‘Podcasters’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/who-is-threads-for-meta-would-like-one-answer-to-be-podcasters-2000684603" target="_blank">Who Is Threads For? Meta Would Like One Answer to Be ‘Podcasters’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-12 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1760TEASER1200-do-you-have-dementia.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: Do you have dementia?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/12/tom-the-dancing-bug-do-you-have-dementia.html" target="_blank">Tom the Dancing Bug: Do you have dementia?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/millenium-falcon-set-lego-1280x853.jpg" alt="Amazon Quietly Drops LEGO Star Wars Sets, Millennium Falcon Now Going for Mere Cents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-quietly-drops-lego-star-wars-sets-millennium-falcon-now-going-for-mere-cents-2000643415" target="_blank">Amazon Quietly Drops LEGO Star Wars Sets, Millennium Falcon Now Going for Mere Cents</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-12 12:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Predator-Badlands-Elle-Fanning-Twentieth-Century-1280x853.jpg" alt="‘Predator: Badlands’ Star Elle Fanning Thinks Genre Movies Are as Award-Worthy as the Rest of Cinema" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,33 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/as-spyware-companies-get-chummy-with-white-house-apple-and-whatsapp-say-theyll-protect-your-phone-2000684428" target="_blank">As Spyware Companies Get Chummy with White House, Apple and WhatsApp Say They’ll Protect Your Phone</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-12 00:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8WR2T6V0DRRYCJRESREGCFK/hero-image.png" alt="You Can Get This Lenovo IdeaPad 5 Touch on Sale for $600 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lenovo-ideapad-5-touch-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get This Lenovo IdeaPad 5 Touch on Sale for $600 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-11 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9TCCYXG80EQYAYJ9DEBN94T/hero-image.png" alt="What People Are Getting Wrong This Week: Kim Kardashian Debunks Psychics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/kim-kardashian-debunks-psychics?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Kim Kardashian Debunks Psychics</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-11 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Opusonix-Pro-Lifetime-Subscription.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Manage your music projects without the chaos thanks to this $50 tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/11/manage-your-music-projects-without-the-chaos-thanks-to-this-50-tool.html" target="_blank">Manage your music projects without the chaos thanks to this $50 tool</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-11 22:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
