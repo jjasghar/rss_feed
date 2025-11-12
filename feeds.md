@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 10:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-12 11:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5546754/climate-home-insurance-cop30-prices-expensive-disasters" target="_blank">It&#x27;s harder to get home insurance. That&#x27;s changing communities across the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/ukraine-suspends-justice-minister-for-alleged-link-to-100m-corruption-case?traffic_source=rss" target="_blank">Ukraine suspends justice minister for alleged link to $100m corruption case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 10:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251111-chuck-schumer-hakeem-jeffries-mn-1015-44c492.jpg" alt="Democrats cling to silver linings amid criticism they caved to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/democrats-wins-shutdown-fight-health-care-obamacare-subsidies-trump-rcna243211" target="_blank">Democrats cling to silver linings amid criticism they caved to Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +102,29 @@
                 <span class="time">2025-11-12 06:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/11/12/why-is-trump-talking-about-nuclear-testing?traffic_source=rss" target="_blank">Why is Trump talking about nuclear testing?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/city-of-libraries-chinguetti-mauritania-sahara-unesco-preservation" target="_blank">The man on a mission to save Mauritania’s ‘city of libraries’ from encroaching desert sands</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-12 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/indigenous-activists-storm-cop30-climate-summit-in-brazil-demanding-action?traffic_source=rss" target="_blank">Indigenous activists storm COP30 climate summit in Brazil, demanding action</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 04:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6913afad20658e5ccc89c274/master/pass/111125-lighthouse-spam-messages.jpg" alt="This Is the Platform Google Claims Is Behind a &#x27;Staggering’ Scam Text Operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/" target="_blank">This Is the Platform Google Claims Is Behind a &#x27;Staggering’ Scam Text Operation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-12 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/" target="_blank">Figma bets on India to expand beyond design</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +161,6 @@
                 <span class="time">2025-11-12 02:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/calc_hero_1-500x500.jpg" alt="The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/" target="_blank">The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-11 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-500x500.jpg" alt="Google says new cloud-based “Private AI Compute” is just as secure as local processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/" target="_blank">Google says new cloud-based “Private AI Compute” is just as secure as local processing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-11 21:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +173,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/dotnet-request-smuggling/en/headerimage/generatedHeaderImage-1762635637772.jpg" alt="Microsoft Patches Critical ASP.NET Core Vulnerability with 9.9 Severity Score" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/dotnet-request-smuggling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Patches Critical ASP.NET Core Vulnerability with 9.9 Severity Score</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-12 10:26</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://itsfoss.com/self-hosting-starting-projects/" target="_blank">The Self-Hosting Starter Pack: 5 Simple Tools I Recommend To Get Started With Your Homelab</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-12 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nicanor_korir/robot-immitation-a-gentle-intro-30hc" target="_blank">Robot Immitation: A gentle Intro</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-12 06:47</span>
             </div>
         </div>
 </div>
@@ -299,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/12/manifold-delights" target="_blank">Manifold Delights</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-12 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5699.png" alt="The Gordian Iris" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -321,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
