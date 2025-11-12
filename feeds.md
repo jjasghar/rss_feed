@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 01:29:30 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-12 02:30:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/russia-ukraine-war-list-of-key-events-day-1357?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,357</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-12 00:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ebt-sign-rt-jt-251111_1762877598831_hpMain_4x3t_384.jpg" alt="Supreme Court extends stay of order requiring payment of full SNAP benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/supreme-court-extends-stay-order-requiring-administration-pay/story?id=127415450" target="_blank">Supreme Court extends stay of order requiring payment of full SNAP benefits</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-12 00:40</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/venezuela-prepares-massive-deployment-of-forces-in-case-of-us-attack?traffic_source=rss" target="_blank">Venezuela prepares ‘massive deployment’ of forces in case of US attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-11 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/11/how-will-the-syrian-presidents-visit-to-the-white-house-impact-the-region?traffic_source=rss" target="_blank">How will the Syrian president’s visit to the White House impact the region?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 21:06</span>
             </div>
         </div>
 </div>
@@ -180,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carlvilla/5-projets-blockchain-open-source-qui-faconnent-lavenir-du-web3-10p8" target="_blank">5 projets blockchain open source qui façonnent l’avenir du Web3</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-12 02:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Google-Pixel-10-Google-DTs" target="_blank">Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
@@ -213,15 +215,6 @@
                 <span class="time">2025-11-11 23:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/czmilo/2025-complete-guide-in-depth-analysis-of-ernie-45-vl-28b-a3b-thinking-multimodal-ai-model-1mib" target="_blank">2025 Complete Guide: In-Depth Analysis of ERNIE-4.5-VL-28B-A3B-Thinking Multimodal AI Model</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 23:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/insignia-4k-50-inch-1280x853.jpg" alt="This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-50-inch-4k-fire-tv-suddenly-drops-40-off-amazon-clears-stock-for-pocket-change-2000643083" target="_blank">This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-12 01:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/03/GettyImages-2204146985-1280x850.jpg" alt="As Spyware Companies Get Chummy with White House, Apple and WhatsApp Say They’ll Protect Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,20 +288,20 @@
                 <span class="time">2025-11-11 21:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/ff92d01a1ab9340e2feff32c041f6b55.jpg" alt="Hades II Isn’t A Story—It’s Maintenance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hades-2-story-melinoe-chronos-hecate-is-it-good-2000642943" target="_blank">Hades II Isn’t A Story—It’s Maintenance</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-11 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5699.png" alt="The Gordian Iris" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5699" target="_blank">The Gordian Iris</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-12 02:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1762726786-20251111.png" alt="Saturday Morning Breakfast Cereal - Boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
