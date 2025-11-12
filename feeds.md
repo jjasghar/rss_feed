@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 16:02:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-12 17:02:18 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 16:02 UTC</div>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-07/240711-jeffrey-epstein-donald-trump-vl-240p-6ff937.jpg" alt="Jeffrey Epstein wrote Trump &#x27;knew about the girls&#x27;, referencing Mar-a-Lago, in newly released emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/jeffrey-epstein-wrote-trump-knew-girls-referenced-mar-lago-newly-relea-rcna243422" target="_blank">Jeffrey Epstein wrote Trump &#x27;knew about the girls&#x27;, referencing Mar-a-Lago, in newly released emails</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-12 15:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -74,7 +84,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/sudan-north-darfur-aid-malnutrition-rsf-el-fasher-tawila" target="_blank">North Darfur aid operations ‘on brink of collapse’ after RSF capture of El Fasher</a></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/sudan-north-darfur-aid-malnutrition-rsf-el-fasher-tawila" target="_blank">Dire warnings over aid and hunger following RSF’s capture of Sudanese city</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-12 14:37</span>
             </div>
@@ -82,19 +92,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss" target="_blank">Israeli forces demolish more Palestinian homes in Masafer Yatta</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/epstein-maxwell_1762921437946_hpMain_4x3t_384.jpg" alt="House Democrats release new Epstein emails referencing Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983" target="_blank">House Democrats release new Epstein emails referencing Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-12 13:50</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/sudan-north-darfur-aid-malnutrition-rsf-el-fasher-tawila" target="_blank">North Darfur aid operations ‘on brink of collapse’ after RSF capture of El Fasher</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-12 14:37</span>
             </div>
         </div>
 </div>
@@ -102,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/818878/air-travel-delay-cancel-government-shutdown-faa" target="_blank">Air travel chaos will linger long after the government reopens</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-12 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +157,20 @@
                 <span class="time">2025-11-12 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/817622/insta360-ace-pro-2-action-camera-pocket-printer-xplorer-grip-pro-kit" target="_blank">Insta360’s new accessories turn its Ace Pro 2 into an instant camera</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-12 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0vzziqhcp62uapjxl80t.png" alt="How Git History Reveals Your Riskiest Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m" target="_blank">How Git History Reveals Your Riskiest Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-12 16:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="time">2025-11-12 13:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/sudo-rs-issue-ubuntu/" target="_blank">Ubuntu&#x27;s Rust Transition Hits Another Bump as sudo-rs Security Vulnerabilities Show Up</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-12 13:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/CrucialBX500-1280x853.jpg" alt="Crucial BX500 SSD Hits Record Low at $0.07 per GB, Making Storage Feel Practically Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crucial-bx500-internal-ssd-drops-by-more-than-20-ahead-of-black-friday-2000643470" target="_blank">Crucial BX500 SSD Hits Record Low at $0.07 per GB, Making Storage Feel Practically Free</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-12 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/New-Glenn-1280x853.jpg" alt="The Feds Couldn’t Stop New Glenn From Launching, But This Solar Storm Sure Did" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-feds-couldnt-stop-new-glenn-from-launching-but-this-solar-storm-sure-did-2000684845" target="_blank">The Feds Couldn’t Stop New Glenn From Launching, But This Solar Storm Sure Did</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-12 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/09/PENNY2.jpg?fit=1600%2C900&amp;quality=60&amp;ssl=1" alt="U.S. mints final penny today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +289,6 @@
                 <span class="time">2025-11-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9R2BNRDV5CXVVG4963ESGT5/hero-image.png" alt="Microsoft (Sort of) Made a Ninite Alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-sort-of-made-a-ninite-alternative?utm_medium=RSS" target="_blank">Microsoft (Sort of) Made a Ninite Alternative</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-12 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/threads-1280x853.jpg" alt="Who Is Threads For? Meta Would Like One Answer to Be ‘Podcasters’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/who-is-threads-for-meta-would-like-one-answer-to-be-podcasters-2000684603" target="_blank">Who Is Threads For? Meta Would Like One Answer to Be ‘Podcasters’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-12 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,22 +312,13 @@
                 <span class="time">2025-11-12 02:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762726786-20251111.png" alt="Saturday Morning Breakfast Cereal - Boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/boss" target="_blank">Saturday Morning Breakfast Cereal - Boss</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-11 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
