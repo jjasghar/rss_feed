@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 13:11:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-12 14:01:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 13:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/epstein-maxwell_1762921437946_hpMain_4x3t_384.jpg" alt="House Democrats release new Epstein emails referencing Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983" target="_blank">House Democrats release new Epstein emails referencing Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-12 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/as-the-dams-feeding-tehran-run-dry-iran-struggles-with-a-dire-water-crisis?traffic_source=rss" target="_blank">As the dams feeding Tehran run dry, Iran struggles with a dire water crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie" target="_blank">New Epstein emails appear to reveal more Trump ties</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +103,20 @@
                 <span class="time">2025-11-12 11:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/forty-two-migrants-presumed-dead-after-shipwreck-near-libya-un?traffic_source=rss" target="_blank">Forty-two migrants presumed dead after shipwreck near Libya: UN</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/johnson-ap-jef-251111_1762866988602_hpMain_4x3t_384.jpg" alt="House set to vote on ending government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-set-vote-ending-government-shutdown/story?id=127421219" target="_blank">House set to vote on ending government shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-12 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2ba/live/70fc2480-bfaf-11f0-8456-eff94716b162.jpg" alt="Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78zygz4xg9o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-12 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/818716/google-cameyo-chromeos-windows-app-virtualization" target="_blank">Google relaunches Cameyo to entice businesses from Windows to ChromeOS</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69139c3e1f0fcb4e199d4e01/master/pass/The%20Home%20Depot%20Black%20Friday%20Deals%20Are%20Happening%20Now.png" alt="Best Home Depot Black Friday Deals for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +162,6 @@
                 <span class="time">2025-11-12 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/" target="_blank">Figma bets on India to expand beyond design</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-12 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +174,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-3-scriptableobjects-2ob7" target="_blank">Saving Game Data in Unity — Part 3: ScriptableObjects</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-12 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/sudo-rs-issue-ubuntu/" target="_blank">Ubuntu&#x27;s Rust Transition Hits Another Bump as sudo-rs Security Vulnerabilities Show Up</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-12 13:29</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +221,6 @@
                 <span class="time">2025-11-12 11:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/dotnet-request-smuggling/en/headerimage/generatedHeaderImage-1762635637772.jpg" alt="Microsoft Patches Critical ASP.NET Core Vulnerability with 9.9 Severity Score" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/dotnet-request-smuggling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Patches Critical ASP.NET Core Vulnerability with 9.9 Severity Score</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-12 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft2sp3gf8t1k3t027bf8s.png" alt="Run a shell script from a webhook call" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jypelle/run-a-shell-script-from-a-webhook-call-4bc4" target="_blank">Run a shell script from a webhook call</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-12 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/soundpeats-clip1-1280x853.jpg" alt="These Open Earbuds Might Be the Bose Competitor You’ve Been Waiting For" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/these-open-earbuds-might-be-the-bose-competitor-youve-been-waiting-for-2000683785" target="_blank">These Open Earbuds Might Be the Bose Competitor You’ve Been Waiting For</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9R2BNRDV5CXVVG4963ESGT5/hero-image.png" alt="Microsoft (Sort of) Made a Ninite Alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-sort-of-made-a-ninite-alternative?utm_medium=RSS" target="_blank">Microsoft (Sort of) Made a Ninite Alternative</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-12 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/threads-1280x853.jpg" alt="Who Is Threads For? Meta Would Like One Answer to Be ‘Podcasters’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/predator-badlands-star-elle-fanning-thinks-genre-movies-are-as-award-worthy-as-the-rest-of-cinema-2000684570" target="_blank">‘Predator: Badlands’ Star Elle Fanning Thinks Genre Movies Are as Award-Worthy as the Rest of Cinema</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/insignia-4k-50-inch-1280x853.jpg" alt="This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-50-inch-4k-fire-tv-suddenly-drops-40-off-amazon-clears-stock-for-pocket-change-2000643083" target="_blank">This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-12 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/GettyImages-2204146985-1280x850.jpg" alt="As Spyware Companies Get Chummy with White House, Apple and WhatsApp Say They’ll Protect Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/as-spyware-companies-get-chummy-with-white-house-apple-and-whatsapp-say-theyll-protect-your-phone-2000684428" target="_blank">As Spyware Companies Get Chummy with White House, Apple and WhatsApp Say They’ll Protect Your Phone</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-12 00:46</span>
             </div>
         </div>
 </div>
@@ -326,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
