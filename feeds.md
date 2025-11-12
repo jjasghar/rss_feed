@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-11 23:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-12 00:04:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, November 11, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251110-volunteer-loading-food-lr-0f4a1c.jpg" alt="Supreme Court extends temporary pause on $4 billion in SNAP payments for November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-extends-temporary-pause-4-billion-snap-payments-november-rcna243071" target="_blank">Supreme Court extends temporary pause on $4 billion in SNAP payments for November</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-11 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-cop30-brazil_7079710.jpg?20251111233807" alt="Dozens of protesters storm COP30 venue in Brazil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/protesters-armed-with-batons-storm-cop30-venue-in-brazil-13468866" target="_blank">Dozens of protesters storm COP30 venue in Brazil</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-11 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251023123455" alt="Protesters armed with batons storm COP30 venue in Brazil" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +101,20 @@
                 <span class="time">2025-11-11 20:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/turkish-military-plane-with-at-least-20-on-board-crashes-in-georgia?traffic_source=rss" target="_blank">Turkish military plane with at least 20 on board crashes in Georgia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/russia-will-respond-in-kind-to-nuclear-tests-by-any-country-lavrov?traffic_source=rss" target="_blank">Russia ‘will respond in kind’ to nuclear tests by any country: Lavrov</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/calc_hero_1-500x500.jpg" alt="The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/" target="_blank">The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-11 23:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-500x500.jpg" alt="Google says new cloud-based “Private AI Compute” is just as secure as local processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +160,6 @@
                 <span class="time">2025-11-11 19:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69123cbed89ca41ff0993991/master/pass/Running-Man-Review-Culture-MCDRUMA_PA039.jpg" alt="‘The Running Man’ Conjures a Dystopian Vision of America That’s Still Not as Bad as Reality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-running-man-conjures-a-dystopian-vision-of-america-thats-still-not-as-bad-as-reality/" target="_blank">‘The Running Man’ Conjures a Dystopian Vision of America That’s Still Not as Bad as Reality</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-11 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,9 +187,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/czmilo/2025-complete-guide-in-depth-analysis-of-ernie-45-vl-28b-a3b-thinking-multimodal-ai-model-1mib" target="_blank">2025 Complete Guide: In-Depth Analysis of ERNIE-4.5-VL-28B-A3B-Thinking Multimodal AI Model</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-11 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99" target="_blank">IT Asset Management-Vulnerabilities and Patches.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10" target="_blank">sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-11 22:32</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://emma.has-a.blog/articles/django-admin-deux-bringing-admin-back-to-django.html" target="_blank">Django Admin Deux: Bringing Django&#x27;s Admin Back to Django</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-11 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxo9mteslmuxmer6qd5kp.png" alt="Hands-On with Azure Files: Storage, Snapshots &amp; Network Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ojosamuel129/hands-on-with-azure-files-storage-snapshots-network-security-cj5" target="_blank">Hands-On with Azure Files: Storage, Snapshots &amp; Network Security</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://docs.python.org/3/howto/a-conceptual-overview-of-asyncio.html" target="_blank">A Conceptual Overview of asyncio</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-11 21:37</span>
             </div>
         </div>
 </div>
@@ -235,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8WR2T6V0DRRYCJRESREGCFK/hero-image.png" alt="You Can Get This Lenovo IdeaPad 5 Touch on Sale for $600 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lenovo-ideapad-5-touch-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get This Lenovo IdeaPad 5 Touch on Sale for $600 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-11 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K9TCCYXG80EQYAYJ9DEBN94T/hero-image.png" alt="What People Are Getting Wrong This Week: Kim Kardashian Debunks Psychics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +292,6 @@
                 <span class="time">2025-11-11 20:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HRWJHQMADEADSWPAB7Z7G7JW/hero-image.png" alt="The Best Early Black Friday Deals on MacBooks Airs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-macbook-air-deals?utm_medium=RSS" target="_blank">The Best Early Black Friday Deals on MacBooks Airs</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-11 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
