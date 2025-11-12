@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 18:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-12 19:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/12/toyota-opens-us-battery-plant-confirms-10bn-investment-plan?traffic_source=rss" target="_blank">Toyota opens US battery plant, confirms $10bn investment plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss" target="_blank">IAEA demands ‘long overdue’ inspections of Iran nuclear sites’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-12 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-berlin-police-germany_7080314.jpg?20251112170456" alt="Police in Germany arrest suspected Hamas member who &#x27;acquired Glock pistols to attack Jewish institutions&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-in-germany-arrest-suspected-hamas-member-who-acquired-glock-pistols-to-attack-jewish-institutions-13469217" target="_blank">Police in Germany arrest suspected Hamas member who &#x27;acquired Glock pistols to attack Jewish institutions&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-12 16:56</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +101,29 @@
                 <span class="time">2025-11-12 15:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5606348/immigrants-visas-health-conditions-trump-guidance" target="_blank">Immigrants with obesity, diabetes and other health problems may be denied visas</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-12 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/sudan-north-darfur-aid-malnutrition-rsf-el-fasher-tawila" target="_blank">Dire warnings over aid and hunger following RSF’s capture of Sudanese city</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-12 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69138b24895cf8d67bbadf97/master/pass/AI-Lab-Claude-Hacks-Robot-Dog-Business.jpg" alt="Anthropic’s Claude Takes Control of a Robot Dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-claude-takes-control-robot-dog/" target="_blank">Anthropic’s Claude Takes Control of a Robot Dog</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-12 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets" target="_blank">OpenAI says the brand-new GPT-5.1 is &amp;#8216;warmer&amp;#8217; and has more &amp;#8216;personality&amp;#8217; options</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-12 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69127b39ff32d7263774c48c/master/pass/Model-Behavior-As-Demand-for-AI-Surges-Networking-Tech-Takes-Center-Stage-Business.jpg" alt="The AI Boom Is Fueling a Need for Speed in Chip Networking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +160,20 @@
                 <span class="time">2025-11-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/" target="_blank">Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-12 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/664fc6949cae24ffd24a3189/master/pass/Science_What%E2%80%99sUp%20Northern_Lights_2X62E2E.jpg" alt="The Physics of the Northern Lights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-physics-of-the-northern-lights-aurora-borealis/" target="_blank">The Physics of the Northern Lights</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-12 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Machines-Frame-2026" target="_blank">Valve Announces New Steam Machine, Steam Controller &amp; Steam Frame</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-12 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-copilot-helps-build-the-github-platform/" target="_blank">How Copilot helps build the GitHub platform</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-12 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727885&w=600" alt="How to Map PostgreSQL JSON Data Types in Java Using asentinel-orm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/postgresql-json-mapping-java-asentinel-orm" target="_blank">How to Map PostgreSQL JSON Data Types in Java Using asentinel-orm</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-12 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0vzziqhcp62uapjxl80t.png" alt="How Git History Reveals Your Riskiest Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m" target="_blank">How Git History Reveals Your Riskiest Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-12 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-12 15:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/6cfc6f648397e3930091b47d6dfb583a.webp?fit=1920%2C1080&amp;quality=55&amp;ssl=1" alt="Todd Howard says Elder Scrolls 6 is &quot;still a long way off&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/12/todd-howard-says-elder-scrolls-6-is-still-a-long-way-off.html" target="_blank">Todd Howard says Elder Scrolls 6 is &quot;still a long way off&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-12 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/CrucialBX500-1280x853.jpg" alt="Crucial BX500 SSD Hits Record Low at $0.07 per GB, Making Storage Feel Practically Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +292,6 @@
                 <span class="time">2025-11-12 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/soundpeats-clip1-1280x853.jpg" alt="These Open Earbuds Might Be the Bose Competitor You’ve Been Waiting For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-open-earbuds-might-be-the-bose-competitor-youve-been-waiting-for-2000683785" target="_blank">These Open Earbuds Might Be the Bose Competitor You’ve Been Waiting For</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
