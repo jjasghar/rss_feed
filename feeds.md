@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 15:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-12 16:02:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5606911/cleto-escobedo-dead-jimmy-kimmel-band" target="_blank">Cleto Escobedo III, leader of Jimmy Kimmel&#x27;s house band, dies at 59</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66bb/live/84004750-bfd7-11f0-8456-eff94716b162.jpg" alt="I have never authorised attacks on ministers, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3vnyg1q503o?at_medium=RSS&at_campaign=rss" target="_blank">I have never authorised attacks on ministers, says PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-12 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983" target="_blank">House Democrats release new Epstein emails referencing Trump</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-12 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/as-the-dams-feeding-tehran-run-dry-iran-struggles-with-a-dire-water-crisis?traffic_source=rss" target="_blank">As the dams feeding Tehran run dry, Iran struggles with a dire water crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie" target="_blank">New Epstein emails appear to reveal more Trump ties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-12 13:30</span>
             </div>
         </div>
 </div>
@@ -241,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/09/PENNY2.jpg?fit=1600%2C900&amp;quality=60&amp;ssl=1" alt="U.S. mints final penny today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/12/u-s-mints-final-penny-today.html" target="_blank">U.S. mints final penny today</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-12 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/tab-a9-plus-1280x853.jpg" alt="Samsung Galaxy Tab A9+ Just Hit a Price Apple Would Never Offer, Selling Out Fast After 10K+ Units Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -285,15 +288,6 @@
                 <span class="time">2025-11-12 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1760TEASER1200-do-you-have-dementia.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: Do you have dementia?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/12/tom-the-dancing-bug-do-you-have-dementia.html" target="_blank">Tom the Dancing Bug: Do you have dementia?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-12 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
