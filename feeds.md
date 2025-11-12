@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 03:21:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-12 04:02:59 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 03:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 04:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/google-maps-border-western-sahara-morocco" target="_blank">Borderline ambiguity: How Google Maps removes disputed Western Sahara border for Morocco users</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-12 03:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/utter-pandemonium-witnesses-recall-chaos-after-islamabad-suicide-bombing?traffic_source=rss" target="_blank">‘Utter pandemonium’: Witnesses recall chaos after Islamabad suicide bombing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 03:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/supreme-court-extends-stay-order-requiring-administration-pay/story?id=127415450" target="_blank">Supreme Court extends stay of order requiring payment of full SNAP benefits</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-12 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251110-volunteer-loading-food-lr-0f4a1c.jpg" alt="Supreme Court extends temporary pause on $4 billion in SNAP payments for November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-extends-temporary-pause-4-billion-snap-payments-november-rcna243071" target="_blank">Supreme Court extends temporary pause on $4 billion in SNAP payments for November</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-11 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-cop30-brazil_7079710.jpg?20251111233807" alt="Dozens of protesters storm COP30 venue in Brazil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/protesters-armed-with-batons-storm-cop30-venue-in-brazil-13468866" target="_blank">Dozens of protesters storm COP30 venue in Brazil</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-11 22:40</span>
             </div>
         </div>
 </div>
@@ -177,6 +175,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/mission-center.jpg?resize=406%2C232&amp;ssl=1" alt="Linux’s Slickest System Monitor App Gets Updated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/mission-center-system-monitor-1-1-update" target="_blank">Linux’s Slickest System Monitor App Gets Updated</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-12 03:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/claude-haiku-4-5-release/en/headerimage/generatedHeaderImage-1762892118862.jpg" alt="New Claude Haiku 4.5 Model Promises Faster Performance at One-Third the Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/claude-haiku-4-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Claude Haiku 4.5 Model Promises Faster Performance at One-Third the Cost</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-12 03:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo27urokuua1pwlc9evf1.png" alt="Sridhar Vembu: Redefining Leadership in the Age of Noise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Google-Pixel-10-Google-DTs" target="_blank">Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-12 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-python-structure-viewer-a-clear-window-into-your-code-1gi9" target="_blank">The Python Structure Viewer: A Clear Window into Your Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-12 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/prepare-post-quantum-future-rhel-97" target="_blank">Prepare for a post-quantum future with RHEL 9.7</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-11-12 00:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 03:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 04:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
