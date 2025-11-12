@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 06:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-12 07:01:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97533/solar-storms-auroras" target="_blank">Space forecasters say severe solar storms could hit Earth and trigger auroras</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 06:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/utter-pandemonium-witnesses-recall-chaos-after-islamabad-suicide-bombing?traffic_source=rss" target="_blank">‘Utter pandemonium’: Witnesses recall chaos after Islamabad suicide bombing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-12 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/california-governor-gavin-newsom-slams-trump-absence-at-climate-conference?traffic_source=rss" target="_blank">California’s Gavin Newsom slams Trump absence at COP30 climate conference</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 02:12</span>
             </div>
         </div>
 </div>
@@ -180,6 +180,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nicanor_korir/robot-immitation-a-gentle-intro-30hc" target="_blank">Robot Immitation: A gentle Intro</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-12 06:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/abhivyaktii/the-pool-is-full-a-deep-dive-on-a-knexjs-bug-that-wasnt-a-database-problem-12pl" target="_blank">🧠 &quot;The Pool is Full&quot;: A Deep Dive on a Knex.js Bug That Wasn&#x27;t a Database Problem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-12 05:52</span>
@@ -210,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/solegaonkar/sridhar-vembu-redefining-leadership-in-the-age-of-noise-42n6" target="_blank">Sridhar Vembu: Redefining Leadership in the Age of Noise</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-12 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carlvilla/5-projets-blockchain-open-source-qui-faconnent-lavenir-du-web3-10p8" target="_blank">5 projets blockchain open source qui façonnent l’avenir du Web3</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-12 02:20</span>
             </div>
         </div>
 </div>
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
