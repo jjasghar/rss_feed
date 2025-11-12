@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 14:01:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-12 15:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 13 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5606348/immigrants-visas-health-conditions-trump-guidance" target="_blank">Immigrants with obesity, diabetes and other health problems may be denied visas</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/sudan-north-darfur-aid-malnutrition-rsf-el-fasher-tawila" target="_blank">North Darfur aid operations ‘on brink of collapse’ after RSF capture of El Fasher</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-12 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss" target="_blank">Israeli forces demolish more Palestinian homes in Masafer Yatta</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/epstein-maxwell_1762921437946_hpMain_4x3t_384.jpg" alt="House Democrats release new Epstein emails referencing Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,33 +103,6 @@
                 <span class="time">2025-11-12 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/solar-storms-hit-earth-what-are-they-where-can-northern-lights-be-seen?traffic_source=rss" target="_blank">Solar storms hit Earth: What are they; where can Northern Lights be seen?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97550/up-first-newsletter-house-shutdown-vote-air-traffic-control-uss-ford-google" target="_blank">Flight issues could linger after shutdown. And, Google&#x27;s lawsuit targeting scammers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-12 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/state-sanctioned-fuel-smuggling-cost-libya-20bn-over-three-years-report" target="_blank">State-sanctioned fuel smuggling cost Libya $20bn over three years – report</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-12 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,9 +112,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on" target="_blank">5 things I love about Amazon&amp;#8217;s new Echo Shows — and 3 things I don’t</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/818716/google-cameyo-chromeos-windows-app-virtualization" target="_blank">Google relaunches Cameyo to entice businesses from Windows to ChromeOS</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/" target="_blank">Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-12 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/664fc6949cae24ffd24a3189/master/pass/Science_What%E2%80%99sUp%20Northern_Lights_2X62E2E.jpg" alt="The Physics of the Northern Lights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-physics-of-the-northern-lights-aurora-borealis/" target="_blank">The Physics of the Northern Lights</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-12 13:38</span>
             </div>
         </div>
 <div class="story">
@@ -135,33 +162,6 @@
                 <span class="time">2025-11-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/" target="_blank">Microsoft-backed VEIR is bringing superconductors to data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/" target="_blank">Teradar raises $150M for a sensor it says beats lidar and radar</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6913afad20658e5ccc89c274/master/pass/111125-lighthouse-spam-messages.jpg" alt="This Is the Platform Google Claims Is Behind a &#x27;Staggering’ Scam Text Operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/" target="_blank">This Is the Platform Google Claims Is Behind a &#x27;Staggering’ Scam Text Operation</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-12 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +174,33 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/productivity-enjoyment/en/mediumimage/medium-1762424512722.jpg" alt="Presentation: Productivity Is Messing Around and Having Fun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/productivity-enjoyment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Productivity Is Messing Around and Having Fun</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-12 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yyrptvc9067mxb9aw6q.png" alt="Enclave Games Monthly Report: October 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/end3r/enclave-games-monthly-report-october-2025-12k3" target="_blank">Enclave Games Monthly Report: October 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-12 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-Enterprise-Linux-10.1" target="_blank">Red Hat&#x27;s RHEL 10.1 Released With systemd Soft-Reboots, Easier AI Accelerator Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-12 14:25</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +219,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/sudo-rs-issue-ubuntu/" target="_blank">Ubuntu&#x27;s Rust Transition Hits Another Bump as sudo-rs Security Vulnerabilities Show Up</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-12 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-hierarchical-skipping-2384" target="_blank">Unlocking AI Reasoning: The Power of Hierarchical Skipping</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-12 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735943&w=600" alt="AI Code Refactoring: Principles, Techniques, and Benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-code-refactoring-principles-techniques-and-benefits" target="_blank">AI Code Refactoring: Principles, Techniques, and Benefits</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tanelith/when-banks-go-crypto-the-quiet-revolution-of-finance-202g" target="_blank">⚙️ When Banks Go Crypto: The Quiet Revolution of Finance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-12 11:48</span>
             </div>
         </div>
 </div>
@@ -240,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/tab-a9-plus-1280x853.jpg" alt="Samsung Galaxy Tab A9+ Just Hit a Price Apple Would Never Offer, Selling Out Fast After 10K+ Units Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/snag-the-top-rated-11-inch-samsung-galaxy-tab-a9-for-under-150-with-this-deal-2000643098" target="_blank">Samsung Galaxy Tab A9+ Just Hit a Price Apple Would Never Offer, Selling Out Fast After 10K+ Units Sold</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-12 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GMDKVR9M38J165PNYY8RH/hero-image.jpg" alt="Use the &#x27;3-3-3&#x27; Method to Space Out Your Tasks and Get More Done" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/structure-your-day-with-the-3-3-3-method?utm_medium=RSS" target="_blank">Use the &#x27;3-3-3&#x27; Method to Space Out Your Tasks and Get More Done</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-12 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/soundpeats-clip1-1280x853.jpg" alt="These Open Earbuds Might Be the Bose Competitor You’ve Been Waiting For" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/12/tom-the-dancing-bug-do-you-have-dementia.html" target="_blank">Tom the Dancing Bug: Do you have dementia?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/millenium-falcon-set-lego-1280x853.jpg" alt="Amazon Quietly Drops LEGO Star Wars Sets, Millennium Falcon Now Going for Mere Cents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-quietly-drops-lego-star-wars-sets-millennium-falcon-now-going-for-mere-cents-2000643415" target="_blank">Amazon Quietly Drops LEGO Star Wars Sets, Millennium Falcon Now Going for Mere Cents</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-12 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Predator-Badlands-Elle-Fanning-Twentieth-Century-1280x853.jpg" alt="‘Predator: Badlands’ Star Elle Fanning Thinks Genre Movies Are as Award-Worthy as the Rest of Cinema" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/predator-badlands-star-elle-fanning-thinks-genre-movies-are-as-award-worthy-as-the-rest-of-cinema-2000684570" target="_blank">‘Predator: Badlands’ Star Elle Fanning Thinks Genre Movies Are as Award-Worthy as the Rest of Cinema</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-12 12:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
