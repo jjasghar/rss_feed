@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 00:04:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-12 01:29:30 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/russia-ukraine-war-list-of-key-events-day-1357?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,357</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 00:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251110-volunteer-loading-food-lr-0f4a1c.jpg" alt="Supreme Court extends temporary pause on $4 billion in SNAP payments for November" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/11/how-will-the-syrian-presidents-visit-to-the-white-house-impact-the-region?traffic_source=rss" target="_blank">How will the Syrian president’s visit to the White House impact the region?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-11 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/700a/live/4a055f00-bf45-11f0-8456-eff94716b162.jpg" alt="Starmer will fight attempts to replace him, allies say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0z2q2g2ro?at_medium=RSS&at_campaign=rss" target="_blank">Starmer will fight attempts to replace him, allies say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-11 20:56</span>
             </div>
         </div>
 </div>
@@ -177,6 +180,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Google-Pixel-10-Google-DTs" target="_blank">Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-12 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-python-structure-viewer-a-clear-window-into-your-code-1gi9" target="_blank">The Python Structure Viewer: A Clear Window into Your Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-12 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/prepare-post-quantum-future-rhel-97" target="_blank">Prepare for a post-quantum future with RHEL 9.7</a></span>
                 <span class="feed">Red Hat Blog</span>
@@ -186,37 +207,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa" target="_blank">I can build enterprise software but I can&#x27;t charge for it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-11 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/czmilo/2025-complete-guide-in-depth-analysis-of-ernie-45-vl-28b-a3b-thinking-multimodal-ai-model-1mib" target="_blank">2025 Complete Guide: In-Depth Analysis of ERNIE-4.5-VL-28B-A3B-Thinking Multimodal AI Model</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-11 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99" target="_blank">IT Asset Management-Vulnerabilities and Patches.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-11 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10" target="_blank">sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-11 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://emma.has-a.blog/articles/django-admin-deux-bringing-admin-back-to-django.html" target="_blank">Django Admin Deux: Bringing Django&#x27;s Admin Back to Django</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-11 22:30</span>
             </div>
         </div>
 </div>
@@ -238,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/GettyImages-2204146985-1280x850.jpg" alt="As Spyware Companies Get Chummy with White House, Apple and WhatsApp Say They’ll Protect Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/as-spyware-companies-get-chummy-with-white-house-apple-and-whatsapp-say-theyll-protect-your-phone-2000684428" target="_blank">As Spyware Companies Get Chummy with White House, Apple and WhatsApp Say They’ll Protect Your Phone</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-12 00:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K8WR2T6V0DRRYCJRESREGCFK/hero-image.png" alt="You Can Get This Lenovo IdeaPad 5 Touch on Sale for $600 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +295,6 @@
                 <span class="time">2025-11-11 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Frank-Frazetta-Conan-the-Berserker-Cover-Painting-Original-Art.jpg?fit=971%2C1200&amp;quality=60&amp;ssl=1" alt="Metallica&#x27;s Kirk Hammett selling $10M Frank Frazetta Conan painting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/11/metallicas-kirk-hammett-selling-10m-frank-frazetta-conan-painting.html" target="_blank">Metallica&#x27;s Kirk Hammett selling $10M Frank Frazetta Conan painting</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-11 20:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
