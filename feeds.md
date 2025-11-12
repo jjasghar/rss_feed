@@ -1,36 +1,45 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 08:02:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-12 09:02:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +127,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/" target="_blank">The global race for the AI app layer is still on</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-12 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/" target="_blank">Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-12 02:52</span>
@@ -150,15 +168,6 @@
                 <span class="time">2025-11-11 20:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/" target="_blank">SoftBank’s Nvidia sale rattles market, raises questions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-11 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,12 +183,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/articles/scaling-reverse-proxies/en/headerimage/scaling-reverse-proxies-header-1762508754668.jpg" alt="Article: When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/scaling-reverse-proxies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-12 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models" target="_blank">Yann LeCun to depart Meta and launch AI startup focused on &#x27;world models&#x27;</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-12 07:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/self-hosting-starting-projects/" target="_blank">The Self-Hosting Starter Pack: 5 Simple Tools I Recommend To Get Started With Your Homelab</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-12 07:21</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +225,6 @@
                 <span class="title"><a href="https://dev.to/abhivyaktii/the-pool-is-full-a-deep-dive-on-a-knexjs-bug-that-wasnt-a-database-problem-12pl" target="_blank">🧠 &quot;The Pool is Full&quot;: A Deep Dive on a Knex.js Bug That Wasn&#x27;t a Database Problem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-12 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/mission-center.jpg?resize=406%2C232&amp;ssl=1" alt="Linux’s Slickest System Monitor App Gets Updated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/mission-center-system-monitor-1-1-update" target="_blank">Linux’s Slickest System Monitor App Gets Updated</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-12 03:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/claude-haiku-4-5-release/en/headerimage/generatedHeaderImage-1762892118862.jpg" alt="New Claude Haiku 4.5 Model Promises Faster Performance at One-Third the Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/claude-haiku-4-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Claude Haiku 4.5 Model Promises Faster Performance at One-Third the Cost</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-12 03:15</span>
             </div>
         </div>
 </div>
@@ -319,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
