@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 02:30:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-12 03:21:04 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/12/california-governor-gavin-newsom-slams-trump-absence-at-climate-conference?traffic_source=rss" target="_blank">California’s Gavin Newsom slams Trump absence at COP30 climate conference</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 02:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/11/nx-s1-5605538/air-traffic-control-flights-controllers-government-shutdown" target="_blank">Why flight disruptions could linger even after the government shutdown ends</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 01:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +103,20 @@
                 <span class="time">2025-11-11 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251023123455" alt="Protesters armed with batons storm COP30 venue in Brazil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/protesters-armed-with-batons-storm-cop30-venue-in-brazil-13468866" target="_blank">Protesters armed with batons storm COP30 venue in Brazil</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-11 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/11/venezuela-prepares-massive-deployment-of-forces-in-case-of-us-attack?traffic_source=rss" target="_blank">Venezuela prepares ‘massive deployment’ of forces in case of US attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-11 22:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/" target="_blank">Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-12 02:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/calc_hero_1-500x500.jpg" alt="The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +162,6 @@
                 <span class="time">2025-11-11 19:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/reddit-s3xy-time-500x500.jpg" alt="Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/reddit-mod-jailed-for-sharing-movie-sex-scenes-in-rare-moral-rights-verdict/" target="_blank">Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-11 19:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +174,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/" target="_blank">2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo27urokuua1pwlc9evf1.png" alt="Sridhar Vembu: Redefining Leadership in the Age of Noise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/solegaonkar/sridhar-vembu-redefining-leadership-in-the-age-of-noise-42n6" target="_blank">Sridhar Vembu: Redefining Leadership in the Age of Noise</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-12 03:07</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +219,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/prepare-post-quantum-future-rhel-97" target="_blank">Prepare for a post-quantum future with RHEL 9.7</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-11-12 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa" target="_blank">I can build enterprise software but I can&#x27;t charge for it</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-11 23:58</span>
             </div>
         </div>
 </div>
@@ -271,21 +277,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Opusonix-Pro-Lifetime-Subscription.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Manage your music projects without the chaos thanks to this $50 tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/11/manage-your-music-projects-without-the-chaos-thanks-to-this-50-tool.html" target="_blank">Manage your music projects without the chaos thanks to this $50 tool</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-11 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/sabertooth-cat-1280x853.jpg" alt="Official Trailer for ‘Prehistoric Planet: Ice Age’ Promises Survival, Snow—and Giant Teeth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/official-trailer-for-prehistoric-planet-ice-age-promises-survival-snow-and-giant-teeth-2000684465" target="_blank">Official Trailer for ‘Prehistoric Planet: Ice Age’ Promises Survival, Snow—and Giant Teeth</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-11 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/russia-bot-1280x720.jpg" alt="High-Tech Russian Robot Walks On Stage To Rocky Theme Song And Immediately Falls Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/high-tech-russian-robot-rocky-theme-song-falls-over-video-2000643038" target="_blank">High-Tech Russian Robot Walks On Stage To Rocky Theme Song And Immediately Falls Over</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-11 21:42</span>
             </div>
         </div>
 </div>
@@ -311,22 +317,13 @@
                 <span class="time">2025-11-11 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5698.png" alt="A New Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5698" target="_blank">A New Record</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-11 03:06</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
