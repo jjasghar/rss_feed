@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 19:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-12 20:01:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, November 12, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97572/chess-federation-vladimir-kramnik-daniel-naroditsky-harassment-cheating-death" target="_blank">The chess federation accuses a former champion of harassing a rival who died</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +102,29 @@
                 <span class="time">2025-11-12 15:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-07/240711-jeffrey-epstein-donald-trump-vl-240p-6ff937.jpg" alt="Jeffrey Epstein wrote Trump &#x27;knew about the girls&#x27;, referencing Mar-a-Lago, in newly released emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/jeffrey-epstein-wrote-trump-knew-girls-referenced-mar-lago-newly-relea-rcna243422" target="_blank">Jeffrey Epstein wrote Trump &#x27;knew about the girls&#x27;, referencing Mar-a-Lago, in newly released emails</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-12 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/" target="_blank">ElevenLabs strike deals with celebs to create AI audio</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-12 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison" target="_blank">How the Steam Frame compares to other VR headsets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-12 19:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69138b24895cf8d67bbadf97/master/pass/AI-Lab-Claude-Hacks-Robot-Dog-Business.jpg" alt="Anthropic’s Claude Takes Control of a Robot Dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +161,20 @@
                 <span class="time">2025-11-12 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on" target="_blank">5 things I love about Amazon&amp;#8217;s new Echo Shows — and 3 things I don’t</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-12 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/818716/google-cameyo-chromeos-windows-app-virtualization" target="_blank">Google relaunches Cameyo to entice businesses from Windows to ChromeOS</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18744655&w=600" alt="The Terraform State Locking Migration You Need to Know About: Moving Beyond DynamoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/terraform-state-locking-migration-dynamodb" target="_blank">The Terraform State Locking Migration You Need to Know About: Moving Beyond DynamoDB</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-12 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +220,6 @@
                 <span class="time">2025-11-12 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727885&w=600" alt="How to Map PostgreSQL JSON Data Types in Java Using asentinel-orm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/postgresql-json-mapping-java-asentinel-orm" target="_blank">How to Map PostgreSQL JSON Data Types in Java Using asentinel-orm</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-12 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/shutterstock_2431928561-e1747942943328.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Fasten your seatbelts, Nancy Mace is in airport mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/12/fasten-your-seatbelts-nancy-mace-is-in-airport-mode.html" target="_blank">Fasten your seatbelts, Nancy Mace is in airport mode</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-12 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/scaring-seagulls-1280x853.jpg" alt="Yes, You Should Yell at Seagulls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/yes-you-should-yell-at-seagulls-2000684978" target="_blank">Yes, You Should Yell at Seagulls</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-12 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9WM2SNQ1TK7EB34QP4JTP7K/hero-image.png" alt="This New Pocketable E-Reader Is Also a Secret Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-viwoods-aipaper-e-reader-can-make-and-take-phone-calls?utm_medium=RSS" target="_blank">This New Pocketable E-Reader Is Also a Secret Phone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-12 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/11/118b4825e679e993bfabee1b560ccd65.jpg" alt="Valve’s Steam Machine Could Cost More Than A PS5 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-machine-valve-console-price-ps5-pro-2000643554" target="_blank">Valve’s Steam Machine Could Cost More Than A PS5 Pro</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-12 19:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/6cfc6f648397e3930091b47d6dfb583a.webp?fit=1920%2C1080&amp;quality=55&amp;ssl=1" alt="Todd Howard says Elder Scrolls 6 is &quot;still a long way off&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -254,42 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/crucial-bx500-internal-ssd-drops-by-more-than-20-ahead-of-black-friday-2000643470" target="_blank">Crucial BX500 SSD Hits Record Low at $0.07 per GB, Making Storage Feel Practically Free</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-12 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/New-Glenn-1280x853.jpg" alt="The Feds Couldn’t Stop New Glenn From Launching, But This Solar Storm Sure Did" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-feds-couldnt-stop-new-glenn-from-launching-but-this-solar-storm-sure-did-2000684845" target="_blank">The Feds Couldn’t Stop New Glenn From Launching, But This Solar Storm Sure Did</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-12 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/09/PENNY2.jpg?fit=1600%2C900&amp;quality=60&amp;ssl=1" alt="U.S. mints final penny today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/12/u-s-mints-final-penny-today.html" target="_blank">U.S. mints final penny today</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-12 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/tab-a9-plus-1280x853.jpg" alt="Samsung Galaxy Tab A9+ Just Hit a Price Apple Would Never Offer, Selling Out Fast After 10K+ Units Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/snag-the-top-rated-11-inch-samsung-galaxy-tab-a9-for-under-150-with-this-deal-2000643098" target="_blank">Samsung Galaxy Tab A9+ Just Hit a Price Apple Would Never Offer, Selling Out Fast After 10K+ Units Sold</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-12 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GMDKVR9M38J165PNYY8RH/hero-image.jpg" alt="Use the &#x27;3-3-3&#x27; Method to Space Out Your Tasks and Get More Done" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/structure-your-day-with-the-3-3-3-method?utm_medium=RSS" target="_blank">Use the &#x27;3-3-3&#x27; Method to Space Out Your Tasks and Get More Done</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-12 14:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
