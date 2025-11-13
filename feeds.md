@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 10:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 11:01:40 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/13/nx-s1-5592335/we-need-to-get-out-of-here-trumps-immigration-crackdown-is-quietly-reshaping-where-immigrants-live-in-america" target="_blank">&#x27;We need to get out of here&#x27;: Trump&#x27;s immigration crackdown is quietly reshaping where immigrants live in America</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-13 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b52/live/0071be50-bfdc-11f0-bbea-2df62eb90585.jpg" alt="Council visited wrong home before Sara Sharif&#x27;s murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmx0ge18d8o?at_medium=RSS&at_campaign=rss" target="_blank">Council visited wrong home before Sara Sharif&#x27;s murder</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-13 10:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates-trump-blames-democrats-massive/?id=127478903" target="_blank">Trump admin live updates: Trump blames Democrats for &#x27;massive harm&#x27; of shutdown</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-13 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/australias-first-treaty-with-aboriginal-people-signed-in-state-of-victoria?traffic_source=rss" target="_blank">Australia’s first treaty with Aboriginal people signed in state of Victoria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 07:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/as-gen-z-rage-across-south-asia-indias-youngest-state-pins-hopes-on-polls?traffic_source=rss" target="_blank">Bihar election: Can Modi buck Gen Z rage in India’s youngest state?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 06:50</span>
             </div>
         </div>
 </div>
@@ -162,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion" target="_blank">Checkout.com hacked, refuses ransom payment, donates to security labs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-13 09:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on" target="_blank">Canonical expands total coverage for Ubuntu LTS releases to 15 years with Legacy add-on</a></span>
                 <span class="feed">Ubuntu blog</span>
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-46/" target="_blank">FOSS Weekly #25.46: sudo-rs Issues, Kaspersky on Linux, Flathub Troubles, Homelab Starter and More Linux Stuff</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-13 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc7q2etphxowom7a2433f.png" alt="🧩Scenario #15 — Horizontal Pod Autoscaler (HPA) in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/latchudevops/scenario-15-horizontal-pod-autoscaler-hpa-in-kubernetes-5eo1" target="_blank">🧩Scenario #15 — Horizontal Pod Autoscaler (HPA) in Kubernetes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 03:42</span>
             </div>
         </div>
 </div>
@@ -323,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
