@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 14:01:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-13 15:02:14 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32e/live/03c49b20-c092-11f0-ae46-bd64331f0fd4.jpg" alt="Epstein email says Andrew had photo taken with Virginia Giuffre" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cglgj08erywo?at_medium=RSS&at_campaign=rss" target="_blank">Epstein email says Andrew had photo taken with Virginia Giuffre</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-13 12:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -90,20 +98,38 @@
                 <span class="time">2025-11-13 11:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/13/nx-s1-5592335/we-need-to-get-out-of-here-trumps-immigration-crackdown-is-quietly-reshaping-where-immigrants-live-in-america" target="_blank">&#x27;We need to get out of here&#x27;: Trump&#x27;s immigration crackdown is quietly reshaping where immigrants live in America</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-13 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/13/teen-founders-raise-6m-to-reinvent-pesticides-using-ai-and-convince-paul-graham-to-join-in/" target="_blank">Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691561195f41d2c34fdd22f1/master/pass/DSC_6660.jpg" alt="OnePlus 15 Review: A Phone With Two-Day Battery Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/oneplus-15/" target="_blank">OnePlus 15 Review: A Phone With Two-Day Battery Life</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-13 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/AI-Mode-500x500.png" alt="Google is rolling out conversational shopping—and ads—in AI Mode search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/11/google-rolling-out-conversational-shopping-and-ads-in-ai-mode-search/" target="_blank">Google is rolling out conversational shopping—and ads—in AI Mode search</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +157,29 @@
                 <span class="time">2025-11-13 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/819835/google-android-sideloading-experienced-users-developer-verification" target="_blank">Google will let ‘experienced users’ keep sideloading Android apps</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-13 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/12/willows-voice-keyboard-lets-you-type-across-all-your-ios-apps-and-actually-edit-what-you-said/" target="_blank">Willow’s voice keyboard lets you type across all your iOS apps — and actually edit what you said</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Code: 50% Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exclusive-kitchenaid-promo-code/" target="_blank">KitchenAid Promo Code: 50% Off in November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-13 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iamdevbox/optimize-your-forgerock-idm-mysql-repository-with-these-performance-tuning-best-practices-3e61" target="_blank">Optimize Your ForgeRock IDM MySQL Repository with these Performance Tuning Best Practices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727955&w=600" alt="How 8x8 Saved and Boosted Performance 30% by Adopting Ampere®" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/8x8-ampere-arm64-boosts-video-performance" target="_blank">How 8x8 Saved and Boosted Performance 30% by Adopting Ampere®</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,6 +199,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure" target="_blank">Britain&#x27;s railway privatization was an abject failure</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-13 13:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567537&w=600" alt="ANTLR-Powered Query Engine and Floorplan Parser for Real Estate Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -190,38 +216,29 @@
                 <span class="time">2025-11-13 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/nitrux-5-release/" target="_blank">Nitrux 5.0.0 Released: A &#x27;New Beginning&#x27; That&#x27;s Not for Everyone (By Design)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-13 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740159&w=600" alt="Building Fault-Tolerant Applications with Temporal Workflow Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-fault-tolerant-applications-with-temporal" target="_blank">Building Fault-Tolerant Applications with Temporal Workflow Engine</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tlorent/not-a-single-customer-cares-if-you-chose-vue-or-react-249j" target="_blank">Not a Single Customer Cares If You Chose Vue or React</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/1-1-1280x720.jpg" alt="Red Dead Redemption Looks Like It’s Coming To Modern Consoles To Fill The Void Left By GTA 6′s Delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/red-dead-redemption-remaster-ps5-xbox-series-switch-2-2000644016" target="_blank">Red Dead Redemption Looks Like It’s Coming To Modern Consoles To Fill The Void Left By GTA 6′s Delay</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-13 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/hemp.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Congress kills America&#x27;s $2.8 billion hemp industry overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/13/congress-kills-americas-2-8-billion-hemp-industry-overnight.html" target="_blank">Congress kills America&#x27;s $2.8 billion hemp industry overnight</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-13 14:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/monarch-season-2-king-kong-1280x853.jpg" alt="‘Monarch’ Season 2 Is Back Next Year, and Bringing King Kong With It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +273,6 @@
                 <span class="title"><a href="https://gizmodo.com/jon-watts-would-like-to-remind-you-he-made-a-star-wars-show-this-year-and-would-like-to-make-more-2000685253" target="_blank">Jon Watts Would Like to Remind You He Made a ‘Star Wars’ Show This Year, and Would Like to Make More</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/nyt-1280x853.jpg" alt="The New York Times-OpenAI Legal Fight Is Getting Mean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-york-times-openai-legal-fight-is-getting-mean-2000684610" target="_blank">The New York Times-OpenAI Legal Fight Is Getting Mean</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Horizon-1.jpg" alt="Sony Reveals Secret Horizon MMO That Looks Like Monster Hunter But Isn’t Coming To PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/horizon-steel-frontiers-mmo-ps5-trailer-2000643663" target="_blank">Sony Reveals Secret Horizon MMO That Looks Like Monster Hunter But Isn’t Coming To PS5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-13 05:29</span>
             </div>
         </div>
 </div>
@@ -313,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
