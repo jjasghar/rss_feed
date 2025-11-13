@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-12 23:01:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-13 00:04:46 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, November 12, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5561978/black-police-worry-federal-agents-drive-a-wedge-into-communities" target="_blank">Some Black police officials worry more federal agents will breed community mistrust</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-12 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capitol-02-ap-jef-251112_1762954558939_hpMain_4x3t_384.jpg" alt="Government shutdown updates: House begins debate on funding bill before vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: House begins debate on funding bill before vote</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-12 23:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/longform/2025/11/12/how-trump-era-funding-cuts-endanger-efforts-to-empower-haitis-farmers?traffic_source=rss" target="_blank">How Trump-era funding cuts endanger efforts to empower Haiti’s farmers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-12 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/12/g-s1-97487/malaria-drug-new" target="_blank">New malaria drug could be a life-saver as the standard drug shows signs of weakness</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-12 21:59</span>
@@ -65,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-volodymyr-zelenskyy_7080505.jpg?20251112210402" alt="Ukraine ministers toppled amid embezzlement and kickbacks scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6661/live/6cd48c80-bfff-11f0-8456-eff94716b162.jpg" alt="Mandelson still in contact with Epstein in 2016, emails show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ukraine-ministers-toppled-amid-embezzlement-and-kickbacks-scandal-13469290" target="_blank">Ukraine ministers toppled amid embezzlement and kickbacks scandal</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-12 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/12/french-algerian-writer-boualem-sansal-pardoned-and-to-be-released-from-prison" target="_blank">French-Algerian writer Boualem Sansal pardoned and to be released from prison</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-12 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97572/chess-federation-vladimir-kramnik-daniel-naroditsky-harassment-cheating-death" target="_blank">The chess federation accuses a former champion of harassing a rival who died</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-12 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/12/toyota-opens-us-battery-plant-confirms-10bn-investment-plan?traffic_source=rss" target="_blank">Toyota opens US battery plant, confirms $10bn investment plan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 17:52</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0jdl8wzvnvo?at_medium=RSS&at_campaign=rss" target="_blank">Mandelson still in contact with Epstein in 2016, emails show</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-12 20:25</span>
             </div>
         </div>
 </div>
@@ -105,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-500x500.jpg" alt="OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/" target="_blank">OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-12 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop" target="_blank">The best budget robot vacuums</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-12 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +160,20 @@
                 <span class="time">2025-11-12 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison" target="_blank">How the Steam Frame compares to other VR headsets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-12 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69138b24895cf8d67bbadf97/master/pass/AI-Lab-Claude-Hacks-Robot-Dog-Business.jpg" alt="Anthropic’s Claude Takes Control of a Robot Dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-claude-takes-control-robot-dog/" target="_blank">Anthropic’s Claude Takes Control of a Robot Dog</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-12 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-47mc" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 00:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flqek4rva5d7fzlv1xwim.png" alt="2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="time">2025-11-12 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Machines-Frame-2026" target="_blank">Valve Announces New Steam Machine, Steam Controller &amp; Steam Frame</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-12 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/smokestacks-1280x853.jpg" alt="Congrats, Humanity: We’re on Track for Record CO2 Emissions—Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/congrats-humanity-were-on-track-for-record-co2-emissions-again-2000685164" target="_blank">Congrats, Humanity: We’re on Track for Record CO2 Emissions—Again</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-13 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9WPJDQX8J955Y05R8X3TVVB/hero-image.png" alt="This Rugged and Punchy Portable JBL Speaker Is $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-charge-6-deal?utm_medium=RSS" target="_blank">This Rugged and Punchy Portable JBL Speaker Is $70 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-12 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/dispatch-1280x720.jpg" alt="Devs Behind This Year’s Big Superhero Game Regret Cutting Sex Scenes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/12/trumps-fake-war-hits-a-real-wall-in-oregon.html" target="_blank">Trump&#x27;s fake war hits a real wall in Oregon</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-12 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/shutterstock_2431928561-e1747942943328.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Fasten your seatbelts, Nancy Mace is in airport mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/12/fasten-your-seatbelts-nancy-mace-is-in-airport-mode.html" target="_blank">Fasten your seatbelts, Nancy Mace is in airport mode</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-12 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/scaring-seagulls-1280x853.jpg" alt="Yes, You Should Yell at Seagulls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/yes-you-should-yell-at-seagulls-2000684978" target="_blank">Yes, You Should Yell at Seagulls</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-12 19:50</span>
             </div>
         </div>
 </div>
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
