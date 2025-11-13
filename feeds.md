@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 17:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 18:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23ea/live/2161d420-c0ad-11f0-8456-eff94716b162.jpg" alt="Starmer&#x27;s chief of staff McSweeney not leaving role over briefing war, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn8vn4vv87xo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer&#x27;s chief of staff McSweeney not leaving role over briefing war, BBC told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-13 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +100,29 @@
                 <span class="time">2025-11-13 12:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/13/g-s1-97432/world-kindness-day-kind-compassion-empathy" target="_blank">If you&#x27;re going to be kind to another human, today is the day to do it!</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-13 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/" target="_blank">In defense of Apple’s $230 iPhone sock</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser" target="_blank">Mozilla announces an AI ‘window’ for Firefox</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-13 17:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +159,56 @@
                 <span class="time">2025-11-13 15:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/13/teen-founders-raise-6m-to-reinvent-pesticides-using-ai-and-convince-paul-graham-to-join-in/" target="_blank">Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691561195f41d2c34fdd22f1/master/pass/DSC_6660.jpg" alt="OnePlus 15 Review: A Phone With Two-Day Battery Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/oneplus-15/" target="_blank">OnePlus 15 Review: A Phone With Two-Day Battery Life</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-13 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/066f4d51-bc99-457f-be4a-face79257dd9_420x300.png" alt="The Pulse #153: Is Microsoft too early to agentic OS – like with smartphones?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-153" target="_blank">The Pulse #153: Is Microsoft too early to agentic OS – like with smartphones?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-11-13 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/googleworkspace/create-custom-steps-for-workspace-flows-2m4o" target="_blank">Create custom steps for Workspace Flows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-kubernetes-officially-included-in-sylva-1-5" target="_blank">Canonical Kubernetes officially included in Sylva 1.5</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-11-13 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-october-2025/" target="_blank">GitHub Availability Report: October 2025</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-13 17:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18748447&w=600" alt="When Memory Overflows: Too Many ApplicationContexts in Spring Integration Tests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/spring-integration-tests-many-applicationcontexts" target="_blank">When Memory Overflows: Too Many ApplicationContexts in Spring Integration Tests</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-13 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,51 +216,6 @@
                 <span class="title"><a href="https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategies-that-actually-work-fpm" target="_blank">AI Content Marketing: 2025 Strategies That Actually Work</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-13 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hans-Joins-Qualcomm" target="_blank">Possible Setback For Linux x86_64 Laptops: Prominent Developer Joins Qualcomm</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-13 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Miracle-WM Adds Accessibility, Touchpad &amp; Animation Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/miracle-wm-adds-accessibility-touchpad-configuration" target="_blank">Miracle-WM Adds Accessibility, Touchpad &amp; Animation Options</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-13 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dixitgurv/spring-shedlock-53f1" target="_blank">Spring ShedLock</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-azure-hbv2-hbv5" target="_blank">The Incredible Evolution Of AMD EPYC HPC Performance Shown In The Azure Cloud</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-13 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18747840&w=600" alt="DocumentDB Goes Cloud-Native: Introducing the DocumentDB Kubernetes Operator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/documentdb-kubernetes-operator-cloud-native" target="_blank">DocumentDB Goes Cloud-Native: Introducing the DocumentDB Kubernetes Operator</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-13 15:00</span>
             </div>
         </div>
 </div>
@@ -245,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Natasha-Lyonne-Poker-Face-2-1280x853.jpg" alt="‘Poker Face’ Is Dead, but Rian Johnson Has a Wild Plan to Revive It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/poker-face-season-3-peacock-peter-dinklage-2000685525" target="_blank">‘Poker Face’ Is Dead, but Rian Johnson Has a Wild Plan to Revive It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-13 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9881Q5QYKJ9RPH9N2WWY4PH/hero-image.jpg" alt="All the New Features Coming to iOS 26.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/new-features-coming-to-ios-262?utm_medium=RSS" target="_blank">All the New Features Coming to iOS 26.2</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-13 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2592900251-e1763052249588.jpg?fit=768%2C510&amp;quality=60&amp;ssl=1" alt="Israel finally notices its settler mobs are burning down the West Bank" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +300,6 @@
                 <span class="time">2025-11-13 14:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/hemp.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Congress kills America&#x27;s $2.8 billion hemp industry overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/13/congress-kills-americas-2-8-billion-hemp-industry-overnight.html" target="_blank">Congress kills America&#x27;s $2.8 billion hemp industry overnight</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-13 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/monarch-season-2-king-kong-1280x853.jpg" alt="‘Monarch’ Season 2 Is Back Next Year, and Bringing King Kong With It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/monarch-season-2-trailer-apple-tv-king-kong-godzilla-2000685158" target="_blank">‘Monarch’ Season 2 Is Back Next Year, and Bringing King Kong With It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-13 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
