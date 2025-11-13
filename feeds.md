@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 13:11:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 14:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/13/sudans-civilians-deserve-more-than-survival?traffic_source=rss" target="_blank">Sudan’s civilians deserve more than survival</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-13 13:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,20 @@
                 <span class="time">2025-11-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b52/live/0071be50-bfdc-11f0-bbea-2df62eb90585.jpg" alt="Council visited wrong home before Sara Sharif&#x27;s murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmx0ge18d8o?at_medium=RSS&at_campaign=rss" target="_blank">Council visited wrong home before Sara Sharif&#x27;s murder</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-13 10:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/" target="_blank">Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/682fa6e357556e17fa71431f/master/pass/The%20Best%20Webcams%20for%20Looking%20Brighter%20and%20Better.png" alt="8 Best Webcams (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +158,29 @@
                 <span class="time">2025-11-13 06:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Visible Promo Code: Save $20 in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/visible-promo-code/" target="_blank">Visible Promo Code: Save $20 in November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-13 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-CUDA-13.0-Update-2" target="_blank">NVIDIA CUDA 13.0 U2 Brings DGX Spark Performance Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-13 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sylwia-lask/its-not-the-product-owner-its-you-we-dont-have-time-for-refactoring-is-the-most-expensive-adp" target="_blank">It’s Not the Product Owner - It’s You. “We Don’t Have Time for Refactoring” Is the Most Expensive Lie in Tech</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567537&w=600" alt="ANTLR-Powered Query Engine and Floorplan Parser for Real Estate Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,29 +217,29 @@
                 <span class="time">2025-11-13 11:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/sociotechnical-design-DDD/en/headerimage/generatedHeaderImage-1762754043223.jpg" alt="How to do Sociotechnical Design Using Domain-Driven Design and Change Smuggling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/sociotechnical-design-DDD/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How to do Sociotechnical Design Using Domain-Driven Design and Change Smuggling</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-13 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion" target="_blank">Checkout.com hacked, refuses ransom payment, donates to security labs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-13 09:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/monarch-season-2-king-kong-1280x853.jpg" alt="‘Monarch’ Season 2 Is Back Next Year, and Bringing King Kong With It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/monarch-season-2-trailer-apple-tv-king-kong-godzilla-2000685158" target="_blank">‘Monarch’ Season 2 Is Back Next Year, and Bringing King Kong With It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/hp-laptop-2-1280x853.jpg" alt="Forget MacBook, HP Drops 17.3″ Windows 11 Pro Laptop by 71% Just Before the Holiday Rush (32GB RAM, 1TB SSD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forget-macbook-hp-drops-17-3-windows-11-pro-laptop-by-71-just-before-the-holiday-rush-32gb-ram-1tb-ssd-2000643579" target="_blank">Forget MacBook, HP Drops 17.3″ Windows 11 Pro Laptop by 71% Just Before the Holiday Rush (32GB RAM, 1TB SSD)</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-13 13:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/fallout-4-anniversary-edition-1280x720.jpg" alt="Bethesda Promises Patches To Fix The Hot Mess Of Fallout 4‘s Anniversary Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +274,6 @@
                 <span class="title"><a href="https://kotaku.com/horizon-steel-frontiers-mmo-ps5-trailer-2000643663" target="_blank">Sony Reveals Secret Horizon MMO That Looks Like Monster Hunter But Isn’t Coming To PS5</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-13 05:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2483754173-1280x851.jpg" alt="The Government Shutdown Is Finally Over, But Flight Disruptions Will Continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-government-shutdown-is-finally-over-but-flight-disruptions-will-continue-2000684865" target="_blank">The Government Shutdown Is Finally Over, But Flight Disruptions Will Continue</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-13 02:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/galaxy-buds-3-pro-with-ai-features-are-going-for-pennies-amazon-sets-a-new-all-time-low-2000643596" target="_blank">Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-13 00:25</span>
             </div>
         </div>
 </div>
@@ -313,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
