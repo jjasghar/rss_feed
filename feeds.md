@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 20:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 21:01:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/535a/live/63a05d40-c0ab-11f0-ae46-bd64331f0fd4.jpg" alt="BBC apologises to Trump over Panorama edit but refuses to pay compensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss" target="_blank">BBC apologises to Trump over Panorama edit but refuses to pay compensation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-13 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +94,6 @@
                 <span class="time">2025-11-13 15:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/13/nx-s1-5607812/government-shutdown-ends-updates" target="_blank">The government shutdown is over, but not everything is back to normal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-13 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +103,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr" target="_blank">Valve wants Half-Life: Alyx to work well standalone on Steam Frame</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-13 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai" target="_blank">Anthropic details how it measures Claude&amp;#8217;s wokeness</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-13 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/aliensTOP-500x500-1762779365.jpg" alt="What if the aliens come and we just can’t communicate?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/what-if-the-aliens-come-and-we-just-cant-communicate/" target="_blank">What if the aliens come and we just can’t communicate?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-13 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/13/uber-quietly-pilots-in-app-video-recording-for-drivers-in-india/" target="_blank">Uber quietly pilots in-app video recording for drivers in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 19:11</span>
             </div>
         </div>
 <div class="story">
@@ -131,38 +153,29 @@
                 <span class="time">2025-11-13 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser" target="_blank">Mozilla announces an AI ‘window’ for Firefox</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-13 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/819371/consumer-protection-groups-amicus-brief-ftc-slaughter-v-trump" target="_blank">Restore fired FTC commissioner, consumer protection groups tell Supreme Court</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-13 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/13/facebook-marketplace-gets-new-collaborative-and-social-features-meta-ai-integrations/" target="_blank">Facebook Marketplace gets new collaborative and social features, Meta AI integrations</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohammedbencheikh/introducing-router-kit-a-lightweight-eco-friendly-react-router-for-simple-routing-needs-1aaj" target="_blank">🚀 Introducing Router-Kit a lightweight, eco-friendly React router for simple routing needs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18748518&w=600" alt="Databricks vs. Snowflake: Complete Architecture Mapping for Enterprise AI and Big Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/big-data-and-ai-architecture-comparing-databricks" target="_blank">Databricks vs. Snowflake: Complete Architecture Mapping for Enterprise AI and Big Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-13 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +210,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-153" target="_blank">The Pulse #153: Is Microsoft too early to agentic OS – like with smartphones?</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-11-13 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/googleworkspace/create-custom-steps-for-workspace-flows-2m4o" target="_blank">Create custom steps for Workspace Flows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://minimaxir.com/2025/11/nano-banana-prompts/" target="_blank">Nano Banana can be prompt engineered for nuanced AI image generation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-13 17:39</span>
             </div>
         </div>
 </div>
@@ -336,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
