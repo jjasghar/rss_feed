@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 16:01:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-13 17:02:08 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/819371/consumer-protection-groups-amicus-brief-ftc-slaughter-v-trump" target="_blank">Restore fired FTC commissioner, consumer protection groups tell Supreme Court</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-13 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/13/facebook-marketplace-gets-new-collaborative-and-social-features-meta-ai-integrations/" target="_blank">Facebook Marketplace gets new collaborative and social features, Meta AI integrations</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1608040724-500x500.jpg" alt="Waymo to roll out driverless taxis on highways in three US cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -143,29 +158,38 @@
                 <span class="time">2025-11-13 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/AI-Mode-500x500.png" alt="Google is rolling out conversational shopping—and ads—in AI Mode search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/11/google-rolling-out-conversational-shopping-and-ads-in-ai-mode-search/" target="_blank">Google is rolling out conversational shopping—and ads—in AI Mode search</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/" target="_blank">Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategies-that-actually-work-fpm" target="_blank">AI Content Marketing: 2025 Strategies That Actually Work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hans-Joins-Qualcomm" target="_blank">Possible Setback For Linux x86_64 Laptops: Prominent Developer Joins Qualcomm</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-13 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Miracle-WM Adds Accessibility, Touchpad &amp; Animation Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/miracle-wm-adds-accessibility-touchpad-configuration" target="_blank">Miracle-WM Adds Accessibility, Touchpad &amp; Animation Options</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-13 16:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +217,6 @@
                 <span class="time">2025-11-13 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iamdevbox/optimize-your-forgerock-idm-mysql-repository-with-these-performance-tuning-best-practices-3e61" target="_blank">Optimize Your ForgeRock IDM MySQL Repository with these Performance Tuning Best Practices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727955&w=600" alt="How 8x8 Saved and Boosted Performance 30% by Adopting Ampere®" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/8x8-ampere-arm64-boosts-video-performance" target="_blank">How 8x8 Saved and Boosted Performance 30% by Adopting Ampere®</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-CUDA-13.0-Update-2" target="_blank">NVIDIA CUDA 13.0 U2 Brings DGX Spark Performance Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-13 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,11 +231,38 @@
                 <span class="time">2025-11-13 14:47</span>
             </div>
         </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html" target="_blank">Book Review: The Business of Secrets</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-13 12:09</span>
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2592900251-e1763052249588.jpg?fit=768%2C510&amp;quality=60&amp;ssl=1" alt="Israel finally notices its settler mobs are burning down the West Bank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/13/israel-finally-notices-its-settler-mobs-are-burning-down-the-west-bank.html" target="_blank">Israel finally notices its settler mobs are burning down the West Bank</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-13 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5C6S5REB95A96GWXAPH5SYV/hero-image.png" alt="My Favorite Amazon Deal of the Day: The 13-Inch M4 MacBook Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-13-inch-m4-macbook-air?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The 13-Inch M4 MacBook Air</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-13 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/INIUPortableCharger-1280x853.jpg" alt="INIU 5000mAh Keychain Power Bank Goes for Pennies as Amazon Clears Out Its Best-Selling Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +299,6 @@
                 <span class="time">2025-11-13 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/hp-laptop-2-1280x853.jpg" alt="Forget MacBook, HP Drops 17.3″ Windows 11 Pro Laptop by 71% Just Before the Holiday Rush (32GB RAM, 1TB SSD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forget-macbook-hp-drops-17-3-windows-11-pro-laptop-by-71-just-before-the-holiday-rush-32gb-ram-1tb-ssd-2000643579" target="_blank">Forget MacBook, HP Drops 17.3″ Windows 11 Pro Laptop by 71% Just Before the Holiday Rush (32GB RAM, 1TB SSD)</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-13 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/fallout-4-anniversary-edition-1280x720.jpg" alt="Bethesda Promises Patches To Fix The Hot Mess Of Fallout 4‘s Anniversary Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fallout-4-patch-anniversary-edition-hot-fix-bethesda-2000643952" target="_blank">Bethesda Promises Patches To Fix The Hot Mess Of Fallout 4‘s Anniversary Edition</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-13 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +322,13 @@
                 <span class="time">2025-11-12 23:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762726940-20251112.png" alt="Saturday Morning Breakfast Cereal - Prayer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/prayer-6" target="_blank">Saturday Morning Breakfast Cereal - Prayer</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-12 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
