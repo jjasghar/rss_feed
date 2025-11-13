@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 06:02:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-13 07:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +47,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/as-gen-z-rage-across-south-asia-indias-youngest-state-pins-hopes-on-polls?traffic_source=rss" target="_blank">Bihar election: Can Modi buck Gen Z rage in India’s youngest state?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-13 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/epstein-maxwell_1762921437946_hpMain_4x3t_384.jpg" alt="Epstein offered reporter photos of &#x27;donald and girls in bikinis in my kitchen&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/epstein-offered-reporter-photos-donald-girls-bikinis-kitchen/story?id=127473941" target="_blank">Epstein offered reporter photos of &#x27;donald and girls in bikinis in my kitchen&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-13 05:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/13/british-american-tobacco-africa-zambia-uk" target="_blank">‘Utter hypocrisy’: tobacco firm lobbied against rules in Africa that are law in UK</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-13 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763006148641_now_brk_trump_government_shutdown_251112_1920x1080-d6i7a0.jpg" alt="Trump blames Democrats after end of government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-blames-democrats-after-end-of-government-shutdown-251939909936" target="_blank">Trump blames Democrats after end of government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-13 03:55</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +98,20 @@
                 <span class="time">2025-11-13 02:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  House passes bill to end shutdown: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  House passes bill to end shutdown: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-13 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end" target="_blank">The longest government shutdown in U.S. history comes to a close</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-13 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end" target="_blank">House votes to end the longest ever government shutdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-13 01:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Code: 50% Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/exclusive-kitchenaid-promo-code/" target="_blank">KitchenAid Promo Code: 50% Off in November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-13 06:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Visible Promo Code: Save $20 in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -115,6 +119,15 @@
                 <span class="title"><a href="https://www.wired.com/story/visible-promo-code/" target="_blank">Visible Promo Code: Save $20 in November 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-13 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/" target="_blank">Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 05:30</span>
             </div>
         </div>
 <div class="story">
@@ -144,24 +157,6 @@
                 <span class="time">2025-11-13 00:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-500x500.jpg" alt="OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/" target="_blank">OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-12 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop" target="_blank">The best budget robot vacuums</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-12 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +169,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/" target="_blank">One thing enterprise AI projects need to succeed? Community.</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-13 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/crossplane-grad/en/headerimage/generatedHeaderImage-1762893661689.jpg" alt="Crossplane Reaches Production Maturity by Graduating CNCF" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/crossplane-grad/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Crossplane Reaches Production Maturity by Graduating CNCF</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-13 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/francotel/despidete-del-caos-de-configs-mi-viaje-con-azure-app-configuration-escalabilidad-seguridad-y-52g7" target="_blank">🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-13 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yushulx/the-most-powerful-web-barcode-scanner-has-just-launched-on-the-edge-add-ons-store-check-it-out-and-1pbo" target="_blank">The most powerful web barcode scanner has just launched on the Edge Add-ons Store. Check it out and start scanning instantly! https://microsoftedge.microsoft.com/addons/detail/barcode-qr-code-scanner/lddfadanimbaiceehkfdngafclpodldj</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 02:16</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 153 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
