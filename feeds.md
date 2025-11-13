@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 03:22:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 04:04:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/US-capitol-20251112-rt-jh_1762996817082_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Trump signs government funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: Trump signs government funding bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-13 03:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +80,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end" target="_blank">The longest government shutdown in U.S. history comes to a close</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-13 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end" target="_blank">House votes to end the longest ever government shutdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-13 01:22</span>
@@ -78,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/russia-ukraine-war-list-of-key-events-day-1358?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,358</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-13 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/12/nx-s1-5561978/black-police-worry-federal-agents-drive-a-wedge-into-communities" target="_blank">Some Black police officials worry more federal agents will breed community mistrust</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-12 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-02-ap-jef-251112_1762954558939_hpMain_4x3t_384.jpg" alt="Government shutdown updates: House begins debate on funding bill before vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640" target="_blank">Government shutdown updates: House begins debate on funding bill before vote</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-12 23:42</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc7q2etphxowom7a2433f.png" alt="🧩Scenario #15 — Horizontal Pod Autoscaler (HPA) in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/latchudevops/scenario-15-horizontal-pod-autoscaler-hpa-in-kubernetes-5eo1" target="_blank">🧩Scenario #15 — Horizontal Pod Autoscaler (HPA) in Kubernetes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 03:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbGhlNjdwMXhxd3dqYWN2ZnZsYWVjNDd1N3pqd2NwbDdiYmNseG9iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2Fy9DIEU4LhCizDUzE5o%2Fgiphy.gif" alt="🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-47mc" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-13 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/06/security-.jpg?resize=406%2C232&amp;ssl=1" alt="Kaspersky Brings Its Antivirus Software to Linux Desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/kaspersky-linux-antivirus-released" target="_blank">Kaspersky Brings Its Antivirus Software to Linux Desktops</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-12 23:24</span>
             </div>
         </div>
 </div>
@@ -344,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
