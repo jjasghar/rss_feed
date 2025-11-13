@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 11:01:40 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-13 12:02:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/pakistan-says-islamabad-south-waziristan-bombers-were-afghan-nationals?traffic_source=rss" target="_blank">Pakistan says Islamabad, South Waziristan bombers were Afghan nationals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-13 11:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +105,20 @@
                 <span class="time">2025-11-13 08:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-sign-shutdown-bill2-20251112-ap-jh_1763006984162_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump blames Democrats for &#x27;massive harm&#x27; of shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates-trump-blames-democrats-massive/?id=127478903" target="_blank">Trump admin live updates: Trump blames Democrats for &#x27;massive harm&#x27; of shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-13 08:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch" target="_blank">DJI’s Neo 2 selfie drone launches globally, but not in the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-13 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +164,38 @@
                 <span class="time">2025-11-13 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/" target="_blank">Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740159&w=600" alt="Building Fault-Tolerant Applications with Temporal Workflow Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-fault-tolerant-applications-with-temporal" target="_blank">Building Fault-Tolerant Applications with Temporal Workflow Engine</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tlorent/not-a-single-customer-cares-if-you-chose-vue-or-react-249j" target="_blank">Not a Single Customer Cares If You Chose Vue or React</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/sociotechnical-design-DDD/en/headerimage/generatedHeaderImage-1762754043223.jpg" alt="How to do Sociotechnical Design Using Domain-Driven Design and Change Smuggling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/sociotechnical-design-DDD/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How to do Sociotechnical Design Using Domain-Driven Design and Change Smuggling</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-13 11:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,52 +223,20 @@
                 <span class="time">2025-11-13 08:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/crossplane-grad/en/headerimage/generatedHeaderImage-1762893661689.jpg" alt="Crossplane Reaches Production Maturity by Graduating CNCF" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/crossplane-grad/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Crossplane Reaches Production Maturity by Graduating CNCF</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-13 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Running Java on iOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/java-on-ios/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Running Java on iOS</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-13 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-46/" target="_blank">FOSS Weekly #25.46: sudo-rs Issues, Kaspersky on Linux, Flathub Troubles, Homelab Starter and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-13 04:29</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html" target="_blank">On Hacking Back</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-12 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Skeleton-Crew-Disney-Plus-1280x853.jpg" alt="Jon Watts Would Like to Remind You He Made a ‘Star Wars’ Show This Year, and Would Like to Make More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jon-watts-would-like-to-remind-you-he-made-a-star-wars-show-this-year-and-would-like-to-make-more-2000685253" target="_blank">Jon Watts Would Like to Remind You He Made a ‘Star Wars’ Show This Year, and Would Like to Make More</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-13 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/nyt-1280x853.jpg" alt="The New York Times-OpenAI Legal Fight Is Getting Mean" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +282,6 @@
                 <span class="time">2025-11-13 00:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9WPJDQX8J955Y05R8X3TVVB/hero-image.png" alt="This Rugged and Punchy Portable JBL Speaker Is $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-charge-6-deal?utm_medium=RSS" target="_blank">This Rugged and Punchy Portable JBL Speaker Is $70 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-12 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
