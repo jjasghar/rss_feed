@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 04:04:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-13 05:01:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 04:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/13/british-american-tobacco-africa-zambia-uk" target="_blank">‘Utter hypocrisy’: tobacco firm lobbied against rules in Africa that are law in UK</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-13 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/US-capitol-20251112-rt-jh_1762996817082_hpMain_4x3t_384.jpg" alt="Government shutdown updates: Trump signs government funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +104,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end" target="_blank">House votes to end the longest ever government shutdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-13 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/russia-ukraine-war-list-of-key-events-day-1358?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,358</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 01:01</span>
             </div>
         </div>
 </div>
@@ -168,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-46/" target="_blank">FOSS Weekly #25.46: sudo-rs Issues, Kaspersky on Linux, Flathub Troubles, Homelab Starter and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-13 04:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc7q2etphxowom7a2433f.png" alt="🧩Scenario #15 — Horizontal Pod Autoscaler (HPA) in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/alcb1310/create-a-text-editor-in-go-text-viewer-4akp" target="_blank">Create a Text Editor in Go - Text Viewer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-13 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-47mc" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 00:02</span>
             </div>
         </div>
 </div>
@@ -286,12 +289,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9WQ102TGXP0046HNXY7AE2M/hero-image.png" alt="Garmin Workouts Can Now Sync to Peloton" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Adobe-Acrobat-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get ahead with 83% off Microsoft Office Pro and Adobe Acrobat Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-workouts-can-now-sync-to-peloton?utm_medium=RSS" target="_blank">Garmin Workouts Can Now Sync to Peloton</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-12 21:30</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/12/get-ahead-with-83-off-microsoft-office-pro-and-adobe-acrobat-pro.html" target="_blank">Get ahead with 83% off Microsoft Office Pro and Adobe Acrobat Pro</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-12 22:00</span>
             </div>
         </div>
 </div>
@@ -335,22 +338,13 @@
                 <span class="time">2025-11-12 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/car_size.png" alt="Car Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3167/" target="_blank">Car Size</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-11-12 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
