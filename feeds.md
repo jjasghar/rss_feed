@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 01:29:17 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-13 02:30:42 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +53,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/us-knew-israeli-officials-discussed-use-of-human-shields-in-gaza-report?traffic_source=rss" target="_blank">US knew Israeli officials discussed use of human shields in Gaza: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-13 02:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  House passes bill to end shutdown: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  House passes bill to end shutdown: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-13 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end" target="_blank">House votes to end the longest ever government shutdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-13 01:22</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +106,20 @@
                 <span class="time">2025-11-12 23:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2025/11/12/how-trump-era-funding-cuts-endanger-efforts-to-empower-haitis-farmers?traffic_source=rss" target="_blank">How Trump-era funding cuts endanger efforts to empower Haiti’s farmers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-12 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/12/g-s1-97487/malaria-drug-new" target="_blank">New malaria drug could be a life-saver as the standard drug shows signs of weakness</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-12 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/" target="_blank">Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 02:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +165,29 @@
                 <span class="time">2025-11-12 22:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation" target="_blank">The Steam Frame has two speakers on each side of your face for vibration cancellation</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-12 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yushulx/the-most-powerful-web-barcode-scanner-has-just-launched-on-the-edge-add-ons-store-check-it-out-and-1pbo" target="_blank">The most powerful web barcode scanner has just launched on the Edge Add-ons Store. Check it out and start scanning instantly! https://microsoftedge.microsoft.com/addons/detail/barcode-qr-code-scanner/lddfadanimbaiceehkfdngafclpodldj</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 02:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-PostgreSQL-AVX-512-CRC32" target="_blank">Intel Finds Great Performance With PostgreSQL&#x27;s AVX-512 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-13 01:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fej6qe89qlsdirubdu4vm.png" alt="Create a Text Editor in Go - Text Viewer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +224,6 @@
                 <span class="time">2025-11-12 21:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2.7-Released" target="_blank">Mesa 25.2.7 Ships The Latest Open-Source OpenGL &amp; Vulkan Driver Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-12 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18744661&w=600" alt="Facilitate AI-Human Architectural Thinking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/facilitate-ai-human-architectural-thinking" target="_blank">Facilitate AI-Human Architectural Thinking</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-12 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/galaxy-buds-3-pro-with-ai-features-are-going-for-pennies-amazon-sets-a-new-all-time-low-2000643596" target="_blank">Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-13 00:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/smokestacks-1280x853.jpg" alt="Congrats, Humanity: We’re on Track for Record CO2 Emissions—Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +297,6 @@
                 <span class="time">2025-11-12 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1727243314-e1759007473771.jpg?fit=768%2C703&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s fake war hits a real wall in Oregon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/12/trumps-fake-war-hits-a-real-wall-in-oregon.html" target="_blank">Trump&#x27;s fake war hits a real wall in Oregon</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-12 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,6 +309,15 @@
                 <span class="title"><a href="http://questionablecontent.net/view.php?comic=5700" target="_blank">Enter Sandbox</a></span>
                 <span class="feed">QC RSS</span>
                 <span class="time">2025-11-13 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/12/manifold-delights" target="_blank">Manifold Delights</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-12 23:34</span>
             </div>
         </div>
 <div class="story">
@@ -335,22 +347,13 @@
                 <span class="time">2025-11-12 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5699.png" alt="The Gordian Iris" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5699" target="_blank">The Gordian Iris</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-12 02:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
