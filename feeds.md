@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 21:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 22:01:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -86,12 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250717-one-time-use-obamacare-ew-243p-3b54db.jpg" alt="As health insurance bills rise, Republicans are still seeking an Obamacare alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/game-theory/2025/11/13/aje-onl-bettinginsport_v12-131125?traffic_source=rss" target="_blank">Betting in Sport. More money, more problems?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 15:16</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/health-insurance-bills-rise-republicans-seeking-obamcare-alternative-rcna243332" target="_blank">As health insurance bills rise, Republicans are still seeking an Obamacare alternative</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-13 16:57</span>
             </div>
         </div>
 </div>
@@ -99,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/" target="_blank">Blue Origin sticks first New Glenn rocket landing and launches NASA spacecraft</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +159,20 @@
                 <span class="time">2025-11-13 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/" target="_blank">In defense of Apple’s $230 iPhone sock</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft8664paavztyh4tf2ypi.png" alt="Why Developers Need Automated Brag Docs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nataliaherself/why-developers-need-automated-brag-docs-1gko" target="_blank">Why Developers Need Automated Brag Docs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,21 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18748485&w=600" alt="AI SDLC Transformation, Part 1: Where to Start?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu LTS Releases Now Get 15 Years of Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-sdlc-transformation-where-to-start" target="_blank">AI SDLC Transformation, Part 1: Where to Start?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-13 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/066f4d51-bc99-457f-be4a-face79257dd9_420x300.png" alt="The Pulse #153: Is Microsoft too early to agentic OS – like with smartphones?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-153" target="_blank">The Pulse #153: Is Microsoft too early to agentic OS – like with smartphones?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-11-13 17:53</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/ubuntu-lts-releases-15-years-of-support" target="_blank">Ubuntu LTS Releases Now Get 15 Years of Support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-13 19:18</span>
             </div>
         </div>
 </div>
@@ -240,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-13 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Ol&#x27; Puddin&#x27; Brains is making stuff up again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/13/ol-puddin-brains-is-making-stuff-up-again.html" target="_blank">Ol&#x27; Puddin&#x27; Brains is making stuff up again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-13 21:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/gavin-newsom.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Newsom&#x27;s social media declares Trump a pedophile" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +298,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/13/israel-finally-notices-its-settler-mobs-are-burning-down-the-west-bank.html" target="_blank">Israel finally notices its settler mobs are burning down the West Bank</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-13 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5C6S5REB95A96GWXAPH5SYV/hero-image.png" alt="My Favorite Amazon Deal of the Day: The 13-Inch M4 MacBook Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-13-inch-m4-macbook-air?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The 13-Inch M4 MacBook Air</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-13 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/INIUPortableCharger-1280x853.jpg" alt="INIU 5000mAh Keychain Power Bank Goes for Pennies as Amazon Clears Out Its Best-Selling Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-usb-c-portable-power-bank-makes-for-a-great-stocking-stuffer-at-just-22-2000643659" target="_blank">INIU 5000mAh Keychain Power Bank Goes for Pennies as Amazon Clears Out Its Best-Selling Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-13 15:45</span>
             </div>
         </div>
 </div>
@@ -331,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
