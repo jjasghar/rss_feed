@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 05:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 06:02:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Visible Promo Code: Save $20 in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/visible-promo-code/" target="_blank">Visible Promo Code: Save $20 in November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-13 06:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -156,20 +162,29 @@
                 <span class="time">2025-11-12 22:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690cd0292018c1e811eadd25/master/pass/DHS-Failed-to-Delete-Sensitive-Data-on-Americans-Politics-2221926006.jpg" alt="DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dhs-kept-chicago-police-records-for-months-in-violation-of-domestic-espionage-rules/" target="_blank">DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-12 22:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/" target="_blank">One thing enterprise AI projects need to succeed? Community.</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-13 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Running Java on iOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/java-on-ios/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Running Java on iOS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-13 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +221,6 @@
                 <span class="time">2025-11-13 02:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-PostgreSQL-AVX-512-CRC32" target="_blank">Intel Finds Great Performance With PostgreSQL&#x27;s AVX-512 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-13 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fej6qe89qlsdirubdu4vm.png" alt="Create a Text Editor in Go - Text Viewer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alcb1310/create-a-text-editor-in-go-text-viewer-4akp" target="_blank">Create a Text Editor in Go - Text Viewer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 01:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Horizon-1.jpg" alt="Sony Reveals Secret Horizon MMO That Looks Like Monster Hunter But Isn’t Coming To PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/horizon-steel-frontiers-mmo-ps5-trailer-2000643663" target="_blank">Sony Reveals Secret Horizon MMO That Looks Like Monster Hunter But Isn’t Coming To PS5</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-13 05:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2483754173-1280x851.jpg" alt="The Government Shutdown Is Finally Over, But Flight Disruptions Will Continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/devs-dispatch-telltale-superhero-game-cut-sex-scenes-romance-2000643646" target="_blank">Devs Behind This Year’s Big Superhero Game Regret Cutting Sex Scenes</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-12 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Adobe-Acrobat-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get ahead with 83% off Microsoft Office Pro and Adobe Acrobat Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/12/get-ahead-with-83-off-microsoft-office-pro-and-adobe-acrobat-pro.html" target="_blank">Get ahead with 83% off Microsoft Office Pro and Adobe Acrobat Pro</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-12 22:00</span>
             </div>
         </div>
 </div>
@@ -343,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
