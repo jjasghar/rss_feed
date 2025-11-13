@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 02:30:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 03:22:23 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 03:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbGhlNjdwMXhxd3dqYWN2ZnZsYWVjNDd1N3pqd2NwbDdiYmNseG9iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2Fy9DIEU4LhCizDUzE5o%2Fgiphy.gif" alt="🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/francotel/despidete-del-caos-de-configs-mi-viaje-con-azure-app-configuration-escalabilidad-seguridad-y-52g7" target="_blank">🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 03:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,21 +208,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flqek4rva5d7fzlv1xwim.png" alt="2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/06/security-.jpg?resize=406%2C232&amp;ssl=1" alt="Kaspersky Brings Its Antivirus Software to Linux Desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/temporalio/2025-3dmg" target="_blank">2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-12 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=EEwREnUdbFs" target="_blank">1 Problem, 7 Libraries (on the GPU)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-12 21:51</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/kaspersky-linux-antivirus-released" target="_blank">Kaspersky Brings Its Antivirus Software to Linux Desktops</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-12 23:24</span>
             </div>
         </div>
 </div>
@@ -243,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2483754173-1280x851.jpg" alt="The Government Shutdown Is Finally Over, But Flight Disruptions Will Continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-government-shutdown-is-finally-over-but-flight-disruptions-will-continue-2000684865" target="_blank">The Government Shutdown Is Finally Over, But Flight Disruptions Will Continue</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-13 02:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/garmin-workouts-can-now-sync-to-peloton?utm_medium=RSS" target="_blank">Garmin Workouts Can Now Sync to Peloton</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-12 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GY1EGKVBM56BVJC4RJMWT/hero-image.jpg" alt="These Are the Best Price-Tracking Tools to Use During Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-price-tracking-tools?utm_medium=RSS" target="_blank">These Are the Best Price-Tracking Tools to Use During Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-12 20:30</span>
             </div>
         </div>
 </div>
@@ -352,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 03:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
