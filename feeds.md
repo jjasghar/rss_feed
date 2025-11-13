@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 19:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-11-13 20:01:57 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/13/france-marks-10-years-since-paris-attacks-upended-country?traffic_source=rss" target="_blank">France marks 10 years since Paris attacks upended country</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-13 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capitol-01-rt-jef-251113_1763040144504_hpMain_4x3t_384.jpg" alt="Federal services, agencies slowly returning after government shutdown ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/federal-services-agencies-slowly-returning-after-government-shutdown/story?id=127486946" target="_blank">Federal services, agencies slowly returning after government shutdown ends</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-13 19:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +99,20 @@
                 <span class="time">2025-11-13 15:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/13/sudans-civilians-deserve-more-than-survival?traffic_source=rss" target="_blank">Sudan’s civilians deserve more than survival</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/13/gaza-girl-resuscitated-in-mortuary-as-family-prepared-to-bury-her?traffic_source=rss" target="_blank">Gaza girl resuscitated in mortuary as family prepared to bury her</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai" target="_blank">Anthropic details how it measures Claude&amp;#8217;s wokeness</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-13 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,29 @@
                 <span class="time">2025-11-13 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1608040724-500x500.jpg" alt="Waymo to roll out driverless taxis on highways in three US cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/11/waymo-to-roll-out-driverless-taxis-on-highways-in-three-us-cities/" target="_blank">Waymo to roll out driverless taxis on highways in three US cities</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-13 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ninjarocks/turbomapper-52ck" target="_blank">TurboMapper</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCN-1.0-Patch-AMDGPU-Default" target="_blank">New Patch Moves AMD GCN 1.0 GPUs Over To AMDGPU Driver By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-13 19:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18748485&w=600" alt="AI SDLC Transformation, Part 1: Where to Start?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://minimaxir.com/2025/11/nano-banana-prompts/" target="_blank">Nano Banana can be prompt engineered for nuanced AI image generation</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-13 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-kubernetes-officially-included-in-sylva-1-5" target="_blank">Canonical Kubernetes officially included in Sylva 1.5</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-13 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-october-2025/" target="_blank">GitHub Availability Report: October 2025</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-13 17:28</span>
             </div>
         </div>
 </div>
@@ -337,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
