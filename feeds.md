@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 12:02:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-13 13:11:26 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/13/gaza-girl-resuscitated-in-mortuary-as-family-prepared-to-bury-her?traffic_source=rss" target="_blank">Gaza girl resuscitated in mortuary as family prepared to bury her</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-13 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/13/g-s1-97432/world-kindness-day-kind-compassion-empathy" target="_blank">If you&#x27;re going to be kind to another human, today is the day to do it!</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-13 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763036107842_tdy_news_7a_nobles_trump_shutdown_bill_251113_1920x1080-ss2i1k.jpg" alt="Trump Signs Bill to Reopen Government After Record Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-signs-house-approved-bill-after-record-long-shutdown-251954245781" target="_blank">Trump Signs Bill to Reopen Government After Record Shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-13 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +99,20 @@
                 <span class="time">2025-11-13 10:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/13/g-s1-97665/california-revoke-commercial-drivers-licenses-immigrants" target="_blank">California plans to revoke 17,000 commercial driver&#x27;s licenses given to immigrants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-13 09:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/13/trump-is-very-rude-to-ask-israels-president-to-pardon-netanyahu?traffic_source=rss" target="_blank">Trump is “very rude” to ask Israel’s president to pardon Netanyahu</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 09:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebf/live/24076500-87ff-11f0-be14-b712a0c48110.jpg" alt="Scotland given same credit rating as UK ahead of first bonds issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj97dw17k3do?at_medium=RSS&at_campaign=rss" target="_blank">Scotland given same credit rating as UK ahead of first bonds issue</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-13 08:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/682fa6e357556e17fa71431f/master/pass/The%20Best%20Webcams%20for%20Looking%20Brighter%20and%20Better.png" alt="8 Best Webcams (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-webcams/" target="_blank">8 Best Webcams (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-13 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +158,29 @@
                 <span class="time">2025-11-13 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/" target="_blank">Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567537&w=600" alt="ANTLR-Powered Query Engine and Floorplan Parser for Real Estate Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/antlr-powered-query-engine-and-floorplan-parser-fo" target="_blank">ANTLR-Powered Query Engine and Floorplan Parser for Real Estate Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/nitrux-5-release/" target="_blank">Nitrux 5.0.0 Released: A &#x27;New Beginning&#x27; That&#x27;s Not for Everyone (By Design)</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-13 12:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18740159&w=600" alt="Building Fault-Tolerant Applications with Temporal Workflow Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,29 +217,20 @@
                 <span class="time">2025-11-13 09:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on" target="_blank">Canonical expands total coverage for Ubuntu LTS releases to 15 years with Legacy add-on</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-13 09:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/" target="_blank">One thing enterprise AI projects need to succeed? Community.</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-13 08:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/fallout-4-anniversary-edition-1280x720.jpg" alt="Bethesda Promises Patches To Fix The Hot Mess Of Fallout 4‘s Anniversary Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fallout-4-patch-anniversary-edition-hot-fix-bethesda-2000643952" target="_blank">Bethesda Promises Patches To Fix The Hot Mess Of Fallout 4‘s Anniversary Edition</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-13 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Skeleton-Crew-Disney-Plus-1280x853.jpg" alt="Jon Watts Would Like to Remind You He Made a ‘Star Wars’ Show This Year, and Would Like to Make More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +276,6 @@
                 <span class="time">2025-11-13 00:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/smokestacks-1280x853.jpg" alt="Congrats, Humanity: We’re on Track for Record CO2 Emissions—Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/congrats-humanity-were-on-track-for-record-co2-emissions-again-2000685164" target="_blank">Congrats, Humanity: We’re on Track for Record CO2 Emissions—Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-13 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
