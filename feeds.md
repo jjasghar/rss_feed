@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 15:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-13 16:01:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, November 13, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/game-theory/2025/11/13/aje-onl-bettinginsport_v12-131125?traffic_source=rss" target="_blank">Betting in Sport. More money, more problems?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-13 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/13/nx-s1-5607812/government-shutdown-ends-updates" target="_blank">The government shutdown is over, but not everything is back to normal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-13 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,29 @@
                 <span class="time">2025-11-13 12:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763036107842_tdy_news_7a_nobles_trump_shutdown_bill_251113_1920x1080-ss2i1k.jpg" alt="Trump Signs Bill to Reopen Government After Record Shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-signs-house-approved-bill-after-record-long-shutdown-251954245781" target="_blank">Trump Signs Bill to Reopen Government After Record Shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-13 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/pakistan-says-islamabad-south-waziristan-bombers-were-afghan-nationals?traffic_source=rss" target="_blank">Pakistan says Islamabad, South Waziristan bombers were Afghan nationals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 11:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1608040724-500x500.jpg" alt="Waymo to roll out driverless taxis on highways in three US cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/11/waymo-to-roll-out-driverless-taxis-on-highways-in-three-us-cities/" target="_blank">Waymo to roll out driverless taxis on highways in three US cities</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-13 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6915d3e5f9aae68cc86f824f/master/pass/GettyImages-1499035624.jpg" alt="British Churches Are Putting Their Faith in Heat Pumps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/let-there-be-warmth-the-british-churches-putting-their-faith-in-heat-pumps/" target="_blank">British Churches Are Putting Their Faith in Heat Pumps</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-13 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +161,38 @@
                 <span class="time">2025-11-13 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/682fa6e357556e17fa71431f/master/pass/The%20Best%20Webcams%20for%20Looking%20Brighter%20and%20Better.png" alt="8 Best Webcams (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-webcams/" target="_blank">8 Best Webcams (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-13 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch" target="_blank">DJI’s Neo 2 selfie drone launches globally, but not in the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dixitgurv/spring-shedlock-53f1" target="_blank">Spring ShedLock</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-13 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-azure-hbv2-hbv5" target="_blank">The Incredible Evolution Of AMD EPYC HPC Performance Shown In The Azure Cloud</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-13 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18747840&w=600" alt="DocumentDB Goes Cloud-Native: Introducing the DocumentDB Kubernetes Operator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/documentdb-kubernetes-operator-cloud-native" target="_blank">DocumentDB Goes Cloud-Native: Introducing the DocumentDB Kubernetes Operator</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-13 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,31 +220,18 @@
                 <span class="time">2025-11-13 13:52</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sylwia-lask/its-not-the-product-owner-its-you-we-dont-have-time-for-refactoring-is-the-most-expensive-adp" target="_blank">It’s Not the Product Owner - It’s You. “We Don’t Have Time for Refactoring” Is the Most Expensive Lie in Tech</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure" target="_blank">Britain&#x27;s railway privatization was an abject failure</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-13 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567537&w=600" alt="ANTLR-Powered Query Engine and Floorplan Parser for Real Estate Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/antlr-powered-query-engine-and-floorplan-parser-fo" target="_blank">ANTLR-Powered Query Engine and Floorplan Parser for Real Estate Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-13 13:00</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/" target="_blank">Google Sues to Disrupt Chinese SMS Phishing Triad</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-11-13 14:47</span>
             </div>
         </div>
 </div>
@@ -221,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/INIUPortableCharger-1280x853.jpg" alt="INIU 5000mAh Keychain Power Bank Goes for Pennies as Amazon Clears Out Its Best-Selling Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-usb-c-portable-power-bank-makes-for-a-great-stocking-stuffer-at-just-22-2000643659" target="_blank">INIU 5000mAh Keychain Power Bank Goes for Pennies as Amazon Clears Out Its Best-Selling Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-13 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/1-1-1280x720.jpg" alt="Red Dead Redemption Looks Like It’s Coming To Modern Consoles To Fill The Void Left By GTA 6′s Delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +293,6 @@
                 <span class="time">2025-11-13 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Skeleton-Crew-Disney-Plus-1280x853.jpg" alt="Jon Watts Would Like to Remind You He Made a ‘Star Wars’ Show This Year, and Would Like to Make More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jon-watts-would-like-to-remind-you-he-made-a-star-wars-show-this-year-and-would-like-to-make-more-2000685253" target="_blank">Jon Watts Would Like to Remind You He Made a ‘Star Wars’ Show This Year, and Would Like to Make More</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
