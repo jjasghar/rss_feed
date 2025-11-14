@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 11:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-14 12:02:26 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5608004/bbc-apology-trump-speech" target="_blank">BBC apologizes for edit of Trump speech but says it won&#x27;t provide legal compensation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-14 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/14/anger-south-africa-plane-palestinians-held-12-hours" target="_blank">Anger in South Africa after plane of Palestinians held on tarmac for 12 hours</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-14 11:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/8f858890-c146-11f0-86a5-23e8532eb2d7.jpg" alt="Reeves decides against raising income tax rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +95,20 @@
                 <span class="time">2025-11-14 08:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/14/france-secure-spot-at-2026-world-cup-as-mbappe-scores-twice-against-ukraine?traffic_source=rss" target="_blank">France secure spot at 2026 World Cup as Mbappe scores twice against Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 07:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5608894/comey-james-case-dismissal" target="_blank">Comey and James seek case dismissal, arguing prosecutor was illegally appointed</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-14 06:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/" target="_blank">Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-14 11:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +154,20 @@
                 <span class="time">2025-11-13 23:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/" target="_blank">VCs abandon old rules for a ‘funky time’ of investing in AI startups</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 23:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/VisionFive-2-Lite-Linux-Patches" target="_blank">Mainline Linux Patches For The VisionFive 2 Lite: RISC-V For As Little As $19.9 USD</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-14 11:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +213,6 @@
                 <span class="time">2025-11-14 09:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/reducing-false-positives-retrieval-augmented-generation/en/headerimage/reducing-false-positives-retrieval-augmented-generation-header-1762786576150.jpg" alt="Article: Reducing False Positives in Retrieval-Augmented Generation (RAG) Semantic Caching: A Banking Case Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/reducing-false-positives-retrieval-augmented-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Reducing False Positives in Retrieval-Augmented Generation (RAG) Semantic Caching: A Banking Case Study</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-14 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/marco-rubio.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="US brands four European anti-fascist groups as terrorists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/14/us-brands-four-european-anti-fascist-groups-as-terrorists.html" target="_blank">US brands four European anti-fascist groups as terrorists</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-14 11:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/soundbar-bose-27-1280x853.jpg" alt="Amazon Offloads Bose Smart Dolby Atmos Soundbar, Now Selling at No-Name Soundbar Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/red-dead-redemption-gets-ps5-upgrade-before-rdr-2-because-life-isnt-fair-2000644145" target="_blank">Red Dead Redemption Gets PS5 Upgrade Before RDR 2 Because Life Isn’t Fair</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-13 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9ZDPWAFJH9MB3QS6CYP43MM/hero-image.png" alt="Spotify&#x27;s New AI-Powered Audiobook Recaps Will Remind You Where You Left Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/spotify-will-use-ai-to-recap-where-you-left-off-in-audiobooks?utm_medium=RSS" target="_blank">Spotify&#x27;s New AI-Powered Audiobook Recaps Will Remind You Where You Left Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-13 22:30</span>
             </div>
         </div>
 </div>
@@ -343,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
