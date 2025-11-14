@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 00:04:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 01:29:40 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/13/bbc-apologises-to-trump-over-documentary-rejects-defamation-claim?traffic_source=rss" target="_blank">BBC apologises to Trump over documentary, rejects defamation claim</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-13 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/13/nx-s1-5608271/disney-ai-user-generated-content" target="_blank">Disney eyes a future where users help shape the story</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-13 22:11</span>
             </div>
         </div>
 <div class="story">
@@ -97,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/13/france-marks-10-years-since-paris-attacks-upended-country?traffic_source=rss" target="_blank">France marks 10 years since Paris attacks upended country</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-13 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-01-rt-jef-251113_1763040144504_hpMain_4x3t_384.jpg" alt="Federal services, agencies slowly returning after government shutdown ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/federal-services-agencies-slowly-returning-after-government-shutdown/story?id=127486946" target="_blank">Federal services, agencies slowly returning after government shutdown ends</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-13 19:07</span>
             </div>
         </div>
 </div>
@@ -264,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K8QJ0H0T2F8BRZ4B3VV7KFWR/hero-image.png" alt="You Can Get This Dragon G3X Ultra Wired Gaming Headset on Sale for Just $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/dragon-g3x-ultra-gaming-headset-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get This Dragon G3X Ultra Wired Gaming Headset on Sale for Just $50</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-13 23:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/short-finned-pilot-whales-1280x853.jpg" alt="Scientists Wanted to Know How Many Squid Pilot Whales Eat Each Day. What They Found Was Astounding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -299,15 +298,6 @@
                 <span class="time">2025-11-13 21:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Ol&#x27; Puddin&#x27; Brains is making stuff up again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/13/ol-puddin-brains-is-making-stuff-up-again.html" target="_blank">Ol&#x27; Puddin&#x27; Brains is making stuff up again</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-13 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,22 +321,13 @@
                 <span class="time">2025-11-13 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5700.png" alt="Enter Sandbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5700" target="_blank">Enter Sandbox</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-13 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
