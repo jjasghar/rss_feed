@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 22:01:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-14 23:01:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/14/displaced-palestinian-families-suffer-as-heavy-rains-flood-gaza-tent-camps?traffic_source=rss" target="_blank">Displaced Palestinian families suffer as heavy rains flood Gaza tent camps</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-14 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/667e/live/e659c670-c16b-11f0-8456-eff94716b162.jpg" alt="UK set to limit asylum seekers to temporary stays" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c231x8rj1zpo?at_medium=RSS&at_campaign=rss" target="_blank">UK set to limit asylum seekers to temporary stays</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-14 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5601054/kansas-redistricting-republican-trump" target="_blank">In Kansas and elsewhere, some state lawmakers are skeptical of the redistricting rush</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-14 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-01-gty-jef-251114_1763123873886_hpMain_4x3t_384.jpg" alt="Trump calls for DOJ probe into other Epstein ties, including Clinton" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-calls-doj-probe-epstein-ties-including-clinton/story?id=127529066" target="_blank">Trump calls for DOJ probe into other Epstein ties, including Clinton</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-14 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/14/several-people-killed-and-injured-as-bus-crashes-into-stop-in-sweden?traffic_source=rss" target="_blank">Several people killed and injured as bus crashes into stop in Sweden</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 18:01</span>
             </div>
         </div>
 </div>
@@ -171,6 +168,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18733341&w=600" alt="Evaluating AI Vulnerability Detection: How Reliable Are LLMs for Secure Coding?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-vulnerability-detection-llm-reliability" target="_blank">Evaluating AI Vulnerability Detection: How Reliable Are LLMs for Secure Coding?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-14 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ko5dyzg0190crokh6j3.png" alt="Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +212,6 @@
                 <span class="time">2025-11-14 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://clocks.brianmoore.com/" target="_blank">AI World Clocks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-14 18:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KA1P49KXWSB40Y4RKVXDZBXF/hero-image.png" alt="Beware These Black Friday Shopping Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/beware-these-black-friday-shopping-scams?utm_medium=RSS" target="_blank">Beware These Black Friday Shopping Scams</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-14 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/black-light-saber.jpg" alt="Bungie Explains Why Destiny 2‘s Big Roadmap Is Still Missing As It Tries To Engineer A Major Turnaround" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/destiny-2-roadmpa-renegades-star-wars-2000644453" target="_blank">Bungie Explains Why Destiny 2‘s Big Roadmap Is Still Missing As It Tries To Engineer A Major Turnaround</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-14 22:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/war-between-sea-devils-1280x853.jpg" alt="Disney and the BBC’s Disintegrated ‘Doctor Who’ Deal Is Leaving Its Spinoff in Limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +285,6 @@
                 <span class="time">2025-11-14 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2021/11/6d106ff15135f5908f2d69264d081d42-1280x720.jpg" alt="A New Splinter Cell Was In Development Until Ubisoft Spiked It To Make A Live-Service Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-new-splinter-cell-was-in-development-until-ubisoft-spiked-it-to-make-a-live-service-game-2000644414" target="_blank">A New Splinter Cell Was In Development Until Ubisoft Spiked It To Make A Live-Service Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-14 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/1S44P9z3Sv5ugIj3uERGuLbkNkBR_sKX-1.jpg" alt="Upway’s Black Friday Event Takes Up to $1,000 Off Already-Discounted E-Bikes From the #1 Marketplace in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/upways-black-friday-event-takes-up-to-1000-off-already-discounted-e-bikes-from-the-1-marketplace-in-the-us-2000685685" target="_blank">Upway’s Black Friday Event Takes Up to $1,000 Off Already-Discounted E-Bikes From the #1 Marketplace in the US</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-14 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,6 +318,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/beam_dump.png" alt="Beam Dump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3168/" target="_blank">Beam Dump</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-14 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5701.png" alt="Needs Better Soundproofing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -334,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
