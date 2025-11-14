@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 15:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 16:01:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 16 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwlijco93ar008mb6e4tk.png" alt="Things I Wish I Knew as a Fresher Developer on My First Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manishsahu001/things-i-wish-i-knew-as-a-fresher-developer-on-my-first-project-4bjl" target="_blank">Things I Wish I Knew as a Fresher Developer on My First Project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 15:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/monzo-real-time-fraud-detection/en/headerimage/generatedHeaderImage-1762726203547.jpg" alt="Monzo’s Real-Time Fraud Detection Architecture with BigQuery and Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -216,15 +220,6 @@
                 <span class="time">2025-11-14 13:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727986&w=600" alt="Building Smarter Systems: Architecting AI Agents for Real-World Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-smarter-systems-architecting-ai-agents-fo" target="_blank">Building Smarter Systems: Architecting AI Agents for Real-World Tasks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-14 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_plane-1-1280x853.jpg" alt="Carol’s Rant on This Week’s ‘Pluribus’ Suggests Yet Another Meaning Behind the Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pluribus-episode-3-spoilers-carol-influencers-2000684414" target="_blank">Carol’s Rant on This Week’s ‘Pluribus’ Suggests Yet Another Meaning Behind the Show</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/blops7main-1280x720.jpg" alt="Surprise: Call Of Duty: Black Ops 7′s Campaign Is Multiplayer-Only And Doesn’t Let You Pause" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cod-blops-7-campaign-coop-always-online-pause-co-op-xp-challenges-2000644358" target="_blank">Surprise: Call Of Duty: Black Ops 7′s Campaign Is Multiplayer-Only And Doesn’t Let You Pause</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KA1DP8B52AA52F7Z8RWAPJJP/hero-image.png" alt="The Garmin Forerunner 265 and 965 Have Never Been Priced This Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/the-garmin-forerunner-265-and-965-have-never-been-priced-this-low?utm_medium=RSS" target="_blank">The Garmin Forerunner 265 and 965 Have Never Been Priced This Low</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-14 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/IMG_0388-1280x720.jpg" alt="Pokémon Legends: Z-A Has A Cheating Problem And Players Are Helpless To Stop It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,33 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/how-to-talk-to-a-real-human-in-customer-service?utm_medium=RSS" target="_blank">How to Talk to a Real Human in Customer Service (and Get What You Want)</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-14 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/DysonV9MotorbarCordless-1280x853.jpg" alt="Dyson Quietly Slashes the V9 Motorbar by 55%, Cheaper Than Any Other Dyson Vacuum Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dysons-cordless-stick-vacuum-comes-down-to-lower-than-half-price-ahead-of-black-friday-2000644141" target="_blank">Dyson Quietly Slashes the V9 Motorbar by 55%, Cheaper Than Any Other Dyson Vacuum Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-14 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HM9HYGDR742KRH11WJWN8A44/hero-image.jpg" alt="&#x27;Flowtime&#x27; Is a More Flexible Alternative to the Pomodoro Technique" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/work/flowtime-time-management-technique?utm_medium=RSS" target="_blank">&#x27;Flowtime&#x27; Is a More Flexible Alternative to the Pomodoro Technique</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-14 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/steve-bannon.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Steve Bannon appears in over 1,700 Jeffrey Epstein emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/14/steve-bannon-appears-in-over-1700-jeffrey-epstein-emails.html" target="_blank">Steve Bannon appears in over 1,700 Jeffrey Epstein emails</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-14 12:16</span>
             </div>
         </div>
 </div>
@@ -344,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
