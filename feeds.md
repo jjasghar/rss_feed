@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 20:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 21:01:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/14/shelters-for-displaced-palestinians-in-gaza-flooded-by-heavy-rain?traffic_source=rss" target="_blank">Shelters for displaced Palestinians in Gaza flooded by heavy rain</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-14 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/14/g-s1-97864/purdue-pharma-sackler-family-opioid-settlement" target="_blank">Judge says he&#x27;ll approve opioid settlement with OxyContin maker Purdue and Sackler family</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-14 20:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251104-Marjorie-Taylor-Greene-aa-615-f26232.jpg" alt="Marjorie Taylor Greene questions if Trump is still the &#x27;America First&#x27; president" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/marjorie-taylor-greene-questions-trump-america-first-foreign-trips-rcna243323" target="_blank">Marjorie Taylor Greene questions if Trump is still the &#x27;America First&#x27; president</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-14 19:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/14/several-people-killed-and-injured-as-bus-crashes-into-stop-in-sweden?traffic_source=rss" target="_blank">Several people killed and injured as bus crashes into stop in Sweden</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-14 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/14/ukraines-kyiv-pounded-by-hundreds-of-russian-drones?traffic_source=rss" target="_blank">Ukraine’s Kyiv pounded by hundreds of Russian drones</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251113-donald-trump-es-c097c9.jpg" alt="Trump calls on DOJ to investigate Jeffrey Epstein&#x27;s relationship with political figures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-epstein-bondi-clinton-larry-summers-reid-hoffman-jpmorgan-chase-rcna243971" target="_blank">Trump calls on DOJ to investigate Jeffrey Epstein&#x27;s relationship with political figures</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-14 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5607041/wooly-mammoth-oldest-rna-yuka" target="_blank">Scientists pull ancient RNA from a wooly mammoth&#x27;s body</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-14 16:41</span>
             </div>
         </div>
 </div>
@@ -162,6 +161,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ko5dyzg0190crokh6j3.png" alt="Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imdj/building-logic-apps-locally-with-vs-code-http-blob-queue-more-1agj" target="_blank">Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-AMDGPU-GCN-1.0-1.1" target="_blank">AMD GCN 1.0/1.1 GPUs Will Default To AMDGPU Driver In Linux 6.19, SMART POWER OLED Added</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-14 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18755089&w=600" alt="5 Agent CI/CD Evaluation Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/5-agent-cicd-evaluation-best-practices" target="_blank">5 Agent CI/CD Evaluation Best Practices</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-14 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752676&w=600" alt="Spectre and Meltdown: How Modern CPUs Traded Security for Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -188,33 +214,6 @@
                 <span class="time">2025-11-14 17:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/" target="_blank">Unlocking the full power of Copilot code review: Master your instructions files</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-14 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752638&w=600" alt="Best Practices for Migrating Data From Legacy Systems With AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-data-migration-legacy-systems" target="_blank">Best Practices for Migrating Data From Legacy Systems With AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-14 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Thunderbird-145.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 145 Adds Microsoft Exchange Support + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/thunderbird-145-microsoft-exchange-support-ews" target="_blank">Thunderbird 145 Adds Microsoft Exchange Support + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-14 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/star-trek-klingon-empire-high-council-1280x853.jpg" alt="How Do You Run a Klingon Empire?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/klingon-empire-structure-houses-explained-star-trek-2000685616" target="_blank">How Do You Run a Klingon Empire?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-14 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/04/30bec5b7bff1e5e7ba3937d3ce3e3986-e1763147970689-1280x853.jpg" alt="First Central Bank in Europe Buys Bitcoin Months After ECB President Said It Would Never Enter Reserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/vine-is-back?utm_medium=RSS" target="_blank">Vine Is Back</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-14 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/kangaroo.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Rush hour gets weird when a giant kangaroo joins the commute" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/14/rush-hour-gets-weird-when-a-giant-kangaroo-joins-the-commute.html" target="_blank">Rush hour gets weird when a giant kangaroo joins the commute</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-14 17:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
