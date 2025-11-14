@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 21:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-11-14 22:01:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Friday, November 14, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-162749548-500x500.jpg" alt="US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/" target="_blank">US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-14 21:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -146,20 +156,20 @@
                 <span class="time">2025-11-14 18:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/" target="_blank">OpenAI says it’s fixed ChatGPT’s em dash problem</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-14 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcmp9xts5akt73exwdckr.png" alt="Self-Propelled Missiles: How To Find and Work with High Achievers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903" target="_blank">Self-Propelled Missiles: How To Find and Work with High Achievers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ko5dyzg0190crokh6j3.png" alt="Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +215,6 @@
                 <span class="time">2025-11-14 18:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9" target="_blank">Build Your Own AI-Powered Resume Builder Using Next.js, React 19 &amp; Gemini AI (Full Source Code)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-14 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/war-between-sea-devils-1280x853.jpg" alt="Disney and the BBC’s Disintegrated ‘Doctor Who’ Deal Is Leaving Its Spinoff in Limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-war-between-land-and-sea-release-date-usa-disney-2000686264" target="_blank">Disney and the BBC’s Disintegrated ‘Doctor Who’ Deal Is Leaving Its Spinoff in Limbo</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-14 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/helmetmain-1280x720.jpg" alt="Arc Raiders: The Best Cheat Sheets And Third-Party Resources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-cheat-sheet-crafting-guns-ardb-wiki-2000644449" target="_blank">Arc Raiders: The Best Cheat Sheets And Third-Party Resources</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-14 21:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/star-trek-klingon-empire-high-council-1280x853.jpg" alt="How Do You Run a Klingon Empire?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/upways-black-friday-event-takes-up-to-1000-off-already-discounted-e-bikes-from-the-1-marketplace-in-the-us-2000685685" target="_blank">Upway’s Black Friday Event Takes Up to $1,000 Off Already-Discounted E-Bikes From the #1 Marketplace in the US</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-14 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/09/1a1fc806040c81dfd6f630ba3059dab5-1280x720.jpg" alt="Against All Odds, Concord Is Playable Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/concord-servers-delisted-shutdown-revive-fan-modders-2000644390" target="_blank">Against All Odds, Concord Is Playable Again</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-14 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KA1HDKCC663PHG58YMF63KF9/hero-image.jpg" alt="Vine Is Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/vine-is-back?utm_medium=RSS" target="_blank">Vine Is Back</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-14 17:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
