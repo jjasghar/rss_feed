@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 16:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 17:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/14/anger-south-africa-plane-palestinians-held-12-hours" target="_blank">South Africa to investigate ‘mysterious’ arrival of 153 Palestinians on plane</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-14 16:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +99,20 @@
                 <span class="time">2025-11-14 13:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/14/g-s1-97813/up-first-newsletter-white-house-epstein-charlotte-federal-agents-trump-economy" target="_blank">Trump to address the affordability issue. And, Border Patrol heading to Charlotte</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-14 12:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/" target="_blank">German court rules Google must pay €572M for violating antitrust rules in price comparison sector</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-14 15:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +158,20 @@
                 <span class="time">2025-11-14 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-500x500.jpg" alt="Researchers question Anthropic claim that AI-assisted attack was 90% autonomous" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/" target="_blank">Researchers question Anthropic claim that AI-assisted attack was 90% autonomous</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-14 12:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752099&w=600" alt="How the Craft of Software Engineering is Evolving With AI Advancement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-evolving-crafts-of-software-engineering-with-a" target="_blank">How the Craft of Software Engineering is Evolving With AI Advancement</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-14 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwlijco93ar008mb6e4tk.png" alt="Things I Wish I Knew as a Fresher Developer on My First Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +217,6 @@
                 <span class="time">2025-11-14 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/mozilla-ai-window-plans/" target="_blank">Mozilla Unveils Plans for New &#x27;AI Window&#x27; Browsing Mode in Firefox, Opens Signups</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-14 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/lonestartick-1280x853.jpg" alt="Man Dies From Burger in First Death Linked to Meat Allergy Spread by Ticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/man-dies-from-burger-in-first-death-linked-to-meat-allergy-spread-by-ticks-2000686031" target="_blank">Man Dies From Burger in First Death Linked to Meat Allergy Spread by Ticks</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-14 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/tp-link-mesh-1280x853.jpg" alt="TP-Link Dual-Band WiFi 7 (3-Pack) Is Practically Pennies Per Unit, the Cheapest Way to Upgrade Your Whole Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tp-link-deco-be25-wifi-7-3-pack-drops-by-70-now-going-for-less-than-67-each-2000644071" target="_blank">TP-Link Dual-Band WiFi 7 (3-Pack) Is Practically Pennies Per Unit, the Cheapest Way to Upgrade Your Whole Home</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-14 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="Immigrant BU student claims credit for ICE raid on car wash workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/14/immigrant-bu-student-claims-credit-for-ice-raid-on-car-wash-workers.html" target="_blank">Immigrant BU student claims credit for ICE raid on car wash workers</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-14 16:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_plane-1-1280x853.jpg" alt="Carol’s Rant on This Week’s ‘Pluribus’ Suggests Yet Another Meaning Behind the Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,38 +290,20 @@
                 <span class="time">2025-11-14 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/IMG_0388-1280x720.jpg" alt="Pokémon Legends: Z-A Has A Cheating Problem And Players Are Helpless To Stop It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-hacker-cheater-earthquake-ban-2000644326" target="_blank">Pokémon Legends: Z-A Has A Cheating Problem And Players Are Helpless To Stop It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-14 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/shutterstock_309890969.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Dog shoots owner in back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/14/dog-shoots-owner-in-back.html" target="_blank">Dog shoots owner in back</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-14 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HG59XD2TAXGTANBW7PTWF/hero-image.jpg" alt="How to Talk to a Real Human in Customer Service (and Get What You Want)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-talk-to-a-real-human-in-customer-service?utm_medium=RSS" target="_blank">How to Talk to a Real Human in Customer Service (and Get What You Want)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-14 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763094803-20251114.png" alt="Saturday Morning Breakfast Cereal - Conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/conspiracy-2" target="_blank">Saturday Morning Breakfast Cereal - Conspiracy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-14 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -325,22 +331,13 @@
                 <span class="time">2025-11-13 18:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1762999760-20251113.png" alt="Saturday Morning Breakfast Cereal - Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/performance-2" target="_blank">Saturday Morning Breakfast Cereal - Performance</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-13 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
