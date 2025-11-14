@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 10:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 11:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/8f858890-c146-11f0-86a5-23e8532eb2d7.jpg" alt="Reeves decides against raising income tax rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss" target="_blank">Reeves decides against raising income tax rates</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-14 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/14/jack-della-maddalena-backs-himself-to-beat-ufc-legend-islam-makhachev?traffic_source=rss" target="_blank">Jack Della Maddalena backs himself to beat UFC ‘legend’ Islam Makhachev</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-14 09:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/622d/live/e33074c0-c130-11f0-8456-eff94716b162.jpg" alt="Four killed in wave of Russian strikes across Kyiv, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +97,20 @@
                 <span class="time">2025-11-14 06:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/14/ivory-coast-boosts-border-defence-due-to-unusual-flow-of-malian-refugees?traffic_source=rss" target="_blank">Ivory Coast boosts border defence due to ‘unusual flow’ of Malian refugees</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/14/cuban-authorities-battle-wave-of-mosquito-borne-illnesses?traffic_source=rss" target="_blank">Cuban authorities battle wave of mosquito-borne illnesses</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 02:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/14/chatgpt-launches-pilot-group-chats-across-japan-new-zealand-south-korea-and-taiwan/" target="_blank">ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-14 10:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Blue Apron Coupon &amp; Promo Codes: $25 Off | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +156,47 @@
                 <span class="time">2025-11-13 23:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-13 22:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-Considers-KMSCON" target="_blank">Fedora 44 Looking At Replacing FBCON With KMSCON As Default VT Console</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-14 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/google-suncatcher-space/en/headerimage/generatedHeaderImage-1762956038069.jpg" alt="Google Unveils Project Suncatcher, Envisioning AI Models Running in Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/google-suncatcher-space/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Unveils Project Suncatcher, Envisioning AI Models Running in Space</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-14 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rockyessel/the-collapse-of-the-web-the-sameness-death-of-difference-in-tech-2gkg" target="_blank">The Collapse of the Web: The Sameness &amp; Death of Difference in Tech</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/ubuntu-15-year-support-commitment/" target="_blank">Ubuntu&#x27;s New 15-Year Commitment Targets Long-Lived Enterprise Systems</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-14 10:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt=".NET 10 Officially Released with Major Performance, AI, and Developer Experience Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,42 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/reducing-false-positives-retrieval-augmented-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Reducing False Positives in Retrieval-Augmented Generation (RAG) Semantic Caching: A Banking Case Study</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/" target="_blank">The fastest agent in the race has the best evals</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-14 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/a-cisos-preview-of-open-source-and-cybersecurity-trends-in-2026-and-beyond" target="_blank">A CISO’s preview of open source and cybersecurity trends in 2026 and beyond</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-14 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nazanin_ashrafi/getting-marimo-up-and-running-on-windows-with-uv-4982" target="_blank">Getting Marimo Up and Running on Windows with uv</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-14 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beachone1155/nextjsdeqiitafeng-nojian-chu-siankarinkuwoshi-zhuang-surufang-fa-bkj" target="_blank">Next.jsでQiita風の見出しアンカーリンクを実装する方法</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-14 05:50</span>
             </div>
         </div>
 </div>
@@ -339,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
