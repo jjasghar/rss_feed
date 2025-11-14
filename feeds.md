@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 19:01:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-14 20:01:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5601054/kansas-redistricting-republican-trump" target="_blank">In Kansas and elsewhere, some state lawmakers are skeptical of the redistricting rush</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-14 19:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-01-gty-jef-251114_1763123873886_hpMain_4x3t_384.jpg" alt="Trump calls for DOJ probe into other Epstein ties, including Clinton" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2025-11-14 16:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/14/anger-south-africa-plane-palestinians-held-12-hours" target="_blank">South Africa to investigate ‘mysterious’ arrival of 153 Palestinians on plane</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-14 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked" target="_blank">A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-14 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Credit-Emme-Hall-500x500.jpg" alt="What’s it like to compete in the longest US off-road rally with no GPS?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/11/i-drove-for-over-2000-kilometers-off-road-without-gps-in-the-rebelle-rally/" target="_blank">What’s it like to compete in the longest US off-road rally with no GPS?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-14 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2246100870-500x500.jpg" alt="Three astronauts are stuck on China’s space station without a safe ride home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +156,29 @@
                 <span class="time">2025-11-14 17:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691232dd8a1f796e4ba188d1/master/pass/Backchannel-Bradley-Tusk-Vote-on-Phones-Business-2184035350.jpg" alt="Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/" target="_blank">Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-14 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/" target="_blank">German court rules Google must pay €572M for violating antitrust rules in price comparison sector</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-14 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752676&w=600" alt="Spectre and Meltdown: How Modern CPUs Traded Security for Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/modern-cpu-security-vs-performance" target="_blank">Spectre and Meltdown: How Modern CPUs Traded Security for Speed</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://clocks.brianmoore.com/" target="_blank">AI World Clocks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-14 18:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9" target="_blank">Build Your Own AI-Powered Resume Builder Using Next.js, React 19 &amp; Gemini AI (Full Source Code)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-14 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/" target="_blank">Unlocking the full power of Copilot code review: Master your instructions files</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-14 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -181,39 +207,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752099&w=600" alt="How the Craft of Software Engineering is Evolving With AI Advancement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/Thunderbird-145.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 145 Adds Microsoft Exchange Support + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-evolving-crafts-of-software-engineering-with-a" target="_blank">How the Craft of Software Engineering is Evolving With AI Advancement</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwlijco93ar008mb6e4tk.png" alt="Things I Wish I Knew as a Fresher Developer on My First Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manishsahu001/things-i-wish-i-knew-as-a-fresher-developer-on-my-first-project-4bjl" target="_blank">Things I Wish I Knew as a Fresher Developer on My First Project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-14 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/monzo-real-time-fraud-detection/en/headerimage/generatedHeaderImage-1762726203547.jpg" alt="Monzo’s Real-Time Fraud Detection Architecture with BigQuery and Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/monzo-real-time-fraud-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Monzo’s Real-Time Fraud Detection Architecture with BigQuery and Microservices</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elanatframework/intelligent-request-queue-management-in-webforms-core-2-32jk" target="_blank">Intelligent Request Queue Management in WebForms Core 2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-14 14:55</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/thunderbird-145-microsoft-exchange-support-ews" target="_blank">Thunderbird 145 Adds Microsoft Exchange Support + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-14 16:04</span>
             </div>
         </div>
 </div>
@@ -235,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/04/30bec5b7bff1e5e7ba3937d3ce3e3986-e1763147970689-1280x853.jpg" alt="First Central Bank in Europe Buys Bitcoin Months After ECB President Said It Would Never Enter Reserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/first-central-bank-in-europe-buys-bitcoin-months-after-ecb-president-said-it-would-never-enter-reserves-2000686220" target="_blank">First Central Bank in Europe Buys Bitcoin Months After ECB President Said It Would Never Enter Reserves</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-14 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2021/11/6d106ff15135f5908f2d69264d081d42-1280x720.jpg" alt="A New Splinter Cell Was In Development Until Ubisoft Spiked It To Make A Live-Service Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-new-splinter-cell-was-in-development-until-ubisoft-spiked-it-to-make-a-live-service-game-2000644414" target="_blank">A New Splinter Cell Was In Development Until Ubisoft Spiked It To Make A Live-Service Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-14 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/1S44P9z3Sv5ugIj3uERGuLbkNkBR_sKX-1.jpg" alt="Upway’s Black Friday Event Takes Up to $1,000 Off Already-Discounted E-Bikes From the #1 Marketplace in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/14/rush-hour-gets-weird-when-a-giant-kangaroo-joins-the-commute.html" target="_blank">Rush hour gets weird when a giant kangaroo joins the commute</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-14 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/lonestartick-1280x853.jpg" alt="Man Dies From Burger in First Death Linked to Meat Allergy Spread by Ticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/man-dies-from-burger-in-first-death-linked-to-meat-allergy-spread-by-ticks-2000686031" target="_blank">Man Dies From Burger in First Death Linked to Meat Allergy Spread by Ticks</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-14 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/tp-link-mesh-1280x853.jpg" alt="TP-Link Dual-Band WiFi 7 (3-Pack) Is Practically Pennies Per Unit, the Cheapest Way to Upgrade Your Whole Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tp-link-deco-be25-wifi-7-3-pack-drops-by-70-now-going-for-less-than-67-each-2000644071" target="_blank">TP-Link Dual-Band WiFi 7 (3-Pack) Is Practically Pennies Per Unit, the Cheapest Way to Upgrade Your Whole Home</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-14 16:45</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
