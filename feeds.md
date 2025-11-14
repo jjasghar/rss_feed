@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 17:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 18:02:21 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 14 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Friday, November 14, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/14/ukraines-kyiv-pounded-by-hundreds-of-russian-drones?traffic_source=rss" target="_blank">Ukraine’s Kyiv pounded by hundreds of Russian drones</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-14 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251113-donald-trump-es-c097c9.jpg" alt="Trump calls on DOJ to investigate Jeffrey Epstein&#x27;s relationship with political figures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-epstein-bondi-clinton-larry-summers-reid-hoffman-jpmorgan-chase-rcna243971" target="_blank">Trump calls on DOJ to investigate Jeffrey Epstein&#x27;s relationship with political figures</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-14 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5607041/wooly-mammoth-oldest-rna-yuka" target="_blank">Scientists pull ancient RNA from a wooly mammoth&#x27;s body</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-14 16:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +100,29 @@
                 <span class="time">2025-11-14 14:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5608969/federal-employees-shutdown-trump-leave" target="_blank">She criticized President Trump during the shutdown. Now she&#x27;s been put on leave</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-14 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jeffrey-epstein-ap-jef-251113_1763049561639_hpMain_2_4x3t_384.jpg" alt="Epstein appeared to offer political advice on dealing with Trump in 2018: Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/epstein-appeared-offer-political-advice-dealing-trump-2018/story?id=127508907" target="_blank">Epstein appeared to offer political advice on dealing with Trump in 2018: Emails</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-14 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/8f858890-c146-11f0-86a5-23e8532eb2d7.jpg" alt="Reeves backs off from proposals to raise income tax rates in Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss" target="_blank">Reeves backs off from proposals to raise income tax rates in Budget</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-14 13:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/" target="_blank">OpenAI says it’s fixed ChatGPT’s em dash problem</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-14 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691232dd8a1f796e4ba188d1/master/pass/Backchannel-Bradley-Tusk-Vote-on-Phones-Business-2184035350.jpg" alt="Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/" target="_blank">Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +159,29 @@
                 <span class="time">2025-11-14 14:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11-500x500.jpg" alt="Blue Origin caps second heavy-lift launch with first offshore landing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/blue-origin-caps-second-heavy-lift-launch-with-first-offshore-landing/" target="_blank">Blue Origin caps second heavy-lift launch with first offshore landing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-14 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/14/tiktok-users-can-now-share-tracks-and-more-from-amazon-music/" target="_blank">TikTok users can now share tracks and more from Amazon Music</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-14 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9" target="_blank">Build Your Own AI-Powered Resume Builder Using Next.js, React 19 &amp; Gemini AI (Full Source Code)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752638&w=600" alt="Best Practices for Migrating Data From Legacy Systems With AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-data-migration-legacy-systems" target="_blank">Best Practices for Migrating Data From Legacy Systems With AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752099&w=600" alt="How the Craft of Software Engineering is Evolving With AI Advancement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2025-11-14 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Nouveau-Larger-Pages" target="_blank">Nouveau Driver To Support Larger Pages &amp; Compression Support With Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-14 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18749327&w=600" alt="Exploring MCP, A2A, and Functional Calling: The Modern Innovations for Enterprise LLM Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/exploring-mcp-a2a-and-functional-calling-the-moder" target="_blank">Exploring MCP, A2A, and Functional Calling: The Modern Innovations for Enterprise LLM Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-14 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/1S44P9z3Sv5ugIj3uERGuLbkNkBR_sKX-1.jpg" alt="Upway’s Black Friday Event Takes Up to $1,000 Off Already-Discounted E-Bikes From the #1 Marketplace in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/upways-black-friday-event-takes-up-to-1000-off-already-discounted-e-bikes-from-the-1-marketplace-in-the-us-2000685685" target="_blank">Upway’s Black Friday Event Takes Up to $1,000 Off Already-Discounted E-Bikes From the #1 Marketplace in the US</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-14 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/09/1a1fc806040c81dfd6f630ba3059dab5-1280x720.jpg" alt="Against All Odds, Concord Is Playable Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/concord-servers-delisted-shutdown-revive-fan-modders-2000644390" target="_blank">Against All Odds, Concord Is Playable Again</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-14 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KA1HDKCC663PHG58YMF63KF9/hero-image.jpg" alt="Vine Is Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/vine-is-back?utm_medium=RSS" target="_blank">Vine Is Back</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-14 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/kangaroo.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Rush hour gets weird when a giant kangaroo joins the commute" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/14/rush-hour-gets-weird-when-a-giant-kangaroo-joins-the-commute.html" target="_blank">Rush hour gets weird when a giant kangaroo joins the commute</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-14 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/lonestartick-1280x853.jpg" alt="Man Dies From Burger in First Death Linked to Meat Allergy Spread by Ticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -254,47 +291,20 @@
                 <span class="time">2025-11-14 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="Immigrant BU student claims credit for ICE raid on car wash workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/14/immigrant-bu-student-claims-credit-for-ice-raid-on-car-wash-workers.html" target="_blank">Immigrant BU student claims credit for ICE raid on car wash workers</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-14 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_plane-1-1280x853.jpg" alt="Carol’s Rant on This Week’s ‘Pluribus’ Suggests Yet Another Meaning Behind the Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pluribus-episode-3-spoilers-carol-influencers-2000684414" target="_blank">Carol’s Rant on This Week’s ‘Pluribus’ Suggests Yet Another Meaning Behind the Show</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/blops7main-1280x720.jpg" alt="Surprise: Call Of Duty: Black Ops 7′s Campaign Is Multiplayer-Only And Doesn’t Let You Pause" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cod-blops-7-campaign-coop-always-online-pause-co-op-xp-challenges-2000644358" target="_blank">Surprise: Call Of Duty: Black Ops 7′s Campaign Is Multiplayer-Only And Doesn’t Let You Pause</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KA1DP8B52AA52F7Z8RWAPJJP/hero-image.png" alt="The Garmin Forerunner 265 and 965 Have Never Been Priced This Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/the-garmin-forerunner-265-and-965-have-never-been-priced-this-low?utm_medium=RSS" target="_blank">The Garmin Forerunner 265 and 965 Have Never Been Priced This Low</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-14 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/nobody-worry-2/" target="_blank">Nobody Worry</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-11-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1763094803-20251114.png" alt="Saturday Morning Breakfast Cereal - Conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -336,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
