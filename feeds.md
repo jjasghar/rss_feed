@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 01:29:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 02:30:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +113,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey" target="_blank">What insiders anonymously think about the AI race</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-14 02:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-837481992-500x500.jpg" alt="This flu season looks grim as H3N2 emerges with mutations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -148,20 +166,38 @@
                 <span class="time">2025-11-13 21:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/" target="_blank">Blue Origin sticks first New Glenn rocket landing and launches NASA spacecraft</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-13 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s85unei5j12k4andm7c.png" alt="In-Depth Comparison of LoRaWAN Network Servers: ThinkLink, TTS, ChirpStack, Loriot, and Actility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manthink/in-depth-comparison-of-lorawan-network-servers-thinklink-tts-chirpstack-loriot-and-actility-45l8" target="_blank">In-Depth Comparison of LoRaWAN Network Servers: ThinkLink, TTS, ChirpStack, Loriot, and Actility</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 02:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/ffmpeg-google-fiasco/" target="_blank">FFmpeg Calls Google&#x27;s AI Bug Reports &quot;CVE Slop&quot;</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-14 01:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/EROFS-Gains-Extra-Reviewer" target="_blank">EROFS File-System Continues Attracting More Industry Players</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-14 01:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="When AI Outpaces the Rulebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Proton-10.0-3-Released" target="_blank">Proton 10.0-3 Released For Steam Play With Dozens Of Fixes, More Games Working</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-13 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft8664paavztyh4tf2ypi.png" alt="Why Developers Need Automated Brag Docs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nataliaherself/why-developers-need-automated-brag-docs-1gko" target="_blank">Why Developers Need Automated Brag Docs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohammedbencheikh/introducing-router-kit-a-lightweight-eco-friendly-react-router-for-simple-routing-needs-1aaj" target="_blank">🚀 Introducing Router-Kit a lightweight, eco-friendly React router for simple routing needs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18748518&w=600" alt="Databricks vs. Snowflake: Complete Architecture Mapping for Enterprise AI and Big Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/big-data-and-ai-architecture-comparing-databricks" target="_blank">Databricks vs. Snowflake: Complete Architecture Mapping for Enterprise AI and Big Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-13 20:00</span>
             </div>
         </div>
 </div>
@@ -290,12 +299,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Beats-Fit-Pro-Earbuds.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Lock in with noise-cancelling Beats Earbuds for less" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Sales We’ve Found, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-13 21:16</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/13/lock-in-with-noise-cancelling-beats-earbuds-for-less.html" target="_blank">Lock in with noise-cancelling Beats Earbuds for less</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-13 22:00</span>
             </div>
         </div>
 </div>
@@ -303,6 +312,15 @@
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5701.png" alt="Needs Better Soundproofing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5701" target="_blank">Needs Better Soundproofing</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-14 01:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -326,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
